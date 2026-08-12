@@ -184,7 +184,8 @@ PostOp/
 ├── README.md                 ← este archivo
 ├── docs/
 │   ├── diagrama-arquitectura.md
-│   └── informe-final.md
+│   ├── informe-final.md
+│   └── guion-video.md         ← guion para grabar el demo + las 2 preguntas de cierre
 ├── index.html                 (versión anterior, sin consola de conocimiento — no es la entrega)
 └── corpus.json                (corpus fuente sin empaquetar, referencia)
 ```
