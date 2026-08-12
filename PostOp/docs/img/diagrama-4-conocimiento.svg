@@ -1,0 +1,157 @@
+<svg viewBox="0 0 1400 780" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Compuerta 5 — conocimiento vivo</title>
+<desc>Ciclo de aprender y olvidar documentos en caliente: subir un documento lo hace recuperable de inmediato, retirarlo lo hace desaparecer de inmediato.</desc>
+<defs>
+  <radialGradient id="bg4" cx="50%" cy="0%" r="100%">
+    <stop offset="0%" stop-color="#132542"/>
+    <stop offset="100%" stop-color="#060b16"/>
+  </radialGradient>
+  <marker id="arr4g" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#38f0b0"/>
+  </marker>
+  <marker id="arr4r" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#ff6b8b"/>
+  </marker>
+  <marker id="arr4n" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#3a5a86"/>
+  </marker>
+  <symbol id="s-upload" viewBox="0 0 64 64">
+    <path d="M32 44 V12 M20 24 L32 12 L44 24" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12 46 v6 a4 4 0 0 0 4 4 h32 a4 4 0 0 0 4 -4 v-6" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+  <symbol id="s-trash" viewBox="0 0 64 64">
+    <path d="M14 18 h36 M26 18 v-6 h12 v6 M18 18 l3 36 a3 3 0 0 0 3 3 h16 a3 3 0 0 0 3 -3 l3 -36" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="26" y1="27" x2="27" y2="47" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    <line x1="38" y1="27" x2="37" y2="47" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="s-scissors" viewBox="0 0 64 64">
+    <circle cx="16" cy="16" r="8" fill="none" stroke="currentColor" stroke-width="4"/>
+    <circle cx="16" cy="48" r="8" fill="none" stroke="currentColor" stroke-width="4"/>
+    <path d="M22 20 L54 44 M22 44 L54 20" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="s-index" viewBox="0 0 64 64">
+    <rect x="10" y="10" width="44" height="44" rx="6" fill="none" stroke="currentColor" stroke-width="4"/>
+    <line x1="10" y1="26" x2="54" y2="26" stroke="currentColor" stroke-width="3.5"/>
+    <line x1="26" y1="26" x2="26" y2="54" stroke="currentColor" stroke-width="3.5"/>
+    <line x1="40" y1="26" x2="40" y2="54" stroke="currentColor" stroke-width="3.5"/>
+  </symbol>
+  <symbol id="s-check" viewBox="0 0 64 64">
+    <circle cx="32" cy="32" r="26" fill="none" stroke="currentColor" stroke-width="4"/>
+    <path d="M20 33 l9 9 l16 -19" fill="none" stroke="currentColor" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+  <symbol id="s-cross" viewBox="0 0 64 64">
+    <circle cx="32" cy="32" r="26" fill="none" stroke="currentColor" stroke-width="4"/>
+    <path d="M22 22 L42 42 M42 22 L22 42" stroke="currentColor" stroke-width="4.5" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="s-kb" viewBox="0 0 64 64">
+    <rect x="8" y="16" width="34" height="40" rx="3" fill="none" stroke="currentColor" stroke-width="4" transform="rotate(-8 25 36)"/>
+    <rect x="16" y="10" width="34" height="40" rx="3" fill="#0b1a2c" stroke="currentColor" stroke-width="4"/>
+    <line x1="23" y1="20" x2="43" y2="20" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    <line x1="23" y1="28" x2="43" y2="28" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    <line x1="23" y1="36" x2="36" y2="36" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  </symbol>
+</defs>
+
+<rect width="1400" height="780" fill="url(#bg4)"/>
+<text x="60" y="56" font-family="'Segoe UI',system-ui,sans-serif" font-size="30" font-weight="700" fill="#eaf6ff">Compuerta 5 — conocimiento vivo</text>
+<text x="60" y="84" font-family="'Segoe UI',system-ui,sans-serif" font-size="16" fill="#7fa3c9">Subir lo hace recuperable de inmediato · retirar lo hace olvidado de inmediato</text>
+
+<!-- central KB -->
+<g transform="translate(700,390)">
+  <circle r="82" fill="#0e2038" stroke="#2fe3ff" stroke-width="2.5"/>
+  <use href="#s-kb" x="-30" y="-52" width="60" height="60" color="#2fe3ff"/>
+  <text x="0" y="28" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="14" font-weight="700" fill="#eaf6ff">KB</text>
+  <text x="0" y="46" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#7fa3c9">índice BM25</text>
+</g>
+
+<!-- top flow: aprende -->
+<text x="80" y="160" font-family="'Segoe UI',system-ui,sans-serif" font-size="16" font-weight="700" fill="#38f0b0">↗ Aprende</text>
+<line x1="80" y1="200" x2="620" y2="200" stroke="#204a3a" stroke-width="3" stroke-linecap="round" marker-end="url(#arr4n)"/>
+
+<g transform="translate(110,200)">
+  <circle r="28" fill="#0e2038" stroke="#38f0b0" stroke-width="2.5"/>
+  <use href="#s-upload" x="-16" y="-16" width="32" height="32" color="#38f0b0"/>
+  <text x="0" y="-40" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" font-weight="700" fill="#eaf6ff">Subir documento</text>
+  <text x="0" y="48" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10.5" fill="#7fa3c9">.txt / .md o texto pegado</text>
+</g>
+
+<g transform="translate(280,200)">
+  <rect x="-80" y="-24" width="160" height="48" rx="10" fill="#0f1e34" stroke="#2a4569" stroke-width="1.5"/>
+  <text x="0" y="-4" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" font-weight="700" fill="#eaf6ff">ingerir()</text>
+  <text x="0" y="14" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#7fa3c9">doc_id, título, texto, kind</text>
+</g>
+
+<g transform="translate(440,200)">
+  <circle r="28" fill="#0e2038" stroke="#38f0b0" stroke-width="2.5"/>
+  <use href="#s-scissors" x="-16" y="-16" width="32" height="32" color="#38f0b0"/>
+  <text x="0" y="-40" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" font-weight="700" fill="#eaf6ff">Trocea</text>
+  <text x="0" y="48" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10.5" fill="#7fa3c9">piso de 500 caracteres</text>
+</g>
+
+<line x1="700" y1="200" x2="700" y2="310" stroke="#204a3a" stroke-width="3" marker-end="url(#arr4g)"/>
+<g transform="translate(700,150)">
+  <circle r="28" fill="#0e2038" stroke="#38f0b0" stroke-width="2.5"/>
+  <use href="#s-index" x="-16" y="-16" width="32" height="32" color="#38f0b0"/>
+  <text x="0" y="-40" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" font-weight="700" fill="#eaf6ff">indexar()</text>
+  <text x="0" y="48" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10.5" fill="#7fa3c9">tf, df, idf, avgdl</text>
+</g>
+<line x1="510" y1="200" x2="672" y2="163" stroke="#204a3a" stroke-width="3" marker-end="url(#arr4n)"/>
+
+<g transform="translate(960,200)">
+  <circle r="30" fill="#132a1f" stroke="#38f0b0" stroke-width="2.5"/>
+  <use href="#s-check" x="-17" y="-17" width="34" height="34" color="#38f0b0"/>
+  <text x="0" y="-42" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" font-weight="700" fill="#38f0b0">✓ procesado</text>
+  <text x="0" y="-27" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" font-weight="700" fill="#38f0b0">y disponible</text>
+  <text x="0" y="50" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10.5" fill="#7fa3c9">visible en la lista de la consola</text>
+</g>
+<line x1="782" y1="360" x2="930" y2="220" stroke="#204a3a" stroke-width="3" marker-end="url(#arr4g)"/>
+
+<g transform="translate(1230,200)">
+  <rect x="-140" y="-30" width="280" height="60" rx="10" fill="#0f1e34" stroke="#38f0b0" stroke-width="1.5"/>
+  <text x="0" y="-6" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" font-weight="700" fill="#eaf6ff">El siguiente recuperar()</text>
+  <text x="0" y="14" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" font-weight="700" fill="#eaf6ff">ya lo encuentra</text>
+</g>
+<line x1="990" y1="200" x2="1088" y2="200" stroke="#204a3a" stroke-width="3" marker-end="url(#arr4g)"/>
+
+<!-- bottom flow: olvida -->
+<text x="80" y="600" font-family="'Segoe UI',system-ui,sans-serif" font-size="16" font-weight="700" fill="#ff6b8b">↘ Olvida</text>
+<line x1="80" y1="580" x2="620" y2="580" stroke="#3a1f28" stroke-width="3" stroke-linecap="round" marker-end="url(#arr4n)"/>
+
+<g transform="translate(110,580)">
+  <circle r="28" fill="#0e2038" stroke="#ff6b8b" stroke-width="2.5"/>
+  <use href="#s-trash" x="-16" y="-16" width="32" height="32" color="#ff6b8b"/>
+  <text x="0" y="-40" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" font-weight="700" fill="#eaf6ff">Retirar</text>
+  <text x="0" y="48" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10.5" fill="#7fa3c9">botón en la consola</text>
+</g>
+
+<g transform="translate(280,580)">
+  <rect x="-90" y="-24" width="180" height="48" rx="10" fill="#0f1e34" stroke="#2a4569" stroke-width="1.5"/>
+  <text x="0" y="-4" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" font-weight="700" fill="#eaf6ff">retirarDoc(doc_id)</text>
+  <text x="0" y="14" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#7fa3c9">sale de KB.docs y KB.frags</text>
+</g>
+
+<line x1="700" y1="580" x2="700" y2="472" stroke="#3a1f28" stroke-width="3" marker-end="url(#arr4r)"/>
+<g transform="translate(700,630)">
+  <circle r="28" fill="#0e2038" stroke="#ff6b8b" stroke-width="2.5"/>
+  <use href="#s-index" x="-16" y="-16" width="32" height="32" color="#ff6b8b"/>
+  <text x="0" y="46" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" font-weight="700" fill="#eaf6ff">indexar() de nuevo</text>
+</g>
+<line x1="470" y1="580" x2="672" y2="617" stroke="#3a1f28" stroke-width="3" marker-end="url(#arr4n)"/>
+
+<g transform="translate(960,580)">
+  <circle r="30" fill="#2a1420" stroke="#ff6b8b" stroke-width="2.5"/>
+  <use href="#s-cross" x="-17" y="-17" width="34" height="34" color="#ff6b8b"/>
+  <text x="0" y="48" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" font-weight="700" fill="#ff6b8b">olvidado</text>
+</g>
+<line x1="782" y1="420" x2="930" y2="562" stroke="#3a1f28" stroke-width="3" marker-end="url(#arr4r)"/>
+
+<g transform="translate(1230,580)">
+  <rect x="-140" y="-30" width="280" height="60" rx="10" fill="#0f1e34" stroke="#ff6b8b" stroke-width="1.5"/>
+  <text x="0" y="-6" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" font-weight="700" fill="#eaf6ff">El siguiente recuperar()</text>
+  <text x="0" y="14" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" font-weight="700" fill="#eaf6ff">ya NO lo encuentra</text>
+</g>
+<line x1="990" y1="580" x2="1088" y2="580" stroke="#3a1f28" stroke-width="3" marker-end="url(#arr4r)"/>
+
+<rect x="60" y="710" width="1280" height="1" fill="#1c3454"/>
+<text x="60" y="738" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" fill="#7fa3c9">Verificado con un documento sintético fuera de todo corpus entregado ("Cuidado del drenaje quirúrgico Jackson-Pratt"): aparece al subirlo, desaparece al retirarlo. Detalle reproducible en docs/informe-final.md § evidencia.</text>
+</svg>

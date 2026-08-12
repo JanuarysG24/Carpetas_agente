@@ -1,0 +1,143 @@
+<svg viewBox="0 0 1400 620" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Flujo de un turno de conversación — Source Meridian</title>
+<desc>Recorrido de un turno de voz: el paciente habla, se transcribe, se recupera contexto clínico, el modelo responde y se mide la latencia hasta que el agente empieza a hablar.</desc>
+<defs>
+  <radialGradient id="bg2" cx="50%" cy="0%" r="100%">
+    <stop offset="0%" stop-color="#132542"/>
+    <stop offset="100%" stop-color="#060b16"/>
+  </radialGradient>
+  <marker id="arr2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#3a5a86"/>
+  </marker>
+  <symbol id="s-person" viewBox="0 0 64 64">
+    <circle cx="32" cy="20" r="12" fill="none" stroke="currentColor" stroke-width="4"/>
+    <path d="M10 56 a22 20 0 0 1 44 0" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="s-mic" viewBox="0 0 64 64">
+    <rect x="24" y="6" width="16" height="30" rx="8" fill="none" stroke="currentColor" stroke-width="4"/>
+    <path d="M16 28 v4 a16 16 0 0 0 32 0 v-4" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+    <line x1="32" y1="48" x2="32" y2="58" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="s-clock" viewBox="0 0 64 64">
+    <circle cx="32" cy="32" r="24" fill="none" stroke="currentColor" stroke-width="4"/>
+    <path d="M32 18 v14 l10 8" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+  <symbol id="s-cloud" viewBox="0 0 90 60">
+    <path d="M22 55 C8 55 2 46 2 36 C2 26 10 18 20 17 C23 7 33 0 44 0 C57 0 67 9 69 20 C80 21 88 29 88 39 C88 48 80 55 70 55 Z" fill="#0d2138" stroke="currentColor" stroke-width="3.5"/>
+  </symbol>
+  <symbol id="s-search" viewBox="0 0 64 64">
+    <circle cx="27" cy="27" r="16" fill="none" stroke="currentColor" stroke-width="4"/>
+    <line x1="39" y1="39" x2="56" y2="56" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="s-speaker" viewBox="0 0 64 64">
+    <path d="M8 24 h10 l14 -12 v40 l-14 -12 h-10 z" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M40 20 a14 14 0 0 1 0 24" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="s-vote" viewBox="0 0 64 64">
+    <circle cx="22" cy="26" r="14" fill="none" stroke="currentColor" stroke-width="4"/>
+    <circle cx="42" cy="26" r="14" fill="none" stroke="currentColor" stroke-width="4"/>
+    <path d="M14 50 h36" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="s-flag" viewBox="0 0 64 64">
+    <line x1="16" y1="8" x2="16" y2="58" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+    <path d="M16 12 h34 l-10 12 l10 12 h-34 z" fill="currentColor"/>
+  </symbol>
+</defs>
+
+<rect width="1400" height="620" fill="url(#bg2)"/>
+<text x="60" y="56" font-family="'Segoe UI',system-ui,sans-serif" font-size="30" font-weight="700" fill="#eaf6ff">Flujo de un turno de conversación</text>
+<text x="60" y="84" font-family="'Segoe UI',system-ui,sans-serif" font-size="16" fill="#7fa3c9">Del botón de voz a la tarjeta de veredicto — nueve pasos, dos llamadas de red</text>
+
+<!-- main track -->
+<line x1="90" y1="340" x2="1310" y2="340" stroke="#20395a" stroke-width="4" stroke-linecap="round"/>
+
+<!-- latency bracket -->
+<path d="M380 400 v18 h580 v-18" fill="none" stroke="#ffcf5c" stroke-width="2.5"/>
+<text x="670" y="440" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="14" font-weight="700" fill="#ffcf5c">latencia reportada = t1 − t0</text>
+
+<!-- stations -->
+<!-- 1 Paciente -->
+<g transform="translate(90,340)">
+  <circle r="30" fill="#0e2038" stroke="#8d97e8" stroke-width="2.5"/>
+  <use href="#s-person" x="-17" y="-17" width="34" height="34" color="#8d97e8"/>
+  <text x="0" y="-52" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" font-weight="700" fill="#eaf6ff">1 · Paciente habla</text>
+  <text x="0" y="66" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11.5" fill="#7fa3c9">mantiene presionado el botón</text>
+</g>
+
+<!-- 2 grabando -->
+<g transform="translate(235,340)">
+  <circle r="30" fill="#0e2038" stroke="#2fe3ff" stroke-width="2.5"/>
+  <use href="#s-mic" x="-17" y="-17" width="34" height="34" color="#2fe3ff"/>
+  <text x="0" y="66" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" font-weight="700" fill="#eaf6ff">2 · Grabando</text>
+  <text x="0" y="84" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11.5" fill="#7fa3c9">MediaRecorder · estado escuchando</text>
+</g>
+
+<!-- 3 fin de habla t0 -->
+<g transform="translate(380,340)">
+  <circle r="32" fill="#241a12" stroke="#ffcf5c" stroke-width="3"/>
+  <use href="#s-clock" x="-18" y="-18" width="36" height="36" color="#ffcf5c"/>
+  <text x="0" y="-56" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" font-weight="700" fill="#ffcf5c">3 · Suelta el botón</text>
+  <text x="0" y="-40" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" font-weight="700" fill="#ffcf5c">fin de habla — t0</text>
+</g>
+
+<!-- 4 whisper -->
+<g transform="translate(525,340)">
+  <use href="#s-cloud" x="-38" y="-24" width="76" height="50" color="#2fe3ff"/>
+  <text x="0" y="66" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" font-weight="700" fill="#eaf6ff">4 · Whisper transcribe</text>
+  <text x="0" y="84" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11.5" fill="#7fa3c9">POST audio/transcriptions</text>
+</g>
+
+<!-- 5 BM25 -->
+<g transform="translate(670,340)">
+  <circle r="30" fill="#0e2038" stroke="#8d97e8" stroke-width="2.5"/>
+  <use href="#s-search" x="-17" y="-17" width="34" height="34" color="#8d97e8"/>
+  <text x="0" y="-52" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" font-weight="700" fill="#eaf6ff">5 · Motor recupera</text>
+  <text x="0" y="-38" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11.5" fill="#7fa3c9">BM25, k=3 fragmentos, sin red</text>
+</g>
+
+<!-- 6 llama -->
+<g transform="translate(815,340)">
+  <use href="#s-cloud" x="-38" y="-24" width="76" height="50" color="#38f0b0"/>
+  <text x="0" y="66" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" font-weight="700" fill="#eaf6ff">6 · Llama 3.3 70B responde</text>
+  <text x="0" y="84" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11.5" fill="#7fa3c9">system=PROMPT+fragmentos</text>
+</g>
+
+<!-- 7 agente habla t1 -->
+<g transform="translate(960,340)">
+  <circle r="32" fill="#241a12" stroke="#ffcf5c" stroke-width="3"/>
+  <use href="#s-speaker" x="-18" y="-18" width="36" height="36" color="#ffcf5c"/>
+  <text x="0" y="-56" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" font-weight="700" fill="#ffcf5c">7 · Agente empieza a hablar</text>
+  <text x="0" y="-40" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" font-weight="700" fill="#ffcf5c">speechSynthesis.onstart — t1</text>
+</g>
+
+<!-- 8 decision -->
+<g transform="translate(1105,340)">
+  <circle r="30" fill="#0e2038" stroke="#2fe3ff" stroke-width="2.5"/>
+  <use href="#s-vote" x="-17" y="-17" width="34" height="34" color="#2fe3ff"/>
+  <text x="0" y="66" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" font-weight="700" fill="#eaf6ff">8 · Si hay RESUMEN</text>
+  <text x="0" y="84" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11.5" fill="#7fa3c9">extraer() + dos votos</text>
+</g>
+
+<!-- 9 veredicto -->
+<g transform="translate(1250,340)">
+  <circle r="30" fill="#132a1f" stroke="#38f0b0" stroke-width="2.5"/>
+  <use href="#s-flag" x="-15" y="-17" width="30" height="34" color="#38f0b0"/>
+  <text x="0" y="-52" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" font-weight="700" fill="#eaf6ff">9 · Tarjeta de veredicto</text>
+  <text x="0" y="-38" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11.5" fill="#7fa3c9">verde / amarillo / rojo</text>
+</g>
+
+<!-- arrowheads along the track between stations -->
+<g stroke="#3a5a86" stroke-width="0" fill="#3a5a86">
+  <path d="M158 340 l10 -5 v10 z"/>
+  <path d="M303 340 l10 -5 v10 z"/>
+  <path d="M448 340 l10 -5 v10 z"/>
+  <path d="M593 340 l10 -5 v10 z"/>
+  <path d="M738 340 l10 -5 v10 z"/>
+  <path d="M883 340 l10 -5 v10 z"/>
+  <path d="M1028 340 l10 -5 v10 z"/>
+  <path d="M1173 340 l10 -5 v10 z"/>
+</g>
+
+<rect x="60" y="560" width="1280" height="1" fill="#1c3454"/>
+<text x="60" y="588" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" fill="#7fa3c9">La latencia que se reporta en la pestaña Métricas es exactamente el tramo t0→t1: desde que el paciente deja de hablar hasta que el agente empieza a sonar.</text>
+</svg>

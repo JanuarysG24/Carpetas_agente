@@ -1,0 +1,187 @@
+<svg viewBox="0 0 1400 920" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Arquitectura de la solución — Source Meridian</title>
+<desc>Una sola aplicación en el navegador, sin backend propio, con dos salidas de red directas a Groq Cloud para transcripción y chat.</desc>
+<defs>
+  <radialGradient id="bgGlow" cx="30%" cy="10%" r="90%">
+    <stop offset="0%" stop-color="#132542"/>
+    <stop offset="100%" stop-color="#060b16"/>
+  </radialGradient>
+  <linearGradient id="cloudFill" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#123146"/>
+    <stop offset="100%" stop-color="#0b2333"/>
+  </linearGradient>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#2fe3ff"/>
+  </marker>
+  <marker id="arrowP" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#8d97e8"/>
+  </marker>
+
+  <symbol id="ic-mic" viewBox="0 0 64 64">
+    <rect x="24" y="6" width="16" height="30" rx="8" fill="none" stroke="currentColor" stroke-width="4"/>
+    <path d="M16 28 v4 a16 16 0 0 0 32 0 v-4" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+    <line x1="32" y1="48" x2="32" y2="58" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+    <line x1="21" y1="58" x2="43" y2="58" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+  </symbol>
+
+  <symbol id="ic-speaker" viewBox="0 0 64 64">
+    <path d="M8 24 h10 l14 -12 v40 l-14 -12 h-10 z" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M40 20 a14 14 0 0 1 0 24" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+    <path d="M47 12 a24 24 0 0 1 0 40" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+  </symbol>
+
+  <symbol id="ic-chip" viewBox="0 0 64 64">
+    <rect x="14" y="14" width="36" height="36" rx="6" fill="none" stroke="currentColor" stroke-width="4"/>
+    <circle cx="26" cy="28" r="3" fill="currentColor"/>
+    <circle cx="38" cy="28" r="3" fill="currentColor"/>
+    <circle cx="26" cy="40" r="3" fill="currentColor"/>
+    <circle cx="38" cy="40" r="3" fill="currentColor"/>
+    <path d="M26 28 h12 M26 40 h12 M32 28 v12" stroke="currentColor" stroke-width="2.5"/>
+    <g stroke="currentColor" stroke-width="4" stroke-linecap="round">
+      <line x1="4" y1="22" x2="14" y2="22"/><line x1="4" y1="42" x2="14" y2="42"/>
+      <line x1="50" y1="22" x2="60" y2="22"/><line x1="50" y1="42" x2="60" y2="42"/>
+      <line x1="22" y1="4" x2="22" y2="14"/><line x1="42" y1="4" x2="42" y2="14"/>
+      <line x1="22" y1="50" x2="22" y2="60"/><line x1="42" y1="50" x2="42" y2="60"/>
+    </g>
+  </symbol>
+
+  <symbol id="ic-book" viewBox="0 0 64 64">
+    <rect x="8" y="16" width="34" height="40" rx="3" fill="none" stroke="currentColor" stroke-width="4" transform="rotate(-8 25 36)"/>
+    <rect x="16" y="10" width="34" height="40" rx="3" fill="#0b1a2c" stroke="currentColor" stroke-width="4"/>
+    <line x1="23" y1="20" x2="43" y2="20" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    <line x1="23" y1="28" x2="43" y2="28" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    <line x1="23" y1="36" x2="36" y2="36" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  </symbol>
+
+  <symbol id="ic-bars" viewBox="0 0 64 64">
+    <rect x="10" y="34" width="9" height="22" rx="2" fill="currentColor"/>
+    <rect x="27" y="20" width="9" height="36" rx="2" fill="currentColor"/>
+    <rect x="44" y="8" width="9" height="48" rx="2" fill="currentColor"/>
+  </symbol>
+
+  <symbol id="ic-lock" viewBox="0 0 64 64">
+    <rect x="14" y="28" width="36" height="28" rx="5" fill="none" stroke="currentColor" stroke-width="4"/>
+    <path d="M20 28 v-6 a12 12 0 0 1 24 0 v6" fill="none" stroke="currentColor" stroke-width="4"/>
+    <circle cx="32" cy="42" r="4" fill="currentColor"/>
+  </symbol>
+
+  <symbol id="ic-cloud" viewBox="0 0 90 60">
+    <path d="M22 55 C8 55 2 46 2 36 C2 26 10 18 20 17 C23 7 33 0 44 0 C57 0 67 9 69 20 C80 21 88 29 88 39 C88 48 80 55 70 55 Z" fill="url(#cloudFill)" stroke="#2fe3ff" stroke-width="3"/>
+  </symbol>
+</defs>
+
+<rect width="1400" height="920" fill="url(#bgGlow)"/>
+
+<text x="60" y="58" font-family="'Segoe UI',system-ui,sans-serif" font-size="30" font-weight="700" fill="#eaf6ff">Arquitectura de la solución</text>
+<text x="60" y="86" font-family="'Segoe UI',system-ui,sans-serif" font-size="16" fill="#7fa3c9">plantilla-chat-voz.html — un solo archivo, cero backend propio</text>
+
+<!-- Browser window -->
+<rect x="50" y="130" width="820" height="740" rx="18" fill="#0c1b30" stroke="#1c3454" stroke-width="2"/>
+<rect x="50" y="130" width="820" height="46" rx="18" fill="#101f38"/>
+<circle cx="76" cy="153" r="6" fill="#ff6b8b"/>
+<circle cx="96" cy="153" r="6" fill="#ffcf5c"/>
+<circle cx="116" cy="153" r="6" fill="#38f0b0"/>
+<rect x="140" y="141" width="500" height="24" rx="12" fill="#0a1526" stroke="#20395a"/>
+<text x="160" y="158" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" fill="#7fa3c9">plantilla-chat-voz.html — sin instalar, doble clic y listo</text>
+<text x="670" y="600" font-family="'Segoe UI',system-ui,sans-serif" font-size="0" fill="none"> </text>
+
+<text x="460" y="118" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="15" fill="#7fa3c9">Navegador del usuario</text>
+
+<!-- 3 tabs -->
+<g font-family="'Segoe UI',system-ui,sans-serif" font-size="14">
+  <rect x="80" y="200" width="150" height="40" rx="20" fill="#123146" stroke="#2fe3ff" stroke-width="2"/>
+  <use href="#ic-mic" x="92" y="210" width="20" height="20" color="#2fe3ff"/>
+  <text x="122" y="225" fill="#eaf6ff" font-weight="600">Llamada</text>
+
+  <rect x="245" y="200" width="180" height="40" rx="20" fill="#0f1e34" stroke="#2a4569" stroke-width="1.5"/>
+  <use href="#ic-book" x="257" y="208" width="22" height="24" color="#8d97e8"/>
+  <text x="290" y="225" fill="#c8d8ee">Conocimiento</text>
+
+  <rect x="440" y="200" width="150" height="40" rx="20" fill="#0f1e34" stroke="#2a4569" stroke-width="1.5"/>
+  <use href="#ic-bars" x="452" y="210" width="20" height="20" color="#38f0b0"/>
+  <text x="482" y="225" fill="#c8d8ee">Métricas</text>
+</g>
+
+<!-- Motor hub -->
+<g transform="translate(460,470)">
+  <circle r="92" fill="#0e2038" stroke="#2fe3ff" stroke-width="2.5"/>
+  <use href="#ic-chip" x="-32" y="-58" width="64" height="64" color="#2fe3ff"/>
+  <text x="0" y="34" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="15" font-weight="700" fill="#eaf6ff">Motor en</text>
+  <text x="0" y="54" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="15" font-weight="700" fill="#eaf6ff">memoria (JS)</text>
+</g>
+
+<!-- satellites around hub -->
+<g font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5">
+  <line x1="460" y1="470" x2="240" y2="330" stroke="#2a4569" stroke-width="2"/>
+  <rect x="130" y="300" width="180" height="58" rx="10" fill="#0f1e34" stroke="#2a4569"/>
+  <text x="145" y="323" fill="#eaf6ff" font-weight="600">Config</text>
+  <text x="145" y="342" fill="#7fa3c9">localStorage: clave, voz, paciente</text>
+
+  <line x1="460" y1="470" x2="240" y2="610" stroke="#2a4569" stroke-width="2"/>
+  <rect x="130" y="590" width="180" height="58" rx="10" fill="#0f1e34" stroke="#2a4569"/>
+  <use href="#ic-book" x="145" y="598" width="20" height="22" color="#8d97e8"/>
+  <text x="175" y="616" fill="#eaf6ff" font-weight="600">KB · BM25</text>
+  <text x="145" y="636" fill="#7fa3c9">107 docs + subidos, ~6.000 fragmentos</text>
+
+  <line x1="460" y1="470" x2="700" y2="330" stroke="#2a4569" stroke-width="2"/>
+  <rect x="620" y="300" width="200" height="58" rx="10" fill="#0f1e34" stroke="#2a4569"/>
+  <text x="636" y="323" fill="#eaf6ff" font-weight="600">PROMPT()</text>
+  <text x="636" y="342" fill="#7fa3c9">plantilla del entrevistador</text>
+
+  <line x1="460" y1="470" x2="700" y2="610" stroke="#2a4569" stroke-width="2"/>
+  <rect x="610" y="590" width="210" height="58" rx="10" fill="#0f1e34" stroke="#38f0b0" stroke-width="1.5"/>
+  <text x="626" y="613" fill="#eaf6ff" font-weight="600">Decisión</text>
+  <text x="626" y="632" fill="#7fa3c9">votoDeterminista() + ponderar()</text>
+</g>
+
+<!-- mic + tts row -->
+<g font-family="'Segoe UI',system-ui,sans-serif" font-size="13">
+  <circle cx="150" cy="770" r="34" fill="#123146" stroke="#2fe3ff" stroke-width="2"/>
+  <use href="#ic-mic" x="134" y="754" width="32" height="32" color="#2fe3ff"/>
+  <text x="150" y="826" text-anchor="middle" fill="#c8d8ee">Mantener presionado</text>
+  <text x="150" y="844" text-anchor="middle" fill="#7fa3c9">MediaRecorder API</text>
+
+  <circle cx="770" cy="770" r="34" fill="#123146" stroke="#38f0b0" stroke-width="2"/>
+  <use href="#ic-speaker" x="754" y="754" width="32" height="32" color="#38f0b0"/>
+  <text x="770" y="826" text-anchor="middle" fill="#c8d8ee">speechSynthesis</text>
+  <text x="770" y="844" text-anchor="middle" fill="#7fa3c9">voz del sistema operativo</text>
+</g>
+
+<!-- Cloud services (right, outside browser) -->
+<g>
+  <use href="#ic-cloud" x="1000" y="180" width="300" height="200"/>
+  <text x="1150" y="255" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="16" font-weight="700" fill="#eaf6ff">Groq · Whisper</text>
+  <text x="1150" y="276" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" fill="#7fa3c9">large-v3-turbo</text>
+  <text x="1150" y="296" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11.5" fill="#4f7091">POST /audio/transcriptions</text>
+
+  <use href="#ic-cloud" x="1000" y="500" width="300" height="200"/>
+  <text x="1150" y="575" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="16" font-weight="700" fill="#eaf6ff">Groq · Llama 3.3 70B</text>
+  <text x="1150" y="596" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" fill="#7fa3c9">versatile</text>
+  <text x="1150" y="616" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11.5" fill="#4f7091">POST /chat/completions</text>
+</g>
+
+<!-- lock note -->
+<g>
+  <use href="#ic-lock" x="1010" y="740" width="30" height="30" color="#ffcf5c"/>
+  <text x="1050" y="750" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" fill="#c8d8ee">Autenticado con GROQ_API_KEY,</text>
+  <text x="1050" y="768" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" fill="#c8d8ee">guardada solo en el localStorage</text>
+  <text x="1050" y="786" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" fill="#c8d8ee">de esta pestaña.</text>
+</g>
+
+<!-- Arrows crossing the boundary -->
+<path d="M184 770 C 400 770, 550 720, 900 320" fill="none" stroke="#2fe3ff" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="430" y="745" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#2fe3ff">audio/webm</text>
+
+<path d="M900 340 C 640 380, 560 420, 552 470" fill="none" stroke="#2fe3ff" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="700" y="400" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#2fe3ff">texto transcrito</text>
+
+<path d="M552 460 C 650 380, 800 340, 900 590" fill="none" stroke="#8d97e8" stroke-width="2.5" marker-end="url(#arrowP)"/>
+<text x="760" y="480" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#8d97e8">system=PROMPT+fragmentos</text>
+
+<path d="M900 610 C 780 700, 620 720, 552 500" fill="none" stroke="#38f0b0" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="820" y="700" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#38f0b0">respuesta + [doc_id] + tokens</text>
+
+<!-- bottom caption -->
+<rect x="50" y="884" width="1300" height="1" fill="#1c3454"/>
+<text x="60" y="910" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" fill="#7fa3c9">Sin servidor propio: Groq expone CORS para llamar directo desde el navegador. Nada sale de esta pestaña salvo esas dos llamadas.</text>
+</svg>

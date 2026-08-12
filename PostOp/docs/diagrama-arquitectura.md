@@ -2,13 +2,18 @@
 
 **Source Meridian — Agente de voz post-operatorio · Tech Sphere Challenge 2026**
 
-> Diagramas en Mermaid — se renderizan directamente en GitHub. No representan diseño visual (no evaluado); representan flujo de datos y de decisión (sí evaluado).
+> Cada diagrama tiene dos versiones: una infografía ilustrada (la imagen) y el Mermaid equivalente, plegado debajo, que se renderiza directamente en GitHub y es la fuente exacta de la lógica — útil si algún visor no carga las imágenes SVG.
 
 ---
 
 ## 1 · Arquitectura de la solución
 
 Una sola aplicación cliente (`plantilla-chat-voz.html`), sin backend propio. Las únicas dos salidas de red son directas a Groq Cloud, autenticadas con la clave que el usuario pega en Ajustes y que vive solo en `localStorage` de esa pestaña.
+
+![Arquitectura de la solución](img/diagrama-1-arquitectura.svg)
+
+<details>
+<summary>Ver como Mermaid</summary>
 
 ```mermaid
 flowchart TB
@@ -56,12 +61,18 @@ flowchart TB
     style Whisper fill:#2fe3ff,color:#031018
     style Decision fill:#38f0b0,color:#031018
 ```
+</details>
 
 **Por qué no hay backend propio.** El reto permite orquestación libre; se eligió cliente-puro porque elimina el mayor riesgo de la compuerta G2 (≤15 min, credenciales incluidas): no hay servidor que pueda fallar por symlinks rotos, variables de entorno mal cargadas, ni puertos ocupados. Groq expone CORS para llamadas directas desde el navegador, así que no hace falta un proxy.
 
 ---
 
 ## 2 · Flujo de un turno de conversación
+
+![Flujo de un turno de conversación](img/diagrama-2-flujo-turno.svg)
+
+<details>
+<summary>Ver como Mermaid</summary>
 
 ```mermaid
 sequenceDiagram
@@ -89,10 +100,16 @@ sequenceDiagram
     D->>D: ponderar(VP, VD) → disyunción sin veto
     D-->>UI: tarjeta de veredicto (verde/amarillo/rojo, escalar sí/no)
 ```
+</details>
 
 ---
 
 ## 3 · Flujo de decisión — dos votos, disyunción sin veto
+
+![Flujo de decisión — dos votos, disyunción sin veto](img/diagrama-3-decision.svg)
+
+<details>
+<summary>Ver como Mermaid</summary>
 
 ```mermaid
 flowchart LR
@@ -125,6 +142,7 @@ flowchart LR
     style Amarillo fill:#ffcf5c,color:#031018
     style Verde fill:#38f0b0,color:#031018
 ```
+</details>
 
 **Regla central verificada contra los 160 casos etiquetados del reto** (`trayectorias_postop_silver.xlsx`):
 
@@ -138,6 +156,11 @@ apetito muy_disminuido  ∧  sueño muy_alterado  ∧  fiebre ≥ 37.9
 ---
 
 ## 4 · Compuerta 5 — conocimiento vivo
+
+![Compuerta 5 — conocimiento vivo](img/diagrama-4-conocimiento.svg)
+
+<details>
+<summary>Ver como Mermaid</summary>
 
 ```mermaid
 flowchart LR
@@ -155,5 +178,6 @@ flowchart LR
     style Disponible fill:#38f0b0,color:#031018
     style Olvidado fill:#ff6b8b,color:#031018
 ```
+</details>
 
 Verificado con un documento sintético que no pertenece a ningún corpus entregado ("Cuidado del drenaje quirúrgico Jackson-Pratt"): aparece en la recuperación tras subirlo, desaparece tras retirarlo. Prueba reproducible en `docs/informe-final.md` § evidencia.

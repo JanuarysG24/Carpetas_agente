@@ -1,0 +1,157 @@
+<svg viewBox="0 0 1400 1080" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Flujo de decisión — dos votos, disyunción sin veto</title>
+<desc>El voto del modelo y el voto determinista se evalúan por separado y se combinan con una disyunción sin veto: si cualquiera de los dos vota escalar, el caso escala.</desc>
+<defs>
+  <radialGradient id="bg3" cx="50%" cy="0%" r="100%">
+    <stop offset="0%" stop-color="#132542"/>
+    <stop offset="100%" stop-color="#060b16"/>
+  </radialGradient>
+  <marker id="arr3c" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#2fe3ff"/>
+  </marker>
+  <marker id="arr3p" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#8d97e8"/>
+  </marker>
+  <marker id="arr3n" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#3a5a86"/>
+  </marker>
+  <marker id="arr3f" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#ff6b8b"/>
+  </marker>
+  <symbol id="s-brain" viewBox="0 0 64 64">
+    <path d="M24 8 a12 12 0 0 0 -12 12 a10 10 0 0 0 -4 18 a12 12 0 0 0 12 14 h24 a12 12 0 0 0 12 -14 a10 10 0 0 0 -4 -18 a12 12 0 0 0 -12 -12 z" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M24 8 v44 M24 20 h-6 M24 32 h8 M24 44 h-6" stroke="currentColor" stroke-width="2.5" fill="none"/>
+  </symbol>
+  <symbol id="s-rules" viewBox="0 0 64 64">
+    <rect x="8" y="10" width="48" height="44" rx="4" fill="none" stroke="currentColor" stroke-width="4"/>
+    <line x1="16" y1="22" x2="48" y2="22" stroke="currentColor" stroke-width="3.5" stroke-linecap="round"/>
+    <line x1="16" y1="32" x2="48" y2="32" stroke="currentColor" stroke-width="3.5" stroke-linecap="round"/>
+    <line x1="16" y1="42" x2="36" y2="42" stroke="currentColor" stroke-width="3.5" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="s-flag2" viewBox="0 0 64 64">
+    <line x1="16" y1="8" x2="16" y2="58" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+    <path d="M16 12 h34 l-10 12 l10 12 h-34 z" fill="currentColor"/>
+  </symbol>
+  <symbol id="s-doc2" viewBox="0 0 64 64">
+    <rect x="12" y="6" width="40" height="52" rx="4" fill="none" stroke="currentColor" stroke-width="4"/>
+    <line x1="20" y1="20" x2="44" y2="20" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    <line x1="20" y1="30" x2="44" y2="30" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    <line x1="20" y1="40" x2="36" y2="40" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  </symbol>
+</defs>
+
+<rect width="1400" height="1080" fill="url(#bg3)"/>
+<text x="60" y="56" font-family="'Segoe UI',system-ui,sans-serif" font-size="30" font-weight="700" fill="#eaf6ff">Flujo de decisión — dos votos, disyunción sin veto</text>
+<text x="60" y="84" font-family="'Segoe UI',system-ui,sans-serif" font-size="16" fill="#7fa3c9">Ninguno de los dos mecanismos puede vetar al otro: basta que uno vote escalar</text>
+
+<!-- top: turno de cierre -->
+<rect x="520" y="120" width="360" height="60" rx="10" fill="#0f1e34" stroke="#2a4569" stroke-width="1.5"/>
+<use href="#s-doc2" x="536" y="132" width="30" height="36" color="#c8d8ee"/>
+<text x="580" y="148" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" font-weight="700" fill="#eaf6ff">Turno de cierre</text>
+<text x="580" y="166" font-family="'Segoe UI',system-ui,sans-serif" font-size="11.5" fill="#7fa3c9">RESUMEN_INICIO … RESUMEN_FIN</text>
+
+<line x1="700" y1="180" x2="700" y2="222" stroke="#3a5a86" stroke-width="2.5" marker-end="url(#arr3n)"/>
+
+<rect x="560" y="230" width="280" height="50" rx="10" fill="#0f1e34" stroke="#2a4569" stroke-width="1.5"/>
+<text x="700" y="260" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="14" font-weight="700" fill="#eaf6ff">extraer()</text>
+<text x="700" y="not-used" font-size="0"> </text>
+<text x="700" y="277" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#7fa3c9">seis aspectos + tu_lectura + urgencia</text>
+
+<!-- split -->
+<path d="M600 280 C 460 320, 380 340, 340 372" fill="none" stroke="#8d97e8" stroke-width="2.5" marker-end="url(#arr3p)"/>
+<path d="M800 280 C 940 320, 1020 340, 1060 372" fill="none" stroke="#2fe3ff" stroke-width="2.5" marker-end="url(#arr3c)"/>
+
+<!-- VP box left -->
+<g>
+  <rect x="150" y="380" width="380" height="90" rx="12" fill="#1a1f3d" stroke="#8d97e8" stroke-width="2.5"/>
+  <use href="#s-brain" x="168" y="398" width="46" height="46" color="#8d97e8"/>
+  <text x="228" y="415" font-family="'Segoe UI',system-ui,sans-serif" font-size="15" font-weight="700" fill="#eaf6ff">Voto del modelo (VP)</text>
+  <text x="228" y="436" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#c8d8ee">"tu_lectura" declarada por el LLM</text>
+  <text x="228" y="454" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#7fa3c9">verde · amarillo · rojo</text>
+</g>
+
+<!-- VD chain right -->
+<g>
+  <rect x="900" y="380" width="360" height="60" rx="10" fill="#0f1e34" stroke="#2a4569" stroke-width="1.5"/>
+  <text x="1080" y="405" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" font-weight="700" fill="#eaf6ff">Valores normalizados</text>
+  <text x="1080" y="424" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#7fa3c9">fiebre, dolor, herida, movilidad, apetito, sueño</text>
+</g>
+<line x1="1080" y1="440" x2="1080" y2="472" stroke="#2fe3ff" stroke-width="2" marker-end="url(#arr3c)"/>
+
+<g>
+  <rect x="900" y="480" width="360" height="56" rx="10" fill="#0f1e34" stroke="#2a4569" stroke-width="1.5"/>
+  <text x="1080" y="502" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" font-weight="700" fill="#eaf6ff">clasificar() por unidad</text>
+  <text x="1080" y="520" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#7fa3c9">reglas FC-*</text>
+</g>
+<line x1="1080" y1="536" x2="1080" y2="568" stroke="#2fe3ff" stroke-width="2" marker-end="url(#arr3c)"/>
+
+<g>
+  <rect x="900" y="576" width="360" height="60" rx="10" fill="#0f1e34" stroke="#2a4569" stroke-width="1.5"/>
+  <text x="1080" y="600" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" font-weight="700" fill="#eaf6ff">componer()</text>
+  <text x="1080" y="618" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#7fa3c9">CO-01 apetito+sueño · CO-02 + fiebre</text>
+</g>
+<line x1="1080" y1="636" x2="1080" y2="668" stroke="#2fe3ff" stroke-width="2" marker-end="url(#arr3c)"/>
+
+<g>
+  <rect x="870" y="676" width="420" height="80" rx="12" fill="#0a2a38" stroke="#2fe3ff" stroke-width="2.5"/>
+  <use href="#s-rules" x="888" y="692" width="42" height="46" color="#2fe3ff"/>
+  <text x="944" y="708" font-family="'Segoe UI',system-ui,sans-serif" font-size="15" font-weight="700" fill="#eaf6ff">Voto determinista (VD)</text>
+  <text x="944" y="728" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#c8d8ee">tabla de lectura declarada</text>
+  <text x="944" y="746" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#7fa3c9">VD-01 … VD-05</text>
+</g>
+
+<!-- converge to OR gate -->
+<path d="M400 470 C 420 560, 520 640, 610 670" fill="none" stroke="#8d97e8" stroke-width="2.5" marker-end="url(#arr3p)"/>
+<path d="M1000 756 C 900 800, 780 800, 720 780" fill="none" stroke="#2fe3ff" stroke-width="2.5" marker-end="url(#arr3c)"/>
+
+<!-- OR gate diamond -->
+<g transform="translate(640,780)">
+  <path d="M90 0 L180 55 L90 110 L0 55 Z" fill="#0e2038" stroke="#38f0b0" stroke-width="3"/>
+  <text x="90" y="48" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="20" font-weight="800" fill="#38f0b0">OR</text>
+  <text x="90" y="68" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10.5" fill="#c8d8ee">ponderar(VP,VD)</text>
+  <text x="90" y="82" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10.5" fill="#c8d8ee">sin veto</text>
+</g>
+
+<!-- bandera roja bypass -->
+<g>
+  <rect x="1180" y="800" width="200" height="70" rx="10" fill="#2a1420" stroke="#ff6b8b" stroke-width="2"/>
+  <text x="1280" y="826" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" font-weight="700" fill="#ff6b8b">Bandera roja</text>
+  <text x="1280" y="843" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10.5" fill="#f2c6cf">sangrado, disnea,</text>
+  <text x="1280" y="858" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10.5" fill="#f2c6cf">dolor torácico…</text>
+</g>
+<path d="M1180 850 C 1100 900, 1000 918, 940 920" fill="none" stroke="#ff6b8b" stroke-width="2.5" stroke-dasharray="6 5" marker-end="url(#arr3f)"/>
+
+<!-- outcomes -->
+<g transform="translate(500,935)">
+  <circle r="26" fill="#132a1f" stroke="#38f0b0" stroke-width="2.5"/>
+  <text x="0" y="6" text-anchor="middle" font-size="20">🟢</text>
+</g>
+<text x="500" y="985" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" font-weight="700" fill="#38f0b0">VERDE — no escala</text>
+
+<g transform="translate(700,935)">
+  <circle r="26" fill="#2a2412" stroke="#ffcf5c" stroke-width="2.5"/>
+  <text x="0" y="6" text-anchor="middle" font-size="20">🟡</text>
+</g>
+<text x="700" y="985" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" font-weight="700" fill="#ffcf5c">AMARILLO — se anota</text>
+
+<g transform="translate(900,935)">
+  <circle r="26" fill="#2a1420" stroke="#ff6b8b" stroke-width="2.5"/>
+  <text x="0" y="6" text-anchor="middle" font-size="20">🔴</text>
+</g>
+<text x="900" y="985" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" font-weight="700" fill="#ff6b8b">ROJO — contacto hoy</text>
+
+<path d="M700 890 L500 909" fill="none" stroke="#38f0b0" stroke-width="2" marker-end="url(#arr3c)"/>
+<path d="M715 890 L700 909" fill="none" stroke="#ffcf5c" stroke-width="2" marker-end="url(#arr3c)"/>
+<path d="M730 890 L900 909" fill="none" stroke="#ff6b8b" stroke-width="2" marker-end="url(#arr3f)"/>
+
+<text x="410" y="905" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#7fa3c9">ambos verde</text>
+<text x="760" y="900" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#7fa3c9">cualquiera ≥ amarillo escala</text>
+
+<!-- converge to CallSummary -->
+<path d="M500 962 C 500 1000, 620 1015, 680 1018" fill="none" stroke="#38f0b0" stroke-width="2" marker-end="url(#arr3c)"/>
+<path d="M700 962 C 700 990, 700 1005, 700 1018" fill="none" stroke="#ffcf5c" stroke-width="2" marker-end="url(#arr3c)"/>
+<path d="M900 962 C 900 1000, 780 1015, 720 1018" fill="none" stroke="#ff6b8b" stroke-width="2" marker-end="url(#arr3f)"/>
+<rect x="520" y="1022" width="360" height="46" rx="10" fill="#0f1e34" stroke="#2a4569" stroke-width="1.5"/>
+<text x="700" y="1042" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="12.5" font-weight="700" fill="#eaf6ff">CallSummary siempre se produce</text>
+<text x="700" y="1059" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10.5" fill="#7fa3c9">incluso en cierres degradados</text>
+</svg>
