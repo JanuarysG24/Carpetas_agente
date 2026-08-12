@@ -1,0 +1,285 @@
+MANEJO DE LAS COMPLICACIONES DE POSTOPERATORIO DE REEMPLAZO DE CADERA A TRAVÉS DE LA TELEMEDICINA
+MANAGEMENT OF POSTOPERATIVE COMPLICATIONS OF HIP THROUGH TELEMEDICINE
+FACULTAD DE CIENCIAS DE LA SALUD
+Resumen Objetivo Revisar fuentes de información científica para diseñar un modelo virtual de telemedicina para pacientes con postoperatorio de reemplazo de cadera en el domicilio y disminuir complicaciones en su rehabilitación.
+Materiales y métodos En la metodología se tuvo en cuenta los postulados expuestos por Paramo (1); además recopilación de datos bibliográficos, artículos académicos, monografías y libros. Se elaboró una matriz para agrupar información y clasificar datos obtenidos durante la investigación.
+Resultados Según los artículos revisados, la telemedicina es un programa que con el paso de los años, ha evolucionado; logrando oportunidad para la población y los profesionales de la salud que lo utilizan.
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.
+
+En cuanto a enfermería, el conocimiento sobre telemedicina es amplio y está al alcance de los profesionales; pero la implementación no ha tenido resultados ya que los usuarios no conocen el cuidado de enfermería fuera del ámbito hospitalario.
+Conclusión y discusión La telemedicina es una herramienta que apoya el desarrollo de mejores formas de atención, y se ajusta a la evolución de ámbito de la salud. Es posible que el paciente desde su casa tenga acceso a información y no hay lugar a errores de ejecución respecto al objetivo inicial de la cirugía. Las herramientas virtuales son efectivas y se adhieren a diversas necesidades, esto se evidencia mediante la matriz de análisis, que sugiere la creación de un programa para la rehabilitación y cuidado a distancia para pacientes en postoperatorio de reemplazo total de cadera.
+Palabras clave: Telemedicina, enfermería, postoperatorio, rehabilitación, hospitalización, domicilio, infección, movilización, internet.
+Summary Objective Review of Scientific Information sources paragraph Design Virtual Model UN paragraph telemedicine patients with postoperative hip replacement at home and reduce complications in his rehabilitation.
+Materials and Methods The methodology took into account the principles set out by Páramo (1); : Compilation of Data In addition, academic articles, monographs
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.
+
+and books. A paragraph matrix was developed to group and sort data information obtained during the investigation.
+Results According to the revised articles, telemedicine IS A which program over the years, evolved ha; OPPORTUNITY para achieving Population and Health Professionals who use it. As for nursing, knowledge about telemedicine is large and available to professionals; But implementation has not had results as users know any nursing care outside the hospital setting.
+Discussion and Conclusion Telemedicine is a tool that supports the development of better forms of care, and fits Evolution field of health. It is possible that the patient from his house has access to information and without hay one runtime errors from the initial goal of surgery. The son Diverse Needs Effective and adhere Virtual tools, this is evidenced by matrix analysis that suggests the creation of the UN program for the rehabilitation and care to patients in remote paragraph postoperative total hip replacement.
+Keywords: Telemedicine, nursing, postoperative rehabilitation, hospitalization, home, infection, mobilization, internet.
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.
+
+Introducción El día a día a implementado la tecnología dentro de la cotidianidad y el área de la salud no es la excepción, cada día más y de manera más frecuente se implementan herramientas tecnológicas dentro del desarrollo de la actividad médica, tan es así que la valoración de muchos exámenes de apoyo diagnostico se hacen de forma remota y no es la única actividad que se realiza de esta manera, evitando así deslazamientos y costos innecesarios. Las condiciones generales del postoperatorio, se definen en los riesgos que se pueden presentan después de una cirugía mayor, como la cirugía de reemplazo de cadera; así pues, en la experiencia se evidencian más complicaciones en las personas adultas mayores; a menudo estos pacientes son más propensos a sufrir lesiones, ulceras por presión, dermatitis entre otras. (2) La telemedicina hoy día se ha convertido en la herramienta principal para la atención de paciente de cualquier patología de forma remota. En este artículo de investigación académica se relaciona el proyecto de creación de una herramienta telemédica con soporte en la internet donde la interacción del cuidador, paciente y enfermero se da de forma integral apoyada en la utilización del instrumento académico descrito y usando como plataforma la red mundial de información. Es aquí entonces donde se desarrolla el proyecto académico del tema, se toman los aspectos más relevantes producto de la interpretación de la recolección de datos bibliográficos que interfieren de forma directa la rehabilitación de un paciente con post operatorio de cadera y se encuentra ya en su domicilio; además de todos aquellos factores que impiden que su recuperación se desarrolle de forma correcta, evitando así secuelas relacionadas con el evento o el en peor de los
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.
+
+caos un reingreso hospitalario asociado con cuadros de infección, mala movilización, re intervención quirúrgica y todos aquellos factores que se deriven desde este marco de situaciones problemicas en donde la calidad de vida del paciente y su cuidador se ve afectada, no solamente en los aspectos de salubridad física sino también en el desarrollo del rol de cuidador, actividades cotidianas y detrimento económico del núcleo familiar. (3). A continuación se describen una serie de medidas para evitar complicaciones de postoperatorio de reemplazo de cadera a través de la telemedicina
+La telemedicina literalmente es “medicina distancia”. Para Escobar (2002) la telemedicina es una forma de integrar la medicina con las telecomunicaciones con el fin de dar una atención a diferentes personas y poder demostrar los avances de la medicina mediante las telecomunicaciones, que se realiza a distancia. (4) La Organización Mundial de la Salud (OMS 2008) “define la telemedicina como el suministro de servicios de atención sanitaria a distancia por medio de tecnologías de información y telecomunicaciones”, con el fin de intercambiar datos para hacer diagnósticos, prevenir enfermedades y accidentes, y formar permanentemente a profesionales de atención de salud, que mejoren la salud de las personas y de las comunidades en que viven. (5). Por su parte, la Asociación Americana de Telemedicina (ATA por sus siglas en inglés) define esta disciplina como “el intercambio de información médica entre dos lugares distintos, usando comunicaciones electrónicas, para la salud y educación del paciente o el proveedor de los servicios sanitarios, y con el fin de mejorar la asistencia del paciente”. (6)
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.
+
+Para algunos, la Telemedicina se originó cuando se inventó el teléfono a finales del siglo XIX, las primeras etapas de la Telemedicina actual comenzaron en los años veinte cuando la radio se utilizó para asistir a los barcos en sus estancias en alta mar. Cuando en estas embarcaciones existían emergencias médicas se establecían conexiones por radio entre el barco y médicos de las estaciones costeras para prestar ayuda y asesoramiento médico. A mitad del siglo pasado, fue Norman Jefferis Holter (1914-1983) quien, junto con Gengerelli y Glasskock, inició la exploración de los parámetros biológicos “sin tocar al hombre”, y cuyas experiencias culminaron felizmente, cuando consiguieron recibir vía radio el electrocardiograma de personas que deambulaban por la calle a considerable distancia de la estación receptora. (7) La telemedicina es una forma de integrar la medicina con las telecomunicaciones con el fin de dar una atención a diferentes personas y poder demostrar los avances de la medicina mediante las telecomunicaciones, que se realiza a distancia. La telemedicina es un sistema integral y completo de suministro de atención en salud y educación, mediante la utilización de las tecnologías informáticas de la comunicación. Partiendo de este sistema las características esenciales para prestar sus servicios en el mundo son:
+ La separación geográfica entre el paciente y el enfermero durante un encuentro clínico (tele-diagnostico) o entre dos o más personas de la salud.
+ La utilización de las tecnologías la información y la comunicación para realizar la interacción
+ Un equipo de gestión del sistema  El desarrollo de una infraestructura organizacional
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.
+
+ El desarrollo de protocolos clínicos para la orientación del paciente hacia el diagnóstico y los posibles tratamientos a seguir.
+Las telecomunicaciones ofrecen la oportunidad de comunicarse con diferentes personas en diferentes lugares con una o más simultáneamente, esto hace que las telecomunicaciones sean importantes con mayor utilidad para el avance de diferentes trabajos tanto investigativos como de producción personal y a nivel de la salud. Con los avances realizados se ha observado que el cuidado a domicilio es factible en las diferentes recuperaciones de los pacientes y en sus tratamientos, debido a que ellos se sienten mejor en el hogar con su familia y entorno. La educación y el manejo del paciente deben ser de forma integral ya que diversas técnicas educativas han demostrado reducir el dolor y aumentar las habilidades adquiridas, aunque con poco impacto en la capacidad funcional. Estas técnicas son: educación individualizada, educación grupal, llamadas telefónicas regulares y entrenamiento en aprovechamiento de habilidades, incluidas las asistidas por el acompañante del paciente. “La proposición de mantener contactos telefónicos regulares accede a que se logre un mejor estado clínico.” Dentro de las Pautas para la rehabilitación de los pacientes en postoperatorio de reemplazo de cadera están: La movilización: Es el conjunto de posiciones que adopta el cuerpo para realizar las distintas actividades de la vida cotidiana, respecto a los pacientes en postoperatorio de cirugía de cadera la movilización es limitada por esto se les
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.
+
+recomienda la utilización de los siguientes implementos para una recuperación exitosa por motivos de movilización y que la cadera no puede estar más de 90º.
+ Cojín abductor: este nos permite evitar el rozamiento entre las dos piernas
+ Medias anti embolicas: para mejorar la circulación por motivo de que permanecerá un tiempo acostado y disminución de los trombos.
+ Silla pato: esta se utiliza para el desplazamiento al baño ya que la cadera no puede estar a más de 90º de suposición en el eje vertical.
+ Caminador: este es un apoyo para el inicio de la movilidad en la habitación y el apoyo al bajarse de la cama.
+La Rehabilitación física: Las lesiones osteomusculares se generan cuando se rompe el equilibrio y la relación que guardan entre si las diferentes partes del cuerpo, específicamente las que forman el sistema (hueso, musculo, tendón, ligamento, articulación y sus componentes). La medicina física y rehabilitación, también llamada fisiatría, es una especialidad de la medicina y de las ciencias de la salud, configurada por un cuerpo doctrinal complejo, constituido por la agrupación de conocimientos y experiencias relativas a la naturaleza de los agentes físicos no ionizantes, a los fenómenos derivados de su interacción con el organismo y su aplicación diagnostica, terapéutica y preventiva.
+La Medicina Física promociona la salud y previene, diagnostica, evalúa, prescribe y trata el estado de enfermedad. Establece una prioridad en el logro de objetivos de funcionalidad ergonómicos, ocupacionales y de reintegración. Utiliza los medios
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.
+
+farmacológicos, físicos terapéuticos naturales o modificados no ionizantes, los
+
+ocupacionales, los del lenguaje, de la comunicación y cognición, educacionales y
+
+las ayudas técnicas en donde se incluyen las ortoprótesis de uso externo.
+
+La rehabilitación previene y trata la aparición de disfunciones secundarias a
+
+problemas congénitos y adquiridos, agudos y crónicos, en personas de todas las
+
+edades y tiene una connotación propia en la evaluación del daño corporal y la
+
+valoración y tratamiento de la discapacidad, favoreciendo la integración social del
+
+discapacitado en la comunidad.
+
+Cuidados de la piel: El índice de úlceras por presión es uno de
+
+los indicadores de calidad más representativo de los cuidados que
+
+presta enfermería. Si a esto unimos el elevado coste económico y asistencial que
+
+estas conllevan una vez que se producen, nos hacen plantearnos que el papel de
+
+la enfermería no solo se encuentra durante la labor asistencial sino que está en
+
+nuestras manos el poder crear y usar todas las herramientas disponibles para una
+
+mejor prevención y tratamiento de estas.
+
+Las fuerzas responsables de su aparición son:
+
+Tabla N. 1 Causas para ulceras por presión
+
+PRESION
+
+FRICCION
+
+FUERZA
+
+Es una fuerza que actúa
+
+perpendicular a la piel
+
+como consecuencia de la
+
+gravedad, provocando un
+
+aplastamiento tisular entre
+
+dos
+
+planos,
+
+uno
+
+Es una fuerza tangencial que actúa paralelamente a la piel, produciendo roces, por movimientos o arrastres.
+
+Combina los efectos de presión y fricción (ejemplo: posición de Fowler que produce deslizamiento del cuerpo, puede provocar fricción en sacro y presión
+
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.
+
+perteneciente al paciente y
+
+otro externo a él (sillón,
+
+cama, sondas, etc.). Esto
+
+ocluirá el flujo sanguíneo
+
+capilar en los tejidos
+
+blandos
+
+provocando
+
+hipoxia, y si no se alivia,
+
+necrosis de los mismos.
+
+Fuente modificada de: (8)
+
+sobre la misma zona).
+
+Cuidados de heridas postquirúrgicas: Con respecto al cuidado de las heridas postquirúrgicas entendemos que es función básica del personal de enfermería lograr con adecuadas técnicas y utilización de insumos de forma apropiada una adecuada cicatrización reduciendo así los índices de infecciones de sitio operatorio, se debe tener en cuenta que procedimientos llevar a cabo en cada una de las etapas de la cicatrización. (8)
+
+Para poder realizar un adecuado cuidado de las heridas postoperatorias se deben conocer los diferentes tipos de heridas que van desde la herida limpia que es la que se realiza con una adecuada técnica aséptica (procedimientos quirúrgicos), hasta heridas sucias e infectadas que son las que presentan inflamación aguda con presencia de pus, algunas de las intervenciones de enfermería van desde la educación al paciente y familiares sobre la adecuada manipulación de la heridas (Curaciones en casa, uso de apósitos, lavado de heridas) como de la detección temprana de signos y síntomas de complicaciones (hematomas–infección– dehiscencia de suturas entre otros).
+
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.
+
+Una de las complicaciones frecuentes durante los postoperatorios de cirugías mayores es la formación de trombos inicialmente en miembros inferiores pero que pueden migrar y bloquear arterias que irrigan órganos como cerebro, pulmón o corazón, secundario a la poca actividad física que tienen estos pacientes en el postoperatorio temprano, por lo tanto hace parte fundamental del personal médico y de enfermería realizar intervenciones tempranas para disminuir el riesgo de esta complicación. Dentro de las recomendaciones son el uso de medias de compresión media permanentes, inicio de movilidad active de las extremidades inferiores, deambulación, e inicio de heparinas de bajo peso molecular o anticoagulantes 12 horas posterior a la cirugía. Estos últimos tienen un rol importante en la prevención de formación de trombos, por su poder de disminuir la capacidad coagulante de su sangre, como todo medicamento tiene sus efectos secundarios (el más importante es aumento de la probabilidad de hemorragias), y sus contraindicaciones por lo cual debe ser formulado por médico y administrarlo por personal de enfermería según indicación.
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.
+
+Grafico No. 1. Intervenciones a tener en cuenta por el cuidador, con asesoría de enfermería, a través de la telemedicina
+
+LAVADO DE HERIDAS
+-TECNICA
+-EPP
+
+CURACION EN CASA
+-TECNICA
+-ASISTENCIA
+
+CAMBIO DE APOSITOS -CALOR -RUBOR -OLOR
+-SECRESION
+
+Fuente: Propia
+El manejo de medicamentos no solo se basa en la anticoagulación del paciente si no que forman una parte muy esencial en el manejo del dolor ya que está definido como una experiencia sensorial o emocional desagradable, asociada a daño tisular real o potencial, o bien descrita en términos de tal daño. El dolor es, por tanto, subjetivo y existe siempre que un paciente diga que algo le duele. El empleo ocasional de antiinflamatorios puede ser beneficioso, aunque en tratamientos crónicos se debe tener presente su implicación en disfunción renal e insuficiencia cardiaca, así como sus efectos gastrointestinales. Los derivados mórficos serán evitados en el postoperatorio inmediato, por sus efectos
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.
+
+secundarios bastante frecuentes (síndrome confusional, íleo paralítico e hiperémesis). En casos de mal control de dolor osteomuscular crónico el empleo de tramadol, parches de fentanilo o buprenorfina puede ser necesario (9) Todas las medidas que se tomen en el manejo inicial del paciente son decisivas para su pronta recuperación o que continúe con una estancia hospitalaria prolongada, uno de los manejos que es primordial para los pacientes es su parte nutricional ya que esta nos permite verificar en qué estado entren a cirugía y así mismo saber que necesidades va a presentar el paciente en su recuperación. Paralelamente con el envejecimiento poblacional, los problemas nutricionales de la vejez han ido cobrando protagonismo, pues la desnutrición condiciona una mayor morbimortalidad general. El envejecimiento conlleva toda una serie de cambios que tienen una repercusión directa sobre el estado nutricional (alteraciones sensoriales, bucales o digestivas, menor autonomía funcional, demencia, efectos adversos medicamentosos, etc.), haciendo de los ancianos una población especialmente susceptible de padecer problemas nutricionales. (10)
+
+Metodología
+
+En la metodología de esta investigación académica se tuvieron en cuenta los
+
+postulados expuestos por paramo y que se explicitan a continuación; contiene
+
+además los referentes específicos utilizados en la investigación:
+
+•
+
+Recolección de datos bibliográficos: definición de puntos de recolección,
+
+delimitación de fechas concernientes al tema, asuntos específicos, condición de
+
+inclusión. Así:
+
+Cuantitativa. Tipo descriptiva- explicativa. (11)  Universo: pacientes con reemplazo de cadera santa clara.
+
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.
+
+ Muestra: Por definir en etapa de aplicación.  Criterios inclusión. Por conveniencia y deseo del paciente Pop de cadera.  consentimiento informado –asentimiento.  Instrumento matriz de datos
+
+•
+
+Organización de datos recolectados:
+
+Métodos de inclusión y exclusión de información, estructura de clasificación de
+
+datos, regulación de referencias. (12)
+
+•
+
+Clasificación y análisis de bibliografías: bases de datos y revistas de
+
+enfermería indexadas y referenciadas. Desarrollo del marco teórico con base a los
+
+datos bibliográficos. (13)
+
+Análisis y discusión Los autores durante la experiencia de la elaboración de este documento encontraron concordancia con la premisa expuesta sobre el reingreso hospitalario se ha estudiado como índice de calidad asistencial desde al menos 1965 (14), y desde entonces se plantea identificar cuales factores son influyentes sobre el tema, la comunidad científica y académica estudia diferentes métodos de atención segura y proactiva que posibilite al paciente continuar la rehabilitación en casa pero sin poner en riesgo la vida y funcionalidad de este y de la misma manera evitando sobrecostos hospitalarios además de las complicaciones que son asociadas a las estancias hospitalarias prolongadas.(15)
+
+La universidad nacional de Colombia en su revista mensual relaciona las actividades telemedicas desarrolladas por esta alma mater donde según
+
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.
+
+estadísticas esta herramienta ha disminuido la sensación de cansancio del rol de cuidador y de descuido del paciente, donde además se han descongestionado los servicios de urgencias y generando nuevos puestos de trabajo por medio de programas de atención domiciliaria. El Centro de Telemedicina de la Universidad Nacional de Colombia, con el apoyo del grupo de investigación BioIngenium, en el marco de los convenios que se han realizado con el Ministerio de la Protección Social (MPS) y Caprecom EPS desde el año 2008, ha implementado la prestación de servicios de consulta médica especializada y cuidados intermedios bajo la modalidad de telemedicina en 43 municipios de 11 departamentos a lo largo de todo el territorio nacional. (16) Con respecto al postoperatorio de cadera en específico los autores encontraron que muchos paciente solicitan consejos para la rehabilitación después de la intervención quirúrgica a personal no competente, ocasionado retrocesos en la recuperación y por ende desarrollo de patologías asociadas reingresos hospitalarios y los inconvenientes derivaos de la integralidad de la situación, teoría expuesta por Caudera en el 2015.(17)
+Analizando los resultados obtenidos con la matriz, se evidencia que el 70% de las bases de datos consultadas indican que la telemedicina es un programa efectivo que con el paso de los años, ha venido evolucionando de manera satisfactoria, al igual que la tecnología; trayendo así, oportunidad para la población y los profesionales de la salud que se han visto beneficiados con el uso del mismo. En cuanto a enfermería, se evidencia que el conocimiento sobre la telemedicina es amplio y está al alcance de los profesionales; pero, la implementación de este programa no ha tenido gran adherencia, ni interés. Esto es evidenciado en la
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.
+
+claridad que tiene los usuarios, sobre el cuidado y la disposición de enfermería única y exclusivamente en el ámbito hospitalario. Lo anterior los lleva a proponer un modo de comunicación con la familia, y así disminuir complicaciones propias del postoperatorio, y así promover un ambiente familiar tranquilo y seguro para el desplazamiento y recuperación del paciente desde su domicilio.
+Referencias bibliográficas
+1. Pablo Fernando Paramo Bernal, Fundamentos epistemológicos, estrategias y técnicas de recolección de información, Finalidad. Colombia, 2007, Universidad Pedagógica Nacional - U.P.N
+2. Juana Mª Díaz Martínez, Pilar López-Donaire, Pilar Molina-Mercado, Manuela Peláez-Panadero, Juan Carlos Torres-Aguilar, Pedro L. PancorboHidalgo- 2009. Úlceras por presión en el postoperatorio de intervenciones quirúrgicas de cadera- A Pressure ulcers after hip or knee surgery. Gerokomos v.20 n.2 Madrid.
+3. Mª Jesús López Gil, Ramón Orueta Sánchez, Samuel Gómez-Caro, Arancha Sánchez Oropesa, Javier Carmona de la Morena, Francisco Javier Alonso Moreno- 2009- El rol de Cuidador de personas dependientes y sus repercusiones sobre su Calidad de Vida y su Salud; The caregiver burden and its repercussions on quality of life and health. .
+4. Felipe Naranjo Escobar. Telemedicina Materno-Fetal. 2002. Una propuesta desde las tecnologías de la información y las comunicaciones (TIC) para mejorar la oportunidad y la capacidad resolutiva en la atención materno perinatal a pacientes de la provincia de Ubaté desde la Clínica El Bosque..
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.
+
+5. De Toledo, P. Propuesta de un modelo de un sistema de telemedicina para la atención sanitaria domiciliaria. 2003. Tesis doctoral. Universidad Politécnica de Madrid.
+6. José María Vergeles-Blanca. Médico de Familia. Centro de Salud San Fernando. 2007. Unidad Docente de Medicina de Familia y Comunitaria. Badajoz. La telemedicina. Desarrollo, ventajas y dudas.
+7. Alberto Kopec Poliszuk. Aplicaciones de telecomunicaciones en salud en la subregión andina. 2006. Telemedicina.
+8. Entrevista a Joan Enric Torra i Bou: Enfermero. Clinical, Education & Prevention Manager. División Curación de Heridas, Smith & Nephew Iberia. "Es un gran error recortar gastos de prevención, porque vamos a gastar cinco veces más en curar lo que no hemos prevenido". oct. 2010. Enferm. glob. n.20 Murcia
+9. Mercedes Clerencia-Sierra, Amaia Calderón-Larrañaga, Nicolás MartínezVelilla, Itziar Vergara-Mitxeltorena, Pablo Aldaz-Herce, Beatriz PobladorPlou, Mónica Machón-Sobrado, Nerea Egüés-Olazabal, Gabor Abellán-van Kan, Alexandra Prados-Torres. 2015. Patrones multimorbilidad en pacientes ancianos hospitalizados: asociaciones entre las enfermedades crónicas y síndromes geriátricos.
+10. Francia Figueroa Poblete. 2008. Nutricionista en Clínica Dávila, Diplomada en Seguridad Clínica y Gestión de Riesgos. Universidad de Concepción.
+11. Proyecto de investigación. 2009. Sampieri, R., Fernandez, C., Baptista, P.
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.
+
+12. Pablo Fernando Paramo Bernal, Fundamentos epistemológicos, estrategias y técnicas de recolección de información, Finalidad. Colombia, 2007, Universidad Pedagógica Nacional - U.P.N.
+13. Pablo Fernando Paramo Bernal, Fundamentos de investigación en ciencias sociales y pedagogía, Finalidad: En: Colombia, 2010, Universidad Pedagógica Nacional - U.P.N.
+14. Pablo Fernando Paramo Bernal, Fundamentos epistemológicos, estrategias y técnicas de recolección de información, Finalidad. Colombia, 2013, Universidad Pedagógica Nacional - U.P.N.
+15. Acheson ED, Barr A. 1965. Multiple spells of in-patient treatment in a calendar year. British J Preventive and Social Medicine.
+16. Kossovsky MP, Perneger TV, Serasin FP, Bolla F, Borst F, Gaspoz JM. Comparison between planned and unplanned readmissions to a department of internal medicine. J Clin Epidemiol.
+17. Cabrera JA, Cabrera AL. Total hip replacement. In: Frontera, WR, Silver JK, Rizzo TD, eds. 2015. Essentials of Physical Medicine and Rehabilitation. 3rd ed. Philadelphia, PA: Elsevier Saunders;: chap 61.
+1. Karen Ximena Fernández Ramírez, Fundación Universitaria del Área Andina, kafernandez2@estudiantes.areandia.edu.co.
+2. Carlos Mauricio Medina Guerrero, Fundación Universitaria del Área Andina, camedina2@estudiantes.areandina.edu.co.
+3. José Luis Roa, estudiante de Enfermería VIII semestre, Fundación Universitaria del Área Andina, joroa6@estudiantes.areandina.edu.co.
+4. Linda Paola Torres López, Fundación Universitaria del Área Andina, lipatolo@estudiantes.areandina.edu.co.

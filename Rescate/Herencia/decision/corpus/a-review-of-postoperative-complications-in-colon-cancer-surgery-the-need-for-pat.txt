@@ -1,0 +1,407 @@
+Journal of
+Mind and Medical Sciences
+
+Review
+A Review of Postoperative Complications in Colon Cancer Surgery: The Need for Patient-Centered Therapy
+Adrian Silaghi 1,2, Dragos Serban 1,3,* , Corneliu Tudor 1,3, Bogdan Mihai Cristea 1, Laura Carina Tribus 4,5, Irina Shevchenko 1,3, Alexandru Florin Motofei 1,4, Crenguta Sorina Serboiu 1,6 and Vlad Denis Constantin 1,2
+
+1 Faculty of Medicine, Carol Davila University of Medicine and Pharmacy Bucharest,
+020021 Bucharest, Romania; tufutudor@yahoo.com (C.T.); bogdan.cristea@umfcd.ro (B.M.C.);
+irina.shevchenko@umfcd.ro (I.S.); alexandru.motofei@stud.umfcd.ro (A.F.M.);
+crenguta.serboiu@umfcd.ro (C.S.S.); constantindenis@yahoo.com (V.D.C.) 2 Department of General Surgery, St. Pantelimon Emergency Clinical Hospital, 020021 Bucharest, Romania 3 Fourth General Surgery Department, Emergency University Hospital Bucharest, 020021 Bucharest, Romania 4 Faculty of Dental Medicine, Carol Davila University of Medicine and Pharmacy, 020021 Bucharest, Romania 5 Department of Internal Medicine, Ilfov Emergency Clinic Hospital Bucharest, 022104 Bucharest, Romania 6 Cellular Biology and Histology Department, Carol Davila University of Medicine and Pharmacy,
+020021 Bucharest, Romania
+* Correspondence: dragos.serban@umfcd.ro
+
+Academic Editor: Anca Negovan
+Received: 7 February 2025 Revised: 31 March 2025 Accepted: 10 April 2025 Published: 16 April 2025
+Citation: Silaghi, A.; Serban, D.; Tudor, C.; Cristea, B.M.; Tribus, L.C.; Shevchenko, I.; Motofei, A.F.; Serboiu, C.S.; Constantin, V.D. A Review of Postoperative Complications in Colon Cancer Surgery: The Need for Patient-Centered Therapy. J. Mind Med. Sci. 2025, 12, 21. https://doi.org/10.3390/ jmms12010021
+Copyright: © 2025 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/ licenses/by/4.0/).
+
+Abstract: Surgery continues to be the primary therapeutic approach for patients diagnosed with colon cancer. Unfortunately, postoperative complications have been shown to negatively impact short-term patient outcomes, long-term oncological prognosis, and overall healthcare costs. The risk factors of postoperative complications are multiple, being linked to the patient’s general condition (lifestyle, comorbidities, etc.), the state of the neoplastic disease, as well as the drug and surgical treatments applied. If these factors are associated, the incidence of postoperative complications especially increases in the form of anastomotic leakage, bleeding, infections, postoperative ileus, and stoma-related complications. It is not surprising that these conditions are common causes of prolonged hospitalization in colon surgery, being associated with high rates of morbidity and mortality. Literature data show that the management of the oncological patient, especially if treated surgically and even more so when they develop postoperative complications, is difficult. It is a direct consequence of the fact that such cases can be quite different from each other, so that the development of a common therapeutic protocol is not possible. Therefore, the purpose of this review is to update and highlight the main risk factors for unfavorable outcomes in patients diagnosed and treated surgically for colon cancer, determine what are the most common postoperative complications, and how the course towards severe forms of evolution is influenced by various clinical and biological parameters. Data used for this review were collected from literature published between 2013 and 2025, using several parameters presented in the text. Consequently, the management strategy for these postoperative complications must be primarily based on an early, multidisciplinary and personalized approach, which appear to significantly improve the therapeutic results obtained.
+Keywords: colon cancer; surgery; anastomotic leakage; anastomotic bleeding; surgical site infections; postoperative ileus; stoma-related complications
+1. Introduction
+Colon cancer is the third most common cancer in the general population, as well as a leading cause of death from malignancy (53,200 cancer-related deaths per year in the United States) [1]. The primary treatment method for colon cancer (scheduled or emergency) is
+
+J. Mind Med. Sci. 2025, 12, 21
+
+https://doi.org/10.3390/jmms12010021
+
+J. Mind Med. Sci. 2025, 12, 21
+
+2 of 16
+surgery followed by chemotherapy, with five-year survival rates depending on the stage of the disease. Even though the survival rate through such a complex treatment method seems to be gradually increasing, approximately 30–40% of patients unfortunately experience subsequent relapses [2].
+General preoperative risk factors that may influence the outcome of patients with colon tumors include age, sex, general condition (nutritional status, etc.), associated comorbidities, presence of systemic inflammatory response (SIRS), etc. [3]. Infectious, epidemiological and social factors interfere with patients’ access to health services, thus contributing to the post-therapeutic evolution of patients with colon cancer [4].
+Specific preoperative risk factors, such as the stage of the primary tumor at diagnosis (large size, invasion of adjacent structures) and its possible local complications (intestinal obstruction, lower gastrointestinal bleeding or digestive perforation), as well as the presence of peritoneal or systemic metastases are determining factors for the prognosis of patients with colon cancer [5].
+All of these risk factors contribute to the occurrence of postoperative complications, which significantly influence morbidity, mortality and quality of life. Thus, approximately 40% of patients will develop one or more postoperative complications (anastomotic fistula, massive blood loss, and postoperative sepsis) [6], leading to a decrease in overall survival (up to 1 year) compared to patients without complications [7].
+Consequently, the identification of these pre-existing risk factors (especially in the case of patients who present in the emergency) is particularly important, as they allow a careful monitoring of patients predisposed to complications. When a postoperative complication is suspected, a good knowledge of the clinical manifestations and treatment methods is essential for obtaining the best possible outcome.
+The aim of this review is to update the main risk factors, preventive measures and specific therapies for postoperative complications in patients with colon cancer. These data are not only complex and interdependent but also have different degrees of severity, which is why they cannot be standardized in the form of defined protocols. A good knowledge of diagnosis and therapeutic management proved not only to be able to increase the patient’s outcomes but also to improve the quality of life and reduce health care costs.
+2. Materials and Methods
+For this review, a literature search was performed using the PubMed, Elsevier and Google Scholar databases, in the period 2013–2025. The key words in the selection of articles were: “postoperative complications in colon cancer”, “postsurgical complications in colon cancer”, “short-term outcomes in colon cancer”, “anastomotic leak in colon surgery”, “anastomotic leak in colon cancer”, “wound complications in colon surgery”, “stoma-related complications”, “stoma-related complications in colon cancer” and “septic complications in colon cancer”. From the identified articles, we included in the analysis narrative descriptive studies, systematic reviews, meta-analyses, randomized controlled trials, cohort studies and observational studies. Exclusion criteria included the unavailability of full-text articles, publications in languages other than English, as well as case reports, opinion papers, and conference proceedings.
+3. Discussions
+3.1. Postoperative Complications
+Early surgical/local postoperative complications are a major cause of increased mortality and morbidity in patients with colon cancer. In the long term, such complications may lead (by creating a prolonged pro-inflammatory microenvironment) to an increased rate of local recurrence and/or liver metastases [8].
+
+J. Mind Med. Sci. 2025, 12, 21
+
+3 of 16
+
+Complications
+Anastomotic leakage
+Anastomotic bleeding
+Postoperative infections
+Postoperative ileus
+Peristomal dermatitis
+Mucocutaneous dehiscence
+Ischemia and necrosis
+
+In addition to these local complications, unfavorable postoperative outcomes can also be systemic in the form of pneumonia, acute cardiovascular failure (especially in elderly patients associating comorbidities) [9], delirium, etc., which lead to a much more difficult recovery for the patient [7]. All these complications lead to a significant decrease in the patient’s quality of life and thus to an increased need for medical care, in some cases even leading to a reduction in overall survival by more than a year [6]. Table 1 presents a summary of surgical postoperative complications and appropriate therapeutic management.
+
+Table 1. Surgical postoperative complications and therapeutic management.
+
+Risk Factors
+
+Management
+
+• Advanced age [10]
+
+• Male sex [11]
+
+• Smoking [12]
+
+• Obesity and diabetes [13]
+
+• Surgical management: Acute Physiology and
+
+• Sarcopenia [14]
+
+Chronic Health Evaluation (APACHE) score > 2,
+
+• Serological parameters: neutrophil/lymphocyte
+
+presence of generalized peritonitis
+
+ratio > 2.66 [15], anemia and blood products
+
+• Colonoscopic management: stents [19],
+
+administration [16]
+
+polyurethane foam sponges [20]
+
+• Surgical risk factors: Emergency presentation
+
+• Drainage
+
+[17], ASA score > 3 [18]
+
+• Pathologic factors: tumor > 4 cm in size, low
+
+differentiation grade [15,16]
+
+• Surgical management: hemodynamic instability,
+
+• Surgical technique: inadequate preparation of the
+
+massive bleeding [23]
+
+bowel, mechanical [21] and latero-lateral
+
+• Endoscopic management: epinephrine injection
+
+anastomosis [22]
+
+[24] and/or injection of sclerosing agents (risk of
+
+necrosis and perforation, hemoclips,
+
+diathermocoagulation [25]
+
+• Surgical treatment: drainage, removing the
+
+• Obesity [26]
+
+predisposing factors (anastomotic leak,
+
+• Male sex
+
+contaminated prothesis, etc.) [29]
+
+• Diabetes [13]
+
+• Preventive methods: skin cleansing, adhesive
+
+• Surgery-related factors: emergency setting, stoma
+
+strips (low or no benefit) [30], aspiration and
+
+formation [27], prolonged surgery, ASA > 3 [28]
+
+lavage of the wound [31], preparation of the large
+
+bowel [32], intraoperative attitude (use of
+
+triclosan coated wire [33], drainage tubes [34])
+
+• Pharmacological attitude: prokinetic drugs
+
+(metoclopramide, erythromycin, etc.) that
+
+decreases the symptoms’ intensity [37],
+
+• Emergency surgery [35]
+
+supportive measures: parenteral nutrition,
+
+• Prolonged surgical time (extensive manipulation
+
+nasogastric drainage [36]
+
+of the bowel, extensive use of opioids) [36]
+
+• Preventive methods: administration of
+
+alvimopan [38], reduction of opioids use
+
+(epidural catheter, COX2 selective nonsteroidal
+
+anti-inflammatory drugs [39], chewing gum [40]
+
+and coffee usage [41])
+
+• Surgical technique deficiencies (improperly sized • Pharmacological attitude: ceramide-based
+
+stoma, distance < 50 mm between skin and
+
+gels [43], cyanoacrylate agents [44], barrier
+
+intestine) [42]
+
+substances (zinc oxide, antiperspirants, etc.) [45]
+
+• Application of convex barrier
+
+• Isolation of the abdominal wall (lavage,
+
+• Emergency surgery
+
+antiseptic solutions)
+
+• Inadequate surgical technique (excessive tension, • Usage of alginate gels (if dehiscence is at fascial
+
+overuse of coagulation instruments) [46]
+
+level [47])
+
+• Malnutrition
+
+• Surgical treatment (mobilization or new
+
+stoma [48]) if dehiscence is below fascial
+
+level [48]
+
+• Emergency set surgery [49] • Atherosclerosis and vascular disorders [50] • Diabetes [13]
+
+• Surgical treatment: debridement if necrosis is <2 cm [50] associated with negative pressure drainage [51], new stoma formation (necrosis > 2 cm)
+
+J. Mind Med. Sci. 2025, 12, 21
+
+4 of 16
+3.1.1. Anastomotic Leakage
+Anastomotic leakage (anastomotic fistula) is characterized by the leakage of intraluminal contents following the suture of two cavity organs [17]. Regarding risk factors and therapeutic management, it can be divided into early fistulas (with symptoms appearing in the first 5–8 days) and late fistulas (appearing between 8 and 30 days after surgery) [52]. Early dehiscence is usually caused by failure of surgical technique (microvascular injury, local tension, etc.) [53], being associated with fecal peritonitis and thus high mortality rates. In contrast, late fistulas occur more frequently in immunocompromised patients, those with obesity or exposed to radiotherapy [17]. Whatever the cause and size, late fistulas can usually lead to the development of a persistent pelvic abscess [52]. Anastomotic fistulas can be classified into three grades in terms of severity. Grade 1 does not cause pathological fluid leakage, and laboratory tests are normal. Grade 2 involves abdominal pain, purulent fluid, leukocytosis, and elevated inflammatory markers. In grade 3, the patient develops fecal peritonitis and multiple organ dysfunction, in which case prompt surgical intervention is the only therapeutic approach to improve the patient’s prognosis [54].
+Risk factors for anastomotic fistula include: advanced age and capillary fragility (due to reduced healing capacity) [10], male gender (due to the influence of androgen hormones that inhibit epithelialization through phospholipase D) [11], smoking (due to the vasoconstrictor and prothrombotic effects of nicotine on small blood vessels) [12], obesity and high blood sugar levels (which reduce the inflammatory response by altering neutrophil adhesion, chemotaxis, opsonization, phagocytosis, as well as by inducing inappropriate vasodilation) [13], sarcopenia (due to the synthesis, degradation and thus alteration of protein functions) [14], and finally due to preoperative factors, such as neutrophil/lymphocyte ratio > 2.66 [15], anemia and administration of blood products [16]. Emergency presentation due to complications [17], an ASA score > 3 [18], and a tumor > 4 cm in size with poor differentiation may also contribute to the occurrence of an anastomotic fistula [15,16].
+Regardless of the risk factors, the nature (early or late) of the anastomotic fistula and the surgical technique used, cellular and humoral mechanisms involve a marked release of catecholamines, prostaglandins and growth factors, which indirectly suppress immune (antitumor) defense mechanisms. On the other hand, the presence of diffuse peritoneal infection and marked local inflammation increases vascular permeability and promotes cell migration to capture the large number of pathogens present [17]. The inflammatory and infectious consequences of an anastomotic fistula imply an increased risk of local neoplastic recurrence, while survival decreases from 4.7% to 1.9%, especially in patients with tumors located in the distal colon [55]. Most studies show that the presence of such a complication usually requires specific treatment and prolonged hospitalization, which delay the start of chemotherapy [56].
+To prevent the occurrence of this complication, appropriate intraoperative assessment is necessary. This can vary from the usual mechanical patency tests of the anastomosis, up to endoscopic visualization or evaluation of the local vascularization using photoluminescent substances. Mechanical tests include instilling air, saline, or methylene blue into the digestive tract to assess the tightness of the anastomosis [57]. Angiographic assessment of anastomotic viability using indocyanine green can reduce the risk of anastomotic fistula to 3.3%, compared to the 8.5% risk associated with traditional assessment methods [58]. The best results with this technique were observed especially in cases where ultra-low anastomosis was performed for rectal or rectosigmoid junction tumors [59].
+Early diagnosis of an anastomotic fistula is essential for reducing the length of hospital stay, mortality and morbidity rates, and improving the oncological prognosis as well as the patient’s quality of life [60]. Depending on the patient, anastomotic leak can manifest clinically differently, from an asymptomatic radiological finding to sepsis through peri-
+
+J. Mind Med. Sci. 2025, 12, 21
+
+5 of 16
+tonitis and multi-organ failure. However, in most patients, postoperative anastomotic fistula manifests as a sudden onset of fever, tachypnea, oliguria, changes in the quantity or quality of drainage, prolonged ileus, or abdominal pain. Such signs must be recognized early, because an unrecognized anastomotic fistula can progress to multiple organ failure [17]. Useful paraclinical tools for early diagnosis include procalcitonin and C-reactive protein, the latter being controversial due to its low specificity. However, in association with signs or symptoms suggestive for anastomotic fistula, C-reactive protein becomes highly predictive [61]. In addition, the concomitant use of C-reactive protein and procalcitonin provides greater sensitivity and specificity for detecting (or excluding) an anastomotic fistula, especially on days 3–5. Abdominal–pelvic computed tomography can also be used, which in most medical centers is still the gold standard for diagnosis [61,62].
+The management of anastomotic fistulas can be either conservative or surgical, depending on the clinical presentation of the patient, comorbidities, the time elapsed from the anastomosis to the appearance of the drainage, etc. Nonoperative management is usually preferred in young patients in good general condition, low-flow fistulas, and in patients with proximal fecal diversion at initial surgery [20]. Factors that determine a surgical therapeutic approach for patients with anastomotic fistulas include the presence of multiple abscesses or fistulas identified on imaging, and/or an Acute Physiology and Chronic Health Evaluation (APACHE) score > 2 [63]. Patients with generalized peritonitis require exploratory laparotomy, resection of the anastomosis, and the performance of a terminal colostomy (to reduce the risk of subsequent septic contamination of the peritoneum), which in more than 50% of cases remains in the form of a permanent colostomy [17]. Another surgical approach for patients with anastomotic fistula is the creation of an ileostomy upstream of the anastomosis, followed by placement of a pelvic drain. This technique allows for effective lavage of the abdominal cavity and diversion of fecal contents to the stoma, while reducing the operation time [64].
+A minimally invasive approach can be applied via laparoscopy, as the risk of conversion to open surgery has been shown to be low in such cases. Laparoscopic techniques depend on the patient and available resources, from laparoscopic diversion ileostomy plus transanal anastomotic drainage to percutaneous drainage or new procedures, such as endoluminal vacuum-assisted therapy. Generally, abundant lavage of the peritoneal cavity and safe stoma formation can be performed with minimal intraoperative incidents. Such incidents, when they occur, can still be managed laparoscopically by an experienced surgical team [65]. Expandable colonoscopic stents may also be considered, if available. They limit communication between the peritoneal cavity and the digestive lumen, allowing remission of the septic syndrome and tissue repair and thus favoring the closure of the defect. The use of such devices resulted in a 73.3% success rate, with only 9.3% of patients requiring additional surgery to close the anastomotic defect [19]. Polyurethane foam sponges can also be placed through the colonoscope, this technique allowing drainage of the peritoneal cavity and promoting granulation and tissue repair. However, this method is not widely used due to the multiple endoscopic procedures that are required, which over time can lead to strictures or necrosis at the anastomotic site [20].
+3.1.2. Anastomotic Bleeding
+Gastrointestinal bleeding at the level of the anastomosis is a complication that can be encountered in different degrees of severity, from mild hematochezia (occurring during the first postoperative stool) to massive hemorrhage (requiring blood transfusions, minimally invasive hemostasis, or even surgery) [66]. With an incidence of approximately 0.5%, bleeding begins in most cases within the first 24 h postoperatively and can continue
+
+J. Mind Med. Sci. 2025, 12, 21
+
+6 of 16
+until day 6 postoperatively, thus leading to prolonged hospitalization (with an average of 11 days) [67].
+The causes of bleeding at the anastomosis site are generally related to deficiencies in surgical technique, in which the mesenteric surface of the digestive tract (involved in the suture) is not prepared and adequately delimited from the mesentery (the local vessels are not properly ligated). In general, performing manual anastomoses has the advantage of being performed under visual control, so it presents a lower risk of bleeding compared to the use of mechanical devices. In support of this, patients who underwent right colon resections followed by end-to-end mechanical ileocolic anastomosis experienced postoperative bleeding in 4.9% of cases, compared to another group of patients who underwent manual anastomosis in which no bleeding was observed [21]. Other studies suggest that any side-to-side anastomosis performed on the antimesenteric side should be checked for possible sources of bleeding, especially when performed with a stapler [22].
+Therapeutic management of bleeding at the anastomosis site involves performing colonoscopy, which allows both objectification of the diagnosis (placement of the lesion, assessment of bleeding flow) and specific therapeutic maneuvers (hemostatic methods, such as adrenaline injection, diathermocoagulation, mechanical methods of hemostasis or a combination of them) [25]. Even though it is considered a minimally invasive treatment method (the insufflation of pressurized air, local trauma, risk of damage to the anastomosis or favoring the formation of fistulas at this level), the results obtained show that the associated risks are relatively low, with only 10% of patients experiencing colonoscopic complications [68]. Failure of minimally invasive treatment with massive bleeding and hemodynamic instability usually requires laparotomy, in which either the anastomosis is resected and reconstructed or it is removed from the digestive circuit and a stoma is created [23].
+Relatively similar results were found in centers where only conservative treatment (without endoscopy) was effective to stop anastomotic bleeding [69]. Thus, the use of diluted epinephrine (1:10,000) appears to be a stable and safe hemostatic method, so that it is frequently used to treat hemorrhage. Epinephrine-induced vasoconstriction promotes platelet aggregation and subsequent formation of a higher quality clot [24]. In a similar way, injection of sclerosing agents, such as alcohol, ethanolamine, and polidocanol, may be useful for their tamponade effect. Such drugs should, however, be administered with caution because they are associated with a higher risk of local necrosis, perforation, and ulceration. Hemoclips or diathermocoagulation are other methods that can be used to control bleeding at the anastomosis site. Unfortunately, none of these methods has proven to be superior to the other, so its choice is at the discretion of the endoscopist (depending on the available materials, the doctor’s experience, etc.) [25].
+3.1.3. Postoperative Infections
+Surgical site infections are defined as the presence of local infection after the intervention, either at the incision site or in the vicinity of tissues exposed during operation. They have significant implications for the patient, the medical team, and the healthcare system due to the complex impact of pathogenic agents on both the body and the patient’s quality of life [70]. Patients undergoing lower gastrointestinal surgery are more severely affected, due to the high risk of contamination and the severe course specific to virulent microbes (gram-positive cocci/enterococci, gram-negative bacilli/enterobacteriaceae, pseudomonas, anaerobes, etc.) [71,72]. In support of this, postoperative infections from colon interventions are encountered approximately four times more often than in other types of surgeries [73].
+Factors that lead to the occurrence of infections at the wound site are mainly represented by contamination with bacteria from the colon. If the virulence of the germs is
+
+J. Mind Med. Sci. 2025, 12, 21
+
+7 of 16
+increased, infection can occur even in cases of minimal microbial inoculations [74]. In the case of polymicrobial contamination (aerobic and anaerobic colon flora), the phenomenon of bacterial synergy is described, which significantly increases the aggressiveness on tissues [75]. In addition to the risk of contamination with colon bacteria in patients undergoing colon surgery, there is also the risk of contamination with commensal skin flora (S. aureus being responsible for approximately 20% of postoperative wound infections) [76] or with healthcare-associated pathogenic flora [77].
+Factors that favor infection in patients undergoing colon cancer surgery include obesity (by reduced tissue oxygen supply and altered collagen synthesis) [26], male gender, diabetes mellitus, stoma formation (bacterial translocation through the intestinal wall and skin contamination during stoma formation) [27], performing surgery in an emergency setting (a fast cleaning increases the risk of wound contamination), prolonged duration of surgery, a higher ASA score, and insufficient time for adequate correction of the patient’s comorbidities [28]. In the case of association of several risk factors, the infection rate can reach up to 30% of cases [78].
+Topographically, postoperative infections can be in the form of superficial infections (at the skin and subcutaneous tissue level), deep infections (at the muscle and fascia level), and infections localized to the viscera and/or peritoneal cavity. Clinically, the postoperative infections most often occur within the first 14 days after surgery or procedures involving the digestive tract [79]. Such infection should be suspected when drainage is purulent or when signs of wound dehiscence are present (local induration with or without drainage), all correlating with systemic signs, such as fever or chills [80].
+From a pathophysiological point of view, abdominal wall incision and surgical procedures lead to destruction of blood vessels and tissues, which activate multiple and interrelated cellular reactions (coagulation cascade, platelet activation, bradykinin cascade, activation of mast cells and neutrophils, etc.). These mechanisms are complemented by the process of local vasodilation, which further favors the migration of immune cells to phagocytize potentially foreign bacteria. Vasodilation is often associated by increased capillary permeability that favors the extravasation of fibrin, which further forms (through precipitation) a barrier that prevents bacterial penetration [77].
+The management of postoperative infections includes both preventive methods (decreasing the predisposing factors) and general therapeutic measures (intraoperative and postoperative). When infections are bacteriologically confirmed, they are treated with conservative, surgical, or combined methods [29].
+Regarding prevention, it is recommended to perform local skin cleansing with antiseptic solutions along with hair removal, to reduce contamination of the postoperative wound with commensal germs. Notable benefits have been identified by applying antiseptic solutions based on chlorhexidine and povidone-iodine to the patient’s skin, the former being preferred because its combination with alcohol increases bactericidal capacity [81]. Several studies show that hair removal appears to offer a significant reduction in the risk of wound infection [82]. Other studies suggest that application of antiseptic-impregnated adhesive strips before surgery reduces both endogenous and exogenous contamination of the skin during surgery [83]. However, no clear benefit of this method has been found in high-risk surgical procedures, such as colon surgery [30,84].
+Mechanical preparation of the large bowel and/or administration of prophylactic antibiotics are also effective methods for preventing postoperative infectious complications and anastomotic fistulas [32]. Combining mechanical preparation with antibiotic therapy in patients undergoing open surgery for colon tumors resulted in decreased mortality, morbidity and rates of anastomotic fistulas [85], compared to cases in which a single preoperative preparation method was used [86,87]. For prevention, oral administration
+
+J. Mind Med. Sci. 2025, 12, 21
+
+8 of 16
+of either neomycin or erythromycin in combination with metronidazole appears to have similar results [88]. Alternatively, ertapenem or a combination of a second-generation cephalosporin with metronidazole can be administered 30 min before incision [89].
+Intraoperative wound irrigation with antiseptic solutions (such as povidone-iodine) promotes mobilization and elimination of devitalized tissue and reduces local microbial flora (mechanical and antiseptic actions) [60]. It is superior to simple saline irrigation [90], which does not appear to be as effective in controlling wound infections as the use of lavage and jet irrigation systems (simple saline irrigation associating higher rates of postoperative infection) [31,91].
+The nature of the suture material used to close the abdominal wall may also influence the rate of infectious complications at the wound site, as pathogens may adhere to the suture thread and subsequently proliferate. Literature data show that the monofilament suture is most appropriate for operations with high septic risk, such as colon surgery [29]. Monofilament sutures are based on several materials (polydioxanone, polypropylene, nylon, etc.) being used in patients at high risk of infection [92]. Triclosan-coated sutures, although more expensive, appear to be superior in terms of reducing wound infection rates and preventing prolonged hospitalization [33].
+A simple but effective method for combating postoperative colon infections is the placement of drainage tubes to prevent or eliminate possible intraperitoneal collections. Drains have proven extremely useful in treating hemorrhagic and infectious complications, especially in association with a rapid recovery protocol when it significantly decreases the rate of mortality, morbidity, or reoperations [35,93]. In the absence of a rapid recovery protocol, drainage can negatively affect the patient’s overall condition, as it increases the need for analgesics, reduces mobility, and increases the risk of respiratory infections associated with prolonged hospitalization [35]. Applying a tight dressing to the postoperative wound and connecting it to a negative pressure suction device may also be helpful in preventing surgical site infections. Negative pressure promotes drainage of fluids released from the wound (caused by tissue trauma during surgery) and prevents bacterial colonization at the surgical site. The use of suction procedure in patients undergoing major surgery (colon cancer, gastric and pancreatic resections, etc.) appears to reduce the risk of local infection by up to 50% [94].
+3.1.4. Postoperative Ileus
+Postoperative ileus is defined as the temporary cessation of motor activity of the digestive tract; for a defined period of time, it is a common reaction caused by anesthetic–surgical procedures. If persistent, intestinal paresis leads to abdominal distention, vomiting, and the patient’s inability to eat, ultimately leading to prolonged hospitalization [36]. Peristaltic movements in the digestive tract are supported by the interstitial cells of Cajal, which are modulated by sympathetic and parasympathetic fibers, as well as inflammatory and infectious factors [95].
+Intraoperative manipulation of intestinal loops leads to infiltration of the mucosa with leukocytes (in response to trauma), which subsequently decreases the contractile strength of smooth muscles in that area [35]. In addition, the synthesis of inflammatory factors produced by macrophages (via COX2 and nitric oxide) [96,97] decreases the activity of autonomic fibers that regulate peristaltic activity. Splanchnic nerve fibers may increase sympathetic activity during surgery, decreasing motility via vasoactive intestinal polypeptide (VIP) [36,95]. All of these factors, in combination with the effects of anesthetic drugs (which interact with central nervous and opioid receptors in the intestine), contribute to the onset and persistence of postoperative ileus [98].
+
+J. Mind Med. Sci. 2025, 12, 21
+
+9 of 16
+Therapeutic management of postoperative ileus is generally symptomatic (there is currently no specific treatment to restore intestinal transit), being related especially to the signs and symptoms expressed in the postoperative period. The modern approach is mainly based on supportive measures, such as intestinal decompression via nasogastric tube, parenteral nutrition, and crystalloid solutions to maintain blood homeostasis [36]. Numerous measures can be taken to prevent the occurrence of postoperative ileus, many of which are already integrated into the management of patients with colon cancer [99]. Thus, crystalloid solutions should be administered but only in adequate amounts, as excessive intake may increase intestinal edema and worsen postoperative ileus [80]. Conversely, fluid restriction may promote gastric emptying [100] but with the risk of hypotension and acute kidney injury in susceptible individuals [101].
+Administration of prokinetic substances (metoclopramide or acetylcholinesterase inhibitors) may be useful for reducing intense and disturbing symptoms [37]. In addition, alvimopan or methylnaltrexone (µ-receptor antagonists that do not cross the blood–brain barrier) appears to reduce the occurrence/extent of postoperative ileus, reducing patient hospitalization by approximately 0.62 days [38]. These medications also involve a reduction/avoidance of opioids that are administered for pain control. The epidural catheter can only be used for open interventions, as minimally invasive surgeries do not seem to benefit from this procedure [102]. The use of COX-2 selective NSAIDs, such as celecoxib, is recommended to reduce paralytic ileus (caution for diclofenac and ketorolac which are associated with a higher risk of anastomotic fistula) [39,103].
+Other preventive methods include the administration of chewing gum, which stimulates parasympathetic activity and the resumption of intestinal transit but apparently without affecting the length of hospital stay [40]. Postoperative coffee consumption can stimulate gastrin secretion and can also interact with opioid receptors, thus diminishing the anesthetic effect and favoring the restoration of intestinal transit (while maintaining the same duration of hospitalization) [41].
+3.1.5. Early Complications of Stoma Formation
+Stoma formation is a common therapeutic option in colon cancer, both in emergency and elective surgeries. This method significantly improves survival rates, but the procedure involves a decrease in quality of life, especially in cases where stoma-related complications occur during hospitalization. Such complications can reach up to 80%, being associated with substantial care costs due to the necessary skin care products and devices and prolonged hospitalization [104,105].
+◦ Peristomal Irritant Contact Dermatitis
+Peristomal irritant contact dermatitis is one of the most common complications caused by prolonged contact of fecal matter with the patient’s skin. The causes of this complication may be related to the poor quality of the bag used, it is not changed properly, the stoma is of inappropriate size, etc. [42]. The nature and quantity of the excreted materials influence the rate and evolution of this complication. Thus, a diet based on excessive intake of water, digestive juices, spices, etc., can cause multiple and severe skin microlesions. In addition, an increased volume of fluid (especially ileal) can easily spread to the skin, thus favoring skin damage [104].
+In the case of dermatitis and other associated lesions caused by skin exposure to the fluid discharged through the stoma, it is first necessary to close the area between the pouch and the intestinal segment to minimize skin exposure to aggressive factors [42]. The risk of irritation is higher when the distance between the end of the intestine and the skin surface reaches 50 mm. In such cases, it is necessary to apply a convex barrier to increase the prominence of the stoma in the pouch, thus reducing the size and severity of skin
+
+J. Mind Med. Sci. 2025, 12, 21
+
+10 of 16
+complication [43]. The application of ceramide-based gels increases the local healing rate and also improves patient satisfaction by reducing pruritus, local pain, and decreasing fluids leaking through the stoma [106].
+The addition of cyanoacrylate-based sealants may be useful for patients with preexisting lesions, promoting healing but with the risk of notable allergic reactions [44]. Other barrier substances (e.g., zinc oxide-based ointments, antiperspirants, or pectin-based hydrocolloid powder) also provide faster healing rates with minimal discomfort [45]. If the reaction persists after applying these measures, topical steroid treatment should be added to reduce inflammation. Triamcinolone or beclomethasone sprays are preferred because they dry quickly and do not affect the barrier function of other products or the adhesion of the gel around the stoma. In exceptional cases, injectable corticosteroids may also be helpful [107].
+◦ Mucocutaneous Dehiscence
+Mucocutaneous dehiscence is another possible complication, especially in patients undergoing emergency surgery or those with terminal colostomies. Possible causes include improper surgical technique (excessive tension on the bowel, excessive use of coagulation instruments on the colon mucosa) leading to poor contact between the skin and the colon mucosa and causing local infection and suppuration [46].
+Management consists of lavage with isotonic solutions as well as isolation of the abdominal wall as much as possible. Infections or malnutrition are frequently encountered/precursors to such a complication and must be addressed appropriately. If the dehiscence is superficial, it must be closed quickly to prevent the infection from progressing deeper. When dehiscence occurs at the fascial level, alginate-based gels can be used with good results [47]. Surgical treatment involves partial mobilization of the proximal intestine and suturing it to the skin. Whenever possible, it is still preferable to close the abdominal breach and create a new stoma [48], which can be performed as a day surgery in selected cases [108].
+◦ Ischemia and Necrosis of the Intestinal Segment
+Ischemia and necrosis of the intestinal segment protruding from the peritoneal cavity through the skin is a severe complication of stoma, especially in hospitalized patients undergoing emergency surgery [49]. The main cause of this complication is related to vascularization (compression of small vessels at the fascial level, local tension or preexisting vascular disorders), which becomes insufficient and thus unable to ensure the necessary blood flow to the stoma [50]. Such vascular problems usually occur in the superficial fascia area, leading to local necrosis in the immediate postoperative period [109].
+Stoma necrosis is treated therapeutically depending on its extent. If superficial, only debridement (without surgery) is required [110], which must be performed carefully due to the risk of retraction and stenosis [50]. When necrosis exceeds 2 cm, surgery can be considered, especially since it is easy to perform early postoperatively (weak adhesions, minimal mesenteric edema) [110]. Other therapeutic approaches for the management of a necrotic stoma include the use of transparent bags (which allow for successive assessments and repeated debridements) [107], as well as the use of negative pressure dressings (to isolate the affected area) [51].
+Surgical treatment is indicated when the necrotic area extends beyond the fascia. The technique used involves the resection of the entire affected ischemic intestine but with caution in order to maintain sufficient mobility of the remaining intestine to reach the skin. During late surgery, several changes occur (such as mesenteric edema and inflammatory adhesions) that make it difficult to mobilize the digestive tube to the skin [111].
+
+J. Mind Med. Sci. 2025, 12, 21
+
+11 of 16
+
+4. Conclusions
+Although the surgical management of colon cancer has evolved over time, postoperative complications still remain frequently encountered in practice, especially in patients hospitalized and operated on under emergency conditions. When surgery must be performed urgently, preoperative preparation of the patient (correction of hydroelectrolytic, hemodynamic and metabolic imbalances) is most often performed in a limited/insufficient period of time. In addition, associated comorbidities and other possible risk factors not only increase the rate of postoperative complications but also require specific therapeutic measures.
+Depending on the severity, each postoperative complication has different forms of clinical manifestation. Due to the nature and variability of these complications, diagnosis and treatment cannot be rigorously standardized. A good knowledge of the risk factors, diagnostic possibilities and treatment options, allow both an early diagnosis of postoperative complications and an adequate therapeutic management, which in most cases turns out to be personalized. Such patient-centered therapy could reduce the risk of postoperative complications, improving quality of life and survival rates, while reducing costs in healthcare systems. Future studies should be focused on discovery of new drug classes (antibiotics, anesthetics, etc.) with low impact on intestinal motility, microbiota, metabolic and immunity mechanisms, as well as minimally invasive surgical techniques, in order to decrease as much as possible postoperative complications.
+Author Contributions: Conceptualization: A.S., D.S. and V.D.C.; writing—original draft preparation: C.T., C.S.S. and I.S; validation: D.S. and V.D.C.; investigation: B.M.C. and L.C.T.; data curation: A.F.M., C.T. and B.M.C.; writing—review and editing: A.S.; visualization: A.F.M., I.S. and C.S.S.; supervision: A.S., D.S. and V.D.C. All authors have read and agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Conflicts of Interest: The authors declare no conflict of interest.
+References
+1. Vogel, J.D.; Felder, S.I.; Bhama, A.R.; Hawkins, A.T.; Langenfeld, S.J.; Shaffer, V.O.; Thorsen, A.J.; Weiser, M.R.; Chang, G.J.; Lightner, A.L.; et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Colon Cancer. Dis. Colon Rectum 2021, 65, 148–177. [CrossRef] [PubMed]
+2. White, A.; Joseph, D.; Rim, S.H.; Johnson, C.J.; Coleman, M.P.; Allemani, C. Colon cancer survival in the United States by race and stage (2001–2009): Findings from the CONCORD-2 study. Cancer 2017, 123, 5014–5036. [CrossRef] [PubMed]
+3. Klaver, C.E.; Wasmann, K.A.; Verstegen, M.; van der Bilt, J.D.; Nagtegaal, I.D.; van Ramshorst, B.; Tanis, P.J.; Wolthuis, A.M.; van Santvoort, H.C.; de Wilt, J.H.; et al. Postoperative abdominal infections after resection of T4 colon cancer increase the risk of intra-abdominal recurrence. Eur. J. Surg. Oncol. (EJSO) 2018, 44, 1880–1888. [CrossRef] [PubMed]
+4. Serban, D.; Socea, B.; Badiu, C.D.; Tudor, C.; Balasescu, S.A.; Dumitrescu, D.; Trotea, A.M.; Spataru, R.I.; Vancea, G.; Dascalu, A.M.; et al. Acute surgical abdomen during the COVID-19 pandemic: Clinical and therapeutic challenges. Exp. Ther. Med. 2021, 21, 1–7. [CrossRef]
+5. S¸avlovschi, C.; Comandas¸u, M.; S¸erban, D. Specifics of diagnosis and treatment in synchronous colorectal cancers (SCC). Chirurgia 2013, 108, 43–45.
+6. Kotronoulas, G.; Papadopoulou, C.; Burns-Cunningham, K.; Simpson, M.; Maguire, R. A systematic review of the supportive care needs of people living with and beyond cancer of the colon and/or rectum. Eur. J. Oncol. Nurs. 2017, 29, 60–70. [CrossRef]
+7. Constantin, V.D.; Silaghi, A.; Epistatu, D.; Bălan, D.G.; Groseanu, F.S.; Nedelcu, D.M.; Paunica, I. Surgery of the colon; the impact of colostomy and postoperative complications on patients’ quality of life. J. Mind Med. Sci. 2023, 11, 156–162. [CrossRef]
+8. de Nes, L.C.F.; Hannink, G.; Lam-Boer, J.; Hugen, N.; Verhoeven, R.H.; de Wilt, J.H.W.; Dutch Colorectal Audit Group. Postoperative mortality risk assessment in colorectal cancer: Development and validation of a clinical prediction model using data from the Dutch ColoRectal Audit. BJS Open 2022, 6, zrac014. [CrossRef]
+9. Savlovschi, C.; Serban, D.; Trotea, T.; Borcan, R.; Dumitrescu, D. Post-surgery morbidity and mortality in colon cancer in el-derly subjects. Chirurgia 2013, 108, 177–179.
+
+J. Mind Med. Sci. 2025, 12, 21
+
+12 of 16
+
+10. Moreno-Carmona, M.R.; Serra-Prat, M.; Riera, S.A.; Estrada, O.; Ferro, T.; Querol, R. Effect of frailty on postoperative complications, mortality, and survival in older patients with non-metastatic colon cancer: A systematic review and meta-analysis. J. Geriatr. Oncol. 2023, 15, 101639. [CrossRef]
+11. Zarnescu, E.C.; Zarnescu, N.O.; Costea, R. Updates of Risk Factors for Anastomotic Leakage after Colorectal Surgery. Diagnostics 2021, 11, 2382. [CrossRef] [PubMed]
+12. Kwak, H.D.; Kim, S.-H.; Kang, D.W.; Baek, S.-J.; Kwak, J.M.; Kim, J. Risk Factors and Oncologic Outcomes of Anastomosis Leakage After Laparoscopic Right Colectomy. Surg. Laparosc. Endosc. Percutaneous Tech. 2017, 27, 440–444. [CrossRef] [PubMed]
+13. Tan, D.J.H.; Yaow, C.Y.L.; Mok, H.T.; Ng, C.H.; Tai, C.H.; Tham, H.Y.; Foo, F.J.; Chong, C.S. The influence of diabetes on postoperative complications following colorectal surgery. Tech. Coloproctol. 2021, 25, 267–278. [CrossRef]
+14. Vergara-Fernandez, O.; Trejo-Avila, M.; Salgado-Nesme, N. Sarcopenia in patients with colorectal cancer: A comprehensive review. World J. Clin. Cases 2020, 8, 1188–1202. [CrossRef]
+15. Wang, C.-Y.; Li, X.-L.; Ma, X.-L.; Yang, X.-F.; Liu, Y.-Y.; Yu, Y.-J. Preoperative neutrophil-to-lymphocyte ratio predicts symptomatic anastomotic leakage in elderly colon cancer patients: Multicenter propensity score-matched analysis. World J. Gastrointest. Surg. 2024, 16, 438–450. [CrossRef]
+16. Yamada, T.; Endo, H.; Hasegawa, H.; Kakeji, Y.; Yamamoto, H.; Miyata, H.; Otsuka, K.; Matsuda, A.; Yoshida, H.; Kitagawa, Y. Presurgical mild anemia is a risk factor for severe postoperative complications of rectal cancer surgery: A Japanese nationwide retrospective cohort study. Ann. Gastroenterol. Surg. 2024, 8, 471–480. [CrossRef]
+17. Chiarello, M.M.; Fransvea, P.; Cariati, M.; Adams, N.J.; Bianchi, V.; Brisinda, G. Anastomotic leakage in colorectal cancer surgery. Surg. Oncol. 2022, 40, 101708. [CrossRef]
+18. He, J.; He, M.; Tang, J.-H.; Wang, X.-H. Anastomotic leak risk factors following colon cancer resection: A systematic review and meta-analysis. Langenbeck’s Arch. Surg. 2023, 408, 1–11. [CrossRef]
+19. Arezzo, A.; Bini, R.; Secco, G.L.; Verra, M.; Passera, R. The role of stents in the management of colorectal complications: A systematic review. Surg. Endosc. 2016, 31, 2720–2730. [CrossRef]
+20. Chiarello, M.M.; Bianchi, V.; Fransvea, P.; Brisinda, G. Endoluminal vacuum-assisted therapy as a treatment for anastomotic leakage in colon surgery. World J. Gastroenterol. 2022, 28, 3747–3752. [CrossRef]
+21. Golda, T.; Zerpa, C.; Kreisler, E.; Trenti, L.; Biondo, S. Incidence and management of anastomotic bleeding after ileocolic anastomosis. Color. Dis. 2013, 15, 1301–1308. [CrossRef] [PubMed]
+22. Dietz, D.W. Postoperative complications. In The ASCRS Textbook of Colon and Rectal Surgery; Beck, D.E., Roberts, P.L., Saclarides, T.J., Senagore, A.J., Stamos, M.J., Wexner, S.D., Eds.; Springer: Berlin/Heidelberg, Germany, 2011; pp. 157–173. [CrossRef]
+23. Hanna, D.N.; Hawkins, A.T. Colorectal. Colorectal: Management of postoperative complications in colorectal surgery. Surg. Clin. N. Am. 2021, 101, 717–729. [CrossRef] [PubMed]
+24. Lim, J.K.; Ahmed, A. Endoscopic Approach to the Treatment of Gastrointestinal Bleeding. Tech. Vasc. Interv. Radiol. 2004, 7, 123–129. [CrossRef] [PubMed]
+25. Liu, W.; Lin, D.; Zhong, Q.; Su, M.; Li, J.; Guo, X.; Hu, J. Endoscopic management of postoperative anastomotic bleeding in patients with colorectal cancer. Int. J. Color. Dis. 2020, 35, 1703–1709. [CrossRef]
+26. Meijs, A.P.; Koek, M.B.; Vos, M.C.; Geerlings, S.E.; Vogely, H.C.; de Greeff, S.C. The effect of body mass index on the risk of surgical site infection. Infect. Control. Hosp. Epidemiol. 2019, 40, 991–996. [CrossRef]
+27. Calu, V.; Piriianu, C.; Miron, A.; Grigorean, V.T. Surgical Site Infections in Colorectal Cancer Surgeries: A Systematic Review and Meta-Analysis of the Impact of Surgical Approach and Associated Risk Factors. Life 2024, 14, 850. [CrossRef]
+28. De Simone, B.; Sartelli, M.; Coccolini, F.; Ball, C.G.; Brambillasca, P.; Chiarugi, M.; Campanile, F.C.; Nita, G.; Corbella, D.; Leppaniemi, A.; et al. Intraoperative surgical site infection control and prevention: A position paper and future addendum to WSES intra-abdominal infections guidelines. World J. Emerg. Surg. 2020, 15, 1–23. [CrossRef]
+29. Bath, M.; Davies, J.; Suresh, R.; Machesney, M.R. Surgical site infections: A scoping review on current intraoperative prevention measures. Ind. Mark. Manag. 2022, 104, 571–576. [CrossRef]
+30. Webster, J.; Alghamdi, A. Use of plastic adhesive drapes during surgery for preventing surgical site infection. Cochrane Database Syst. Rev. 2015, 2019, CD006353. [CrossRef]
+31. Bath, M.; Suresh, R.; Davies, J.; Machesney, M. Does pulsed lavage reduce the risk of surgical site infection? A systematic review and meta-analysis. J. Hosp. Infect. 2021, 118, 32–39. [CrossRef]
+32. Maatouk, M.; Akid, A.; Kbir, G.H.; Mabrouk, A.; Selmi, M.; Ben Dhaou, A.; Daldoul, S.; Haouet, K.; Ben Moussa, M. Is There a Role for Mechanical and Oral Antibiotic Bowel Preparation for Patients Undergoing Minimally Invasive Colorectal Surgery? A Systematic Review and Meta-analysis. J. Gastrointest. Surg. 2023, 27, 1011–1025. [CrossRef] [PubMed]
+33. Edwards, M.; Graziadio, S.; Shore, J.; Schmitz, N.D.; Galvain, T.; Danker, W.A.; Kocaman, M.; Pournaras, D.J.; Bowley, D.M.; Hardy, K.J. Plus Sutures for preventing surgical site infection: A systematic review of clinical outcomes with economic and environmental models. BMC Surg. 2023, 23, 300. [CrossRef] [PubMed]
+
+J. Mind Med. Sci. 2025, 12, 21
+
+13 of 16
+
+34. EuroSurg Collaborative; Sgrò, A.; Blanco-Colino, R.; Ahmed, W.; Brindl, N.; Gujjuri, R.; Lapolla, P.; Mills, E.; Pérez-Ajates, S.; Soares, A.; et al. Intraperitoneal drain placement and outcomes after elective colorectal surgery: International matched, prospective, cohort study. Br. J. Surg. 2022, 109, 520–529. [CrossRef]
+35. Fujiyoshi, S.; Homma, S.; Yoshida, T.; Ichikawa, N.; Shibata, K.; Matsui, H.; Taketomi, A. A Study of risk factors of postoperative ileus after laparoscopic colorectal resection. Ann. Gastroenterol. Surg. 2023, 7, 949–954. [CrossRef]
+36. Sommer, N.P.; Schneider, R.; Wehner, S.; Kalff, J.C.; Vilz, T.O. State-of-the-art colorectal disease: Postoperative ileus. Int. J. Color. Dis. 2021, 36, 2017–2025. [CrossRef]
+37. Traut, U.; Brügger, L.; Kunz, R.; Pauli-Magnus, C.; Haug, K.; Bucher, H.; Koller, M.T. Systemic prokinetic pharmacologic treatment for postoperative adynamic ileus following abdominal surgery in adults. Cochrane Database Syst. Rev. 2008, CD004930. [CrossRef]
+38. Chamie, K.; Golla, V.; Lenis, A.T.; Lec, P.M.; Rahman, S.; Viscusi, E.R. Peripherally Acting µ-Opioid Receptor Antagonists in the Management of Postoperative Ileus: A Clinical Review. J. Gastrointest. Surg. 2020, 25, 293–302. [CrossRef]
+39. Wattchow, D.A.; DE Fontgalland, D.; Bampton, P.A.; Leach, P.L.; Mclaughlin, K.; Costa, M. Clinical trial: The impact of cyclooxygenase inhibitors on gastrointestinal recovery after major surgery—A randomized double blind controlled trial of celecoxib or diclofenac vs. placebo. Aliment. Pharmacol. Ther. 2009, 30, 987–998. [CrossRef]
+40. Roslan, F.; Kushairi, A.; Cappuyns, L.; Daliya, P.; Adiamah, A. The Impact of Sham Feeding with Chewing Gum on Postoperative Ileus Following Colorectal Surgery: A Meta-Analysis of Randomised Controlled Trials. J. Gastrointest. Surg. 2020, 24, 2643–2653. [CrossRef]
+41. Hogan, S.; Steffens, D.; Rangan, A.; Solomon, M.; Carey, S. The effect of diets delivered into the gastrointestinal tract on gut motility after colorectal surgery—A systematic review and meta-analysis of randomised controlled trials. Eur. J. Clin. Nutr. 2019, 73, 1331–1342. [CrossRef]
+42. Gray, M.; Colwell, J.C.; Doughty, D.; Goldberg, M.; Hoeflok, J.; Manson, A.; McNichol, L.; Rao, S. Peristomal Moisture–Associated Skin Damage in Adults with Fecal Ostomies: A comprehensive review and consensus. J. Wound Ostomy Cont. Nurs. 2013, 40, 389–399. [CrossRef] [PubMed]
+43. Liu, G.; Chen, Y.; Luo, J.; Liu, A.; Tang, X. The Application of a Moldable Skin Barrier in the Self-Care of Elderly Ostomy Patients. Gastroenterol. Nurs. 2017, 40, 117–120. [CrossRef] [PubMed]
+44. Milne, C.T.; Saucier, D.; Trevellini, C.; Smith, J. Evaluation of a Cyanoacrylate Dressing to Manage Peristomal Skin Alterations Under Ostomy Skin Barrier Wafers. J. Wound Ostomy Cont. Nurs. 2011, 38, 676–679. [CrossRef] [PubMed]
+45. Morss-Walton, P.C.; Yi, J.Z.; Gunning, M.; McGee, J.S. Ostomy 101 for dermatologists: Managing peristomal skin diseases. Dermatol. Ther. 2021, 34, e15069. [CrossRef]
+46. Pearson, R.; Knight, S.R.; Ng, J.C.K.; Robertson, I.; McKenzie, C.; Macdonald, A.M. Stoma-Related Complications Following Ostomy Surgery in 3 Acute Care Hospitals: A Cohort Study. J. Wound Ostomy Cont. Nurs. 2020, 47, 32–38. [CrossRef]
+47. Parini, D.; Bondurri, A.; Ferrara, F.; Rizzo, G.; Pata, F.; Veltri, M.; Forni, C.; Coccolini, F.; Biffl, W.L.; Sartelli, M.; et al. Surgical management of ostomy complications: A MISSTO–WSES mapping review. World J. Emerg. Surg. 2023, 18, 1–16. [CrossRef]
+48. Roveron, G.; Barbierato, M.; Rizzo, G.; Parini, D.; Bondurri, A.; Veltri, M.; Pata, F.; Cattaneo, F.; Tafuri, A.; Forni, C.; et al. Italian Guidelines for the Nursing Management of Enteral and Urinary Stomas in Adults: An Executive Summary. J. Wound Ostomy Cont. Nurs. 2021, 48, 137–147. [CrossRef]
+49. Lindholm, E.; Persson, E.; Carlsson, E.; Hallén, A.-M.; Fingren, J.; Berndtsson, I. Ostomy-Related Complications After Emergent Abdominal Surgery: A 2-year follow-up study. J. Wound Ostomy Cont. Nurs. 2013, 40, 603–610. [CrossRef]
+50. Murken, D.R.; Bleier, J.I.S. Ostomy-Related Complications. Clin. Colon Rectal Surg. 2019, 32, 176–182. [CrossRef] 51. Valiente, L.H.; García-Alcalá, D.; Paz, P.S.; Rowan, S. The challenges of managing a complex stoma with NPWT. J. Wound Care
+2012, 21, 120–123. [CrossRef] 52. Yang, S.Y.; Han, Y.D.; Cho, M.S.; Hur, H.; Min, B.S.; Lee, K.Y.; Kim, N.K. Late anastomotic leakage after anal sphincter saving
+surgery for rectal cancer: Is it different from early anastomotic leakage? Int. J. Color. Dis. 2020, 35, 1321–1330. [CrossRef] [PubMed] 53. Park, J.S.; Choi, G.-S.; Kim, S.H.; Kim, H.R.; Kim, N.K.; Lee, K.Y.; Kang, S.B.; Kim, J.Y.; Lee, K.Y.; Kim, B.C.; et al. Multicenter
+Analysis of Risk Factors for Anastomotic Leakage After Laparoscopic Rectal Cancer Excision. Ann. Surg. 2013, 257, 665–671. [CrossRef] [PubMed] 54. Ellis, C.T.; Maykel, J.A. Defining Anastomotic Leak and the Clinical Relevance of Leaks. Clin. Colon Rectal Surg. 2021, 34, 359–365. [CrossRef] 55. Ramphal, W.; Boeding, J.R.; Gobardhan, P.D.; Rutten, H.J.; de Winter, L.J.B.; Crolla, R.M.; Schreinemakers, J.M. Oncologic outcome and recurrence rate following anastomotic leakage after curative resection for colorectal cancer. Surg. Oncol. 2018, 27, 730–736. [CrossRef] 56. Suceveanu, A.P.; Serban, D.; Caloian, A.D.; Cozaru, G.C.; Chisoi, A.; Nicolau, A.A.; Micu, I.S.; Suceveanu, A.I. Correlation between molecular prognostic factors and bevacizumab therapeutic resistance in patients with metastatic colorectal cancer; the AVAMET study. J. Mind Med. Sci. 2023, 11, 175–182. [CrossRef]
+
+J. Mind Med. Sci. 2025, 12, 21
+
+14 of 16
+
+57. Castaño, R.; Molina-Meneses, S.; Puerta, J.; Palacios, L.; Jaramillo, R.; Piñeres, A.; Aristizábal, F. Impact of intraoperative colonoscopy on anastomotic leakage detection and prevention in colorectal anastomosis for rectal cancer. Rev. Gastroenterol. Mex. 2022, 87, 312–319. [CrossRef]
+58. van den Bos, J.; Al-Taher, M.; Schols, R.M.; Van Kuijk, S.; Bouvy, N.D.; Stassen, L.P. Near-Infrared Fluorescence Imaging for Real-Time Intraoperative Guidance in Anastomotic Colorectal Surgery: A Systematic Review of Literature. J. Laparoendosc. Adv. Surg. Tech. 2018, 28, 157–167. [CrossRef]
+59. Meyer, J.; Joshi, H.; Buchs, N.C.; Ris, F.; Davies, J. Fluorescence angiography likely protects against anastomotic leak in colorectal surgery: A systematic review and meta-analysis of randomised controlled trials. Surg. Endosc. 2022, 36, 7775–7780. [CrossRef]
+60. da Silva, F.B.; Lopes, P.; Cavadas, D.; Gonçalves, B.P.; Bernardo, M.; Abecasis, N.; Limbert, M.; Maciel, J. The impact of anastomotic leakage after curative colon cancer resection on long-term survival: A retrospective cohort study. Cirugia Espanola 2024, 102, 3–10. [CrossRef]
+61. Messias, B.A.; Botelho, R.V.; Saad, S.S.; Mocchetti, E.R.; Turke, K.C.; Waisberg, J. Serum C-reactive protein is a useful marker to exclude anastomotic leakage after colorectal surgery. Sci. Rep. 2020, 10, 1–8. [CrossRef]
+62. Bona, D.; Danelli, P.; Sozzi, A.; Sanzi, M.; Cayre, L.; Lombardo, F.; Bonitta, G.; Cavalli, M.; Campanelli, G.; Aiolfi, A. C-reactive Protein and Procalcitonin Levels to Predict Anastomotic Leak After Colorectal Surgery: Systematic Review and Meta-analysis. J. Gastrointest. Surg. 2022, 27, 166–179. [CrossRef] [PubMed]
+63. Blumetti, J.; Chaudhry, V.; Cintron, J.R.; Park, J.J.; Marecik, S.; Harrison, J.L.; Prasad, L.M.; Abcarian, H. Management of Anastomotic Leak: Lessons Learned from a Large Colon and Rectal Surgery Training Program. World J. Surg. 2013, 38, 985–991. [CrossRef] [PubMed]
+64. Shalaby, M.; Thabet, W.; Buonomo, O.; Di Lorenzo, N.; Morshed, M.; Petrella, G.; Farid, M.; Sileri, P. Transanal Tube Drainage as a Conservative Treatment for Anastomotic Leakage Following a Rectal Resection. Ann. Coloproctol. 2018, 34, 317–321. [CrossRef] [PubMed]
+65. Pinto, R.A.; Bustamante-Lopez, L.A.; Soares, D.F.M.; Nahas, C.S.R.; Marques, C.F.S.; Cecconello, I.; Nahas, S.C. Is laparoscopic reoperation feasible to treat early complications after laparoscopic colorectal resections? Abcd-Arquivos Bras. Cir. Dig. Arch. Dig. Surg. 2020, 33, e1502. [CrossRef]
+66. Hébert, J.; Eltonsy, S.; Gaudet, J.; Jose, C. Incidence and risk factors for anastomotic bleeding in lower gastrointestinal surgery. BMC Res. Notes 2019, 12, 378. [CrossRef]
+67. Martínez-Serrano, M.-A.; Parés, D.; Pera, M.; Pascual, M.; Courtier, R.; Gil Egea, M.J.; Grande, L. Management of lower gastrointestinal bleeding after colorectal resection and stapled anastomosis. Tech. Coloproctol. 2009, 13, 49–53. [CrossRef]
+68. Cirocco, W.C.; Golub, R.W. Endoscopic treatment of postoperative hemorrhage from a stapled colorectal anastomosis. Am. Surg. 1995, 61, 460–463.
+69. Qin, Q.; Ma, T.; Deng, Y.; Zheng, J.; Zhou, Z.; Wang, H.; Wang, L.; Wang, J. Impact of Preoperative Radiotherapy on Anastomotic Leakage and Stenosis After Rectal Cancer Resection: Post Hoc Analysis of a Randomized Controlled Trial. Dis. Colon Rectum 2016, 59, 934–942. [CrossRef]
+70. Centers for Disease Control and Prevention (US). National Healthcare Safety Network (NHSN) Patient Safety Component Manual: Surgical Site Infection (SSI) Event [Internet]; Centers for Disease Control and Prevention: Atlanta, GA, USA, 2024. Available online: https://www.cdc.gov/nhsn/pdfs/pscmanual/9pscssicurrent.pdf (accessed on 14 March 2025).
+71. Dixon, L.; Biggs, S.; Messenger, D.; Shabbir, J. Surgical site infection prevention bundle in elective colorectal surgery. J. Hosp. Infect. 2022, 122, 162–167. [CrossRef]
+72. Pochhammer, J.; Köhler, J.; Schäffer, M. Colorectal Surgical Site Infections and Their Causative Pathogens: Differences between Left- and Right-Side Resections. Surg. Infect. 2019, 20, 62–70. [CrossRef]
+73. Pak, H.; Maghsoudi, L.H.; Soltanian, A.; Gholami, F. Surgical complications in colorectal cancer patients. Ann. Med. Surg. 2020, 55, 13–18. [CrossRef] [PubMed]
+74. Zabaglo, M.; Leslie, S.W.; Sharman, T. Postoperative Wound Infections; StatPearls Publishing: Treasure Island, FL, USA, 2025. [PubMed]
+75. Onderdonk, A.B.; Bartlett, J.G.; Louie, T.; Sullivan-Seigler, N.; Gorbach, S.L. Microbial synergy in experimental intra-abdominal abscess. Infect. Immun. 1976, 13, 22–26. [CrossRef] [PubMed]
+76. Fry, D.E.; Barie, P.S. The Changing Face of Staphylococcus aureus: A Continuing Surgical Challenge. Surg. Infect. 2011, 12, 191–203. [CrossRef]
+77. Fry, D.E. Infection control in colon surgery. Langenbeck’s Arch. Surg. 2016, 401, 581–597. [CrossRef] 78. Tanner, J.; Padley, W.; Assadian, O.; Leaper, D.; Kiernan, M.; Edmiston, C. Do surgical care bundles reduce the risk of surgical site
+infections in patients undergoing colorectal surgery? A systematic review and cohort meta-analysis of 8,515 patients. Surgery 2015, 158, 66–77. [CrossRef]
+
+J. Mind Med. Sci. 2025, 12, 21
+
+15 of 16
+
+79. Anderson, D.J.; Arduino, J.M.; Reed, S.D.; Sexton, D.J.; Kaye, K.S.; Grussemeyer, C.A.; Peter, S.A.; Hardy, C.; Choi, Y.I.; Friedman, J.Y.; et al. Variation in the Type and Frequency of Postoperative Invasive Staphylococcus aureus Infections According to Type of Surgical Procedure. Infect. Control. Hosp. Epidemiol. 2010, 31, 701–709. [CrossRef]
+80. Seidelman, J.L.; Mantyh, C.R.; Anderson, D.J. Surgical Site Infection Prevention. JAMA 2023, 329, 244–252. [CrossRef] 81. Darouiche, R.O.; Wall, M.J.J.; Itani, K.M.; Otterson, M.F.; Webb, A.L.; Carrick, M.M.; Miller, H.J.; Awad, S.S.; Crosby, C.T.;
+Mosier, M.C.; et al. Chlorhexidine–Alcohol versus Povidone–Iodine for Surgical-Site Antisepsis. N. Engl. J. Med. 2010, 362, 18–26. [CrossRef] 82. Niël-Weise, B.S.; Wille, J.C.; Broek, P.J.v.D. Hair Removal Policies in Clean Surgery: Systematic Review of Randomized, Controlled Trials. Infect. Control. Hosp. Epidemiol. 2005, 26, 923–928. [CrossRef] 83. Horiuchi, T.; Tanishima, H.; Tamagawa, K.; Sakaguchi, S.; Shono, Y.; Tsubakihara, H.; Tabuse, K.; Kinoshita, Y. A Wound Protector Shields Incision Sites from Bacterial Invasion. Surg. Infect. 2010, 11, 501–503. [CrossRef] 84. Jiang, Y.; Chen, H.; Liu, G.; Liu, M.; Kong, M.; Sheng, H. Incision pressing, a simple and effective intervention to reduce colorectal surgical site infection: A propensity score-matched study. Front. Surg. 2022, 9, 917559. [CrossRef] [PubMed] 85. Nelson, R.L.; Hassan, M.; Grant, M.D. Antibiotic prophylaxis in colorectal surgery: Are oral, intravenous or both best and is mechanical bowel preparation necessary? Tech. Coloproctol. 2020, 24, 1233–1246. [CrossRef] [PubMed] 86. Bellows, C.F.; Mills, K.T.; Kelly, T.N.; Gagliardi, G. Combination of oral non-absorbable and intravenous antibiotics versus intravenous antibiotics alone in the prevention of surgical site infections after colorectal surgery: A meta-analysis of randomized controlled trials. Tech. Coloproctol. 2011, 15, 385–395. [CrossRef] [PubMed] 87. Rollins, K.E.M.; Javanmard-Emamghissi, H.M.; Acheson, A.G.D.; Lobo, D.N.D. The Role of Oral Antibiotic Preparation in Elective Colorectal Surgery: A Meta-analysis. Ann. Surg. 2019, 270, 43–58. [CrossRef] 88. Vadhwana, B.; Pouzi, A.; Kaneta, G.S.; Reid, V.; Claxton, D.; Pyne, L.; Chalmers, R.; Malik, A.; Bowers, D.; Groot-Wassink, T. Preoperative oral antibiotic bowel preparation in elective resectional colorectal surgery reduces rates of surgical site infections: A single-centre experience with a cost-effectiveness analysis. Ind. Mark. Manag. 2020, 102, 133–140. [CrossRef] 89. Yao, J.; Chen, L.; Liu, X.; Wang, J.; Zeng, J.; Cai, Y. Meta-analysis of efficacy of perioperative oral antibiotics in intestinal surgery with surgical site infection. J. Glob. Antimicrob. Resist. 2023, 35, 223–236. [CrossRef] 90. Mueller, T.C.; Loos, M.; Haller, B.; Mihaljevic, A.L.; Nitsche, U.; Wilhelm, D.; Friess, H.; Kleeff, J.; Bader, F.G. Intra-operative wound irrigation to reduce surgical site infections after abdominal surgery: A systematic review and meta-analysis. Langenbeck’s Arch. Surg. 2015, 400, 167–181. [CrossRef] 91. de Jonge, S.W.; Boldingh, Q.J.; Solomkin, J.S.; Allegranzi, B.; Egger, M.; Dellinger, E.P.; Boermeester, M.A. Systematic Review and Meta-Analysis of Randomized Controlled Trials Evaluating Prophylactic Intra-Operative Wound Irrigation for the Prevention of Surgical Site Infections. Surg. Infect. 2017, 18, 508–519. [CrossRef] 92. Zucker, B.; Simillis, C.; Tekkis, P.; Kontovounisios, C. Suture choice to reduce occurrence of surgical site infection, hernia, wound dehiscence and sinus/fistula: A network meta-analysis. Ind. Mark. Manag. 2019, 101, 150–161. [CrossRef] 93. Podda, M.; Di Saverio, S.; Davies, R.J.; Atzeni, J.; Balestra, F.; Virdis, F.; Reccia, I.; Jayant, K.; Agresta, F.; Pisanu, A. Prophylactic intra-abdominal drainage following colorectal anastomoses. A systematic review and meta-analysis of randomized controlled trials. Am. J. Surg. 2020, 219, 164–174. [CrossRef] 94. Meyer, J.; Roos, E.; Abbassi, Z.; Buchs, N.C.; Ris, F.; Toso, C. Prophylactic Negative-pressure Wound Therapy Prevents Surgical Site Infection in Abdominal Surgery: An Updated Systematic Review and Meta-analysis of Randomized Controlled Trials and Observational Studies. Clin. Infect. Dis. 2020, 73, e3804–e3813. [CrossRef] [PubMed] 95. Boeckxstaens, G.E.; de Jonge, W.J. Neuroimmune mechanisms in postoperative ileus. Gut 2009, 58, 1300–1311. [CrossRef] [PubMed] 96. Wehner, S.; Vilz, T.O.; Sommer, N.; Sielecki, T.; Hong, G.S.; Lysson, M.; Stoffels, B.; Pantelis, D.; Kalff, J.C. The novel orally active guanylhydrazone CPSI-2364 prevents postoperative ileus in mice independently of anti-inflammatory vagus nerve signaling. Langenbeck’s Arch. Surg. 2012, 397, 1139–1147. [CrossRef] [PubMed] 97. Schwarz, N.T.; Kalff, J.C.; Türler, A.; Engel, B.M.; Watkins, S.C.; Billiar, T.R.; Bauer, A.J. Prostanoid production via COX-2 as a causative mechanism of rodent postoperative ileus. Gastroenterology 2001, 121, 1354–1371. [CrossRef] 98. Holte, K.; Kehlet, H. Postoperative ileus: A preventable event. Br. J. Surg. 2000, 87, 1480–1493. [CrossRef] 99. Kehlet, H. Enhanced postoperative recovery: Good from afar, but far from good? Anaesthesia 2020, 75, e54–e61. [CrossRef] 100. Lobo, D.N.; Bostock, K.A.; Neal, K.R.; Perkins, A.C.; Rowlands, B.J.; Allison, S.P. Effect of salt and water balance on recovery of gastrointestinal function after elective colonic resection: A randomised controlled trial. Lancet 2002, 359, 1812–1818. [CrossRef] 101. Furrer, M.A.; Schneider, M.P.; Löffel, L.M.; Burkhard, F.C.; Wuethrich, P.Y. Impact of intra-operative fluid and noradrenaline administration on early postoperative renal function after cystectomy and urinary diversion: A retrospective observational cohort study. Eur. J. Anaesthesiol. 2018, 35, 641–649. [CrossRef] 102. Guay, J.; Nishimori, M.; Kopp, S. Epidural local anaesthetics versus opioid-based analgesic regimens for postoperative gastrointestinal paralysis, vomiting and pain after abdominal surgery. Cochrane Database Syst. Rev. 2016, 2017, CD001893. [CrossRef]
+
+J. Mind Med. Sci. 2025, 12, 21
+
+16 of 16
+
+103. Klein, M.; Gögenur, I.; Rosenberg, J. Postoperative use of non-steroidal anti-inflammatory drugs in patients with anastomotic leakage requiring reoperation after colorectal resection: Cohort study based on prospective data. BMJ 2012, 345, e6166. [CrossRef]
+104. Ayik, C.; Bis¸gin, T.; Cenan, D.; Manog˘ lu, B.; Özden, D.; Sökmen, S. Risk factors for early ostomy complications in emergency and elective colorectal surgery: A single-center retrospective cohort study. Scand. J. Surg. 2023, 113, 50–59. [CrossRef] [PubMed]
+105. Savlovschi, C.; Serban, D.; Andreescu, C.; Dascalu, A.; Pantu, H. Economic analysis of medical management applied for left colostomy. Chirurgia 2013, 108, 666–669. [PubMed]
+106. Colwell, J.C.; Pittman, J.; Raizman, R.; Salvadalena, G. A Randomized Controlled Trial Determining Variances in Ostomy Skin Conditions and the Economic Impact (ADVOCATE Trial). J. Wound Ostomy Cont. Nurs. 2018, 45, 37–42. [CrossRef]
+107. Beitz, J.M.; Colwell, J.C. Management Approaches to Stomal and Peristomal Complications. J. Wound Ostomy Cont. Nurs. 2016, 43, 263–268. [CrossRef]
+108. S, erban, D.; Brăneas, cu, C.; Smarandache, G.; Tudor, C.; Tănăsescu, C.; Tudosie, M.; Stana, D.; Dascălu, A.; Spătaru, R. Safe Surgery in Day Care Centers: Focus on Preventing Medical Legal Issues. Romanian J. Leg. Med. 2021, 29, 60–64. [CrossRef]
+109. Salvadalena, G.D. The Incidence of Stoma and Peristomal Complications During the First 3 Months After Ostomy Creation. J. Wound Ostomy Cont. Nurs. 2013, 40, 400–406. [CrossRef]
+110. Krishnamurty, D.M.; Blatnik, J.; Mutch, M. Stoma Complications. Clin. Colon Rectal Surg. 2017, 30, 193–200. [CrossRef] 111. Marinez, A.C.; Bock, D.; Carlsson, E.; Petersén, C.; Erestam, S.; Kälebo, P.; Rosenberg, J.; Haglind, E.; Angenete, E. Stoma-related
+complications: A report from the Stoma-Const randomized controlled trial. Color. Dis. 2020, 23, 1091–1101. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.

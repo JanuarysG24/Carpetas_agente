@@ -1,0 +1,616 @@
+ARTICULO ORIGINAL
+
+Rev Colomb Cir. 2021;36:637-46 https://doi.org/10.30944/20117582.863
+
+Determinación de los factores predictivos para complicaciones en cirugía electiva de pacientes con cáncer colorrectal. Experiencia del Instituto de Cancerología Las Américas Auna (Colombia, 2016-2019)
+Determination of predictive factors for complications in elective surgery of colorectal cancer patients. Experience of the Instituto de Cancerología
+Las Américas Auna (Colombia, 2016-2019)
+Sandra Patricia Molina-Meneses1 , Luis José Palacios-Fuenmayor2 , Rodrigo de Jesús Castaño Llano3 , Jorge Iván Mejía-Gallego4, Lucy Astrid Sánchez-Patiño5
+1 Médica, Especialista en Cirugía general, Instituto de Cancerología Las Américas Auna, Medellín, Colombia. 2 Médico, especialista en Cirugía general y Cirugía oncológica, magister en Epidemiología, Instituto de Cancerología Las Américas
+Auna, Medellín, Colombia. 3 Médico, especialista en Cirugía general y Cirugía gastrointestinal y endoscópica. Cirugía, Instituto de Cancerología Las Américas
+Auna, Medellín, Colombia. 4 Médico, especialista en Gerencia hospitalaria; Seguridad del paciente, Instituto de Cancerología Las Américas Auna, Medellín,
+Colombia. 5 Gerente de Sistemas de Información en Salud, Especialista en Gerencia de la Calidad y Auditoria en Salud. Unidad de Investigación,
+Instituto de Cancerología Las Américas Auna. Medellín, Colombia. ORCID
+Resumen
+Introducción. El pilar fundamental del tratamiento del cáncer colorrectal es la cirugía, situación que expone a los pacientes a la posible presentación de complicaciones, morbimortalidad, pobre calidad de vida, recurrencia tumoral o la muerte. El objetivo de este estudio fue determinar las variables clínicas y quirúrgicas que inciden en el riesgo de la aparición de complicaciones en los pacientes con cáncer colorrectal llevados a cirugía electiva entre los años 2016 y 2019.
+Métodos. Estudio observacional, descriptivo, transversal y retrospectivo. Se incluyeron pacientes mayores de 18 años con cáncer colorrectal sometidos a cirugía electiva. Se realizó un análisis multivariado para determinar los factores que se relacionan con las complicaciones postquirúrgicas.
+Resultados. Se incluyeron 298 pacientes, 68 % mayores de 60 años, 52,3 % mujeres, 74,2 % presentaban comorbilidades y 48,3 % fueron diagnosticados en estadio III. El 48,3 % presentó complicaciones postoperatorias. De ellos, el 68,1 % no tenía tamización nutricional y el 61,8 % no tenía preparación del colon; un 55 % fueron
+Fecha de recibido: 12/01/2021 - Fecha de aceptación: 04/05/2021 - Fecha de publicación en línea: 22/07/2021 Autor de correspondencia: Sandra Patricia Molina Meneses, Diagonal 75B # 2A - 80/140, Torre 5, Medellín, Colombia. Código postal: 050025. Tel: +574 3409393 Fax: +574 3423307. Dirección electrónica: spmolina@idclasamericas.co - sandrapmolina08@hotmail.com Citar como: Molina-Meneses SP, Luis José Palacios-Fuenmayor, Castaño Llano RJ, Mejía-Gallego JI, Sánchez-Patiño LA. Determinación de los factores predictivos para complicaciones en cirugía electiva de pacientes con cáncer colorrectal. Experiencia del Instituto de Cancerología Las Américas Auna (Colombia, 2016-2019). Rev Colomb Cir. 2021;36:637-46. https://doi.org/10.30944/20117582.863 Este es un artículo de acceso abierto bajo una Licencia Creative Commons - BY-NC-ND https://creativecommons.org/licenses/by-ncnd/4.0/deed.es
+637
+
+Molina-Meneses SP, Palacios-Fuenmayor LJ, Castaño-Llano RJ, et al.
+
+Rev Colomb Cir. 2021;36:637-46
+
+cirugías del recto, 69,1 % de las cirugías fueron por vía laparoscópica y 71,8 % presentaron sangrado inferior a 500 ml. La mayoría de las complicaciones fueron clasificadas como Clavien-Dindo I-III.
+Discusión. Las características de los pacientes fueron similares a los presentados en otros estudios, aunque hubo mayor incidencia de íleo postoperatorio. El análisis multivariado mostró una mayor probabilidad de presentar una complicación en pacientes con diabetes mellitus, hipertensión arterial, falta de tamización nutricional o preparación de colon, cirugía de recto y el sangrado mayor a 500 ml.
+Palabras clave: neoplasias colorrectales; cirugía colorrectal; laparoscopía; procedimientos quirúrgicos mínimamente invasivos; complicaciones posoperatorias.
+Abstract
+Introduction. The fundamental pillar of colorectal cancer treatment is surgery, a situation that exposes patients to the possible presentation of complications, morbidity and mortality, poor quality of life, tumor recurrence or death. The objective of this study was to determine the clinical and surgical variables that affect the risk of the appearance of complications in colorectal cancer patients taken to elective surgery between 2016 and 2019.
+Methods. Observational, descriptive, cross-sectional and retrospective study. Patients over the age of 18 with colorectal cancer undergoing elective surgery were included. A multivariate analysis was performed to determine the factors related to postsurgical complications.
+Results. We included 298 patients, 68% over 60 years of age, 52.3% women, 74.2% had comorbidities and 48.3% were diagnosed in stage III. 48.3% presented postoperative complications; of these, 68.1% had no nutritional screening, and 61.8% had no colon preparation; 55% were rectal cancer surgeries, 69.1% underwent laparoscopic surgeries, and 71.8% had bleeding less than 500 ml. Most complications were classified as Clavien Dindo I-III.
+Discussion. The characteristic of the patients was similar to those presented in other studies, even though we had more incidence of postoperative ileus. The multivariate analysis showed a higher probability of complications in patients with: diabetes, hypertension, lack of nutritional screening, bleeding over 500cc, lack of colon mechanical preparation and rectal cancer surgery.
+Patient characteristics were similar to those presented in other studies, although there was a higher incidence of postoperative ileus. The multivariate analysis showed a greater probability of presenting a complication in patients with diabetes mellitus, arterial hypertension, lack of nutritional screening, colon preparation, rectal cancer surgery, and bleeding greater than 500 ml.
+Keywords: colorectal neoplasms; colorectal surgery; laparoscopy; minimally invasive surgery; postoperative complications.
+
+Introducción
+La cirugía es la piedra angular del manejo del cáncer colorrectal (CCR) 1, aunque se asocia con un alto riesgo de morbilidad y mortalidad. Las tasas de mortalidad general después de la cirugía colorrectal varían del 1 al 16,4 %, con tasas de morbilidad tan altas como el 40-50 % 2,3, con las implicaciones desfavorables que ellas representan en términos de costos 4, periodo libre de enfermedad y supervivencia global 5,6. Además, después de
+
+la cirugía colorrectal, los pacientes requieren de una segunda intervención entre el 2 y el 5,8 % de las veces 7. La morbimortalidad posoperatoria en esta población de pacientes se ha investigado en un esfuerzo por identificar factores predictivos y áreas para mejorar los resultados 8,9, y cada vez es más claro el objetivo de los pagadores en salud en otras latitudes, de encomendar el cuidado de sus pacientes a cirujanos con los más altos volúmenes de atención y los grupos quirúrgicos con las menores cifras de complicaciones 10,11.
+
+638
+
+Rev Colomb Cir. 2021;36:637-46
+
+Factores predictivos de complicaciones en cirugía colorrectal
+
+Diferentes publicaciones analizaron factores de riesgo para complicaciones en cirugía colorrectal, como la edad, el estado nutricional del paciente, la preparación mecánica del colon y la experiencia del cirujano 12,13, pero la falta de consenso sobre cómo definir y calificar las complicaciones postoperatorias ha limitado la evaluación de los resultados de los procedimientos quirúrgicos 14.
+Las complicaciones intraoperatorias como sangrado, lesión intestinal, lesiones ureterales y lesiones de vejiga son causadas por adherencias intraabdominales, problemas anatómicos, experiencia del cirujano y otros factores. Aunque una de las principales causas de morbilidad en los pacientes de cirugía colorrectal está directamente relacionada con la resección intestinal, estos pacientes son tan susceptibles, como todos los pacientes de cirugía, a otras complicaciones posoperatorias. Hasta el 11 % de los pacientes sufren complicaciones cardiorrespiratorias, las complicaciones urinarias ocurren en el 8%, el 5 % tiene hemorragia postoperatoria y la trombosis venosa ocurre aproximadamente en el 1 % de los pacientes 3.
+Las complicaciones de la herida, como infección, hematoma y dehiscencia, son comunes después de la cirugía colorrectal y ocurren hasta en 26 % de los pacientes 15. La incidencia de fuga anastomótica varía de 2 % a 4 % en anastomosis proximales y de 6 % a 12 % en anastomosis extraperitoneales, y se asocia con tasas de mortalidad de aproximadamente 10 % 16. Otras complicaciones importantes de mencionar son el íleo y la obstrucción intestinal parcial, que varían entre 14 % y 24 % 16,17.
+La gravedad de las complicaciones que se presentan puede reducirse al mínimo con un diagnóstico precoz y un tratamiento oportuno y adecuado, además, identificar los factores de riesgo, pre e intraoperatorios y modificarlos reduce el riesgo de complicaciones 18.
+El objetivo de este estudio fue evaluar las complicaciones identificadas en pacientes con cáncer colorrectal llevados a cirugía electiva, así como describir las características de estas complicaciones y, con base en estos hallazgos, determinar por
+
+un modelo estadístico predictivo cuales son las variables con más peso específico que determinan la aparición de estas complicaciones.
+Métodos
+Se llevó a cabo un estudio observacional, descriptivo, transversal y retrospectivo. Los datos se tomaron de las historias clínicas de los pacientes y del Sistema de Información para el seguimiento de pacientes con Cáncer colorrectal del Instituto de Cancerología (IDC) Las Américas Auna, en la ciudad de Medellín, Colombia. Se incluyeron los pacientes mayores de 18 años con cáncer de colon y recto, sometidos a cirugía electiva, desde enero del 2016 hasta junio del 2019.
+Se tuvieron en cuenta variables sociodemográficas como edad y sexo; condiciones clínicas como las comorbilidades médicas, diagnóstico histológico, estadio clínico (TNM 8a edición 2017) y ubicación de la lesión; de tratamiento, como neoadyuvancia; características del periodo preoperatorio, como tamización nutricional (se tuvieron en cuenta albúmina, pre albúmina y proteínas totales prequirúrgicas o tamización nutricional de Ferguson) y preparación mecánica del colon (realizado según criterio de cada cirujano); del periodo transoperatorio, como sitio de cirugía, tipo de cirugía (laparoscópica o abierta), sangrado y tiempo quirúrgico, y características del periodo postoperatorio como complicaciones, sangrado, filtración de anastomosis, abscesos intrabdominales, íleo postoperatorio, reintervenciones y estancia hospitalaria.
+Los procedimientos quirúrgicos se agruparon según el sitio anatómico: en colon, colectomía subtotal o total, y en recto, resecciones anteriores o abdominoperineal. El íleo postoperatorio se definió como una interrupción transitoria de la motilidad intestinal coordinada, luego de una intervención quirúrgica, que impidió el tránsito efectivo de su contenido y/o la tolerancia a la vía oral, durante un tiempo superior al esperado para el tipo de cirugía (3 a 5 días aproximadamente). La clasificación de las complicaciones postquirúrgicas se realizó utilizando el sistema Clavien-Dindo publicado en 2004 14.
+
+639
+
+Molina-Meneses SP, Palacios-Fuenmayor LJ, Castaño-Llano RJ, et al.
+
+Rev Colomb Cir. 2021;36:637-46
+
+Análisis estadístico
+Para el análisis descriptivo de los aspectos demográficos y clínicos se utilizaron frecuencias absolutas, relativas e indicadores de resumen, como la media aritmética, la desviación estándar, la mediana y el rango intercuartílico. Se usó la prueba de Kolmogorov-Smirnov para comprobar la normalidad. Para establecer la relación entre los aspectos categóricos demográficos y clínicos con el desenlace de la complicación postoperatoria se aplicó la prueba Chi-cuadrado de independencia de la razón de verosimilitud y se evaluó su magnitud de efecto con la razón de proporciones (RP). Para la comparación de las variables cuantitativas según las complicaciones postoperatorias se utilizó la prueba U Mann-Whitney y como magnitud del efecto se aplicó el coeficiente de correlación biserial por rangos.
+Se aplicó regresión multivariada como método exploratorio para evaluar la influencia de aspectos demográficos y clínicos en el desenlace de complicación postoperatoria, por medio de un modelo lineal generalizado (GML) de regresión de Poisson con varianza robusta para ajustar la razón de proporciones y sus intervalos de confianza (IC95%) por múltiples variables. Se realizaron varios modelos y técnicas para elegir el mejor modelo explicativo de la magnitud del efecto de los aspectos demográficos y clínicos con el desenlace de complicación postoperatoria; la elección del modelo se realizó por el criterio de información de Akaike (AIC) y el criterio de información bayesiano (BIC). El sistema final elegido para la selección de variables fue el de iteraciones necesarias para retirar variables, llamado stepwise forward selection o pasos de “selección hacia adelante”, donde en cada etapa se introduce la variable más significativa hasta una cierta regla de parada (p < 0,05). Los datos se analizaron con el programa estadístico Stata (StataCorp LLC, College Station, Estados Unidos) v12.
+Resultados
+Entre el 1° de enero de 2016 y el 30 de junio de 2019 se operaron en total 369 pacientes con cáncer colorrectal, de los cuáles 298 cumplieron los criterios de inclusión, 133 con cirugías de colon
+
+y 165 de recto. Se presentaron 52 pacientes con complicaciones en el grupo de cirugías de colon (39,1 %) y 92 pacientes con complicaciones en el grupo de cirugías de recto (55,8 %). Las características sociodemográficas y clínicas de los pacientes se muestran en la tabla 1.
+El promedio de edad de pacientes intervenidos que presentaron complicaciones fue de 65 años (DE ±13,3). Más de la mitad de las complicaciones se presentaron en pacientes de sexo masculino, 28 (53,8 %) sometidos a cirugía de colon y 49 (53,3 %) de recto. La mayoría ocurrieron en pacientes que sufrían comorbilidades, 43 (82,7 %) con cirugía de colon y 71 (77,2 %) con cirugía de recto. Un determinado paciente podía presentar una o más comorbilidades, siendo las más frecuentes: hipertensión arterial (n=138), diabetes mellitus (n=48), hipotiroidismo (n=35), dislipidemia (n=26) y enfermedad pulmonar obstructiva crónica (11 pacientes).
+Los adenocarcinomas fueron los tumores que más se presentaron en esta serie, con 294 (98,6 %) pacientes, pero también se diagnosticaron 4 pacientes con carcinoma neuroendocrino. El estadio clínico predominante para colon fue el estadio II, con 50 (37,6 %) pacientes, sin embargo, el mayor número de complicaciones se presentó en el estadio III, con 19 (36,5 %) pacientes. Mientras para recto, el mayor número de pacientes y complicaciones estuvieron clasificados como estadio III, que presentó un porcentaje de complicaciones del 58,7 %. Recibieron tratamiento neoadyuvante 122 (73,9 %) pacientes, de los cuales, la mitad (n=61) presentaron algún tipo de complicación.
+Al analizar las características de los pacientes en el periodo preoperatorio, de los pacientes que presentaron alguna complicación, se realizó tamización nutricional al 25,0 % con cirugía de colon y al 19,6 % de recto, y preparación de colon al 50,0 % de los pacientes con cirugía de colon y 27,2% con cirugía de recto.
+De los pacientes a quienes se les realizó cirugía de colon, en 76 (57,1 %) se utilizó la vía laparoscópica y en 57 (42,9 %) la vía abierta. De las resecciones de recto, 130 (78,8 %) se realizaron por vía laparoscópica y 35 (21,2 %) vía abierta.
+
+640
+
+Rev Colomb Cir. 2021;36:637-46
+
+Factores predictivos de complicaciones en cirugía colorrectal
+
+Tabla 1. Características sociodemográficas y clínicas de los pacientes con cáncer colorrectal operados en el Instituto de Cancerología Las Américas Auna (Colombia, 2016-2019).
+
+Colon
+
+Recto
+
+Complicaciones
+
+Complicaciones
+
+Características
+Edad < 60 años >=60 años
+Sexo Femenino Masculino
+
+Si 52 (39,1)
+n (%)
+14 (26,9) 38 (73,1)
+24 (46,2) 28 (53,8)
+
+No 81 (60,9)
+n (%)
+23 (28,4) 58 (71,6)
+50 (61,7) 31 (38,3)
+
+Total 133 n (%)
+
+Si
+
+p
+
+92 (55,8)
+
+n (%)
+
+37 (27,8) 0,85
+96 (72,2)
+
+28 (30,4) 64 (69,6)
+
+74 (55,6) 0,07
+59 (44,4)
+
+43 (46,7) 49 (53,3)
+
+No 73 (44,2)
+n (%)
+29 (39,7) 44 (60,2)
+39 (53,4) 34 (46,6)
+
+Total
+
+165
+
+p
+
+n (%)
+
+57 (34,5) 0,21
+108 (65,5)
+
+82 (49,7) 0,39
+83 (50,3)
+
+Comorbilidades
+
+Si No Diabetes Si No Hipertensión Si No Tamización nutricional Si No Preparación de colon* Si No Estadio clínico 0 I II III IV Sin dato
+
+43 (82,7) 9 (17,3)
+13 (25,0) 39 (75,0)
+29 (55,8) 23 (44,2)
+13 (25,0) 39 (75,0)
+8 (50,0) 8 (50,0)
+0 (0,0) 7 (13,5) 18 (34,6) 19 (36,5) 8 (15,4) 0 (0,0)
+
+57 (70,3) 24 (29,7)
+11 (13,6) 70 (86,4)
+28 (34,6) 53 (65,4)
+36 (44,4) 45 (55,6)
+18 (46,2) 21 (53,8)
+2 (2,5) 9 (11,1) 32 (39,5) 26 (32,1) 11 (13,6) 1 (1,2)
+
+100 (75,1) 0,10
+33 (24,8)
+24 (18,1) 0,09
+109 (81,9)
+57 (42,9) 0,01
+76 (57,1)
+49 (36,8) 0,02
+84 (63,2)
+26 (47,3) 0,79
+29 (52,7)
+2 (1,5) 16 (12,0) 50 (37,6)
+0,77 45 (33,8) 19 (14,3)
+1 (0,8)
+
+71 (77,2) 21 (22,8)
+20 (21,7) 72 (78,3)
+50 (54,4) 42 (45,6)
+18 (19,6) 74 (80,4)
+25 (27,2) 67 (72,8)
+0 (0,0) 9 (9,8) 23 (25,0) 54 (58,7) 6 (6,5) 0 (0,0)
+
+50 (68,5) 23 (31,5)
+4 (5,5) 69 (94,5)
+31 (42,5) 42 (57,5)
+28 (38,4) 45 (61,6)
+33 (45,2) 40 (54,8)
+0 (0,0) 7 (9,6) 13 (17,8) 45 (61,6) 8 (10,7) 0 (0,0)
+
+121 (73,3) 0,21
+44 (26,7)
+24 (14,6) 0,00
+141 (85,4)
+81 (49,1) 0,12
+84 (50,9)
+46 (27,9) 0,00
+119 (72,1)
+58 (35,2) 0,01
+107 (64,8)
+0 (0,0) 16 (9,7) 36 (21,8)
+0,57 99 (60,0) 14 (8,5)
+2 (0,0)
+
+*Colon transverso e izquierdo: Total 55; complicaciones: Si 16, No 39
+
+El 69,1% de todos los procedimientos fueron vía laparoscópica, con una frecuencia de complicaciones del 45,6 %, frente a 54,4 % en aquellos operados por vía abierta. Según la localización de la cirugía, la frecuencia de complicaciones en procedimientos vía abierta para colon fue de 43,8 %, mientras para recto fue de 71,4 % (Tabla 2).
+El 8,9 % de los pacientes que presentaron complicaciones postoperatorias también tuvieron
+
+complicaciones intraoperatorias, como lesiones advertidas intestinales o de otros órganos y sangrado. La complicación postoperatoria más frecuente fue el íleo, que se presentó en 44 % de los pacientes llevados a cirugía de colon y 40,4 % de los pacientes llevados a cirugía de recto. Presentaron infección de sitio operatorio el 17,2 % de los pacientes con cirugía de recto y filtración de la anastomosis el 18,7 % en colon y 10,6 % en recto
+
+641
+
+Molina-Meneses SP, Palacios-Fuenmayor LJ, Castaño-Llano RJ, et al.
+
+Rev Colomb Cir. 2021;36:637-46
+
+(Tabla 3). El 40,2 % de los pacientes con complicaciones requirieron una o más reintervenciones, un 37,9 % en cirugía de colon y 62 % de recto.
+De los 52 pacientes sometidos a cirugía de colon que presentaron complicaciones, 42 pacientes fueron Clavien-Dindo I a IIIB y se presentaron 3 muertes. De los 92 pacientes operados de recto, 77 fueron Clavien-Dindo I a IIIB y se presentaron 2 muertes (Tabla 3).
+La media de la estancia hospitalaria de los pacientes que presentaron complicación fue de 19 días, en comparación con los pacientes que no presentaron complicación, que fue alrededor de 5 días.
+Las variables explicativas que mejor predijeron una complicación postoperatoria fueron: sangrado igual o mayor a 500 ml (RP=1,75; IC95% 1,40-2,17), antecedente de diabetes mellitus (RP=1,43; IC95% 1,13-1,83) e hipertensión arterial (RP=1,32; IC95% 1,03-1,70), ausencia de tamización nutricional (RP=1,43; IC95% 1,02-2,0) y cirugía de recto versus colon (RP=1,38; IC95% 1,07-1,8).
+Discusión
+En el presente estudio se encontró una frecuencia de complicaciones equiparable a lo descrito en la literatura médica actual, en términos de morbimortalidad intra y postoperatoria. Con base en los
+
+hallazgos más determinantes en las complicaciones peri y postoperatorias se realizó un análisis estadístico multivariado que demostró que las variables explicativas que mejor predicen una complicación postoperatoria fueron: el sangrado intraoperatorio igual o mayor a 500 ml, antecedente de diabetes mellitus o hipertensión arterial, la falta de tamización nutricional o de preparación de colon preoperatoria y la cirugía de recto más que la de colon.
+En este análisis se encontró una mortalidad del 3 %, que se relaciona con lo reportado recientemente en la literatura por Sánchez-Guillén et al. 8, quienes describieron una mortalidad de 3 % en la cirugía oncológica del colon. En esta serie no hubo diferencia en la mortalidad entre la cirugía realizada en el colon o el recto, ni entre la cirugía por vía abierta o laparoscópica.
+Lipska et al. 19, mostraron mayor frecuencia de complicaciones, específicamente filtración de anastomosis, en pacientes de género masculino, sobre todo después de anastomosis de recto bajo, lo que se relaciona con los hallazgos de este estudio, en el cual se encontraron más complicaciones en los hombres, tanto en cirugía de colon (53,8 %) como de recto (53,3 %). Se considera que esto puede estar asociado a las diferencias anatómicas, ya que la pelvis estrecha de los hombres dificulta la realización de los procedimientos de recto.
+
+Tabla 2. Características perioperatorias de los pacientes con cáncer colorrectal operados en el Instituto de Cancerología Las Américas Auna (Colombia, 2016-2019).
+
+Colon
+
+Recto
+
+Complicaciones
+
+Complicaciones
+
+Características
+
+Si
+
+No
+
+Total
+
+Si
+
+No
+
+Total
+
+52 (39,1) 81 (60,9)
+
+133
+
+p
+
+92 (55,8) 73 (44,2)
+
+165
+
+p
+
+n (%)
+
+n (%)
+
+n (%)
+
+n (%)
+
+n (%)
+
+n (%)
+
+Tipo de cirugía
+
+Laparoscópica Abierta
+
+27 (51,9) 49 (60,5) 76 (57,1)
+
+67 (72,8) 63 (86,3) 130 (78,8)
+
+0,33
+
+0,03
+
+25 (48,1) 32 (39,5) 57 (42,9)
+
+25 (27,2) 10 (13,7)
+
+35 (21,2)
+
+Sangrado (ml)
+
+<500 >=500
+
+33 (63,5) 64 (79,0) 97 (72,9)
+
+60 (65,2) 57 (78,1) 117 (70,9)
+
+0,01
+
+0,00
+
+10 (19,2)
+
+3 (3,7)
+
+13 (9,8)
+
+20 (21,7)
+
+3 (4,1)
+
+23 (13,9)
+
+Sin dato
+
+9 (17,3)
+
+14 (17,3) 23 (17,3)
+
+12 (13,0) 13 (17,8)
+
+25 (15,1)
+
+Tiempo quirúrgico (min)
+
+Media (DE)*
+
+167 (65)
+
+174 (74)
+
+171 (70) 0,89 215 (83)
+
+222 (65)
+
+218 (76)
+
+0,56
+
+*DE: Desviación estándar
+
+642
+
+Rev Colomb Cir. 2021;36:637-46
+
+Factores predictivos de complicaciones en cirugía colorrectal
+
+Tabla 3. Complicaciones postoperatorias* en los pacientes con cáncer colorrectal operados en el Instituto de Cancerología Las Américas Auna (Colombia, 2016-2019).
+
+Número de complicaciones
+Tipo de complicación Íleo Infección Sitio Operatorio (ISO) Filtración anastomosis Colección intra abdominal Infección urinaria Atelectasia Neumonía Fistula Isquemia intestinal Falla ventilatoria
+
+Cirugía de Colon
+
+91*
+
+n
+
+%
+
+Cirugía de Recto
+
+151*
+
+n
+
+%
+
+40
+
+44,0
+
+61
+
+40,4
+
+6
+
+6,6
+
+26
+
+17,2
+
+17
+
+18,7
+
+16
+
+10,6
+
+8
+
+8,8
+
+16
+
+10,6
+
+8
+
+8,8
+
+14
+
+9,3
+
+3
+
+3,3
+
+5
+
+3,3
+
+4
+
+4,4
+
+2
+
+1,3
+
+2
+
+2,2
+
+6
+
+4,0
+
+2
+
+2,2
+
+3
+
+2,0
+
+1
+
+1,1
+
+2
+
+1,3
+
+Clasificación complicación**
+
+52
+
+39,1
+
+92
+
+55,8
+
+I
+
+9
+
+17,3
+
+16
+
+17,4
+
+II
+
+17
+
+32,7
+
+23
+
+25,0
+
+IIIA
+
+2
+
+3,8
+
+13
+
+14,1
+
+IIIB
+
+14
+
+26,9
+
+25
+
+27,2
+
+IVA
+
+4
+
+7,7
+
+7
+
+7,6
+
+IVB
+
+3
+
+5,8
+
+6
+
+6,5
+
+V
+
+3
+
+5,8
+
+2
+
+2,2
+
+*Un paciente puede presentar una o más complicaciones. Pacientes operados del colon que presentaron complicaciones: 52. Pacientes operados del recto que presentaron complicaciones: 92. ** Según clasificación de Clavien y Dindo.
+
+Durante algún tiempo se consideró la edad mayor a 60 años como un factor de riesgo independiente para complicaciones postoperatorias, pero actualmente no hay evidencia contundente que soporte esta información; sin embargo, en este estudio se encontró mayor número de complicaciones postoperatorias en este grupo etario, tanto para colon (73,1 %) como para recto (69,6 %).
+Se ha demostrado que la desnutrición está estrechamente relacionada al resultado postoperatorio, pues esta deteriora el sistema inmune, el proceso de curación y cicatrización de heridas, aumenta el riesgo de infección, así como disminuye las funciones respiratoria o cardiovascular y aumenta la tasa de mortalidad, además de que se asocia con aumento de la estancia hospitalaria 20,21. En este estudio se encontró relación entre la presentación
+
+de complicaciones y la falta de realización de tamización nutricional, pues el 75 % de los pacientes del grupo de cirugía de colon y el 80,4 % del grupo de recto que se complicaron no tenían estudio nutricional prequirúrgico. La Sociedad Europea de Nutrición Clínica y Guía de Metabolismo (ESPEN) recomienda que los pacientes con desnutrición reciban terapia nutricional durante al menos 7 a 14 días antes de una cirugía mayor, incluso si las cirugías deben retrasarse 22.
+La infección del sitio operatorio (ISO) es una causa importante de morbilidad después de cirugía colorrectal, que afecta hasta el 20 % de los pacientes 15,16,18. En esta serie se encontró un 6,6 % de ISO en pacientes con cirugía de colon y 17,2 % en pacientes con cirugía de recto. La disminución de la infección de sitio operatorio es uno de los puntos que más se ha estudiado,
+
+643
+
+Molina-Meneses SP, Palacios-Fuenmayor LJ, Castaño-Llano RJ, et al.
+
+Rev Colomb Cir. 2021;36:637-46
+
+por lo que actualmente en el mundo se usan los antibióticos intravenosos profilácticos como estándar de atención 15. El uso de antibióticos orales, asociado o no a la preparación mecánica del intestino antes de la resección colorrectal electiva, ha sido una de las maniobras generadas en busca de disminuir la ISO. Múltiples estudios a favor y en contra de esta propuesta se han desarrollado con evidencia aún debatible, pero se ha observado un efecto favorecedor en la disminución de la ISO en pacientes a quienes se va a realizar cirugía de colon izquierdo y de recto, por lo que la Sociedad Americana de Colon y Recto recomienda el uso de preparación mecánica de colon, asociado a uso de antibióticos orales, como medida para reducir el riesgo de ISO 23. En este estudio se encontró que el 50 % de las complicaciones en cirugía de colon y el 72,8 % en cirugía de recto se presentaron en pacientes a quienes no se hizo preparación preoperatoria de colon.
+Se han realizado múltiples estudios frente al tipo de abordaje quirúrgico en el manejo de pacientes con cáncer colorrectal, respecto a la presentación de complicaciones, los resultados oncológicos, o el manejo postoperatorio, y se ha encontrado que el abordaje laparoscópico mejora el resultado postoperatorio en cuanto a disminución en la presentación de dolor y estancia hospitalaria. Song et al. 24 mostraron menor pérdida sanguínea en los procedimientos laparoscópicos. En nuestra serie, la mayoría de los procedimientos fueron vía laparoscópica (69,1 %) y tuvieron una menor proporción de complicaciones con respecto a los pacientes operados por vía abierta (45,6 % vs 54,4 %).
+La incidencia de fuga de la anastomosis se presenta hasta en el 18,7 % de los pacientes con cirugía de colon y el 10,6 % de los pacientes con cirugía de recto, y se asocia con aumento en las tasas de mortalidad 12. En esta serie se encontró un 9,5 % de filtración de la anastomosis. Agudelo et al. 25, en su serie de 152 pacientes operados por cáncer colorrectal, encontraron una tasa de filtración de 4,9 %.
+El íleo postoperatorio fue la complicación más frecuente en los pacientes de este estudio, presen-
+
+tándose en un 44 % en pacientes en el grupo de cirugía de colon y 40,4 % en pacientes con cirugía de recto, lo cual está por encima de lo reportado por Chapuis et al. 26, en su estudio observacional de 2400 pacientes, con una tasa de íleo prolongado (íleo persistente por 15 días o más) de 14 %, y en lo reportado por Gellona et al. 27, en el cual el íleo prolongado (no reinicio del tránsito intestinal a gases o deposiciones en 7 días) se observó en 3,2 % pacientes. Esta variación puede deberse a las diferentes definiciones respecto a íleo, en el presente estudio no se definió la duración de esta complicación.
+En esta serie se encontró un 3,3 % de atelectasias para ambos grupos de cirugías, 4,4 % de neumonías en colon y 1,3 % en recto, y un 1,2 % de falla ventilatoria y síndrome de dificultad respiratoria del adulto, lo que está por debajo de lo reportado por Rodríguez-Montes et al. 28, de hasta el 60 % en atelectasias, lo que se podría deber a un subregistro en la historia clínica. Este estudio tiene como debilidad la falta de reporte de algunos datos en las historias clínicas por ser retrospectivo.
+Con base en un estudio clínico previo de nuestra institución 29, encontramos como el cáncer de recto pasó del 45 % entre 2011 y 2015, a ser más frecuente que el cáncer de colon en la serie actual, con el 55 %.
+Conclusiones
+Las características demográficas, tumorales y quirúrgicas de los pacientes fueron similares a los presentados en otros estudios, con una mayor incidencia de íleo postoperatorio. Se concluye, con base en un análisis estadístico multivariado, que hay asociación entre presentar una complicación postoperatoria y tener como comorbilidades diabetes mellitus o hipertensión arterial, no realizar tamización nutricional prequirúrgica o preparación de colon, someter a cirugía de recto más que de colon y un sangrado intraoperatorio igual o mayor a 500 ml. Estos hallazgos servirán para tomar las decisiones pertinentes e impactar la morbimortalidad en la cirugía del CCR en la práctica futura.
+
+644
+
+Rev Colomb Cir. 2021;36:637-46
+
+Factores predictivos de complicaciones en cirugía colorrectal
+
+Cumplimiento de normas éticas
+Consentimiento informado: Este estudio es una revisión de historias clínicas retrospectiva, y como tal, no hay necesidad de un consentimiento informado. El protocolo se elaboró según las normas éticas internacionales y la legislación colombiana y tanto este, como la ejecución del estudio, fueron aprobados y vigilados por el Comité de Ética Independiente del IDC Las Américas Auna, el cual cumple con las normas de Buenas Prácticas Clínicas en todas sus actividades.
+Declaración de conflicto de interés: Los autores declararon no tener ningún conflicto de intereses.
+Financiación: La presente investigación no ha recibido becas específicas provenientes de agencias del sector público, sector comercial o sin ánimo de lucro.
+Contribución de los autores: - Concepción y diseño del estudio: Sandra Patricia
+Molina-Meneses, Luis José Palacios-Fuenmayor. - Adquisición de datos: Sandra Patricia Molina-Meneses,
+Lucy Astrid Sánchez-Patiño. - Análisis e interpretación de datos: Sandra Patricia
+Molina-Meneses, Luis José Palacios-Fuenmayor, Rodrigo de Jesús Castaño-Llano, Jorge Iván MejíaGallego, Lucy Astrid Sánchez-Patiño. - Redacción del manuscrito: Sandra Patricia MolinaMeneses, Lucy Astrid Sánchez-Patiño. - Revisión crítica: Sandra Patricia Molina-Meneses, Luis José Palacios-Fuenmayor, Rodrigo de Jesús Castaño-Llano, Jorge Iván Mejía-Gallego, Lucy Astrid Sánchez-Patiño.
+Referencias
+1. Brajcich BC, Stulberg JJ, Palis BE, Chung JW, Huang R, Nelson H, Bilimoria KY. Association between surgical technical skill and long-term survival for colon cancer. JAMA Oncol. 2021;7:127-9. https://doi.org/10.1001/jamaoncol.2020.5462
+2. Pak H, Maghsoudi LH, Soltanian A, Gholami F. Surgical complications in colorectal cancer patients. Ann Med Surg. 2020;55:13–8. https://doi.org/10.1016/j.amsu.2020.04.024
+3. Tevis SE, Kennedy GD. Postoperative complications: Looking forward to a safer future. Clin Colon Rectal Surg. 2016;29:246–52. https://doi.org/10.1055/s-0036-1584501
+4. Louis M, Johnston SA, Churilov L, Ma R, Marhoon N, Burgess A, et al. The hospital costs of complications following colonic resection surgery: A retrospective cohort study. Ann Med Surg. 2020;54:37-42. https://doi.org/10.1016/j.amsu.2020.03.013
+
+5. Lawler J, Choynowski M, Bailey K, Bucholc M, Johnston A, Sugrue M. Meta‐analysis of the impact of postoperative infective complications on oncological outcomes in colorectal cancer surgery. BJS Open. 2020;4:737-47. https://doi.org/10.1002/bjs5.50302
+6. Miyamoto Y, Hiyoshi Y, Tokunaga R, Akiyama T, Daitoku N, Sakamoto Y, et al. Postoperative complications are associated with poor survival outcome after curative resection for colorectal cancer: A propensity-score analysis. J Surg Oncol. 2020;122:344–9. https://doi.org/10.1002/jso.25961
+7. Zawadzki M, Krzystek-Korpacka M, Rząca M, Czarnecki R, Obuszko Z, Sitarska M, Witkiewicz W. Risk factors in reoperations in colorectal surgery. Pol Prz Chir. 2019;91:13–8. https://doi.org/10.5604/01.3001.0013.1922
+8. Sánchez-Guillén L, Frasson M, Pellino G, Fornés-Ferrer V, Ramos JL, Flor-Lorente B, et al. Nomograms for morbidity and mortality after oncologic colon resection in the enhanced recovery era: results from a multicentric prospective national study. Int J Colorectal Dis. 2020;35:2227-38. https://doi.org/10.1007/s00384-020-03692-x
+9. Jiang HH, Dong XL, Tang X, Li AJ, Chang Y, Li HG, et al. Nomogram for predicting risk of intestinal complications after colorectal cancer surgery. Med Sci Monit. 2019;25:2104–11. https://doi.org/10.12659/MSM.915692
+10. van Groningen JT, Ceyisakar IE, Gietelink L, Henneman D, van der Harst E, Westerterp M, et al. Identifying best performing hospitals in colorectal cancer care; is it possible? Eur J Surg Oncol. 2020;46:1144-50. https://doi.org/10.1016/j.ejso.2020.02.024
+11. van Groningen JT, Marang-van de Mheen PJ, Henneman D, Beets GL, Wouters MWJM. Surgeon perceived most important factors to achieve the best hospital performance on colorectal cancer surgery: a Dutch modified Delphi method. BMJ Open. 2019;9:e025304. https://doi.org/10.1136/bmjopen-2018-025304
+12. Leichtle SW, Mouawad NJ, Welch KB, Lampman RM, Cleary RK. Risk factors for anastomotic leakage after colectomy. Dis Colon Rectum. 2012;55:569-75. https://doi.org/10.1097/DCR.0b013e3182423c0d
+13. Duff SE, Battersby CLF, Davies RJ, Hancock L, Pipe J, Buczacki S, et al. The use of oral antibiotics and mechanical bowel preparation in elective colorectal resection for the reduction of surgical site infection. Color Dis. 2020;22:364-72. https://doi.org/10.1111/codi.14982
+14. Dindo D, Demartines N, Clavien PA. Classification of surgical complications: A new proposal with evaluation in a cohort of 6336 patients and results of a survey. Ann Surg. 2004;240:205-13. https://doi.org/10.1097/01.sla.0000133083.54934.ae
+15. Shaffer VO, Baptiste CD, Liu Y, Srinivasan JK, Galloway JR, Sullivan PS, et al. Improving quality of surgical care and outcomes: Factors impacting surgical site infection
+
+645
+
+Molina-Meneses SP, Palacios-Fuenmayor LJ, Castaño-Llano RJ, et al.
+
+Rev Colomb Cir. 2021;36:637-46
+
+after colorectal resection. Am Surg. 2014;80:759-63. https://doi.org/10.1177/000313481408000823
+16. Tevis SE, Carchman EH, Foley EF, Harms BA, Heise CP, Kennedy GD. Postoperative ileus--More than just prolonged length of stay? J Gastrointest Surg. 2015;19:1684-90. https://doi.org/10.1007/s11605-015-2877-1
+17. Asgeirsson T, El-Badawi KI, Mahmood A, Barletta J, Luchtefeld M, Senagore AJ. Postoperative ileus: It costs more than you expect. J Am Coll Surg. 2010;210:228-31. https://doi.org/10.1016/j.jamcollsurg.2009.09.028
+18. Kirchhoff P, Clavien PA, Hahnloser D. Complications in colorectal surgery: Risk factors and preventive strategies. Patient Saf Surg. 2010;4:5. https://doi.org/10.1186/1754-9493-4-5
+19. Lipska MA, Bissett IP, Parry BR, Merrie AEH. Anastomotic leakage after lower gastrointestinal anastomosis: Men are at a higher risk. ANZ J Surg. 2006;76:579-85. https://doi.org/10.1111/j.1445-2197.2006.03780.x
+20. Lee SY, Jung MR, Kim CH, Kim YJ, Kim HR. Nutritional risk screening score is an independent predictive factor of anastomotic leakage after rectal cancer surgery. Eur J Clin Nutr. 2018;72:489-95. https://doi.org/10.1038/s41430-018-0112-3
+21. Thomas MN, Kufeldt J, Kisser U, Hornung HM, Hoffmann J, Andraschko M, et al. Effects of malnutrition on complication rates, length of hospital stay, and revenue in elective surgical patients in the G-DRG-system. Nutrition. 2016;32:249-54. https://doi.org/10.1016/j.nut.2015.08.021
+22. Weimann A, Braga M, Carli F, Higashiguchi T, Hübner M, Klek S, et al. ESPEN guideline: Clinical nutrition in surgery. Clin Nutr. 2017;36:623-50. https://doi.org/10.1016/j.clnu.2017.02.013
+23. Kirchhoff P, Dincler S, Buchmann P. A multivariate analysis of potential risk factors for intra- and posto-
+
+perative complications in 1316 elective laparoscopic colorectal procedures. Ann Surg. 2008;248:259-65. https://doi.org/10.1097/SLA.0b013e31817bbe3a
+24. Song XJ, Liu ZL, Zeng R, Ye W, Liu CW. A meta-analysis of laparoscopic surgery versus conventional open surgery in the treatment of colorectal cancer. Medicine (Baltimore). 2019;98:e15347. https://doi.org/10.1097/MD.0000000000015347
+25. Agudelo L, Isaza-Restrepo A, Figueroa C, Monroy A, Padrón J, Villaveces M. Experiencia en el manejo de cáncer colorrectal en Méderi-Hospital Universitario Mayor, 2012-2014. Rev Colomb Cirugía. 2017;32:262-8. https://doi.org/10.30944/20117582.33
+26. Chapuis PH, Bokey L, Keshava A, Rickard MJFX, Stewart P, Young CJ, Dent OF. Risk factors for prolonged ileus after resection of colorectal cancer: An observational study of 2400 consecutive patients. Ann Surg. 2013;257:909-15. https://doi.org/10.1097/SLA.0b013e318268a693
+27. Gellona J, Bellolio F, Molina ME, Miguieles R, Urrejola G, Zúñiga A. Cáncer de recto. Análisis de las complicaciones post operatorias y mortalidad de la resección radical en una serie de 10 años. Rev Chil Cir. 2013;65:242-8. http://dx.doi.org/10.4067/S0718-40262013000300008
+28. Rodríguez-Montes JA, Rojo E, Álvarez J, Dávila M, García-Sancho L. Complicaciones de la cirugía colorrectal. Cirugía Española. 2001;69:253-6. https://doi.org/10.1016/s0009-739x(01)71737-x
+29. Campo-Sánchez SM, Camargo-Trillos J, Calle-Ramírez JA, Gómez-Wolff LR, Sánchez-Patiño LA, García-García HI. Colorectal cancer survival at an oncologic center in Colombia. A historic cohort study. Rev Gastroenterol Mex. 2019;84:174-84. https://doi.org/10.1016/j.rgmx.2018.04.002
+
+646

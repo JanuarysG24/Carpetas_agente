@@ -1,0 +1,302 @@
+Clinical and Translational Oncology (2019) 21:1302–1311 https://doi.org/10.1007/s12094-019-02059-1
+SPECIAL ARTICLE
+
+Recommendations for follow‑up of colorectal cancer survivors
+R. Vera1  · J. Aparicio2 · F. Carballo3 · M. Esteva4,5 · E. González‑Flores6 · J. Santianes7 · F. Santolaya8 · J. M. Fernández‑Cebrián9
+Received: 27 December 2018 / Accepted: 1 February 2019 / Published online: 14 February 2019 © The Author(s) 2019
+Abstract Colorectal cancer (CRC) is one of the tumours with the highest incidence and mortality in the Spanish population. Nevertheless, the advances in prevention and treatment have contributed to an increased number of patients who survive for prolonged periods of time. In addition, despite recurrences, improved survival following metastasis resection is likewise on the rise. This underscores the importance of carrying out follow-up programmes even in low-risk patients for the early detection of recurrence. The main objective of this article is to provide a set of recommendations for optimising the follow-up of CRC survivors as well as for managing the sequelae that result from either pharmacological or surgical treatment.
+Keywords  Cancer survivors · Treatment sequelae · Quality of life · Surveillance · Monitoring · Care coordination
+
+Introduction
+Colorectal cancer (CRC) was the highest incidence tumour in 2017 in Spain across both sexes. More than 34,000 new cases were diagnosed according to data from GLOBOCAN 2012 after extrapolation to the Spanish population for the year 2017 by the Spanish National Statistics Institute (INE) [1]. In approximately 80% of patients, the tumour is located in the colon or rectum, and surgical resection is the treatment of choice. However, between 30 and 50% of these patients will have a recurrence, with most metastases appearing in
+
+the liver followed by the lung [2]. As it is possible to achieve a 5-year survival rate of 40% following resection of liver or lung metastases, the objective of follow-up programmes is the early detection of recurrences to enable surgical resection of the lesions. Several factors must be taken into account in a proposed follow-up programme: (1) more than 90% of recurrences occur in the first 5 years after surgery and most of them within the first 3 years [3]; (2) approximately 7% of patients will present with metachronous colon tumours [4]; (3) the risk of recurrence is determined by several factors that can be used to stratify the type of patient follow-up.
+
+* R. Vera ruth.vera.garcia@cfnavarra.es; ruth.vera.garcia@cfnavarra.es
+J. Aparicio japariciou@seom.org
+F. Carballo carballo@um.es
+M. Esteva mesteva@ibsalut.caib.es
+E. González‑Flores encarnagonzalezflores@gmail.com
+J. Santianes dr_santianes_patino@hotmail.com
+F. Santolaya fsantolayas@semg.es
+J. M. Fernández‑Cebrián jmfernandez@fhalcorcon.es
+V1ol:.3 (1234567890)
+
+1 Servicio de Oncología Médica, Complejo Hospitalario de Navarra, Calle Irunlarrea, 3, 31008 Pamplona, Navarra, Spain
+2 Hospital Universitario Y Politécnico La Fe, Valencia, Spain
+3 Instituto Murciano de Investigación Biosanitaria (IMIB) Virgen de La Arrixaca, Murcia, Spain
+4 Gerencia Atención Primaria de Mallorca, Instituto de Investigación Sanitaria de Las Islas Baleares (IdisBa), Palma de Mallorca, Spain
+5 Grupo de Trabajo de Cáncer de SEMFYC, Red de Actividades Preventivas Y Promoción de La Salud (redIAPP), Palma de Mallorca, Spain
+6 Hospital Universitario Virgen de Las Nieves, Granada, Spain
+7 Hospital Universitario Central de Asturias, Oviedo, Spain
+8 Centro de Salud Ciudad San Pablo, Madrid, Spain
+9 Hospital Universitario Fundación Alcorcón, Madrid, Spain
+
+Clinical and Translational Oncology (2019) 21:1302–1311
+
+1303
+
+The TNM stage is the most important factor in determining the risk of recurrence; (4) as the objective of follow-up is to detect metastases in the phase where resection is possible, the follow-up should be performed only in patients who are likely to tolerate a major surgical procedure and the subsequent chemotherapy treatment. Last, attention to sequelae from previous treatments received must have taken into account and managed accordingly, and lifestyle modifications might be recommended.
+Definition of colorectal cancer survivor and stratification
+In this article, a CRC survivor is defined as a patient who has completed the specific treatment prescribed (surgery, chemotherapy and/or radiotherapy) with no evidence of disease. Taking the differences in both the primary treatment and the type of local recurrence into account, colon cancer and rectal cancer will be considered separately in this article.
+The target population for the recommendations presented in this article consists of adult patients classified as stages I–III at the time of diagnosis. It is important to bear in mind that the evidence levels to followup stage I patients are relatively lower due to a lack of pertinent studies. In addition, the follow-up data are insufficient to extrapolate these recommendations to patients with stage IV CRC who have undergone metastasectomy [5]. Follow-up examinations should only be performed on patients in whom treatment decisions will be affected by the results obtained. By contrast, follow-up should not be performed in subjects who, due either the presence of serious comorbidities or because they have a limited life expectancy, are not candidates for surgery or systemic treatment [6].
+The median age of surviving CRC patients is similar to the age of being at risk for other cancers, so it is recommended not to exclude these patients from the screening programmes offered to the general population [7]. Patients
+
+affected by hereditary CRC syndromes, such as familial adenomatous polyposis or Lynch syndrome, are excluded from this guide due to the special clinical characteristics and peculiar preventive aspects of these disorders.
+The recommendations from this consensus should be individually modified according to the type of treatment received and the risk of recurrence. To this end, it is convenient to stratify the CRC survivors into differentiated groups: (1) stage I colon cancer; (2) stage I rectal cancer; (3) stage II or III colon cancer; and (4) stage II and III rectal cancer.
+Recommendations for follow‑up of colorectal cancer survivors
+Colonoscopy
+Colonoscopy is the standard method for diagnosing all types of neoplastic colon lesions, whatever the indicative clinical situation or the tumour size and stage. It is used as often in the early diagnosis of CRC as in the follow-up after detection and treatment of the lesions discovered. The intensity of the follow-up will depend on the individual patient’s risk profile, which is defined in this case for patients who have been diagnosed with stage I or II/III colon or rectal cancer and who are disease-free after receiving radical treatment. It is assumed in these cases that the patient has undergone a high-quality colonoscopy in the perioperative setting, or between 3 and 6 months after surgery in cases of obstructive cancer [8]. This colonoscopy is indicated to rule out metachronic lesions and to eliminate all associated polyps that might be present.
+Table 1 shows the main follow-up recommendations concerning colonoscopy in patients of this type. For both colon and rectal cancer, and after curative surgical resection, the U.S. Multi-Society Task Force on Colorectal Cancer recommends performing a first colonoscopy year after surgery or, where appropriate, after postoperative colonoscopy in cases
+
+Table 1  Main recommendations for follow-up colonoscopy in colorectal cancer survivor patients
+
+Clinical guidelines
+
+Cancer Type/stage 1st follow-up 2nd follow-up Successive
+
+US Multi-Society Task Force, 2016 [8]
+ESMO, 2013 [9] ESMO, 2010 [10] ESMO, 2017 [11] ASCO, 2013 [6] ACS, 2015 [5] NCCN, 2018 [12] 12 NCCN, 2018 [13] 13
+
+CRC​
+Colon Colon Rectal CRC​ CRC​ Colon Rectal
+
+I–III
+Early Primary I–III I–III I–III I–III I–III
+
+1 year
+1 year 1 year 1 year 1 year 1 1 1
+
+3 years
+3 years 3 years 3 years
+
+5 years
+3–5 years 3–5 years 3–5 years 5 years 5 years 5 years 5 years
+
+ACS American Cancer Society, ASCO American Society of Clinical Oncology, CRC​ colorectal cancer, ESMO European Society for Medical Oncology, NCCN National Comprensive Cancer Network
+
+1 3
+
+1304
+of obstructive cancer. After the first colonoscopy, a second is recommended 3 years later, and every 5 years thereafter provided no significant findings are observed [8]. The European Society for Medical Oncology (ESMO) has published separate recommendations for early colon cancer [9], primary colon cancer [10] and rectal cancer [11]. Nevertheless, for the purposes of this article, ESMO establishes the same criteria for these three cases, with a first colonoscopy after one year and then every 3–5 years thereafter in the absence of findings. In other words, a flexible recommendation for the successive intervals is established. The American Society of Clinical Oncology (ASCO) considers colonoscopy at 3 years to be unnecessary but establishes a fixed interval of 5 years after the first-year colonoscopy provided there are no relevant findings [6]. The American Cancer Society (ACS) recommends successive colonoscopies after 1, 3, and 5 years, although it references the ASCO recommendation of omitting the intermediate screening after 3 years [5]. Finally, the National Comprehensive Cancer Network (NCCN) also indicates that for this type of patient, an appropriate criterion is a first colonoscopy at one year, a second at 3 years, and successive tests every 5 years for both colon [12] and rectal cancer [13].
+The intensified follow-up in patients does not seem to result in significant differences in survival, but also not in terms of the complications due to performing the colonoscopy [14]. This result, which corresponds to a broad systematic review of the Cochrane Library, justifies the more conservative recommendation of ASCO for follow-ups every 5 years after the first colonoscopy at one year. Even so, everything necessarily depends on the quality of the first and successive colonoscopies and, of course, on the degree of compliance with the guidelines themselves by the clinicians who must apply them [15].
+Regarding the cost-effectiveness of the various colonoscopy follow-up alternatives, although some authors suggest that intensified follow-up could offer potential advantages with reasonable cost increases, it is generally considered that the evidence is inconsistent and that further studies are required [16].
+The main recommendation for colonoscopy follow-up is to ensure that it begins with a high-quality initial endoscopy in the perioperative setting. Thereafter, the follow-up can be done one year following the initial colonoscopy and subsequently every 5 years, provided there are no individual reasons to indicate more frequent screening.
+Laboratory tests, imaging, and clinical follow‑up
+There is a general consensus on the advisability of post-surgical follow-up in CRC patients. In this sense, several nonrandomised studies and meta-analyses suggest that systematic follow-up of CRC patients increases the possibility of
+1 3
+
+Clinical and Translational Oncology (2019) 21:1302–1311
+resecting the disease upon recurrence and improves patient survival. Consequently, various publications and scientific societies recommend, in a more or less precise manner, the protocolised follow-up of patients with resected CRC [6, 9, 12, 17–19].
+Given the heterogeneity with which meta-analysis results are presented, it can be concluded that there is evidence of a benefit in terms of 5-year survival for intensive follow-up, while the number of recurrences detected is similar for both the intensive and minimal follow-up strategies. Although the results are somewhat controversial, most of the guidelines recommend carrying out intensive follow-up after performing surgery in CRC patients (level of evidence: IA) [20, 21].
+However, the tests or explorations that should be performed during the follow-up of asymptomatic patients, their frequency, or for how long they should be followed up, are still not well defined. Most studies have included the clinical history, physical examination, and laboratory tests, especially the serial quantification of carcinoembryonic antigen (CEA), radiological studies, and colonoscopy. There is no consensus regarding the duration of follow-up, although globally, the guidelines recommend carrying out clinical and analytical follow-up for 5 years. However, it is probably necessary to establish the length according to the risk for the individual patient.
+There is no consensus regarding the implementation of intensive follow-up in patients with stage I colorectal cancer. Stage I cases have been excluded in some randomised studies; however, these patients have been included in studies in which a positive impact on survival has been demonstrated [22]. On this basis, some guidelines, such as those of the NCCN, recommend follow-up in these patients exclusively with colonoscopy [6, 12], while in others such as the ESMO guidelines, or those of the Spanish Society of Medical Oncology (SEOM), stage I patients are not excluded from intensive follow-up [9, 18].
+After reviewing the available literature, the main recommendations that can be established for patients with stage I and risk factors for recurrence, such as lymphovascular invasion, positive margins, poorly differentiated tumours, and T2, suggest follow-up with the same strategies as are used in stage II and stage III patients (level of evidence: 2C).
+Table 2 shows the main recommendations from the clinical guidelines on clinical and radiological follow-up for stage IIIII CRC.
+Clinical follow‑up and CEA
+The majority of randomised studies and meta-analyses that explore the role of clinical and analytical follow-up in patients with resected stage IIIII CRC demonstrate the impact on survival and the increase of curative resections upon recurrence. Nevertheless, it has not been possible to
+
+Clinical and Translational Oncology (2019) 21:1302–1311
+
+1305
+
+Table 2  Clinical and radiological follow-up of stage II and III colorectal cancer
+
+Clinical guidelines
+
+Clinic visit and CEA
+
+Abdomen and pelvis examination
+
+Chest examination
+
+ASCO, 2013 [6] NCCN, 2018 [12] ASCRS, 2015 [17] ESMO, 2013 [9] SEOM, 2016 [18, 19]
+
+Every 3–6 months/5 years
+Every 3–6 months/2 years Every 6 months up to 5 years Every 3–6 months/2 years Every 6 months up to 5 years Every 3–6 months/3 years Every 6 months up to 5 years Every 3 months/3 years Every 6 months up to 5 years
+
+Yearly for 3 years (pelvic in rectal cancer) If high risk, every 6–12 months Every 6–12 months/5 years (category 2B < 12 months)
+Yearly for 5 years
+Every 6–12 months/3 years (pelvis in rectal)
+Every 6 months/3 years If high risk, yearly (pelvis in rectal)
+
+Yearly for 5 years Every 6–12 months/5 years Yearly for 5 years Every 6–12 months/3 years Every 6 months/3 years
+
+ASCO American Society of Clinical Oncology, ASCRS American Society of Colon and Rectal Surgeons, CEA carcinoembryonic antigen, ESMO European Society for Medical Oncology, NCCN National Comprensive Cancer Network, SEOM Spanish Society of Medical Oncology
+
+determine an exclusive role of CEA in clinical trials, associated with an increase in imaging techniques and colonoscopies [23, 24].
+With regard to the frequency of testing, a joint analysis of the ACCENT database is available with 20,898 stage II and III patients included in 5 adjuvant treatment studies. Here, 62% of patients with a recurrence were identified within the first 2 years, 80% at 3 years, and 92% at 4 years. The recurrence rate was less than 1.5% per year after 5 years and dropped to less than 0.5% per year after 10 years [25].
+Based on these and other data, there is a consensus in most of the guidelines to recommend clinical visits and a CEA determination every 3–6 months during the first 2 years, and then twice per year for a total of 5 years (level of evidence: 1B).
+Radiological follow‑up
+The liver and lung are the most frequent sites of metastatic CRC recurrence that are also amenable to surgical rescue. A limitation inherent in the available trial data when the follow-up method of choice is analysed is the long period of time over which the studies were conducted. Over this period, improved resolution in the computed tomography (CT) and magnetic resonance (MR) techniques, as well as the incorporation of positron emission tomography (PET), have improved the ability to identify and evaluate the resectability of metastatic lesions.
+
+No trial to date has determined the optimal frequency for performing the liver imaging techniques. No study has directly compared the effectiveness of the liver imaging from 6 to 12 months, particularly with the modern techniques. There is not enough evidence to recommend imaging every 6 months, although this can be considered for very highrisk patients such as those with a previous resection of liver metastases, N2 disease, or indeterminate lesions in previous images. It is therefore generally recommended that radiological tests be performed annually [3, 14, 26].
+The lung is the most frequent site of distant metastasis, especially for rectal cancer, and it is also amenable to surgical rescue. On this basis, most of the guidelines incorporate a chest CT in the CRC follow-up. However, the data are insufficient to recommend PET follow-up on a routine basis [6, 12].
+Based on the available evidence, the main recommendation for rectal cancer cases is to perform annual CT scans of the chest, abdomen, and pelvis for 5 years (level of evidence: 1B).
+Sequelae due to previous colorectal cancer treatment
+Table 3 shows the main sequelae arising from the treatments used in the CRC.
+
+Table 3  Main post-treatment sequelae
+Intestinal, anal and rectal problems Derived from radiotherapy
+Urinary dysfunction Sexual dysfunction
+
+Diarrhoea, bleeding, mucus discharge in faeces, rectal tenesmus, incontinence
+Proctitis, bleeding, tenesmus, rectal/anal stenosis, osteoporosis, bone and pelvic fractures, prostate, cervical or vaginal neoplasia
+Infections, incontinence
+Men: impotence, erectile dysfunction Women: dyspareunia, dryness of the vaginal mucosa
+
+1 3
+
+1306
+Medical sequelae
+Three phase III studies have established oxaliplatin-based chemotherapy as the basis of adjuvant treatment for stage III colon cancer [27]. One of the adverse effects of this drug is its peripheral nervous system toxicity, which can manifest in acute or chronic form. Acute neurotoxicity is characterised by peripheral sensory neuropathy that manifests primarily as dysaesthesia and/or paraesthesias of the extremities that can be accompanied by cramps, usually exacerbated by cold, and which usually disappear between treatment cycles; these can also manifest in the perioral and pharyngeal regions. Chronic neurotoxicity appears following prolonged exposure to the drug, and is related to the dose, treatment duration, and the cumulative dose received [28]. There is currently no established preventive treatment [29]. There is no effective treatment for the neurotoxicity once it is established. While complete resolution occurs in some cases, the neurotoxicity is often only partially reversible.
+Surgical sequelae
+Intestinal and anorectal problems
+Altered control of bowel elimination is a long-term effect that occurs in up to 49% of CRC survivors [30]. This can limit the patient’s activities and quality of life, and is a function of the extent and type of surgical resection performed. It commonly occurs in rectal cancer patients who have undergone a low anterior resection [31, 32]. This effect also occurs more frequently in patients who receive radiation therapy, regardless of whether administered before or after surgery [33, 34]. Nevertheless, neoadjuvant chemoradiotherapy is preferable to adjuvant therapy, given the lower rate of longterm gastrointestinal toxicity and anastomotic sequelae [35]. Antidiarrheal drugs and dietary modifications are the firstline treatment [35, 36]. In case of faecal incontinence, the available options include medical therapy to reduce stool frequency and improve its consistency; biofeedback to improve control of the pelvic floor; and, occasionally surgery. One of the options is neurostimulation of the sacral roots and/or the posterior tibial nerve in patients with functional sequelae who are free of tumour recurrence [36–38].
+Complications due to radiotherapy
+Chronic radiation proctitis is a delayed response to radiation therapy caused by atrophy and fibrosis of the irradiated intestinal epithelium. In general, symptoms develop later after radiation exposure and can include diarrhoea, rectal urgency and/or pain, obstruction, and bleeding. Other causes of proctitis, such as infections or inflammatory bowel disease, must be ruled out. There is little quality evidence
+1 3
+
+Clinical and Translational Oncology (2019) 21:1302–1311
+for the optimal management of these patients. In general, management is adapted to the specific pattern of symptoms and their intensity. Patients with mild symptoms (occasional hematochezia or mild tenesmus) usually do not require treatment. The stool softening agents occasionally associated with the use of anal stents are a first-line conservative treatment for alleviating mild obstructive symptoms that result from radiation-induced stenosis. Mesalamine suppositories and/or sucralfate enemas or glucocorticoids are used in severe cases. Other possible alternatives include the use of endoscopic therapies, such as argon and/or neodymiumYAG laser coagulation, bipolar electrocoagulation (BICAP), radiofrequency ablation, or application of 4% formalin. Surgery is reserved for patients with intractable symptoms such as severe stenosis, pain, haemorrhage, perforation, or fistulas (rectovaginal or vesicovaginal). This procedure is not free of complications (15–80%) or mortality (3–9%) and comes with a greater possibility of permanent ostomy. Proctectomy can become the only option for some patients [39, 40].
+Pelvic radiotherapy can predispose the patient to bone loss and an increased bone fracture risk. Although there is little data on patients treated for rectal cancer, receiving radiotherapy appears to be linked to a greater probability of having a pelvic fracture in this population [41]. For this reason, CRC survivors who have received pelvic radiotherapy should undergo long-term bone density monitoring, appropriate medical treatment for osteopenia and osteoporosis, and careful evaluation following development of any symptoms suggestive of fractures.
+Secondary neoplasms induced by pelvic irradiation are a known but less common complication. Few studies have evaluated the risk of a second cancer in rectal cancer patients treated with radiotherapy before or after surgery, and the results are variable and controversial [42].
+Urinary dysfunction
+The incidence of urinary dysfunction in patients undergoing surgery for rectal cancer depends specifically on the type of intervention (it is higher after abdominoperineal resection compared to a low rectal resection) and the extent of the pelvic dissection. Radiotherapy does not seem to exert an enhancing effect on the rate of long-term urinary incontinence. Given the variety of options including drugs, neurostimulation of sacral roots, artificial sphincter, etc., the management of these situations should involve consultation with an urologist [43].
+Sexual dysfunction
+CRC survivors can experience a wide range of sexual dysfunctions that can affect their quality of life. Men can experience decreased libido, erectile dysfunction, and ejaculatory
+
+Clinical and Translational Oncology (2019) 21:1302–1311
+disorders such as retrograde ejaculation (23–69%). Women can also experience decreased libido, dyspareunia, changes in genital lubrication, and anorgasmia (19–62%). In general, sexual dysfunction is more common in patients treated for rectal cancer than for colon cancer [44]. Several therapies are available to treat sexual dysfunction in men, such as oral administration of a phosphodiesterase-5 inhibitor, or intracavernous drug treatments. The available treatment options for sexual dysfunction in women are more limited, and none have been systematically evaluated in CRC survivors. Lubricants and vaginal moisturisers can be useful in relieving vaginal dryness and dyspareunia. Low-dose vaginal oestrogen preparations can also be used. Pelvic floor muscle training (Kegel exercises) and vaginal dilators can be recommended to prevent vaginal stenosis following pelvic radiation therapy [44].
+Lifestyle modifications and recommendations for primary and secondary prevention of recurrences in colorectal cancer survivors
+Lifestyle modification and primary and secondary prevention
+Patients who have had cancer have a higher risk of developing a second occurrence due to the risk factors that led to the original cancer. It is even possible that patients who do not die from cancer could still die from causes that are modifiable through changes in lifestyle or through secondary prevention activities. Currently, much scientific evidence is being generated on the effects of nutrition and physical exercise on CRC survivors. There are still few clinical trials that demonstrate effects on tumour recurrence and mortality that result from changes in energy balance, such as weight loss, physical activity, or changes in diet [45, 46]. Most of the trials carried out relate only to short-term results, such as an improvement in physical condition, psychological status, or quality of life [47]. However, there are consistent data from observational studies that show the beneficial effect of changes in physical activity and diet [48–50]. In addition, physical activity improves heart health and decreases the osteoporosis risk, and mighty be helpful in attenuating cardiotoxic treatment effects and other long-term effects of cancer treatment. Currently, the World Cancer Research Fund recommends that CRC survivors follow the same recommendations as for reducing the primary cancer risk [51].
+Some studies have shown that cancer survivors receive fewer recommendations about preventive activities than do people who have not had cancer [52]. In addition, there are differences in the type of recommendations that depend on the attending professional. In the study by Snyder et al,
+
+1307
+patients monitored only by primary care physicians were more likely to receive preventive non-cancer-specific interventions, while those monitored by oncologists received interventions focused on cancer surveillance [53].
+The follow-up after CRC treatment represents an optimal period for the healthcare professionals involved to discuss recommendations on healthy lifestyles with the patient, especially regarding diet and physical exercise, and presenting a consistent message. Patients tend to be more motivated to adopt these recommendations and initiate changes in physical activity and diet during this period, and to set aside other unhealthy habits such as smoking or alcohol. Table 4 shows the main recommendations on lifestyles and for secondary cancer prevention.
+Based on the available evidence, healthcare professionals who care for CRC survivors should encourage their patients to eat a healthy diet, maintain weight (or reduce it in the case of obese patients), reduce sedentary habits, and increase physical activity. These professionals should also not miss the opportunity to review and reinforce the participation of their patients in screening programmes for CRC, and breast and cervical cancer.
+Functional assessment in elderly colon cancer survivors
+Tumour pathology in elderly patients, even those in the complete remission phase, assumes an increased prevalence
+Table 4  Recommendations concerning lifestyle and secondary cancer prevention
+Recommendations on diet Maintaining a diet rich in vegetables, fruits, and whole grains Reduce the frequent consumption of red meat and processed meat Limit sugar consumption and avoid sugary drinks Recommendations on physical activity Engage in regular physical exercise, with at least 150 min per week of moderate aerobic activity Limit the time spent sitting For patients who choose walking as exercise, a rate of 100 steps per minute is consistent with moderate activity, so that a useful guideline would be 1000 steps in 10 min or 3000 in 30 min A patient who wants to lose weight should increase the usual physical activity to about 250–300 min per week A patient who has a disability should discuss options with a counsellor Recommendations on tobacco and alcohol consumption Quit smoking Limit alcohol consumption, although it is best to avoid alcoholic beverages Recommendations on secondary cancer prevention Persons who have had colorectal cancer and have had 5 years of disease–free survival are recommended to participate in colorectal cancer screening programmes Women are recommended to participate in population-based breast and cervical cancer screening programmes
+1 3
+
+1308
+of frailty and functional dependence compared to healthy individuals, with an increase in morbidity and mortality and the associated sociosanitary costs [54]. Difficulties can also appear in performing the activities of daily living, for example, with the management of ostomies. It is necessary in this population to make a comprehensive assessment that, in addition to the functional situation, includes the cognitive status, social situation, and a nutritional assessment, since all of these factors will influence the patient’s functional capacity and quality of life. All this will allow the establishment of therapeutic objectives and monitoring of the progress thereof [55].
+Coordination between levels of care for optimal colorectal cancer survivor follow‑up
+The high prevalence of CRC and increased life expectancy due to improvements in preventive and therapeutic measures is generating a large number of long-term survivors. In addition to the usual continuity of care of the various comorbidities, this increase requires the involvement across all levels in the care, intervention, and monitoring of these patients. In theory, patient treatment must be multidisciplinary and shared over the entire course of the disease; this involves more intense monitoring by hospital caregivers in the first years, and a greater involvement of primary caregivers in the long-term survival phase.
+For long-term survivors who have a low risk of recurrence, there is currently no scientific evidence in favour of monitoring at one or another level of care [56, 57]. However, there are studies that favour the view that monitoring these patients can increase their survival [6, 58, 59]. Together with the high number of such patients, this justifies the involvement of primary care personnel in the monitoring programme.
+The enabling of a shared monitoring of the long-term surviving CRC patients requires effective communication between the different levels of care [60]. Although the current trend towards unified electronic medical records could facilitate this communication, the main communication tool between the levels of care at the current time continues to be clinical reports. It is therefore important to standardise the content of these reports in both directions between primary caregivers and hospital caregivers. References are made to mechanisms for the exchange of clinical and individual health information in Act 41/2002 on patient autonomy and Act 16/2003 on the cohesion of the National Health System. The Spanish Royal Decree 1093/2010 establishes the minimum set of data that should appear in the clinical reports and that must be respected by both levels. The hospital specialist must make a complete report at the beginning and end of
+1 3
+
+Clinical and Translational Oncology (2019) 21:1302–1311
+treatment that enables and guides the establishment of an appropriate follow-up plan [61].
+The report from the hospital caregiver must include:
+• A description of the onset of the disease • The diagnostic tests carried out • Perioperative and surgical treatments • Radiotherapy and chemotherapy treatments, if administered • Presence or absence of metastases • Results of genetic testing, if carried out • Guidelines for the prevention of possible adverse effects
+of the treatment(s) • Information on whether or not the patient is included in
+a clinical trial • Estimate of the approximate duration of any temporary
+disability • Date of the next visit
+The report upon completion of treatment must also include:
+• Information on the risks of long-term sequelae • Course of the disease • Plans for follow-up diagnostic tests • Ostomy care, if applicable • Recommendations for a healthy lifestyle • Assessment of psychosocial and family support • Recommendations for resuming social life and work
+Follow-up of long-term CRC survivors requires good communication between both levels of care to guarantee quick access to treatment in response to any sign of suspected recurrence or a second tumour. The objectives of primary care follow-up should focus on the detection of curable recurrences and second neoplasms, monitoring of the complications of long-term treatments, monitoring of sequelae and comorbidities, and above all, improving the quality of life for these patients [62–64]. These aspects should be reflected in the clinical history from the primary care and indicated in the referral report to hospital caregiver if necessary [58].
+Conclusions
+The objective of follow-up programmes for long-term colorectal cancer survivors is the early-stage detection of recurrence(s) of the disease, at the point where it is amenable to curative surgical resection. That is why followup programmes should focus on patients who can tolerate aggressive curative treatment (surgery, chemotherapy,
+
+Clinical and Translational Oncology (2019) 21:1302–1311
+
+1309
+
+Table 5  Recommendations for colorectal cancer survivor follow-up
+The recommendations from this consensus should be individually modified according to the type of treatment received and the risk of recurrence. To this end, it is convenient to stratify colorectal cancer survivors into groups:
+Stage I colon cancer
+Stage I rectal cancer
+Stages II and III colon cancer
+Stages II and III rectal cancer
+Colonoscopy monitoring of colorectal cancer survivors requires obtaining an initial high-quality endoscopy in the perioperative setting. Thereafter, the follow-up can be done at one year after the initial colonoscopy, and then subsequently every 5 years as long as there are no individual indications for testing before that
+Intestinal and anorectal sequelae (diarrhoea, incontinence, etc...), as well as those derived from radiotherapy, can be managed through medication, with surgical options as an alternative if medication treatment fails. Similar recommendations can be established for urological or sexual sequelae, although these will require more precise evaluation by a specialist
+Healthcare professionals who care for colorectal cancer survivors should encourage those patients to eat a healthy diet, maintain weight (or reduce weight in the case of obese patients), reduce sedentary habits, and increase their physical activity. Opportunities should be taken to review and reinforce the participation by these patients in screening programmes that are currently underway
+It is necessary to carry out a global assessment of the patient in all areas to be able to propose an adequate programme of therapeutic management
+Coordination between different levels of care (primary care and hospital care) is essential to guarantee rapid access to diagnostic/therapeutic care in response to any sign of suspected recurrence, a second tumour, or the appearance of sequelae due to the treatment given for the original tumour
+To enable the monitoring of surviving colorectal cancer patients starting from the primary care level, it is necessary to have clinical reports that, in addition to data on the patient’s disease, include indications for the adverse effects of long-term treatments, indications for follow-up diagnostic tests, and recommendations for monitoring sequelae
+
+etc.). Table 5 summarises the main recommendations for follow-up in colorectal cancer survivors.
+The disease recurrence can appear as metachronic colorectal neoplasms, which would justify follow-up colonoscopy in such patients, either for metastasis or a local recurrence. Carrying out clinical evaluations, analytical CEA determinations, and radiological tests to investigate these latter assumptions has demonstrated survival benefit for these patients.
+Treatments administered and surgery performed can produce long-term sequelae that must be evaluated by the corresponding specialists. With an ever-increasing number of long-term survivors, monitoring and the control of sequelae requires the involvement and implementation of relationship systems between the different levels of care.
+Acknowledgements  The authors are grateful for the editorial assistance of Fernando Sánchez-Barbero and HealthCo (Madrid, Spain) in the production of this manuscript.
+Funding  This project was supported with an unrestricted grant from SEOM.
+Compliance with ethical standards 
+Conflict of interest  The authors declare that they do not have any conflict of interest that may inappropriately influence this work.
+Ethical statement  The study has been performed in accordance with the ethical standards of the Declaration of Helsinki and its later amend-
+
+ments. This article does not contain any studies with human participants or animals performed by any of the authors.
+Informed consent  For this type of study formal consent is not required.
+Open Access  This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creat​iveco​ mmons​.org/licen​ses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.
+References
+1. World Health Organization. GLOBOCAN 2012: Estimated Cancer Incidence, Mortality and Prevalence Worldwide in 2012. http:// globo​can.iarc.fr/Pages​/fact_sheet​s_popul​ation​.aspx. Accessed 14 July 2018.
+2. Bohm B, Schwenk W, Hucke HP, Stock W. Does methodic longterm follow-up affect survival after curative resection of colorectal carcinoma? Dis Colon Rectum. 1993;36:280–6.
+3. Figueredo A, Rumble RB, Maroun J, Earle CC, Cummings B, McLeod R, et al. Follow-up of patients with curatively resected colorectal cancer: a practice guideline. BMC Cancer. 2003;3:26.
+4. Kjeldsen BJ, Kronborg O, Fenger C, Jorgensen OD. The pattern of recurrent colorectal cancer in a prospective randomised study and the characteristics of diagnostic tests. Int J Colorectal Dis. 1997;12:329–34.
+
+1 3
+
+1310
+5. El-Shami K, Oeffinger KC, Erb NL, Willis A, Bretsch JK, PrattChapman ML, et al. American Cancer Society colorectal cancer survivorship care guidelines. CA Cancer J Clin. 2015;65:428–55.
+6. Meyerhardt JA, Mangu PB, Flynn PJ, Korde L, Loprinzi CL, Minsky BD, et al. Follow-up care, surveillance protocol, and secondary prevention measures for survivors of colorectal cancer: American Society of Clinical Oncology clinical practice guideline endorsement. J Clin Oncol. 2013;31:4465–70.
+7. National Comprehensive Cancer Network. NCCN clinical practice guidelines in oncology: survivorship Version 3.2017. https​:// www.nccn.org/profe​ssion​als/physi​cian_gls/pdf/survi​vorsh​ip.pdf. Accessed 14 July 2018.
+8. Kahi CJ, Boland CR, Dominitz JA, Giardiello FM, Johnson DA, Kaltenbach T, et al. Colonoscopy surveillance after colorectal cancer resection: recommendations of the US multi-society task force on colorectal cancer. Gastroenterology. 2016;150(758–68):e11.
+9. Labianca R, Nordlinger B, Beretta GD, Mosconi S, Mandala M, Cervantes A, et al. Early colon cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2013;24:vi64–72.
+10. Labianca R, Nordlinger B, Beretta GD, Brouquet A, Cervantes A, ESMO Guidelines Working Group. Primary colon cancer: ESMO Clinical Practice Guidelines for diagnosis, adjuvant treatment and follow-up. Ann Oncol. 2010;21:v70–7.
+11. Glynne-Jones R, Wyrwicz L, Tiret E, Brown G, Rodel C, Cervantes A, et al. Rectal cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2017;28:22–40.
+12. National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Colon Cancer 2.2018. https​://www. nccn.org/profe​ssion​als/physi​cian_gls/pdf/colon​.pdf. Accessed 14 July 2018.
+13. National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Rectal Cancer 2.2018. https​://www. nccn.org/profe​ssion​als/physi​cian_gls/pdf/recta​l.pdf. Accessed 14 July 2018.
+14. Jeffery M, Hickey BE, Hider PN, See AM. Follow-up strategies for patients treated for non-metastatic colorectal cancer. Cochrane Database Syst Rev. 2016;11:CD002200.
+15. Nayor J, Saltzman JR, Campbell EJ, Perencevich ML, Jajoo K, Richter JM. Impact of physician compliance with colonoscopy surveillance guidelines on interval colorectal cancer. Gastrointest Endosc. 2017;85:1263–70.
+16. Erenay FS, Alagoz O, Banerjee R, Said A, Cima RR. Costeffectiveness of alternative colonoscopy surveillance strategies to mitigate metachronous colorectal cancer incidence. Cancer. 2016;122:2560–70.
+17. Steele SR, Chang GJ, Hendren S, Weiser M, Irani J, Buie WD, et al. Practice guideline for the surveillance of patients after curative treatment of colon and rectal cancer. Dis Colon Rectum. 2015;58:713–25.
+18. Maurel J, Gravalos C, Rivera F, Vera R, González-Flores E, SEOM. SEOM clinical guidelines for the adjuvant treatment of colorectal cancer 2013. Clin Transl Oncol. 2013;15:991–1995.
+19. González-Flores E, Losa F, Pericay C, Polo E, Roselló S, Safont MJ, et al. SEOM Clinical Guideline of localized rectal cancer (2016). Clin Transl Oncol. 2016;18:1163–71.
+20. Rosati G, Ambrosini G, Barni S, Andreoni B, Corradini G, Luchena G, et al. A randomized trial of intensive versus minimal surveillance of patients with resected Dukes B2-C colorectal carcinoma. Ann Oncol. 2016;27:274–80.
+21. Pita-Fernández S, Alhayek-Aí M, González-Martín C, LópezCalviño B, Seoane-Pillado T, Pértega-Díaz S. Intensive follow-up strategies improve outcomes in nonmetastatic colorectal cancer
+
+Clinical and Translational Oncology (2019) 21:1302–1311
+patients after curative surgery: a systematic review and metaanalysis. Ann Oncol. 2015;26:644–56. 22. Russell MC, You YN, Hu CY, Cormier JN, Feig BW, Skibber JM, et al. A novel risk-adjusted nomogram for rectal cancer surgery outcomes. JAMA Surg. 2013;148:769–77. 23. Primrose JN, Perera R, Gray A, Rose P, Fuller A, Corkhill A, et al. Effect of 3 to 5 years of scheduled CEA and CT follow-up to detect recurrence of colorectal cancer: the FACS randomized clinical trial. JAMA. 2014;311:263–70. 24. Lepage C, Phelip JM, Cany L, Faroux R, Manfredi S, Ain JF, et al. Effect of 5 years of imaging and CEA follow-up to detect recurrence of colorectal cancer: the FFCD PRODIGE 13 randomised phase III trial. Dig Liver Dis. 2015;47:529–31. 25. Sargent DJ, Patiyil S, Yothers G, Haller DG, Gray R, Benedetti J, et al. End points for colon cancer adjuvant trials: observations and recommendations based on individual patient data from 20,898 patients enrolled onto 18 randomized trials from the ACCENT Group. J Clin Oncol. 2007;25:4569–74. 26. Rodríguez-Moranta F, Salo J, Arcusa A, Boadas J, Piñol V, Bessa X, et al. Postoperative surveillance in patients with colorectal cancer who have undergone curative resection: a prospective, multicenter, randomized, controlled trial. J Clin Oncol. 2006;24:386–93. 27. André T, Boni C, Navarro M, Tabernero J, Hickish T, Topham C, et al. Improved overall survival with oxaliplatin, fluorouracil, and leucovorin as adjuvant treatment in stage II or III colon cancer in the MOSAIC trial. J Clin Oncol. 2009;27:3109–16. 28. Grothey A. Oxaliplatin-safety profile: neurotoxicity. Semin Oncol. 2003;30:5–13. 29. Albers JW, Chaudhry V, Cavaletti G, Donehower RC. Interventions for preventing neuropathy caused by cisplatin and related compounds. Cochrane Database Syst Rev. 2014;2014:CD005228. 30. Ramsey SD, Berry K, Moinpour C, Giedzinska A, Andersen MR. Quality of life in long term survivors of colorectal cancer. Am J Gastroenterol. 2002;97:1228–34. 31. Emmertsen KJ, Laurberg S, Rectal Cancer Function Study Group. Impact of bowel dysfunction on quality of life after sphincter-preserving resection for rectal cancer. Br J Surg. 2013;100:1377–87. 32. Lange MM, Martz JE, Ramdeen B, Brooks V, Boachie-Adjei K, van de Velde CJ, et al. Long-term results of rectal cancer surgery with a systematical operative approach. Ann Surg Oncol. 2013;20:1806–15. 33. Peeters KC, van de Velde CJ, Leer JW, Martijn H, Junggeburt JM, Kranenbarg EK, et al. Late side effects of short-course preoperative radiotherapy combined with total mesorectal excision for rectal cancer: increased bowel dysfunction in irradiated patients–a Dutch colorectal cancer group study. J Clin Oncol. 2005;23:6199–206. 34. Kollmorgen CF, Meagher AP, Wolff BG, Pemberton JH, Martenson JA, Illstrup DM. The long-term effect of adjuvant postoperative chemoradiotherapy for rectal carcinoma on bowel function. Ann Surg. 1994;220:676–82. 35. National Institute for Health and Care Excellence. Faecal incontinence in adults: management (Clinical guidelinie CG49). London 2007. https​://www.nice.org.uk/guida​nce/cg49. Accessed 14 July 2018. 36. de la Portilla F, Rada R, Vega J, González CA, Cisneros N, Maldonado VH. Evaluation of the use of posterior tibial nerve stimulation for the treatment of fecal incontinence: preliminary results of a prospective study. Dis Colon Rectum. 2009;52:1427–33. 37. Moya P, Arroyo A, Soriano-Irigaray L, Frangi A, Candela Polo F, Calpena Rico R. Sacral nerve stimulation in patients with severe fecal incontinence after rectal resection. Tech Coloproctol. 2012;16:263–4.
+
+1 3
+
+Clinical and Translational Oncology (2019) 21:1302–1311
+
+1311
+
+38. Ramage L, Qiu S, Kontovounisios C, Tekkis P, Rasheed S, Tan E. A systematic review of sacral nerve stimulation for low anterior resection syndrome. Colorectal Dis. 2015;17:762–71.
+39. Turina M, Mulhall AM, Mahid SS, Yashar C, Galandiuk S. Frequency and surgical management of chronic complications related to pelvic radiation. Arch Surg. 2008;143:46–52 (discussion).
+40. Babb RR. Radiation proctitis: a review. Am J Gastroenterol. 1996;91:1309–11.
+41. Small W Jr, Kachnic L. Postradiotherapy pelvic fractures: cause for concern or opportunity for future research? JAMA. 2005;294:2635–7.
+42. Kendal WS, Nicholas G. A population-based analysis of second primary cancers after irradiation for rectal cancer. Am J Clin Oncol. 2007;30:333–9.
+43. Lange MM, Maas CP, Marijnen CA, Wiggers T, Rutten HJ, Kranenbarg EK, et al. Urinary dysfunction after rectal cancer treatment is mainly caused by surgery. Br J Surg. 2008;95:1020–8.
+44. Donovan KA, Thompson LM, Hoffe SE. Sexual function in colorectal cancer survivors. Cancer Control. 2010;17:44–51.
+45. Brown JC, Damjanov N, Courneya KS, Troxel AB, Zemel BS, Rickels MR, et al. A randomized dose-response trial of aerobic exercise and health-related quality of life in colon cancer survivors. Psychooncology. 2018;27:1221–8.
+46. Lee MK, Kim JY, Kim DI, Kang DW, Park JH, Ahn KY, et al. Effect of home-based exercise intervention on fasting insulin and adipocytokines in colorectal cancer survivors: a randomized controlled trial. Metabolism. 2017;76:23–31.
+47. Moug SJ, Bryce A, Mutrie N, Anderson AS. Lifestyle interventions are feasible in patients with colorectal cancer with potential short-term health benefits: a systematic review. Int J Colorectal Dis. 2017;32:765–75.
+48. van Blarigan EL, Meyerhardt JA. Role of physical activity and diet after colorectal cancer diagnosis. J Clin Oncol. 2015;33:1825–34.
+49. Brown JC, Meyerhardt JA. Obesity and energy balance in GI cancer. J Clin Oncol. 2016;34:4217–24.
+50. Wu W, Guo F, Ye J, Li Y, Shi D, Fang D, et al. Pre- and postdiagnosis physical activity is associated with survival benefits of colorectal cancer patients: a systematic review and meta-analysis. Oncotarget. 2016;7:52095–103.
+51. World Cancer Research Fund, American Institute for Cancer Research. Continuos Update Project. Diet, nutrition, physical activity and colorectal cancer. 2017. http://www.aicr.org/conti​ nuous​-updat​e-proje​ct/repor​ts/color​ectal​-cance​r-2017-repor​t.pdf. Accessed 14 July 2018.
+52. Earle CC, Neville BA. Under use of necessary care among cancer survivors. Cancer. 2004;101:1712–9.
+53. Snyder CF, Earle CC, Herbert RJ, Neville BA, Blackford AL, Frick KD. Preventive care for colorectal cancer survivors: a 5-year longitudinal study. J Clin Oncol. 2008;26:1073–9.
+
+54. Serra-Rexach JA, Jiménez AB, García-Alhambra MA, Pla R, Vidán M, Rodríguez P, et al. Differences in the therapeutic approach to colorectal cancer in young and elderly patients. Oncologist. 2012;17:1277–85.
+55. Wildiers H, Heeren P, Puts M, Topinkova E, Janssen-Heijnen ML, Extermann M, et al. International Society of Geriatric Oncology consensus on geriatric assessment in older patients with cancer. J Clin Oncol. 2014;32:2595–603.
+56. Zullig LL, Goldstein KM, Bosworth HB, Andrews SM, Danus S, Jackson GL, et al. Chronic disease management perspectives of colorectal cancer survivors using the Veterans Affairs healthcare system: a qualitative analysis. BMC Health Serv Res. 2018;18:171.
+57. Urquhart R, Lethbridge L, Porter GA. Patterns of cancer centre follow-up care for survivors of breast, colorectal, gynecologic, and prostate cancer. Curr Oncol. 2017;24:360–6.
+58. Correa-Casado M, Granero-Molina J, Hernández-Padilla JM. Fernández-Sola C [Transferring palliative-care patients from hospital to community care: A qualitative study]. Aten Primaria. 2017;49:326–34.
+59. Bruinvels DJ, Stiggelbout AM, Kievit J, van Houwelingen HC, Habbema JD, van de Velde CJ. Follow-up of patients with colorectal cancer. A meta-analysis. Ann Surg. 1994;219:174–82.
+60. Benson AB 3rd, Bekaii-Saab T, Chan E, Chen YJ, Choti MA, Cooper HS, et al. Featured updates to the NCCN Guidelines. J Natl Compr Canc Netw. 2013;11:519–28 (Localized colon cancer, version 3.2013).
+61. Ministerio de Sanidad y Política Social. Real Decreto 1093/2010, de 3 de septiembre, BOE Núm 225; Sec I. Pág. 78742. https​:// www.boe.es/boe/dias/2010/09/16/pdfs/BOE-A-2010-14199​.pdf. Accessed 20 Oct 2018.
+62. Urquhart R, Folkes A, Babineau J, Grunfeld E. Views of breast and colorectal cancer survivors on their routine follow-up care. Curr Oncol. 2012;19:294–301.
+63. Urquhart R, Folkes A, Porter G, Kendell C, Cox M, Dewar R, et al. Population-based longitudinal study of follow-up care for patients with colorectal cancer in Nova Scotia. J Oncol Pract. 2012;8:246–52.
+64. Duineveld LA, van Asselt KM, Bemelman WA, Smits AB, Tanis PJ, van Weert HC, et al. Symptomatic and asymptomatic colon cancer recurrence: a multicenter cohort study. Ann Fam Med. 2016;14:215–20.
+Publisher’s Note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+1 3

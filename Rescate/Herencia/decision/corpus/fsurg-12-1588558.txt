@@ -1,0 +1,374 @@
+TYPE Systematic Review PUBLISHED 19 June 2025 DOI 10.3389/fsurg.2025.1588558
+
+EDITED BY
+Tullio Golia D’Augè, Sapienza University of Rome, Italy
+REVIEWED BY
+Mario Palumbo, Federico II University Hospital, Italy Indira Karibayeva, Georgia Southern University, United States
+*CORRESPONDENCE Rui Shi
+ruishi134245@outlook.com
+RECEIVED 06 March 2025 ACCEPTED 12 May 2025 PUBLISHED 19 June 2025
+CITATION
+Hou W, Ma Y, Sun S, Gao Y, Ling J and Shi R (2025) Predictive factors for postoperative recurrence in early cervical cancer patients: a meta-analysis. Front. Surg. 12:1588558. doi: 10.3389/fsurg.2025.1588558
+COPYRIGHT
+© 2025 Hou, Ma, Sun, Gao, Ling and Shi. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+Predictive factors for
+postoperative recurrence in
+early cervical cancer patients:
+a meta-analysis
+Weili Hou1, Yaru Ma2, Suli Sun2, Yanlei Gao3, Jia Ling2 and Rui Shi4*
+1Maternity Services Center, Shijiazhuang Maternity & Child Healthcare Hospital, Shijiazhuang, China, 2Gynaecological Clinic, Shijiazhuang Maternity & Child Healthcare Hospital, Shijiazhuang, China, 3Department of Medical Imaging, Shijiazhuang Maternity & Child Healthcare Hospital, Shijiazhuang, China, 4Department of Gynecology, Shijiazhuang Maternity & Child Healthcare Hospital, Shijiazhuang, China
+Background: Early-stage cervical cancer generally has a favorable prognosis with treatment, yet recurrence remains a signiﬁcant risk for a subset of patients. Identifying reliable prognostic factors can help reﬁne risk stratiﬁcation, optimize follow-up strategies, and guide adjuvant therapy decisions. This meta-analysis evaluates the association between key prognostic factors—tumor diameter, HPV status, depth of invasion, LVSI status, and positive lymph nodes—and recurrence risk in early-stage cervical cancer. Materials and methods: A systematic search of PubMed, Embase, Cochrane Library, and Scopus was conducted to identify studies assessing the relationship between prognostic factors and recurrence in early-stage cervical cancer. Studies meeting predeﬁned inclusion criteria were selected, and data were extracted on patient demographics, tumor characteristics, and recurrence outcomes. The NOS was used to assess study quality. Pooled ORs with 95% CIs were calculated using both ﬁxed-effects and random-effects models, with heterogeneity and publication bias assessed through I² statistics and funnel plot analysis, respectively. Results: A total of 10 studies were included in the meta-analysis. Tumor diameter >4 cm (OR = 2.49; 95% CI: 1.69–3.69), depth of invasion >1/2 (OR = 2.82; 95% CI: 1.66–4.80), LVSI positivity (OR = 2.54; 95% CI: 1.36–4.73), and positive lymph nodes (OR = 2.86; 95% CI: 1.99–4.11) were all signiﬁcantly associated with an increased risk of recurrence. However, HPV-positive status showed no consistent association with recurrence risk (OR = 2.12; 95% CI: 0.31–14.52), likely due to high heterogeneity among the studies (I² = 86%). Sensitivity analyses conﬁrmed the robustness of the results, and publication bias was minimal. Conclusion: This meta-analysis identiﬁed tumor diameter >4 cm, depth of invasion >1/2, LVSI positivity, and positive lymph nodes as signiﬁcant prognostic factors for recurrence in early-stage cervical cancer. These ﬁndings underscore the importance of comprehensive assessment in clinical practice to better identify high-risk patients who may beneﬁt from intensiﬁed monitoring or adjuvant therapies. Further research, particularly on the role of HPV status, is needed to enhance the predictive accuracy of recurrence risk models.
+Systematic Review Registration: https://www.crd.york.ac.uk/PROSPERO/view/ CRD42024599867, PROSPERO CRD42024599867.
+KEYWORDS
+recurrence risk, prognostic factors, meta-analysis, tumor characteristics, early-stage cervical cancer
+
+Frontiers in Surgery
+
+01
+
+frontiersin.org
+
+Hou et al.
+
+10.3389/fsurg.2025.1588558
+
+1 Introduction
+Cervical cancer is one of the most common malignancies affecting women worldwide, particularly in low- and middleincome countries where access to screening and preventive measures is often limited (1, 2). According to recent global estimates, cervical cancer accounts for approximately 600,000 new cases and 340,000 deaths annually, highlighting the critical need for effective management strategies to improve patient outcomes (3). Early-stage cervical cancer, typically classiﬁed as FIGO stages IA and IB, has a relatively favorable prognosis when treated with surgery or radiotherapy (4–6). However, recurrence remains a signiﬁcant concern, affecting 10%–20% of patients even after initial treatment (7). Identifying reliable prognostic factors is therefore essential for improving patient stratiﬁcation and tailoring follow-up and treatment strategies.
+Multiple factors have been studied for their prognostic value in predicting recurrence in early-stage cervical cancer. Among these, tumor diameter, HPV status, depth of invasion, lymph vascular space invasion (LVSI) status, and lymph node involvement have emerged as potential predictors of recurrence risk (8–10). Tumor diameter >4 cm, for example, has been associated with poorer outcomes due to the potential for increased metastatic spread (10, 11), while HPV status—particularly high-risk HPV subtypes —is thought to inﬂuence tumor aggressiveness and response to treatment (8, 12, 13). Similarly, greater depth of invasion, LVSI positivity, and lymph node metastasis have been linked to higher recurrence rates, suggesting that these factors may be valuable for risk assessment in clinical practice (14–17).
+While individual studies have provided insights into these associations, the results are often inconsistent, and the effect sizes vary. Meta-analysis provides a powerful tool to combine data from multiple studies, increasing statistical power and enabling a more precise estimation of the associations between prognostic factors and recurrence risk. Therefore, this systematic review and meta-analysis aims to synthesize the available evidence on the prognostic value of tumor diameter, HPV status, depth of invasion, LVSI status, and positive lymph nodes in predicting recurrence in early-stage cervical cancer. By identifying and quantifying these relationships, this study seeks to provide a clearer understanding of key prognostic factors, contributing to improved risk stratiﬁcation and potentially informing individualized patient management strategies.
+2 Methods
+2.1 Study design and objective
+This study is a systematic review and meta-analysis, conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines, aimed to investigate the association between various prognostic factors and recurrence risk in early-stage cervical cancer patients. The analysis focuses on ﬁve key outcomes: tumor diameter (>4 cm),
+
+HPV positive, depth of invasion (>1/2), LVSI status, and positive lymph nodes. By synthesizing data from existing studies, this meta-analysis aims to quantify the impact of these factors on patient prognosis, providing valuable insights for clinical decision-making and risk stratiﬁcation. The study was registered in the International Prospective Register of Systematic Reviews (PROSPERO) with the registration number CRD 42024599867.
+2.2 Search strategy
+A comprehensive literature search was conducted to identify relevant studies examining the association between prognostic factors and recurrence risk in early-stage cervical cancer. The research included studies published up to December 2024, and was carried out across multiple databases: PubMed, Embase, Cochrane Library and Scopus. The search strategy combined terms related to cervical cancer (“cervical cancer,” “cervical carcinoma”), prognostic factors (“tumor diameter,” “HPV status,” “depth of invasion,” “LVSI status,” “positive lymph nodes”), and outcomes (“recurrence,” “relapse,” “prognosis”). Boolean operators (AND, OR) were employed to broaden or narrow the search as needed, and Medical Subject Headings (MeSH) terms were applied where applicable.
+2.3 Eligibility criteria
+Studies were included in this meta-analysis based on predeﬁned eligibility criteria to ensure the relevance and rigor of the analysis. The inclusion criteria were as follows: (1) Population: Studies involving patients diagnosed with early-stage cervical cancer, speciﬁcally those categorized as FIGO stage IA1, IA2, IB1, and IB2; (2) Intervention/Exposure: Studies that reported at least one of the following prognostic factors—tumor diameter (>4 cm), HPV status, depth of invasion (>1/2), LVSI status, or positive lymph nodes; (3) Outcomes: Studies that assessed recurrence with results reported as odds ratios (OR) with 95% conﬁdence intervals (CI); (4) Study Design: Cohort studies, case-control studies, or other observational studies that provided original data on the association between the speciﬁed prognostic factors and clinical outcomes of interest; and (5) Language and Publication Status: No language restrictions were applied, and only published studies and articles available in full text were included.
+Exclusion criteria were as follows: (1) Studies lacking sufﬁcient data to extract or calculate Ors or RRs; (2) Reviews, meta-analyses, conference abstracts, case reports, animal studies, and non-human studies; (3) Duplicate publications, with only the most comprehensive and recent report included.
+2.4 Data extraction
+Data extraction was conducted independently by two reviewers to ensure accuracy and consistency. For each eligible study, the
+
+Frontiers in Surgery
+
+02
+
+frontiersin.org
+
+Hou et al.
+
+10.3389/fsurg.2025.1588558
+
+following data were collected: (1) Basic Study Information: author names, year of publication, and country or region where the study was conducted; (2) Patient Characteristics: sample size, age of participants (mean or median), and relevant clinical characteristics; (3) Prognostic Factors: tumor diameter (>4 cm), HPV status, depth of invasion (>1/2), LVSI status, and positive lymph node status; (4) Outcomes: associations between prognostic factors and recurrence risk. Any discrepancies between the two reviewers in data extraction were resolved through discussion and, if necessary, consultation with a third reviewer. All extracted data were entered into a standardized spreadsheet to facilitate subsequent statistical analysis.
+
+2.7 Certainty of evidence assessment
+The certainty of evidence for each pooled outcome was assessed using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) approach. Factors considered included risk of bias, inconsistency, indirectness, imprecision, and publication bias. The overall certainty of evidence was categorized as high, moderate, low, or very low.
+3 Results
+3.1 Study selection and characteristics
+
+2.5 Quality assessment
+The quality of the studies included was assessed independently by two reviewers using the Newcastle-Ottawa Scale (NOS), which is a widely accepted tool for evaluating the quality of observational studies in meta-analyses. The NOS assesses study quality based on three main domains: selection of study groups, comparability of groups, and ascertainment of outcomes. Each study was assigned a score ranging from 0 to 9, with higher scores indicating higher methodological quality. Speciﬁcally, studies scoring 7 points or above were classiﬁed as high quality, those scoring 5–6 points as moderate quality, and those scoring below 5 points as low quality. Discrepancies in quality assessment scores between the reviewers were resolved through discussion, and if a consensus could not be reached, a third reviewer was consulted. The results of the quality assessment were recorded in a standardized table and were used to conduct sensitivity analyses to assess the robustness of the meta-analysis results.
+
+A total of 2,136 studies were initially identiﬁed through the comprehensive database search and manual screening of reference lists. After removing duplicates, 1,856 studies were assessed for eligibility based on titles and abstracts. Subsequently, 276 full-text articles were reviewed, resulting in 10 studies being included in the ﬁnal meta-analysis (Figure 1). The included studies consisted of 9 single-center studies and 1 multiinstitutional study. Details on sample sizes, age distributions, tumor sizes, FIGO staging, and follow-up times are summarized in Table 1.
+3.2 Quality assessment
+Quality assessment of the included studies was performed using the NOS. Scores ranged from 5 to 8, with most studies scoring 7 or above, indicating generally good methodological quality (Table 2).
+
+2.6 Statistical analysis
+Statistical analyses were performed using the meta package in R4.3.2 software (R Foundation for Statistical Computing, Vienna, Austria). For each prognostic factor (tumor diameter >4 cm, HPV status, depth of invasion >1/2, LVSI status, and positive lymph nodes), ORs with 95% CIs were calculated to quantify the association between the factor and recurrence risk in early-stage cervical cancer. Heterogeneity was assessed using Cochran’s Q test and the I² statistic, with an I² value greater than 50% indicating substantial heterogeneity. When heterogeneity was low (I² ≤ 50%), a ﬁxed-effects model was applied; when heterogeneity was substantial (I² > 50%), a random-effects model was used (18). Sensitivity analyses were conducted using a leave-one-out approach, in which each included study was sequentially removed to assess the robustness of the pooled results. Due to the limited number of studies (<10) included in each metaanalysis, assessment of publication bias was not formally conducted, as recommended by the Cochrane Handbook for Systematic Reviews of Interventions (19). All statistical tests were two-sided, with a p-value <0.05 considered statistically signiﬁcant.
+
+3.3 Meta-analysis results
+3.3.1 Tumor diameter (>4 cm)
+The meta-analysis of tumor diameter (>4 cm) included six studies, as shown in the forest plot. Based on the GRADE approach, the certainty of evidence for the association between tumor diameter >4 cm and recurrence risk were rated as moderate. Under the ﬁxed-effects model, the pooled OR for tumor diameter greater than 4 cm was 2.16 (95% CI: 1.72–2.71, p < 0.01), indicating a statistically signiﬁcant association between larger tumor size and increased recurrence risk in early-stage cervical cancer. Heterogeneity among the studies was moderate, with an I² value of 47% (p = 0.09) (Figure 2), suggesting some variability in effect sizes across studies, though it was not statistically signiﬁcant.
+3.3.2 HPV positive
+The meta-analysis of HPV-positive status included two studies, as shown in the forest plot. According to the GRADE assessment, the certainty of evidence for the association between HPV-positive status and recurrence risk was rated as low, mainly due to the small number of studies and substantial heterogeneity. In the ﬁxed-
+
+Frontiers in Surgery
+
+03
+
+frontiersin.org
+
+Hou et al.
+
+10.3389/fsurg.2025.1588558
+
+FIGURE 1
+PRISMA 2020 ﬂow diagram illustrating the study selection process for the meta-analysis.
+
+effects model, the pooled OR was 2.01 (95% CI: 0.97–4.15, p = 0.06), suggesting a trend towards an association between HPV positivity and increased recurrence risk, though it did not reach statistical signiﬁcance. Under the random-effects model, the pooled OR was 2.12 (95% CI: 0.31–14.52, p = 0.44), indicating no statistically signiﬁcant association between HPVpositive status and recurrence in early-stage cervical cancer. The heterogeneity across studies was high, with an I² value of 86% (p < 0.01) (Figure 3), indicating substantial variability in effect sizes between studies. Several factors may account for the observed inconsistency. First, the limited number of included studies reduced the statistical power. Second, variations in HPV detection methods (e.g., PCR assays, genotyping panels) and deﬁnitions of positivity (single high-risk vs. multiple HPV types)
+
+likely contributed to heterogeneity. Third, differences in patient populations, including HPV prevalence and immune response proﬁles, may have independently affected recurrence risk. Additionally, inconsistencies in reporting adjuvant treatments among HPV-positive patients further complicated the results.
+3.3.3 Depth of invasion (>1/2)
+The meta-analysis of depth of invasion greater than half of the cervical wall included three studies, as shown in the forest plot. The certainty of evidence for the association between depth of invasion >1/2 and recurrence risk was rated as moderate according to the GRADE criteria. In the ﬁxed-effects model, the pooled OR was 2.55 (95% CI: 1.79–3.64, p < 0.01), indicating a statistically signiﬁcant association between deeper invasion (>1/2) and
+
+Frontiers in Surgery
+
+04
+
+frontiersin.org
+
+Hou et al.
+
+10.3389/fsurg.2025.1588558
+
+TABLE 1 General information of the included literature.
+
+Author/ year
+
+Country/ region
+
+Gerdin, E. 1994 (10)
+Maneo, A. 1999 (16)
+Serati, M. 2012 (17)
+Singh, P. 2012 (32)
+Wang, J. 2015 (33)
+Huang, B. 2016 (11)
+Kwon, J. 2018 (14)
+Casarin, J. 2020 (9)
+
+Sweden Italy Italy Australia. China China Korean Italy/ Switzerland
+
+Bae, B. K. 2022 (8)
+Ma, G. F. 2024 (15)
+
+Korea China
+
+Reach type
+Single-center study Single-center study Single-center study Single-center study Single-center study Single-center study Single-center study Multiinstitutional study Single-center study Single-center study
+
+Cases
+167 34 282 196 284 643 259 428
+252 310
+
+Age (years)
+>25 51 (21–72) 33 (18–73)
+>18 >18 >18 47 (25–74) 45 (39.0– 55.1) 45 (39–52) >18
+
+Tumor size (mm), median
+(IQR)
+17 (10–25)
+> 4 cm,19 (56%), ≤4 cm, 15 (44%) /
+/
+> 4 cm, 134 (47.2%), ≤4 cm, 150 (52.8%)
+/
+/
+17 (10–25)
+17 (10–25)
+>4 cm: 123 (39.7%), ≤4 cm: 187 (60.3%)
+
+FIGO stage (2009), n (%)
+
+IA1 IA2 IB1 IB2
+
+/
+
+159 8 (4.79)
+
+/
+
+(95.21)
+
+/
+
+29 (85) 4 (12) 1 (3)
+
+/
+
+72 (25.5) 89 (31.6) 94 (33.3)
+
+5 (2.55%) 10 (3.5)
+60 (9.33)
+/
+39 (9.2)
+
+8 (4.08)
+88 (30.1)
+77 (11.98) 57 (22.0)
+31 (7.2)
+
+126 (64.29) 47 (16.6)
+487 (75.74)
+202 (78.0) 358 (83.6)
+
+52 (26.53)
+140 (49.3) 19 (2.95)
+/
+/
+
+72 (27.4)
+26 (8.4%)
+
+58 (22.1) 51 (19.4)
+
+109 (31.9%)
+
+91 (33.1%)
+
+71 (27.0%)
+109 (31.9%)
+
+Follow-up
+5 years
+81 months (33–192 months)
+26.7 months (6– 100months)
+43.5 months (5–200 months) 48 months
+37 months (11–97 months)
+70 months (2.5468.5 months) 56 months (1–
+162months)
+70.4 months (6.2– 252.5 months) 46 months (5.7– 119.4 months
+
+IQR, interquartile range; FIGO, International Federation of Gynecology and Obstetrics; LVSI, lymphovascular space invasion; HPV, human papillomavirus.
+
+TABLE 2 Literature quality assessment (NOS).
+
+Author/year
+Gerdin, E. 1994 (10) Maneo, A. 1999 (16) Serati, M. 2012 (17) Singh, P. 2012 (32) Wang, J. 2015 (33) Huang, B. 2016 (11) Kwon, J. 2018 (14) Casarin, J. 2020 (9) Bae, B. K. 2022 (8) Ma, G. F. 2024 (15)
+
+Country/ region
+Sweden Italy Italy Australia. China China Korean Italy/Switzerland Korea China
+
+Selectivity (4 points)
+⋆⋆⋆⋆ ⋆⋆⋆⋆ ⋆⋆⋆⋆ ⋆⋆⋆ ⋆⋆⋆⋆ ⋆⋆⋆⋆ ⋆⋆⋆⋆ ⋆⋆⋆⋆ ⋆⋆⋆ ⋆⋆⋆⋆
+
+Comparability (2 points)
+⋆⋆ ⋆ ⋆⋆ ⋆⋆ ⋆ ⋆ ⋆ ⋆⋆ ⋆⋆ ⋆⋆
+
+outcome (3 points)
+⋆ ⋆ ⋆ ⋆ ⋆⋆ ⋆⋆ ⋆⋆ ⋆⋆ ⋆⋆⋆ ⋆⋆
+
+Total score (9 points)
+7 6 7 5 7 7 6 8 8 8
+
+FIGURE 2
+Forest plot of the association between tumor diameter (>4 cm) and recurrence risk in early-stage cervical cancer.
+
+Frontiers in Surgery
+
+05
+
+frontiersin.org
+
+Hou et al.
+
+10.3389/fsurg.2025.1588558
+
+FIGURE 3
+Forest plot of the meta-analysis evaluating the association between HPV-positive status and recurrence risk in early-stage cervical cancer.
+
+FIGURE 4
+Forest plot of the meta-analysis evaluating the association between depth of invasion >1/2 and recurrence risk in early-stage cervical cancer.
+
+increased recurrence risk in early-stage cervical cancer. (Figure 4), suggesting limited variability in effect sizes across studies. Overall, these ﬁndings suggest that the depth of invasion >1/2 may be a signiﬁcant prognostic factor for recurrence in early-stage cervical cancer.
+3.3.4 LVSI positive
+The meta-analysis evaluated the association between LVSI positive status and recurrence risk in early-stage cervical cancer included six studies, as shown in the forest plot. Based on the GRADE evaluation, the certainty of evidence for the association between LVSI positivity and recurrence risk was considered low, due to high heterogeneity among the included studies. The random-effects model yielded a similar pooled OR of 2.54 (95% CI: 1.36–4.73, p < 0.01), further supporting this association. However, substantial heterogeneity was observed across the studies, with an I² value of 81% ( p < 0.01) (Figure 5), indicating signiﬁcant variability in effect sizes. The high heterogeneity suggests that differences in study populations, methods, or deﬁnitions of LVSI positivity may inﬂuence the results.
+
+3.3.5 Positive lymph nodes
+The meta-analysis evaluating the association between positive lymph node status and recurrence risk in early-stage cervical cancer included six studies, as shown in the forest plot. According to the GRADE assessment, the certainty of evidence for the association between positive lymph node status and recurrence risk was rated as moderate. The random-effects model yielded a similar pooled OR of 2.86 (95% CI: 1.99–4.11, p < 0.01), further supporting this positive association. Heterogeneity among the studies was moderate, with an I² value of 30% ( p = 0.21) (Figure 6), suggesting some variability in effect sizes across studies, though not statistically signiﬁcant.
+3.4 Sensitivity analysis
+Sensitivity analyses were conducted using a leave-one-out approach for each pooled outcome. The pooled estimates remained stable throughout the analyses, and no single study signiﬁcantly inﬂuenced the overall results, conﬁrming the robustness of the meta-analysis ﬁndings.
+
+Frontiers in Surgery
+
+06
+
+frontiersin.org
+
+Hou et al.
+
+10.3389/fsurg.2025.1588558
+
+FIGURE 5
+Forest plot of the meta-analysis evaluating the association between LVSI-positive status and recurrence risk in early-stage cervical cancer.
+
+FIGURE 6
+Forest plot of the meta-analysis evaluating the association between positive lymph node status and recurrence risk in early-stage cervical cancer.
+
+4 Discussion
+This meta-analysis aimed to evaluate the prognostic signiﬁcance of tumor diameter, HPV status, depth of invasion, LVSI status, and positive lymph nodes in predicting recurrence risk in early-stage cervical cancer. Our ﬁndings demonstrate that tumor diameter >4 cm, depth of invasion >1/2, LVSI positivity, and positive lymph nodes are signiﬁcantly associated with an increased risk of recurrence. According to the GRADE assessment, the certainty of evidence for these associations was generally moderate, except for HPV status and LVSI positivity, which were rated as low certainty. Our analysis showed that a tumor diameter greater than 4 cm was associated with a signiﬁcantly higher risk of recurrence, corroborating previous studies that have linked larger tumor size with poorer prognosis (8, 17).
+Larger tumors may have higher potential for micro metastasis and residual disease, thereby increasing the likelihood of recurrence (20, 21). This ﬁnding supports the inclusion of tumor size as a key factor in risk stratiﬁcation models for early-stage cervical cancer, suggesting that patients with larger tumors may beneﬁt from
+
+more intensive follow-up and possibly adjunctive therapy. This observation is consistent with prior studies demonstrating that increased tumor volume correlates with lymph vascular invasion, deeper stromal inﬁltration, and higher rates of lymph node metastasis (8–10). Moreover, tumors larger than 4 cm were independently associated with decreased disease-free survival and overall survival (22). Mechanistically, larger tumors may harbor more hypoxic regions, which can drive angiogenesis, epithelialmesenchymal transition (EMT), and subsequent metastatic potential (23–25). Therefore, tumor diameter not only serves as a surrogate for tumor burden but also reﬂects underlying aggressive tumor biology. Recognizing tumor size >4 cm as a prognostic marker is crucial in guiding decisions regarding adjuvant radiotherapy or chemotherapy, particularly for patients with otherwise early-stage disease but unfavorable pathological features.
+The relationship between HPV status and recurrence risk remains controversial. Although high-risk HPV types are known to be associated with cervical cancer development, our results did not ﬁnd a consistent association between HPV positivity and
+
+Frontiers in Surgery
+
+07
+
+frontiersin.org
+
+Hou et al.
+
+10.3389/fsurg.2025.1588558
+
+recurrence risk (7, 26–28). This discrepancy may be due to the limited number of studies included in the analysis, the different methods used for HPV detection, and the possible inﬂuence of HPV-related immune responses on treatment outcomes. Further studies are warranted to clarify the role of HPV status in predicting recurrence, particularly in speciﬁc HPV subtypes, which may have varying impacts on prognosis. Depth of invasion and LVSI positivity were both strongly associated with an increased risk of recurrence in our analysis. Depth of invasion indicates the extent of tumor inﬁltration into the cervical stroma, which may reﬂect the tumor’s aggressive nature and potential for spread (8). LVSI, on the other hand, represents the invasion of cancer cells into lymphatic or vascular spaces, serving as a marker for metastatic potential. These ﬁndings align with previous research suggesting that both factors are important predictors of recurrence and underscore the need to include them in risk stratiﬁcation tools for early-stage cervical cancer (8, 9, 11, 15, 16). Clinicians may consider these factors when planning postoperative surveillance and assessing the need for adjuvant therapy. Positive lymph nodes were identiﬁed as one of the strongest predictors of recurrence, consistent with the role of lymphatic dissemination in cervical cancer progression (8, 9, 16). Patients with positive lymph nodes may have occult metastases that contribute to recurrence, even in cases treated at an early stage (29–31). This ﬁnding highlights the importance of thorough lymph node assessment during staging and suggests that patients with lymph node involvement may beneﬁt from additional therapeutic interventions to reduce recurrence risk.
+This meta-analysis has several limitations. First, although most included studies were of moderate to high quality based on the NOS, inherent biases from observational study designs could not be eliminated. Second, due to the limited number of studies per outcome (<10), assessment of publication bias was not reliable and therefore not formally conducted, as per Cochrane recommendations. Third, heterogeneity was substantial for some outcomes, particularly for HPV status and LVSI positivity, which may limit the generalizability of the ﬁndings. Lastly, the certainty of evidence for some outcomes, such as HPV positivity and LVSI, was low, emphasizing the need for cautious interpretation.
+Future research should focus on large, multicenter, prospective studies with standardized methodologies to validate these ﬁndings. Particularly, further investigations into HPV subtypes and molecular biomarkers may enhance the predictive models for recurrence risk in early-stage cervical cancer.
+5 Conclusion
+This meta-analysis identiﬁed tumor diameter >4 cm, depth of invasion >1/2, LVSI positivity, and positive lymph node status as signiﬁcant prognostic factors associated with an increased risk of recurrence in early-stage cervical cancer. The ﬁndings reinforce the importance of comprehensive pathological evaluation for risk stratiﬁcation and postoperative management. By providing updated quantitative evidence, this study supports more individualized follow-up protocols and the consideration of
+
+adjuvant therapies for high-risk patients. Additionally, the inconclusive association between HPV status and recurrence highlights an important gap in the current knowledge, suggesting the need for further prospective studies focusing on HPV genotyping and molecular biomarkers. Overall, our results contribute to reﬁning risk assessment strategies and guiding future research directions to improve outcomes for patients with early-stage cervical cancer.
+Data availability statement
+The original contributions presented in the study are included in the article/Supplementary Material, further inquiries can be directed to the corresponding author.
+Author contributions
+WH: Conceptualization, Writing – original draft. YM: Conceptualization, Investigation, Methodology, Writing – review & editing. SS: Formal analysis, Methodology, Project administration, Supervision, Writing – review & editing. YG: Conceptualization, Investigation, Project administration, Software, Supervision, Writing – review & editing. JL: Conceptualization, Data curation, Investigation, Methodology, Software, Writing – review & editing. RS: Writing – original draft.
+Funding
+The author(s) declare that no ﬁnancial support was received for the research and/or publication of this article.
+Conﬂict of interest
+The authors declare that the research was conducted in the absence of any commercial or ﬁnancial relationships that could be construed as a potential conﬂict of interest.
+Generative AI statement
+The author(s) declare that no Generative AI was used in the creation of this manuscript.
+Publisher’s note
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their afﬁliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+Frontiers in Surgery
+
+08
+
+frontiersin.org
+
+Hou et al.
+
+10.3389/fsurg.2025.1588558
+
+References
+1. Lakew G, Yirsaw AN, Berhie AY, Belayneh AG, Bogale SK, Andarge GA, et al. Cervical cancer screening practice and associated factors among female health care professionals in Ethiopia 2024: a systematic review and meta-analysis. BMC Cancer. (2024) 24(1):986. doi: 10.1186/s12885-024-12743-3
+2. Adams RA, Botha MH. Cervical cancer prevention in Southern Africa: a review of national cervical cancer screening guidelines in the Southern African development community. J Cancer Policy. (2024) 40:100477. doi: 10.1016/j.jcpo. 2024.100477
+3. Rayner M, Welp A, Stoler MH, Cantrell LA. Cervical cancer screening recommendations: now and for the future. Healthcare (Basel). (2023) 11(16):2273. doi: 10.3390/healthcare11162273
+4. Medenwald D, Langer S, Gottschick C, Vordermark D. Effect of radiotherapy in addition to surgery in early stage endometrial cancer: a population-based study. Cancers (Basel). (2020) 12(12):3814. doi: 10.3390/cancers12123814
+5. Safdar NS, Stasenko M, Selenica P, Martin AS, da Silva EM, Sebastiao APM, et al. Genomic determinants of early recurrences in low-stage, low-grade endometrioid endometrial carcinoma. J Natl Cancer Inst. (2022) 114(11):1545–8. doi: 10.1093/ jnci/djac119
+6. de Gregorio A, Widschwendter P, Ebner F, Friedl TWP, Huober J, Janni W, et al. Inﬂuence of the new FIGO classiﬁcation for cervical cancer on patient survival: a retrospective analysis of 265 histologically conﬁrmed cases with FIGO stages IA to IIB. Oncology. (2020) 98(2):91–7. doi: 10.1159/000503149
+7. Ozenne A, de Berti M, Body G, Carcopino X, Graesslin O, Kerbage Y, et al. Risk factors for recurrence of borderline ovarian tumours after conservative surgery and impact on fertility: a multicentre study by the francogyn group. J Clin Med. (2022) 11(13):3645. doi: 10.3390/jcm11133645
+8. Bae BK, Cho WK, Kim BG, Choi CH, Kim TJ, Lee YY, et al. Patterns and risk factors of recurrence in low-risk early-stage cervical adenocarcinoma treated with surgery alone: implications on risk group stratiﬁcation. Int J Gynecol Cancer. (2022) 32(12):1524–30. doi: 10.1136/ijgc-2022-003971
+9. Casarin J, Buda A, Bogani G, Fanfani F, Papadia A, Ceccaroni M, et al. Predictors of recurrence following laparoscopic radical hysterectomy for early-stage cervical cancer: a multi-institutional study. Gynecol Oncol. (2020) 159(1):164–70. doi: 10. 1016/j.ygyno.2020.06.508
+10. Gerdin E, Cnattingius S, Johnson P, Pettersson B. Prognostic factors and relapse patterns in early-stage cervical carcinoma after brachytherapy and radical hysterectomy. Gynecol Oncol. (1994) 53(3):314–9. doi: 10.1006/gyno.1994.1140
+11. Huang B, Cai J, Xu X, Guo S, Wang Z. High-grade tumor budding stratiﬁes early-stage cervical cancer with recurrence risk. PLoS One. (2016) 11(11):e0166311. doi: 10.1371/journal.pone.0166311
+12. Palumbo M, Della Corte L, Ronsini C, Guerra S, Giampaolino P, Bifulco G. Surgical treatment for early cervical cancer in the HPV era: state of the art. Healthcare (Basel). (2023) 11(22):2942. doi: 10.3390/healthcare11222942
+13. Palumbo M, Lavitola G, di Filippo C, Foreste V, Granata M, Imperatore O, et al. Impact of human papillomavirus 9-valent vaccine on viral clearance after surgical treatment: a single-center retrospective observational study. Eur J Obstet Gynecol Reprod Biol. (2025) 310:113994. doi: 10.1016/j.ejogrb.2025.113994
+14. Kwon J, Eom KY, Kim YS, Park W, Chun M, Lee J, et al. The prognostic impact of the number of metastatic lymph nodes and a new prognostic scoring system for recurrence in early-stage cervical cancer with high risk factors: a multicenter cohort study (KROG 15-04). Cancer Res Treat. (2018) 50(3):964–74. doi: 10.4143/crt.2017. 346
+15. Ma GF, Lin GL, Wang ST, Huang YY, Xiao CL, Sun J, et al. Prediction of recurrence-related factors for patients with early-stage cervical cancer following radical hysterectomy and adjuvant radiotherapy. BMC Womens Health. (2024) 24(1):81. doi: 10.1186/s12905-023-02853-8
+16. Maneo A, Landoni F, Cormio G, Colombo A, Mangioni C. Radical hysterectomy for recurrent or persistent cervical cancer following radiation therapy. Int J Gynecol Cancer. (1999) 9(4):295–301. doi: 10.1046/j.1525-1438.1999.99037.x
+
+17. Serati M, Siesto G, Carollo S, Formenti G, Riva C, Cromi A, et al. Risk factors for cervical intraepithelial neoplasia recurrence after conization: a 10-year study. Eur J Obstet Gynecol Reprod Biol. (2012) 165(1):86–90. doi: 10.1016/j.ejogrb.2012.06.026
+18. Cheung MW, Vijayakumar R. A guide to conducting a meta-analysis. Neuropsychol Rev. (2016) 26(2):121–8. doi: 10.1007/s11065-016-9319-z
+19. Cumpston MS, Mckenzie JE, Welch VA, Brennan SE. Strengthening systematic reviews in public health: guidance in the cochrane handbook for systematic reviews of interventions, 2nd edition. J Public Health (Oxf). (2022) 44(4):e588–e92. doi: 10.1093/ pubmed/fdac036
+20. Chiu YN, Kung CY, Huang KH, Lin SC, Fang WL, Chen MH, et al. A comparison of the clinicopathological features and genetic alterations in stage II/III gastric cancer with no recurrence, early recurrence and late recurrence after curative surgery. J Chin Med Assoc. (2024). doi: 10.1097/JCMA.0000000000001195
+21. Wan JCM, Mughal TI, Razavi P, Dawson SJ, Moss EL, Govindan R, et al. Liquid biopsies for residual disease and recurrence. Med. (2021) 2(12):1292–313. doi: 10. 1016/j.medj.2021.11.001
+22. Karam E, Nassar A, Elkurdi S, Péré G, Freville T, Wasielewski E, et al. Enucleation for sporadic nonfunctioning pancreatic neuroendocrine tumors larger than 2 centimeters is associated with equivalent morbidity and survival compared to smaller tumors: a multi-institutional study. Neuroendocrinology. (2024) 114(11):1034–44. doi: 10.1159/000541078
+23. Sannino G, Marchetto A, Kirchner T, Grünewald TGP. Epithelial-tomesenchymal and mesenchymal-to-epithelial transition in mesenchymal tumors: a paradox in sarcomas? Cancer Res. (2017) 77(17):4556–61. doi: 10.1158/0008-5472. CAN-17-0032
+24. Yan T, Shi J. Angiogenesis and EMT regulators in the tumor microenvironment in lung cancer and immunotherapy. Front Immunol. (2024) 15:1509195. doi: 10.3389/ ﬁmmu.2024.1509195
+25. Wang J, Chen D, Song W, Liu Z, Ma W, Li X, et al. ATP6l promotes metastasis of colorectal cancer by inducing epithelial-mesenchymal transition. Cancer Sci. (2020) 111(2):477–88. doi: 10.1111/cas.14283
+26. Kim SM, Kwon IJ, Myoung H, Lee JH, Lee SK. Identiﬁcation of human papillomavirus (HPV) subtype in oral cancer patients through microarray technology. Eur Arch Otorhinolaryngol. (2018) 275(2):535–43. doi: 10.1007/s00405017-4828-9
+27. Wolf J, Kist LF, Pereira SB, Quessada MA, Petek H, Pille A, et al. Human papillomavirus infection: epidemiology, biology, host interactions, cancer development, prevention, and therapeutics. Rev Med Virol. (2024) 34(3):e2537. doi: 10.1002/rmv.2537
+28. Chagas BS, Gurgel A, Paiva Júnior SSL, Lima RCP, Cordeiro MN, Moura RR, et al. Synergic effect of oral contraceptives, GSTP1 polymorphisms, and high-risk HPV infection in development of cervical lesions. Genet Mol Res. (2017) 16(3):1–9. doi: 10. 4238/gmr16039742
+29. Lind GE, Guriby M, Ahlquist T, Hussain I, Jeanmougin M, Søreide K, et al. Prognostic relevance of an epigenetic biomarker panel in sentinel lymph nodes from colon cancer patients. Clin Epigenetics. (2017) 9:97. doi: 10.1186/s13148-017-0397-4
+30. Horakova Z, Starek I, Zapletalova J, Salzman R. Parotid gland metastases of cutaneous squamous cell carcinoma of the head: occult metastases occurrence and their late manifestation. Int J Clin Pract. (2024) 2024:5525741. doi: 10.1155/2024/5525741
+31. Gordetsky J, Gibson B, Stevens TM, Ellenburg JL, Grizzle W, Rais-Bahrami S. Occult metastases in pelvic lymphadenectomy specimens from patients with urothelial carcinoma of the bladder. Urology. (2016) 94:161–6. doi: 10.1016/j.urology.2016.03.058
+32. Singh P, Tripcony L, Nicklin J. Analysis of prognostic variables, development of predictive models, and stratiﬁcation of risk groups in surgically treated FIGO earlystage (IA-IIA) carcinoma cervix. Int J Gynecol Cancer. (2012) 22(1):115–22. doi: 10. 1097/IGC.0b013e31822fa8bb
+33. Wang J, Wang T, Yang YY, Chai YL, Shi F, Liu ZI. Patient age, tumor appearance and tumor size are risk factors for early recurrence of cervical cancer. Mol Clin Oncol. (2015) 3(2):363–6. doi: 10.3892/mco.2014.465
+
+Frontiers in Surgery
+
+09
+
+frontiersin.org

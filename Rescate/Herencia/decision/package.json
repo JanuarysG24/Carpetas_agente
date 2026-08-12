@@ -1,0 +1,39 @@
+{
+  "name": "@techsphere/decision",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Capa de DECISION — la unica autoridad de decision del sistema. Tech Sphere Challenge 2, WO-36..WO-47.",
+  "license": "MIT",
+  "exports": {
+    ".": {
+      "types": "./dist/src/index.d.ts",
+      "default": "./dist/src/index.js"
+    }
+  },
+  "main": "./dist/src/index.js",
+  "types": "./dist/src/index.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "build": "tsc -p tsconfig.build.json",
+    "test": "node --test \"test/**/*.test.ts\"",
+    "verify": "npm run typecheck && npm test",
+    "consola": "node scripts/consola.mjs",
+    "demo:g5": "node scripts/consola.mjs demo",
+    "muestra": "node scripts/muestra-estratificada.mjs"
+  },
+  "comment:dependencies": "Compuerta G3 — esta es la unica capa que invoca modelos de lenguaje, y por eso NO tiene ningun SDK de proveedor: se habla HTTP plano con el fetch nativo de Node para que la auditoria de dependencias sea trivial. Un `npm ls` aqui no debe encontrar ni groq-sdk, ni openai, ni @google/generative-ai, ni ollama. Las dos dependencias son paquetes del propio repositorio. El nombre del modelo vive en UNA constante por ruta (src/modelo/rutas.ts) y se valida contra la lista de esa ruta al arrancar.",
+  "dependencies": {
+    "@techsphere/contracts": "file:../contracts",
+    "@techsphere/deterministic": "file:../deterministic",
+    "@techsphere/conversational": "file:../conversational"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "typescript": "^5.9.3"
+  }
+}

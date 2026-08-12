@@ -1,0 +1,14 @@
+{
+  "name": "interfaz-conversacional",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Backend de prueba MINIMO para conversar con la capa conversacional sola. No invoca decision, RAG ni escalamiento: solo usa buildFrameGenerico de @techsphere/decision para tener un catalogo de unidades real contra el cual conversar.",
+  "scripts": {
+    "start": "node servidor.mjs"
+  },
+  "dependencies": {
+    "@techsphere/conversational": "file:../conversational",
+    "@techsphere/decision": "file:../decision"
+  }
+}

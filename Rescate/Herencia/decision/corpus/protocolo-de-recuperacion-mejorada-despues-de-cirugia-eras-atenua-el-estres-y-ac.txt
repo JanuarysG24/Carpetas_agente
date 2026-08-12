@@ -1,0 +1,702 @@
+ARTÍCULO ORIGINAL
+
+Rev Colomb Cir. 2024;39:218-30 https://doi.org/10.30944/20117582.2483
+
+Protocolo de recuperación mejorada después de cirugía (ERAS) atenúa el estrés y acelera la recuperación en pacientes después de resección radical por cáncer colorrectal: Experiencia en la Clínica Universitaria Colombia
+Enhanced Recovery After Surgery (ERAS) protocol attenuates stress and accelerates recovery in patients after radical resection for colorectal cancer:
+Experience at Clínica Universitaria Colombia
+Carolina Riscanevo-Bobadilla, MD1 , Ronel Eduardo Barbosa, MD2 , Iván Mauricio Guerrero, MD3 , Diego Valbuena, MD3 , María Paula Naranjo, MD3 , Mayra Hernández, MD1 , Leticia Cuello, RN4 , Mauricio Chona, MD5 , Alejandro Velandia, MD3 ,
+Wilmar Martin, MD3 , María del Pilar Montilla MD6
+1 Programa de Especialización en Cirugía general, Fundación Universitaria Sanitas, Bogotá, D.C., Colombia. 2 Servicio de Coloproctología, Departamento de Cirugía general, Clínica Universitaria Colombia, Bogotá, D.C., Colombia. 3 Departamento de Cirugía General, Clínica Universitaria Colombia, Bogotá, D.C., Colombia. 4 Departamento de Enfermería, programa ERAS, Clínica Universitaria Colombia, Bogotá, D.C., Colombia. 5 Departamento de Soporte Nutricional, Clínica Universitaria Colombia, Bogotá, D.C., Colombia. 6 Unidad de Investigación, Fundación Universitaria Sanitas, Bogotá, D.C., Colombia.
+Trabajo ganador del Segundo puesto en el Concurso Nacional de Investigación en Cirugía “José Félix Patiño Restrepo”, categoría Médicos Residentes, Asociación Colombiana de Cirugía, 49o Congreso Semana Quirúrgica nacional, noviembre de 2023.
+Resumen
+Introducción. El conjunto de estrategias de recuperación mejorada después de la cirugía (ERAS, por sus siglas en inglés) constituye un enfoque de atención multimodal y multidisciplinario, cuyo propósito es reducir el estrés perioperatorio de la cirugía, disminuir la morbilidad y acortar la estancia hospitalaria. Este estudio tuvo como objetivo describir los resultados clínicos de pacientes sometidos a cirugía por cáncer colorrectal, identificando las complicaciones principales y los factores perioperatorios relacionados con el alta temprana.
+Métodos. Se analizaron los pacientes consecutivos sometidos a cirugía colorrectal entre los años 2020 y 2023, todos los cuales siguieron el protocolo ERAS institucional. Se evaluaron las características clínicas, los factores perioperatorios, los desenlaces postoperatorios y la tasa global de adherencia al protocolo.
+Fecha de recibido: 31/08/2023 - Fecha de aceptación: 3/11/2023 - Publicación en línea: 11/01/2024 Correspondencia: Angie Carolina Riscanevo, Calle 23 # 66-46, Departamento de Cirugía General, Fundación Universitaria Sanitas, Clínica Universitaria Colombia, Bogotá, D.C., Colombia. Teléfono: 319 3186513. Dirección electrónica: caroriscanevo@unisanitas.edu.co Citar como: Riscanevo-Bobadilla C, Barbosa RE, Guerrero IM, Valbuena D, Naranjo MP, Hernández M, Cuello L, Chona M, Velandia A, Martin W, Montilla MP. Protocolo de recuperación mejorada después de cirugía (ERAS) atenúa el estrés y acelera la recuperación en pacientes después de resección radical por cáncer colorrectal: Experiencia en la Clínica Universitaria Colombia. Rev Colomb Cir. 2024;39:218-30. https://doi.org/10.30944/20117582.2483 Este es un artículo de acceso abierto bajo una Licencia Creative Commons - BY-NC-ND https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+
+218
+
+Rev Colomb Cir. 2024;39:218-30
+
+Recuperación mejorada después de cirugía (ERAS) colorrectal
+
+Resultados. Un total de 456 pacientes fueron sometidos a cirugía colorrectal, 51% de sexo masculino, con edad media de 60 años. La mayoría de las intervenciones se realizaron por laparoscopia (78 %), con una tasa de conversión del 14,5 %. Las complicaciones postoperatorias incluyeron fuga anastomótica (4,6 %), sangrado, infección intraabdominal y obstrucción intestinal. La estancia hospitalaria promedio fue de 4 días y la mortalidad del 2,8 %. La tasa global de adherencia al protocolo ERAS fue del 84,7 %.
+Conclusiones. El enfoque combinado de cirugía laparoscópica y protocolo ERAS es factible, seguro y se asocia con una estancia hospitalaria más corta. La implementación y adherencia al protocolo ERAS no solo mejora los resultados postoperatorios, sino que también resalta la importancia de acceder a datos sólidos, permitiendo mejorar la atención perioperatoria local.
+Palabras clave: neoplasias colorrectales; cirugía colorrectal; laparoscopia; procedimientos quirúrgicos mínimamente invasivos; recuperación mejorada después de la cirugía; tiempo de internación.
+
+Abstract
+Introduction. The Enhanced Recovery After Surgery (ERAS) protocol is a multimodal, multidisciplinary approach to care, the purpose of which is to reduce the perioperative stress of surgery, decrease morbidity, and shorten hospital stay. This study aimed to describe the clinical outcomes of patients undergoing surgery for colorectal cancer, identifying the main complications and perioperative factors related to early discharge.
+Methods. Consecutive patients undergoing colorectal surgery between 2020 and 2023 were analyzed, who followed the institutional ERAS protocol. Clinical characteristics, perioperative factors, postoperative outcomes, and overall protocol adherence rate were evaluated.
+Results. A total of 456 patients underwent colorectal surgery, 51% male, with a mean age of 60 years. Most interventions were performed laparoscopically (78%), with a conversion rate of 14.5%. Postoperative complications included anastomotic leak (4.6%), followed by bleeding, intra-abdominal infection, and intestinal obstruction. The average hospital stay was 4 days and mortality was 2.8%. The overall adherence rate to the ERAS protocol was 84.7%.
+Conclusions. The combined approach of laparoscopic surgery and ERAS protocol is feasible, safe, and associated with a shorter hospital stay. Implementation and adherence to the ERAS protocol not only improves postoperative outcomes, but also highlights the importance of accessing solid data, allowing for improved local perioperative care.
+Keywords: colorectal neoplasms; colorectal surgery; laparoscopy; minimally invasive surgical procedures; enhanced recovery after surgery; length of stay.
+
+Introducción
+Con el propósito de alcanzar la resección quirúrgica radical del tumor primario, la cirugía colorrectal ha experimentado una evolución que ha culminado en la actualidad con la implementación de la cirugía robótica. En este contexto, la cirugía laparoscópica desempeña un papel crucial y se encuentra sólidamente establecida en el tratamiento de la patología oncológica colorrectal1,2.
+La intervención quirúrgica en el tratamiento de pacientes con cáncer colorrectal ha influido positivamente en el aumento de la supervivencia
+
+global y la supervivencia libre de enfermedad. No obstante, ha estado históricamente asociada a la aparición de complicaciones posoperatorias que, de manera consistente, prolongan la estancia hospitalaria, incrementan los costos de atención, afectan la calidad de vida y aumentan la mortalidad. En consecuencia, se han implementado estrategias dirigidas a mejorar los resultados a corto plazo. Estas estrategias involucran una serie de actividades que buscan llevar a cabo una prehabilitación multimodal con el propósito de mejorar la reserva fisiológica, anticipándose a los
+
+219
+
+Riscanevo-Bobadilla C, Barbosa RE, Guerrero IM, Valbuena D, et al.
+
+Rev Colomb Cir. 2024;39:218-30
+
+efectos adversos previsibles asociados a los procedimientos quirúrgicos mayores, permitiendo así optimizar el tiempo de recuperación posoperatoria y preservando la capacidad funcional3,4.
+La atención del paciente quirúrgico presenta un desafío significativo que abarca diversas etapas, desde la consulta externa hasta la hospitalización, pasando por las unidades preoperatorias, el quirófano y el centro de recuperación postoperatoria. Con el objetivo de optimizar este proceso y asegurar una pronta y eficaz recuperación del paciente, se han implementado estrategias específicas, como el protocolo de Recuperación Mejorada Después de la Cirugía (ERAS, por sus siglas en inglés)5.
+El proceso de atención se divide en varias etapas, comenzando con la preadmisión y progresando a través de la atención preoperatoria, intraoperatoria y postoperatoria. Cada una de estas fases engloba una serie de componentes que, al actuar en conjunto, mitigan la respuesta del organismo al estrés quirúrgico. Este enfoque integral requiere la colaboración activa de un equipo multidisciplinario integrado por anestesiólogos, cirujanos, enfermeras, fisioterapeutas y nutricionistas. Además, es fundamental involucrar al paciente y a su familia como participantes activos en el proceso de recuperación6.
+El principal propósito de estas estrategias consiste en preservar la homeostasis al reducir la tasa de catabolismo proteico y prevenir la disfunción celular. Estos objetivos se logran al mantener niveles óptimos de glucemia, gestionar de manera efectiva el dolor en reposo, propiciar el pronto restablecimiento de la función intestinal para mitigar el íleo postoperatorio, iniciar tempranamente la alimentación oral, favorecer la cicatrización y, como consecuencia, permitir un alta hospitalaria temprana y segura. Este enfoque no solo incide en la calidad de la atención y la vida del paciente, sino que también tiene un impacto significativo en los costos asociados a la atención de la salud7,8.
+El propósito de este estudio consistió en describir los resultados clínicos de los pacientes que se sometieron a cirugía por cáncer colorrectal tras la implementación del protocolo de prehabilitación
+
+multimodal ERAS en nuestra institución, determinando las complicaciones más relevantes, analizando los factores perioperatorios asociados con el alta temprana y evaluando el nivel de adherencia a dicho protocolo.
+Métodos
+Población
+Se llevó a cabo un estudio de cohorte retrospectivo que incluyó a pacientes adultos sometidos a cirugía colorrectal primaria electiva debido a cáncer de colon por parte del grupo de cirugía colorrectal de la Clínica Universitaria Colombia en Bogotá, D.C., Colombia. El periodo de análisis abarcó desde diciembre de 2020 hasta junio de 2023. Se establecieron como criterios de inclusión la edad igual o superior a 18 años y el diagnóstico de cáncer colorrectal que requería cirugía electiva, con o sin anastomosis. Por otro lado, se excluyeron aquellos pacientes que necesitaron manejo quirúrgico de urgencia debido a sangrado, obstrucción aguda o perforación, así como aquellos con tumores colorrectales considerados inoperables y aquellos que no estuvieron incluidos en el protocolo de pre-habilitación multimodal.
+Protocolo ERAS institucional
+Todos los pacientes fueron tratados conforme al protocolo estandarizado de Mejora de ERAS, el cual abarca 25 intervenciones durante el periodo perioperatorio. Los elementos fundamentales de este programa incluyen asesoramiento preoperatorio, la no preparación del colon derecho, suministro de bebidas ricas en carbohidratos un día antes y en la mañana de la cirugía, administración de líquidos guiada por objetivos, control de la temperatura corporal durante la cirugía, evitar drenes y sondas nasogástricas, aplicación de analgesia multimodal, movilización temprana, inicio de la tromboprofilaxis y de la vía oral en el postoperatorio temprano. Cabe destacar que, dentro del protocolo institucional, no se incluyó la tromboprofilaxis preoperatoria (Figura 1).
+
+220
+
+Rev Colomb Cir. 2024;39:218-30
+
+Recuperación mejorada después de cirugía (ERAS) colorrectal
+
+• Valoración nutricional preoperatoria
+• Asesoramiento sobre cese del consumo del cigarrillo y del alcohol.
+• Optimización de enfermedades crónicas.
+• Optimización de la condición física y funcional (escalas).
+
+• Educación preoperatoria, participación del paciente y su familia.
+• Tiempo de ayuno 2 horas.
+• Bebida carbohidratos - maltodextrina.
+• Profilaxis preoperatoria contra la infección.
+• Analgesia preoperatoria.
+• Profilaxis antiemeticos.
+• Preparación del colon. ¿Cómo y a quienes?
+• Tromboprofilaxis preoperatoria.
+
+• Favorecer cirugía minimamente invasiva.
+• Anestesia estandarizada, evitar opioides.
+• Mantener euvolemia.
+• Uso restrictivo de drenajes.
+• Retiro de sonda nasogastrica antes de reversión anestesica.
+• Control de temperatura corporal.
+
+• Movilización precoz.
+• Ingesta temprana de líquidos e inicio de alimentos sólidos.
+• Retiro de sonda vesical y líquidos endovenosos".
+• Uso de café, goma de marcar y laxantes.
+• Estrategias multimodales para el control del dolor (Ahorradores de opioides).
+• Abordaje multimodal para el control de nauseas y antiemeticos.
+• Alta temprana y auditoria periódica de resultados.
+
+Prehabilitación Preadmisión
+
+Programa de recuperación mejorada
+
+Preoperatorio
+
+Intraoperatorio
+
+Rehabilitación Postoperatorio
+
+Figura 1. Principios generales de ERAS para la cirugía colorrectal 1. Fuente: Elaborado por los autores.
+
+El abordaje quirúrgico, ya sea laparoscópico o abierto, fue determinado considerando los antecedentes del paciente. La decisión sobre el uso de drenajes fue dejada a la discreción del cirujano teniendo en cuenta los hallazgos intraoperatorios, con la intención de evitar su aplicación de manera profiláctica. Las anastomosis intestinales se realizaron de manera manual o mediante dispositivos mecánicos, dependiendo de la disponibilidad de los equipos necesarios. Los criterios para el alta hospitalaria abarcaron la reanudación del tránsito intestinal, el manejo adecuado del dolor mediante analgesia oral, la tolerancia a alimentos sólidos, sin necesidad de líquidos intravenosos, la capacidad de movilidad independiente y una condición general apropiada para el alta hospitalaria.
+Manejo de los datos
+La información de cada paciente fue recopilada de manera prospectiva, abarcando variables clínicas, antecedentes médicos y anestésicos, así como todas las intervenciones establecidas en el protocolo ERAS para cirugía colorrectal. Durante el período preoperatorio, se evaluó el estado nutricional mediante criterios clínicos y medidas antropométricas. Además, se tuvo en cuenta la pérdida de peso ponderal experimentada durante
+
+los seis meses previos al procedimiento quirúrgico y la ingesta nutricional del paciente.
+Se analizaron datos de morbimortalidad perioperatoria, se registró la duración de la estancia hospitalaria y el cumplimiento del protocolo. Con el objetivo de establecer la relación entre las variables y el porcentaje de adherencia al protocolo ERAS, se definió como óptimo un cumplimiento superior al 80 %, y como no óptimo aquel que quedara por debajo del 80 %. Todos los pacientes fueron seguidos desde su ingreso hasta su alta hospitalaria y posteriormente de manera ambulatoria durante los primeros 30 días.
+La información se registró en la interfaz del Sistema de Auditoría Interactiva ERAS (EIAS), siguiendo las pautas establecidas por la Sociedad ERAS para las mejores prácticas. Este sistema actúa como un respaldo de calidad, garantizando el cumplimiento del protocolo.
+Análisis estadístico
+Los datos fueron sometidos a análisis mediante el programa estadístico R v.4.3.1. Las variables cualitativas se caracterizaron mediante frecuencias relativas y absolutas, mientras que las variables cuantitativas se presentaron a través de medidas de tendencia central y dispersión. En específico,
+
+221
+
+Riscanevo-Bobadilla C, Barbosa RE, Guerrero IM, Valbuena D, et al.
+
+Rev Colomb Cir. 2024;39:218-30
+
+se describieron mediante la media y desviación estándar, o la mediana e intervalo de confianza, y se generaron gráficos de supervivencia utilizando el método de Kaplan-Meier.
+Resultados
+Características clínicas de los pacientes
+Se incluyeron 456 pacientes que fueron llevados a cirugía colorrectal, con un 51,1 % de individuos de sexo masculino y una edad promedio de 60 años, con un rango intercuartílico (RIC) de 52 a 72 años (Tabla 1). De este grupo, 246 pacientes presentaron diagnóstico de cáncer de colon, mientras que 210 fueron diagnosticados con cáncer de recto. Las principales comorbilidades registradas incluyeron cardiopatías (11,6 %), diabetes mellitus (10,6 %) y enfermedad pulmonar (9,2 %). Se observó tabaquismo activo en 13 pacientes (2,9 %) y después de recibir asesoramiento y educación preoperatoria, el 2 % abandonó este hábito antes del procedimiento quirúrgico. En cuanto a la quimioterapia neoadyuvante, el 24 % recibió tratamiento sistémico en los últimos 6 meses y el 16 % radioterapia.
+
+Tabla 1. Características sociodemográficas de los pacientes (n=456).
+
+Variables sociodemográficas Edad en años (media, DE) Sexo (n, %)
+Masculino Femenino Antecedentes (n, %) Tabaquismo Diabetes mellitus Cardiopatías Enfermedad pulmonar Intervención quirúrgica previa Intervenciones prequirúrgicas (n, %) Educación previa a procedimiento Quimioterapia previa Radioterapia previa
+
+63
+
+(52-72)
+
+231
+
+50,7 %
+
+225
+
+49,3 %
+
+13
+
+2,9 %
+
+46
+
+10,1 %
+
+53
+
+11,6 %
+
+42
+
+9,2 %
+
+323
+
+70,8 %
+
+452
+
+99,1 %
+
+108
+
+23,7 %
+
+73
+
+16 %
+
+*DE: Desviación estándar. Fuente: Elaboración propia de los autores.
+
+En el análisis histopatológico de los especímenes quirúrgicos, se observó que según la clasificación TNM, el 40,1 % de los pacientes presentaban cáncer de colon en estadio II, mientras que el estadio III se registró en el 32,1 % (Figura 2). En el caso de los pacientes con cáncer de recto, el estadio III fue predominante, afectando al 35,3 %, seguido por el estadio II, que afectó al 33,5 %. En la Figura 3 se detalla la distribución de estadios, diferenciando entre cáncer de colon y recto, y se observa que esta tendencia se mantiene en la proporción tanto para cáncer de colon como de recto.
+Índice de nutrición y metabolismo
+En un 40,7 % de los pacientes se diagnosticó desnutrición proteico-calórica, mientras que un 16,4 % presentaba riesgo nutricional. Ambos grupos se beneficiaron de apoyo nutricional durante el preoperatorio y en el trascurso de la hospitalización. El 57 % requirió suplementación nutricional adicional, mediante suplementos orales, nutrición enteral o parenteral (Tabla 2). En el momento de la intervención quirúrgica, el 34,4 % se categorizó como estado nutricional normal y el 90,5 % de los pacientes recibió inmunonutrición como parte integral del protocolo.
+Variables intraoperatorias
+En cuanto a la clasificación de riesgo anestésicoquirúrgico, los pacientes fueron categorizados según el sistema de clasificación del estado físico de la American Society of Anesthesiologists (ASA) de la siguiente manera: ASA I 2,4 %, ASA II 22 %, ASA III 75 % y ASA IV 0,7 %. Además, se implementó la administración de carga de carbohidratos prequirúrgica y profilaxis antibiótica en todos los pacientes (Tabla 3).
+El abordaje laparoscópico fue seleccionado para la mayoría de los casos (78 %), aunque se registró una tasa de conversión del 15 %. La mediana del tiempo quirúrgico fue de 127 minutos (RIC 120186 minutos). Para la realización de la anastomosis, en el 65 % se utilizó grapadora circular en los casos de anastomosis colorrectal, seguido de grapadora lineal (26 %) para las anastomosis colo-colónicas o ileo-cólicas. El promedio de sangrado intraoperatorio fue de 150 ml (RIC 100-200).
+
+222
+
+Rev Colomb Cir. 2024;39:218-30
+
+Recuperación mejorada después de cirugía (ERAS) colorrectal
+
+Colon
+
+Recto
+
+Figura 2. Estadificación según TNM para cáncer colorrectal. Fuente: Elaborado por los autores.
+
+100
+
+5 (3,6 %)
+
+25 (18,2 %)
+
+75
+
+55 (40,1 %) 50
+
+2 (1,2 %) 38 (22,7 %)
+56 (33,5 %)
+
+Porcentaje
+
+25 44 (32,1 %)
+
+59 (35,3 %)
+
+0 8 (5,8 %)
+
+12 (7,1 %)
+
+Colon
+
+Tipo de cáncer
+
+Recto
+
+Estadio
+
+0
+
+I
+
+II
+
+III
+
+IV
+
+Figura 3. Estadios de cáncer colorrectal. Fuente: Elaborado por los autores.
+
+223
+
+Riscanevo-Bobadilla C, Barbosa RE, Guerrero IM, Valbuena D, et al.
+
+Rev Colomb Cir. 2024;39:218-30
+
+Tabla 2. Características nutricionales de pacientes llevados a cirugía colorrectal (n=456).
+
+Variables Nutricionales Clasificación nutricional
+Normal Riesgo de desnutrición Desnutrición No evaluado Tratamiento nutricional preoperatorio No, Solo alimentos habituales Suplementos por vía oral Nutrición enteral Nutrición parenteral Inmunonutrición Nutrición parenteral y vía oral
+
+Frecuencia
+
+157
+
+34,4 %
+
+75
+
+16,4 %
+
+186
+
+40,8 %
+
+38
+
+8,3 %
+
+195
+
+42,7 %
+
+44
+
+9,7 %
+
+62
+
+13,5 %
+
+80
+
+17,5 %
+
+413
+
+90,6 %
+
+75
+
+16,4 %
+
+Fuente: Elaboración propia de los autores.
+
+Tabla 3. Características operatorias (n=456).
+
+Variables intraoperatorias
+
+Clasificación de ASA (n, %)
+
+ASA 1
+
+11 2,4 %
+
+ASA 2
+
+102 22,4 %
+
+ASA 3
+
+340 74,6 %
+
+ASA 4
+
+3 0,6 %
+
+Tipo de abordaje (n, %)
+
+Abierto
+
+102 22 %
+
+Laparoscópico
+
+354 78 %
+
+Conversión a cirugía abierta (n, %)
+
+66 18,7 %
+
+Anastomosis (n, %)
+
+430 94,3 %
+
+Ileostomía
+
+108 23,7 %
+
+Tipo de anastomosis (n, %)
+
+Sutura manual
+
+5 1,2 %
+
+Grapadora circular
+
+279 64,9 %
+
+Grapadoras lineales
+
+111 25,8 %
+
+Grapadora lineal y cierre con sutura manual 35 8,1 %
+
+Tiempo quirúrgico (mediana, RIC)
+
+2,6 2,0-3,6
+
+Infusión de vasoactivos (n, %)
+
+77 16,9 %
+
+Sangrado intraoperatorio (mediana, RIC)
+
+150 100-200
+
+Dren abdominal (n, %)
+
+239 52,4 %
+
+* ASA: American Society of Anesthesiologists. RIC: Rango intercuartílico. Fuente: Elaboración propia de los autores.
+
+Recuperación
+En la fase postoperatoria, se fomentó el tránsito intestinal activo mediante el uso de goma de mascar y laxantes, promoviendo la actividad intestinal. El tiempo promedio hasta el primer flato fue de un
+
+día (± 0,12) en 523 pacientes. La primera deposición ocurrió en 523 pacientes con una mediana de 2 días (± 0,4). Se retiró la sonda vesical con un promedio de 2,61 días (±0,42) (Figura 4).
+El tiempo medio para el inicio de la vía oral fue a las 6 horas; en 442 pacientes se consiguió la tolerancia vía oral de alimentos sólidos a los 3 días. La estancia hospitalaria promedio fue de 4 días, con una mediana de 4 en el alta hospitalaria.
+Complicaciones
+Se presentaron complicaciones postoperatorias en 162 pacientes (35 %), principalmente de grado IIIa (n=80, 49 %), según la clasificación modificada de Clavien-Dindo9 (Tabla 4). Cincuenta y tres pacientes (11,6 %) necesitaron someterse a un nuevo procedimiento, siendo la principal causa la fuga anastomótica (4,6 %), seguido de sangrado, infección intraabdominal y obstrucción intestinal. La tasa de reingreso a los 30 días fue del 11,4 %.
+En el seguimiento, se registró una tasa de mortalidad perioperatoria a los 30 días del 2,8 % (13 pacientes), con un tiempo promedio de 103,95 días (±15,87) (Figura 5).
+Índices de cumplimiento del protocolo
+En el análisis de la adherencia a las estrategias que componen el protocolo ERAS, se destacó un cumplimiento global del 84,7 % (Figura 5). En las distintas fases de atención, se evidenció una mayor adherencia durante los períodos intraoperatorio (85,8 %) y postoperatorio (85,8 %), mientras que el cumplimiento preoperatorio alcanzó el 80,8 %.
+Discusión
+La atención perioperatoria tradicional se fundamentaba en la transmisión de experiencias entre cirujanos a lo largo de las generaciones, dando lugar a diversas prácticas y limitando la posibilidad de llevar a cabo auditorías de los procesos perioperatorios. Esta variabilidad en las prácticas contribuyó a las diferencias en los resultados entre distintos centros quirúrgicos. Ante la necesidad de mejorar los resultados perioperatorios y tener un impacto positivo en los desenlaces postoperatorios, Kehlet & Mogensen10, desarrollaron
+
+224
+
+Rev Colomb Cir. 2024;39:218-30
+
+Recuperación mejorada después de cirugía (ERAS) colorrectal
+
+Retiro DU
+
+Primer flato
+
+A
+1.00 0.75 0.50 0.25 0.00
+C
+1.00 0.75 0.50 0.25 0.00
+
+TVO
+
+Primera deposición
+
+B
+1.00 0.75 0.50 0.25 0.00
+D
+1.00 0.75 0.50 0.25 0.00
+
+E
+1.00
+
+F
+1.00
+
+0.75
+
+0.75
+
+Muerte
+
+Egreso
+
+0.50
+
+0.50
+
+0.25
+
+0.25
+
+0.00
+
+0.00
+
+Tiempo (días)
+
+Tiempo (días)
+
+Figura 4. Tiempo al evento para el primer flato (A), primera deposición (B), retiro de drenaje urinario (C), tolerancia a la vía oral (D), egreso hospitalario (E) y muerte (F). *DU: Drenaje urinario; TVO: Tolerancia a la vía oral. Fuente: Elaborado por los autores.
+
+225
+
+Riscanevo-Bobadilla C, Barbosa RE, Guerrero IM, Valbuena D, et al.
+
+Rev Colomb Cir. 2024;39:218-30
+
+Tabla 4. Desenlaces postoperatorios según la ubicación de la neoplasia
+
+Desenlaces postoperatorios Reintervención (n, %) Causa de reintervención (n, %)
+Fuga anastomótica Absceso intraabdominal Sangrado Dehiscencia de la sutura Obstrucción intestinal Complicaciones* Grado I Grado II Grado IIIa Grado IIIb Grado IVa Grado IVb Grado V Muerte (n, %)
+
+Colón (n=246) Recto (n=210) 53 (11,6 %)
+
+11
+
+4,5 %
+
+8
+
+3,8 %
+
+1
+
+0,4 %
+
+1
+
+0,5 %
+
+3
+
+1,2 %
+
+0
+
+0 %
+
+0
+
+0 %
+
+1
+
+0,5 %
+
+1
+
+0,4 %
+
+2
+
+1 %
+
+5
+
+2 %
+
+4
+
+9
+
+3,7 %
+
+9
+
+40 16,3 % 40
+
+19
+
+7,7 %
+
+16
+
+5
+
+2 %
+
+5
+
+0
+
+0 %
+
+1
+
+9
+
+2 %
+
+4
+
+13 2,8 %
+
+1,9 % 4,3 % 19 % 7,6 % 2,4 % 0,5 % 0,8 %
+
+*Clasificación de Clavien-Dindo. Fuente: Elaboración propia de los autores.
+
+Índices de cumplimiento de protocolo
+
+Seguimiento a los 30 días realizado
+
+Movilización el día de la intervención
+
+Inicio de via oral temprana
+
+Aporte hídrico guiado por objetivos
+
+Uso de analgesia epidural posoperatoria si está indicado
+
+Estimulación de la motilidad intestinal
+
+Retiro de sonda vesical
+
+Evitar el uso de drenes abdominales
+
+Evitar el uso de sonda nasogastrica
+
+Uso de mantas térmicas para mantener la temperatura corporal
+
+No administración de opiloides de larga duración
+
+Bloqueo o infiltración local
+
+Analgesia lumbar preoperatoria
+
+No uso de analgesia epidural o raquídea a menos que corresponda
+
+Prevención de náuseas y vómitos
+
+Profilaxis antimicrobiana antes de la incisión
+
+Profilaxis tromboembólica
+
+Analgesia preoperatoria
+
+Tratamiento preoperatorio con carbohidratos por via oral
+
+No preparación de colon preoperatorio 0 %
+
+10 %
+Cumple
+
+20 %
+
+30 %
+
+No cumple
+
+40 %
+
+50 %
+
+60 %
+
+Sin registro
+
+Figura 5. Adherencia al protocolo ERAS por estrategias. Fuente: Elaborado por los autores.
+
+70 %
+
+80 %
+
+90 % 100 %
+
+226
+
+Rev Colomb Cir. 2024;39:218-30
+
+Recuperación mejorada después de cirugía (ERAS) colorrectal
+
+un protocolo de atención perioperatoria. Este protocolo tenía como objetivo minimizar el estrés quirúrgico, mejorando la respuesta al estrés fisiológico desencadenado por el estímulo quirúrgico. Esto se lograba optimizando las condiciones clínicas, mentales, físicas y psicológicas de los pacientes mediante la implementación de diversas estrategias a lo largo de las diferentes fases de la atención11,12.
+Inicialmente implementado en pacientes sometidos a cirugía colorrectal, este enfoque ha demostrado resultados óptimos en términos de control del dolor, movilización temprana, recuperación del tránsito intestinal y reducción de la estancia hospitalaria. Esta iniciativa ha marcado un hito, y en los últimos 25 años se han establecido grupos multidisciplinarios que incluyen a anestesiólogos, cirujanos, nutricionistas, psicólogos, fisioterapeutas y terapeutas respiratorios, entre otros. Estos grupos han contribuido significativamente a la creación e implementación de protocolos específicos que han sido adoptados en diversas disciplinas quirúrgicas13,14.
+Las estrategias implementadas en cada fase del periodo perioperatorio, que abarcan desde el preoperatorio hasta el postoperatorio y la rehabilitación, persiguen primordialmente el mantenimiento de la homeostasis. El objetivo central es mitigar la respuesta metabólica al estrés inducido por la intervención quirúrgica. Cada una de estas estrategias se fundamenta en evidencia científica, buscando el control efectivo de las comorbilidades, proporcionando información y educación al paciente con el fin de reducir la ansiedad asociada al proceso.
+Suspender el tabaquismo con al menos 4 semanas de antelación al procedimiento contribuye positivamente al proceso de cicatrización13,15. La identificación del riesgo nutricional optimiza el estado nutricional preoperatorio, mientras que la carga de carbohidratos previa al procedimiento minimiza la resistencia a la insulina. Además, la analgesia epidural contribuye al manejo eficaz del dolor, y los medicamentos antiinflamatorios ayudan a reducir la respuesta inflamatoria. Un control óptimo del dolor no solo promueve la movilización temprana, sino que también disminuye la
+
+resistencia a la insulina. Finalmente, el inicio temprano de la vía oral asegura el suministro de nutrientes a los tejidos, preservando así la función celular5.
+En cuanto a la intervención quirúrgica, algunos ensayos clínicos han demostrado niveles reducidos de mediadores inflamatorios, como la IL-6 y la proteína C reactiva, en pacientes que se sometieron a cirugía colorrectal mínimamente invasiva dentro de un protocolo ERAS14-15. Las técnicas mínimamente invasivas tienen claras ventajas y producen menos trauma quirúrgico.
+En el 2011, Vlug MS, et al. 16, publicaron un ensayo controlado aleatorizado que demostró los beneficios de la cirugía laparoscópica dentro del contexto de los protocolos ERAS, destacando una estancia hospitalaria más corta y una reducción en la morbilidad. Estos hallazgos fueron respaldados por estudios posteriores, como el de Kennedy, et al. 17, donde recibieron una sólida recomendación en las directrices de 2018 sobre ERAS en cirugía electiva colorrectal y fueron una recomendación fuerte en las guías del 2018 de ERAS en cirugía electiva colorrectal por el grupo de Gustafsson18. En nuestro estudio, el 78 % de los pacientes fueron abordados por técnicas mínimamente invasivas, principalmente laparoscopia, con una tasa de conversión del 15 % y una tasa de complicaciones generales del 35 %, mayormente clasificadas como Clavien-Dindo IIIa.
+En un contexto de recursos hospitalarios limitados y crecientes costos médicos, la reducción segura de la estancia hospitalaria postoperatoria se ha convertido en un enfoque esencial para optimizar la utilización de los recursos sanitarios. En nuestro estudio, observamos un tiempo medio de alta hospitalaria de 4 días, cifra coherente con los resultados obtenidos en otras cohortes13,19.
+Entre las variables perioperatorias asociadas al fracaso del alta temprana, se destacan el índice de masa corporal (IMC), la clasificación ASA y el índice de comorbilidad de Charlson20, consideradas potencialmente como las variables más susceptibles de modificación. En nuestro estudio, el IMC promedio se estimó en el 25,1 % y en la evaluación nutricional se identificó que el 40,7 % presentaba desnutrición proteico-calórica. Además, el 16,4 %
+
+227
+
+Riscanevo-Bobadilla C, Barbosa RE, Guerrero IM, Valbuena D, et al.
+
+Rev Colomb Cir. 2024;39:218-30
+
+de los pacientes fueron identificados con riesgo nutricional y se beneficiaron de apoyo nutricional preoperatorio, mientras que el 75 % de los pacientes tenían una clasificación preoperatoria ASA III.
+Además, se han informado factores como un tiempo quirúrgico más prolongado y una mayor pérdida de sangre en el grupo con alta tardía18. En nuestro estudio, registramos un tiempo operatorio promedio de 127 minutos (RIC 120-186), mientras que la pérdida de sangre intraoperatoria promedio fue de 150 ml (RIC 100-200).
+En cuanto a los resultados posoperatorios, diversos estudios han indicado que la falta de tolerancia a la alimentación temprana y la ausencia de movilización el día de la cirugía están asociadas con una estancia hospitalaria prolongada21-23. En nuestra cohorte, el tránsito intestinal se restableció en el segundo día, y el tiempo medio para la tolerancia a la vía oral fue de 2 días.
+La fuga anastomótica después de la cirugía colorrectal, influenciada por diversos factores, algunos vinculados al paciente y otros a la técnica quirúrgica, representa una de las complicaciones más temidas debido a su impacto significativo en los resultados de los pacientes. Se asocia con un mayor tiempo de estancia hospitalaria y un aumento en las tasas de morbilidad y mortalidad. Las tasas informadas de fuga anastomótica colorrectal varían entre el 0,5 % y el 20 %24. En nuestro estudio se evidenció una tasa global de fuga anastomótica del 4,6 %, en línea con los hallazgos de otros estudios multicéntricos25-27.
+La tasa de reingreso y reintervención a los 30 días fue del 11,4 % y 11,6 %, respectivamente. Estos resultados concuerdan con series recientes de cirugía colorrectal de recuperación mejorada, en las cuales los reingresos hospitalarios oscilaron entre el 9 % y el 13 %23,24.
+Para permitir una contemporización e interpretación precisa de la eficacia de los programas, es fundamental reportar el cumplimiento de los componentes individuales de cada una de las estrategias. Cuanto mejor sea el cumplimiento del protocolo, mejores serán los resultados en términos de complicaciones, duración del tratamiento primario, tiempo total de estancia y readmisiones.
+
+Investigaciones previas, como la de Gustafsson y colegas, han demostrado que la adherencia a más del 70 % de los procesos de atención planificados se asocia con una menor morbilidad y una estancia más corta en comparación con una menor adherencia28-30. En este estudio, al evaluar el cumplimiento del protocolo, se observó una adherencia global del 85 %. En todos los casos, los pacientes recibieron información; sin embargo, la estrategia de tromboprofilaxis perioperatoria no fue implementada en el protocolo institucional.
+Nuestro estudio describe los efectos del protocolo de recuperación mejorada ERAS en pacientes con cáncer colorrectal sometidos a resección quirúrgica en la Clínica Universitaria Colombia, Bogotá, D.C., durante los últimos 3 años. Aunque es importante destacar que se trata de un estudio de un solo centro con limitaciones inherentes, que caracterizó los resultados clínicos a corto plazo, los hallazgos deben considerarse como generadores de hipótesis para futuras investigaciones. Las fortalezas de este estudio incluyen informes detallados de los componentes de ERAS aplicados y de todos los eventos médicos postoperatorios registrados. Además, las tasas de cumplimiento se basan en datos recopilados de manera prospectiva a través del sistema de auditoría interactiva ERAS (EIAS), lo que garantiza el cumplimiento de los protocolos ERAS una vez implementadas las estrategias y proporciona retroalimentación continua al equipo perioperatorio.
+Conclusiones
+Los resultados actuales demuestran que los programas de recuperación mejorada (ERAS) son factibles y aplicables, y pueden beneficiar a los pacientes al promover un retorno más rápido a la función orgánica, facilitar la recuperación de la función gastrointestinal y mejorar el estado nutricional perioperatorio. Es crucial fortalecer y desarrollar estos protocolos, ya que no solo aportan beneficios fundamentales para los pacientes, siendo estos el principal pilar, sino que también presentan ventajas económicas para las instituciones donde se implementan.
+
+228
+
+Rev Colomb Cir. 2024;39:218-30
+
+Recuperación mejorada después de cirugía (ERAS) colorrectal
+
+Cumplimiento de normas éticas
+Consentimiento informado: Teniendo en cuenta la naturaleza retrospectiva del estudio, por ser observacional, no implicó ningún riesgo para los pacientes y no se requiere de consentimiento informado. El protocolo de investigación fue aprobado por la Comisión de Investigación y el Comité de Ética institucional. Se realizó de conformidad con la Declaración de Helsinki de la Asociación Médica Mundial de 1975 y sus enmiendas posteriores, y la observancia de la Resolución N° 008430 de 1993 del Ministerio de Salud de la República de Colombia o de la Resolución 2378 de 2008 del Ministerio de la Protección Social.
+Conflicto de intereses: Los autores declararon que no tienen conflictos de intereses.
+Uso de inteligencia artificial: los autores declararon que no utilizaron tecnologías asistidas por inteligencia artificial (IA) (como modelos de lenguaje grande, chatbots o creadores de imágenes) en la producción de este trabajo.
+Fuentes de financiación: Esta investigación no recibió ninguna subvención específica de agencias de financiación en los sectores público, comercial o sin fines de lucro.
+Contribución de los autores
+- Concepción y diseño del estudio: Ronel Barbosa, Iván Guerrero, Carolina Riscanevo, María Paula Naranjo, Mayra Hernández.
+- Recolección de los datos: Ronel Barbosa, Iván Guerrero, Carolina Riscanevo, María Paula Naranjo, Mayra Hernández, Leticia Cuello.
+- Análisis e interpretación de los datos: Ronel Barbosa, Iván Guerrero, Carolina Riscanevo, María Paula Naranjo y Mayra Hernández, María del Pilar Montilla.
+- Asesora epidemiológica: María del Pilar Montilla.
+- Redacción del manuscrito: Carolina Riscanevo, María Paula Naranjo, Wilmar Martin, Mauricio Chona, Alejandro Velandia, Andrés Lasso, Diego Valbuena, Mayra Hernández.
+- Revisión crítica del manuscrito y aprobación de la versión final: Ronel Barbosa, Iván Guerrero, Carolina Riscanevo, María Paula Naranjo, Wilmar Martin, Mauricio Chona, Alejandro Velandia, Andrés Lasso, Diego Valbuena, Mayra Hernández.
+Referencias
+1 Irani JL, Hedrick TL, Miller TE, Lee L, Steinhagen E, Shogan BD, et al. Clinical practice guidelines for enhanced recovery after colon and rectal surgery from the
+
+American Society of Colon and Rectal Surgeons and the Society of American Gastrointestinal and Endoscopic Surgeons. Surg Endosc. 2023;37:5-30. https://doi.org/10.1007/s00464-022-09758-x
+2 Ripollés-Melchor J, Ramírez-Rodríguez JM, Casans-Francés R, Aldecoa C, Abad-Motos A, Logroño-Egea M, et al. Association between use of enhanced recovery after surgery protocol and postoperative complications in colorectal surgery: The Postoperative Outcomes Within Enhanced Recovery after surgery protocol (POWER) study. JAMA Surg. 2019;154:725-36. https://doi.org/10.1001/jamasurg.2019.0995
+3 Artinyan A, Orcutt ST, Anaya DA, Richardson P, Chen GJ, Berger DH. Infectious postoperative complications decrease long-term survival in patients undergoing curative surgery for colorectal cancer: a study of 12,075 patients. Ann Surg. 2015;261:497-505. https://doi.org/10.1097/SLA.0000000000000854
+4 Hanna DN, Hawkins AT. Colorectal: Management of postoperative complications in colorectal surgery. Surg Clin North Am. 2021;101:717-29. https://doi.org/10.1016/j.suc.2021.05.016
+5 Ljungqvist O, Scott M, Fearon KC. Enhanced Recovery After Surgery: A Review. JAMA Surg. 2017;152:292-8. https://doi.org/10.1001/jamasurg.2016.4952
+6 Carli F, Bousquet-Dion G, Awasthi R, Elsherbini N, Liberman S, et al. Effect of multimodal prehabilitation vs postoperative rehabilitation on 30-day postoperative complications for frail patients undergoing resection of colorectal cancer: A randomized clinical trial. JAMA Surg. 2020;155:233-42. https://doi.org/10.1001/jamasurg.2019.5474
+7 Weimann A, Braga M, Carli F, Higashiguchi T, Hübner M, Klek S, et al. ESPEN guideline: Clinical nutrition in surgery. Clin Nutr. 2017;36:623-50. https://doi.org/10.1016/j.clnu.2017.02.013
+8 Chand M, De’Ath HD, Rasheed S, Mehta C, Bromilow J, Qureshi T. The influence of peri-operative factors for accelerated discharge following laparoscopic colorectal surgery when combined with an enhanced recovery after surgery (ERAS) pathway. Int J Surg. 2016;25:5963. https://doi.org/10.1016/j.ijsu.2015.11.047
+9 Clavien PA, Barkun J, de Oliveira ML, Vauthey JN, Dindo D, Schulick RD, et al. The Clavien-Dindo classification of surgical complications: five-year experience. Ann Surg. 2009;250:187-96. https://doi.org/10.1097/SLA.0b013e3181b13ca2
+10 Greer N, Sultan S, Shaukat A, Dahm P, Lee A, MacDonald R, et al. Enhanced Recovery After Surgery (ERAS) programs for patients undergoing colorectal surgery. Department of Veterans Affairs (US). 2017. Fecha de consulta: 10 de septiembre de 2023. Disponible en: https://www.hsrd.research.va.gov/publications/esp/ ERAS-EXEC.pdf
+11 Hardy PY, Degesve M, Joris J, Coimbra C, Decker E, Hans G. Impact of preoperative anemia on outcomes
+
+229
+
+Riscanevo-Bobadilla C, Barbosa RE, Guerrero IM, Valbuena D, et al.
+
+Rev Colomb Cir. 2024;39:218-30
+
+of enhanced recovery program after colorectal surgery: A monocentric retrospective study. World J Surg. 2021;45:2326-36. https://doi.org/10.1007/s00268-021-06161-w
+12 Kehlet H, Mogensen T. Hospital stay of 2 days after open sigmoidectomy with a multimodal rehabilitation programme. Br J Surg. 1999;86:227-30. https://doi.org/10.1046/j.1365-2168.1999.01023.x
+13 Schwenk W. Optimized perioperative management (fast-track, ERAS) to enhance postoperative recovery in elective colorectal surgery. GMS Hyg Infect Control. 2022;17:Doc10. https://doi.org/10.3205/dgkh000413
+14 Fagard K, Wolthuis A, D’Hoore A, Verhaegen M, Tournoy J, Flamaing J, et al. A systematic review of the intervention components, adherence and outcomes of enhanced recovery programmes in older patients undergoing elective colorectal surgery. BMC Geriatrics. 2019;19:157. https://doi.org/10.1186/s12877-019-1158-3
+15 Mari G, Crippa J, Costanzi A, Mazzola M, Rossi M, Maggioni D. ERAS protocol reduces IL-6 secretion in colorectal laparoscopic surgery: Results from a randomized clinical trial. Surg Laparosc Endosc Percutan Tech. 2016;26:444-8. https://doi.org/10.1097/SLE.0000000000000324
+16 Vlug MS, Wind J, Hollmann MW, Ubbink DT, Cense HA, Engel AF, et al. Laparoscopy in combination with fast track multimodal management is the best perioperative strategy in patients undergoing colonic surgery: a randomized clinical trial (LAFA-study). Ann Surg. 2011;254:868-75. https://doi.org/10.1097/SLA.0b013e31821fd1ce
+17 Kennedy RH, Francis EA, Wharton R, Blazeby JM, Quirke P, West NP, et al. Multicenter randomized controlled trial of conventional versus laparoscopic surgery for colorectal cancer within an enhanced recovery programme: EnROL. J Clin Oncol. 2014;32:1804-11. https://doi.org/10.1200/JCO.2013.54.3694
+18 Gustafsson UO, Hausel J, Thorell A, Ljungqvist O, Soop M, Nygren J, Enhanced Recovery After Surgery Study Group. Adherence to the enhanced recovery after surgery protocol and outcomes after colorectal cancer surgery. Arch Surg. 2011;146:571-7. https://doi.org/10.1001/archsurg.2010.309
+19 Keller DS, Bankwitz B, Woconish D, Champagne BJ, Reynolds HL, Stein SL, et al. Predicting who will fail early discharge after laparoscopic colorectal surgery with an established enhanced recovery pathway. Surg Endosc. 2014;28:74-9. https://doi.org/10.1007/s00464-013-3158-2
+20 Charlson ME, Carrozzino D, Guidi J, Patierno C. Charlson comorbidity index: A critical review of clinimetric properties. Psychother Psychosom. 2022;91:8-35. https://doi.org/10.1159/000521288
+21 Levy BF, Scott MJP, Fawcett WJ, Rockall TA. 23-hourstay laparoscopic colectomy. Dis Colon Rectum. 2009;52:1239-43. https://doi.org/10.1007/DCR.0b013e3181a0b32d
+
+22 Lawrence JK, Keller DS, Samia H, Ermlich B, Brady KM, Nobel T, et al. Discharge within 24 to 72 hours of colorectal surgery is associated with low readmission rates when using Enhanced Recovery Pathways. J Am Coll Surg. 2013;216:390-4. https://doi.org/10.1016/j.jamcollsurg.2012.12.014
+23 Crippa J, Calini G, Santambrogio G, Sassun R, Siracusa C, Maggioni D, et al.; AIMS Academy Clinical Research Network. ERAS protocol applied to oncological colorectal mini-invasive surgery reduces the surgical stress response and improves long-term cancer-specific survival. Surg Laparosc Endosc Percutan Tech. 2023;33:297-301. https://doi.org/10.1097/SLE.0000000000001181
+24 Zhao Y, Qin H, Wu Y, Xiang B. Enhanced recovery after surgery program reduces length of hospital stay and complications in liver resection: A PRISMA-compliant systematic review and meta-analysis of randomized controlled trials. Medicine (Baltimore). 2017;96:e7628. https://doi.org/10.1097/MD.0000000000007628
+25 Lv L, Shao YF, Zhou YB. The enhanced recovery after surgery (ERAS) pathway for patients undergoing colorectal surgery: an update of meta-analysis of randomized controlled trials. Int J Colorectal Dis. 2012;27:1549-54. https://doi.org/10.1007/s00384-012-1577-5
+26 Adamina M, Kehlet H, Tomlinson GA, Senagore AJ, Delaney CP. Enhanced recovery pathways optimize health outcomes and resource utilization: A metaanalysis of randomized controlled trials in colorectal surgery. Surgery. 2011;149:830-40. https://doi.org/10.1016/j.surg.2010.11.003
+27 Ban KA, Berian JR, Ko CY. Does implementation of enhanced recovery after surgery (ERAS) protocols in colorectal surgery improve patient outcomes? Clin Colon Rectal Surg. 2019;32:109-13. https://doi.org/10.1055/s-0038-1676475
+28 Francis NK, Mason J, Salib E, Allanby L, Messenger D, Allison AS, et al. Factors predicting 30-day readmission after laparoscopic colorectal cancer surgery within an enhanced recovery programme. Colorectal Dis. 2015;17:O148-O154. https://doi.org/10.1111/codi.13002
+29 Sciuto A, Merola G, De Palma GD, Sodo M, Pirozzi F, Bracale UM, et al. Predictive factors for anastomotic leakage after laparoscopic colorectal surgery. World J Gastroenterol. 2018;24:2247-60. https://doi.org/10.3748/wjg.v24.i21.2247
+30 Mendivelso FO, Barrios-Parra AJ, Zárate-López E, Navas-Camacho AM, Álvarez AO, Mc Loughlin S, et al. Asociación entre desenlaces clínicos y cumplimiento del protocolo de recuperación mejorada después de la cirugía (ERAS) en procedimientos colorrectales: Estudio multicéntrico. Rev Colomb Cir. 2020;35:601-13. https://doi.org/10.30944/20117582.662
+
+230

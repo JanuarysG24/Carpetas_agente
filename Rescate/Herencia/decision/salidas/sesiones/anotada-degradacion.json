@@ -1,0 +1,65 @@
+{
+  "session_id": "anotada-degradacion",
+  "generated_at": "2026-08-09T11:02:17.850Z",
+  "patient_ref": "pref-9f2c41ab",
+  "identity_status": "identificado",
+  "frame": {
+    "provenance": "inferred",
+    "rounds": 3,
+    "context_complete": false
+  },
+  "findings": [
+    {
+      "unit_id": "fiebre",
+      "state": 3,
+      "raw": "no, fiebre no",
+      "normalized": 36.9
+    },
+    {
+      "unit_id": "dolor_intensidad",
+      "state": 3,
+      "raw": "un tres",
+      "normalized": 3
+    },
+    {
+      "unit_id": "aspecto_herida",
+      "state": 3,
+      "raw": "pues ahi va, normalita",
+      "normalized": null
+    },
+    {
+      "unit_id": "movilidad",
+      "state": 3,
+      "raw": "camino bien",
+      "normalized": "normal"
+    },
+    {
+      "unit_id": "apetito",
+      "state": 3,
+      "raw": "como normal",
+      "normalized": "normal"
+    },
+    {
+      "unit_id": "sueno",
+      "state": 3,
+      "raw": "duermo bien",
+      "normalized": "normal"
+    }
+  ],
+  "decision": {
+    "escalate": true,
+    "criticality": "verde",
+    "reason": "Contexto incompleto tras 3 ronda(s): \"aspecto_herida\" llego como hidratada_sin_normalizar con normalized: null. Hay literal del paciente (\"pues ahi va, normalita\"), no valor mapeable. No se emite silencio sobre un cuadro que no se pudo leer (ADR-014).",
+    "reason_code": "contexto_incompleto",
+    "branch": "degradacion",
+    "traces": {
+      "doc_ids": [],
+      "rules_fired": []
+    }
+  },
+  "versions": {
+    "domain_version": "postop-0.1.0",
+    "vd_version": "vd-tabla-0.2.0",
+    "embedding_model": "lexical-bm25/k1=1.2/b=0.75/es-minusculas-sin-tildes-sin-vacias-v1"
+  }
+}

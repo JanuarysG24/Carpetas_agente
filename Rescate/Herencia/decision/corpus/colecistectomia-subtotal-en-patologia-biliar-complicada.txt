@@ -1,0 +1,310 @@
+ARTÍCULO ORIGINAL
+
+Rev Colomb Cir. 2026;41:(en prensa) https://doi.org/10.30944/20117582.3122
+
+Colecistectomía subtotal en patología biliar complicada: Experiencia en un centro de referencia en Cali, Colombia
+Subtotal cholecystectomy in complicated biliary disease: Experience at a referral center in Cali, Colombia
+Nicolás Ascencio-Jaramillo, MD1 , Luis Lacayo-Holmann2 , Sebastián Alberto Santacruz-Ramírez2 , Paula Andrea Salas-Espinosa2 ,
+Jhon Riaños-Santos2 , Natalia Muñoz-Ortíz, MD, MSc3 , Hernán Mauricio Ocampo-Aguirre, MD4
+1 Departamento de Urgencias, Hospital Universitario Fundación Valle del Lili, Cali, Colombia. 2 Programa de Medicina, Pontificia Universidad Javeriana, Cali, Colombia. 3 Unidad de Cuidados Intensivos Obstétricos, Clínica Versalles, Cali, Colombia. 4 Departamento de Cirugía General, Clínica Versalles, Cali, Colombia.
+Resumen
+Introducción. La colecistectomía subtotal ha emergido como una alternativa segura en casos de inflamación severa o anatomía distorsionada, donde el riesgo de lesión de la vía biliar es alto. El objetivo de este estudio fue describir la experiencia institucional en pacientes con patología biliar complicada.
+Métodos. Se realizó un estudio observacional retrospectivo en un centro de tercer nivel en Cali, Colombia. Se incluyeron los pacientes mayores de 18 años sometidos a colecistectomía subtotal por enfermedad vesicular complicada entre enero de 2019 y diciembre de 2024. Se analizaron variables demográficas, clínicas, bioquímicas y quirúrgicas. El desenlace principal fue la estancia hospitalaria. Las asociaciones se evaluaron mediante pruebas no paramétricas, con un nivel de significancia de p<0,05.
+Resultados. De 3115 colecistectomías practicadas, 48 (1,5 %) fueron subtotales. Las principales indicaciones fueron colecistitis aguda complicada (54,6 %) y colelitiasis crónica complicada (40,9 %). La técnica fenestrada se utilizó en el 68,2 % de los casos. Hubo complicaciones postoperatorias en el 9,1 % de los pacientes, siendo la colección intraabdominal la más frecuente (6,8 %). La mediana de estancia hospitalaria fue de 8 días (RIC: 5-13,5); los pacientes con cirugía abdominal previa y bilirrubinas o transaminasas elevadas presentaron estancias significativamente más prolongadas (p<0,05).
+
+Fecha de recibido: 28/10/2025 - Fecha de aceptación: 25/02/2026 - Publicación en línea: 02/06/2026 Correspondencia: Nicolás Ascencio-Jaramillo, Carrera 94A # 42-61, Cali, Colombia. Teléfono: +57 3053039409. Dirección electrónica: nicoferascencio1@gmail.com Citar como: Ascencio-Jaramillo N, Lacayo-Holmann L, Santacruz-Ramírez SA, Salas-Espinosa PA, Riaños-Santos J, Muñoz-Ortíz N, et al. Colecistectomía subtotal en patología biliar complicada: Experiencia en un centro de referencia en Cali, Colombia. Rev Colomb Cir. 2026;41:(en prensa). https://doi.org/10.30944/20117582.3122
+Este es un artículo de acceso abierto bajo una Licencia Creative Commons - BY-NC-ND https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+474
+
+Rev Colomb Cir. 2026;41:(en prensa)
+
+Colecistectomía subtotal en patología biliar complicada
+
+CAonclusiones. La colecistectomía subtotal es una opción qBuirúrgica segura y efectiva en el manejo de patologías
+biliares complejas, con baja tasa de complicaciones y sin mortalidad registrada. La identificación de factores asociados a mayor tiempo de hospitalización, como antecedentes quirúrgicos y alteraciones bioquímicas, orienta el seguimiento posoperatorio y optimiza la recuperación.
+Palabras clave: enfermedades de la vesícula biliar; colecistitis aguda; síndrome de Mirizzi; coledocolitiasis; colecistectomía; conversión a cirugía abierta.
+Abstract
+Introduction. Subtotal cholecystectomy has emerged as a safe alternative in cases of severe inflammation or distorted anatomy, where the risk of biliary tract injury is high. The objective of this study was to describe the institutional experience with patients presenting with complicated biliary disease.
+Methods. A retrospective observational study was conducted at a tertiary care center in Cali, Colombia. Patients over 18 years of age who underwent subtotal cholecystectomy for complicated gallbladder disease between January 2019 and December 2024 were included. Demographic, clinical, biochemical, and surgical variables were analyzed. The primary outcome was hospital length of stay. Associations were evaluated using non-parametric tests, with a significance level of p<0.05.
+Results. Of the 3,115 cholecystectomies performed, 48 (1.5%) were subtotal. The main indications were complicated acute cholecystitis (54.6%) and complicated chronic cholelithiasis (40.9%). The fenestrated technique was used in 68.2% of cases. Postoperative complications occurred in 9.1% of patients, with intra-abdominal fluid collection being the most frequent (6.8%). The median hospital stay was 8 days (IQR: 5-13.5); patients with prior abdominal surgery and elevated bilirubin or transaminase levels experienced significantly longer stays (p<0.05).
+Conclusions. Subtotal cholecystectomy is a safe and effective surgical option for the management of complex biliary pathologies, characterized by a low complication rate and no recorded mortality. The identification of factors associated with prolonged hospitalization, such as a history of previous surgeries and biochemical abnormalities, guides postoperative follow-up and optimizes recovery.
+Keywords: gallbladder diseases; acute cholecystitis; Mirizzi syndrome; choledocholithiasis; cholecystectomy; conversion to open surgery.
+
+Introducción
+La litiasis biliar continúa siendo una de las enfermedades digestivas más comunes en todo el mundo y constituye una de las principales causas de ingreso hospitalario en cirugía general. Cuando la enfermedad progresa a formas complicadas, como la colecistitis aguda, el empiema o la gangrena vesicular, se incrementan de manera considerable la morbilidad del paciente y los costos asociados a su atención 1,2.
+La colecistectomía laparoscópica se reconoce actualmente como el tratamiento de elección para la colelitiasis sintomática y sus complicaciones.
+
+Sin embargo, no todos los casos son técnicamente
+sencillos. En presencia de inflamación intensa, fibrosis marcada o una anatomía distorsionada, la disección se torna peligrosa y el riesgo de lesión de la vía biliar aumenta de forma significativa. Este tipo de complicaciones, aunque poco frecuentes, tienen repercusiones clínicas graves, que incluyen necesidad de cirugías reconstructivas complejas, estancias hospitalarias prolongadas, e incluso, demandas medicolegales 3,4.
+Ante estas dificultades, la colecistectomía subtotal ha ganado espacio como una alternativa
+viable para resolver el cuadro agudo y, al mismo
+
+475
+
+Ascencio-Jaramillo N, Lacayo-Holmann L, Santacruz-Ramírez SA, et al.
+
+Rev Colomb Cir. 2026;41:(en prensa)
+
+tiempo, disminuir el riesgo de lesión de la vía biliar. Esta técnica se ha descrito con dos variantes, fenestrada y reconstituida, y en diferentes series internacionales ha demostrado ser eficaz para el manejo de vesículas catalogadas como “difíciles”. No obstante, la literatura aún debate sobre sus resultados a largo plazo, en particular respecto a
+la recurrencia de los síntomas y a la necesidad de reintervención 5-7.
+A pesar de que la litiasis biliar es una de las causas más comunes de consulta quirúrgica en nuestro medio 8, son escasos los reportes que documentan la experiencia local con esta técnica
+de colecistectomía subtotal. Generar información propia resulta esencial, no sólo para contrastar los hallazgos internacionales, sino también para
+comprender las particularidades de nuestros
+pacientes y del sistema de salud en el que se atienden. Por lo tanto, el objetivo de este estudio fue describir los resultados obtenidos en un centro de referencia en Cali, Colombia, para aportar datos que contribuyan a enriquecer el conocimiento regional y a fortalecer la toma de decisiones en los escenarios más complejos de la vía biliar 9.
+
+Métodos
+Diseño del estudio
+Se realizó un estudio observacional retrospectivo en una institución de tercer nivel de la ciudad de Cali, Colombia, que incluyó a todos los pacientes sometidos a colecistectomía subtotal entre enero de 2019 y diciembre de 2024.
+Población y criterios de selección
+Se incluyeron los pacientes mayores de 18 años, con diagnóstico de patología vesicular complicada, en quienes, por decisión del equipo quirúrgico, se practicó colecistectomía subtotal. Dentro de estas condiciones se consideraron la colecistitis aguda grave, el empiema vesicular, la vesícula gangrenosa, el síndrome de Mirizzi y los casos con inflamación severa o fibrosis que impedían una disección segura del triángulo de Calot.
+Se excluyeron los pacientes menores de edad, las mujeres gestantes, aquellos con antecedente de cirugía previa sobre la vía biliar y los pacientes que ingresaron remitidos de otras instituciones en quienes no se disponía de información clínica completa (Figura 1).
+
+3115 pacientes sometidos a colecistectomía (enero 2019 - diciembre 2024)
+48 pacientes sometidos a colecistectomía subtotal
+
+Pacientes descartados
+Pérdida de datos: 3 pacientes
+
+Pacientes incluidos
+44 pacientes
+
+Menor de edad: 1 paciente
+Figura 1. Diagrama de flujo de inclusión y exclusión de pacientes sometidos a colecistectomía subtotal. Fuente: Original de los autores.
+476
+
+Rev Colomb Cir. 2026;41:(en prensa)
+
+Colecistectomía subtotal en patología biliar complicada
+
+Variables recolectadas
+Se obtuvieron datos demográficos (edad, sexo, índice de masa corporal y comorbilidades), clínicos (diagnóstico preoperatorio, hallazgos intraoperatorios y tipo de abordaje), de laboratorio (hemograma, pruebas hepáticas y de función renal) y quirúrgicos (tipo de técnica subtotal, conversión a cirugía abierta, tiempo operatorio). De acuerdo con el índice de masa corporal (IMC), se definió sobrepeso como IMC 25-29,9 kg/m² y obesidad como IMC ≥30 kg/m². Las variables bioquímicas fueron categorizadas como normales o elevadas de acuerdo con los valores de referencia del laboratorio institucional (proteína C reactiva [PCR] >5 mg/L, alanina aminotransferasa [ALT] >40 U/L, aspartato aminotransferasa [AST] >40 U/L, bilirrubina total >1,2 mg/dL y fosfatasa alcalina >120 U/L).
+La severidad intraoperatoria fue clasificada según la clasificación de Parkland para colecistectomía laparoscópica, la cual estratifica los hallazgos quirúrgicos en cinco grados de complejidad 10. Entre los desenlaces postoperatorios se incluyeron: complicaciones inmediatas (sangrado, fuga biliar, colecciones intraabdominales, infección de la herida quirúrgica), estancia hospitalaria, necesidad de reintervención y mortalidad perioperatoria.
+En la fase exploratoria se identificó la presencia de datos faltantes, los cuales fueron verificados con las historias clínicas; cuando no fue posible recuperarlos, se consignaron como “desconocidos” o “sin dato”.
+Análisis estadístico
+La base de datos fue procesada en el programa Stata v.16 (StataCorp, College Station, Estados Unidos). Las variables categóricas se describieron mediante frecuencias absolutas y porcentajes. Para las variables numéricas se evaluó la normalidad con la prueba de Shapiro–Wilk; aquellas con distribución normal se expresaron como medias y desviación estándar (DE), y las que no cumplieron con los criterios de normalidad, como medianas con rango intercuartílico (RIC).
+
+Para el análisis bivariado, la estancia hospitalaria (días) se definió como el desenlace principal. La comparación de medianas entre dos grupos se realizó con la prueba de U de Mann-Whitney, y cuando las variables de exposición tenían más de dos categorías se aplicó la prueba de Kruskal-Wallis. Para explorar la relación entre estancia hospitalaria y edad, se utilizó el coeficiente de correlación de Spearman, dado que la estancia no presentó una distribución normal. Se consideró un valor de p<0,05 como estadísticamente significativo.
+Resultados
+Durante el periodo comprendido entre enero de 2019 y diciembre de 2024 se realizaron en la institución 3115 colecistectomías, de las cuales 48 (1,5 %) correspondieron a colecistectomías subtotales. De estos, 44 pacientes cumplieron los criterios de inclusión y fueron analizados. La media de edad de los pacientes fue de 52,5 años (DE: 16,4), con un rango de 21 a 92 años, y se observó una distribución equitativa por sexo, con una representación del 50 % en hombres (n=22). Las comorbilidades más frecuentes fueron hipertensión arterial (25 %) y diabetes mellitus tipo II (13,6 %) (Tabla 1).
+En cuanto a las indicaciones quirúrgicas, la más común fue la colecistitis aguda (54,6 %), seguida de colelitiasis crónica (40,9 %) y síndrome de Mirizzi (2,3 %) (Tabla 2). Entre los hallazgos intraoperatorios, la presentación más frecuente fue la colecistitis con colelitiasis en 17 pacientes (38,6 %), seguida de vesícula gangrenosa en 9 casos (20,5 %) y colecistitis con micro litiasis o barro biliar en 8 pacientes (18,2 %). La distribución según la clasificación de Parkland 10 fue de cinco pacientes (11,4 %) con grado 1, ocho pacientes (16,7 %) grado 2, 17 (35,4 %) grado 3, cuatro (8,3 %) correspondieron al grado 4 y nueve pacientes (18,8 %) fueron clasificados como grado 5. Asimismo, un paciente (2,1 %) presentó coledocolitiasis, la cual no forma parte de la clasificación de Parkland, pero fue considerada como un hallazgo asociado.
+
+477
+
+Ascencio-Jaramillo N, Lacayo-Holmann L, Santacruz-Ramírez SA, et al.
+
+Rev Colomb Cir. 2026;41:(en prensa)
+
+Tabla 1. Características basales de los pacientes sometidos a colecistectomía subtotal incluidos en el estudio (n=44)
+
+Variables
+Edad (años), media (DE) Sexo
+Femenino Masculino
+Índice de masa corporal (IMC)
+Sobrepeso u obesidad*
+Antecedente de diabetes mellitus tipo II
+Antecedente de hipertensión arterial
+Antecedentes quirúrgicos
+
+Frecuencia
+
+Porcentaje
+
+52,5 (16,4)
+
+22
+
+50,0 %
+
+22
+
+50,0 %
+
+27,4 (25,3 - 33,1)
+
+34
+
+77,3 %
+
+6
+
+13,6 %
+
+11
+
+25,0 %
+
+25
+
+56,8 %
+
+* Sobrepeso definido como IMC 25-29,9 kg/m² y obesidad como IMC ≥30 kg/m².
+Fuente: Original de los autores.
+
+Tabla 2. Indicaciones quirúrgicas y hallazgos intraoperatorios en pacientes con colecistectomía subtotal
+
+Variables Diagnóstico preoperatorio
+Sin dato Colecistitis Colelitiasis Síndrome de Mirizzi Tipo de colecistectomía Sin dato Subtotal fenestrada sin cierre del muñón cístico Subtotal fenestrada con cierre parcial del remanente Subtotal reconstituyente con cierre completo del remanente vesicular Subtotal reconstituyente con sutura reforzada del muñón Hallazgos intraquirúrgicos Colecistitis con microlitiasis / barro biliar Colecistitis con colelitiasis Coledocolitiasis Colelitiasis Síndrome de Mirizzi Vesícula gangrenosa Diagnóstico final Colecistitis con colelitiasis Coledocolitiasis Colelitiasis Síndrome de Mirizzi Complicaciones Colección intraabdominal Hemorragia Sin complicaciones Conversión a cirugía abierta
+
+Frecuencia
+1 24 18 1
+1 24 8 6 5
+8 17 1 5 4 9
+34 1 5 4
+3 1 40 10
+
+Porcentaje
+2,3 % 54,6 % 40,9 % 2,3 %
+2,3 % 54,6 % 18,2 % 13,6 % 11,4 %
+18,2 % 38,6 % 2,3 % 11,4 % 9,1 % 20,5 %
+77,2 % 2,3 % 11,4 % 9,1 %
+6,8 % 2,3 % 90,9 % 22,7 %
+
+Fuente: Original de los autores.
+
+478
+
+Rev Colomb Cir. 2026;41:(en prensa)
+
+Colecistectomía subtotal en patología biliar complicada
+
+El abordaje laparoscópico se utilizó en todos los pacientes, y se logró completar el procedimiento en el 77,3 % (n=34), con una tasa de conversión a cirugía abierta del 22,7 % (n=10). En relación con la técnica quirúrgica, la colecistectomía subtotal fenestrada se realizó en el 72,7 % (n=32), mientras que la reconstituyente en el 25 % (n=11).
+Hubo complicaciones postoperatorias en 4 casos (9,1 %) pacientes. La más frecuente fue la colección intraabdominal, reportada en tres casos (6,8 %), seguida de la hemorragia postoperatoria, en un caso (2,3 %). No se registraron fuga biliar, infección del sitio operatorio ni mortalidad perioperatoria en la cohorte.
+La estancia hospitalaria tuvo una mediana
+de 8 días (RIC: 5-13,5). En el análisis bivariado no se encontraron diferencias significativas en la estancia según sexo, obesidad, diabetes
+
+mellitus, leucocitosis, neutrofilia, conversión a cirugía abierta ni presencia de complicaciones. Sin embargo, los pacientes con antecedente de
+cirugía abdominal previa mostraron una estancia significativamente mayor en comparación con aquellos sin dicho antecedente (10 vs 6 días; p=0,015) (Tabla 3).
+De forma similar, la estancia hospitalaria fue más prolongada en pacientes con elevación de enzimas hepáticas, tanto ALT (10 vs 7 días; p=0,016) como AST (10 vs 7 días; p=0,032), así como en aquellos con bilirrubinas elevadas (11 vs 5 días; p=0,003). Finalmente, la estancia hospitalaria fue más prolongada en los casos de coledocolitiasis (16 días) y colelitiasis (13,5 días), en comparación con los pacientes con colecistitis con colelitiasis (7 días), con una diferencia estadísticamente significativa (Tabla 4).
+
+Tabla 3. Días de estancia hospitalaria
+Variables Estancia hospitalaria
+0 a 5 días 6 a 10 días 11 a 15 días Mayor a 15 días Estancia hospitalaria (días), Mediana (RIC)
+Fuente: Original de los autores.
+
+Frecuencia Porcentaje
+
+13
+
+29,6 %
+
+15
+
+34,1 %
+
+11
+
+25,0 %
+
+5
+
+11,4 %
+
+8 (5,0 - 13,5)
+
+Tabla 4. Relación entre estancia hospitalaria y variables clínicas, paraclínicas y quirúrgicas (análisis bivariado)
+
+Variables Antecedente quirúrgico abdominal Proteína C reactiva elevada (>5 mg/L) Alanina aminotransferasa elevada (>40 U/L) Aspartato aminotransferasa elevada (>40 U/L) Bilirrubina total elevada (>1,2 mg/dL) Fosfatasa alcalina (n=30) elevada (>120 U/L) Hallazgos quirúrgicos
+Colecistitis con microlitiasis / barro biliar Colecistitis con colelitiasis Coledocolitiasis Colelitiasis Síndrome de Mirizzi Vesícula gangrenosa
+
+Mediana 10 8 10 10 11 7
+7 7 21 9 11 12
+
+RIC (7 - 15) (5 - 15) (7 - 15) (7 - 15) (8 - 15) (5 - 12)
+(5 - 7,5) (5 - 11) (21 - 21) (8 - 10) (5,5 - 14) (5 - 15)
+
+Valor p 0,015 0,172 0,016 0,032 0,003 0,538
+0,385
+
+* RIC: rango intercuartílico. Se utilizaron pruebas de Mann–Whitney y Kruskal–Wallis para comparación de medianas, y correlación de Spearman para variables continuas.
+Fuente: Original de los autores.
+
+479
+
+Ascencio-Jaramillo N, Lacayo-Holmann L, Santacruz-Ramírez SA, et al.
+
+Rev Colomb Cir. 2026;41:(en prensa)
+
+Discusión
+Nuestro estudio presenta los desenlaces en una
+cohorte retrospectiva de pacientes con colecistectomía subtotal en un centro de referencia de la ciudad de Cali, Colombia. Se encontró una frecuencia de 1,5 % de colecistectomía subtotal entre el total de colecistectomías practicadas, lo
+cual concuerda con lo reportado en la literatura,
+donde la colecistectomía subtotal se practica en menos del 5 % de los casos 5,6. Las características clínicas de los pacientes fueron consistentes con otras series en cuanto a una edad media superior
+a la quinta década de vida, y una distribución equitativa por sexo 11.
+Se observaron diferencias y similitudes significativas al comparar nuestros resultados con los de Sierra S, et al. 9, quienes en 2020 publicaron su experiencia en Medellín, donde la media de la edad y la proporción por sexo fueron las mismas, lo que sugiere una homogeneidad demográfica entre diferentes regiones del país. No obstante, en Medellín el 2,4 % de las colecistectomías fueron subtotales, un porcentaje ligeramente superior al nuestro, y la duración de la estancia hospitalaria fue de 5,2 días, menor que la mediana de 8 días hallada en nuestro centro, lo cual podría estar
+asociado con que nuestra cohorte incluía a más pacientes con trastornos bioquímicos y criterios de colecistectomía difícil, como coledocolitiasis. De igual manera, hubo una tasa de conversión a cirugía abierta más alta (22,7 % frente a 11,7 %), lo que podría señalar un umbral inferior para la conversión debido a la complejidad quirúrgica o a que los casos intervenidos fueron más complejos.
+La mayoría de los procedimientos se indicaron
+en casos de colecistitis aguda complicada y colelitiasis crónica complicada, similar a otros estudios previos que señalan a la colecistitis aguda severa como la principal causa para realizar un procedimiento subtotal, especialmente cuando hay presencia de gangrena o empiema vesicular 6,12. En nuestra serie, cerca de una quinta parte de los pacientes presentó vesícula gangrenosa, lo que resalta la severidad de los casos clínicos y la necesidad de recurrir a una estrategia quirúrgica más conservadora.
+
+La variante fenestrada tuvo mayor preponderancia que la reconstituyente, acorde con lo descrito en la literatura internacional. En la revisión sistemática de Elshaer M, et al. 6, encontraron un uso frecuente de técnicas en las que no se realiza la remoción completa de la pared posterior, correspondientes a variantes fenestradas. En circunstancias de inflamación severa y peligro de daño a la vía biliar, la técnica fenestrada es la más comúnmente elegida 6,13. Sin embargo, la literatura todavía discute acerca de los efectos a largo plazo de las dos modalidades. Algunos estudios vinculan la fenestrada con un incremento en la incidencia de fuga biliar temprana, mientras que la reconstituyente puede predisponer a litiasis residual o colecistitis del remanente 14,15. En nuestra cohorte no se detectaron fugas biliares, lo cual podría estar vinculado con la evaluación intraoperatoria de la vía biliar (mediante visión crítica de seguridad).
+Las complicaciones postoperatorias fueron poco frecuentes, lo que respalda la seguridad de la técnica cuando se aplica en un centro con
+experiencia. La tasa de complicaciones (9,1 %) fue inferior a la descrita en otras series internacionales, como lo estimaron Elshaer M, et al. 6, en una revisión sistemática que incluyó pacientes sometidos a colecistectomía subtotal en escenarios de vesícula difícil, quienes reportaron tasas de complicaciones globales cercanas al 20 %, con una incidencia relevante de fuga biliar.
+De manera similar, Ravendran K, et al. 13, en un metaanálisis de 2024, documentaron tasas variables de complicaciones postoperatorias, particularmente asociadas a la técnica fenestrada, y Beldi G, et al. 16, en una serie de pacientes con colecistitis severa tratados en 2003, reportaron tasas
+de complicaciones entre el 15 y 20 %. En nuestra serie no se documentó mortalidad perioperatoria, lo cual constituye un hallazgo alentador y sugiere
+que, en nuestro contexto, la colecistectomía subtotal puede realizarse con un perfil de seguridad favorable.
+También se observaron diferencias significativas al comparar nuestros resultados con la experiencia reportada por Gil-Quintero F, et al. 17, en el Hospital Militar Central de Bogotá, D.C., que
+
+480
+
+Rev Colomb Cir. 2026;41:(en prensa)
+
+Colecistectomía subtotal en patología biliar complicada
+
+abarcó a 54 pacientes en quienes se practicó colecistectomía subtotal entre los años 2017 y 2022. En esa cohorte, la incidencia de complicaciones fue del 24 %, con un 18,5 % de fuga biliar y un 5,5 % de daño a la vía biliar, unos porcentajes mayores a los descritos en nuestra serie (9,1 %), donde no se registró mortalidad ni fuga biliar. Esta discrepancia podría tener relación con las variaciones en los protocolos de manejo, el grado de complejidad de los pacientes atendidos o la técnica quirúrgica empleada más comúnmente, ya que la reconstituyente fue la más frecuente en el Hospital Militar, mientras que en nuestro centro se utilizó más la fenestrada. Por otro lado, la estancia hospitalaria media en nuestra cohorte fue más alta. Estas comparaciones enfatizan la importancia de establecer registros multicéntricos que posibiliten unos resultados más sólidos y extrapolables acerca de la efectividad y seguridad de la colecistectomía subtotal en diversos escenarios institucionales.
+La evaluación de la duración de la hospitalización en nuestra cohorte de estudio hizo posible reconocer variables bioquímicas y clínicas asociadas con un aumento en el tiempo que los pacientes permanecieron en el hospital. En los pacientes que habían tenido cirugías abdominales previas y los
+que tenían niveles de bilirrubina o aminotransferasas más altos, la estancia fue notablemente más larga. Estas observaciones pueden ser vistas como un indicio de un compromiso inflamatorio sistémico más grave 18,19 o de una mayor complejidad quirúrgica. Asimismo, el diagnóstico de coledocolitiasis estuvo relacionado con una estancia prolongada, lo cual concuerda con informes que revelan que la litiasis de la vía biliar principal aumenta tanto la morbilidad como el tiempo de recuperación 20,21.
+Aunque esta investigación proporciona datos útiles para el contexto colombiano, se deben tener en cuenta ciertas limitaciones. El diseño retrospectivo depende de la calidad de los registros clínicos y esto podría haber influido en la disponibilidad de algunos datos. El tamaño de la muestra es relativamente pequeño, lo que limita el poder para los análisis multivariados. Pese a estas restricciones, la serie ayuda a cubrir un vacío en
+
+la literatura nacional y resalta la importancia de contar con estudios multicéntricos que permitan generalizar los hallazgos.
+Conclusiones
+La colecistectomía subtotal es una opción segura y efectiva para la cirugía en casos de enfermedades vesiculares complejas, especialmente cuando la disección del triángulo de Calot supone un riesgo. En nuestra serie, su uso en el contexto colombiano se ve respaldado por la asociación con tasas bajas de complicaciones y la inexistencia de mortalidad perioperatoria. El reconocimiento de variables bioquímicas y clínicas asociadas a estancia hospitalaria más larga proporciona datos importantes para la toma de decisiones y el monitoreo después de una operación. Para analizar los resultados a largo plazo y hacer comparaciones más sólidas entre las modalidades reconstituyente y fenestrada serán precisos estudios multicéntricos y prospectivos.
+Cumplimiento de normas éticas:
+Consentimiento informado: Al ser un artículo original se tuvieron en cuenta las directrices de la Resolución 008430 de 1993 del Ministerio de Salud, sin embargo, por su carácter retrospectivo observacional se consideró sin riesgo y no requirió del diligenciamiento de consentimiento informado. Este estudio fue aprobado por el Comité de Ética en Investigación de la Clínica Versalles (CEICV), en Cali, mediante acta de reunión No. 36-010168 del 30 de abril de 2025.
+Conflictos de interés: Los autores declararon no tener ningún tipo de conflicto de interés con la presente investigación.
+Uso de Inteligencia Artificial: Los autores declararon que en la elaboración de este trabajo no se emplearon tecnologías asistidas por inteligencia artificial (IA) como modelos de lenguaje grande, chatbots o creadores de imágenes.
+Fuentes de financiación: Este estudio fue financiado por los autores.
+Contribución de los autores:
+- Diseño y concepción del estudio: Hernán Mauricio Ocampo-Aguirre, Nicolás Ascencio-Jaramillo.
+
+481
+
+Ascencio-Jaramillo N, Lacayo-Holmann L, Santacruz-Ramírez SA, et al.
+
+Rev Colomb Cir. 2026;41:(en prensa)
+
+- Adquisición de datos: Sebastián Santacruz-Ramírez, Paula Salas-Espinosa, Luis Lacayo-Holmann, Jhon Riaños-Santos, Natalia Muñoz-Ortíz.
+- Análisis e interpretación de datos: Natalia MuñozOrtíz, Nicolás Ascencio-Jaramillo, Hernán Mauricio Ocampo-Aguirre.
+- Redacción del manuscrito: Hernán Mauricio OcampoAguirre, Nicolás Ascencio-Jaramillo, Natalia Muñoz-Ortíz, Sebastián Santacruz-Ramírez, Paula SalasEspinosa, Luis Lacayo-Holmann, Jhon Riaños-Santos.
+- Revisión crítica y aprobación: Hernán Mauricio Ocampo-Aguirre, Nicolás Ascencio-Jaramillo, Natalia Muñoz-Ortíz, Sebastián Santacruz-Ramírez, Paula SalasEspinosa, Luis Lacayo-Holmann, Jhon Riaños-Santos.
+Referencias
+1 Stinton LM, Shaffer EA. Epidemiology of gallbladder disease: Cholelithiasis and cancer. Gut Liver. 2012;6:17287. https://doi.org/10.5009/gnl.2012.6.2.172
+2 Everhart JE, Ruhl CE. Burden of digestive diseases in the United States Part I: Overall and upper gastrointestinal diseases. Gastroenterology. 2009;136:376-86. https://doi.org/10.1053/j.gastro.2008.12.015
+3 Strasberg SM, Brunt LM. Rationale and use of the critical view of safety in laparoscopic cholecystectomy. J Am Coll Surg. 2010;211:132-8. https://doi.org/10.1016/j.jamcollsurg.2010.02.053
+4 Booij KAC, de Reuver PR, Yap K, van Dieren S, van Delden OM, Rauws EA, et al. Morbidity and mortality after minor bile duct injury following laparoscopic cholecystectomy. Endoscopy. 2015;47:40-6. https://doi.org/10.1055/s-0034-1390908
+5 Strasberg SM, Pucci MJ, Brunt LM, Deziel DJ. Subtotal cholecystectomy–”fenestrating” vs “reconstituting” subtypes and the prevention of bile duct injury: Definition of the optimal procedure in difficult operative conditions. J Am Coll Surg. 2016;222:89-96. https://doi.org/10.1016/j.jamcollsurg.2015.09.019
+6 Elshaer M, Gravante G, Thomas K, Sorge R, Al-Hamali S, Ebdewi H. Subtotal cholecystectomy for “difficult gallbladders”: Systematic review and meta-analysis. JAMA Surg. 2015;150:159-68. https://doi.org/10.1001/jamasurg.2014.1219
+7 Ibrahim R, Abdalkoddus M, Mahendran B, Mownah OA, Nawara H, Aroori S. Subtotal cholecystectomy: Is it a safe option for difficult gall bladders? Ann R Coll Surg Engl. 2023;105:455-60. https://doi.org/10.1308/rcsann.2021.0291
+
+8 Bejarano M, Gallego CX, Gómez JR. Frecuencia de abdomen agudo quirúrgico en pacientes que consultan al servicio de urgencias. Rev Colomb Cir. 2011;26:33-41. https://doi.org/10.30944/20117582.149
+9 Sierra S, Zapata F, Méndez M, Portillo S, Restrepo C. Colecistectomía subtotal: Una alternativa en el manejo de la colecistectomía difícil. Rev Colomb Cir. 2020;35:593600. https://doi.org/10.30944/20117582.565
+10 Madni TD, Leshikar DE, Minshall CT, Nakonezny PA, Cornelius CC, Imran JB, et al. The Parkland grading scale for cholecystitis. Am J Surg. 2018;215:625-30. https://doi.org/10.1016/j.amjsurg.2017.05.017
+11 Keus F, de Jong JA, Gooszen HG, van Laarhoven CJ. Laparoscopic versus open cholecystectomy for patients with symptomatic cholecystolithiasis. Cochrane Database Syst Rev. 2006;(4):CD006231. https://doi.org/10.1002/14651858.CD006231
+12 Koo KP, Thirlby RC. Laparoscopic cholecystectomy in acute cholecystitis. What is the optimal timing for operation? Arch Surg. 1996;131:540-5. https://doi.org/10.1001/archsurg.1996.01430170086016
+13 Ravendran K, Elmoraly A, Thomas CS, Job ML, Vahab AA, Khanom S, et al. Fenestrating versus reconstituting subtotal cholecystectomy: Systematic review and meta-analysis on bile leak, bile duct injury, and outcomes. Cureus. 2024;16:e72769. https://doi.org/10.7759/cureus.72769
+14 Álvarez-Sánchez G, Del Valle DD, Maydón-González HG, Pérez-Aguilar F. Colecistitis del remanente vesicular, una entidad en incremento: Reporte de caso. Rev Med Inst Mex Seguro Soc. 2022;60:350-5.
+15 Grossman JG, Johnston WR, Fowler KJ, Williams GA, Hammill CW, Hawkins WG. A diagnosis reconsidered: The symptomatic gallbladder remnant. J Hepatobiliary Pancreat Sci. 2019;26:137-43. https://doi.org/10.1002/jhbp.613
+16 Beldi G, Glättli A. Laparoscopic subtotal cholecystectomy for severe cholecystitis. Surg Endosc. 2003;17:1437-9. https://doi.org/10.1007/s00464-002-9128-8
+17 Gil-Quintero F, Rincón-Barbosa Ó, Arredondo-Mora N, Gutiérrez-Moreno O. Evaluación de complicaciones postoperatorias de la colecistectomía subtotal en adultos atendidos en el Hospital Militar Central entre 2017-2022. Rev Colomb Cir. 2025;40:915-22. https://doi.org/10.30944/20117582.2860
+18 Karayiannakis AJ, Polychronidis A, Perente S, Botaitis S, Simopoulos C. Laparoscopic cholecystectomy in patients with previous upper or lower abdominal surgery. Surg Endosc. 2004;18:97-101. https://doi.org/10.1007/s00464-003-9001-4
+
+482
+
+Rev Colomb Cir. 2026;41:(en prensa)
+
+Colecistectomía subtotal en patología biliar complicada
+
+19 Abdic A, Becirovic M, Becirovic E, Pasic F, Mehmedovic Z, Hadžić S, et al. C-reactive protein and biliary complications as independent predictors of hospital stay in acute cholecystitis. Cureus. 2025;17:e87598. https://doi.org/10.7759/cureus.87598
+20 Zouki J, Sidhom D, Bindon R, Sidhu T, Chan E, Lyon M. Choledocholithiasis: A review of management and outcomes in a regional setting. Cureus. 2023;15:e50223. https://doi.org/10.7759/cureus.50223
+
+21 Boerma D, Rauws EAJ, Keulemans YCA, Janssen IMC, Bolwerk CJM, Timmer R, et al. Wait-and-see policy or laparoscopic cholecystectomy after endoscopic sphincterotomy for bile-duct stones: A randomised trial. Lancet. 2002;360:761-5. https://doi.org/10.1016/S0140-6736(02)09896-3
+
+483

@@ -1,0 +1,371 @@
+ARTÍCULO ORIGINAL
+
+Rev Colomb Cir. 2024;39:245-53 https://doi.org/10.30944/20117582.2455
+
+Epidemiología de la apendicitis aguda en Colombia: Un análisis de las bases de datos administrativas del
+Ministerio de Salud
+Epidemiology of acute appendicitis in Colombia: An Analysis of the Ministry of Health administrative databases
+Santiago Bottia-Córdoba1 , Isabella Lacouture1 , Saúl Rugeles, MD2 , Diego Rosselli, MD3
+1 Facultad de Medicina, Pontificia Universidad Javeriana, Bogotá, D.C., Colombia. 2 Departamento de Cirugía General, Hospital Universitario San Ignacio; Facultad de Medicina, Pontificia Universidad Javeriana,
+Bogotá, D.C., Colombia. 3 Departamento de Epidemiología Clínica y Bioestadística, Facultad de Medicina, Pontificia Universidad Javeriana, Bogotá, D.C.,
+Colombia.
+Resumen
+Introducción. La apendicitis aguda es una afección común, con un pico de incidencia entre los 10 y 20 años. La cirugía es el tratamiento preferido y la apendicectomía por laparotomía sigue siendo el estándar, aunque el abordaje laparoscópico ha mostrado menos complicaciones. El objetivo de este artículo fue caracterizar tanto la enfermedad como el tratamiento quirúrgico en Colombia, usando datos de bases oficiales.
+Métodos. Se accedió a la base de datos del Sistema Integrado de Información para la Protección Social (SISPRO) del Ministerio de Salud de Colombia en febrero de 2023. Se recogieron datos de los pacientes con diagnóstico de apendicitis y con procedimiento de apendicectomía entre 2017 y 2021, y se analizaron por edad, sexo y ubicación geográfica.
+Resultados. Entre 2017 y 2021 se diagnosticaron 345.618 casos de apendicitis (51,8 % mujeres), con pico de incidencia a los 15-20 años. Se realizaron 248.133 apendicectomías, el 16,7 % por laparoscopia. Los hospitales con más procedimientos reportados estaban en Bogotá, Yopal, Popayán y Florencia. La mortalidad fue de 0,56 % en hombres y 0,51 % en mujeres.
+Conclusión. La apendicitis es común, con pico a los 10-19 años. Las mujeres tienen mayor probabilidad de apendicectomía, debido a otras afecciones ginecológicas. El acceso a la apendicectomía disminuye la mortalidad; en estos pacientes, el 16 % fue laparoscópica, lo que sugiere que se necesita más entrenamiento y acceso a esta técnica. Este estudio aporta a la comprensión de la epidemiología de la apendicitis y apendicectomías en Colombia.
+Palabras clave: apendicitis; apendicectomía; epidemiología; prevalencia; laparoscopia; sistema de registros.
+Fecha de recibido: 8/09/2023 - Fecha de aceptación: 29/10/2023 - Publicación en línea: 12/12/2023 Correspondencia: Santiago Bottia-Córdoba, Facultad de Medicina, Pontificia Universidad Javeriana, Carrera 7 # 40 - 62, Hospital Universitario San Ignacio, Bogotá, D.C., Colombia. Código postal 110311. Teléfono: +57 3168281790 Dirección electrónica: santiagobottia@hotmail.com Citar como: Bottia-Córdoba S, Lacouture I, Rugeles S, Rosselli D. Epidemiología de la apendicitis aguda en Colombia: Un análisis de las bases de datos administrativas del Ministerio de Salud. Rev Colomb Cir. 2024;39:245-53. https://doi.org/10.30944/20117582.2455 Este es un artículo de acceso abierto bajo una Licencia Creative Commons - BY-NC-ND https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+
+245
+
+Bottia-Córdoba S, Lacouture I, Rugeles S, Rosselli D
+
+Rev Colomb Cir. 2024;39:245-53
+
+Abstract
+Introduction. Acute appendicitis is a common condition, with a peak incidence between 10 and 20 years of age. Surgery is the preferred treatment and laparotomy appendectomy remains the standard, although the laparoscopic approach has shown fewer complications. The objective of this article was to characterize both the disease and the surgical treatment in Colombia, using data from official databases.
+Methods. The Integrated Information System for Social Protection (SISPRO) database of the Ministry of Health was accessed in February 2023. Data with diagnosis of apendicitis and with appendectomy between 2017 and 2021 were collected. Analysis was done by age, gender, and geographic location.
+Results. Between 2017 and 2021, 345,618 cases of appendicitis were diagnosed (51.8% females), with peak incidence at 15-20 years of age. A total of 248,133 appendectomies were performed, 16.7% by laparoscopy. The hospitals with most reported procedures were located in Bogotá, Yopal, Popayán, and Florencia. Mortality was 0.56% in men and 0.51% in women.
+Conclusion. Appendicitis is common, peaking at ages 10-19. Women are more likely undergo appendectomy due to other gynecological conditions. Access to appendectomy improves mortality. In these patients, 16% were laparoscopic, suggesting that more training and access to this technique is needed. This study contributes to the understanding of the epidemiology of appendicitis and appendectomies in Colombia.
+Keywords: appendicitis; appendectomy; epidemiology; prevalence; laparoscopy; registries.
+
+Introducción
+La apendicitis aguda es la condición quirúrgica abdominal más común y, aunque se presenta a cualquier edad, se describe un pico de incidencia entre los 10 y 20 años de edad 1. La cirugía oportuna es el tratamiento de elección, se asocia con muy baja morbilidad y mortalidad y es una de las intervenciones más eficientes en salud 2. Por lo tanto, es muy importante lograr que los pacientes tengan un acceso temprano a una institución que pueda realizar el diagnóstico y el tratamiento integral.
+La apendicectomía por laparotomía es el estándar de oro, pero el abordaje laparoscópico ha mostrado menor tasa de complicaciones, aunque el tiempo quirúrgico parece ser mayor 3,4. Recientemente se ha demostrado que en Colombia el costo del abordaje laparoscópico es similar al de la técnica abierta 5 y su uso parece ir en aumento en nuestro país. También existen protocolos de manejo médico con antibióticos, pero se asocian con tiempos de hospitalización mayores, una considerable tasa de falla y recurrencia 6,7. Por lo tanto, la comunidad científica sigue considerando la intervención quirúrgica como el método ideal de tratamiento.
+
+Resulta entonces pertinente saber cómo se comporta el tratamiento de esta enfermedad en Colombia a través del análisis de los datos existentes en las bases de datos nacionales, lo cual puede ser un insumo para la planeación y provisión de los recursos en salud que permitan realizar cirugías oportunas.
+El Sistema Integrado de Información para la Protección Social (SISPRO) del Ministerio de Salud, que incluye tanto el Registro Individual de Prestación de Servicios (RIPS), como los Códigos Únicos de Procedimientos en Salud (CUPS), ha sido diseñado para administrar, gestionar y hacer seguimiento del sistema de salud 8. La consulta de este sistema permite conocer datos consolidados de las enfermedades y las atenciones realizadas en todo el país. El objetivo de este estudio fue caracterizar los pacientes diagnosticados con apendicitis, según los RIPS, y su relación con los procedimientos de apendicectomía, según los CUPS, para conocer el número total de casos, las cirugías realizadas y la prevalencia de la enfermedad en diferentes segmentos de la población y ubicaciones geográficas.
+
+246
+
+Rev Colomb Cir. 2024;39:245-53
+
+Epidemiología de la apendicitis aguda en Colombia
+
+Métodos
+El acceso a los cubos de la base de datos de los RIPS se realizó el 3 de febrero de 2023, mediante el programa Microsoft Excel, con su herramienta tablas dinámicas, que se conecta mediante un usuario y clave a la base de datos de SISPRO. Se recogieron todos los datos correspondientes a “número de personas atendidas” y se filtró por clasificación CUPS, 471-Resección de apéndice, y la Clasificación Estadística Internacional de Enfermedades y Problemas Relacionados con la Salud (CIE) 10ª revisión, K350-Apendicitis aguda con peritonitis generalizada, K351-Apendicitis aguda con absceso peritoneal, K359-Apendicitis aguda no especificada, K36X-Otros tipos de apendicitis, K37X-Apendicitis no especificada.
+Se limitó la búsqueda a los años 2017 a 2021, y los pacientes se clasificaron por sexo, edad y departamento con la herramienta “geografía del prestador”, para los análisis. La última variable se analizó por departamento y por hospital, para seleccionar los que más procedimientos realizaron.
+Los datos correspondientes a la población colombiana se obtuvieron de los estimados de población para el año 2019 del Departamento
+
+Administrativo Nacional de Estadística (DANE). Con base en estas cifras se calcularon tasas de prevalencia por edad o departamentos de Colombia.
+Resultados
+Durante el periodo de 5 años de seguimiento (2017-2021) en Colombia, fueron diagnosticados en total 345.618 pacientes con apendicitis. De ellos, eran mujeres 179.170 (51,8 %).
+En la Figura 1 se muestra la distribución de apendicitis como diagnóstico principal contra las apendicectomías realizadas, distribuido por quinquenios en pacientes de ambos sexos. Tanto el diagnóstico de la enfermedad como el procedimiento presentaron su pico de incidencia entre los 15 y 20 años, aunque fue mayor el número de diagnósticos de apendicitis. Así mismo, se observó que después del pico hubo una desaceleración uniforme de la incidencia a medida que aumentó la edad. En la Tabla 1 se describe la incidencia de apendicitis en hombres y mujeres según grupos etarios.
+En la Figura 2 está diagramada la distribución por edad y sexo de los pacientes con diagnóstico de apendicitis. Se calculó una incidencia de 1,44 por cada 1.000 mujeres, mientras que la incidencia
+
+12000
+
+10000
+
+8000
+
+6000
+
+4000
+
+2000
+
+0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95
+
+Apendicitis
+
+Apendicectomías
+
+Figura 1. Diagnóstico de apendicitis según los RIPS y procedimiento de apendicectomía según los CUPS en Colombia entre 2017 y 2021, según la edad del paciente. Fuente: Elaboración propia de los autores.
+
+247
+
+Bottia-Córdoba S, Lacouture I, Rugeles S, Rosselli D
+
+Rev Colomb Cir. 2024;39:245-53
+
+Tabla 1. Incidencia de apendicitis en hombres y mujeres en Colombia por cada 1000 habitantes entre 2017 y 2021.
+
+Edad (años) 0 - 04 05 - 09 10 - 14 15 - 19 20 - 24 25 - 29 30 - 34 35 - 39 40 - 44 45 - 49 50 - 54 55 - 59 60 - 64 65 - 69 70 - 74 75 - 79
+80 o más Total
+
+Mujeres 2,3 5,3 9,2 12,5 11,7 10,6 8,9 7,7 6,5 5,8 5,1 4,8 4,3 4,4 4,5 5,3 7,6 7,4
+
+Hombres 2,5 6,4 10,7 9,9 9,3 8,8 7,9 7,6 6,2 5,5 4,8 4,6 4,4 4,5 4,9 6,1 9,0 7,0
+
+Total 2,4 5,9 10,0 11,2 10,5 9,7 8,4 7,6 6,3 5,7 5,0 4,7 4,4 4,5 4,7 5,7 8,2 7,2
+
+Elaboración propia de los autores.
+
+fue de 1,31 por cada 1.000 hombres. Por otro lado, en el mismo intervalo se realizaron en total 248.133 apendicectomías, de las cuales el 50,2 % (124.520) se realizaron en mujeres y el 49,8 % (123.613) en hombres. Así mismo, se describe el abordaje por laparoscopia en un 16,7 % (41.499) de las apendicectomías realizadas.
+La Tabla 2 presenta en orden de frecuencia las 30 instituciones prestadoras de salud (IPS) que más procedimientos quirúrgicos de este tipo realizaron y la ciudad en la que se ubican. Los hospitales con el mayor número de apendicectomías en Colombia se encuentran en Bogotá, Yopal, Popayán y Florencia. La mayoría de estas 30 IPS son de carácter público. La ciudad con mayor número de procedimientos es Bogotá, D.C., siendo el Hospital de la Misericordia el que realiza el mayor número de estas cirugías.
+La distribución por sexo y edad, que se observa en la Figura 3, muestra una frecuencia muy similar en hombres y mujeres a partir de los 30 años; en edades menores se presenta una mayor variabilidad en la edad de la intervención. La frecuencia de apendicectomías es más alta en mujeres en edades mayores a los 15 años, sin embargo, es mayor en hombres en la infancia.
+
+6.000
+
+5.000
+
+4.000
+
+3.000
+
+2.000
+
+1.000
+
+0 0
+
+5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95
+
+Mujeres
+
+Hombres
+
+Figura 2. Número de pacientes con diagnóstico de apendicitis en hombres y mujeres en Colombia en el periodo entre 2017 y 2021, según edad. Fuente: Elaboración propia de los autores.
+
+248
+
+Rev Colomb Cir. 2024;39:245-53
+
+Epidemiología de la apendicitis aguda en Colombia
+
+Tabla 2. Las 30 instituciones con más apendicectomías registradas entre 2017 y 2022, con su respectiva ciudad y número de procedimientos realizados.
+
+Institución Hospital de la Misericordia Hospital Regional de la Orinoquia Hospital Susana López de Valencia Hospital Simón Bolívar Hospital Civil Hospital María Inmaculada Hospital El Tunal Clínica del Occidente Hospital Infantil Universitario de San José Clínica Infantil Colsubsidio Hospital Departamental San Antonio Sociedad Medica Antioqueña Soma Hospital Infantil Los Ángeles Hospital Marco Fidel Suarez Hospital Universitario Erasmo Meoz Hospital de Kennedy Clínica Colsubsidio Ciudad Roma Clínica La Estancia Clínica Mediláser - Florencia Hospital Santa Clara Hospital Universitario de Santander Hospital San Rafael Clínica Partenón Hospital Departamental Mario Correa Rengifo Hospital la Divina Misericordia Clínica Mediláser - Neiva Hospital Universitario San Rafael Hospital San Vicente de Paul Hospital General de Barranquilla Los Comuneros Hospital Universitario Clínica Medical Duarte Fuente: Elaboración propia de los autores.
+
+Ciudad Procedimientos
+
+Bogotá
+
+4436
+
+Yopal
+
+3409
+
+Popayán
+
+3020
+
+Bogotá
+
+2906
+
+Ipiales
+
+2857
+
+Florencia
+
+2760
+
+Bogotá
+
+2720
+
+Bogotá
+
+2568
+
+Bogotá
+
+2549
+
+Bogotá
+
+2539
+
+Pitalito
+
+2463
+
+Medellín
+
+2436
+
+Pasto
+
+2347
+
+Bello
+
+2281
+
+Cúcuta
+
+2.213
+
+Bogotá
+
+2197
+
+Bogotá
+
+2193
+
+Popayán
+
+2129
+
+Florencia
+
+2124
+
+Bogotá
+
+2118
+
+Bucaramanga
+
+2118
+
+Facatativá
+
+2110
+
+Bogotá
+
+2060
+
+Cali
+
+2049
+
+Magangué
+
+1995
+
+Neiva
+
+1967
+
+Tunja
+
+1926
+
+Garzón
+
+1904
+
+Barranquilla
+
+1856
+
+Bucaramanga
+
+1796
+
+Cúcuta
+
+1784
+
+249
+
+Bottia-Córdoba S, Lacouture I, Rugeles S, Rosselli D
+
+Rev Colomb Cir. 2024;39:245-53
+
+4.500
+
+4.000
+
+3.500
+
+3.000 2.500
+
+Mujeres
+
+Hombres
+
+2.000
+
+1.500
+
+1.000
+
+500
+
+0 0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95
+
+Figura 3. Número de apendicectomías realizadas en hombres y mujeres en Colombia entre 2017 y 2021, según edad. Fuente: Elaboración propia de los autores.
+
+Tabla 3. Tasa de mortalidad de las apendicectomías realizadas en hombres y mujeres en Colombia entre 2017 y 2021.
+
+Edad (años) 0 - 01 01 - 05 06 - 09 10 - 14 15 - 18 19 - 26 27 - 44 45 - 59 60 o más Total
+
+Mujeres 0,60 % 0,29 % 0,43 % 0,55 % 0,48 % 0,55 % 0,58 % 0,44 % 0,33 % 0,51 %
+
+Hombres 1,23 % 0,25 % 0,50 % 0,65 % 0,52 % 0,59 % 0,64 % 0,36 % 0,42 % 0,56 %
+
+Fuente: Elaboración propia de los autores.
+
+Total 0,93 % 0,27 % 0,47 % 0,61 % 0,50 % 0,57 % 0,61 % 0,41 % 0,37 % 0,53 %
+
+Por otro lado, según los registros, fallecieron 1.095 hombres y 1.058 mujeres, lo que equivale a una mortalidad de 0,56% y 0,51%, respectivamente. La Tabla 3 presenta la tasa de mortalidad general por etapas de vida de las apendicectomías realizadas, y permite ver que la mayor tasa de mortalidad corresponde a la etapa de vida que
+
+comprende el intervalo de edades entre los 10 y 14 años para los hombres y la etapa de vida entre los 27 y 44 años para las mujeres.
+Discusión
+La apendicitis es una de las condiciones clínicas más comunes. Addiss, et al. 9, en su estudio retrospectivo analizaron la información del Centro Nacional de Estadística de Estados Unidos entre 1970 y 1984, con datos de 16.457 hospitales y documentaron aproximadamente 250.000 casos de apendicitis reportados por año. La distribución por edad tiene su pico de presentación en niños y adolescentes, entre los 10 y los 19 años. Ellos estimaron que el riesgo a lo largo de la vida es de 6,7 % para las mujeres y de 8,6 % para los hombres, aunque la probabilidad de una apendicectomía es mayor en ellas (23,1 %) que en ellos (12,0 %). La explicación podría ser que, aunque en las mujeres se sospeche una posible apendicitis, al ser abordadas con laparotomía o laparoscopia exploratoria, se encuentran problemas ginecológicos como quistes ováricos, ruptura del quiste ovárico, embarazos ectópicos, torsión ovárica o enfermedad inflamatoria pélvica 10.
+
+250
+
+Rev Colomb Cir. 2024;39:245-53
+
+Epidemiología de la apendicitis aguda en Colombia
+
+En el presente estudio, para el diagnóstico de apendicitis aguda se encontró en Colombia un número ligeramente mayor de mujeres (179.170) que de hombres (166.448), números que se acercan uno a otro en las apendicectomías (mujeres 124.894; hombres 124.456). El número de personas con diagnóstico de apendicitis y el número de apendicectomías siguen un patrón muy similar, con su pico a los 18 años, aunque es llamativo que el número de procedimientos es siempre menor que el número de diagnósticos. Una posible explicación sería que mediante el uso de tomografía computarizada preoperatoria y ultrasonido se descartan algunas apendicitis, que no son llevadas a cirugía; también, podría existir un error en la codificación de la cirugía por parte de los cirujanos.
+La apendicitis se ve en pacientes de todos los grupos etarios. En los pacientes más jóvenes con apendicitis, las mujeres tienen más imágenes preoperatorias y más complicaciones operatorias, mientras que los niños presentan más perforaciones.
+La apendicectomía es un procedimiento de emergencia y para el cual todo cirujano debe recibir entrenamiento. A diferencia de los procedimientos médicos especializados, el acceso a cualquier instalación debe permitir la atención adecuada. Mejorar el acceso a la apendicectomía en los estándares de atención local puede disminuir sustancialmente la mortalidad, lo cual demuestra que no se debe descuidar el acceso a los procedimientos de emergencia comunes.
+Las pacientes mujeres presentan más cirugías laparoscópicas que los hombres 11. Llama la atención que solamente el 16 % de todas las cirugías se hicieron por vía laparoscópica. Este hallazgo refuerza la recomendación de educar a los cirujanos en la técnica abierta, pues muchos de los hospitales en Colombia no cuentan con la tecnología necesaria para el abordaje laparoscópico. Por otro lado, es necesario aumentar la disponibilidad de estos cirujanos entrenados en todas las regiones del país 12.
+Colombia es un país de ingresos medios, con obligación al seguro de salud que cubre 97 % de la población. El sistema de salud se basa en los
+
+regímenes contributivo y subsidiado. El mayor número de apendicectomías incluidas en esta base de datos se realizó en ciudades como Bogotá, Yopal, Popayán y Florencia, en hospitales de carácter público, donde tiende a haber un mayor número de pacientes del régimen subsidiado.
+Una de las posibles relaciones a establecer es la escasez de recursos y su consecuente baja disponibilidad de imágenes diagnósticas para confirmar el diagnóstico de apendicitis, con una mayor incidencia de apendicectomías, teniendo en cuenta que el uso de la tomografía computarizada disminuye la tasa de apendicectomías no terapéuticas de 8,1 % a 4,5 %, a comparación del ultrasonido, como se publicó en un estudio retrospectivo en 15 hospitales del estado de Washington que evaluó 3450 pacientes 13. Debido a la baja disponibilidad de estos equipos imagenológicos en ámbitos rurales y de escasos recursos, el diagnóstico de la apendicitis debe hacerse por clínica, lo que puede llevar a un aumento en las apendicectomías no terapéuticas 14.
+Por otro lado, uno de los factores que influye en cuanto al pronóstico, aparición y riesgo es el peso corporal. Se ha evidenciado que en países de bajos e intermedios ingresos, como Colombia, la obesidad es más prevalente en personas con mayor educación y nivel socioeconómico 15. El bajo peso dificulta la precisión del diagnóstico de apendicitis al aumentar la tasa de apendicectomías negativas. Tanto el bajo peso como la obesidad aumentan la tasa de complicaciones y la duración de la estancia hospitalaria, aunque la apendicectomía laparoscópica podría acortar la duración de la estancia hospitalaria 16.
+En el sistema contributivo de salud de Colombia existen diferencias en cuanto a los resultados clínicos y los costos incurridos en el sistema 17. La tasa de complicaciones postoperatorias reportadas es más baja en Colombia en comparación con los Estados Unidos, sin embargo, la tasa de mortalidad hospitalaria después de complicaciones es mayor en Colombia, ya que en Colombia podría haber una menor capacidad para reconocer y tratar adecuadamente las complicaciones postoperatorias graves asociadas a la apendicitis 18.
+
+251
+
+Bottia-Córdoba S, Lacouture I, Rugeles S, Rosselli D
+
+Rev Colomb Cir. 2024;39:245-53
+
+Conclusiones
+El propósito de este estudio es enriquecer la comprensión y la información disponible en la literatura acerca de la epidemiología de la apendicitis y las apendicectomías en nuestro país. Este trabajo ayuda a establecer un fundamento sólido para investigaciones posteriores relacionadas con esta patología, lo cual a su vez influye en la toma de decisiones en el ámbito de la salud pública.
+Cumplimiento de normas éticas
+Consentimiento Informado: Se enfatizó que en esta investigación no se requirió obtener el consentimiento informado de ningún participante o sujeto de investigación, dado que no se involucraron personas vivas. Todas las actividades de investigación se llevaron a cabo respetando los más altos estándares éticos y dentro del marco de la Resolución 008430 de 1993 del Ministerio de Salud de Colombia.
+Conflictos de intereses: Los autores declararon de manera categórica que ninguno de los autores de este artículo tiene conflictos de intereses, ya sea de índole laboral o financiera, que pueda influir en los resultados o conclusiones presentados en el trabajo.
+Uso de inteligencia artificial: Los autores dejaron constancia de que en ninguna fase de este estudio, incluyendo la redacción, el análisis de datos y la recolección de información, se utilizó asistencia de herramientas de inteligencia artificial u otras tecnologías automatizadas para procesar o generar datos o resultados.
+Fuentes de financiación: Los autores confirmaron que no se recibieron financiación o apoyo económico de ninguna fuente externa para la realización de este estudio.
+Contribución de los autores - Concepción y diseño del estudio: Santiago Bottia,
+Isabella Lacouture, Saúl Rugeles, Diego Rosselli.
+- Recolección de datos: Santiago Bottia, Isabella Lacouture, Saúl Rugeles, Diego Rosselli.
+- Análisis de datos: Santiago Bottia, Isabella Lacouture, Saúl Rugeles, Diego Rosselli.
+- Redacción del manuscrito: Santiago Bottia, Isabella Lacouture, Saúl Rugeles, Diego Rosselli.
+- Revisión y aprobación del manuscrito: Santiago Bottia, Isabella Lacouture, Saúl Rugeles, Diego Rosselli.
+
+Referencias
+1. Krzyzak M, Mulrooney SM. Acute appendicitis review: Background, epidemiology, diagnosis, and treatment. Cureus. 2020;12:e8562. https://doi.org/10.7759/cureus.8562
+2. Castellanos-Méndez JS, Simmonds-Campbell N, Buitrago-Gutiérrez G. Mortalidad perioperatoria de pacientes sometidos a apendicectomías en el régimen contributivo de Colombia. Rev Colomb Cir. 2021;36:91-7. https://doi.org/10.30944/20117582.668
+3. Mosquera M, Kadamani A, Pacheco M, Villarreal R, Ayala JC, Fajardo LP, et al. Apendicectomía laparoscópica versus abierta: comparables... Rev Colomb Cir. 2012;27:121-8.
+4. Toro JP, Barrera OJ, Morales CH. Superioridad clínica de la apendicectomía laparoscópica sobre la técnica abierta: ¿adopción lenta de un nuevo estándar de tratamiento? Rev Colomb Cir. 2017;32:32-9. https://doi.org/10.30944/20117582.5
+5. Ruiz-Patiño A, Rey S, Molina G, Dominguez LC, Rugeles S. Cost-effectiveness of laparoscopic versus open appendectomy in developing nations: a Colombian analysis. J Surg Res. 2018;224:33-7. https://doi.org/10.1016/j.jss.2017.11.007
+6. Mendoza-Ortiz B, Herrera-Tarapues JC, Mendoza-Ortiz A, Quemba-Mesa MP. Comparación de la seguridad y la eficacia del uso de antibióticos frente a la apendicectomía en el tratamiento de la apendicitis no complicada en adultos. Revisión sistemática y metaanálisis. Rev Colomb Cir. 2023;38:108-20. https://doi.org/10.30944/20117582.2188
+7. Sallinen V, Akl EA, You JJ, Agarwal A, Shoucair S, Vandvik PO, et al. Meta-analysis of antibiotics versus appendicectomy for non-perforated acute appendicitis. Br J Surg. 2016;103:656-67. https://doi.org/10.1002/bjs.10147
+8. Rosselli D, Pantoja-Ruiz C. SISPRO: La base de datos administrativa del sistema de salud colombiano. Acta Neurol Colomb. 2022;38:187-90. https://doi.org/10.22379/24224022426
+9. Addiss DG, Shaffer N, Fowler BS, Tauxe RV. The epidemiology of appendicitis and appendectomy in the United States. Am J Epidemiol. 1990;132:910-25. https://doi.org/10.1093/oxfordjournals.aje.a115734
+10. Smith MP, Katz DS, Lalani T, Carucci LR, Cash BD, Kim DH, et al. ACR appropriateness criteria® right lower quadrant pain—suspected appendicitis. Ultrasound Q. 2015;31:85-91. https://doi.org/10.1097/ruq.0000000000000118
+11. Stein GY, Rath-Wolfson L, Zeidman A, Eli A, Ohad M, Samia J, et al. Sex differences in the epidemiology, seasonal variation, and trends in the management of patients with acute appendicitis. Langenbecks Arch Surg. 2012;97:1087-92. https://doi.org/10.1007/s00423-012-0958-0
+
+252
+
+Rev Colomb Cir. 2024;39:245-53
+
+Epidemiología de la apendicitis aguda en Colombia
+
+12. Reuter A, Rogge L, Monahan M, Kachapila M, Morton DG, Davies J, et al. Global economic burden of unmet surgical need for appendicitis. Br J Surg. 2022;109:9951003. https://doi.org/10.1093/bjs/znac195
+13. Florence M, Flum DR, Jurkovich GJ, Lin P, Steele SR, Symons RG, et al. Negative appendectomy and imaging accuracy in the Washington State Surgical Care and Outcomes Assessment Program. Ann Surg. 2008;248:55763. https://doi.org/10.1097/SLA.0b013e318187aeca
+14. Bessoff KE, Forrester JD. Appendicitis in low-resource settings. Surg Infect (Larchmt). 2020;21:523-32. https://doi.org/10.1089/sur.2019.365
+15. Dinsa GD, Goryakin Y, Fumagalli E, Suhrcke M. Obesity and socioeconomic status in developing countries: a systematic review. Obes Rev. 2012;13:1067-79. https://doi.org/10.1111/j.1467-789x.2012.01017.x
+
+16. Timmerman MEW, Groen H, Heineman E, Broens PMA. The influence of underweight and obesity on the diagnosis and treatment of appendicitis in children. Int J Colorectal Dis. 2016;31:1467-73. https://doi.org/10.1007/s00384-016-2614-6
+17. Merlano-Porras CA, Gorbanev I. Sistema de salud en Colombia: una revisión sistemática de literatura. Rev Gerenc Polit Salud. 2013;24:74-86. https://doi.org/10.11144/Javeriana.rgsp12-24.sscr
+18. Rosero EB, Eslava-Schmalbach J, Garzón-Orjuela N, Buitrago G, Joshi GP. Failure to rescue and mortality differences after appendectomy in a low-middle-income country and the United States. Anesth Analg. 2023;136:1030-8. https://doi.org/10.1213/ANE.0000000000006336
+
+253

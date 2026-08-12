@@ -1,0 +1,145 @@
+{
+  "caso_tray_pac_42_00017_14": {
+    "caso_id": "caso_tray_pac_42_00017_14",
+    "label": "rojo",
+    "estilo": "confundido",
+    "dia": 14,
+    "a": {
+      "criticidad": "rojo",
+      "escalate": true,
+      "vd_rule": "VD-01"
+    },
+    "b": null,
+    "error": "turno 2: 6 frenos seguidos"
+  },
+  "caso_tray_pac_42_00017_7": {
+    "caso_id": "caso_tray_pac_42_00017_7",
+    "label": "rojo",
+    "estilo": "minimizador_sintomas",
+    "dia": 7,
+    "a": {
+      "criticidad": "rojo",
+      "escalate": true,
+      "vd_rule": "VD-01"
+    },
+    "b": null,
+    "error": "turno 1: 6 frenos seguidos"
+  },
+  "caso_tray_pac_42_00019_14": {
+    "caso_id": "caso_tray_pac_42_00019_14",
+    "label": "rojo",
+    "estilo": "confundido",
+    "dia": 14,
+    "a": {
+      "criticidad": "rojo",
+      "escalate": true,
+      "vd_rule": "VD-01"
+    },
+    "b": null,
+    "error": "turno 1: 6 frenos seguidos"
+  },
+  "caso_tray_pac_42_00019_7": {
+    "caso_id": "caso_tray_pac_42_00019_7",
+    "label": "rojo",
+    "estilo": "colaborativo",
+    "dia": 7,
+    "a": {
+      "criticidad": "rojo",
+      "escalate": true,
+      "vd_rule": "VD-01"
+    },
+    "b": null,
+    "error": "turno 1: 6 frenos seguidos"
+  },
+  "caso_tray_pac_42_00026_14": {
+    "caso_id": "caso_tray_pac_42_00026_14",
+    "label": "rojo",
+    "estilo": "evasivo",
+    "dia": 14,
+    "a": {
+      "criticidad": "rojo",
+      "escalate": true,
+      "vd_rule": "VD-01"
+    },
+    "b": null,
+    "error": "turno 1: 6 frenos seguidos"
+  },
+  "caso_tray_pac_42_00026_7": {
+    "caso_id": "caso_tray_pac_42_00026_7",
+    "label": "rojo",
+    "estilo": "confundido",
+    "dia": 7,
+    "a": {
+      "criticidad": "rojo",
+      "escalate": true,
+      "vd_rule": "VD-01"
+    },
+    "b": null,
+    "error": "turno 2: 6 frenos seguidos"
+  },
+  "caso_tray_pac_42_00027_14": {
+    "caso_id": "caso_tray_pac_42_00027_14",
+    "label": "rojo",
+    "estilo": "minimizador_sintomas",
+    "dia": 14,
+    "a": {
+      "criticidad": "rojo",
+      "escalate": true,
+      "vd_rule": "VD-01"
+    },
+    "b": null,
+    "error": "turno 1: 6 frenos seguidos"
+  },
+  "caso_tray_pac_42_00027_7": {
+    "caso_id": "caso_tray_pac_42_00027_7",
+    "label": "rojo",
+    "estilo": "confundido",
+    "dia": 7,
+    "a": {
+      "criticidad": "rojo",
+      "escalate": true,
+      "vd_rule": "VD-01"
+    },
+    "b": null,
+    "error": "turno 1: 6 frenos seguidos"
+  },
+  "caso_tray_pac_42_00028_14": {
+    "caso_id": "caso_tray_pac_42_00028_14",
+    "label": "rojo",
+    "estilo": "ansioso",
+    "dia": 14,
+    "a": {
+      "criticidad": "rojo",
+      "escalate": true,
+      "vd_rule": "VD-01"
+    },
+    "b": null,
+    "error": "turno 1: 6 frenos seguidos"
+  },
+  "caso_tray_pac_42_00028_7": {
+    "caso_id": "caso_tray_pac_42_00028_7",
+    "label": "rojo",
+    "estilo": "minimizador_sintomas",
+    "dia": 7,
+    "a": {
+      "criticidad": "rojo",
+      "escalate": true,
+      "vd_rule": "VD-01"
+    },
+    "b": null,
+    "error": "turno 1: 6 frenos seguidos"
+  },
+  "caso_tray_pac_42_00030_14": {
+    "caso_id": "caso_tray_pac_42_00030_14",
+    "label": "rojo",
+    "estilo": "minimizador_sintomas",
+    "dia": 14,
+    "a": {
+      "criticidad": "rojo",
+      "escalate": true,
+      "vd_rule": "VD-01"
+    },
+    "b": null,
+    "error": "turno 1: 6 frenos seguidos"
+  }
+}

@@ -1,0 +1,705 @@
+Clinical Review & Education
+
+JAMA | Review
+Diagnosis and Management of Acute Appendicitis in Adults A Review
+Dimitrios Moris, MD, MSc, PhD; Erik Karl Paulson, MD; Theodore N. Pappas, MD
+
+IMPORTANCE Acute appendicitis is the most common abdominal surgical emergency in the world, with an annual incidence of 96.5 to 100 cases per 100 000 adults.
+OBSERVATIONS The clinical diagnosis of acute appendicitis is based on history and physical, laboratory evaluation, and imaging. Classic symptoms of appendicitis include vague periumbilical pain, anorexia/nausea/intermittent vomiting, migration of pain to the right lower quadrant, and low-grade fever. The diagnosis of acute appendicitis is made in approximately 90% of patients presenting with these symptoms. Laparoscopic appendectomy remains the most common treatment. However, increasing evidence suggests that broad-spectrum antibiotics, such as piperacillin-tazobactam monotherapy or combination therapy with either cephalosporins or fluroquinolones with metronidazole, successfully treats uncomplicated acute appendicitis in approximately 70% of patients. Specific imaging findings on computed tomography (CT), such as appendiceal dilatation (appendiceal diameter Ն7 mm), or presence of appendicoliths, defined as the conglomeration of feces in the appendiceal lumen, identify patients for whom an antibiotics-first management strategy is more likely to fail. CT findings of appendicolith, mass effect, and a dilated appendix greater than 13 mm are associated with higher risk of treatment failure (≈40%) of an antibiotics-first approach. Therefore, surgical management should be recommended in patients with CT findings of appendicolith, mass effect, or a dilated appendix who are fit for surgery, defined as having relatively low risk of adverse outcomes or postoperative mortality and morbidity. In patients without high-risk CT findings, either appendectomy or antibiotics can be considered as first-line therapy. In unfit patients without these high-risk CT findings, the antibiotics-first approach is recommended, and surgery may be considered if antibiotic treatment fails. In unfit patients with high-risk CT findings, perioperative risk assessment as well as patient preferences should be considered.
+CONCLUSIONS AND RELEVANCE Acute appendicitis affects 96.5 to 100 people per 100 000 adults per year worldwide. Appendectomy remains first-line therapy for acute appendicitis, but treatment with antibiotics rather than surgery is appropriate in selected patients with uncomplicated appendicitis.
+JAMA. 2021;326(22):2299-2311. doi:10.1001/jama.2021.20502
+
+Multimedia JAMA Patient Page page 2339 CME Quiz at jamacmelookup.com
+Author Affiliations: Department of Surgery, Duke University Medical Center, Durham, North Carolina (Moris, Pappas); Department of Radiology, Duke University Medical Center, Durham, North Carolina (Paulson). Corresponding Author: Theodore N. Pappas, MD, Department of Surgery, Duke University Medical Center, 2301 Erwin Rd, Durham, NC 27710 (theodore.pappas@duke.edu). Section Editor: Mary McGrae McDermott, MD, Deputy Editor.
+
+A ppendicitis is defined as inflammation of the vermiform appendix and worldwide is the most common reason for emergency abdominal surgery. Globally, the annual incidence is 96.5 to 100 cases per 100 000 adult population.1,2 The diagnosis of acute appendicitis is based on history and physical, laboratory evaluation, and imaging. With these diagnostic methods, early and accurate diagnosis of acute appendicitis can be typically achieved in an estimated more than 90% of patients,3 including in premenopausal women, for whom gynecologic pathologies can mimic appendicitis, and in older patients, for whom appendicitis can present with nonclassical clinical features (ie, generalized instead of localized abdominal pain, lack of leukocytosis).4
+Open appendectomy has been standard treatment for appendicitis since 1735.5 Over the past 40 years, laparoscopy gradually
+
+became the routine surgical treatment. Compared with an open approach, laparoscopic appendectomy is associated with less postoperative pain and faster recovery, earlier hospital discharge, and faster return to normal state of health.6-8 Recent clinical trials have suggested that it is feasible and effective to treat acute uncomplicated appendicitis nonoperatively with antibiotics alone.9-15 This review summarizes current evidence regarding diagnosis and management of acute appendicitis in adults.
+Discussions and Observations
+Methods The MEDLINE/PubMed, Scopus, Cochrane, and EMBASE databases were searched for English-language studies on the diagnosis
+
+jama.com
+
+(Reprinted) JAMA December 14, 2021 Volume 326, Number 22 2299
+
+© 2021 American Medical Association. All rights reserved. Downloaded from jamanetwork.com by Pontificia Universidad Javeriana user on 08/14/2024
+
+Clinical Review & Education Review
+
+Diagnosis and Management of Acute Appendicitis
+
+Figure 1. Pathophysiology of Acute Appendicitis
+1 Initiation of acute appendicitis with lumen obstruction and mucus accumulation
+
+2 Progression with increased luminal pressure, appendiceal distention, and inflammation
+
+3 Rupture of the necrotic appendiceal wall and subsequent release of bacteria and pus
+
+ILEUM
+CECUM
+Mesoappendix Obstruction
+
+Appendix
+
+Potential causes of obstruction Appendicoliths (feces) Calculi Lymphoid hyperplasia Infection Benign or malignant tumors
+
+Mucus
+
+sure Luminal pres
+
+Inflammation
+
+Early necrosis
+
+Thrombosis
+Ischemia
+Bacteria buildup
+Increasing luminal pressure causes small vessel thrombosis and lymphatic flow stasis, resulting in tissue ischemia and bacteria buildup.
+
+Perforation
+ABSCESS
+Advanced necrosis
+Perforation of the appendix and bacteria in the peritoneal space lead to the formation of abscess, phlegmon, or generalized peritonitis.
+
+and management of adult acute appendicitis published from January 2003 to October 2021. The search strategy used a simple algorithm (appendicitis AND adult). This strategy revealed 5728 articles eligible for further evaluation. In addition, a manual search was performed by searching through the references of the included articles, relevant reviews, and articles in PubMed to avoid missing any important data. Exclusion criteria included any study without full-text availability, non–peer-reviewed publications (theses, book chapters, conference posters), animal studies, studies without extractable data and duplicate or overlapping data sets. Last, we excluded case reports and small case series (<50 patients). Studies of the diagnosis and management of acute appendicitis in children were also excluded.
+A total of 71 articles were included in this manuscript, including 11 clinical trials, 30 observational longitudinal studies, 10 systematic reviews, 9 meta-analyses, and 11 practice guidelines relevant to a general medical audience.
+Pathogenesis Appendiceal outlet obstruction has been proposed as the primary factor that initiates appendicitis.16,17 Appendiceal outlet obstruction may be caused by appendicoliths, defined as the conglomeration of feces in the appendiceal lumen, calculi, lymphoid hyperplasia, infection, and benign or malignant tumors. In young adults, lymphoid follicular hyperplasia due to infection is thought to be the main cause of acute appendicitis, whereas in elderly patients, luminal obstruction by appendicolith or mass is more likely.
+Acute appendicitis begins with inflammation of the appendiceal wall that is followed by localized ischemia, perforation, and the development of a contained abscess or generalized peritonitis (Figure 1). The obstruction of the appendiceal lumen leads to increased luminal and intramural pressure, resulting in thrombosis of small vessels in the appendiceal wall and lymphatic flow stasis.
+
+As lymphatic and vascular compromise progress, the wall of the appendix becomes ischemic and eventually necrotic. In the presence of ischemia, antibiotics may be unable to effectively inhibit the inflammatory and infectious processes, which may explain why some patients with acute uncomplicated appendicitis do not improve with use of antibiotics. It may also explain why antibiotics-first management is more likely to fail in patients with appendicoliths that obstruct the appendiceal lumen and create a closed-space infection. As the appendix becomes dilated and congested, the T8-T10 visceral afferent nerves are stimulated, leading to vague periumbilical abdominal pain.18 Irritation of the surrounding parietal peritoneum stimulates somatic nerves, which is clinically manifest as right lower quadrant pain.19
+The most common bacterial phyla associated with acute appendicitis are Firmicutes (≈37%), Proteobacteria (≈24%), Bacteroidetes (≈18%), and Actinobacteria (16%).20 Aerobic organisms predominate in early appendicitis, while mixed infection is more common in late appendicitis.21 Common organisms involved in gangrenous and perforated appendicitis include Escherichia coli, Peptostreptococcus, Bacteroides fragilis, and Pseudomonas species.22
+Epidemiology Acute appendicitis is most frequent during the second and third decades of life, whereas children 9 years or younger have the lowest incidence.23,24 Appendicitis is more common among men (malefemale ratio, 1.4:1), who have a lifetime incidence of 8.6% compared with 6.7% for women.23,24 People with a higher income ($44 691 vs $30 027) and education (college-educated vs non– college-educated patients) have a lower incidence of acute appendicitis.24 The incidence of perforated appendicitis has been increasing despite a decline in the overall incidence of acute appendicitis.25 Men are more likely to have perforated appendicitis than women (31 vs 25 per 100 000 person-years).24
+
+2300 JAMA December 14, 2021 Volume 326, Number 22 (Reprinted) © 2021 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Pontificia Universidad Javeriana user on 08/14/2024
+
+jama.com
+
+Diagnosis and Management of Acute Appendicitis
+
+Review Clinical Review & Education
+
+Table 1. Clinical Symptoms and Signs for the Diagnosis of Acute Appendicitis
+
+Symptoms26-31 Fevera
+
+% Sensitivity
+60-75
+
+Right lower quadrant abdominal pain
+Nausea
+Emesis
+Onset of pain before vomiting
+Anorexia
+Migrating abdominal pain
+Signs3,19,29,30,32-36
+McBurney sign (tenderness at the point one-third of the distance from the right anterior superior iliac spine to the umbilicus)
+Rovsing sign (pain in the right lower quadrant with palpation of the left lower quadrant)
+Psoas sign (right lower quadrant abdominal pain with passive right hip extension)
+Obturator sign (right lower quadrant abdominal pain with flexion of the right hip and knee, followed by internal rotation of the right hip)
+Guarding (reflex contraction or spasm of the abdominal muscles on palpation)
+Rebound tenderness (pain on removal of pressure rather than application of pressure to the abdomen)
+Rigidity (involuntary tightening of the abdominal musculature)
+
+80-90 58-68 50-60 90-100 80-90 55-75 50-94
+22-68 13-42 5-15
+39-74 55-70
+20-30
+
+Specificity 65-75 40-60 40-50 45-69 55-70 55-70 70-90 75-86
+58-96 79-97 90-95
+57-84 65-80
+80-90
+
+Other considerations
+Nonspecific symptom. Usually low-grade The single most important symptom, present in >90% of patients Frequency of 80%-90% Frequency 75% Frequency >90% Frequency of 90% Frequency of 50%
+The single most important sign
+Absence of these signs does not exclude appendicitis
+Positive sign associated with appendix located behind the peritoneum and cecum Positive sign associated with extension of appendix into pelvis
+Positive sign associated with localized peritoneal inflammation
+Positive sign associated with peritonitis
+Positive sign associated with intra-abdominal infection
+
+a Both symptom and sign.
+
+Clinical Presentation History and physical examination are the initial steps in diagnosing acute appendicitis (Table 1). Classically, abdominal pain is the first symptom of appendicitis and typically presents in the periumbilical region. Approximately 50% to 60% of patients with appendicitis who present with periumbilical pain report migration of the pain to the right lower quadrant within 24 hours.3,18,26,37 Approximately 80% to 85% of patients report anorexia after the onset of abdominal pain and 40% to 60% report nausea with or without emesis.27 Common signs include fever, McBurney sign (tenderness at the point one-third of the distance from the right anterior superior iliac spine to the umbilicus [sensitivity, 50%94%; specificity, 75%-86%]),28,32 Rovsing sign (pain in the right lower quadrant with palpation of the left lower quadrant [sensitivity, 22%-68%; specificity, 58%-96%]),33,37 psoas sign (right lower quadrant abdominal pain with passive right hip extension [sensitivity, 13%-42%; specificity, 79%-97%]),34 and obturator sign (right lower quadrant pain with flexion of the right hip and knee, followed by internal rotation of the right hip [sensitivity, 8%; specificity, 94%]).26,29
+Laboratory evaluation of patients with suspected appendicitis should include a complete blood cell count with differential.3,19,26-36 A mild leukocytosis (white blood cell count >10 000/μL) is present in 67% to 90% of patients with acute appendicitis, and approximately 80% have a left shift in the differential.38 The sen-
+
+sitivity and specificity of an elevated white blood cell count in acute appendicitis are approximately 70% to 80% and 55% to 65%, respectively.38,39 Evaluation for alternative diagnoses can include urine analysis (to rule out urinary tract infection) and pelvic examination with urine β-human chorionic gonadotropin level (to rule out uterine or ectopic pregnancy).3,37
+Assessment and Diagnosis Appendicitis is classified as uncomplicated or complicated. Uncomplicated appendicitis is defined by acute appendicitis without clinical or radiographic signs of perforation (inflammatory mass, phlegmon, or abscess). Complicated appendicitis is defined by appendiceal rupture with subsequent abscess or phlegmon formation. Rates of complicated appendicitis are higher among men and older people.40 Symptom duration more than 24 hours is a risk factor for perforation; however, the time course of progression of appendicitis to necrosis and perforation varies. Perforation can develop in less than 24 hours after symptom onset and should always be part of the differential diagnosis. In cases of diagnostic uncertainty, imaging should be performed. For young women of reproductive age with suspected appendicitis, the most common misdiagnoses include pelvic inflammatory disease, gastroenteritis, abdominal pain of unknown origin, urinary tract infection, ruptured ovarian follicle, and ectopic pregnancy.
+
+jama.com
+
+(Reprinted) JAMA December 14, 2021 Volume 326, Number 22 2301
+
+© 2021 American Medical Association. All rights reserved. Downloaded from jamanetwork.com by Pontificia Universidad Javeriana user on 08/14/2024
+
+Clinical Review & Education Review
+
+Diagnosis and Management of Acute Appendicitis
+
+The most common modalities for imaging are ultrasound and computed tomography (CT). In the US, in patients with suspected appendicitis, CT is the first line imaging modality in most centers because of its widespread availability and acceptance by surgeons, standardized technique, rapid acquisition, and ability to identify alternative diagnoses. The American College of Radiology recommends CT as the study of choice for adults presenting with right lower quadrant pain with suspected appendicitis41,42 because it is highly sensitive (91% [95% CI, 84%-95%]) and specific (90% [95% CI, 85%-94%]) for the diagnosis of acute appendicitis and has superior diagnostic accuracy compared with ultrasound (sensitivity, 78% [95% CI, 67%-86%]; specificity, 83% [95% CI, 76%-88%]).43,44 In a meta-analysis of 671 patients with suspected appendicitis, CT was associated with a sensitivity of 96% and specificity of 94% for the diagnosis of acute appendicitis.45 Intravenous contrast administration is recommended because it improves examination accuracy, particularly in patients with appendiceal perforation or abscess formation, and facilitates detection of alternative disease processes. Noncontrast CT is an acceptable alternative, however, if intravenous contrast is contraindicated because of the relatively high diagnostic accuracy of CT without contrast.46,47 The routine administration of oral contrast is not necessary in the setting of suspected acute appendicitis.48
+In addition to the high diagnostic accuracy, CT is a costeffective tool in guiding management because its application in patients with suspected appendicitis leads to fewer negative appendectomies (defined as operations performed for suspected appendicitis in which the appendix is found to be normal on histologic evaluation), avoidance of unnecessary hospital admissions, and prompt identification of alterative disease processes.49,50 A limitation of CT is exposure to ionizing radiation. Thus, discussion between physician and patient should take place about the risks and benefits of CT after taking into consideration the individual patient characteristics including age, potential for alternative diagnoses, and pregnancy. However, improvements in imaging technology over the last decade have reduced the radiation dose per scan,51 without decreasing diagnostic accuracy.52
+Ultrasound is also commonly used in the assessment of appendicitis because of its widespread availability, portability, and lack of ionizing radiation. According to the European Association for Endoscopic Surgery (EAES), ultrasound is the first modality recommended for patients with suspected appendicitis, although it is acknowledged that a negative ultrasound or nonvisualization of the appendix does not exclude acute appendicitis.35 Since the EAES acknowledges the decreased accuracy of ultrasound in patients with obesity, it recommends CT scanning as the second-line diagnostic imaging method that can be used when ultrasound findings are equivocal.35 Ultrasound is particularly well-suited for pediatric patients and pregnant women, given its accuracy and lack of ionizing radiation exposure.51,53,54
+A principal disadvantage of ultrasound is the potential for nonvisualization of the appendix, which can be due to a large body habitus, pregnancy, overlying bowel loops, an atypical appendix location, and sonographer experience. More specifically, a retrospective analysis of 705 patients with acute appendicitis showed that 42% of patients with body mass index greater than or equal to 25 (calculated as weight in kilograms divided by
+
+height in meters squared) had nondiagnostic ultrasound examinations, compared with 6% in patients with a body mass index less than 25 (P < .001).55 Similarly, older age is also found to be associated with nondiagnostic ultrasound.56 In most settings, nonvisualization of the appendix should be considered a nondiagnostic examination and further clinical follow-up or repeat imaging with CT should be arranged.
+At most institutions, magnetic resonance imaging (MRI) plays a limited role in the diagnosis of patients with possible acute appendicitis because of its higher costs, limited availability, and lower experience using MRI to diagnose possible appendicitis, compared with CT. MRI may be used when there is a concern about ionizing radiation, most commonly in pregnant women and children57,58 (Table 2).3,42,44,46-48,51,53,54,56-64
+Findings of acute uncomplicated appendicitis on CT include dilated appendix (Ն7 mm); appendiceal wall thickening, hyperenhancement, or both; and inflammatory stranding of the periappendiceal fat tissue. Since the pathophysiology of acute appendicitis is characterized by appendiceal luminal obstruction and inflammation, in the absence of inflammatory changes the presence of gas within the appendiceal lumen generally suggests patency with the cecum and excludes acute appendicitis. CT findings of acute complicated appendicitis include extraluminal appendicoliths, abscess formation, appendiceal wall defect, extraluminal gas, ileus, periappendiceal or free intraperitoneal fluid, and severe periappendiceal inflammation or phlegmon.
+Appendicoliths are incidentally discovered by CT in approximately 4% of asymptomatic patients.59 However, approximately 40% of patients with acute appendicitis have appendicoliths identified by CT.59 Ranieri et al59 showed that in 248 patients with acute appendicitis, the presence of appendicoliths was associated with more extensive or severe inflammation and an increased (38.7% vs 4.4%) risk of perforation (P < .05 for both). In a single-center study of 94 patients with surgically proven appendicitis, Horrow et al60,65 reported that the presence of appendiceal wall defect, severe inflammation or phlegmon, fluid collection, extraluminal gas, or extraluminal appendicoliths were highly specific for appendiceal rupture (specificities were 100% for all findings with the exception of phlegmon, for which specificity was 95%), but these findings lacked sensitivity (36% for appendiceal wall defect, 46% for severe inflammation or phlegmon, 36% for fluid collection, 21% for extraluminal gas, and 64% for extraluminal appendicoliths). In a meta-analysis of 4427 patients, extraluminal appendicoliths, abscess, extraluminal gas, and appendiceal wall defects were specific (70%-100%) for the diagnosis of complicated appendicitis, although relatively insensitive (14%-59%).61 Conversely, the presence of severe periappendiceal inflammation was sensitive (86%-98%) but not specific (23%-60%) for perforation.66
+Management of Acute Appendicitis Surgical Management Appendectomy is a definitive treatment of acute appendicitis because the whole vermiform appendix is resected during the operation. In 1980, the first case of successful laparoscopic treatment of appendicitis was described.67 Since then, laparoscopic appendectomy has emerged as the preferred surgical approach. Laparoscopy allows direct visualization of the abdominal cavity,
+
+2302 JAMA December 14, 2021 Volume 326, Number 22 (Reprinted) © 2021 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Pontificia Universidad Javeriana user on 08/14/2024
+
+jama.com
+
+Diagnosis and Management of Acute Appendicitis
+
+Review Clinical Review & Education
+
+Table 2. Performance of Imaging Modalities in the Evaluation of a Patient With Possible Acute Appendicitis
+
+Imaging modality Sensitivity Specificity Advantages
+Disadvantages
+Diagnostic criteria
+
+CT3,42,44,46-48,51,56,57,59-63
+0.96 (0.95-0.97)
+0.96 (0.93-0.97)
+• High diagnostic accuracy • Lowest rates of
+indeterminate examinations (80%-90% of normal appendix visualized) • Associated with decrease in the number of unnecessary surgical appendectomies
+• Ionizing radiation exposure • Intravenous iodinated
+contrast needed for optimum diagnostic performance
+Abnormal appendix identified or calcified appendicolith seen in association with periappendiceal inflammation or diameter >7 mm
+
+MRI3,42,44,48,51,56,57,59,62
+0.95 (0.88-0.98)
+0.92 (0.87-0.95)
+• No ionizing radiation • High diagnostic accuracy • Moderate rates of
+nondiagnostic examinations (20%-30% normal appendices not visualized) • Appropriate for pregnant patients when CT is contraindicated • Limited availability • Longer scanning time
+Inflamed appendix has a caliber >7 mm and a thickened wall that appears hypointense on T1-weighted images and hyperintense on T2-weighted images; periappendiceal fat inflammation has a hyperintense signal on T2-weighted images, a finding consistent with edema
+
+Ultrasound3,42,44,53,54,56-58,62,64 0.85 (0.79-0.90) 0.90 (0.83-0.95) • No ionizing radiation • Easy to use, portable • Appropriate for pediatric
+and pregnant patients
+• Lower diagnostic accuracy than CT or MRI
+• Patient- and operator-dependent variability in diagnostic performance
+• High rates of indeterminate examinations (>50% of normal appendices not visualized)
+Aperistaltic and noncompressible structure with diameter >7 mm
+
+Abbreviations: CT, computed tomography; MRI, magnetic resonance imaging.
+
+thereby confirming or excluding the diagnosis of appendicitis in patients with equivocal presentations and reducing rates of unnecessary appendectomy.30 A retrospective study of 198 patients with acute appendicitis showed that, compared with open appendectomy (n = 105), laparoscopy (n = 93) was the preferred treatment for appendicitis because of shorter hospitalization (2.6 vs 3.4 days, P < .01), earlier return to routine activity (14 vs 21 days, P < .02), shorter duration of parenteral analgesia (1.6 vs 2.2 days, P < .01),68 and lower rates of surgical site infection (48%-70% decrease, P < .01).6,68 The Society of American Gastrointestinal and Endoscopic Surgeons recommends laparoscopic appendectomy as the treatment of choice in adult patients with acute uncomplicated appendicitis and in suspected appendicitis in pregnant women.69
+Standard care for patients undergoing surgery for acute appendicitis includes preoperative receipt of a single dose of intravenous broad-spectrum antibiotics (a single dose of cefoxitin or cefotetan, or the combination of cefazolin plus metronidazole),70 since this strategy reduced the risk of wound infection associated with appendectomy.70 Postoperative antibiotics are not necessary.71 However, in patients with appendicitis scheduled for appendectomy and anticipated delayed surgical management, broadspectrum intravenous antibiotics can be started as soon as possible, often in the emergency department.
+Antibiotics Alone for Treating Acute Appendicitis Several randomized trials as well as systematic reviews suggested that approximately 60% of adult patients with acute uncomplicated appendicitis can be treated successfully with antibiotics.9-15,72-75 The emerging data supporting the role of an antibiotics-first approach
+
+in acute uncomplicated appendicitis were included in the guidelines from American Association for the Surgery of Trauma,76 the World Society of Emergency Surgery,62 and the Eastern Association for the Surgery of Trauma.77
+For patients with acute uncomplicated appendicitis, empirical broad-spectrum antibiotic coverage, including intravenous ertapenem monotherapy or inpatient treatment with intravenous cephalosporin plus metronidazole that can be transitioned to outpatient treatment with oral fluoroquinolones plus metronidazole, are commonly used.78 For patients with complicated appendicitis, source control with percutaneous drainage and empirical broad-spectrum therapy with activity against gram-negative rods and anaerobic organisms are recommended. The antibiotic therapies most commonly prescribed are ertapenem or piperacillin-tazobactam monotherapy or combined therapy with either cephalosporins or fluroquinolones with metronidazole.78 The selection of the antibiotic coverage is empirical, based on the expected microorganisms involved in the pathogenesis of acute appendicitis as well as the severity of intra-abdominal infection, the presence of risk factors for antibiotic resistance, and/or history of treatment failure of specific antibiotics for prior infections. Other factors affecting the selection of antibiotics include recent travel to areas with high rates of antibiotic-resistant organisms, known colonization with such organisms, advanced age, immunocompromising conditions, or other major medical comorbidities. Both complicated and uncomplicated appendicitis are considered mild to moderate community-acquired intra-abdominal infections in patients without risk factors for antibiotic resistance or treatment failure. Therefore, for most patients, antibiotics that cover streptococci,
+
+jama.com
+
+(Reprinted) JAMA December 14, 2021 Volume 326, Number 22 2303
+
+© 2021 American Medical Association. All rights reserved. Downloaded from jamanetwork.com by Pontificia Universidad Javeriana user on 08/14/2024
+
+Clinical Review & Education Review
+
+Diagnosis and Management of Acute Appendicitis
+
+nonresistant Enterobacteriaceae, and anaerobes are usually adequate. In patients at high risk for adverse outcomes or resistance, broader empirical coverage including Pseudomonas aeruginosa and Enterobacteriaceae is required.79
+The duration of antibiotic therapy depends on the disease status. In patients with uncomplicated appendicitis treated nonoperatively, the recommended duration of antibiotics is 10 days.80 In patients with complicated appendicitis, where source control of the intra-abdominal infection has been achieved, 4 days of antibiotics are adequate.81,82
+In most clinical trials that compare an antibiotics-first approach with a surgical approach, the diagnosis of acute uncomplicated appendicitis was established with imaging, primarily ultrasound and CT.9-15,72-75 In most studies, the primary end point was treatment failure at 1-year follow-up, defined as recurrence of symptoms during the 1-year period. In the antibiotics-first group, the recurrence rate varied from 15% to 41%.9-15,72-75 The recurrence of symptoms after appendectomy was not evaluated in these trials because recurrent appendicitis rarely occurs after surgical appendectomy (approximately 1 in 50 000 appendectomies). Recurrent appendicitis is typically caused by inflammation of the appendiceal stump in patients who inadvertently have only a portion of their appendix removed or by inflammation of a retained appendiceal tip, which is a unique entity that can also cause recurrent appendicitis.83
+Most trials excluded patients with acute appendicitis in the setting of appendicoliths because these patients were considered to have complicated presentations of acute appendicitis.10-13,84 The trials that included patients with appendicoliths showed that presence of appendicoliths was an important risk factor for treatment failure in the antibiotics-first group.15,72-74
+Early treatment failure of the antibiotics-first approach, defined as clinical deterioration or lack of clinical improvement within 24 to 72 hours, occurred in approximately 8% to 12% of patients.14,73,74 The only trial that evaluated the long-term outcomes (ie, beyond 1 year of follow-up) of an antibiotics-first approach in patients with acute uncomplicated appendicitis was the Appendicitis Acuta (APPAC) randomized clinical trial10 that compared open appendectomy with an antibiotics-first approach (intravenous ertapenem, 1 g/d for 3 days, followed by 7 days of oral levofloxacin, 500 mg once daily, and metronidazole, 500 mg 3 times per day) in 530 patients with CT-confirmed acute uncomplicated appendicitis. The trial showed a 5-year recurrence rate of acute appendicitis of 39.1% (95% CI, 33.1%-45.3%) in patients initially treated with antibiotics alone. Most trials concluded that there was no difference in length of hospital stay or number of missed workdays between the 2 treatment groups.9-15,72-75
+Many trials showed that the incidence of major complications, including reoperation, wound infection, incisional hernias, and small bowel obstruction were 2- to 4-fold higher in the appendectomy group compared with the antibiotics-first group. For example, in a randomized trial of 369 participants with 1-year follow-up, Hansson et al73 reported complication rates of 10% for the appendectomy group vs 2.5% for the antibiotics-first group (P < .05). In a randomized trial of 530 participants with acute appendicitis, Salminen et al10,11 reported complication rates of 20.5% vs 2.8% at 1 year and 24.4% vs 6.5% at 5 years (P < .001); in a randomized trial of 318 participants with 1-year follow-up, Podda et al13 reported complication rates of 13% vs 4.3%
+
+(P = .03). Only the CODA Collaborative clinical trial of 1552 patients with acute uncomplicated appendicitis showed that major complications, including the combined outcomes of soft tissue infection and sepsis, were more common in the antibiotics group than in the appendectomy group (8.1% vs 3.5% [95% CI, 1.30%-3.98%]).72 In that trial, the higher rate of complications in the antibiotics group occurred in patients with an appendicolith (20.2% vs 3.6% [95% CI, 2.11%-15.38%]; P < .05).72 Most of these complications (>90%) were classified as wound complications including wound infection. The 30-day overall (both major and minor) complication rate in all trials varied from 0% to 16.2% after appendectomy compared with complication rates of 0% to 26.3% in patients treated with antibiotics alone.10,11,13,14,67,85 In a meta-analysis of 2551 patients with acute appendicitis, the cumulative complication rate in the appendectomy group was 8.8%, vs 6.9% in the antibiotics group.9 Most trials reported a low (<1%) incidence of adverse events in the patients treated with an antibiotics-first approach (eg, allergic reactions, Clostridium difficile infection).9-15,72-75
+The optimal antibiotic regimen for acute appendicitis is not well-established. The APPAC II open-label, noninferiority randomized trial conducted in 599 adult patients with acute uncomplicated appendicitis showed that treatment with 7 days of oral moxifloxacin compared with 2 days of intravenous ertapenem followed by 5 days of levofloxacin and metronidazole resulted in treatment success rates of 70.2% (1-sided 95% CI, 65.8% to ϱ) for patients treated with oral antibiotics and 73.8% (1-sided 95% CI, 69.5% to ϱ) for patients treated with intravenous followed by oral antibiotics. However, the trial did not meet prespecified criteria for noninferiority. The difference between the treatments was −3.6% (1-sided 95% CI, −9.7% to ϱ; P = .26 for noninferiority)84 (Table 3).
+Few studies have investigated whether stratifying patients by CT findings can identify patients who are more likely to have successful outcomes with an antibiotics-first approach. In a retrospective study of 81 patients who underwent nonoperative management of acute uncomplicated appendicitis, an appendiceal diameter of 13 mm or greater was associated with a higher likelihood of treatment failure with antibiotics alone in a logistic regression model that adjusted for demographics, comorbidities, admission vital signs, and admission laboratory values (odds ratio, 17.55 [95% CI, 1.30-237.28]).87 The mean appendix diameters were 9.0 mm vs 10.5 mm, respectively, in patients with successful vs unsuccessful nonoperative management.87 In a randomized trial of 1552 patients with acute uncomplicated appendicitis randomized to surgery vs antibiotics, patients with an appendicolith (n = 419) were less likely to respond to antibiotics alone, had higher rates of appendectomy (41% vs 25%, P < .05), and were more likely to experience complications such as surgical site and intra-abdominal infections (20.2% vs 3.5%, P < .05) than the 1133 patients without an appendicolith.72 Evidence from a cross-sectional study of 321 patients with appendicoliths identified on CT determined the characteristics of appendicoliths that are associated with acute appendicitis. Multiple appendicoliths (62% with appendicitis vs 38% with no appendicitis, P = .02) or appendicoliths larger than 5 mm (69% with appendicitis vs 13% with no appendicitis, P < .001) as well as appendicoliths at the base of the appendix (33% with appendicitis vs 15% with no appendicitis, P < .001) were independently associated with the presence of acute appendicitis.63
+
+2304 JAMA December 14, 2021 Volume 326, Number 22 (Reprinted) © 2021 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Pontificia Universidad Javeriana user on 08/14/2024
+
+jama.com
+
+Diagnosis and Management of Acute Appendicitis
+
+jama.com
+
+© 2021 American Medical Association. All rights reserved. Downloaded from jamanetwork.com by Pontificia Universidad Javeriana user on 08/14/2024
+
+Table 3. Summary of RCTs Evaluating the Role of Antibiotics-First Approach, Compared With Surgery, in the Management of Acute Uncomplicated Appendicitis
+
+Source
+Styrud et al,74 2006
+
+Sample size
+252 (124 surgery, 128 antibiotics)
+
+Inclusion criteria
+• Male sex • Age 18-50 y
+
+Exclusion criteria
+• Allergic reaction to antibiotics • Perforation
+
+Hansson et al,73 2009
+
+369 (167 surgery, 202 antibiotics)
+
+• Age >18 y • Acute appendicitis was
+diagnosed according to established practice
+
+None reported
+
+Vons et al,14 2011
+
+243 (120 surgery, 123 antibiotics)
+
+• Age >18 y • Uncomplicated
+appendicitis in CT
+
+• Younger than 18 y (no upper age limit)
+• Antibiotic treatment 5 d before • Allergy to β-lactam • Known intolerance to amoxicillin
+plus clavulanic acid • Receiving steroids • History of inflammatory bowel
+disease • Pregnancy • Life expectancy less than 1 y • Allergy to iodine • Blood creatinine ≥200 μmol/L • Appendiceal diameter >15 mm • Peritonitis • Extraluminal air or fluid
+
+Treatment groups Laparoscopic or open appendectomy vs antibiotics (2 d of intravenous cefotaxime, 2 g every 12 h, and tinidazole, 0.8 g daily; discharged with oral ofloxacin, 200 mg twice daily, and tinidazole, 500 mg twice daily for 10 d)
+Laparoscopic or open appendectomy vs antibiotics (intravenous cefotaxime, 1 g twice, and metronidazole, 1.5 g once, for at least 24 h; discharged with oral ciprofloxacin, 500 mg twice per day, and metronidazole, 400 mg 3 times per day for 10 d)
+Laparoscopic or open appendectomy vs antibiotics (amoxicillin plus clavulanic acid, 3 g per day for patients weighing <90 kg and 4 g per day for patients ≥90 kg)
+
+Main findings
+Primary outcomes:
+No significant difference in length of hospital stay and duration of sick leave
+Early (24 h) treatment failure rate of 12%
+Secondary outcomes:
+14% morbidity after surgery at 1-y follow-up
+15% recurrence rate after antibiotic-first approach at 1-y follow-up
+Patients for whom an antibiotics-first approach failed underwent appendectomy; of these, 5% had perforated appendicitis at the time of surgery
+Primary outcomes:
+Treatment failure within 30 d: 0% for appendectomy vs 9.2% for antibiotics-first approach
+Treatment failure within 1 y: 0% for appendectomy vs 21.9% for antibiotics-first approach
+Major complications were 3-fold higher in the appendectomy group (P < .05)a
+Secondary outcomes:
+Incidence of minor complications was similar in both groups
+Primary outcomes:
+Postintervention peritonitis in antibiotics-first approach was more frequent compared with appendectomy (8% vs 2%)
+The 30-d treatment failure rate of the antibiotics-first group was 12%, whereas the 1-y rate was 29%
+Secondary outcomes:
+The median duration of severe pain, days in hospital, and absence from work did not differ between groups
+
+Complications/adverse events • Adverse events not reported • 14% complication rate in
+surgical group vs 3.1% in antibiotics group • No further information provided about the details of the complications
+• Adverse events not reported • 18% complication rate in
+surgical group vs 5.4% in antibiotics group • Most complications in the surgery group included reoperation for small bowel obstruction (28%) and abscess (28%); in the antibiotics group, abscess was the most common complication (45%)
+• No adverse events reported • 2.5% complication rate in
+surgical group vs 10% in the antibiotics group • Postintervention complications included postoperative wound infection (2 in the antibiotics group vs 1 in surgery group) and small bowel obstruction (1 in the antibiotics group vs none in the surgery group) • 9 cases of peritonitis in antibiotics group vs 2 in surgery group
+
+Review Clinical Review & Education
+
+(Reprinted) JAMA December 14, 2021 Volume 326, Number 22 2305
+
+(continued)
+
+Clinical Review & Education Review
+
+2306 JAMA December 14, 2021 Volume 326, Number 22 (Reprinted) © 2021 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Pontificia Universidad Javeriana user on 08/14/2024
+
+Table 3. Summary of RCTs Evaluating the Role of Antibiotics-First Approach, Compared With Surgery, in the Management of Acute Uncomplicated Appendicitis (continued)
+
+Source
+Salminen et al,11 2015 Salminen et al,10 2018 Sippola et al,12 2020 Sippola et al,84 2021
+
+Sample size
+530 (273 surgery, 257 antibiotics)
+
+Inclusion criteria
+• Age 18-60 y • Clinical suspicion of
+uncomplicated acute appendicitis confirmed by CT scan
+
+Exclusion criteria
+• Age <18 y or >60 y • Pregnancy • Contraindications for CT • Peritonitis • Presence of appendicolith,
+abscess, or perforation
+
+Flum et al,72 2020
+
+1552 (776 surgery, 776 antibiotics)
+
+• Age >18 y • Uncomplicated
+appendicitis confirmed in imaging
+
+• Septic shock • Diffuse peritonitis • Recurrent appendicitis • Severe phlegmon on imaging • Walled-off abscess • Free air or more than minimal
+free fluid • Evidence suggestive of neoplasm
+
+Treatment groups Open appendectomy vs antibiotics (intravenous ertapenem, 1 g/d for 3 d followed by 7 d of oral levofloxacin 500 mg once daily, and metronidazole, 500 mg 3 times per day)
+Laparoscopic or open appendectomy vs antibiotics
+
+Main findings
+Primary outcomes:
+1-y treatment failure of the antibiotics-first approach of 27.3%
+5-y treatment failure of 39.1%
+Overall morbidity, 24.4% in the appendectomy group and 6.5% in antibiotic-first group (P < .001)
+QOL between appendectomy and antibiotic group patients was similar in both groups (95% CI, 0.86-1.0; P = .96)
+Treatment with 7 d of oral moxifloxacin compared with 2 d of intravenous ertapenem followed by 5 d of levofloxacin and metronidazole resulted in similar success rates
+Primary outcomes:
+Antibiotics-first approach is noninferior to appendectomy regarding 30-d QOL (mean difference, 0.01 points [95% CI, −0.001 to 0.03])b
+Secondary outcomes:
+90-d treatment failure, 29% in the antibiotics-first group
+Presence of appendicolith increased failure rates to 41%
+Complications were more common in the antibiotics group than in the appendectomy group (8.1% vs 3.5% [95% CI, 1.30%-3.98%])
+
+Complications/adverse events
+• Adverse event rate, 24.4% (95% CI, 19.2%-30.3%) in the appendectomy group vs 6.5% (95% CI, 3.8%-10.4%) in antibiotics group (P < .001)
+• Complication rate, 20.5% in 1 y and 24.4% in 5 y in surgical group vs 2.8% and 6.5%, respectively, in the antibiotics group
+• The majority of complications in the surgery group included soft tissue infections and bowel obstruction; in the antibiotics group, the majority of complications consisted of bowel obstruction
+• Adverse events included no deaths and the rate of serious adverse events was 4.0 per 100 participants in the antibiotics group and 3.0 per 100 participants in the appendectomy group (rate ratio, 1.29 [95% CI, 0.67 to 2.50])
+• 3.5% complication rate in surgical group vs 8.1% in antibiotics group
+• Higher rate in the antibiotics group overall was attributable to participants with an appendicolith (20.2 vs 3.6 per 100) and not to those without an appendicolith (3.7 vs 3.5 per 100)
+• The rate of site-related infectious complications (incisional or organ–space infections) was also higher among those with an appendicolith
+• Percutaneous drainage procedures were more common in the antibiotics group than in the appendectomy group overall (2.5 vs 0.5 per 100 participants; rate ratio, 5.36 [95% CI, 1.55 to 18.50]) and particularly among those with an appendicolith
+
+Diagnosis and Management of Acute Appendicitis
+
+(continued)
+
+jama.com
+
+Diagnosis and Management of Acute Appendicitis
+
+jama.com
+
+© 2021 American Medical Association. All rights reserved. Downloaded from jamanetwork.com by Pontificia Universidad Javeriana user on 08/14/2024
+
+Table 3. Summary of RCTs Evaluating the Role of Antibiotics-First Approach, Compared With Surgery, in the Management of Acute Uncomplicated Appendicitis (continued)
+
+Source Podda et al,13 2021
+
+Sample size
+318 (231 surgery, 87 antibiotics)
+
+Inclusion criteria
+• Age 18-65 y • Uncomplicated
+appendicitis confirmed by diagnostic imaging (ultrasound/CT)
+
+Exclusion criteria
+• Presence of an appendicolith, perforation, and abscess
+• Suspicion of a tumor on preoperative imaging
+• <18 y or >65 y • Pregnant or lactating • Contraindications for CT • Diffuse peritonitis • Patients with serious systemic
+illness, or inflammatory bowel disease
+
+O’Leary et al,15 2021
+
+186 (93 surgery, 93 antibiotics)
+
+• Age >16 y • Ultrasound performed
+in all patients aged <45 y; some also had MRI • Patients ≥45 y received only CT scan
+
+• Normal white blood cell count and C-reactive protein level
+• Age <16 y • Complicated appendicitis • Inflammatory bowel disease • Pregnant and breastfeeding patients • Current or prior malignancy • Significant comorbidities • Patients with previous anaphylaxis
+to penicillin
+
+Abbreviations: CT, computed tomography; MRI, magnetic resonance imaging; QOL, quality of life. a Major complications were defined as reoperation, abscess formation, bowel obstruction, wound rupture or
+hernia, or serious anaesthesia-related or cardiac problems.
+
+Treatment groups
+
+Main findings
+
+Complications/adverse events
+
+Laparoscopic or open appendectomy vs antibiotics
+
+Primary outcomes:
+Treatment failure of 26.4% in the antibiotics-first approach
+The antibiotics-first approach was superior in terms of postoperative complications (P = .03)
+Secondary outcomes:
+The antibiotics-first group reported lower pain scores (P < .001)
+
+• No adverse events reported • 13% complication rate in
+surgical group vs 4.3% in the antibiotics group • Complication breakdown: 14 surgical site infection, 6 postoperative abdominal abscess, 4 small bowel obstruction, 3 incisional hernia, 1 prolonged vomiting • In the antibiotics-first group, only 1 complication was recorded (incisional hernia, grade IIIa)
+
+Laparoscopic appendectomy vs antibiotics (intravenous co-amoxiclav, 1.2 g 3 times daily until clinical improvement, followed by 5 d of oral co-amoxiclav, 625 mg 3 times daily for 5 d)
+
+• 1-y treatment failure after antibiotics-first approach, 25.3% (95% CI, 16.3%-34.2%)
+• QOL was better in the surgery group at the 1-y end point (0.976 vs 0.888; P < .001)c
+• More patients had complete recovery after 1 y in the surgery group (P < .01)
+• Fewer mean sick days in 1 y for the antibiotics-first group (5.3 vs 8.9 d; P < .01)
+
+• 5.4% complication rate in surgical group vs 1% in the antibiotics group
+• In the surgery group, 4.3% of the patients developed a postoperative collection, and 1.1% developed an umbilical port site wound infection
+• In the antibiotics group, only cellulitis at the antibiotic infusion site was described
+
+b QOL assessed with the use of the European Quality of Life–5 Dimensions (EQ-5D) questionnaire (scores range from 0-1, with higher scores indicating better health status; minimal clinically important difference, 0.05 points).86
+c QOL assessed with the EQ-5D-3L quality of life score (scores range from 0-1, with higher scores indicating better health status; minimal clinically important difference, 0.05 points).86
+
+Review Clinical Review & Education
+
+In patients with suspected appendicitis and findings that are atypical for appendicitis, an antibiotic trial or, in very mild cases, clinical observation alone is appropriate. When there is no clinical improvement after 24 to 48 hours, diagnostic laparoscopy can be considered both a diagnostic and a therapeutic tool, especially in young women.35 If symptoms resolve with antibiotic therapy, appendectomy in 4 to 6 weeks should be discussed with the patient (Figure 2).88 In patients with acute uncomplicated appendicitis, physical examination, laboratory workup, imaging, and the patient’s clinical condition should guide management.
+In patients with acute uncomplicated appendicitis, the fitness for surgery should be assessed. Fitness for surgery refers to the preoperative assessment of patients to estimate the risk of adverse outcomes, including the predicted postoperative morbidity and mortality. In patients with acute appendicitis requiring emergency or urgent operation, the preoperative evaluation should assess the trade-off between the procedure risk and preserving long-term health. In healthy, young patients this assessment is usually straightforward; however, in older patients with multiple comorbidities, assessment of operative risk can be challenging because of their frailty, which is defined as a lack of physiologic resilience and reserve capacity (energy, physical ability, cognition, or health) that gives rise to vulnerability to adverse events.89 Even for procedures of low or intermediate risk, such as laparoscopic appendectomy, frailty remains a significant factor that is associated with increased rates of postoperative mortality.90 Identification of highand low-risk patients allows planning of appropriate perioperative care and improves the quality of informed consent.
+In practical terms, the benefits and risks of all treatment options should be presented and discussed, and recommendations on surgery vs an antibiotics-first approach should be made based on individual clinical and radiographic findings as well as patient treatment expectations and preferences.91,92 In patients who are fit for surgery and have high-risk CT findings (appendicolith, presence of a mass, dilated appendix), laparoscopic appendectomy should be performed because of high risk of treatment failure with antibiotics alone. In patients who are fit for surgery without high-risk CT findings, either appendectomy or antibiotics can be offered (treatment equipoise). In the era of patient-centered medicine, for patients who are suitable for both treatments, individual preferences and needs can guide the decisionmaking process. In patients who are not fit for surgery without high-risk CT findings, an antibiotics-first approach should be recommended, and surgery may be considered in cases of treatment failure. However, in patients who are not fit for surgery with high-risk CT findings, perioperative risk assessment such as
+
+(Reprinted) JAMA December 14, 2021 Volume 326, Number 22 2307
+
+Clinical Review & Education Review
+
+Diagnosis and Management of Acute Appendicitis
+
+Figure 2. Clinical Algorithm for the Diagnosis and Management of Acute Appendicitis
+
+Diagnosis of acute appendicitis History and physical examination - Initial steps to identify symptoms and signs of acute appendicitisa Laboratory workup - Includes complete blood cell count with differential to identify leukocytosis or left shift in the differential
+Diagnostic imaging - Computed tomography preferred because of high sensitivity and specificity and wide availability
+
+Findings consistent
+
+Findings equivocal for appendicitis
+
+with acute appendicitis
+
+WOMEN
+
+MEN
+
+Findings negative for acute appendicitis
+
+Pelvic ultrasound +/− transvaginal ultrasound
+
+Observation and serial physical examinations +/− antibiotics
+
+Consider alternative diagnosis
+
+Alternative diagnosis confirmed
+
+Appendicitis confirmed
+
+YES
+
+NO
+
+Treat as warranted
+
+Symptom improvement NO
+Consider diagnostic laparoscopy
+Continue with appendectomy if confirmed appendicitis
+
+YES
+Negative findings
+
+Discharge home and follow-up Consider alternative diagnosis
+
+Classification and treatment for confirmed acute appendicitis
+
+No clinical or radiographic signs of appendiceal perforation Uncomplicated acute appendicitis diagnosed
+
+Patient is fit for surgery Healthy Minor or no comorbidities
+
+Patient is unfit for surgery
+Multiple comorbidities Above-average risk for postoperative morbidity
+
+High-risk features present on computed tomography imaging
+
+Appendix diameter >13 mm, appendicoliths, or mass effect
+
+YES
+
+NO
+
+YES
+
+NO
+
+Appendectomy
+
+Appendectomy or Antibiotics b
+
+Antibiotics or Appendectomyb,c
+
+Antibiotics
+
+This algorithm has not been validated and has not been shown to improve clinical outcomes.
+a See Table 1 for more information on the clinical symptoms and signs for the diagnosis of acute appendicitis.
+
+Appendiceal rupture with subsequent abscess or phlegmon formation
+
+Complicated acute appendicitis diagnosed
+
+Patient is stable with localized symptoms No evidence of sepsis or peritonitis
+
+Patient is unstable Sepsis or peritonitis
+
+Drainable abscess present Phlegmon present
+
+Antibiotics and percutaneous drainage
+
+Antibiotics only
+
+Immediate surgery
+
+Symptom improvement
+
+YES
+
+NO
+
+Consider interval appendectomy in 4-6 weeks
+
+Appendectomy
+
+b Consider after medical optimization and risk assessment. c Informed consent based on patient preferences.
+
+using the National Surgical Quality Improvement Program (NSQIP) calculator (a surgical risk calculator that estimates the chance of an unfavorable outcome [such as a complication or death] after surgery93) or a frailty index,94 as well as patient preferences, should be considered. Current literature indicates a 30-day complication rate of 6.9% (0%-26.3%) after an antibiotics-first approach for appendicitis. If the NSQIP-calculated risk of complications for appendectomy in a frail patient is high, an antibiotics-first approach may be prudent. If the calculated risk is acceptable, medical optimization and laparoscopic appendectomy should be considered.
+In patients with perforation of the appendix and generalized peritonitis, preoperative resuscitation and emergent surgical exploration are required, since these patients are typically significantly ill and may be hemodynamically unstable. In clinically stable patients with perforated appendicitis who are not acutely ill, the mainstay of treatment includes antibiotics with percutane-
+
+ous drainage of drainable abscesses. In a meta-analysis of 59 448 patients with complicated appendicitis, immediate surgery was associated with higher complication rates compared with nonoperative management (35.6% [95% CI, 26.9%-44.2%] vs 13.5% [95% CI, 8.8%-18.1%], P < .001).95 Thus, in patients with appendiceal perforation that improves with antibiotics, reassessment and appendectomy can be considered in 6 to 8 weeks. Prior to appendectomy, patients older than 40 years should also undergo colonoscopy to exclude a cecal mass as a cause of acute appendicitis. In patients with small abscesses (<3 cm) or patients who do not improve with antibiotics, appendectomy should be considered (Figure 2).85
+Limitations This review has several limitations. First, the review focused on adult patients and cannot be generalized to children. Second, the search was restricted to English-language publications.
+
+2308 JAMA December 14, 2021 Volume 326, Number 22 (Reprinted) © 2021 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Pontificia Universidad Javeriana user on 08/14/2024
+
+jama.com
+
+Diagnosis and Management of Acute Appendicitis
+
+Review Clinical Review & Education
+
+Third, high-quality data are lacking for some topics, including the effects of treatment for acute appendicitis on quality of life and how patient preferences can optimally be incorporated into decision-making in the management of acute appendicitis. Fourth, the proposed algorithms for the management of acute appendicitis have not been validated in randomized clinical trials and may not improve clinical outcomes.
+
+Conclusions
+Acute appendicitis affects 96.5 to 100 people per 100 000 adults per year worldwide. Appendectomy remains first-line therapy for acute appendicitis, but treatment with antibiotics rather than surgery is appropriate in selected patients with uncomplicated appendicitis.
+
+ARTICLE INFORMATION
+Accepted for Publication: October 28, 2021.
+Author Contributions: Drs Moris and Pappas had full access to all of the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis. Concept and design: All authors. Acquisition, analysis, or interpretation of data: Moris. Drafting of the manuscript: Moris, Paulson. Critical revision of the manuscript for important intellectual content: All authors. Administrative, technical, or material support: Pappas. Supervision: Pappas. Other: Paulson.
+Conflict of Interest Disclosures: Dr Pappas reported serving as a paid consultant for Transenterix Corp. No other disclosures were reported.
+Submissions: We encourage authors to submit papers for consideration as a Review. Please contact Mary McGrae McDermott, MD, at mdm608@northwestern.edu.
+REFERENCES
+1. Ferris M, Quan S, Kaplan BS, et al. The global incidence of appendicitis: a systematic review of population-based studies. Ann Surg. 2017;266(2): 237-241. doi:10.1097/SLA.0000000000002188
+2. Coward S, Kareemi H, Clement F, et al. Incidence of appendicitis over time: a comparative analysis of an administrative healthcare database and a pathology-proven appendicitis registry. PLoS One. 2016;11(11):e0165161. doi:10.1371/journal.pone.0165161
+3. Paulson EK, Kalady MF, Pappas TN. Clinical practice: suspected appendicitis. N Engl J Med. 2003;348(3):236-242. doi:10.1056/NEJMcp013351
+4. Antoniou SA, Mavridis D, Kontouli KM, et al. EAES rapid guideline: appendicitis in the elderly. Surg Endosc. 2021;35(7):3233-3243. doi:10.1007/ s00464-021-08524-9
+5. Michalinos A, Moris D, Vernadakis S. Amyand’s hernia: a review. Am J Surg. 2014;207(6):989-995. doi:10.1016/j.amjsurg.2013.07.043
+6. Poprom N, Wilasrusmee C, Attia J, McEvoy M, Thakkinstian A, Rattanasiri S. Comparison of postoperative complications between open and laparoscopic appendectomy: an umbrella review of systematic reviews and meta-analyses. J Trauma Acute Care Surg. 2020;89(4):813-820. doi:10.1097/ TA.0000000000002878
+7. Cao J, Tao F, Xing H, et al. Laparoscopic procedure is not independently associated with the development of intra-abdominal abscess after appendectomy: a multicenter cohort study with propensity score matching analysis. Surg Laparosc Endosc Percutan Tech. 2017;27(5):409-414. doi:10. 1097/SLE.0000000000000460
+
+8. Jaschinski T, Mosch CG, Eikermann M, Neugebauer EA, Sauerland S. Laparoscopic versus open surgery for suspected appendicitis. Cochrane Database Syst Rev. 2018;11:CD001546. doi:10. 1002/14651858.CD001546.pub4
+9. Harnoss JC, Zelienka I, Probst P, et al. Antibiotics versus surgical therapy for uncomplicated appendicitis: systematic review and meta-analysis of controlled trials (PROSPERO 2015: CRD42015016882). Ann Surg. 2017;265(5):889-900. doi:10.1097/SLA.0000000000002039
+10. Salminen P, Tuominen R, Paajanen H, et al. Five-year follow-up of antibiotic therapy for uncomplicated acute appendicitis in the APPAC randomized clinical trial. JAMA. 2018;320(12):12591265. doi:10.1001/jama.2018.13201
+11. Salminen P, Paajanen H, Rautio T, et al. Antibiotic therapy vs appendectomy for treatment of uncomplicated acute appendicitis: the APPAC randomized clinical trial. JAMA. 2015;313(23):23402348. doi:10.1001/jama.2015.6154
+12. Sippola S, Haijanen J, Viinikainen L, et al. Quality of life and patient satisfaction at 7-year follow-up of antibiotic therapy vs appendectomy for uncomplicated acute appendicitis: a secondary analysis of a randomized clinical trial. JAMA Surg. 2020;155(4):283-289. doi:10.1001/jamasurg.2019. 6028
+13. Podda M, Poillucci G, Pacella D, et al; ACTUAA Study Collaborative Working Group. Appendectomy versus conservative treatment with antibiotics for patients with uncomplicated acute appendicitis: a propensity score-matched analysis of patient-centered outcomes (the ACTUAA prospective multicenter trial). Int J Colorectal Dis. 2021;36(3):589-598. doi:10.1007/s00384-02103843-8
+14. Vons C, Barry C, Maitre S, et al. Amoxicillin plus clavulanic acid versus appendicectomy for treatment of acute uncomplicated appendicitis: an open-label, non-inferiority, randomised controlled trial. Lancet. 2011;377(9777):1573-1579. doi:10.1016/ S0140-6736(11)60410-8
+15. O’Leary DP, Walsh SM, Bolger J, et al. A randomized clinical trial evaluating the efficacy and quality of life of antibiotic-only treatment of acute uncomplicated appendicitis: results of the COMMA trial. Ann Surg. 2021;274(2):240-247. doi:10.1097/ SLA.0000000000004785
+16. Butler C. Surgical pathology of acute appendicitis. Hum Pathol. 1981;12(10):870-878. doi: 10.1016/S0046-8177(81)80190-6
+17. Walker AR, Segal I. What causes appendicitis? J Clin Gastroenterol. 1990;12(2):127-129. doi:10. 1097/00004836-199004000-00002
+18. Birnbaum BA, Wilson SR. Appendicitis at the millennium. Radiology. 2000;215(2):337-348. doi: 10.1148/radiology.215.2.r00ma24337
+
+19. Guidry SP, Poole GV. The anatomy of appendicitis. Am Surg. 1994;60(1):68-71.
+20. Oh SJ, Pimentel M, Leite GGS, et al. Acute appendicitis is associated with appendiceal microbiome changes including elevated Campylobacter jejuni levels. BMJ Open Gastroenterol. 2020;7(1):e000412. doi:10.1136/bmjgast-2020000412
+21. Lau WY, Teoh-Chan CH, Fan ST, Yam WC, Lau KF, Wong SH. The bacteriology and septic complication of patients with appendicitis. Ann Surg. 1984;200(5):576-581. doi:10.1097/00000658198411000-00003
+22. Bennion RS, Baron EJ, Thompson JE Jr, et al. The bacteriology of gangrenous and perforated appendicitis—revisited. Ann Surg. 1990;211(2):165171. doi:10.1097/00000658-199002000-00008
+23. Addiss DG, Shaffer N, Fowler BS, Tauxe RV. The epidemiology of appendicitis and appendectomy in the United States. Am J Epidemiol. 1990;132(5): 910-925. doi:10.1093/oxfordjournals.aje.a115734
+24. Golz RA, Flum DR, Sanchez SE, Liu X, Donovan C, Drake FT. Geographic association between incidence of acute appendicitis and socioeconomic status. JAMA Surg. 2020;155(4):330-338. doi:10. 1001/jamasurg.2019.6030
+25. Livingston EH, Woodward WA, Sarosi GA, Haley RW. Disconnect between incidence of nonperforated and perforated appendicitis: implications for pathophysiology and management. Ann Surg. 2007;245(6):886-892. doi:10.1097/01. sla.0000256391.05233.aa
+26. Berry J Jr, Malt RA. Appendicitis near its centenary. Ann Surg. 1984;200(5):567-575. doi:10. 1097/00000658-198411000-00002
+27. Takada T, Inokuchi R, Kim H, et al. Is “pain before vomiting” useful? diagnostic performance of the classic patient history item in acute appendicitis. Am J Emerg Med. 2021;41:84-89. doi: 10.1016/j.ajem.2020.12.066
+28. Andersson RE, Hugander AP, Ghazi SH, et al. Diagnostic value of disease history, clinical presentation, and inflammatory parameters of appendicitis. World J Surg. 1999;23(2):133-140. doi: 10.1007/PL00013174
+29. Hardin DM Jr. Acute appendicitis: review and update. Am Fam Physician. 1999;60(7):2027-2034.
+30. Humes DJ, Simpson J. Acute appendicitis. BMJ. 2006;333(7567):530-534. doi:10.1136/bmj.38940. 664363.AE
+31. Giannis D, Matenoglou E, Moris D. Hyponatremia as a marker of complicated appendicitis: a systematic review. Surgeon. 2020;18 (5):295-304. doi:10.1016/j.surge.2020.01.002
+32. Golledge J, Toms AP, Franklin IJ, Scriven MW, Galland RB. Assessment of peritonism in appendicitis. Ann R Coll Surg Engl. 1996;78(1):11-14.
+
+jama.com
+
+(Reprinted) JAMA December 14, 2021 Volume 326, Number 22 2309
+
+© 2021 American Medical Association. All rights reserved. Downloaded from jamanetwork.com by Pontificia Universidad Javeriana user on 08/14/2024
+
+Clinical Review & Education Review
+
+Diagnosis and Management of Acute Appendicitis
+
+33. Izbicki JR, Knoefel WT, Wilker DK, et al. Accurate diagnosis of acute appendicitis: a retrospective and prospective analysis of 686 patients. Eur J Surg. 1992;158(4):227-231.
+34. John H, Neff U, Kelemen M. Appendicitis diagnosis today: clinical and ultrasonic deductions. World J Surg. 1993;17(2):243-249. doi:10.1007/ BF01658936
+35. Gorter RR, Eker HH, Gorter-Stam MA, et al. Diagnosis and management of acute appendicitis: EAES consensus development conference 2015. Surg Endosc. 2016;30(11):4668-4690. doi:10.1007/ s00464-016-5245-7
+36. Wagner JM, McKinney WP, Carpenter JL. Does this patient have appendicitis? JAMA. 1996;276(19): 1589-1594. doi:10.1001/jama.1996. 03540190061030
+37. Bhangu A, Søreide K, Di Saverio S, Assarsson JH, Drake FT. Acute appendicitis: modern understanding of pathogenesis, diagnosis, and management. Lancet. 2015;386(10000):1278-1287. doi:10.1016/S0140-6736(15)00275-5
+38. Al-Gaithy ZK. Clinical value of total white blood cells and neutrophil counts in patients with suspected appendicitis: retrospective study. World J Emerg Surg. 2012;7(1):32. doi:10.1186/17497922-7-32
+39. Guraya SY, Al-Tuwaijri TA, Khairy GA, Murshid KR. Validity of leukocyte count to predict the severity of acute appendicitis. Saudi Med J. 2005; 26(12):1945-1947.
+40. Krzyzak M, Mulrooney SM. Acute appendicitis review: background, epidemiology, diagnosis, and treatment. Cureus. 2020;12(6):e8562. doi:10.7759/ cureus.8562
+41. Smith MP, Katz DS, Lalani T, et al. ACR Appropriateness Criteria® right lower quadrant pain—suspected appendicitis. Ultrasound Q. 2015; 31(2):85-91. doi:10.1097/RUQ.0000000000000118
+42. Garcia EM, Camacho MA, Karolyi DR, et al; Expert Panel on Gastrointestinal Imaging. ACR Appropriateness Criteria® right lower quadrant pain—suspected appendicitis. J Am Coll Radiol. 2018;15(11S):S373-S387. doi:10.1016/j.jacr.2018.09. 033
+43. Dahabreh IJ, Adam GP, Halladay CW, et al. Diagnosis of Right Lower Quadrant Pain and Suspected Acute Appendicitis. Agency for Healthcare Research and Quality; 2015.
+44. Kim DW, Suh CH, Yoon HM, et al. Visibility of normal appendix on CT, MRI, and sonography: a systematic review and meta-analysis. AJR Am J Roentgenol. 2018;211(3):W140-W150. doi:10.2214/ AJR.17.19321
+45. van Randen A, Bipat S, Zwinderman AH, Ubbink DT, Stoker J, Boermeester MA. Acute appendicitis: meta-analysis of diagnostic performance of CT and graded compression US related to prevalence of disease. Radiology. 2008; 249(1):97-106. doi:10.1148/radiol.2483071652
+46. Dearing DD, Recabaren JA, Alexander M. Can computed tomography scan be performed effectively in the diagnosis of acute appendicitis without the added morbidity of rectal contrast? Am Surg. 2008;74(10):917-920. doi:10.1177/ 000313480807401007
+47. Hershko DD, Awad N, Fischer D, et al. Focused helical CT using rectal contrast material only as the preferred technique for the diagnosis of suspected
+
+acute appendicitis: a prospective, randomized, controlled study comparing three different techniques. Dis Colon Rectum. 2007;50(8):1223-1229. doi:10.1007/s10350-007-0272-z
+48. Paulson EK, Coursey CA. CT protocols for acute appendicitis: time for change. AJR Am J Roentgenol. 2009;193(5):1268-1271. doi:10.2214/AJR.09.3313
+49. Rao PM, Rhea JT, Novelline RA, Mostafavi AA, McCabe CJ. Effect of computed tomography of the appendix on treatment of patients and use of hospital resources. N Engl J Med. 1998;338(3):141146. doi:10.1056/NEJM199801153380301
+50. Chan J, Fan KS, Mak TLA, Loh SY, Ng SWY, Adapala R. Pre-operative imaging can reduce negative appendectomy rate in acute appendicitis. Ulster Med J. 2020;89(1):25-28.
+51. Yu L, Liu X, Leng S, et al. Radiation dose reduction in computed tomography: techniques and future perspective. Imaging Med. 2009;1(1):6584. doi:10.2217/iim.09.5
+52. Kolb M, Storz C, Kim JH, et al. Effect of a novel denoising technique on image quality and diagnostic accuracy in low-dose CT in patients with suspected appendicitis. Eur J Radiol. 2019;116:198204. doi:10.1016/j.ejrad.2019.04.026
+53. Yabunaka K, Katsuda T, Sanada S, Fukutomi T. Sonographic appearance of the normal appendix in adults. J Ultrasound Med. 2007;26(1):37-43. doi: 10.7863/jum.2007.26.1.37
+54. Williams R, Shaw J. Ultrasound scanning in the diagnosis of acute appendicitis in pregnancy. Emerg Med J. 2007;24(5):359-360. doi:10.1136/emj.2007. 048488
+55. Sauvain MO, Tschirky S, Patak MA, Clavien PA, Hahnloser D, Muller MK. Acute appendicitis in overweight patients: the role of preoperative imaging. Patient Saf Surg. 2016;10:13. doi:10.1186/ s13037-016-0102-0
+56. Koberlein GC, Trout AT, Rigsby CK, et al; Expert Panel on Pediatric Imaging. ACR Appropriateness Criteria® suspected appendicitis—child. J Am Coll Radiol. 2019;16(5S):S252-S263. doi:10.1016/j.jacr. 2019.02.022
+57. Monsonis B, Mandoul C, Millet I, Taourel P. Imaging of appendicitis: tips and tricks. Eur J Radiol. 2020;130:109165. doi:10.1016/j.ejrad.2020.109165
+58. Nikolaidis P, Hammond N, Marko J, Miller FH, Papanicolaou N, Yaghmai V. Incidence of visualization of the normal appendix on different MRI sequences. Emerg Radiol. 2006;12(5):223-226. doi:10.1007/s10140-006-0489-5
+59. Ranieri DM, Enzerra MD, Pickhardt PJ. Prevalence of appendicoliths detected at CT in adults with suspected appendicitis. AJR Am J Roentgenol. 2021;216(3):677-682. doi:10.2214/AJR. 20.23149
+60. Foley WD. CT features for complicated versus uncomplicated appendicitis: what is the evidence? Radiology. 2018;287(1):116-118. doi:10.1148/radiol. 2018180022
+61. Kim HY, Park JH, Lee YJ, Lee SS, Jeon JJ, Lee KH. Systematic review and meta-analysis of CT features for differentiating complicated and uncomplicated appendicitis. Radiology. 2018;287 (1):104-115. doi:10.1148/radiol.2017171260
+62. Di Saverio S, Podda M, De Simone B, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines.
+
+World J Emerg Surg. 2020;15(1):27. doi:10.1186/ s13017-020-00306-3
+63. Khan MS, Chaudhry MBH, Shahzad N, et al. The characteristics of appendicoliths associated with acute appendicitis. Cureus. 2019;11(8):e5322. doi: 10.7759/cureus.5322
+64. Xu Y, Jeffrey RB, Chang ST, DiMaio MA, Olcott EW. Sonographic differentiation of complicated from uncomplicated appendicitis: implications for antibiotics-first therapy. J Ultrasound Med. 2017;36 (2):269-277. doi:10.7863/ultra.16.03109
+65. Horrow MM, White DS, Horrow JC. Differentiation of perforated from nonperforated appendicitis at CT. Radiology. 2003;227(1):46-51. doi:10.1148/radiol.2272020223
+66. Subspecialist tips for the multispecialist. American Roentgen Ray Society. Accessed November 11, 2021. https://www.arrs.org/_ AnnualMeetings/AM19/Program/CC_Schedule_Tips. aspx.
+67. Semm K. Endoscopic appendectomy. Endoscopy. 1983;15(2):59-64. doi:10.1055/s-2007-1021466
+68. Long KH, Bannon MP, Zietlow SP, et al; Laparoscopic Appendectomy Interest Group. A prospective randomized comparison of laparoscopic appendectomy with open appendectomy: clinical and economic analyses. Surgery. 2001;129(4):390-400. doi:10.1016/S00396060(01)15621-7
+69. Korndorffer JR Jr, Fellinger E, Reed W. SAGES guideline for laparoscopic appendectomy. Surg Endosc. 2010;24(4):757-761. doi:10.1007/s00464009-0632-y
+70. Bratzler DW, Dellinger EP, Olsen KM, et al; American Society of Health-System Pharmacists (ASHP); Infectious Diseases Society of America (IDSA); Surgical Infection Society (SIS); Society for Healthcare Epidemiology of America (SHEA). Clinical practice guidelines for antimicrobial prophylaxis in surgery. Surg Infect (Larchmt). 2013; 14(1):73-156. doi:10.1089/sur.2013.9999
+71. Berríos-Torres SI, Umscheid CA, Bratzler DW, et al; Healthcare Infection Control Practices Advisory Committee. Centers for Disease Control and Prevention guideline for the prevention of surgical site infection, 2017. JAMA Surg. 2017;152 (8):784-791. doi:10.1001/jamasurg.2017.0904
+72. Flum DR, Davidson GH, Monsell SE, et al; CODA Collaborative. A randomized trial comparing antibiotics with appendectomy for appendicitis. N Engl J Med. 2020;383(20):1907-1919. doi:10. 1056/NEJMoa2014320
+73. Hansson J, Körner U, Khorram-Manesh A, Solberg A, Lundholm K. Randomized clinical trial of antibiotic therapy versus appendicectomy as primary treatment of acute appendicitis in unselected patients. Br J Surg. 2009;96(5):473-481. doi:10.1002/bjs.6482
+74. Styrud J, Eriksson S, Nilsson I, et al. Appendectomy versus antibiotic treatment in acute appendicitis: a prospective multicenter randomized controlled trial. World J Surg. 2006;30(6):1033-1037. doi:10.1007/s00268-005-0304-6
+75. Wilms IM, de Hoog DE, de Visser DC, Janzing HM. Appendectomy versus antibiotic treatment for acute appendicitis. Cochrane Database Syst Rev. 2011;(11):CD008359. doi:10.1002/14651858. CD008359.pub2
+
+2310 JAMA December 14, 2021 Volume 326, Number 22 (Reprinted) © 2021 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Pontificia Universidad Javeriana user on 08/14/2024
+
+jama.com
+
+Diagnosis and Management of Acute Appendicitis
+
+Review Clinical Review & Education
+
+76. Schuster KM, Holena DN, Salim A, Savage S, Crandall M. American Association for the Surgery of Trauma emergency general surgery guideline summaries 2018: acute appendicitis, acute cholecystitis, acute diverticulitis, acute pancreatitis, and small bowel obstruction. Trauma Surg Acute Care Open. 2019;4(1):e000281. doi:10.1136/tsaco2018-000281
+77. Rushing A, Bugaev N, Jones C, et al. Management of acute appendicitis in adults: a practice management guideline from the Eastern Association for the Surgery of Trauma. J Trauma Acute Care Surg. 2019;87(1):214-224. doi:10.1097/ TA.0000000000002270
+78. Antibiotic therapy for acute appendicitis in adults: fewer immediate complications than with surgery, but more subsequent failures. Prescrire Int. 2014;23(150):158-160.
+79. Mazuski JE, Solomkin JS. Intra-abdominal infections. Surg Clin North Am. 2009;89(2):421-437. doi:10.1016/j.suc.2008.12.001
+80. Livingston E, Vons C. Treating appendicitis without surgery. JAMA. 2015;313(23):2327-2328. doi:10.1001/jama.2015.6266
+81. Sawyer RG, Claridge JA, Nathens AB, et al; STOP-IT Trial Investigators. Trial of short-course antimicrobial therapy for intraabdominal infection. N Engl J Med. 2015;372(21):1996-2005. doi:10. 1056/NEJMoa1411162
+82. Di Saverio S, Birindelli A, Kelly MD, et al. WSES Jerusalem guidelines for diagnosis and treatment of acute appendicitis. World J Emerg Surg. 2016;11:34. doi:10.1186/s13017-016-0090-5
+
+83. Casas MA, Dreifuss NH, Schlottmann F. High-volume center analysis and systematic review of stump appendicitis: solving the pending issue. Eur J Trauma Emerg Surg. Published online June 3, 2021. doi:10.1007/s00068-021-01707-y
+84. Sippola S, Haijanen J, Grönroos J, et al. Effect of oral moxifloxacin vs intravenous ertapenem plus oral levofloxacin for treatment of uncomplicated acute appendicitis: the APPAC II randomized clinical trial. JAMA. 2021;325(4):353-362. doi:10.1001/ jama.2020.23525
+85. Akingboye AA, Mahmood F, Zaman S, Wright J, Mannan F, Mohamedahmed AYY. Early versus delayed (interval) appendicectomy for the management of appendicular abscess and phlegmon: a systematic review and meta-analysis. Langenbecks Arch Surg. 2021;406(5):1341-1351. doi: 10.1007/s00423-020-02042-3
+86. EuroQol instruments: EQ-5D. EuroQol Group. Accessed November 29, 2021. https://euroqol.org
+87. Loftus TJ, Brakenridge SC, Croft CA, et al. Successful nonoperative management of uncomplicated appendicitis: predictors and outcomes. J Surg Res. 2018;222:212-218. doi:10. 1016/j.jss.2017.10.006
+88. Becker P, Fichtner-Feigl S, Schilling D. Clinical management of appendicitis. Visc Med. 2018;34(6): 453-458. doi:10.1159/000494883
+89. Rockwood K, Song X, MacKnight C, et al. A global clinical measure of fitness and frailty in elderly people. CMAJ. 2005;173(5):489-495. doi: 10.1503/cmaj.050051
+
+90. Castillo-Angeles M, Cooper Z, Jarman MP, Sturgeon D, Salim A, Havens JM. Association of frailty with morbidity and mortality in emergency general surgery by procedural risk level. JAMA Surg. 2021;156(1):68-74. doi:10.1001/jamasurg.2020.5397
+91. Jacobs D. Antibiotics for appendicitis—proceed with caution. N Engl J Med. 2020;383(20):19851986. doi:10.1056/NEJMe2029126
+92. Moris D. Comment on “A Randomised Clinical Trial Evaluating the Efficacy and Quality of Life of Antibiotic Only Treatment of Acute Uncomplicated Appendicitis: Results of the COMMA Trial”. Ann Surg. Published online June 18, 2021. doi:10.1097/SLA. 0000000000005018
+93. Bilimoria KY, Liu Y, Paruch JL, et al. Development and evaluation of the universal ACS NSQIP surgical risk calculator: a decision aid and informed consent tool for patients and surgeons. J Am Coll Surg. 2013;217(5):833-842. doi:10.1016/j. jamcollsurg.2013.07.385
+94. McDonald SR, Heflin MT, Whitson HE, et al. Association of integrated care coordination with postsurgical outcomes in high-risk older adults: the Perioperative Optimization of Senior Health (POSH) initiative. JAMA Surg. 2018;153(5):454-462. doi:10. 1001/jamasurg.2017.5513
+95. Andersson RE, Petzold MG. Nonsurgical treatment of appendiceal abscess or phlegmon: a systematic review and meta-analysis. Ann Surg. 2007;246(5):741-748. doi:10.1097/SLA. 0b013e31811f3f9f
+
+jama.com
+
+(Reprinted) JAMA December 14, 2021 Volume 326, Number 22 2311
+
+© 2021 American Medical Association. All rights reserved. Downloaded from jamanetwork.com by Pontificia Universidad Javeriana user on 08/14/2024

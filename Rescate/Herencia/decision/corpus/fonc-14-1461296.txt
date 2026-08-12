@@ -1,0 +1,565 @@
+TYPE Systematic Review PUBLISHED 16 December 2024 DOI 10.3389/fonc.2024.1461296
+
+OPEN ACCESS
+EDITED BY
+Redhwan Ahmed Al-Naggar, National University of Malaysia, Malaysia
+REVIEWED BY
+Jeff Bolles, Francis Marion University, United States Yadi Zheng, Chinese Academy of Medical Sciences and Peking Union Medical College, China
+*CORRESPONDENCE
+Yuanyuan Yang 907595246@qq.com
+RECEIVED 08 July 2024 ACCEPTED 19 November 2024 PUBLISHED 16 December 2024
+CITATION
+Fu W, Xu Q, Lu H, Yang Y and Zheng Y (2024) Effectiveness of continuity of care in postoperative patients with cervical cancer: a systematic evaluation and metaanalysis of a randomized controlled trial. Front. Oncol. 14:1461296. doi: 10.3389/fonc.2024.1461296
+COPYRIGHT
+© 2024 Fu, Xu, Lu, Yang and Zheng. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+Effectiveness of continuity of care in postoperative patients with cervical cancer: a systematic evaluation and meta-analysis of a randomized controlled trial
+Wenfeng Fu, Qiannan Xu, Haizhen Lu, Yuanyuan Yang* and Yanxue Zheng
+Comprehensive Gynecology Ward of Afﬁliated Hospital of Jining Medical University, Jining, Shandong, China
+Objective: To analyze the effect of implementing continuity of care for postoperative patients with cervical cancer, to improve the continuity of care model in China, and to provide comprehensive, continuous, and personalized care services for patients.
+Methods: PubMed, Web of Science, Science Direct, China Knowledge Network, Wanfang database, China Biomedical sources Service System, Wipro, Cochrane Library, Embase, and other databases were searched for relevant sources on the effect of continuity of care on postoperative cervical cancer patients. The Cochrane Handbook of Systematic Evaluation and Revman 5.3 software was used to evaluate the quality of the retrieved sources and perform meta-analysis.
+Results: Compared with the control group, extended care could improve patients’ quality of life [SMD=1.35,95%CI(1.05,1.64), P<0.05], alleviate patients’ postoperative anxiety [SMD=-0.92,95%CI(-1.85,0.00), P<0.05] and postoperative depression [SMD=-1.15,95% CI(-1.35,-0.95), P<0.05].
+Conclusion: The use of continuity of care form has an important role in improving the quality of life of cervical cancer patients and improving negative emotions.
+
+KEYWORDS
+cervical cancer, continuity of care, randomized controlled trial, meta-analysis, nursing care
+
+Frontiers in Oncology
+
+01
+
+frontiersin.org
+
+Fu et al.
+
+10.3389/fonc.2024.1461296
+
+1 Introduction
+Cervical cancer is a common gynecological tumor and has become an important public health problem for women. According to the statistics on the incidence and mortality of female cancer patients around the world (1), cervical cancer is the fourth in the incidence of female malignant tumors, the ﬁrst in the incidence of gynecological malignant tumors, and the fourth in the mortality rate of female malignant tumors, which poses a serious threat to women’s life and health. Cervical cancer is also one of the top ten malignant tumors in China. It is the second most prevalent malignant tumor among Chinese women, with 98.9/100,000 new cases per year, accounting for about 28.8% of the global new cases, and 30.5/100,000 cases (2). The number of cervical cancer survivors has increased with further advances in early screening, diagnosis, and treatment techniques (surgery, radiotherapy, chemotherapy, and immunotherapy) for cervical cancer, and continued improvements in clinical outcomes (3). Surgery is now one of the most effective treatments for cervical cancer, but 1/3 of patients still experience cancer progression or recurrence after surgery (4). Studies have found that when patients have more extensive surgery, the impact on their health status is more signiﬁcant. Most patients with cervical cancer exhibit discomfort such as pain, fatigue, and poor appetite after surgical treatment (5). Bladder dysfunction, perimenopausal symptoms, sexual dysfunction, and lymphedema were reported among the long-term effects (6). Thus, radical cervical cancer surgery can have some degree of impact on patients’ physical and mental health and quality of life.
+Continuity of care is a new model of care, which mainly refers to the continuation of medical care after patients return from hospitals to their families, and its original intention is to provide continuous and coordinated health guidance for patients after discharge from hospitals, to promote the physical rehabilitation of patients and to improve their quality of life (7). Continuity of care can avoid the problem of inadequate care in clinical diagnosis and treatment, prevent and reduce the occurrence of postoperative complications, improve the postoperative status of patients, save medical resources, and realize good social and economic beneﬁts (8–10). At present, overseas countries have established a perfect continuity of care system, and have widely implemented continuity of care activities in chronic diseases such as cardiovascular disease, cancer, diabetes, etc. Strengthening post-discharge follow-up and enhancing communication and collaboration between health services, improves the clinical outcomes of patients, reduces the readmission rate of patients, saves medical costs, and improves the service recognition and quality of life of patients (11). In recent years, continuity of care in China has also developed rapidly, and a large number of continuity of care services have been carried out in patients with cardiovascular and cerebrovascular diseases, oncology chemotherapy, respiratory diseases, diabetes mellitus, amputation reimplantation, and dialysis (12, 13).
+Abbreviations: CNKI, China National Knowledge Infrastructure; SinoMed, China Biomedical sources Service; RCT, randomized controlled trial; Quality of life, the quality of life scale=SF-36; Self-rating Anxiety Scale, SAS; Self-rating Depression Scale, SDS; PRISMA, the Preferred Reports for Systematic Reviews and Meta-Analyses; MD, mean difference; SMD, standardized mean difference.
+
+At present, continuity nursing has also been applied to a certain extent in the treatment of cervical cancer, and research in this area has relatively increased and achieved certain research results. The continuity of nursing care can greatly improve the quality of life of cervical cancer patients after surgery, and ensure the continuity, repeatability, completeness, and continuity of nursing care for cervical cancer patients after discharge from the hospital. Although scholars have conducted relevant interventional studies on continuity of care for cervical cancer patients, systematic evaluation of continuity of care is lacking. This study evaluates the meta-analysis of the impact of continuity of care on the quality of life of postoperative patients with cervical cancer to provide an evidence-based basis for clinical interventions for postoperative patients with cervical cancer and to further improve the continuity of care model in the future.
+2 Methods
+2.1 Sources inclusion and exclusion criteria
+Inclusion criteria: ① The type of study was randomized controlled trial (RCT); ② The study subjects were patients over 18 years of age, clearly diagnosed with cervical cancer, and having undergone radical cervical cancer surgery; ③ The interventions were: the control group was the patients who took routine care; the observation group was the postoperative patients who received extended care; ④ The outcome indicators were: (1) Quality of life: the quality of life scale (SF-36) was used to assess the quality of life of the patients.(2) Anxiety: Self-rating Anxiety Scale (SAS); (3) Depression: Self-rating Depression Scale (SDS).
+Exclusion criteria: (1) duplicate publication; (2) non-Chinese and English sources; (3) unavailability of original text and original data; (4) poor quality of research.
+2.2 Search strategy
+Systematic search of PubMed, Web of science, science direct, China Knowledge Network, Wanfang Database, China Biomedical sources Service System, Wipro, Cochrane Library, embase and other databases for studies on the impact of continuity of care on postoperative patients with cervical cancer, with a timeframe of the construction of the database to April 2024, was performed on the relevant sources was traced. The search strategy was adapted to different databases by combining subject terms with free words. The Chinese search terms were “cervical cancer”, “cervical tumor”, “continuity of care”, “transitional care”, “extended care” “continuity of service” “continuum of care” “quality of life” “quality of survival” and so on. The English search uses a combination of subject words and free words, the search words are “uterine cervicalneoplasms”, “continuum of care”, “continuity of care”, “transitional care”, “transition of care”, “extended care”, “continuity of care”, “quality of life”, “quality of survival” and so on. care” “transition of care” “continuity of nursing” “extended care” “life quality ““health-related quality of life”. The sources search process conformed to the search requirements in the PRISMA (14) statement. pubmed’s search process was as follows (Figure 1).
+
+Frontiers in Oncology
+
+02
+
+frontiersin.org
+
+Fu et al.
+
+10.3389/fonc.2024.1461296
+
+continuous variables, when P ≤ 0.05 differences between the experimental and control groups were considered to exist and were statistically signiﬁcant.
+
+3 Results
+3.1 Results of the sources search
+
+FIGURE 1
+Pubmed sources search format.
+2.3 Sources screening and data extraction
+The sources was sorted out using Endnote X9 software with reference to the inclusion and exclusion criteria. Sources screening and data extraction were carried out independently by two subject members who had received training in evidence-based methodology and had long been involved in the care of patients with cervical cancer, and in case of disagreement, the decision was made in consultation with the third. The main extracted information included ﬁrst author, year of publication, province, number of study participants, intervention method, and primary outcome indicators.
+
+A total of 776 sources were obtained from the initial screening. After using Endnote software to eliminate 89 duplicates and manually screening 146 duplicates to obtain 541 documents, 75 documents were obtained after eliminating 50 meta-analyses, systematic evaluations, etc., three qualitative studies, 100 documents of conference abstracts, guidelines, indexes, and 313 documents that were not related to the topic. After reading through the full text and eliminating three articles that could not obtain the full text, two articles with duplicated content or incomplete data, 30 articles that did not conform to the content of the study, two articles that were not randomized controlled trials, and 20 articles that did not conform to the study subjects, 18 articles were ﬁnally included (16–33). The ﬂowchart of sources search is shown in Figure 2.
+
+2.4 Sources quality assessment
+The quality of the included sources was evaluated by two panelists according to the Cochrane (15) Risk of Bias Assessment Tool, and in case of disagreement, the decision was made in consultation with the third panelist. The Cochrane Risk of Bias Assessment Tool mainly includes random sequence generation, allocation concealment, selection of blinding, completeness of outcome data, selective reporting of results, and other biases, each of which was evaluated as “low risk”, “high risk”, “unclear”. “unclear” for each item. A grade of A was assigned if all of the items met the “low risk” criteria, a grade of B was assigned if some of the items met the “low risk” criteria, and a grade of C was assigned if none of the items met the “low risk” criteria.
+
+2.5 Statistical methods
+Excel and Review Manager 5.3 software were used to plot for statistical analysis. If the heterogeneity was small (P≥0.1,I2 <50%), a ﬁxed-effects model was used; if the heterogeneity was large (P<0.1,I2 >50%), a random-effects model was chosen. The outcome indicators were continuous variables, and the measurement tools were different, using mean difference (MD), standardized mean difference (SMD), and 95% conﬁdence interval (CI) to describe the
+
+FIGURE 2
+Flowchart of sources screening.
+
+Frontiers in Oncology
+
+03
+
+frontiersin.org
+
+frontiersin.org
+
+04
+
+Frontiers in Oncology
+
+TABLE 1 18 basic characteristics of the sources.
+
+Author (year)
+
+Number of
+
+City
+
+Type of
+
+participants
+
+participant
+
+Total E
+
+C
+
+Wang Shujiao (2021) (16)
+
+Hubei
+
+Postoperative patients 80 40 40 with cervical cancer
+
+Guo Lin (2020) (17)
+
+Shandong Postoperative patients 100 50 50 with cervical cancer
+
+Qin Jiedan (2016) (18)
+
+Jiangsu
+
+Postoperative patients 84 42 42 with cervical cancer
+
+Shi Haiyan (2018) (19)
+
+Shaanxi
+
+Post-radical cervical 100 50 50 cancer patients
+
+Chen Xiaoyan (2020) (20)
+
+Cervical cancer
+
+Sichuan
+
+patients after
+
+109
+
+55
+
+54
+
+extensive hysterectomy
+
+Bi Yunfeng (2020) (21)
+
+Cervical cancer
+
+Guizhou
+
+patients after
+
+60
+
+30
+
+30
+
+extensive hysterectomy
+
+Liu Xiaowan (2019) (22)
+
+He’nan
+
+Mengguzu
+
+Cervical cancer
+
+autonomous
+
+patients after
+
+120
+
+60
+
+60
+
+county
+
+extensive hysterectomy
+
+in Qinghai
+
+Zhang Yahong (2021) (23)
+
+Cervical cancer
+
+Shaanxi
+
+patients after
+
+92
+
+50
+
+42
+
+extensive hysterectomy
+
+Qu Li (2020) (24)
+
+Cervical cancer
+
+Shanghai
+
+patients after
+
+82
+
+41
+
+41
+
+extensive hysterectomy
+
+Mengfei Xu (2018) (25)
+
+Jiangsu
+
+Cervical cancer
+
+patients after
+
+86
+
+43
+
+43
+
+extensive hysterectomy
+
+Zhang, Liangming (2017) (26)
+
+Hubei
+
+Postoperative patients 86 48 38 with cervical cancer
+
+Zhang Guiyun (2020) (27)
+
+Liaoning
+
+Postoperative patients 146 73 73 with cervical cancer
+
+Interventions
+
+E
+
+C
+
+Routine + continuity of care
+
+Routine care measures
+
+Routine + continuity of care
+
+Routine care measures
+
+Routine + continuity of care
+
+Routine care measures
+
+Routine + continuity of care
+
+Routine care measures
+
+Continuity of care
+
+routine care
+
+Continuity of care
+
+routine care
+
+Continuity of care routine care
+
+Routine + continuity of care
+Routine + continuity of care
+Routine + continuity of care
+Routine + continuity of care
+Routine + continuity of care
+
+Routine care measures
+Routine care measures
+Routine care measures
+Routine care measures
+Routine care measures
+
+Outcomes
+Quality of Life Evaluation Scale (SF-36); Self-Assessment Scale for Psychological Emotions Depression (SAS); Self-Assessment Scale for Anxiety
+(SDS); Satisfaction with Nursing Care Quality of Life Rating Scale (SF-36); Self-Assessment Scale for Depression
+(SAS); Self-Assessment Scale for Anxiety (SDS) Self-Care Competency Assessment Scale (ESCA); Disease Self-Management
+Efﬁcacy Measure; Survival Quality Quantity (EROTCQLQ-C30) Quality of Life Rating Scale (SF-36); Self-Assessment Scale for Depression (SAS); Self-Assessment Scale for Anxiety (SDS)
+Quality of Life Scale; anxiety; satisfaction with care;
+Quality of Life Assessment Scale (SF-36)
+Quality of Life Rating Scale (SF-36); Satisfaction with Nursing Care; SelfAssessment Scale for Depression (SAS); Self-Assessment Scale for Anxiety (SDS)
+Quality of Life Assessment Scale (SF-36); Olson Marital Quality Questionnaire (Olson)
+Quality of Life Rating Scale (SF-36); Nursing Satisfaction Score; SelfAssessment Scale for Depression (SAS); Self-Assessment Scale for Anxiety (SDS)
+Cancer Rehabilitation Evaluation Scale; satisfaction with care;
+Quality of Life QOL Scale; Satisfaction with Nursing Care
+Quality of Life Rating Scale (SF-36); Self-Assessment Scale for Anxiety (SAS) (Continued)
+
+10.3389/fonc.2024.1461296
+
+Fu et al.
+
+frontiersin.org
+
+05
+
+Frontiers in Oncology
+
+TABLE 1 Continued
+Author (year)
+Xiao Yuhua (2021) (28) Liu Shanhui (2020) (29)
+Lina Li (2017) (30) Eugenia (2016) (31) Liu Yali (2021) (32) Liu Qinyin (2019) (33)
+
+City
+hillsides
+He’nan Mengguzu autonomous
+county in Qinghai
+He’nan Mengguzu autonomous
+county in Qinghai
+Jiangsu
+Jiangsu
+Hunan
+
+Type of participant
+Postoperative patients with cervical cancer
+
+Number of participants
+
+Total E
+
+C
+
+92
+
+46
+
+46
+
+Interventions
+
+E
+Routine + continuity of care
+
+C
+Routine care measures
+
+Patients after radical 80 40 40 Routine + continuity
+
+Routine
+
+cervical cancer surgery
+
+of care
+
+care measures
+
+Postoperative patients 96 48 48 Routine + continuity
+
+Routine
+
+with cervical cancer
+
+of care
+
+care measures
+
+Postoperative patients 98 49 49 Routine + continuity
+
+Routine
+
+with cervical cancer
+
+of care
+
+care measures
+
+Post-radical cervical 82 41 41 Routine + continuity
+
+Routine
+
+cancer patients
+
+of care
+
+care measures
+
+Patients after radical 94 47 47 Routine + continuity
+
+Routine
+
+cervical cancer surgery
+
+of care
+
+care measures
+
+Outcomes
+Survival Quality Measurement Scale WHOQOL-100; Psychological Primacy Scale (RS); satisfaction with care;
+Self-management Competency Assessment Scale (ESCA); Quality of Life Measurement Scale (QLQ-C30);
+Self-Care Competency Assessment (ESCA); Self-Assessment Scale for Depression (SAS); Self-Assessment Scale for Anxiety (SDS).
+Short form for evaluation of cancer rehabilitation; incidence of postoperative urinary retention and incidence of abdominal distension and incision infection at 6 months after discharge, and time to sexual recovery; Quality of life; sleep quality status (PSQI score) Self-Assessment Scale for Anxiety (SAS), Self-Depression Scale (SDS); WHOQOL-BREF Quality of Life Scale; self-care skills;
+
+10.3389/fonc.2024.1461296
+
+Fu et al.
+
+Fu et al.
+
+10.3389/fonc.2024.1461296
+
+3.2 Basic characteristics of the included sources and evaluation of methodological quality
+A total of 18 articles were included (16–33). A total of 1773 postoperative patients with cervical cancer were included, and the basic characteristics of the included sources are shown in Table 1. The 18 included sources used randomized controlled methods, and the outcome indicators were complete, no selective reporting of results, and no other bias. The quality evaluation of the included sources is shown in Figures 3, 4.
+3.3 Meta-analysis results
+3.3.1 Impact of continuity of care on quality of life of patients after cervical cancer surgery
+Seven studies (16, 17, 19, 21–23, 27), reported the effect of continuity of care on the quality of life of patients with cervical cancer, seven studies with combinable data were analyzed, and the combined results revealed inter-study heterogeneity (I2 = 67%, P<0.001), so Meta-analysis was performed using a random-effects model. The results showed a statistically signiﬁcant difference [SMD=1.35,95%CI(1.05,1.64),P<0.05], and the results indicated that the quality of survival of cervical cancer patients in the observation group was better than that of the control group (see Figure 5).
+3.3.2 Effect of continuity of care on anxiety in postoperative cervical cancer patients
+There were nine studies (16, 17, 19, 20, 22, 24, 27, 30, 33) comparing the anxiety scores of the two groups of patients with a total of 927 patients with cervical cancer, and because of the large heterogeneity (I2 >50%), the results showed that compared with the observation group, the anxiety scores of the control group of patients with cervical cancer were higher, and the difference was statistically signiﬁcant [SMD=-0.92, 95% CI (-1.85,0.00),P<0.05], as shown in Figure 6.
+
+3.3.3 Effect of continuity of care on depression in postoperative cervical cancer patients
+Seven studies (16, 17, 19, 22, 24, 30, 33) reported the depression scores of the two groups of 672 cervical cancer patients with large heterogeneity(I2 >50%),and the results showed that the difference was statistically signiﬁcant[SMD=-1.15,95%,CI(-1.35,-0.95),P<0.05],and the implementation of continuity of care, the depression scores of cervical cancer patients in the experimental group were lower than those of the control group, as shown in Figure 7.
+4 Discussion
+4.1 Continuity of care improves the quality of life of patients after cervical cancer surgery
+The ﬁndings of this study indicated that there was no signiﬁcant difference in quality of life between the control group and the intervention group prior to the continuity intervention; however, post-intervention, the quality of life in the intervention group was signiﬁcantly higher than both their pre-intervention levels and those of the control group (P<0.05). Dietary education: nursing staff should consistently provide targeted and practical guidance to patients based on their evolving conditions and dietary habits. Although most health issues faced by patients are addressed during hospitalization, many individuals continue to experience persistent or new health problems after discharge, resulting in ongoing high healthcare needs among discharged patients (34).
+Continuity of care interventions offer patient-centered support that transcends temporal and spatial limitations. The active involvement of families in these interventions effectively enhances postoperative recovery and overall quality of life for patients, facilitating problem-solving at home through direct consultations via internet platforms, telephone communication, and newsletters. This approach not only improves efﬁciency but also fosters better
+
+FIGURE 3
+Summary of sources quality assessment.
+
+Frontiers in Oncology
+
+06
+
+frontiersin.org
+
+Fu et al.
+
+10.3389/fonc.2024.1461296
+
+enabled patients to have a more comprehensive understanding of cervical cancer, but also provided them with strong support psychologically, and signiﬁcantly reduced the negative emotion of depression due to the disease (P<0.05). Cancer imposes a high burden of care and also leads to high medical costs, which stresses patients (36). By using the continuity of care model that combines online and ofﬂine to help patients gain the knowledge related to cervical cancer, psychologically reduce or eliminate the fear of cervical cancer and depression and other emotional barriers, enhance the patients’ conﬁdence in the recovery of the disease, and more positively face life out of the shadow of the disease, to help the patients to maintain a positive and optimistic mood, and to establish conﬁdence in recovery.
+
+4.3 Continuity of care relieves anxiety in postoperative cervical cancer patients
+The analysis of anxiety scores revealed that the continuity of care intervention signiﬁcantly impacted the psychological well-being of cervical cancer patients. Following the implementation of this innovative nursing model, patients exhibited a marked reduction in anxiety levels (P<0.05), indicating positive psychological changes. The continuity nursing intervention emphasizes not only patient care during hospitalization but also ongoing support after discharge. Through regular follow-up visits and meaningful telephone communication, a strong emotional bond was cultivated between healthcare professionals and patients, fostering an environment where patients could experience genuine care and compassion. This continuous support enhances patients’ conﬁdence throughout their recovery journey, enabling them to confront life’s challenges with resilience. Furthermore, as cervical cancer patients typically spend considerable time at home postdischarge, implementing continuity of care can promote psychological comfort and improve mood while alleviating family members’ anxiety related to care giving responsibilities and ﬁnancial concerns (37). Thus, it is evident that continuity of care interventions provide signiﬁcant beneﬁts for cervical cancer patients.
+
+5 Limitations and perspectives
+
+FIGURE 4
+Speciﬁc diagram for the evaluation of the quality of sources.
+nurse-patient relationships, achieving a truly zero-distance interaction between nurses and patients. Consequently, it enhances nursing care effectiveness, elevates patient survival quality, increases recognition for nursing work among patients, thereby ensuring effective high-quality care that garners patient afﬁrmation (35).
+4.2 Continuity of care reduces depression in postoperative cervical cancer patients
+After meta-analysis, we found that continuity of care intervention, as a cutting-edge nursing service model, not only
+
+While this study has made notable strides in examining the impact of continuity of care interventions on cervical cancer patients, several limitations warrant further investigation and enhancement. Firstly, the research predominantly employed scale analysis to evaluate outcome indicators—a method that, despite its widespread use, is inherently susceptible to subjective inﬂuences and may introduce bias into the ﬁndings. To more accurately capture the effects of interventions, future studies should consider incorporating additional objective and quantitative measures or employing a combination of diverse assessment methodologies to yield more comprehensive and precise data.
+Secondly, this study’s reliance on Chinese sources for data collection may have resulted in an oversight regarding signiﬁcant contributions from relevant international literature and datasets. To expand research perspectives, subsequent investigations should prioritize cross-cultural source collection and analysis to achieve a
+
+Frontiers in Oncology
+
+07
+
+frontiersin.org
+
+Fu et al.
+
+10.3389/fonc.2024.1461296
+
+FIGURE 5
+Meta-analysis results of quality of life.
+
+FIGURE 6
+Meta-analysis results of Anxiety Self-Rating Scale (SDS).
+
+FIGURE 7
+Meta-analysis results of Self-Assessment Scale for Depression (SAS).
+
+more holistic understanding of the advancements and applications of continuity of care interventions both domestically and internationally. Furthermore, this study lacks an evaluation of long-term intervention effects due to insufﬁcient follow-up data support. Given that continuity of care is an ongoing process, it is essential to assess its long-term impacts through extended observation periods. Therefore, future research should enhance patient follow-up efforts to gather extensive longitudinal data concerning intervention outcomes, thereby providing robust evidence for clinical practice.
+
+6 Conclusion
+The results of the study showed that through the implementation of continuity of care, the SF-36 scores of cervical cancer patients were signiﬁcantly improved, and negative emotions such as anxiety and depression were effectively alleviated, thus substantially improving the quality of life of patients. However, the current continuity of care model has not yet been uniﬁed, and the specialized training appears to be insufﬁcient, resulting in a set of clear operational standards that have not yet been formed in the
+
+Frontiers in Oncology
+
+08
+
+frontiersin.org
+
+Fu et al.
+
+10.3389/fonc.2024.1461296
+
+clinic. Therefore, in future studies, we propose to learn from advanced foreign experiences, adopt a multidisciplinary and multi-health care personnel to participate in the model, and form a cross-disciplinary professional team. Through specialized training and guidance, we will ensure that every staff member involved in continuity of care will be able to master the relevant knowledge and skills, and provide comprehensive, continuous, and personalized care services for patients.
+Author contributions
+WF: Formal analysis, Methodology, Visualization, Writing – original draft. QX: Data curation, Methodology, Supervision, Writing – review & editing. HL: Formal analysis, Project administration, Validation, Writing – review & editing. YY: Funding acquisition, Resources, Visualization, Writing – original draft. YZ: Conceptualization, Investigation, Software, Writing – original draft.
+
+Funding
+The author(s) declare that no ﬁnancial support was received for the research, authorship, and/or publication of this article.
+Conﬂict of interest
+The authors declare that the research was conducted in the absence of any commercial or ﬁnancial relationships that could be construed as a potential conﬂict of interest.
+Publisher’s note
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their afﬁliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+References
+
+1. Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA: Cancer J Clin. (2018) 68:394–424. doi: 10.3322/caac.21492
+2. Chen W, Zheng R, Baade PD, Zhang S, Zeng H, Bray F, et al. Cancer statistics in China, 2015. CA: Cancer J Clin. (2016) 66:115–32. doi: 10.3322/caac.21338
+3. Stumbar SE, Stevens M, Feld Z. Cervical cancer and its precursors: a preventative approach to screening, diagnosis, and management. Primary Care. (2019) 46:117–34. doi: 10.1016/j.pop.2018.10.011
+4. Thewes B, Butow P, Zachariae R, Song R, Park ER, Yeh GY. Fear of cancer recurrence: a systematic sources review of self-report measures. Psycho-oncology. (2012) 21:571–87. doi: 10.1002/pon.v21.6
+5. Landoni F, Maneo A, Cormio G, Perego P, Milani R, Caruso O, et al. Class II versus class III radical hysterectomy in stage IB-II A cervical cancer: a prospective randomized study. Gynecol Oncol. (2001) 80:3–12. doi: 10.1006/gyno.2000.6010
+6. Zheng Y. Preliminary establishment of a self-reporting scale for symptoms during recovery in patients undergoing radical cervical cancer surgery. China: Zhejiang University (2020).
+7. Coleman EA, Boult C. Improving the quality of transHional care or persons with complex care needs. J Am Geriatr Soc. (2003) 51:855–6. doi: 10.1111/j.1532-5415.2004.52230_15.x
+8. Liang Y. Analysis of the intervention effect of continuity of care on elderly patients with coronary heart disease. J Aerospace Med. (2022) 33:1118–21.
+9. Zhou P. Examining the effect of continuity of care intervention on adverse emotions and medication adherence in patients after PCI for acute myocardial infarction. China Med Guide. (2022) 20:141–4. doi: 10.15912/j.cnki.gocm.2022.06.048
+10. Xu L, Chen L, Liu F, Deng K. Construction of a continuity of care platform combining Chinese and Western medicine and its application in patients with type 2 diabetes mellitus. Chin J Nurs. (2022) 57:2053–9.
+11. Kietzman KG, Ha P, Huynh PT. Coming full circle: planning for future pathways of transitions of care for older adults. AnnualReview Gerontol Geriatrics. (2011) 31(1). doi: 10.1891/0198-8794.31.231
+12. Jin Y. Dose of care required and effectiveness of post-discharge continuity of care: 2006 China Nursing Congress, Beijing. (2006).
+13. Wang S-L, Jin J-Y, Zhou J. Establishment of evidence-based practice for continuity of care in chronic obstructive pulmonary disease. Chin J Nurs. (2009) 44:431–4.
+14. Moher D, Liberati A, Tetzlaff J, Altman DG. PRISMA Group Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. Ann Intern Med. (2009) 151:264–9. doi: 10.7326/0003-4819-151-4-200908180-00135
+15. Higgins JP, Green S. Cochrane handbook for systematic reviews of intervention version 5.1.0 (2022). Available online at: https://handbook-5-1.cochrane.org/ (Accessed March 13, 2022).
+16. Wang S. Observations on the effects of extended care on the quality of life and psychological emotions of patients undergoing radical cervical cancer surgery. World Digest Recent Med Inf (Continuous Electron Journal). (2021) 21:319–320, 323. doi: 10.3969/j.issn.1671-3141.2021.22.152
+
+17. Guo L, Li Y. Observations on the effects of extended care on the quality of life and psychological emotions of patients undergoing radical cervical cancer surgery. Selfcare. (2020) 23:158–9.
+18. Qin J, Jiang L. Effects of extended care on self-care ability and self-efﬁcacy of cervical cancer patients after surgery. Shanxi Med J. (2016) 45:221–3. doi: 10.3969/ j.issn.0253-9926.2016.02.042
+19. Shi H. The effect of continuity of care on negative emotions and quality of life of patients after radical cervical cancer surgery. Clin Med Res Pract. (2018) 3:183–4. doi: 10.19347/j.cnki.2096-1413.201806089
+20. Chen X, Li Y, Wang C. Effect of continuity of care on quality of life after extensive hysterectomy in patients with cervical cancer. Dietary Health Care. (2020) 7:6.
+21. Bi Y. Effect of continuity of care on quality of life after extensive hysterectomy in patients with cervical cancer. Chin Community Phys. (2020) 36:164–5. doi: 10.3969/ j.issn.1007-614x.2020.09.101
+22. Liu X, Qu Q. Effect of continuity of care on quality of life after extensive hysterectomy in patients with cervical cancer. Shanxi Med J. (2019) 48:627–9. doi: 10.3969/j.issn.0253-9926.2019.05.047
+23. Zhang Y, Yang T. Observation on the effect of continuity of care on the quality of life of cervical cancer patients after extensive hysterectomy. Guizhou Med. (2021) 45:1490–1. doi: 10.3969/j.issn.1000-744X.2021.09.079
+24. Qu L. A study on the effect of continuity of care on the quality of life of cervical cancer patients after extensive hysterectomy. Shanxi Med J. (2020) 49:2073–5. doi: 10.3969/j.issn.0253-9926.2020.15.058
+25. Xu M. The effect of continuity of care on the quality of life of cervical cancer patients after extensive hysterectomy. Electron J Pract Gynecol Endocrinol. (2018) 5:117–8. doi: 10.3969/j.issn.2095-8803.2018.35.088
+26. Zhang L. The effect of continuity of care on the quality of life and nursing satisfaction of postoperative patients with cervical cancer. Electron J Pract Gynecol Endocrinol. (2017) 4:157,160. doi: 10.3969/j.issn.2095-8803.2017.28.112
+27. Zhang G. Effect of continuity of care on quality of life and anxiety status of postoperative patients with cervical cancer. China Med Guide. (2020) 18:200–1. doi: 10.15912/j.cnki.gocm.2020.26.097
+28. Xiao YH. Effects of continuity of care on psychological resilience and quality of life of postoperative cervical cancer patients. World Digest Recent Med Inf (Continuous Electron Journal). (2021) 21:369–70. doi: 10.3969/j.issn.16713141.2021.15.160
+29. Liu S, Xu J. Effects of continuity of care on self-management ability and quality of life of postoperative cervical cancer patients. Zhongguo niankang Med. (2020) 32:155–7. doi: 10.3969/j.issn.1672-0369.2020.09.062
+30. Li L. Effect of continuity nursing on self-care ability and psychological level of patients after minimally invasive surgery for cervical cancer. Inner Mongolia Med J. (2017) 49:1404–5. doi: 10.16096/J.cnki.nmgyxzz.2017.49.11.060
+31. You J. The effect of continuity nursing intervention on patients after radical cervical cancer surgery. Qilu Nurs J. (2016) 22:27–8. doi: 10.3969/j.issn.1006-7256.2016.22.013
+
+Frontiers in Oncology
+
+09
+
+frontiersin.org
+
+Fu et al.
+
+10.3389/fonc.2024.1461296
+
+32. Liu Y. The effect of continuity nursing intervention on patients after radical cervical cancer surgery. Healthy Women. (2021) (6):134.
+33. Liu Q. Effect of extended nursing intervention on quality of life after total hysterectomy in patients with cervical cancer. Electron J Pract Clin Nurs. (2019) 4:90, 92.
+34. Song H. Application of WeChat platform in extended care for patients undergoing radical rectal cancer surgery. J Nurs. (2015) 30:86–8.
+
+35. Yang Q, Yang M, Wang J, et al. Current status of application researchers of continuity of care in China. J Nurs. (2014) 21:17–9.
+36. Zhang R. The application of online and ofﬂine continuity of care during postoperative chemotherapy in young and middle-aged breast cancer patients. China: Jiangnan University (2023). doi: 10.27169/d.cnki.gwqgu.2023.001926
+37. Zhao H, Wang Y. Application effect of continuity of care in patients discharged from hospital with cancer. Nurs Pract Res. (2021) 18:2955–8.
+
+Frontiers in Oncology
+
+10
+
+frontiersin.org

@@ -1,0 +1,635 @@
+1 CUIDADO ESTANDARIZADO EN EL PACIENTE QUIRURGICO CON
+ALTERACIONES EN LA FUNCION GASTROINTESTINAL
+Manuela Posada González Luisa Fernanda Vanegas Murillo
+Facultad Ciencias de la Salud, Universidad del Areandina Semillero de Investigación Perla del Otún Enfermera Mónica Barón 11 de octubre de 2020
+
+2
+Tabla de contenido Introducción ………………………………………………………………………… 3 Justificación ………………………………………………………………………… 4 Planteamiento del problema ………………………………………………………... 4 Pregunta de investigación …………………………………………………………. 5 Marco referencial …………………………………………………………………... 5
+Marco conceptual ……………………………………………………………5 Proceso de atención de enfermería …………………………………. 5 Colecistitis …………………………………………………………. 7 Colelitiasis …………………………………………………………. 10 Apendicitis …………………………………………………………. 12 Obstrucción intestinal ……………………………………………… 14
+Estado del arte ……………………………………………………………… 17 Marco teórico disciplinar …………………………………………………... 20
+Teoría del déficit de autocuidado de Dorothea E. Orem …………… 20 Objetivo general ……………………………………………………………………. 21
+Objetivos específicos ………………………………………………………. 21 Metodología ………………………………………………………………………. 22 Consideraciones éticas ……………………………………………………………. 22 Resultados ………………………………………………………………………… 22 Discusión …………………………………………………………………………. 27 Conclusiones ……………………………………………………………………… 32 Referencias ………………………………………………………………………… 33
+
+3
+1. INTRODUCCION
+Enfermería como disciplina profesional tiene como objeto social el cuidado de individuos, familias, comunidades y entorno. Dispone del lenguaje estandarizado North American Nursing Diagnosis Association (NANDA), Nursing Outcome Classification (NOC), Nursing Intervention Classification (NIC) (Herdman, 2018 - 2020) (Moorhead, 2020)(Butcher, 2018). Con la sistematización de la información en las instituciones de salud, existe una tendencia a estandarizar los procesos de enfermería atendiendo a necesidades de cuidados comunes. Este trabajo focaliza la atención de los pacientes sometidos a intervenciones quirúrgicas relacionadas con la función gastrointestinal, principalmente apendicitis, Colecistitis – colelitiasis y obstrucción intestinal.
+Aproximadamente el 50% de la población ha sufrido apendicitis en su vida.(Rodríguez Reyes, Vilaseca Zanabria, Puertas Álvarez, & Gonzáles Rondón, 2017). La colecistitis es la segunda causa de abdomen agudo. El 75% de las obstrucciones intestinales son mecánicas (Domínguez González, Piña Prieto, Cisneros Domínguez, & Romero García, 2015). Las personas sometidas a estos procedimientos comparten necesidades comunes derivadas del déficit de autocuidado como consecuencia de las limitaciones físicas asociadas al dolor y al desconocimiento del ambiente hospitalario entre otros.
+Por otro lado, el posoperatorio como tiempo transcurrido entre una operación y la completa recuperación del paciente, requiere de la intervención de enfermería de manera eficaz y efectiva, que genere avances en la recuperación de los pacientes. El enfermero cumple con la satisfacción de las necesidades del paciente y este a su vez se recupera satisfactoriamente; utilizando en la planeación del cuidado el Proceso de Atención de Enfermería (PAE) como método dinámico y sistemático basado en principios científicos, enfocados hacia las necesidades del individuo, permitiendo brindar un cuidado técnico y científicos (Domínguez González et al., 2015).
+Cabe resaltar que el PAE consta de cinco fases: valoración, diagnóstico, planeación, ejecución y evaluación, en las cuales el profesional se fundamenta en los principios científicos y se apoya en un modelo teórico para fortalecer las necesidades humanas que están limitando su vida cotidiana (Oto Cavero, Arqu Blanco, & Barrachina Bells, 2004).
+Este estudio ha tomado como referente teórico Dorothea E. Orem quien define las necesidades del autocuidado terapéutico como el conjunto de actividades encaminadas a cubrir las necesidades de autocuidado de los pacientes durante un tiempo determinado; estas están clasificadas en controlar las necesidades del funcionamiento humano como lo son, la alimentación, oxigenación, hidratación, descanso y equilibrio hemodinámico; y, las necesidades de actividad, donde se encuentran las intervenciones de mantenimiento, promoción y prevención. La necesidad terapéutica de autocuidado debe garantizar el bienestar del paciente y la adecuada utilización de tecnologías, instrumentos y cuidados de enfermería.
+
+4
+El autocuidado es definido como la habilidad de las personas maduras o en proceso de maduración para identificar sus necesidades y ser capaz de cubrirlas por sí mismo con acciones deliberadas encaminadas a regular su funcionamiento y desarrollo humano; así mismo, en su teoría, Orem describe el déficit del autocuidado como la interrelación entre la necesidad terapéutica de autocuidado y las actividades propias de autocuidado, en las que estas actividades son insuficientes para mantener el equilibrio fisiológico y desarrollo humano(8).
+En pro de obtener una mejor atención en enfermería, los diferentes servicios hospitalarios deben generar planes de cuidados estandarizados que cumplan con los requerimientos y necesidades de los pacientes que presentan signos y síntomas similares, asociados a patologías del mismo sistema (Baena, 2003).
+2. JUSTIFICACIÓN
+En vista que las instituciones de salud no cuentan con cuidados de Enfermería Estandarizados en el paciente quirúrgico con alteración de la función gastrointestinal se elabora una propuesta de planes de cuidados estandarizados que garanticen el cuidado de enfermería unificado en pacientes que cumplan los requisitos con situaciones similares, de esta manera, se asegura que el cuidado a los pacientes sea eficaz según sus necesidades y las complicaciones posquirúrgicas se minimicen, para así brindarle seguridad y tranquilidad al paciente. Los cuidados de enfermería en el paciente postquirúrgico deben propender a la mejoría en su estado de salud durante el posoperatorio, unificando la actuación de todos los profesionales en el ámbito asistencial lo que mejorará el déficit de autocuidado en el usuario.
+3. PLANTEAMIENTO DEL PROBLEMA
+Se centra en la ausencia de planes de cuidados estandarizados utilizando un lenguaje estandarizado con taxonomía NANDA NOC NIC que, atendiendo el desarrollo científico y tecnológico de la atención en salud y concretamente, a la evolución de los indicadores en el desempeño de enfermería, logren hacer un seguimiento más organizado y sistematizado del quehacer del profesional y su equipo de trabajo. Un plan estandarizado debe servir para orientar la planeación y el seguimiento del cuidado en la mayoría de los pacientes atendidos en el servicio de quirúrgicas que comparten una situación similar de cuidado. En este trabajo se focaliza la atención de los procesos derivados de la función gastrointestinal, principalmente Colecistitis-Colelitiasis, Apendicitis y Obstrucción intestinal, considerando que durante la estancia posquirúrgica en la institución de salud, el paciente tiene déficit de autocuidado, como consecuencia de las limitaciones físicas asociadas al dolor, a la dificultad para movilizarse por sus propios medios, al desconocimiento del ambiente hospitalario, a su estado anímico y compromiso mental que haya generado la intervención quirúrgica y los cambios que esta pueda tener en sus actividades diarias.
+A partir de un análisis de los Diagnósticos de Enfermería prevalentes en los servicios de quirúrgicas y contrastando las distintas referencias consultadas con los resultados obtenidos tras la recogida de datos en el Sistema de Información de Prácticas Formativas SIPEANDINA los diagnósticos enfermeros que comprometen la función gastrointestinal en
+
+5
+pacientes quirúrgicos son los correspondientes a los dominios: 2 Nutrición, 3 Eliminación, 4 actividad/reposo, 11 seguridad/protección y 12 confort.
+De lo expresado se deriva la necesidad de realizar una propuesta para estandarizar el cuidado enfermero basados en la teoría de déficit de autocuidado de Orem, en alteraciones postquirúrgicas gastrointestinales: Colecistitis-Colelitiasis, Apendicitis y Obstrucción intestinal y es a esta necesidad que busca responder este trabajo.
+4. PREGUNTA DE INVESTIGACION
+El presente trabajo responde a la siguiente pregunta de investigación: ¿Cuál es la importancia de realizar planes de cuidados estandarizados en pacientes quirúrgicos con déficit de autocuidado en alteraciones de la función gastrointestinal?
+5. MARCO REFERENCIAL
+5.1 MARCO CONCEPTUAL:
+5.1.1 PROCESO DE ATENCIÓN EN ENFERMERÍA Y CUIDADOS ESTANDARIZADOS
+El proceso de atención en enfermería (PAE) es una herramienta fundamental que permite brindar cuidados de enfermería individualizados donde el profesional utiliza su conocimiento y destreza para diagnosticar y tratar la respuesta del paciente a las complicaciones reales o potenciales de salud. Su objetivo es satisfacer las necesidades de la atención en salud de las personas, familias y comunidades fundamentándose en los principios científicos. El PAE consta de cinco fases interrelacionadas:
+1. VALORACIÓN: se basa en la recolección de datos para determinar el estado de salud del paciente y demás trastornos de salud actual o potencial, proporcionando la información necesaria para:
+• Pronosticar, notificar, tratar y solucionar problemas, dudas y conflictos. • Establecer los resultados esperados observables y beneficiosos de los cuidados. • Identificar intervenciones para lograr los objetivos, promoviendo la salud y el grado
+óptimo de independencia y funcionamiento.
+2. DIAGNOSTICO: identificación clara y concisa de los dos tipos de problemas del paciente:
+• Diagnóstico de enfermería: reconocer las alteraciones de salud mediante las intervenciones del personal de enfermería.
+• Problemas de colaboración: se basa en las complicaciones fisiológicas que los profesionales del cuidado deben monitorizar para detectar cuando se inician o surgen cambios en el estado de salud.
+3. PLANIFICACIÓN: plantear los objetivos y resultados, así como un plan de cuidado diseñado para ayudar a la resolución de los trastornos diagnosticados al paciente y
+
+6
+conseguir los objetivos identificados y los resultados deseados. El plan debería estar diseñado para: • Proporcionar registros que puedan utilizarse para monitorizar los progresos y comunicar los cuidados del paciente. • Incluir la promoción de la salud basada en la educación para ayudar a los pacientes a tomar decisiones informadas y a hacerse independientes. • Promover el máximo confort, funcionamiento, independencia y salud.
+4. EJECUCIÓN: poner en práctica el plan: • Llevar a cabo las intervenciones, luego volver a valorar para determinar las respuestas
+iniciales. • Priorizar, delegar y coordinar los cuidados tal como está indicado, incluyendo a los
+pacientes en la toma de decisiones y en los cuidados.
+5. EVALUACIÓN: determinar cuidadosamente las respuestas del paciente a las intervenciones establecidas anteriormente y describir cómo puede mejorar el proceso:
+• Valorar el estado del paciente para identificar si se han alcanzado los resultados esperados y que factores causan o inhiben el éxito del plan.
+• Hacer planes para la valoración continuada, para mejorar la independencia del paciente.
+Por consiguiente, el plan de atención en enfermería, basado en principios científicos permite alcanzar objetivos que se establecen de manera individual, asegurando un orden en la atención, que a su vez, contribuirá al bienestar del paciente, haciendo énfasis en el funcionamiento como un todo integrado, interrelacionado e interdependiente, creando entornos en el cual el bienestar del individuo se priorice por medio de cuidados de enfermería (Alfaro, 2009).
+En consonancia con lo anterior, el plan de cuidados como apoyo esencial al individuo, permite al profesional de enfermería reunir criterios de atención con el fin de evaluar la calidad del mismo, de esta manera se puede definir al plan de cuidados como aquellas actividades encaminadas en el pensamiento crítico, acerca del entorno del paciente y su salud, y al desarrollo de los cuidados que permitan la continuidad de dicha acción, consolidándose como actividad netamente del profesional que justificara la necesidad de un proceso de cuidado enfermero; por medio de planes de cuidados estandarizados (Universitario, n.d.).
+Por otra parte, los planes de cuidado estandarizados, consisten en el resultado de un equipo apoyado en las bases científicas, en el cual se definen todas las respuestas de la persona, familia o grupo a una situación de salud, en el que se aclara la responsabilidad y actuación de los profesionales de enfermería para cada uno de los escenarios, utilizando como instrumentos la NANDA, NIC y NOC; después de que ya han sido establecidos y supervisados permitirán afianzar la evaluación haciéndole mejoras a las intervenciones anteriormente establecidas; ya que, a medida que las necesidades y las complicaciones de los pacientes son más difíciles, los planes estandarizados se convierten en la herramienta fundamental de referencia, en la memoria colectiva del equipo de enfermería, en el
+
+7
+componente necesario para asegurar la pertinencia, la adaptación y la secuencialidad de los cuidados, así como la individualización (Herdman, 2018 - 2020) (Moorhead, 2020)(Butcher, 2018) (Alfaro, 2009).
+Por otra parte, el postoperatorio genera en el paciente y/o familia diversos problemas que se deben al desconocimiento del medio hospitalario, alejamiento de su entorno, intranquilidad por su proceso de enfermedad y por los cambios laborales, sociales y familiares que puede desencadenar su situación (Baena, 2003). Por tanto, es importante brindar una atención integral y optima desde el momento del ingreso, para así facilitar la adaptación, fomentar su participación y garantizar su confort y seguridad.
+En síntesis, el plan de cuidados y los planes de cuidados estandarizados se encuentran interrelacionados, puesto que ambos se implementan para llevar a cabo intervenciones que permitan mejorar la calidad de vida del paciente, y garantizar una mejor comodidad y afrontamiento de la enfermedad, creando confianza en sí mismo y en el profesional; todo esto con el fin de crear criterios unificados y basados en teorías ya establecidas.
+5.1.2 COLECISTITS
+La colecistitis se define como la inflamación aguda o crónica que afecta la vesícula biliar, ocasionada por cálculos biliares, y otros factores menos frecuentes como lo son la isquemia, trastornos de la motilidad, lesión química, infecciones por bacterias, protozoarios y helmintos, enfermedades del tejido conjuntivo y reacción alérgica. En la Colecistitis aguda o crónica, el principal mecanismo encargado de la inflamación es la obstrucción del conducto cístico por un cálculo o lodo biliar, con distensión de la vesícula y estasis de la bilis. Por otra parte, la distensión vesicular crea la liberación de distintos mediadores inflamatorios como histamina y prostaglandinas que lesionan la mucosa. Además, la obstrucción de la vesícula ocasiona edema, obstrucción linfática y venosa, isquemia y necrosis; la inflamación se puede exacerbar por la proliferación bacteriana (Morgenstern & Acosta, 2015)
+Epidemiología
+Según la universidad Finis Terrae, escuela de medicina; aproximadamente el 95% de las colecistitis agudas se producen como consecuencia de cálculo biliares, el 25% presentan complicaciones secundarias incluyendo pancreatitis, coledocolitiasis, entre otras. En países desarrollados, la prevalencia de cálculos biliares está entre 5 a 10% dentro de la población adulta; y en países como EE. UU, Bolivia, México, España y Japón, la prevalencia es de alrededor 10-15%, 15.7%, 14.3%, 9.7% y 7%, respectivamente (Gargallo, Aranguren, & Simón, 2014).
+Fisiopatología
+La colecistitis se expresa de manera litiásica o alitiásica, siendo la presentación litiásica más frecuente.
+• Colecistitis Aguda Litiásica. La obstrucción del bacinete vesicular causada por un cálculo biliar es el desencadenante principal, llevando en primera instancia, una
+
+8
+contracción intensa y distensión vesicular, lo cual comprende el dolor abdominal característico de este cuadro clínico. Esta obstrucción genera: edema de pared vesicular, retención de las secreciones biliares y alteraciones vasculares. El edema de la pared acciona la liberación de la fosfolipasa, al alterar las células epiteliales que lo contienen. Por otro lugar, la Fosfolipasa transforma la lecitina en lisolecitina, citotóxica, y produce ácido araquidónico a partir de fosfolípidos, lo cual ayuda a la producción de prostaglandinas (I2 y E2), originando el proceso inflamatorio. las secreciones biliares y los cálculos también son irritantes, por lo que su almacenamiento favorece a este proceso. Las alteraciones vasculares, principalmente isquemia, se explican por la compresión del conducto cístico por parte del cálculo, que ocasiona trombosis de los vasos críticos, y por el aumento de la presión intraluminal secundaria a la obstrucción, que reduce el flujo sanguíneo de los vasos císticos. la combinación de ambos mecanismos lleva a isquemia, incrementando el cuadro inflamatorio (Morgenstern & Acosta, 2015). • Colecistitis Alitiásica. Suele presentarse en pacientes con estado de salud crítico, pacientes con nutrición parenteral, traumatismos múltiples, quemaduras, extensas, sepsis, enfermedad prolongada con falla orgánica múltiple, o postoperatorio crítico. Esto trae como resultado la falta de funcionamiento vesicular, estasis, incremento de la viscosidad de la bilis, y distensión vesicular. A esto se agrega otros componentes que actúan negativamente sobre la vitalidad de los tejidos, y favorecen la inflamación y la infección, como la deshidratación, la hipovolemia, la asistencia mecánica respiratoria, las endotoxinas, el síndrome de bajo volumen minuto y la hiperalimentación parenteral (Gargallo et al., 2014).
+Manifestaciones clínicas • Dolor localizado en el hipocondrio derecho, el dolor puede ser constante o de tipo cólico, puede ser agudo o crónico • Fiebre • Coloración amarillenta de la piel y de la esclerótica de los ojos • Náuseas y vomito • Heces de color claro o arcilla
+Ayudas diagnósticas
+Diagnóstico por imágenes:
+Radiografía directa de abdomen. Se distingue la opacidad en el hipocondrio derecho y flanco, o la presencia de cálculos, sobre todo si son cálcicos, o aire en la pared vesicular o en su interior. Signo de Simón en colecistitis gangrenosa.
+Ecografía. Más utilizada para diagnosticar colecistitis aguda, presentándose los siguientes signos.
+1. engrosamiento de la pared vesicular por edema en la zona subserosa. 2. Distensión de la vesícula 3. Cambio de morfología 4. Litiasis
+
+9
+5. Bilis ecogénica 6. Formación de abscesos 7. Signo de Murphy 8. Vesícula enfisematosa
+Tomografía computarizada. Muestra aumento del diámetro, engrosamiento de la pared vesicular; un aumento de este puede ser trasunto de isquemia de la mucosa, necrosis temprana de la mucosa, necrosis temprana de la misma y hemorragia.
+Colangiografía radioisotopica. Se realiza con HIDA (ácido dietil acetal iminodiacético) marcado con Tecnecio 99 en Cámara Gamma. Se inyecta por vía intravenosa y entre los 15 y 30 minutos de la aplicación, se comienza a visualizar en condiciones normales la vía biliar, la vesícula y el pasaje a duodeno.
+Laboratorios
+• Cuadro hemático (conteo de glóbulos blancos. 12.000 -15.000 colecistitis aguda) • Enzimas pancreáticas • Pruebas de función hepática • Bilirrubina
+Tratamiento no quirúrgico:
+Se basa en la administración de los siguientes medicamentos para disolver los cálculos de colesterol:
+• Antieméticos: Prometazina - Proclorperazina • Analgésicos: Meperidina - Hidrocodona - oxicodona • Antibióticos: Ciprofloxacina - Meropenem - piperacilina - Tazobactam metronidazol - Ampicilina
+Tratamiento quirúrgico:
+• Colecistectomía laparoscópica, se realiza mediante la introducción de una cámara de vídeo diminuta y herramientas quirúrgicas especiales a través de cuatro incisiones pequeñas para poder ver el interior del abdomen y extirpar la vesícula biliar (Monestes & Galindo, 2009).
+
+10
+Figura 1. Colecistitis. Fuente: propia
+5.1.3 COLELITIASIS La litiasis biliar es una enfermedad gastrointestinal crónica, que consiste en la formación de cálculos biliares que generan colecistitis u obstrucción de conductos pancreáticos pudiendo causar una pancreatitis, entre otras complicaciones que pueden llevar a graves consecuencias. Esta es una de las patologías más comunes del sistema digestivo y por sus posibles complicaciones genera un alto impacto económico, social y psicológico (Lidia, Carbonell, Prado, & Plaza, 2012). Epidemiología A nivel mundial los cálculos biliares afectan a millones de personas, sin embargo, la sociedad occidental es una de las más afectadas, pues se diagnostica del 10% al 30% de los habitantes, de los que el 75% presentan cálculos de colesterol, y cada año hay un millón de casos nuevos; siendo mayor en edades avanzadas y mujeres (Jerusalén & Simón, 2012). Aunque la enfermedad suele ser silente, el 20% de los casos genera dolorosos cuadros clínicos. En América Latina, se informa que entre el 5% y el 10% de los habitantes son diagnosticas con litiasis biliar, sin embargo, esta enfermedad también tiende a presentar mayor prevalencia en países como Estados Unidos, Bolivia y Chile por las etnias que allí se presentan (Morgenstern & Acosta, 2015). Fisiopatología El proceso para que se presente la formación de cálculos biliares, es el cambio físico de una solución insaturada a una saturada generando la creación de cuerpos solidos los cuales se clasificaran según los componentes que predominen es su estructura ya que la mayoría de estos están compuestos por: colesterol, bilirrubinato cálcico, mucina y proteínas.
+
+11
+1. Cálculos por colesterol: Representan el 75%, inicialmente se debe presentar un aumento excesivo de colesterol en la vesícula biliar, siendo insuficientes las sales biliares para romper las moléculas de colesterol aumentando sus niveles en la estructura. Posterior a ello, se genera un desbalance entre las proteínas y otras sustancias haciendo que el colesterol se cristalice y se acumule microscópicamente. Por último, por la saturación de la vesícula esta pierde la habilidad para contraerse de manera adecuada dejando el colesterol cristalizado contenido en ella (Lidia et al., 2012).
+2. Cálculos de pigmento negro: Representan el 25%, su principal componente es el bilirrubinato calcio y son de origen vesicular, estando asociados a hemolisis crónica y a patologías hepáticas como cirrosis (Ayala, 2007).
+3. Cálculos marrones: Su componente principal es el bilirrubinato de calcio, pero también pueden contener de 20% a 40% de ácidos grasos, sin embargo, estos se ubican por lo general en los conductos biliares y su etiología son las infecciones del árbol biliar (Gargallo et al., 2014).
+Manifestaciones clínicas
+La litiasis biliar puede ser asintomática y sintomática; la primera es un proceso benigno que no significa complicaciones para los pacientes y que se resuelve con procedimientos no invasivos. La litiasis sintomática se manifiesta de manera común con el dolor biliar (Gargallo et al., 2014), y este se puede acompañar de nauseas posterior a ingerir alimentos ricos en grasa, epigastralgia, ictericia (Oto Cavero et al., 2004). El cólico biliar esta originado por la distención de las paredes de la vesícula por el aumento de la presión dentro de la estructura debido al paso del cálculo por el conducto cístico, este dolor suele ceder con medicamentos antiespasmódicos.
+Cuando la litiasis es sintomática presenta más posibilidad de generar complicaciones como lo son la colecistitis aguda, coledocolitiasis, colangitis aguda y pancreatitis.
+Ayudas diagnosticas
+• Pruebas de laboratorio: Deben enviarse pruebas de función hepática, hemograma y análisis de orina para descartar otros procesos patológicos.
+• Imagenología: El principal medio diagnóstico es la ecografía, por medio de esta se observa la ubicación y cantidad de cálculos que están generando el cuadro clínico.
+Tratamiento no quirúrgico
+El tratamiento no quirúrgico solo debe realizarse en caso de que el paciente presente factores de riesgo para complicaciones intra o posoperatorias, ya que esta técnica presenta baja efectividad y alta recurrencia. Para elegir este tratamiento los cálculos deben ser radiolúcidos y ser menores o iguales a 10mm, además de presentar el conducto cístico permeable (Morgenstern & Acosta, 2015). El tratamiento consiste en la administración de:
+
+12
+• Ácido ursodesoxicólico Así mismo, deben ser tratados con antiinflamatorios no esteroideos y en algunos casos realizar terapia antibiótica. Tratamiento quirúrgico Cuando la colelitiasis genera colecistitis aguda el tratamiento quirúrgico es la colecistectomía percutánea o laparoscópica, según el cuadro clínico que presente el paciente; también puede realizarse una colangiopancreatografía retrograda (CEPRE) para realizar litotricia y extraer los cálculos, cuando estos están obstruyendo el colédoco lo que genera una coledocolitiasis; este procedimiento tiene fines diagnósticos y terapéuticos (Lidia et al., 2012). Complicaciones de la colecistectomía para tratamiento de colecistitis y colelitiasis La mayoría de las complicaciones que se producen en el postoperatorio inmediato son:
+• Hemorragia Postoperatoria • Absceso subhepatico y absceso subfrénico • Peritonitis biliar y fistula biliar • Colestasis postoperatorias por la lesión de la vía biliar • Fístula duodenal • Coledocolitiasis, pancreatitis
+Figura 2. Colelitiasis. Fuente: propia
+5.1.4 APENDICITIS La apendicitis es una irritación, inflamación e infección del apéndice, (pequeña prolongación de aproximadamente 10cm de largo, enlazada al ciego, debajo de la válvula ileocecal). El apéndice funciona como parte del sistema inmune durante los primos años de vida, luego de este periodo deja de funcionar, permitiendo que sean otros órganos los que ayuden a combatir las infecciones. Por otra parte, el apéndice se llena con el alimento y se desocupa con regularidad en el ciego, debido a que se desaloja de manera ineficaz y su vez es estrecha,
+
+13
+tiene propensión a la obstrucción y es vulnerable a los procesos infecciosos (Hernández et al., 2019).
+Epidemiología la apendicitis es la primera causa de abdomen agudo; la mayoría de los estudios coinciden en que el grupo más afectado oscila entre los 10 y 30 años (Hernández et al., 2019). Dentro de este, el género masculino se ve afectado con una frecuencia de 8.6%, en comparación con un 6.7% en mujeres. Además, un estudio observo un aumento en un 10 a 15% de incidencia en apendicitis aguda en pacientes entre los 30 y 79 años, para su elaboración fueron necesarios datos de una muestra nacional y el censo en EE. UU, evidenciando en el estudio que dicho aumento se atribuye a pruebas diagnósticas y al aumento de esperanza de vida (Raue, n.d.).
+Fisiopatología El apéndice se inflama y se vuelve edematoso como resultado de la obstrucción por un fecalito, tumor o cuerpo extraño. El proceso inflamatorio aumenta la presión intraluminal y origina un dolor que progresa en intensidad, generalizado, pero que se vuelve localizado en el cuadrante inferior derecho del abdomen dentro de las siguientes horas. Con el tiempo, el apéndice inflamado se llena de pus (Hernández et al., 2019).
+Manifestaciones clínicas • Los síntomas más característicos consisten en la aparición del dolor abdominal difuso o localizado en el epigastrio, que luego migra a la fosa iliaca derecha. • Fiebre • Pérdida del apetito • Estreñimiento • Distensión abdominal
+Ayudas diagnosticas Laboratorios
+• El hemograma completo demuestra el recuento elevado de leucocitos con elevación de los neutrófilos
+Diagnóstico por imágenes • Placas radiológicas de abdomen • Ultrasonido • Tomografía computarizada
+Estas pueden revelar una densidad del cuadrante inferior derecho. • Serie gastrointestinal (enema de bario)
+Tratamiento quirúrgico La apendicetomía abierta: es la manera más tradicional de extirpar el apéndice infectado, básicamente el cirujano realiza una incisión en el abdomen y localiza el apéndice, lo corta y lo separa del intestino grueso continuando con la extracción de este. Apendicetomía laparoscópica: se realiza por medio de una cámara de video diminuta con el fin de ver el interior del cuerpo. El cirujano procede a hacer la incisión y a introducir la
+
+14
+cámara de video llevándola hasta el apéndice, en compañía de varios instrumentos se logra extirpar y separar el apéndice del intestino grueso. Complicaciones de la apendicectomía La apendicetomía por apendicitis aguda es la una de las principales urgencias en los servicios quirúrgicos, por tanto, no está exenta de complicaciones por causas poco conocidas, cuya determinación podría disminuir la morbilidad y mortalidad de esta. (Fernández, 2010) Las complicaciones son:
+• Serosidad sanguinolenta en la herida quirúrgica por cuerpo extraño o hemostasia deficiente.
+• Absceso parietal e intraabdominal • Hemorragia • Flebitis • Epiploítis • Obstrucción intestinal • Fístulas estercoráceas • Evisceración • Eventración • Infección del sitio operatorio
+Figura 3. Apendicitis. Fuente: propia
+5.1.5 OBSTRUCCIÓN INTESTINAL La obstrucción intestinal es un síndrome causado por la oclusión de cualquier parte del intestino sea en el duodeno o el intestino grueso, estas obstrucciones pueden ser, obstrucción mecánica; en la cual se reduce el tránsito intestinal parcial o totalmente por tumores, abscesos, neoplasias, estenosis, adherencias las cuales son causantes del 90% de las obstrucciones (Ruiz Sierra, 2003), hernias, entre otros. También, se presenta la obstrucción
+
+15
+funcional; la cual afecta la pared muscular del intestino reduciendo el movimiento del mismo, ello causado por distrofia muscular, trastornos endocrinos o neurológicos (Vega, 2019).
+Epidemiología
+Según Quevedo, L. en su artículo “Oclusión intestinal: Clasificación, diagnóstico y tratamiento”, esta patología ocupa un 20% de las admisiones quirúrgicas agudas y es una de las causas de intervención quirúrgica más frecuentes. Siendo la adherencias y hernias las situaciones que preceden la obstrucción del intestino delgado con una incidencia del 70% a 75% (Quevedo Guanche, 2007).
+Fisiopatología
+La oclusión total o parcial del intestino delgado o grueso por las causas anteriormente citadas genera una detención del contenido intestinal disminuyendo la absorción de nutrientes, minerales; además de generar un tercer espacio en el intestino; posterior a ello se presenta un aumento de la presión intraluminal pudiendo causar una perforación y, por último, sepsis; por otro lado, se presenta un desequilibrio hidroelectrolítico por la dificultad para absorber el agua y electrolitos (Garibay-González et al., 2017).
+Manifestaciones clínicas
+Los signos y síntomas de la obstrucción intestinal pueden diferir dependiendo de la zona anatómica afectada; sin embargo, los signos y síntomas más comunes son (Oto Cavero et al., 2004):
+• Dolor abdominal • Distención abdominal • Emesis fecaloide • Alteración del ritmo intestinal • Estreñimiento
+Ayudas diagnosticas
+Laboratorios • En la mayoría de los casos los exámenes de laboratorio carecen de importancia, sin embargo, si el paciente ha tenido múltiples episodios de emesis y si la evolución del cuadro es prolongada podrá presentar desequilibrio hidroelectrolítico. Si presenta irritación pancreática en la analítica se apreciaría la presencia de hiperamilasemia.
+Diagnóstico por imágenes • Radiografía simple de abdomen • Tomografía axial computarizada (TAC) • Ecografía • Arteriografía mesentérica • Enema Opaco • Colonoscopía
+
+16
+Tratamiento no quirúrgico Aunque la mayoría de las obstrucciones intestinales son una urgencia quirúrgica, dependiendo de la evolución del cuadro clínico y el estado del paciente se pueden realizar otros procedimientos como: descomprensión intestinal y la reducción de las hernias si esta es la causa de la urgencia; además de manejar el desequilibrio hidroelectrolítico que puede presentar el paciente, realizar tratamiento profiláctico con antibióticos. También, existen prótesis autoexpandibles que se colocan a través de técnicas de endoscopia (Quevedo Guanche, 2007). Tratamiento quirúrgico En situaciones agudas se realiza laparotomía exploratoria, la cual consiste en realizar una incisión en el abdomen para explorar e identificar las causas del estado clínico del paciente. Entre sus complicaciones se encuentra:
+• Infección de la herida operatoria • Abscesos intraperitoneales y retroperitoneales • Peritonitis • Sangrados intrabdominales Por otro lado, la ostomía es otro tratamiento en la obstrucción intestinal mientras la porción del intestino afectado se recupera o si por el contrario se ha tenido que ser removida. Las complicaciones de este procedimiento pueden ser inmediatas o tardías: • Hemorragias • Reacciones alérgicas • Estenosis • Fistulas • Infección de la ostomía • Abscesos
+Figura 4. Obstrucción Intestinal. Fuente: propia
+
+17
+5.2 ESTADO DEL ARTE
+El cuidado como practica ineludible de los seres humanos implica reconocer que este es un proceso que va más allá de la enfermedad (Báez-hernández, 2009), convirtiéndose en parte de las actividades diarias del individuo; Orem define autocuidado como el conjunto de acciones aprendidas orientadas a mejorar y conservar la salud y el bienestar, así mismo establece que las demandas de autocuidado deben ser sustituidas por los profesionales de enfermería así mismo la actividad del profesional va encaminada a la conservación, restablecimiento y cuidado de la vida fundamentada en la relación terapéutica enfermera – paciente (Zarate Grajales, 2004).
+Por otra parte, para garantizar el cuidado integral de los individuos los profesionales deben implementar herramientas como los planes de cuidado estandarizados los cuales tienen como objetivo abordar de manera óptima las necesidades de los pacientes quienes a su vez padecen patologías que afectan el mismo sistema, con similares signos y síntomas, lo que proporciona ventajas para los profesionales e instituciones en el momento de abordar dichas situaciones.
+A partir del proceso de atención en enfermería se establecen los planes de cuidado estandarizados, ya que estos proporcionan los principios científicos que respaldan los cuidados de enfermería, el Proceso de Enfermería en su etapa de planeación, establece los objetivos, el orden y los lineamientos que se deben seguir para lograr los resultados esperados (NOC) (Moorhead, Swanson, n.d.).
+La colecistitis, según Almora, representa una mayor prevalencia en Estados Unidos, Chile y Bolivia, afectando más a los hombres que a las mujeres; y, en la región occidental de 1 a 3% desarrollan colecistitis aguda, pudiendo esta generar complicaciones como gangrena y perforación de la vesícula; este estudio bibliográfico se realiza ya que la colecistitis causada por litiasis biliar es una de las patologías intestinales quirúrgicas más comunes en las salas de urgencias y se encuentra entre las primeras cinco causas de intervención en el mundo. Según las conclusiones de este artículo de revisión en su mayoría los autores coindicen con que los cálculos biliares son producto de la alteración del metabolismo de la bilis, además de la combinación de factores ambientales y genéticos que predisponen a sufrir de esta patología. Por otro lado, se enfatiza en la importancia de un diagnóstico temprano y su respectivo tratamiento para evitar posibles complicaciones que ponen en peligro la vida del individuo (Lidia et al., 2012).
+Teniendo en cuenta lo anterior en el estudio “Factores predictivos de la colecistitis aguda gangrenosa”; afirma que esta alteración gastrointestinal tiene una complicación importante, que es la colecistitis aguda gangrenosa que afecta del 2 al 20% de la misma y la cual representa un aumento en la morbimortalidad estando asociada a enfermedades metabólicas como hipertensión y diabetes mellitus; el estudio analizo 183 historias clínicas de pacientes que fueron sometidos a colecistectomía entre el año 2011 y 2012, de ellos el 55,1% presentaron CAG, a su vez, se encontró que la fiebre, el sexo masculino, la diabetes mellitus, los glóbulos blancos y la eritrosedimentación fueron factores predictivos para diagnosticar esta patología (Arias, Albornoz, Cervetti, & Pasarín, 2017).
+
+18
+Como se mencionó, la colecistitis es la principal causa de la inflación de las paredes de la vesícula biliar representando el 90% de esta (Jerusalén & Simón, 2012), siendo para ambas patologías la colecistectomía laparoscópica el tratamiento quirúrgico de elección dado que los casos con resolución medica conservadora representan un 20% de reingreso con la misma sintomatología. También es importante mencionar, que tanto en la colecistitis como en la colelitiasis pueden ser precedidas por enfermedades metabólicas de base que presenten los pacientes las cuales son factores de riesgo, la intervención de enfermería no solo es importante en el posoperatorio para evitar posibles complicaciones sino de manera preventiva brindando educación sobre como minimizar riesgos de sufrir otras enfermedades asociadas a las existentes(Soria, García, & Molina, 2017).
+Una vez el paciente ingresa al posoperatorio inmediato y posterior al mediato el personal de enfermería debe garantizar que se reduzca al máximo las posibilidades de complicaciones posoperatorias; según el estudio “Efectividad de la Intervención educativa de enfermería en la prevención de complicaciones postoperatorias en pacientes de colecistectomía en el Hospital ISSSTE Acapulco” (Generación, 2018), que tuvo como objetivo comprobar la efectividad de la educación de enfermería en el pre y posoperatorio teniendo en cuenta la teoría del déficit de autocuidado de Dorothea Orem, se obtuvo como resultado que la educación en pacientes colecistectomizados aumentó el nivel de conocimientos a 45 puntos “conoce mucho” respecto al autocuidado que debe garantizar el paciente y su cuidador durante la estancia hospitalaria y posterior a esta para disminuir el riesgo de sufrir complicaciones. En este artículo se encuentra la descripción de las prioridades en el paciente como el manejo del dolor, nauseas/vómitos, cuidado de la herida quirúrgica y la educación encaminada al autocuidado que debe proporcionarse y al seguimiento de recomendaciones alimentarias, de movimiento y de cuidados de piel; lo cual disminuye en gran medida las posibles complicaciones posquirúrgicas.
+Según Cueva, en el artículo proceso de atención en enfermería en pacientes que presentan colecistitis aguda, lo posibles diagnósticos enfermeros, pueden ser:
+• Dolor Agudo Relacionado con Agentes lesivos Evidenciado por Conducta Expresiva. Termorregulación Etiquetas Diagnósticas
+• Hipertermia relacionada con Enfermedad evidenciado por Aumento de la temperatura corporal por encima del límite normal.
+• Náuseas relacionado con Enfermedad evidenciado por Expresa tener náuseas.
+También, la obstrucción intestinal es una de las alteraciones gastrointestinales que representa más incidencia en los ingresos a los servicios de urgencias, según González et al en el artículo “Incidencia de la obstrucción intestinal por adherencias postoperatorias en el Hospital Central Militar. Factores de riesgo asociados” el 20% de las urgencias quirúrgicas son dadas por esta patología, y 40% de estas son obstrucciones intestinales estranguladas lo que representa mayor urgencia en el momento de la identificación y tratamiento. Así mismo, se indica que las adherencias resultantes de cirugías abdominales previas constituyen del 60% al 80% de los casos. En el Hospital Militar Central Militar de México se evidencio que las adherencias abdominales siguen siendo la principal causa de obstrucción
+
+19
+intestinal representando el 60% de 393 pacientes incluidos en el estudio (Garibay-González et al., 2017).
+Por otra parte, en el estudio “Tratamiento médico o quirúrgico de la obstrucción intestinal alta” en el 75% de los casos se realizó cirugía posterior al tratamiento inicial ya que los pacientes presentaron deterioro clínico por ausencia de expulsión de gases o deposiciones, dolor intenso sin mejoría o por persistencia de episodios eméticos en los posteriores 2 a 13 días de la intervención inicial; además, según la muestra de este estudio se observa que la prevalencia en mujeres es mayor que en hombres y que la edad promedio de presentación es de 60 años (Csendes J. et al., 2016).
+Según Encarnación & Vega (Vega, 2019); en el artículo proceso de atención en enfermería en obstrucción intestinal, los posibles diagnósticos enfermeros, pueden ser :
+• Desequilibrio nutricional por defecto r/c Factores biológicos, Incapacidad para digerir alimentos e/c Ruidos abdominal hiperactivos Falta de interés en los alimentos
+• Riesgo de infección r/c procedimientos invasivos e/c integridad tisular: piel y membranas mucosas
+• Patrón respiratorio ineficaz r/c dolor e/c disnea • Afrontamiento ineficaz r/c alto grado de amenaza e/c enfermedades frecuentes • Incontinencia fecal r/c vaciado intestinal incompleto. Lesión colorrectal. Perdida
+control esfínter rectal. Diarrea crónica e/c goteo constante de heces blandas. Olor fecal. Incapacidad para retrasar la defecación. Incapacidad para reconocer la urgencia de defecar.
+Por último, en el estudio “Apendicitis aguda: revisión de literatura” realizado por Cortez et al, la apendicitis representa a nivel mundial la indicación de cirugía no traumática y ocurre con mayor ocurrencia entre la segunda y tercera década de la vida con posibilidad de afectar por igual a hombres y mujeres, como factores de riesgo se registran el sobrepeso y obesidad (Hernández et al., 2019).
+Según Gutiérrez, en el estudio “Factores de riesgo y complicaciones postoperatorias por apendicitis aguda en adultos mayores. Hospital Nacional Edgardo Rebagliati Martins 2010” la incidencia en este grupo etario es entre 60 y los 69 años, en el cual predomina el sexo masculino; presentando el 73,3% una complicación en el postoperatorio, siendo el absceso de pared la más frecuente con un 50% además de presentar enfermedades de base como hipertensión y diabetes mellitus (GUTIERREZ, 2015).
+Es importante resaltar que en este caso un estudio descriptivo encontró que el personal de enfermería del Hospital Dr. Teodoro Maldonado Carbo, Ecuador no aplican planes de cuidados en casos de apendicetomías, lo que genera una desorganización en la atención al usuario y mayor probabilidad de posibles complicaciones (GUTIERREZ, 2015).
+Según J, Charles; en el artículo “Proceso del cuidado de enfermero basado en evidencia aplicado a un paciente con apendicetomía en el hospital PNP Augusto B Leguia” (Alcarraz, 2018), los posibles diagnósticos enfermeros sobre apendicitis, pueden ser:
+
+20
+• Dolor agudo r/c herida quirúrgica evidenciado por expresión verbal, inquietud, gestos de protección de la zona dolorosa, y conducta expresiva (agitación, irritabilidad).
+• Hipertermia r/c proceso infeccioso evidenciado por temperatura por encima de los valores normales de 38oC.
+• Deterioro de la integridad cutánea r/c procedimiento que alteran la integridad de la piel evidenciado por presencia de herida quirúrgica
+• Deterioro de la movilidad física r/c disminución de la fuerza muscular evidenciado por realizar cambios mínimos de la posición del cuerpo; pero es incapaz de realizar de forma independiente, cambios frecuentes y significativos
+• Estreñimiento r/c disminución del trabajo peristáltico evidenciado por no presentar evacuaciones en dos días
+• Ansiedad relacionada a cambios al estado de salud, evidenciado por actitudes nerviosas e intranquilidad
+5.3 MARCO TEORICO- DISCIPLINAR
+En la planeación del cuidado se pueden emplear diferentes modelos y teorías. Dorothea Orem presenta su "Teoría de enfermería del déficit de autocuidado", en la cual define al ser humano como un organismo biológico, racional y pensante, con la capacidad de reflexionar sobre sí mismo y su entorno. Define los cuidados de enfermería con el fin de ayudar al individuo a llevar a cabo y mantener acciones de autocuidado para conservar la salud y la vida, recuperarse de la enfermedad y afrontar las consecuencias de ésta (Alligood & Marriner Tomey, 2014).
+En este orden, entre los conceptos de la teoría, Orem plantea los ocho requisitos universales del autocuidado los cuales tienen el objetivo de mejorar las conductas de cuidado del individuo para garantizar su bienestar en todas las etapas de la vida.
+1. “El mantenimiento de un aporte suficiente de aire. 2. El mantenimiento de un aporte suficiente de alimentos. 3. El mantenimiento de un aporte suficiente de agua. 4. La provisión de cuidado asociado con los procesos de eliminación. 5. El mantenimiento de un equilibrio entre la actividad y el descanso. 6. El mantenimiento de un equilibrio entre la interacción social y la soledad. 7. La prevención de peligros para la vida, el funcionamiento y el bienestar humano 8. La promoción del funcionamiento humano y el desarrollo en los grupos sociales de
+acuerdo con el potencial humano, las limitaciones humanas conocidas y el deseo humano de ser normal.” (Alligood & Marriner Tomey, 2014)
+La teoría de déficit de autocuidado está compuesta por tres teorías relacionadas entre sí: teoría de los sistemas enfermeros la cual describe las diferentes actividades que deben hacer los profesionales de enfermería para atender las diferentes necesidades de los pacientes y grupos que estén atendiendo, los sistemas enfermeros, se clasifican de tal manera que generan un progreso significativo en el autocuidado; los sistemas básicos según la teoría de Orem son:
+
+21
+• Sistema completamente compensatorio • Sistema parcialmente compensatorio • Sistema educativo de apoyo
+La siguiente teoría es la del déficit del autocuidado, la cual define como déficit de autocuidado la interrelación entre las necesidades particulares de los individuos y su capacidad para generar cuidados propios; este concepto es abstracto y depende a su vez de la madurez de las personas para afrontar sus responsabilidades de autocuidado y su percepción ante situaciones que disminuyan el equilibrio de su salud.
+Lo anterior permite a los profesionales de enfermería diseñar estrategias y guías para brindar apoyo al paciente con diferentes actividades de enfermería enfocadas a las necesidades particulares de cada uno de ellos e involucrar al mismo paciente en el proceso de autocuidado.
+Por último, Orem plantea la teoría del autocuidado, en esta se define como autocuidado todas las acciones que llevan a cabo los seres humanos para mejorar y conservar su salud; estas conductas son aprendidas y desarrolladas a medida que la misma persona identifique los aspectos que debe mejorar para mantener su bienestar (Alligood & Marriner Tomey, 2014). Así mismo, las demandas de autocuidado, los conceptos y actividades son la base para entender como el profesional de enfermería puede beneficiar a los usuarios con las actividades propias de la disciplina.
+Las tres teorías citadas anteriormente, estructuran la teoría del Déficit del Autocuidado, la cual es considerada como base en este trabajo y definir las categorías de cuidados que pueden ser factibles de estandarizar cuando se trata de cuidado hospitalario a pacientes que han sido sometidos a procedimientos quirúrgicos, que comprometen la función gastrointestinal.
+6 OBJETIVO GENERAL
+Generar una propuesta de cuidado estandarizado, sobre colecistitis, colelitiasis, apendicitis y obstrucción intestinal fundamentado en una revisión de literatura sobre el tema, teniendo como referente de organización documental, la teoría déficit autocuidado del modelo planteado por Dorotea Orem.
+6.1 OBJETIVOS ESPECIFICOS
+• Reconocer características definitorias en la valoración de usuarios posquirúrgicos.
+• Proponer diagnósticos de enfermería relevantes para el paciente posquirúrgico con alteración de las funciones gastrointestinales.
+• Plantear resultados esperados NOC e indicadores de evaluación para cada uno de los diagnósticos.
+• Presentar intervenciones de enfermería orientadas a lograr los resultados esperados NOC con el paciente quirúrgico.
+
+22
+
+7 METODOLOGIA
+
+Estudio descriptivo de revisión de literatura en el que se buscaron artículos científicos en las bases de datos pudmed, scielo, proquest, science direct, en español, inglés. La búsqueda se realizó en los meses de abril, mayo y junio de 2019 desde la biblioteca digital de la Fundación Universitaria del Área Andina seccional Pereira.
+
+Los criterios de inclusión fueron: artículos de investigación cuantitativa, descriptivos publicadas en los últimos 10 años (2010-2019), en idiomas español, inglés y accesibles a texto completo.
+
+Selección y recuperación de artículos que cumplen los criterios: seleccionados 200 artículos inicialmente, se excluyeron 145 artículos, quedando 55 artículos los cuales fueron sometidos a lectura crítica. Se organizó la información en una matriz de datos en Excel.
+
+8 CONSIDERACIONES ETICAS
+
+En este estudio se tendrán en cuenta los principios bioéticos establecidos en la Resolución 8430 de 1993 sobre investigación con sujetos humanos. La investigación se considera de riesgo mínimo, porque se realizará una revisión de literatura basada en la evidencia y el producto final de la investigación es elaborar un plan de cuidados estandarizado para el paciente posquirúrgico con alteraciones en la función gastrointestinal.
+
+9 RESULTADOS:
+
+Se seleccionaron 15 artículos de investigación cuantitativa y 40 artículos de investigación descriptiva, para un total de 55 artículos seleccionados. Los países que reportan mayor número de investigaciones de la temática en estudio son Ecuador y Perú.
+
+Las categorías de análisis encontradas en los artículos seleccionados fueron: Lenguaje Estandarizado en Enfermería y Proceso de Atención de Enfermería, Diagnósticos de Enfermería en el Paciente quirúrgico, educación en el paciente quirúrgico.
+
+Así mismo, al relacionar los ocho requisitos de autocuidado con NANDA se encuentran: requisitos universales de autocuidado en alimento, actividad y reposo, prevención de peligros para la vida y promoción de la normalidad siendo estos coherentes con los planteados en este estudio. Tabla 1 Mantenimiento de un ingreso suficiente de alimento
+
+NOC INDICADORES
+
+MANTENIMIENTO DE UN INGRESO SUFICIENTE DE ALIMENTO
+
+DOMINIO 2: Nutrición
+
+[00002] Desequilibrio nutricional: ingesta inferior a las necesidades
+
+[1004] Estado nutricional [100401] ingestión de nutrientes
+
+[1015] Función gastrointestinal [101501] tolerancia alimentos
+
+23
+
+NIC ACTIVIDADES
+
+[100408] ingesta de liquidos [5246] Asesoramiento nutricional Determinar la ingesta y los hábitos
+alimentarios del paciente
+Establecer metas realistas a corto y largo plazo para el cambio del estado nutricional
+
+NOC
+
+DOMINIO 4: Actividad/Reposo
+[1008] Estado nutricional: ingestión alimentaria y de líquidos
+
+INDICADORES
+
+[100801] ingestión alimentaria oral [100803] ingestión de liquidos orales
+
+[101503] frecuencia de deposiciones [0430] Control intestinal
+Anotar la fecha de la última defecación
+Monitorizar las defecaciones incluyendo consistencia y color
+[00102] Déficit de autocuidado: alimentación [2109] nivel de malestar
+[210901] dolor [210928] nauseas
+
+NIC ACTIVIDADES
+
+[1160] monitorización nutricional valorar tendencias de perdida y ganancias de
+peso
+observar presencia de náuseas y vómitos
+
+[6480]manejo ambiental crear un ambiente seguro para el px
+identificar necesidades en el px
+
+Nota. Datos tomados de: Modelos y teorías en enfermería (2014); Lenguaje estandarizado NANDA, NOC, NIC (2018-2020)
+
+Tabla 2 Provisión de cuidados asociados con los procesos de eliminación
+PROVISIÓN DE CUIDADOS ASOCIADOS CON LOS PROCESOS DE ELIMINACIÓN
+
+DOMINIO 3: Eliminación/intercambio
+
+[00011] Estreñimiento
+
+NOC
+
+[2107] severidad de las náuseas y vómitos
+
+[0602] hidratación
+
+INDICADORES
+NIC ACTIVIDADES
+
+[210701] frecuencia de las nauseas [210720] desequilibrio electrolítico
+[2000] manejo de electrolitos Observar si los electrolitos séricos son
+anormales
+
+[60215] ingesta de liquidos [60211] diuresis
+[4120] manejo de liquidos realizar un registro de entradas y salidas
+
+observar si hay manifestaciones de desequilibrio electrolítico
+
+valorar estado de hidratación
+
+Nota. Datos tomados de: Modelos y teorías en enfermería (2014); Lenguaje estandarizado NANDA, NOC, NIC (2018-2020)
+
+Tabla 3 Mantenimiento de un equilibrio entre la actividad y el reposo
+MANTENIMIENTO DE UN EQUILIBRIO ENTRE LA ACTIVIDAD Y EL REPOSO
+
+DOMINIO 4: Actividad/Reposo
+
+[00085] Deterioro de la movilidad física
+
+NOC
+
+[0208] movilidad
+
+[0005] tolerancia de la actividad
+
+INDICADORES
+
+[20802] mantenimiento de la posición corporal
+
+[0509] paso al caminar
+
+24
+
+NIC ACTIVIDADES
+
+[20805] realización del traslado [0221] terapia de ejercicios: ambulación
+animar al paciente según tolerancia
+
+[0518] facilidad para realizar AVD [0140] fomentar la mecánica corporal determinar el grado de compromiso del paciente para aprender a utilizar posturas correctas
+
+enseñar al paciente a colocarse en la posición correcta en el proceso de traslado
+
+enseñar a no dormir en de cubito prono
+
+Nota. Datos tomados de: Modelos y teorías en enfermería (2014); Lenguaje estandarizado NANDA, NOC, NIC (2018-2020)
+
+Tabla 4 Mantenimiento: equilibrio entre la soledad y la interacción social
+
+MANTENIMIENTO: EQUILIBRIO ENTRE LA SOLEDAD Y LA INTERACCIÓN SOCIAL
+
+DOMINIO 4: Actividad/Reposo
+
+[00182] Disposición para manejar el autocuidado
+
+NOC
+
+[0300] Autocuidados: actividades de la vida diaria (AVD)
+
+[1622] Conducta de cumplimiento: dieta prescrita
+
+INDICADORES
+
+[30001] come [30006] higiene
+
+[162201] participa en el establecimiento de objetivos dietéticos con el profesional sanitario
+[162202] selecciona alimentos y liquidos compatibles con la dieta prescrita
+
+NIC
+
+[1800] ayuda con el autocuidado
+
+[5246] asesoramiento nutricional
+
+ACTIVIDADES
+
+Animar al paciente a realizar las actividades normales de la vida diaria ajustadas al nivel
+de capacidad
+
+Determinar la ingesta y los hábitos alimentarios del paciente
+
+proporcionar los objetos personales deseados
+
+Revisar con el paciente la medición de ingesta y eliminación de liquidos
+
+Nota. Datos tomados de Modelos y teorías en enfermería (2014); Lenguaje estandarizado NANDA, NOC, NIC (20182020)
+
+Tabla 5 Prevención de los peligros para la vida humana, desempeño y bienestar
+
+PREVENCIÓN DE LOS PELIGROS PARA LA VIDA HUMANA, DESEMPEÑO Y BIENESTAR
+
+DOMINIO 11: Seguridad/Protección
+
+Dx Enfermero NANDA [00004] Riesgo de infección
+
+Resultado Esperado
+NOC
+
+[1101] integridad tisular: piel y membranas mucosas
+
+[0703] severidad de la infección
+
+INDICADORES
+
+[110101] temperatura de la piel [110111] perfusión tisular
+
+[70307] fiebre [70326] aumento de leucocitos
+
+Intervenciones NIC
+
+[3440] cuidados del sitio de incisión
+
+[6540] control de infecciones
+
+25
+
+ACTIVIDADES
+
+inspeccionar el sitio de incisión por si hubiera eritema, inflamación o signos de dehiciencia
+o evisceración
+observar si hay signos y síntomas de infección en la incisión
+
+DOMINIO 11: Seguridad/Protección
+
+Resultado esperado
+NOC INDICADORES
+NIC
+ACTIVIDADES
+
+[2304] recuperación quirúrgica: convalecencia
+[230401] presión arterial sistólica [230403] estabilidad hemodinámica
+[7370] preparación para el alta ayudar al paciente-familia a prepararse para el
+alta
+buscar el apoyo del cuidador
+
+Fomentar la ingesta de liquidos
+Administrar tratamiento antibiótico Dx Enfermero NANDA
+[00100] Retraso en la recuperación quirúrgica
+[1103] curación de la herida: por segunda intención
+[110303] secreción purulenta [110317] olor de la herida [3590] vigilancia de la piel
+observar si hay enrojecimiento, calor extremo, edema o drenaje de la piel y las mucosas
+utilizar una herramienta de evaluación para identificar a pacientes con riesgo de pérdida de integridad de la piel
+
+NOC
+
+DOMINIO 11: Seguridad/Protección
+[1101] integridad tisular: piel membranas y mucosas
+
+INDICADORES
+
+[110101] temperatura de la piel [110113] integridad de la piel
+
+[00046] Deterioro de la integridad cutánea
+[1813] conocimiento: régimen terapéutico
+[181302] responsabilidades de autocuidado para el tratamiento
+[181304] efectos esperados del tratamiento
+
+NIC ACTIVIDADES
+
+[3590] vigilancia de la piel observar si hay enrojecimiento, calor o
+drenaje
+valorar el estado de la incisión
+
+[2380] manejo de la medicación determinar cuáles son los fármacos necesarios y
+administrarlos de acuerdo a la prescripción
+monitorizar a eficacia de la modalidad de la administración
+
+NOC INDICADORES
+
+DOMINIO 12: Confort [2107] severidad de las náuseas y los vómitos
+[210701] frecuencia de las náuseas
+[210702] intensidad de las náuseas
+
+NIC
+
+[1450] manejo de las náuseas
+
+[00134] Nauseas [2109] nivel de malestar [210925] pérdida del apetito
+[210928] náuseas
+[1570] manejo del vómito
+
+26
+
+ACTIVIDADES
+
+Realizar una valoración completa de las náuseas, incluyendo la frecuencia, la duración, la intensidad y los factores
+desencadenantes, utilizando herramientas como un diario de autocuidado, una escala visual analógica, la Escala Descriptiva de Duke y el Índice de Rhodes de Náuseas y
+Vómitos.
+
+valorar el color, la consistencia, la presencia de sangre y la duración de la emesis, así como el grado en el que es forzado
+
+identificar los factores que pueden causar o contribuir a las náuseas
+
+Medir o estimar el volumen de la emesis
+
+DOMINIO 12: Confort
+
+[00214] Disconfort
+
+NOC
+
+[2008] estado de comodidad
+
+[2011] estado de comodidad: psicoespiritual
+
+INDICADORES
+
+[200801] bienestar físico [200803] bienestar psicológico
+
+[201112] depresión [201113] Ansiedad
+
+NIC ACTIVIDADES
+
+[6486] manejo ambiental: seguridad
+identificar las necesidades de seguridad, según la función física y cognitiva, y el
+historial de conducta del paciente
+identificar los riesgos de seguridad en el ambiente
+
+[5420] apoyo espiritual
+Estar abierto a los sentimientos del individuo acerca de la enfermedad y la muerte.
+Facilitar el uso de la meditación, oración y demás tradiciones y rituales religiosos por parte del individuo.
+
+NOC
+
+DOMINIO 12: Confort [2102] nivel de dolor
+
+[00132] Dolor agudo [1605] control del dolor
+
+INDICADORES
+
+[210204] duración de los episodios de dolor [210206] expresiones faciales de dolor
+
+[160502] reconoce el comienzo del dolor
+[160507] refiere síntomas incontrolables al profesional sanitario
+
+NIC ACTIVIDADES
+
+[1400] manejo del dolor
+utilizar un método de valoración adecuado según el nivel de desarrollo que permita el
+seguimiento de los cambios de dolor
+explorar con el paciente los factores que alivian/empeoran el dolor
+
+[2210] administración de analgésicos
+determinar la ubicación, características, calidad y gravedad del dolor antes de medicar al paciente
+controlar los signos vitales antes y después de la administración de analgésicos
+
+27
+
+Nota. Datos tomados de Modelos y teorías en enfermería (2014); Lenguaje estandarizado NANDA, NOC, NIC (20182020)
+
+Tabla 6 Promoción de la normalidad
+
+PROMOCIÓN DE LA NORMALIDAD
+
+DOMINIO 5: Percepción/Cognición
+
+[00161] Disposición para mejorar los conocimientos
+
+NOC INDICADORES
+
+[3100] autocontrol: enfermedad aguda [310002] sigue precauciones recomendadas [310017] busca ayuda para el autocuidado
+
+[1814] conocimiento: procedimientos terapéuticos [181401] procedimiento terapéutico
+[181406] restricciones relacionadas con el procedimiento
+
+NIC
+
+[5610] enseñanza: prequirúrgica
+
+[5618] enseñanza: procedimiento/tratamiento
+
+ACTIVIDADES
+
+informar al paciente y familia fecha, hora de la cirugía
+conocer las experiencias quirúrgicas previas del paciente
+
+informar al paciente-familia información cerca del procedimiento
+reforzar la confianza del paciente
+
+Nota. Datos tomados de Modelos y teorías en enfermería (2014); Lenguaje estandarizado NANDA, NOC, NIC (2018-2020)
+
+DISCUSION
+Dominio2: Nutrición
+Frente a este dominio cabe resaltar el trabajo realizado por Encarnación, titulado “Proceso de atención de enfermería en obstrucción intestinal” en el cual se indica que el patrón nutricional se ve afectado por las náuseas y episodios eméticos, los cuales pueden generar un desequilibrio hidroelectrolítico. Dicho artículo señala que la nutrición administrada a los pacientes es parenteral, por sonda nasogástrica, además plantea una serie de intervenciones (NIC) que van enfocadas en una dieta rica en fibra para evitar estreñimiento y brindar información acerca de las necesidades nutricionales y la manera de suplirlas (Vega, 2019).
+Otro artículo, denominado “Guía educativa de enfermería en el preoperatorio en pacientes sometidos a cirugías abdominales en el Hospital General Puyo” realizado por Riera, afirma que es fundamental valorar el estado nutricional del paciente en el preoperatorio, para corregir las deficiencias nutricionales que se identifiquen, evitando complicaciones en el trans y posoperatorio que puedan generar riesgos que comprometan la vida(Marisol, 2017).
+Por otra parte, el artículo “Infección del sitio quirúrgico y relación con factores asociados en cirugía abdominal, Hospital Vicente Corral Moscoso, 2016” realizado por Altamirano, expone que las alteraciones nutricionales como desnutrición, sobrepeso y obesidad, generan complicaciones posoperatorias relacionadas con el compromiso secundario del sistema
+
+28
+inmunológico provocando consecuencias como: retraso en la recuperación quirúrgica, e infección del sitio operatorio aumentando la estancia hospitalaria(Altamirano, Sarmiento, 2019).
+Dominio 3: Eliminación e intercambio
+Como lo menciona Encarnación en su artículo “Proceso de atención de enfermería en obstrucción intestinal”, es importante monitorizar constantemente el funcionamiento intestinal para identificar las posibles alteraciones que se generen a partir de la patología gastrointestinal que presente el paciente, así mismo, relaciona diagnósticos de enfermería pertenecientes a este dominio indicando la importancia del manejo y monitorización del mismo para evitar complicaciones como desequilibrios hidroelectrolíticos que puedan retardar la recuperación del paciente(Vega, 2019).
+Además, según Alcarraz en su artículo “Proceso del cuidado enfermero basado en evidencia aplicado a un paciente con apendicectomía” establece como diagnostico real el estreñimiento, el cual es atribuido a la disminución de la movilidad física y la administración de analgésicos, este efecto secundario propio de las características posoperatorios debe ser prioridad en el cuidado enfermero dado que puede generar dolor y que el paciente realice esfuerzos que provoquen complicaciones como la dehiscencia de la herida quirúrgica, retrasando la recuperación quirúrgica(Alcarraz, 2018).
+Dominio 4 Actividad/reposo
+En la revisión sistemática de los artículos relacionados con el diagnostico enfermero (00085) Deterioro de la movilidad física se encuentra concordancia, al afirmar que, la incapacidad que genera la situación quirúrgica del paciente pone en riesgo sus actividades diarias, como hacer cambios de posición o comer de manera independiente, lo que según Alcarraz, se dificulta por el dolor y la ansiedad que siente el paciente en el posoperatorio(Alcarraz, 2018); creando dependencia hacia su cuidador, quien inicialmente será el profesional de enfermería; el cual se encargara de suplir las necesidades primarias del paciente y quien tiene la responsabilidad de mejorar el autocuidado de la persona; encontrando relación con la teoría del déficit de autocuidado de Orem, donde el individuo se encuentra en el sistema completamente compensatorio de la teoría de los sistemas enfermeros y es deber del profesional de enfermería que el paciente llegue al sistema educativo de apoyo, donde se brindan las herramientas para continuar con los cuidados adecuados para lograr la recuperación pertinente y mejorar estilos de vida. Como se ha mencionado, el autocuidado se ve altamente afectado en el posoperatorio de las personas, uno de los aspectos que se ve comprometido es el autocuidado en la alimentación, dado que, inicialmente el paciente tendrá restricción alimenticia y deberá posteriormente aprender nuevas técnicas para preparar alimentos y cambiar hábitos que a corto plazo podrían generar complicaciones asociadas a la intervención quirúrgica; en la investigación “Efectividad de la intervención educativa de enfermería en la complicaciones posoperatorias en pacientes de colecistectomía”(Generación, 2018), realizado por Mastache, et. al; hace énfasis en la importancia de brindar información acerca del plan de cuidados que deberá seguir el paciente para evitar futuras complicaciones; la educación que brinde el profesional al individuo y cuidador debe crear hábitos que favorezcan el autocuidado en los diferentes
+
+29
+aspectos que compromete la intervención quirúrgica, fundamentalmente en la alimentación, ya que esta interviene tanto en la homeostasis del organismo como en la recuperación del sitio operatorio.
+Por esta razón, el auto cuidado puede ser considerado una práctica de funciones reguladoras que los individuos desempeñan con el objetivo de mantener un estilo de vida saludable, que no entrañe riesgos para las funciones vitales.
+Dominio 5: Percepción/cognición
+En Ecuador, una investigación relacionada con la obstrucción intestinal y su impacto en la calidad de vida, realizada por Mullo(Brasales, 2014), señala la importancia de tener una comunicación asertiva entre enfermero, paciente y cuidadores, para identificar las necesidades de autocuidado, relacionadas con la intervención quirúrgica y el proceso de recuperación, propiciando un ambiente de intercambio de ideas para diseñar en conjunto los cuidados específicos en cuanto a alimentación, actividad física, cuidado de la herida quirúrgica, entre otros, con el fin de disminuir el temor, ansiedad y angustia generada por la salida del centro asistencial.
+Así mismo, Mastache et. al, establece que el desconocimiento de los individuos sobre los cuidados que deben tener en casa, es una causa importante de las complicaciones más comunes, por ello, la educación que brinda el profesional de enfermería influye en el adecuado manejo del posoperatorio por parte del paciente y su familia; dándoles fundamentos científicos para que ellos generen prácticas autónomas que fortalezca su autocuidado (Generación, 2018).
+Por lo anterior, cabe resaltar que la educación que brinda el profesional de enfermería en cuanto al desconocimiento de los cuidados posteriores a la intervención quirúrgica, deben ser brindados en el momento adecuado, convirtiéndose estos en herramientas claves que favorezcan la recuperación, bienestar y actividades de la vida diaria
+Dominio 11: Seguridad/protección
+La piel como órgano fundamental en la protección del organismo, actúa como barrera ante los microorganismos del medio ambiente y a los que se está expuesto constantemente; lo que contribuye a la prevención de infecciones. Teniendo en cuenta lo anterior, el deterioro de la integridad cutánea que presentan, los pacientes intervenidos por alteraciones gastrointestinales significan un alto riesgo de infección, dado que, quedan expuestos tejidos que deben tener un medio regulado al interior del organismo.
+Además, existen factores de riesgo que aumentan la posibilidad de que el individuo adquiera una infección del sitio operatorio, como lo cita Sarmiento en el estudio “Infección del sitio quirúrgico y relación con factores asociados en cirugía abdominal, 2016”, en el cual hace referencia a la incidencia de la infección del sitio operatorio, ya que, es la principal complicación que presentan los pacientes con alteraciones gastrointestinales, sin embargo, indica que el 60% de las infecciones pueden ser prevenibles con los cuidados de los
+
+30
+profesionales y la educación en autocuidado que estos brinden a pacientes y cuidadores(Altamirano, Sarmiento, 2019).
+Así mismo, las infecciones constituyen un problema de salud pública, ya que afectan social y económicamente al centro asistencial, al paciente y su familia; por ende es necesario identificar los factores de riesgo que predisponen la infección de la herida quirúrgica como lo son: alteraciones en el patrón nutricional, administración de inmunosupresores, aumento de estancia hospitalaria, reingresos, enfermedades metabólicas y factores ambientales como el tabaquismo, consumo de alcohol o sustancias psicoactivas.
+También, Concepción, L; y Pando, A; en la investigación “Complicaciones dependientes del sitio quirúrgico en la cirugía abdominal de urgencia”, indican que las complicaciones relacionadas con la piel pueden repercutir de manera negativa en la recuperación del paciente, ya que, estas pueden afectar la homeostasis corporal y pueden conllevar a la muerte; los resultados de este estudio arrojaron que las complicaciones más relevantes estuvieron relacionadas con la edad del paciente y con una estancia hospitalaria prolongada; siendo la tasa de mortalidad de un 19,4%, la cual fue consecuencia de evisceración en todos los pacientes que presentaron esta afectación, y, 75% de los que presentaron dehiscencia de la sutura(Concepción Quiñones & Pando Santos, 2014).
+Por otro parte, en el estudio “Causas que producen complicaciones posquirúrgicas en la apendicetomía en el servicio de cirugía” realizado por Minchala, recomienda que las intervenciones por parte del profesional de enfermería para prevenir la infección de la incisión quirúrgica deben estar encaminadas a una monitorización constante de los signos vitales y signos de infección, garantizando ambientes estériles para la recuperación quirúrgica teniendo los cuidados de la herida correspondientes, y el cuidado adecuado con las sondas y drenajes que tenga el paciente, además de garantizar la correcta administración de la terapia antibiótica(De Enfermería, n.d.).
+En consonancia con lo anterior, Santana, T; en el artículo “Efecto de la adecuación al protocolo de la profilaxis antibiótica en la incidencia de infección quirúrgica en apendicectomías”, afirma que la profilaxis antibiótica se realiza con el fin de prever las infecciones que pueda presentar el paciente en el posoperatorio, pues si se logran cantidades adecuadas del fármaco en el intraoperatorio y posoperatorio, este será eficaz; sin embargo, el resultado obtenido de esta investigación fue que la principal causa de incumplimiento con el protocolo, fue la hora del inicio del mismo generando un 4,6% de incidencia en la infección del sitio quirúrgico. Teniendo en cuenta, que el profesional de enfermería es el encargado de garantizar la adecuada administración de los medicamentos, tanto en el preoperatorio como el posoperatorio, se entiende que el rol que este desempeña desde la preparación del paciente es fundamental para evitar complicaciones como las infecciones que pueden afectar su recuperación y el entorno hospitalario(Sánchez-Santana et al., 2017).
+Por último, es necesario que los profesionales de enfermería brinden una adecuada educación en el manejo de las heridas quirúrgicas por parte del individuo y su cuidador, fortaleciendo los conocimientos de autocuidado previniendo el retraso en la recuperación quirúrgica; además, de cumplir con sus funciones desde la preparación del paciente hasta la salida del centro asistencial.
+
+31
+Dominio 12 Confort
+Según, González, A; en su artículo “Comodidad de los pacientes hospitalizados en unidades de cuidado intensivo e intermedio”, hace referencia a que la satisfacción de los pacientes, dentro de los centro hospitalarios es propiciada por la calidad de la atención, que conlleva a una mejor recuperación de la salud y a la disminución de la estancia hospitalaria, generando mayor confianza entre los pacientes y los profesionales; lo que a su vez, permite que los profesionales puedan suplir las necesidades de los pacientes, como el alivio del dolor o las náuseas que son síntomas que generan indisposición y malestar en el posoperatorio(González, Montalvo, & Herrera, 2017).
+La humanización de los servicios en salud cambia el cuidado, ya que el profesional, no solo puede centrarse en las necesidades biológicas del paciente, sino, priorizar en su salud mental, emocional y social, mientras este bajo su cuidado; de esta manera se construye un entorno adecuado para el paciente y su familia facilitando las intervenciones de enfermería y la recuperación del paciente.
+Así mismo, según Oriol S, en su artículo “Profilaxis y tratamiento de las náuseas y vomito postoperatorio” señala que las náuseas y el vómito están relacionadas con la administración de anestésicos previos a la intervención quirúrgica, y a su vez se encuentra interrelacionado con la comodidad del paciente en su estancia hospitalaria, por tanto, el profesional de enfermería debe asumir su rol de cuidador y educador, en los cuales debe garantizar la disminución de los síntomas que generan disconfort por medio de administración de medicamentos y técnicas de relajación, además, brindando educación en cuanto a acciones de autocuidado que pueden ayudar con la desaparición de dichos síntomas(Oriol-López, 2013).
+Por otro lado, es fundamental mencionar que el dolor es el síntoma que más incomodidad genera en la hospitalización por ello, es muy importante que este síntoma sea manejado de manera adecuada tanto farmacológicamente como con terapias alternativas; teniendo en cuenta lo anterior, un estudio realizado por Machado, J; asevera; señala que en algunos hospitales el manejo del dolor en el posoperatorio inmediato es deficiente pues concluyeron que deben implementarse mejores protocolos y capacitar al personal sanitario en la adecuada valoración y control del dolor asociado con la intervención quirúrgica(Machado-Alba et al., 2013).
+Por último, cabe mencionar que el profesional de enfermería tiene un rol fundamental en el cuidado del paciente, desde su preparación hasta el alta, procurando siempre una estancia con enfoque humanísticas, que garantice no solo las necesidades biológicas sino también la tranquilidad y comodidad de tanto del paciente, y en lo posible la calma de la familia; para garantizar un entorno que propicie la recuperación. Además, de ser fundamental la educación brindada para que el paciente y su familia participen activamente en su recuperación y bienestar.
+
+32
+CONCLUSIONES
+A partir de la revisión realizada se evidencia las principales problemáticas que suelen presentarse en la población a estudio permitiendo la estandarización del cuidado empleando la taxonomía NANDA. La educación continua de los pacientes en las necesidades identificadas permite al gestor del cuidado cumplir con los resultados esperados NOC y a mejorar la adherencia al tratamiento. Es importante involucrar a la familia en los cuidados relacionados con su tratamiento con el fin de generar beneficios en el paciente.
+
+33
+REFERENCIAS
+Alcarraz Johantan Universidad Inca Garcilaso de la Vega [En línea] // Proceso del cuidado enfermero basado en evidencia aplicado a un paciente con apendicectomia en el Hospital PNP Augusto B. Leguía. - 27 de 11 de 2017. - 20 de 05 de 2019. - http://repositorio.uigv.edu.pe/handle/20.500.11818/3329.
+Alfaro, R. (2009). PENSAMIENTO CRITICO Y JUCIO CLINICO EN ENFERMERIA (p. 299). p. 299.
+Alligood, M. R., & Marriner Tomey, A. (2014). Modelos y teorías en enfermería. (p. 1203). p. 1203. Retrieved from https://tienda.elsevier.es/modelos-y-teorias-enenfermeria-9788490227275.html
+Altamirano, Sarmiento, D. A. (2019). Infección del sitio quirúrgico y relación con factores asociados en cirugía abdominal. Hospital Vicente Corral Moscoso, 2016 (2). Journal of Chemical Information and Modeling, 53(9), 1689–1699. https://doi.org/10.1017/CBO9781107415324.004
+Arias, P. M., Albornoz, P. D., Cervetti, M. R., & Pasarín, M. A. (2017). Factores predictivos de colecistitis aguda gangrenosa. Revista Chilena de Cirugia, Vol. 69, pp. 124–128. https://doi.org/10.1016/j.rchic.2016.09.011
+Ayala, A. E. G. (2007). Litiasis biliar. Farmacia Comunitaria, 21. Baena, C. (2003). plan de cuidados en el postoperatorio inmediato. Enfermeria Docente,
+31–37. Báez-hernández, F. J. (2009). Significado del Cuidado en la Práctica profesional de
+Enfermería. Aquichan, 9(2), 127–134. https://doi.org/10.1016/S0304-5412(12)704225 Brasales, V. (2014). Universidad técnica de ambato facultad de ciencias de la salud carrera de terapia física. Universidad Técnica De Ambato Facultad De Ciencias De La Salud Carrera De Terapia Física, 115. Retrieved from http://repositorio.uta.edu.ec/handle/123456789/8480 Butcher H. Bulechek, G. Dochterman, J. Wagner, C. Clasificación de Intervenciones de Enfermería (NIC) [Libro]. - España : ELSEVIER, 2018. - Vol. 7th Ed.. Concepción Quiñones, L., & Pando Santos, A. (2014). Complicaciones dependientes del sitio quirúrgico en la cirugía abdominal de urgencia. Rev Soc Peru Med Interna, 27(3), 130–135. Retrieved from http://medicinainterna.net.pe/pdf/complicaciones SPMI volumen 27 numero 3 final web.pdf Csendes J., A., Pereira, P., Zamorano D., M., Arratia, I., Gonzalez, J., & Carriel, F. (2016). Tratamiento médico o quirúrgico de la obstrucción intestinal alta. Revista Chilena de Cirugia, 68(3), 227–232. https://doi.org/10.1016/j.rchic.2014.08.001 De Enfermería, C. (n.d.). Unidad Académica De Ciencias Químicas Y De La Salud Autora: Espinoza Minchala Kerly Margoth Machala-El Oro. Retrieved from http://repositorio.utmachala.edu.ec/bitstream/48000/3479/1/CD000023-TRABAJO COMPLETO-pdf Domínguez González, E. J., Piña Prieto, L. R., Cisneros Domínguez, C. M., & Romero García, L. I. (2015). Escala predictiva de mortalidad en la oclusión intestinal mecánica. Revista Cubana de Cirugia, 54(2), 129–139. Fernández, Z. R. (2010). Complicaciones de la apendicectomía por apendicitis aguda. Revista Cubana de Cirugia, 49(2). Gargallo, C., Aranguren, F., & Simón, M. (2014). Colecistitis aguda. Emergencias En
+
+34
+Gastroenterología y Hepatología, 10(1), 1–7. Retrieved from https://www.medfinis.cl/img/manuales/Colecistitis aguda.pdf%0Ahttp://www.elsevier.es/es-revista-gastroenterologia-hepatologiacontinuada-8-pdf-S1578155011700110 Garibay-González, F., Navarrete-Arellano, M., Moreno-Delgado, F., Lucas SalinasHernández, E., Rodríguez-Ayala, E., & Cleva-Villanueva, G. (2017). Incidencia de la obstrucción intestinal por adherencias postoperatorias en el Hospital Central Militar. Factores de riesgo asociados. Rev Sanid Milit Mex, 71(6), 534–544. Retrieved from https://www.medigraphic.com/pdfs/sanmil/sm-2017/sm176f.pdf Generación, E. M. (2018). Posgrado de enfermeria especialidad de enfermeria medicoquirurgica generación 2016- 2018. González, A., Montalvo, A., & Herrera, A. (2017). Comodidad de los pacientes hospitalizados en unidades de cuidado intensivo e intermedio. Enfermería Global, 16(1), 268, 269, 270. https://doi.org/10.6018/eglobal.16.1.260101 GUTIERREZ, S. F. de riesgo y complicaciones postoperatorio por apendicitis aguda en apcientes adultos mayores H. N. E. R. M. 2010 L. U. S. M. de P. 2015. (2015). Factores De Riesgo Y Complica Ciones Postoperatorias Por Apendicitis Agu Da En Pacientes Adultos Mayores. Repositorio Academico USMP, 49. Retrieved from https://www.mendeley.com/viewer/?fileId=5e59e95c-7851-b549-4bc3bc644f4ef18a&documentId=742da876-00b6-3b54-bcdb-e359097a9de1 Hernández, J., De León, J., Martínez, M., Guzmán, J., Palomeque, A., Cruz, N., & Ramírez, H. (2019). Apendicitis aguda: revisión de la literatura Acute appendicitis: literature review. Cirujano General, 41(1), 33–38. Retrieved from https://www.redalyc.org/pdf/1812/181237108003.pdf Herdman Diagnósticos enfermeros deficinición y clasificación. [Libro]. - España : ELSEVIER, 2018 - 2020. - Vol. 1st Ed. . Jerusalén, C., & Simón, M. Á. (2012). Cálculos biliares y sus complicaciones. Problemas Comunes En La Práctica Clínica, 45(5), 667–682. https://doi.org/10.1074/jbc.M005561200 Lidia, C., Carbonell, A., Prado, Y. A., & Plaza, T. (2012). Diagnóstico clínico y epidemiológico de la litiasis vesicular. Revisión bibliográfica Clinical and epidemiological diagnosis of bladder stone. Medical literature review. Revista de Ciencias Médicas de Pinar Del Río, 16(1), 200–214. Machado-Alba, J. E., Machado-Duque, M. E., Flórez, V. C., Montoya, A. G., Escobar, F. C., Ruiz, R., & Catano, J. M. (2013). Are we controlling postoperative pain? Revista Colombiana de Anestesiologia, 41(2), 132–138. https://doi.org/10.1016/j.rca.2013.02.001 Marisol, R. C. J. (2017). Guía educativa de enfermería en el pre-operatorio en pacientes sometidos a cirugías abdominales en el Hospital General Puyo (1). ‫.ی ,ی)ی ,(ی‬ Monestes, J., & Galindo, F. (2009). colecistitis aguda. Cirugia Digestiva, IV–441, 1–8. s/clasificacion-de-resultados-de-enfermeria-noc-9788491134053.html Moorhead Swanson J. Clasificación de Resultados de Enfermería (NOC) [Libro]. España : ELSEVIER, 2020. - Vol. 6th Ed. . Morgenstern, R., & Acosta, R. (2015). Enfermedades de la Vesicula y de la Via Biliar, Pancreatitis Biliar | ACG Patients. Retrieved from http://patients.gi.org/recursos-enespanol/enfermedades-de-la-vesicula-y-de-la-via-biliar-pancreatitis-biliar/ Oriol-López, S. A. (2013). Profilaxis y tratamiento de la náusea y vómito postoperatorios.
+
+35
+Revista Mexicana de Anestesiologia, 36(SUPPL.2), 363–374. Oto Cavero, I., Arqu Blanco, M., & Barrachina Bells, L. (2004). Enfermería medicoquirurgica (pp. 1–275). pp. 1–275. Quevedo Guanche, L. (2007). Oclusión intestinal: Clasificación, diagnóstico y tratamiento.
+Revista Cubana de Cirugía, 46(3), 0–0. Retrieved from http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0034-74932007000300015 Raue, M. (n.d.). Apendicitis aguda. Manual de Enfermedades Digestivas y Quirurgicas, 1– 9. Rodríguez Reyes, H., Vilaseca Zanabria, E., Puertas Álvarez, J., & Gonzáles Rondón, P. L. (2017). Caracterización clínica de pacientes con urgencias quirúrgicas abdominales operados por cirugía videolaparoscópica. Revista Cubana de Medicina Militar, 46(3), 234–243. Ruiz Sierra, F. (2003). Síndrome de obstrucción intestinal. Revista Del Hospital General, 2(1), 36–43. Retrieved from https://www.medigraphic.com/pdfs/quebra/lq2003/lq031i.pdf Sánchez-Santana, T., del-Moral-Luque, J. A., Gil-Yonte, P., Bañuelos-Andrío, L., DuránPoveda, M., & Rodríguez-Caravaca, G. (2017). Efecto de la adecuación a protocolo de la profilaxis antibiótica en la incidencia de infección quirúrgica en apendicectomías. Estudio de cohortes prospectivo. Cirugia y Cirujanos (English Edition), 85(3), 208– 213. https://doi.org/10.1016/j.circir.2016.09.004 Soria, M., García, B., & Molina, M. (2017). Enfermedad renal crónica: Principales patologías desencadenantes en la actualidad. In Acercamiento multidisciplinar a la salud. Volumen II. Retrieved from https://formacionasunivep.com/files/publicaciones/LIBRO 2 ACERCAMIENTO FINAL.pdf#page=331%0Ahttps://www.formacionasunivep.com/Vciise/files/libros/LI BRO_2.pdf#page=67 Universitario, H. de ciudad real. (n.d.). HGUCR – Planes de Cuidados. Retrieved September 26, 2019, from http://www.hgucr.es/areas/area-de-enfermeria/planes-decuidados/ Vega, E. &. (2019). Proceso de atención de enfermería en obstrucción intestinal. Utmach. Retrieved from http://repositorio.utmachala.edu.ec/handle/48000/14109 Zarate Grajales, R. A. (2004). La Gestión del Cuidado de Enfermería. Index de Enfermería, 13(44–45), 109–111. https://doi.org/10.4321/s1132-12962004000100009

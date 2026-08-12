@@ -1,0 +1,102 @@
+Indian J Surg (June 2017) 79(3):234–237 DOI 10.1007/s12262-017-1610-6
+REVIEW ARTICLE
+Colorectal Cancer: Postoperative Follow-up and Surveillance
+Satyajit Godhi1 & Ashok Godhi2 & Ravishankar Bhat1 & Sundeep Saluja3
+
+Received: 12 December 2015 / Accepted: 24 February 2017 / Published online: 10 March 2017 # Association of Surgeons of India 2017
+
+Abstract Follow-up and surveillance form an important aspect of care in patients with colorectal cancers (CRC). Most recurrences will occur within 2 years of surgery and 90% by 5 years. Follow up protocols have not been well defined in stage I disease and the approach should be individualized. As 40% of patients with stages II and III will develop recurrences, intensive postoperative follow-up strategy is recommended for them. It includes visit to the clinician for clinical examination, serum carcinoembryonic antigen (CEA), computed tomography (CT) of the chest and abdomen, colonoscopy, and flexible proctosigmoidoscopy in rectal cancers. Surveillance should be undertaken in those who are medically fit for repeat surgical procedures or for chemoradiotherapy. The concept of intensive post operative surveillance is based on the fact that some of these patients can have resectable/curable recurrence.
+Keywords Colorectal cancer . Follow-up . Surveillance
+* Satyajit Godhi satyajitgodhi@gmail.com
+Ashok Godhi Ashok.godhi@rediffmail.com
+Ravishankar Bhat Bhat.ravishankar@gmail.com
+Sundeep Saluja sundeepsaluja@yahoo.co.in
+
+Introduction
+Follow-up and surveillance form an important aspect of care in patients with colorectal cancers (CRC). The primary aim is to detect an early recurrence and timely intervention in these patients. In spite of advances in chemoradiotherapy both in the adjuvant and neoadjuvant setting, surgery still remains the single best modality for treatment in CRC. Majority of recurrences will occur within 2 years of surgery and 90% by 5 years. Once a patient exceeds 5 years after surgery without recurrence, the chances of developing a recurrence later become remote. Follow-up protocol differs between major societies and expert groups. Some advocate intensive postoperative surveillance in a bid to detect potentially curable recurrences at the earliest possible time. Meta analyses have shown a survival benefit with such an approach.
+In this review, we would discuss the intensive postoperative surveillance for 5 years, evidence on the effectiveness of such strategy and the recommendations of various expert committees.
+Stage II and Stage III Disease
+Forty percent of patients with stage II and III will develop recurrences. We recommend intensive postoperative surveillance for patients with resected stage II or III CRC who would be considered candidates for aggressive treatment, including curative intent surgery.
+
+1 Surgical Gastroenterology, Apollo Hospitals, Bangalore, Karnataka, India
+2 Surgery, Jawaharlal Nehru Medical College, Belgaum, Karnataka, India
+3 Surgical Gastroenterology , G.B. Panth Institute of Post Graduate Medical Education and Research, New Delhi, India
+
+Intensive Postoperative Follow-up Strategy
+1. A visit to the clinician for clinical examination every 3 to 6 months for the first 3 years, and every 6 months in the 4th and 5th year.
+
+Indian J Surg (June 2017) 79(3):234–237
+2. Serum carcinoembryonic antigen (CEA) level at every follow-up for the first 3 years.
+3. Computed tomography (CT) of the chest, abdomen, and pelvis yearly for at least 3 years.
+4. Colonoscopy at 1 year and subsequently at 3 to 5 years intervals (provided a full length colonoscopy was done prior to surgery, if not, then a colonoscopy at 3 months post operatively).
+5. Flexible proctosigmoidoscopy every 6 months for 3 to 5 years in patients with rectal cancers and low anterior resection who have not received pelvic irradiation.
+Rationale for Intensive Postoperative Surveillance Program
+The possibility of early detection of a potentially curable recurrence drives the concept of intensive postoperative follow-up strategy. Re-resection can cure some of them with limited recurrence. These sites can be local or metastatic, e.g., localized recurrent rectal cancer or limited liver or lung metastasis. Asymptomatic recurrences have more potential for curative resection and have better overall survival [1–4]. Though, on the contrary, symptomatic recurrences should not be discarded as unresectable. According to Eastern Cooperative Oncology Group ( ECOG), 25% of resectable cases in recurrent colon cancer were symptomatic [5]. A meta-analysis including 4055 patients with CRC analyzed 11 trials comparing intensive postoperative follow-up versus no follow-up with CRC [4]. The intensive follow-up group was associated with higher probability of detecting asymptomatic disease recurrence and curative intent surgery at recurrence.
+When intensive postoperative surveillance was compared head to head with less intensive strategies, 6 of 11 randomized controlled trials (RCT) [6–16] and five meta-analyses conclude that there is a survival benefit with intensive post surgery surveillance [4, 17–20]. It is to note that in these RCTs and meta-analyses, the follow-up protocol was not similar and many even included stage I disease along with stage II and stage III.
+Although Choe et al. [21] suggested more frequent colonoscopy in patients with age > 65 years, male gender, and left-sided colon cancer, there has been no concrete evidence presently to suggest that any more frequent imaging/ surveillance is required even in so called high-risk CRC like perforated colon cancer and poor differentiation.
+Components of Intensive Postoperative Surveillance
+1. History and physical examination (H and P)
+A visit to the clinician is advised for every 3 to 6 months for the first 3 years and then 6 monthly in the 4th and 5th year.
+
+235
+History should try to elicit symptoms of a recurrence, e.g., recent alteration in bowel habits, bleeding per rectum, pain abdomen, and perineal pain in rectal cancers, whereas physical examination should be directed to look for any signs of recurrence, e.g., ascites, hepatomegaly, and supra clavicular lymphadenopathy. Recurrent disease detection based on H and P alone varies from 15 to 40% [7, 10]. The argument against H and P being an effective strategy is that most recurrences that might be potentially resectable ( liver or lung metastasis) will be asymptomatic and will be missed with H and P alone. In spite of this, H and P should be the first step in the strategy.
+2. Carcinoma embryonic antigen ( CEA )
+CEA is an oncofetal protein that is elevated in patients with CRC. It is not specific to CRCs and can be elevated in many other cancers. CEA testing is the only consistent laboratory investigation that has been recommended by many expert groups [National Comprehensive Cancer Network (NCCN), European Society For Medical Oncology (ESMO), American Society Of Clinical Oncology (ASCO), British Columbia Medical Association] even in those patients who had normal or near normal preoperative CEA levels. Zeng et al. [22] from Memorial Sloan-Kettering Cancer Centre (MSKCC) in their study showed that there is no correlation between tumor tissue CEA and serum CEA levels. They studied 114 CRC cases with low preoperative serum CEA levels of which 94% (109) were found to be tumor tissue CEA-positive. Furthermore, they could not establish any correlation between preoperative CEA level, the intensity of tumor tissue CEA and postoperative CEA elevations in recurrences thus justifying CEA level monitoring postoperatively even in patients with normal/low preoperative CEA levels.
+Advantages of CEA The level of CEA correlates with disease burden. It should return to normal in patients who have undergone curative resection. Residual disease should be suspected if it does not return to normal. Sixty percent to 90% of patients with relapse have an elevated CEA. CEA detects recurrent disease 2 to 5 months prior to detection by any other means [23, 24].
+Disadvantages of CEA Cost effectiveness of serial CEA testing is doubtful. Ten percent to 40% of recurrences have no elevation of CEA and as of now, no data showing CEA testing improves survival.
+Most guidelines recommend CEA testing once in every 3 to 6 months though no study yet has demonstrated a survival advantage with less frequent or more frequent testing. Values between 5 to 10 ng/dl have to be rechecked to avoid false elevations. In a retrospective review, 49% of patients had false elevations of CEA at least once in follow-up and 93% of these had values between 5 to 10 ng/dl [25]. None of the false positives had elevations >35 ng/dl.
+
+236
+
+Indian J Surg (June 2017) 79(3):234–237
+
+Liver function tests (LFT), complete blood count (CBC), and fecal occult blood lack sensitivity and specificity are not part of the surveillance strategy.
+3. CT scan
+Meta-analyses report a survival advantage when CT scan was a part of postoperative surveillance. Liver imaging is important in cases with colon cancer and lung imaging with rectal cancers. The evidence for chest surveillance is weak as compared with liver imaging as none of the metaanalyses address chest imaging separately. Survival benefit is maximum in surveillance protocols when CT scan is combined with CEA. Surveillance CT scan of the chest and abdomen annually in the first 3 years is the standard recommendation for all resected stage II and stage III patients.
+The role of positron emission tomography (PET) in the detection of recurrences after curative resection is not yet established. Presently, PET is not recommended by expert groups. Chest X-ray does not form a part of standard surveillance protocols. CT scan of the chest is preferred over a chest X-ray due to its higher sensitivity.
+4. Perioperative colonoscopy
+Synchronous colonic malignancies occur in 2 to 5% of cases. If obstructing lesions preclude performing a colonoscopy preoperatively, it should be performed postoperatively at 3 months. If a full length colonoscopy was performed preoperatively, then ideal timing to perform colonoscopy would be at 1 year. Colonoscopy during follow-up is performed with two intentions—(a) to detect metachronous tumors and (b) to detect anastomotic recurrences. Three percent of patients develop metachronous tumor within 5 years of surgery, and 50% of these develop within 1 year. This set may actually represent synchronous tumors that were missed preoperatively. Thus, majority of expert groups like ASCO and NCCN recommend follow-up colonoscopy at 1 year. Survival benefit with follow-up colonoscopy though is doubtful. Shoemaker et al. [9] randomized 325 patients into either a standard follow-up protocol or intensive follow-up protocol. The standard follow-up consisted of CBC, LFT, CEA, and fecal occult blood every 3 months for 2 years and then 6 months till 5 years. Colonoscopy and CT scan were done only if abnormalities were detected in H and P or blood investigations. Intensive follow-up protocol in addition had an annual CT scan, chest X-ray, and colonoscopy. Colonoscopy could only detect eight cancers and only one was resectable. The authors concluded that standard follow-up protocol was as good as intensive follow-up protocol in preventing cancer-related death and that colonoscopy should be performed at 5 years after surgery. The argument for performing a periodic colonoscopy is its ability to detect metachronous tumors and polyps which can be curative. Thus, the standard recommendation presently is to perform a
+
+colonoscopy at 1 year after surgery and then subsequently at intervals of 3–5 years in all resected stage II and stage III CRC.
+5. Proctosigmoidoscopy
+This is best suited for patients with rectal cancers who have undergone low anterior resection and have not received pelvic radiotherapy. It is cheap and can be easily performed and better tolerated with fewer complications as compared with colonoscopy. Opinion about proctosigmoidoscopy by various expert groups is mixed though. ASCO recommends proctosigmoidoscopy whereas NCCN and ESMO deny it. Its usefulness is maximum in patients who have not received pelvic radiotherapy as they are most vulnerable to local recurrences.
+Confusion and Controversy Regarding Follow-up Surveillance in Stage I and Resected Stage IV Disease
+Stage I Disease
+Controversy surrounds stage I disease. ASCO guidelines suggest no need for a follow-up surveillance for asymptomatic stage I disease. Justifying the above suggestion is the fact that 95% of patients with stage I disease are cured with surgery. Similarly, the British Columbia Medical Association and NCCN do not recommend surveillance for stage I disease. ESMO however has the same follow-up strategy for stage I, II, and III.
+Stage IV and Resected
+In this subset of patients, does follow-up surveillance improve survival is not very clear. The strategy for stage II and III need not be extrapolated on stage IV. The chance of detection of a recurrence that is amenable for re-resection does exist. ASCO recommends surveillance in patients with good performance status. Patients who are neither fit for any surgical procedure nor can tolerate chemoradiotherapy need not undergo surveillance.
+Summary
+Surveillance after surgery forms an important component of treatment of patients with CRC. The concept of intensive postoperative surveillance is based on the fact that some of these patients can have resectable/curable recurrences. Surveillance should be undertaken in those who are medically fit for repeat surgical procedures or for chemoradiotherapy. The surveillance protocol should include H and P, CEA, CT scan, colonoscopy, and proctosigmodeoscopy when appropriate. Fecal occult blood, CBC, LFT, chest X-ray, and PET scanning are not recommended. Intensive postoperative follow-up strategy is recommended for stage II and III disease. Follow-up surveillance in stage I disease is controversial.
+
+Indian J Surg (June 2017) 79(3):234–237
+No recommendations are available by ASCO for stage IV disease, but NCCN recommends follow-up similar to stage II and stage III disease.
+Compliance with Ethical Standards
+Conflict of Interest The authors declare that they have no conflict of interest.
+References
+1. Goldberg RM, Fleming TR, Tangen CM et al (1998) Surgery for recurrent colon cancer: strategies for identifying resectable recurrence and success rates after resection. Eastern cooperative oncology group, the north central cancer treatment group, and the southwest oncology group. Ann Intern Med 129:27
+2. Quentmeier A, Schlag P, Smok M, Herfarth C (1990) Reoperation for recurrent colorectal cancer: the importance of early diagnosis for resectability and survival. Eur J Surg Oncol 16:319
+3. Ovaska J, Järvinen H, Kujari H et al (1990) Follow up of patients operated on for colorectal carcinoma. Am J Surg 159:593
+4. Pita Fernández S, AlhayekAí M, GonzálezMartín C et al (2015) Intensive follow-up strategies improve outcomes in nonmetastatic colorectal cancer patients after curative surgery: a systematic review and meta-analysis. Ann Oncol 26:644
+5. Graham RA, Wang S, Catalano PJ, Haller DG (1998) Postsurgical surveillance of colon cancer: preliminary cost analysis of physician examination, carcinoembryonic antigen testing, chest xray, and colonoscopy. Ann Surg 228:59
+6. Ohlsson B, Breland U, Ekberg H et al (1995) Follow-up after curative surgery for colorectal carcinoma. Randomized comparison with no follow-up. Dis Colon rectum 38:619
+7. Mäkelä JT, Laitinen SO, Kairaluoma MI (1995) Five year followup after radical surgery for colorectal cancer. Results of a prospective randomized trial. Arch Surg 130:1062
+8. Kjeldsen BJ, Kronborg O, Fenger C, Jørgensen OD (1997) A prospective randomized study of followup after radical surgery for colorectal cancer. Br J Surg 84:666
+9. Schoemaker D, Black R, Giles L, Toouli J (1998) Yearly colonoscopy, liver CT, and chest radiography do not influence 5year survival of colorectal cancer patients. Gastroenterology 114:7
+10. RodríguezMoranta F, Saló J, Arcusa A et al (2006) Postoperative surveillance in patients with colorectal cancer who have undergone curative resection: a prospective, multicenter, randomized, controlled trial. J Clin Oncol 24:386
+
+237
+11. Wang T, Cui Y, Huang WS et al (2009) The role of postoperative colonoscopic surveillance after radical surgery for colorectal cancer: a prospective, randomized clinical study. Gastrointest Endosc 69:609
+12. Pietra N, Sarli L, Costi R et al (1998) Role of follow-up in management of local recurrences of colorectal cancer: a prospective, randomized study. Dis Colon rectum 41:1127
+13. Secco GB, Fardelli R, Gianquinto D et al (2002) Efficacy and cost of risk adapted follow-up in patients after colorectal cancer surgery: a prospective, randomized and controlled trial. Eur J Surg Oncol 28:418
+14. Grossmann EM, Johnson FE, Virgo KS et al (2004) Follow-up of colorectal cancer patients after resection with curative intention the GILDA trial. Surg Oncol 13:119
+15. Primrose JN, Perera R, Gray A et al (2014) Effect of 3 to 5 years of scheduled CEA and CT followup to detect recurrence of colorectal cancer: the FACS randomized clinical trial. JAMA 311:263
+16. Wattchow DA, Weller DP, Esterman A et al (2006) General practice vs surgical-based follow-up for patients with colon cancer: randomised controlled trial. Br J Cancer 94:1116
+17. Renehan AG, Egger M, Saunders MP, O'Dwyer ST (2002) Impact on survival of intensive follow up after curative resection for colorectal cancer: systematic review and metaanalysis of randomised trials. BMJ 324:813
+18. Figueredo A, Rumble RB, Maroun J et al (2003) Follow-up of patients with curatively resected colorectal cancer: a practice guideline. BMC Cancer 3:26
+19. Jeffery M, Hickey BE, Hider PN (2007) Followup strategies for patients treated for nonmetastatic colorectal cancer. Cochrane Database Syst Rev; :CD002200
+20. Tjandra JJ, Chan MK (2007) Follow-up after curative resection of colorectal cancer: a meta-analysis. Dis Colon rectum 50:1783
+21. Choe EK, Park KJ, Chung SJ, Moon SH, Ryoo SB, Oh HK (2015) Colonoscopic surveillance after colorectal cancer resection: who needs more intensive follow-up? Digestion 91(2):142–149
+22. Zeng Z, Cohen AM, Urmacher C (1993) Usefulness of carcinoembryonic antigen monitoring despite normal preoperative values in node-positive colon cancer patients. Dis Colon rectum 36(11):1063–1068
+23. McCall JL, Black RB, Rich CA et al (1994) The value of serum carcinoembryonic antigen in predicting recurrent disease following curative resection of colorectal cancer. Dis Colon rectum 37:875
+24. Hine KR, Dykes PW (1984) Serum CEA testing in the postoperative surveillance of colorectal carcinoma. Br J Cancer 49:689
+25. Litvak A, Cercek A, Segal N et al (2014) False-positive elevations of carcinoembryonic antigen in patients with a history of resected colorectal cancer. J Natl Compr Cancer Netw 12:907

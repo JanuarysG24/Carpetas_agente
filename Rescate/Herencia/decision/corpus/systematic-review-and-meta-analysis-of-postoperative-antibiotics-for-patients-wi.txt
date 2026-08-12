@@ -1,0 +1,601 @@
+Review Article
+Dig Surg DOI: 10.1159/000497482
+
+Received: August 12, 2018 Accepted: January 4, 2019 Published online: June 4, 2019
+
+Systematic Review and Meta-Analysis of Postoperative Antibiotics for Patients with a Complex Appendicitis
+Anne Loes van den Boom Elisabeth M.L. de Wijkerslooth Bas P.L. Wijnhoven
+Department of Surgery, Erasmus MC, University Medical Centre, Rotterdam, The Netherlands
+
+Keywords Complex appendicitis · Postoperative antibiotic · Complications · Intra-abdominal abscess
+Abstract Postoperative antibiotics are recommended after appendectomy for complex appendicitis to reduce infectious complications. The duration of this treatment varies considerably between and even within institutions. The aim of this review was to critically appraise studies on duration of antibiotic treatment following appendectomy for complex appendicitis. A systematic literature search according to the PRISMA guidelines was performed. Comparative studies evaluating different durations of postoperative antibiotic therapy. Primary endpoint was intra-abdominal abscess (IAA) after appendectomy. Secondary endpoints were surgical site infection, readmission and length of hospital stay. The quality of evidence was assessed with the Grading of Recommendations Assessment, Development and Evaluation (GRADE) tool. Pooled event rates were calculated using a random-effects model. Nine studies reporting 2006 patients with complex appendicitis were included. The methodological quality of the included articles was poor. IAA was seen in 138 patients (8,6%). Meta-analysis revealed a statistically significant difference in IAA incidence between antibiotic treatment of ≤5 vs. >5 days (risk ratio (OR) 0.36 [95% CI 0.23–0.57] (p <
+
+0.0001)) but not between ≤3 vs. >3 days (OR 0.81 [95% CI
+
+0.38–1.74] (p = 0.59)). Descriptive statistics were used for sec-
+
+ondary endpoints. The duration of postoperative antibiotic
+
+treatment is not associated with IAA following appendec-
+
+tomy for complex appendicitis.
+
+© 2019 The Author(s)
+
+Published by S. Karger AG, Basel
+
+Introduction
+Appendicitis is one of the most common acute gastrointestinal inflammatory disorders in children and adults, often requiring surgery and hospitalization [1–3]. In the Netherlands, approximately 14,000 patients undergo an appendectomy for suspected appendicitis annually [4]. Acute appendicitis is classified into 2 distinct types: simple and complex. A simple appendicitis is a suppurative or phlegmonous appendicitis (transmural inflammation, ulceration, or thrombosis) with or without extramural pus. A complex appendicitis includes a gangrenous (transmural inflammation with necrosis) appendicitis, a perforated appendicitis and/or appendicitis with abscess formation (pelvic/abdominal) [5]. Some 25–30% of all appendicitis is complex [6–12]. A Cochrane Systematic review revealed that antibiotic prophylaxis is effective in the prevention of postoperative complications in patients undergoing appendectomy for simple and complex ap-
+
+E-Mail karger@karger.com www.karger.com/dsu
+
+© 2019 The Author(s) Published by S. Karger AG, Basel
+This article is licensed under the Creative Commons AttributionNonCommercial-NoDerivatives 4.0 International License (CC BYNC-ND) (http://www.karger.com/Services/OpenAccessLicense). Usage and distribution for commercial purposes as well as any distribution of modified material requires written permission.
+
+Anne Loes van den Boom Department of Surgery, Erasmus MC University Medical Centre Rotterdam PO Box 2040, NL–3000 CA Rotterdam (The Netherlands) E-Mail a.vandenboom @ erasmusmc.nl
+
+pendicitis, whether the administration is given pre, perior postoperatively [13]. Complex appendicitis is associated with increased risk of infectious complications after appendectomy [14–17]. Therefore, in addition to preoperative antibiotic prophylaxis, guidelines recommend postoperative antibiotic treatment for complex appendicitis. There is considerable variability in the route of administration (IV or oral), agents, dosage and duration of postoperative antibiotics practiced worldwide [18–21].
+According to a nationwide study from the N­ etherlands in 2014, the majority of patients (65%) with a complex appendicitis are prescribed 5 days of postoperative antibiotic treatment. Ultimately, almost 80% of patients actually receive antibiotics for 5 days or more [22]. Treatment duration varied from 2 to 10 days [22]. In a survey among Dutch surgeons and residents, postoperative antibiotics were given for 3 days (by 58% of surgeons) or 5 days (by 40% of surgeons) [23]. Restricting postoperative antibiotics to <3 days was uncommon in hospital protocols (2.5%), but 31 per cent of surgeons or residents indicated that would be favoured by them [23]. A survey sent to all practicing paediatric surgeons in North ­America to assess the management of perforated appendicitis (in 2003) also showed a wide variation in the postoperative duration of antibiotic treatment [24]. In a more recent American cohort study among children, 66% of patients with perforated appendicitis received 5 or more days of intravenous antibiotics [25]. And in 92% of these patients, oral antibiotics were prescribed in addition to the intravenous treatment, which led to a median total course of 13 days [25].
+A duration of 3–5 days best reflects current common practice in the Netherlands and is generally considered safe and effective internationally as well [8, 12, 22, 23]. An increasing amount of evidence indicates that a shorter duration may suffice, especially if certain discharge criteria are met [6, 8, 10, 22, 23, 26–40].
+In 2015, the European Association of Endoscopic Surgery initiated a consensus meeting on the management of acute appendicitis [41]. No recommendation could be made regarding the duration or route of postoperative antibiotics for complex appendicitis due to the lack of studies. To reduce the length of hospital stay (LOS), costs, and the risk of developing antimicrobial resistance, it is important to establish a short but safe and effective antibiotic regimen. The aim of this study was to review the literature regarding duration of postoperative antibiotic treatment for complex appendicitis and its effect on the rate of infectious complications, hospital stay and readmission in both children and adults.
+
+Methods
+This study was reported according to the preferred reporting items for systematic reviews and meta-analyses guidelines for reporting systematic reviews and meta-analyses [42].
+Search Strategy A comprehensive literature search was performed on February 27, 2018. Databases from the National Library of Medicine ­(MEDLINE ovid), the Cochrane Library, Web of Science, Embase, PubMed and Google Scholar were searched from inception. Trial registries www.clinicaltrial.gov and the World Health Organization International Clinical Trials Portal [43] were also searched to identify unpublished trials. Search terms included: “appendicitis”, “appendectomy”, “antibiotics”, “anti-bacterial agents”, “anti-infective agents”, “postoperative period” and “postoperative care”. A librarian performed the search. The supporting information (online suppl. Appendix S1; for all online suppl. material, see www. karger.com/doi/10.1159/000497482) outlines the complete search strategy. Manual reference checks of included papers were performed to check for relevant studies. The literature search was restricted to articles published in the English language.
+Eligibility Criteria Articles were included if they were comparative studies on duration of postoperative antibiotics for complex appendicitis in adults and/or children. Complex appendicitis was defined as a gangrenous and/or perforated appendicitis or appendicitis with a pelvic or intra-abdominal abscess (IAA) [5]. Randomized controlled trials, prospective and retrospective observational studies and case series were eligible for inclusion. Studies were excluded if the abstract revealed no relevance to the subject or if they were one of the following: case reports, letters, editorials, animal studies. For publications without an abstract, the full article was retrieved and assessed for eligibility. If full text was not available, even after contacting the original author to request access to the date, the article was excluded. Studies describing preoperative prophylactic antibiotics or antibiotics as conservative treatment for acute appendicitis were outside the scope of the study. Studies reporting postoperative antibiotic treatment prolonged beyond 5 days in both the intervention and control group were outside the scope of this review as well, based on current practice in the Netherlands and the aim of this review to evaluate evidence for a shorter duration. If the duration of antibiotics was unclear or variable, the author was contacted in order to retrieve exact durations.
+Study Selection Two reviewers independently assessed the articles for inclusion by screening the titles and abstracts. All duplicates were removed. Full-text articles of possibly eligible studies were reviewed for inclusion. Excluded articles were recorded along with the reason for exclusion.
+Data Extraction Data on authors, country of origin, year of publication, study design, study population, definition of complex appendicitis, details on the duration of postoperative antibiotic treatment, route and type of antibiotic used, follow-up period, readmission, hospital stay, postoperative complications, IAA and surgical site infection (SSI) in particular were extracted by the first reviewer. The
+
+2
+
+Dig Surg
+
+DOI: 10.1159/000497482
+
+van den Boom/de Wijkerslooth/ Wijnhoven
+
+Identification
+
+Records identified through database searching (n = 2,687)
+
+Additional records identified through other sources (n = 2)
+
+Records after duplicates removed (n = 1,614)
+
+Screening
+
+Records screened (n = 1,614)
+
+Records excluded (n = 1,520)
+
+Fig. 1. PRISMA flow diagram.
+
+Included
+
+Eligibility
+
+Full-text articles assessed for eligibility (n = 94)
+Studies included in qualitative synthesis
+(n = 9)
+Studies included in quantitative synthesis
+(meta-analysis) (n = 4)
+
+Full-text articles excluded, with reasons (n = 85)
+• No complex appendicitis
+• No duration of AB reported
+• Durations >5 days • AB vs. AB instead of
+duration vs. duration • Review/overview article • Preoperative prophylaxis • Irrelevant
+
+second reviewer verified the data extraction. Postoperative antibiotic treatment durations were classified into the following duration categories based on what was reported in the selected studies: up to 5 days versus >5 days, up to 3 days versus >3 days and up to 24 h versus >24 h. This classification was made in such a way that a clear comparison could be made between a short and long course of postoperative antibiotic treatment. If no exact postoperative antibiotic durations could be retrieved – for example, given only a minimum duration and variable prolongation given and overlapping median durations reported for the short and long course groups – then they were excluded from the meta-analysis. We provided only descriptions of these studies.
+Quality Assessment Two reviewers each independently assessed the level of evidence of each paper, using the Grades of Recommendation, Assessment, Development and Evaluation (GRADE) tool by Cochrane [44]. The GRADE approach defines the quality of a body of evidence by consideration of within study risk of bias (methodology quality), directness of evidence, heterogeneity, precision of effect estimates, and risk of publication bias.
+Outcomes The primary outcome was postoperative IAA after appendectomy. Definitions of IAA in the included studies can be found in online supplementary Appendix S2. Secondary endpoints were SSI, LOS and readmission.
+
+Statistical Analysis Risk ratios (RR) were calculated using a random-effects metaanalysis model based on the DerSimonian-Liard method for estimating the between-study variance in order to take into account any potential heterogeneity between the studies. The random-effects model accounts for the heterogeneity between the studies while at the same time larger samples with smaller standard errors receive more weight when calculating the overall RR. Forest plots were created for the primary outcome. Each forest plot shows the effect size of the individual studies and an overall pooled event rate with a confidence interval. Statistical analyses were conducted using Review Manager (RevMan) version 5.3 (Copenhagen: The Nordic Cochrane Centre, The Cochrane Collaboration) [45]. Descriptive statistics was used for secondary endpoints.
+Results
+Study Selection A total of 1,612 articles were identified through the comprehensive electronic search. After reading titles and abstracts, 1,520 articles were excluded mostly reporting preoperative prophylaxis for appendectomy or evaluating different surgical approaches. Two additional articles were identified after manually scrutinizing reference lists.
+
+Postoperative Antibiotic Complex
+
+Dig Surg
+
+3
+
+Appendicitis
+
+DOI: 10.1159/000497482
+
+Of the 94 full-text articles assessed for eligibility, 9 were included into this review describing outcome for 2,006 patients with complex appendicitis. Figure 1 shows the preferred reporting items for systematic reviews and meta-analyses flow diagram for systematic reviews. Characteristics of the included studies are shown in Table 1.
+Quality of Evidence Assessment Quality of the included articles ranged from very low to low. A detailed assessment of the quality of the available evidence using the GRADE tool is presented in Table 2.
+Outcome Assessment Intra-Abdominal Abscess One study did not report IAA as an outcome [36], leaving 8 studies that reported 138 IAAs in 1,596 patients (8.6%). Two articles compared different antibiotic strategies dependent on clinical criteria without reporting exact durations in the intervention and control groups [10, 30]. We could not retrieve the exact duration data and therefore their data were not suitable for meta-analysis. Data from 5 remaining studies could be incorporated in metaanalysis, including a total of 1,292 patients [8, 22, 35, 38]. The only RCT showed no events and therefore was left out of the analysis [34]. The last remaining study showed only data of ≤24 vs. >24 h of antibiotic duration but included too less number of patients [37]. No funnel plots were provided due to the low number of included studies according to the recommendation of the Cochrane Network [45]. Up to 5 vs. >5 days of postoperative antibiotic treatment: In the ≤5 days group, 49 of 986 patients (5%) had an IAA versus 34 of 261 patients (13%) in the >5 days group. The overall RR estimate was 0.36 (95% CI 0.23–0.57; p < 0.0001) in favour of ≤5 days postoperative antibiotics (Fig. 2). There was no heterogeneity between the studies. Up to 3 vs. >3 days of postoperative antibiotic treatment: In the ≤3 days group, 21 of 424 (5%) patients developed an IAA versus 62 of 823 (7.5%) in the >3 days group. The overall RR estimate was 0.81 (95% CI 0.38–1.74; p = 0.59) in favour of ≤3 days of antibiotic treatment (Fig. 3). There was little heterogeneity between the studies. Up to 24 vs. >24 h of postoperative antibiotic treatment: Two studies reported outcomes after postoperative antibiotic treatment limited to 24 h or no postoperative treatment at all [37, 38]. Due to the small number of patients, a meaningful meta-analysis was not possible. In only one of these studies, antibiotic duration of ≤24 h (n = 8) was directly compared with >24 h (n = 44). The authors concluded there was no significant difference in IAA forma-
+
+tion (25 vs. 20.5% respectively, p = 1.000) [37]. The other study reported no IAA in the ≤24 h (n = 11) and 15% IAA in the >24 h group (n = 67) [38].
+Of the 2 remaining studies comparing variable duration protocols in patients with complex appendicitis, neither showed a statistically significant difference in the rate of IAA correlated to antibiotic duration. Details of the study protocols are displayed in Table 1 [10, 30].
+Surgical Site Infection Five of the included studies reported 38 SSIs among 1,231 (3.1%) patients [8, 22, 30, 34, 36]. None demonstrated a statistically significant difference in (neither superficial nor deep) SSI rates between different duration groups. The available data was insufficient for meta-analysis.
+Length of Hospital Stay Four studies reported LOS [8, 22, 30, 36]. Reported median LOS ranged from 4 to 7 days. Due to varying durations of antibiotics in these studies, data was unsuitable for a useful pooled meta-analysis. All 4 studies demonstrated significantly shorter LOS for the shorter course of antibiotics. In 3 studies, the difference was 1 day [22, 30, 36] and in 1 study, the difference was 2 days [8].
+Readmission Three studies together reported 100 readmissions among 919 patients (10.9%) [22, 30, 36]. None revealed a significant difference in the readmission rate between different duration groups. The data was unsuitable for metaanalysis.
+Discussion
+The present study shows that there is no clear association between duration of postoperative antibiotic treatment and the incidence of IAA after appendectomy for complex appendicitis. While RRs for IAA where in favour of ≤5 days of postoperative antibiotics compared to >5 days, this could not be demonstrated for ≤3 days compared to >3 days. One could argue that antibiotics could be safely stopped after 3 days of intravenous treatment or possibly even earlier. However, all studies included in the meta-analysis were observational studies and 2 out of 4 reported very low IAA rate. Therefore, selection bias may have significantly influenced the present results. Less “fit” patients, for example, with more comorbidities, who were perhaps more at-risk for IAA to begin with, might have been prescribed longer courses compared to the patients
+
+4
+
+Dig Surg
+
+DOI: 10.1159/000497482
+
+van den Boom/de Wijkerslooth/ Wijnhoven
+
+Table 1. Characteristics of all included studies
+
+Reference
+
+Study design Participant
+
+Basoli et al. [34], 2008 (Italy)
+Cho et al. [35], 2016 (South Korea)
+Hughes et al. [38], 2013 (UK)
+Kim et al. [36], 2015 (USA)
+Kimbrell et al. [37], 2014 (USA)
+
+Multicentre randomized trial
+Single-centre retrospective observational study
+Single-centre prospective observational study
+Multicentre retrospective observational study
+Single-centre retrospective observational study
+
+Adults (n = 45) with localized secondary peritonitis due to appendicitis, with improvement in temperature, WBC and presence of abdominal sounds at the third postoperative day
+Operation technique and intraoperative drain placement not mentioned
+Adults and children (n = 496) with complex appendicitis treated by laparoscopic appendectomy
+A closed suction drain was placed when incomplete source control
+Adults (n = 78) with complex appendicitis treated by laparoscopic appendectomy
+Intraoperative drain inserted in n = 50 (64%)
+Adults (n = 410) with complex appendicitis treated by laparoscopic appendectomy in n = 343 (84%).
+Intraoperative drain inserted in n = 48 (12%)
+Adults (n = 52) with complex appendicitis treated by laparoscopic appendicitis in n = 34 (65%)
+Intraoperative drain inserted in n = 15 (29%)
+
+Van Rossem et al. [8], 2014 (The Netherlands)
+
+Single-centre retrospective observational study
+
+Adults (n = 267) with complex appendicitis treated by laparoscopic appendectomy in n = 87 (33%) Intraoperative drain placement not mentioned
+
+Duration postop AB, n
+3 days (22) ≥5 days (23) AB IV: ertapenem
+1–2 days (55) 3 days (128) 4 days (100) 5 days (103) 6 days (54) >6 days (56) AB IV: cefotaxime and metronidazole Variable duration based on surgeon’s preference
+None (2) ≤24 h (9)
+2–3 days (6) 4–5 days (18) >5 days (43) AB IV: piperacillin/tazobactam AB oral: amoxicillin/clavulanic acid
+None (136) ≥0 (274)
+AB: not described
+≤24 h (8) >24 h (44) AB IV and PO: piperacillin/ tazobactam, cefoxitin, moxifloxacin, amoxicillin/clavulanic acid, ciprofloxacin/metronidazole, trimethoprim/sulfamethoxazole, tobramycin and linezolid, cefuroxime and clindamycin, and vancomycin Variable duration based on surgeon’s preference
+3 days (135) 5 days (116) 6 days (1) 7 days (3) 8 days (1) 10 days (2) Unknown (9) AB IV: cefuroxime and metronidazole
+
+Follow-up
+
+IAA, n (%)
+
+Not
+
+0
+
+reported
+
+0
+
+SSI, n (%)
+2 (9.1) 2 (8.7)
+
+LOS, days, median (IQR)
+Not reported
+
+Readmission, n (%)
+Not reported
+
+30 days
+
+0 1 (0.8) 0 0 2 (3.7) 0
+
+Not reported
+
+Not reported
+
+Not reported
+
+30 days
+
+0 0 1 (16.7) 2 (11.1) 7 (16.3)
+
+Not reported
+
+Not reported
+
+Not reported
+
+Not reported
+
+Not reported
+
+5 (4%) 10 (4%)
+
+4 (2–6) 5 (4–7)
+
+11 (8) 33 (12)
+
+1 month
+
+2 (25) 9 (20.5)
+
+Not reported
+
+Not reported
+
+Not reported
+
+Not reported
+
+13 (9.6) 6 (5.2) 1 (100) 0 0 0 1 (11)
+
+6 (4.4) 2 (1.7) 0 0 0 0 1 (11)
+
+Not reported
+
+Not reported
+
+Postoperative Antibiotic Complex
+
+Dig Surg
+
+5
+
+Appendicitis
+
+DOI: 10.1159/000497482
+
+Table 1. (continued)
+
+Reference
+
+Study design Participant
+
+Duration postop AB, n
+
+Follow-up
+
+IAA, n (%)
+
+SSI, n (%)
+
+LOS, days, median (IQR)
+
+Readmission, n (%)
+
+Van Rossem et al. [22], 2016 (The Netherlands)
+Van Wijck et al. [10], 2010 (The Netherlands)
+Yu et al. [30], 2014 (New Zealand)
+
+Multicentre prospective observational study
+Multicentre retrospective observational study
+Single-centre prospective propensityscore matched study
+
+Adults and children (n = 415) with complex appendicitis treated by laparoscopic appendectomy Intraoperative drain placement not mentioned
+
+2–3 days (89) 4–5 days (225) >5 days (101) AB: usually a combination of cephalosporin and metronidazole
+
+Children (n = 149) with perforated appendicitis treated by laparoscopic appendectomy in n = 72 (48%)
+Intraoperative drain placement not mentioned
+
+Median 5 days (68) Variable duration based on clinical grounds, minimum 5 days Median 7 days (81) Variable duration based on CRP-level, minimum 5 days AB IV: amoxicillin/clavulanic acid and gentamycin
+
+Children (n = 94) years with complex appendicitis Operation technique and intraoperative drain placement not mentioned
+
+Median 3 days IV (47) Variable duration based on clinical criteria, unclear duration additional PO antibiotics Median 5 days IV (47) Variable duration based on clinical criteria, minimum 5 days IV, unclear duration additional PO antibiotics AB IV: amoxicillin, metronidazole and gentamycin
+
+30 days
+Not reported
+30 days
+
+6 (6.7) 1 (1)
+
+4
+
+20 (8.9) 4 (2)
+
+5
+
+24 (23.8) 4 (4)
+
+7
+
+13 (19.1) 16 (19.8)
+
+Not reported
+
+Not reported
+
+6 (12.8) 1 (2)
+
+4 (2)
+
+8 (17.0) 0
+
+5 (2)
+
+6 (7) 27 (12) 10 (10)
+Not reported
+6 (13) 7 (15)
+
+Postop AB, postoperative antibiotics; IAA, intra-abdominal abscess; SSI, surgical site infection; LOS, length of hospital stay; readm, hospital readmission; IV, intravenous; PO, per os; CRP, C-reactive protein.
+
+who showed swift postoperative recovery. Beside this potential selection bias, the type of antibiotics differed between the studies and no separate analysis for children and adults could be performed. One study included patients who underwent open appendectomy as well as patients that underwent laparoscopic appendectomy. Stratification was not possible due to the low number of studies, patients and events. Hence, the efficacy of antibiotics for subgroups could not be investigated, which may have introduced bias. Due to a lack of high-level studies, no final conclusions can be drawn concerning the optimum duration, let alone the safety and efficacy of <3 days of antibiotics. Reducing the duration from 5 to 3 days could already have major implications, as the majority of patients in the Netherlands and worldwide still receive antibiotics for 5 days after appendectomy for a complex appendicitis [22, 23, 46]. This is instigated by the current guidelines of the Dutch Surgical Association (NVvH), the Surgical Infection Society and Infectious Diseases Society of America and the Dutch Working Party on Antibiotic Policy (SWAB) that recommend 3–7, 4–7 and 5–14 days of postoperative antibiotics respectively [18, 19, 21]. This review shows little evidence in support of the current guidelines. At a time when antimicro-
+
+bial resistance is an increasingly urgent global health threat, the use of antibiotics should be minimized where possible. Resistance is a natural biological outcome of antibiotic use. Antibiotic overtreatment, however, increases the speed of emergence and selection of resistant bacteria [47, 48].
+It is plausible that reducing the duration of antibiotic treatment may not increase the rate of IAA, as the development of infectious complications following appendectomy is a multifactorial process. Many risk factors have been identified including preoperative C-reactive protein level, timing of appendectomy, technique of appendiceal stump closure, operation approach (laparoscopic versus open), the presence of a faecolith, longer operation time, simple versus complex appendicitis, body temperature, American Society of Anesthesiology classification, age, body mass index and gender [6, 14–17, 26, 49]. Recent studies provide support for the concept that beneficial effect of systemic antibiotic therapy after adequate source control during surgery is limited [33, 50]. A randomized controlled trial (“STOP-IT”) published in 2015 showed that after adequate source control for complicated intra-abdominal infections, outcomes after a short course of antibiotics (median 4 days, n = 257) were similar after long course therapy (me-
+
+6
+
+Dig Surg
+
+DOI: 10.1159/000497482
+
+van den Boom/de Wijkerslooth/ Wijnhoven
+
+Table 2. GRADE evidence profile of the included studies
+
+Reference
+
+Quality assessment risk of bias inconsistency
+
+indirectness
+
+imprecision
+
+other considerations
+
+Quality
+
+Basoli et al. [34] Cho et al. [35] Hughes et al. [38] Kim et al. [36] Kimbrell et al. [37] Van Rossem et al. [8] Van Rossem et al. [22] Van Wijck et al. [10] Yu et al. [30]
+
+Seriousa Seriousd, e Not serious Seriousd Seriouse Not serious Not serious Seriouse Not serious
+
+Not serious Not serious Not serious Not serious Not serious Not serious Not serious Not serious Not serious
+
+Not serious Not serious Not serious Not serious Not serious Not serious Not serious Not serious Not serious
+
+Seriousb, c Seriousc Not serious Not serious Not serious Not serious Not serious Not serious Not serious
+
+None Seriousf Seriousf Seriousf Seriousf None None None None
+
+⨁⨁◯◯ Low
+⨁◯◯◯ Very low
+⨁◯◯◯ Very low
+⨁◯◯◯ Very low
+⨁◯◯◯ Very low
+⨁⨁◯◯ Low
+⨁⨁◯◯ Low
+⨁◯◯◯ Very low
+⨁⨁◯◯ Low
+
+a No information provided on sequence generation or allocation concealment; loss to follow-up and protocol violations not further clarified.
+b No report of power analysis for sample size calculation; small sample size. c Risk of underreported outcome (low number of events). d Exposure and outcome measurement not described, therefore not reproducible. e No analysis on possible confounders (with detected inequalities at baseline). f Unclear what determined the duration of antibiotic treatment per patient (either surgeons’ preference or not described). GRADE, Grades of Recommendation, Assessment, Development and Evaluation.
+
+Study or subgroup
+van Rossem, 2016 [22] Hughes, 2013 [38] van Rossem, 2014 [8] Cho, 2016 [35]
+
+≤5 days Events Total
+26 314 3 35
+19 251 1 386
+
+>5 days Events Total
+
+24 101
+
+7 43
+
+1
+
+7
+
+2 110
+
+Weight
+78.3% 12.4%
+5.8% 3.5%
+
+RR M-H, random (95% CI)
+0.35 [0.21, 0.58] 0.53 [0.15, 1.89] 0.53 [0.08, 3.42] 0.14 [0.01, 1.56]
+
+RR M-H, random (95% CI)
+
+Total (95% CI)
+
+986
+
+261 100.0%
+
+Total events
+
+49
+
+34
+
+Heterogeneity: Tau2 = 0.00; chi2 = 1.10, df = 3 (p = 0.78); I2 = 0%
+
+Test for overall effect z = 4.41 (p < 0.0001)
+
+0.36 [0.23, 0.57]
+
+0.01
+
+0.1
+
+1
+
+10
+
+100
+
+Favours (≤5 days)
+
+Favours (>5 days)
+
+Fig. 2. Meta-analysis of the RR of IAA development between patients with until 5 days of postoperative antibiotics treatment and patients with >5 days of postoperative antibiotics treatment. RR, risk ratio.
+
+Postoperative Antibiotic Complex
+
+Dig Surg
+
+7
+
+Appendicitis
+
+DOI: 10.1159/000497482
+
+Study or subgroup
+van Rossem, 2016 [22] van Rossem, 2014 [8] Hughes, 2013 [38] Cho, 2016 [35]
+
+≤3 days Events Total
+6 89 13 135
+1 17 1 183
+
+>3 days Events Total
+44 326 7 123 9 61 2 313
+
+Weight
+40.7% 37.8% 12.4%
+9.1%
+
+RR M-H, random (95% CI)
+0.50 [0.22, 1.13] 1.69 [0.70, 4.10] 0.40 [0.05, 2.93] 0.86 [0.08, 9.37]
+
+RR M-H, random (95% CI)
+
+Total (95% CI)
+
+424
+
+823 100.0%
+
+Total events
+
+21
+
+62
+
+Heterogeneity: Tau2 = 0.20; chi2 = 4.51, df = 3 (p = 0.21); I2 = 33%
+
+Test for overall effect z = 0.54 (p = 0.59)
+
+0.81 [0.08, 1.74]
+
+0.01
+
+0.1
+
+1
+
+10
+
+100
+
+Favours (≤3 days)
+
+Favours (>3 days)
+
+Fig. 3. Meta-analysis of the RR of IAA development between patients with until 3 days of postoperative antibiotics treatment and patients with >3 days of postoperative antibiotics treatment. RR, risk ratio.
+
+dian 8 days, n = 260). Rates of SSI, recurrent intra-abdominal infection and death were similar in both groups, while the median duration of antibiotic treatment was significantly shorter in the experimental group [33]. Although the premature closure of this trial for concerns of futility may have led to an underpowered study, the result is consistent with the outcome of this review [51]. For several other types of infection (i.e., community-acquired pneumonia, pyelonephritis and cellulitis), clinical trials continually demonstrate that reduced course antibiotic treatment is safe and effective as well [52].
+Continuously, studies on complex appendicitis fail to show beneficial effects of prolonging postoperative antibiotic treatment. Aside from the results included in this review, several other studies (that fell just outside our selection criteria) support this view [10, 26–30]. One example is a randomized study by Fraser et al. [28] aimed at reducing IV antibiotics after appendectomy for complex appendicitis. The authors compared patients treated with a minimum of 5 days of IV antibiotics to patients treated with IV antibiotics until discharge criteria were met (no minimum). Though unfortunately no exact duration of antibiotics was reported, mean LOS was significantly reduced from 6 to 4 days, while IAA rates were similar in both groups [28]. Moreover, several studies in which different antibiotic agents are compared, both given for not more than 3 days, report rather acceptable rates of infectious complications [48, 53–56].
+A large Dutch prospective cohort study, included in this review, concluded that 3 days of postoperative antibiotics after surgery for complex appendicitis is safe: it did not result in a higher rate of complications compared to patients treated for 5 days [8]. However, in their analysis, the authors only included patients who received exactly 3 or 5 days of antibiotics. Patients with deviant treatment
+
+duration were excluded. Although the study is fraught with a selection bias, several Dutch hospitals have already adjusted their practice to a standard of 3 days of postoperative antibiotics [23]. The outcomes of the present meta-analyses support this movement, which is also in line with the minimum duration recommended in the Dutch guideline (2010). Limiting postoperative antibiotics to 3 days of intravenous treatment is further supported by studies showing no benefit of additional oral antibiotics after initial intravenous administration [29, 31].
+Unfortunately, this review has several limitations. Most of the included studies had a retrospective design. Only one study was a randomized controlled trial, with a small number of complex appendicitis patients (n = 45) and none had an IAA in the postoperative course [34]. Furthermore, the definitions used in the patient selection (for complex or perforated appendicitis) and in the study endpoints (for IAA and SSI) were not uniform among the studies, if described at all (online suppl. Appendix S2). This may have introduced bias in the meta-analysis. Variability in defining complex appendicitis during appendectomy has been reported earlier by our group [23]. In addition, the completeness of adequate source control (like suction and irrigation of the abdominal cavity), which is considered an important factor associated with infectious complications, was not reported in most studies. This may have introduced clinical heterogeneity between the studies. Lastly, data regarding SSI, LOS and readmission rate was poorly reported and altogether insufficient for meta-analysis. These are important outcome measures for efficacy, safety and cost-effectiveness in the treatment of complex appendicitis and should be reported in future research.
+In conclusion, there is no clear evidence in favour of an optimal duration of postoperative antibiotic treatment for complex appendicitis. However, the present results
+
+8
+
+Dig Surg
+
+DOI: 10.1159/000497482
+
+van den Boom/de Wijkerslooth/ Wijnhoven
+
+may suggest that treatment for longer than 3 days is not significant more beneficial. Adequately powered, randomized studies with clear definitions of the study population and the endpoints are needed to define the optimal postoperative antibiotic regimen for complicated appendicitis in children and adults.
+Acknowledgements
+The authors thank Wichor Bramer of the Medical Library of the Erasmus MC – University Medical Centre for developing search strategies.
+
+Statement of Ethics The authors have no ethical conflicts to disclose.
+Disclosure Statement The authors have no conflicts of interest to disclose.
+Funding Sources Not applicable.
+
+References
+  1 Addiss DG, Shaffer N, Fowler BS, Tauxe RV. The epidemiology of appendicitis and appendectomy in the United States. Am J Epidemiol. 1990 Nov;132(5):910–25.
+  2 Ohmann C, Franke C, Kraemer M, Yang Q. [Status report on epidemiology of acute appendicitis]. Chirurg. 2002 Aug;73(8):769–76.
+  3 Stewart B, Khanduri P, McCord C, Ohene-Yeboah M, Uranues S, Vega Rivera F, et al. Global disease burden of conditions requiring emergency surgery. Br J Surg. 2014 Jan;101(1): e9–22.
+  4 Dutch Hospital Data registration. Incidence of appendectomies in the Netherlands. Available from: http://www.opendisdata.nl.
+  5 Bhangu A, Søreide K, Di Saverio S, Assarsson JH, Drake FT. Acute appendicitis: modern understanding of pathogenesis, diagnosis, and management. Lancet. 2015 Sep;386(10000): 1278–87.
+  6 Emil S, Elkady S, Shbat L, Youssef F, Baird R, Laberge JM, et al. Determinants of postoperative abscess occurrence and percutaneous drainage in children with perforated appendicitis. Pediatr Surg Int. 2014 Dec;30(12):1265– 71.
+  7 Cheong LH, Emil S. Outcomes of pediatric appendicitis: an international comparison of the United States and Canada. JAMA Surg. 2014 Jan;149(1):50–5.
+  8 van Rossem CC, Schreinemacher MH, Treskes K, van Hogezand RM, van Geloven AA. Duration of antibiotic treatment after appendicectomy for acute complicated appendicitis. Br J Surg. 2014 May;101(6):715–9.
+  9 St Peter SD, Sharp SW, Holcomb GW 3rd, Ostlie DJ. An evidence-based definition for perforated appendicitis derived from a prospective randomized trial. J Pediatr Surg. 2008 Dec; 43(12): 2242–5.
+10 van Wijck K, de Jong JR, van Heurn LW, van der Zee DC. Prolonged antibiotic treatment does not prevent intra-abdominal abscesses in perforated appendicitis. World J Surg. 2010 Dec; 34(12): 3049–53.
+
+11 Newman K, Ponsky T, Kittle K, Dyk L, Throop C, Gieseker K, et al. Appendicitis 2000: variability in practice, outcomes, and resource utilization at thirty pediatric hospitals. J Pediatr Surg. 2003 Mar;38(3):372–9; discussion 372–9.
+12 van Rossem CC, Bolmers MD, Schreinemacher MH, van Geloven AA, Bemelman WA; Snapshot Appendicitis Collaborative Study Group. Prospective nationwide outcome audit of surgery for suspected acute appendicitis. Br J Surg. 2016 Jan;103(1):144–51.
+13 Andersen BR, Kallehave FL, Andersen HK. Antibiotics versus placebo for prevention of postoperative infection after appendicectomy. Cochrane Database Syst Rev. 2005 Jul 20; (3):CD001439.
+14 Margenthaler JA, Longo WE, Virgo KS, Johnson FE, Oprian CA, Henderson WG, et al. Risk factors for adverse outcomes after the surgical treatment of appendicitis in adults. Ann Surg. 2003 Jul;238(1):59–66.
+15 Giesen LJ, van den Boom AL, van Rossem CC, den Hoed PT, Wijnhoven BP. Retrospective Multicenter Study on Risk Factors for Surgical Site Infections after Appendectomy for Acute Appendicitis. Dig Surg. 2017;34(2): 103–7.
+16 van den Boom AL, Gorter RR, van Haard PM, Doornebosch PG, Heij HA, Dawson I. The impact of disease severity, age and surgical approach on the outcome of acute appendicitis in children. Pediatr Surg Int. 2015 Apr;31(4): 339–45.
+17 Kelly KN, Fleming FJ, Aquina CT, Probst CP, Noyes K, Pegoli W, et al. Disease severity, not operative approach, drives organ space infection after pediatric appendectomy. Ann Surg. 2014 Sep;260(3):466–71; discussion 472–3.
+18 Nederlandse Vereniging voor Heelkunde. (NVvH; Dutch Surgical Association). Richtlijn voor diagnostiek en behandeling van acute appendicitis (Guideline on acute appendicitis diagnostics and treatment) 2010. Available from: https://richtlijnendatabase.
+
+nl/richtlijn/acute_appendicitis/acute_appendicitis_-_korte_beschrijving.html. 19 Stichting Werkgroep Antibiotica Beleid. (SWAB; Dutch Working Party on Antibiotic Policy) Peritonitis – secondary (perforation) 2015. Available from http://swabid.nl/node/ 7369. 20 Di Saverio S, Birindelli A, Kelly MD, Catena F, Weber DG, Sartelli M, et al. WSES Jerusalem guidelines for diagnosis and treatment of acute appendicitis. World J Emerg Surg. 2016 Jul; 11(1): 34. 21 Mazuski JE, Tessier JM, May AK, Sawyer RG, Nadler EP, Rosengart MR, et al. The Surgical Infection Society Revised Guidelines on the Management of Intra-Abdominal Infection. Surg Infect (Larchmt). 2017 Jan;18(1):1–76. 22 van Rossem CC, Schreinemacher MH, van Geloven AA, Bemelman WA; Snapshot Appendicitis Collaborative Study Group. Antibiotic Duration After Laparoscopic Appendectomy for Acute Complicated Appendicitis. JAMA Surg. 2016 Apr;151(4):323–9. 23 van den Boom AL, de Wijkerslooth EM, Mauff KA, Dawson I, van Rossem CC, Toorenvliet BR, et al. Interobserver variability in the classification of appendicitis during laparoscopy. Br J Surg. 2018 Jul;105(8):1014–9. 24 Chen C, Botelho C, Cooper A, Hibberd P, Parsons SK. Current practice patterns in the treatment of perforated appendicitis in children. J Am Coll Surg. 2003 Feb;196(2):212– 21. 25 Shawyer AC, Hatchell AC, Pemberton J, Flageole H. Compliance with published recommendations for postoperative antibiotic management of children with appendicitis: A chart audit. J Pediatr Surg. 2015 May;50(5): 783–5. 26 Henry MC, Walker A, Silverman BL, Gollin G, Islam S, Sylvester K, et al. Risk factors for the development of abdominal abscess following operation for perforated appendicitis in children: a multicenter case-control study. Arch Surg. 2007 Mar;142(3):236–41.
+
+Postoperative Antibiotic Complex
+
+Dig Surg
+
+9
+
+Appendicitis
+
+DOI: 10.1159/000497482
+
+27 Skarda DE, Schall K, Rollins M, Andrews S, Olson J, Greene T, et al. Response-based therapy for ruptured appendicitis reduces resource utilization. J Pediatr Surg. 2014 Dec; 49(12): 1726–9.
+28 Fraser JD, Aguayo P, Leys CM, Keckler SJ, Newland JG, Sharp SW, et al. A complete course of intravenous antibiotics vs a combination of intravenous and oral antibiotics for perforated appendicitis in children: a prospective, randomized trial. J Pediatr Surg. 2010 Jun;45(6):1198–202.
+29 Desai AA, Alemayehu H, Holcomb GW 3rd, St Peter SD. Safety of a new protocol decreasing antibiotic utilization after laparoscopic appendectomy for perforated appendicitis in children: A prospective observational study. J Pediatr Surg. 2015 Jun;50(6):912–4.
+30 Yu TC, Hamill JK, Evans SM, Price NR, Morreau PN, Upadhyay VA, et al. Duration of postoperative intravenous antibiotics in childhood complicated appendicitis: a propensity score-matched comparison study. Eur J Pediatr Surg. 2014 Aug;24(4):341–9.
+31 Daskalakis K, Juhlin C, Påhlman L. The use of pre- or postoperative antibiotics in surgery for appendicitis: a systematic review. Scand J Surg. 2014 Mar;103(1):14–20.
+32 Taylor E, Dev V, Shah D, Festekjian J, Gaw F. Complicated appendicitis: is there a minimum intravenous antibiotic requirement? A prospective randomized trial. Am Surg. 2000 Sep; 66(9): 887–90.
+33 Sawyer RG, Claridge JA, Nathens AB, Rotstein OD, Duane TM, Evans HL, et al.; STOPIT Trial Investigators. Trial of short-course antimicrobial therapy for intraabdominal infection. N Engl J Med. 2015 May;372(21): 1996–2005.
+34 Basoli A, Chirletti P, Cirino E, D’Ovidio NG, Doglietto GB, Giglio D, et al.; Italian Study Group. A prospective, double-blind, multicenter, randomized trial comparing ertapenem 3 vs [{GT}]or=5 days in community-acquired intraabdominal infection. J Gastrointest Surg. 2008 Mar;12(3):592–600.
+35 Cho J, Park I, Lee D, Sung K, Baek J, Lee J. Antimicrobial treatment after laparoscopic appendectomy for preventing a post-operative intraabdominal abscess: A Prospective Cohort Study of 1817 patients. Int J Surg. 2016 Mar; 27: 142–6.
+
+36 Kim DY, Nassiri N, Saltzman DJ, Ferebee MP, Macqueen IT, Hamilton C, et al. Postoperative antibiotics are not associated with decreased wound complications among patients undergoing appendectomy for complicated appendicitis. Am J Surg. 2015 Dec;210(6): 983–7.
+37 Kimbrell AR, Novosel TJ, Collins JN, Weireter LJ, Terzian HW, Adams RT, et al. Do postoperative antibiotics prevent abscess formation in complicated appendicitis? Am Surg. 2014 Sep; 80(9): 878–83.
+38 Hughes MJ, Harrison E, Paterson-Brown S. Post-operative antibiotics after appendectomy and post-operative abscess development: a retrospective analysis. Surg Infect (Larchmt). 2013 Feb;14(1):56–61.
+39 Lee SL, Islam S, Cassidy LD, Abdullah F, Arca MJ; 2010 American Pediatric Surgical Association Outcomes and Clinical Trials Committee. Antibiotics and appendicitis in the pediatric population: an American Pediatric Surgical Association Outcomes and Clinical Trials Committee systematic review. J Pediatr Surg. 2010 Nov;45(11):2181–5.
+40 Snelling CM, Poenaru D, Drover JW. Minimum postoperative antibiotic duration in advanced appendicitis in children: a review. Pediatr Surg Int. 2004 Dec;20(11-12):838–45.
+41 Gorter RR, Eker HH, Gorter-Stam MA, Abis GS, Acharya A, Ankersmit M, et al. Diagnosis and management of acute appendicitis. EAES consensus development conference 2015. Surg Endosc. 2016 Nov;30(11):4668–90.
+42 Moher D, Liberati A, Tetzlaff J, Altman DG; PRISMA Group. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. BMJ. 2009 Jul 21;339: b2535.
+43 Available from https://http://www.who.int/ ictrp/search/en/.
+44 GRADEpro GDT: GRADEpro Guideline Development Tool/ McMaster University. 2015 (developed by Evidence Prime, Inc.). Available from: gradepro.org.
+45 JPT H. S G. Cochrane handbook for systematic reviews of interventions. John Wiley & Sons; 2011.
+46 de Wijkerslooth EM, van den Boom AL, Wijnhoven BP. Variation in Classification and Postoperative Management of Complex Appendicitis: A European Survey. World J Surg. 2019 Feb;43(2):439–46.
+47 Goossens H. Antibiotic consumption and link to resistance. Clin Microbiol Infect. 2009 Apr;15(Suppl 3):12–5.
+
+48 Dalgic N, Karadag CA, Bayraktar B, Sancar M, Kara O, Pelit S, et al. Ertapenem versus standard triple antibiotic therapy for the treatment of perforated appendicitis in pediatric patients: a prospective randomized trial. Eur J Pediatr Surg. 2014 Oct;24(5): 410–8.
+49 Fraser JD, Aguayo P, Sharp SW, Snyder CL, Holcomb GW 3rd, Ostlie DJ, et al. Physiologic predictors of postoperative abscess in children with perforated appendicitis: subset analysis from a prospective randomized trial. Surgery. 2010 May;147(5): 729–32.
+50 Pedersen M, Gehring U, Beelen R, Wang M, Giorgis-Allemand L, Andersen AM, et al. Elemental Constituents of Particulate Matter and Newborn’s Size in Eight European Cohorts. Environ Health Perspect. 2016 Jan;124(1): 141–50.
+51 Boermeester M. Kortdurend antibiotica bij intra-abdominale infectie? Ned Tijdschr Geneeskd. 2015;159(43):A9501.
+52 Spellberg B. The New Antibiotic Mantra“Shorter Is Better”. JAMA Intern Med. 2016 Sep; 176(9): 1254–5.
+53 Berne TV, Yellin AE, Appleman MD, Heseltine PN, Gill MA. A clinical comparison of cefepime and metronidazole versus gentamicin and clindamycin in the antibiotic management of surgically treated advanced appendicitis. Surg Gynecol Obstet. 1993;177(Suppl): 18–22; discussion 35–40.
+54 Berne TV, Yellin AE, Appleman MD, Heseltine PN, Gill MA. Meropenem versus tobramycin with clindamycin in the antibiotic management of patients with advanced appendicitis. J Am Coll Surg. 1996 May;182(5): 403–7.
+55 Mazuski JE, Sawyer RG, Nathens AB, DiPiro JT, Schein M, Kudsk KA, et al.; Therapeutic Agents Committee of the Surgical Infections Society. The Surgical Infection Society guidelines on antimicrobial therapy for intra-abdominal infections: evidence for the recommendations. Surg Infect (Larchmt). 2002;3(3): 175–233.
+56 Lee JY, Ally S, Kelly B, Kays D, Thames L. Once Daily Dosing of Ceftriaxone and Metronidazole in Children With Perforated Appendicitis. J Pediatr Pharmacol Ther. 2016 MarApr; 21(2): 140–5.
+
+10
+
+Dig Surg
+
+DOI: 10.1159/000497482
+
+van den Boom/de Wijkerslooth/ Wijnhoven

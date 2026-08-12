@@ -1,0 +1,1607 @@
+Downloaded from https://academic.oup.com/pmj/article/100/1181/159/7486536 by guest on 31 July 2026
+
+Postgraduate Medical Journal, 2024, 100, 1181, 159–173
+https://doi.org/10.1093/postmj/qgad125 Advance access publication date 22 December 2023
+Original Research
+Enhanced recovery after surgery in patients after hip and knee arthroplasty: a systematic review and meta-analysis
+Qingqing Zhang1,†, Yuzhang Chen 2,†, Yi Li3, Ruikang Liu2, Saroj Rai4, Jin Li5,*, Pan Hong5,*
+1Department of Gastroenterology, Tongji Medical College, Huazhong University of Science and Technology, Union Hospital, Wuhan 430022, China 2Department of Endocrinology, Tongji Medical College, Huazhong University of Science and Technology, Union Hospital, , Wuhan 430022, China 3First Clinical School, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430022, China 4Department of Orthopedics, Al Ahalia Hospital Mussafah, Abu Dhabi 00000, United Arab Emirates 5Department of Orthopaedic Surgery, Tongji Medical College, Huazhong University of Science and Technology, Union Hospital, Wuhan 430022, China *Corresponding authors. Department of Orthopaedic Surgery, Tongji Medical College, Huazhong University of Science and Technology, Union Hospital, 1277 Jiefang Avenue, Wuhan 430022, China. E-mail: lijin2003whxh@foxmail.com; Department of Orthopaedic Surgery, Tongji Medical College, Huazhong University of Science and Technology, Union Hospital, 1277 Jiefang Avenue, Wuhan 430022, China. E-mail: hongpan2013@foxmail.com †These authors contributed equally to this work.
+Abstract
+Purpose: Enhanced recovery after surgery (ERAS) was characterized as patient-centered, evidence-based, multidisciplinary teamdeveloped routes for a surgical speciality and institution to improve postoperative recovery and attenuate the surgical stress response. However, evidence of their effectiveness in osteoarthroplasty remains sparse. This study aimed to develop an ERAS standard and evaluate the significance of ERAS interventions for postoperative outcomes after primary total hip arthroplasty (THA) or total knee arthroplasty (TKA).
+Methods: We searched Medline, Embase, Cochrane databases, and Clinicaltrials.gov for randomized controlled trials, cohort studies, and case–control studies until 24 February 2023. All relevant data were collected from studies meeting the inclusion criteria. Two reviewers independently assessed the risk of bias and extracted data. The primary outcome was the length of stay (LOS), postoperative complications, and readmission rate. The secondary outcomes included transfusion rate, mortality rate, visual analog score (VAS), the Western Ontario and McMaster University Osteoarthritis Index (WOMAC), Short Form 36 (SF-36) bodily pain (SF-36 BP), SF-36 physical function (SF-36 PF), oxford knee score, and range of motion (ROM).
+Results: A total of 47 studies involving 76 971 patients (ERAS group: 29 702, control group: 47 269) met the inclusion criteria and were included in the meta-analysis. The result showed that ERAS could significantly shorten the LOS (WMD = −2.65, P < .001), reduce transfusion rate (OR = 0.40, P < .001), and lower 30-day postoperative mortality (OR = 0.46, P = .01) without increasing postoperative complications or readmission rate. Apart from that, ERAS may decrease patients’ VAS (WMD = −0.88, P = .01) while improving their ROM (WMD = 6.65, P = .004), SF-36 BP (WMD = 4.49, P < .001), and SF-36 PF (WMD = 3.64, P < .001) scores. However, there was no significant difference in WOMAC, oxford knee score between the ERAS and control groups. Furthermore, we determined that the following seven components of the ERAS program are highly advised: avoid bowel preparation, PONV prophylaxis, standardized anesthesia, use of local anesthetics for infiltration analgesia and nerve blocks, tranexamic acid, prevent hypothermia, and early mobilization.
+Conclusion: Our meta-analysis suggested that the ERAS could significantly shorten the LOS, reduce transfusion rate, and lower 30-day postoperative mortality without increasing postoperative complications or readmission rate after THA and TKA. Meanwhile, ERAS could decrease the VAS of patients while improving their ROM, SF-36 BP, and SF-36 PF scores. Finally, we expect future studies to utilize the seven ERAS elements proposed in our meta-analysis to prevent increased readmission rate for patients with THA or TKA.
+Key message
+What is already known on this topic A growing number of studies have identified a positive role for ERAS in arthroplasty; however, the clinical effectiveness and elements of ERAS need to be further defined. What this study adds This research not only assesses the inf luence of ERAS on length of stay, complications, and readmission rates, but further evaluates the impact of ERAS on joint function and proposes the recommended seven elements of ERAS. How this study might affect research, practice, or policy Given the potential advantages of ERAS, we encourage its use in arthroplasty and anticipate that future research will incorporate our proposed seven ERAS elements to prevent higher readmission rates in THA or TKA patients. Registration number CRD42023390678.
+Keywords: enhanced recovery after surgery; total hip arthroplasty; total knee arthroplasty; meta-analysis
+Received: June 7, 2023. Revised: November 1, 2023. Accepted: November 10, 2023 © The Author(s) 2023. Published by Oxford University Press on behalf of Fellowship of Postgraduate Medicine. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com
+
+160 | Zhang et al.
+Introduction
+Enhanced recovery after surgery (ERAS) was advocated by the Danish surgeon Henrik Kehlet in the1990s for accelerated recovery and reduction in complications after major surgeries [1]. Kehlet proposed that the “organ dysfunction” that manifested in pain, nausea, vomiting, exhaustion, and mental instability is caused by surgical stress, metabolic and endocrine abnormalities, as well as extended immobilization. Consequently, reducing the level of organ failure in patients by various means can significantly reduce postoperative problems and enhance recovery. Although a single improvement in preoperative preparation, surgical procedure, anesthetic procedure, or medicine has been reported in many studies, organ dysfunction may not be considerably lessened only by a single improvement.
+As for multimode strategy targeting organ dysfunction, ERAS was characterized as patient-centered, evidence-based, multidisciplinary team-developed routes for a surgical speciality and institution to reduce the physiological stress response of patients and speed up their recovery. The cornerstone of ERAS is to use the least intrusive surgical methods available to lower morbidities, shorten hospital stays, save money, boost patient satisfaction, and promote better recovery [2]. Since the debut in colorectal surgery, ERAS has evolved and been extended to cover operations on the liver, pancreas, stomach, breast, and reconstructive surgery. Research has shown that ERAS benefits patients and the healthcare system [3].
+With the rise in osteoarthritis patients in recent years, more and more total hip and knee arthroplasty (THA and TKA) are being performed worldwide, usually in aged patients with complex comorbidities. Therefore, many surgeons are concerned about the application effect of ERAS in joint replacement [4]. The main principle of ERAS has also been applied to THA and TKA, leading to improvements in pain management with multimodal opioidsparing regimens that include a local anesthetic infiltration technique or peripheral nerve blocks, which would facilitate early mobilization and allow functional rehabilitation to begin a few hours after surgery [5]. Catheters, including local drains and urinary catheters, are used as little as possible for early movement after the surgery. In addition, tranexamic acid, antiemetics, antibiotics, antithrombotic medications, bowel preparation avoidance, and preoperative patient education helped patients recover from surgery more rapidly and with less discomfort [6]. The primary goal of ERAS is to improve recovery and decrease morbidity. Secondary benefits, if successful, will include a reduced length of stay (LOS), costs, and recovery [7].
+Some researchers have carried out meta-analyses of these trials as more research focuses on the potential of ERAS in osteoarthroplasty. The clinical effectiveness of ERAS, however, is still unknown. Some of these meta-analyses include papers that are not sufficiently comprehensive [8], while others have inadequate outcomes [9]. Additionally, some analyses include an excessive amount of literature without screening [10]. Therefore, we offer a thorough evaluation and meta-analysis of all research reported about the application of ERAS in joint arthroplasty. We anticipate that our study will provide an in-depth examination of all high-quality trials that have been published, which may offer clinical surgeons an evidence-based basis when determining whether to employ ERAS or not.
+Methods
+This is a systematic review and meta-analysis of previous reports, and we believe that ethical approval is unavailable
+
+in our study. Our review followed the guidelines of Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA), and the protocol was registered in PROSPERO (registration number CRD42023390678) before the literature search (Supplementary Table S1: PRISMA Checklist).
+Search strategy
+Two independent reviewers (Z.Q. and C.Y.) searched Medline, Embase, and Cochrane databases, updated to 24th February 2023, for randomized controlled trials (RCTs), cohort studies, and case– control studies. The search strategy used for the Medline database is available as Supplementary Material (Supplementary Table S2). To expand the search range, the keywords were “enhanced recovery after surgery,” “enhanced recovery,” “ERAS,” “fast-track,” “FTS,” “accelerated track,” “arthroplasty,” “replacement,” “hip,” and “knee.” Clinicaltrials.gov was searched for completed but unpublished RCTs. Titles and abstracts were independently reviewed by two researchers (Z.Q. and C.Y.), and then full-text access to any articles that met the inclusion criteria was granted. After that, they independently evaluated full-text articles for eligibility without regard to language. The reference studies of earlier systematic reviews, meta-analyses, and included research were manually searched to prevent initial misses. Any disagreement was discussed and resolved with the third independent reviewers.
+Inclusion criteria and exclusion criteria
+The inclusion criteria for the studies were as follows: (i) population—human patients undergoing primary hip arthroplasty or knee arthroplasty, with no age, nationality, and race restrictions; (ii) ERAS group—care with ERAS; (iii) control group—standard or traditional care; (iv) at least one of the outcomes—primary outcomes (LOS, complication rate, readmission rate) or secondary outcomes (transfusion rate, mortality rate, etc.); and (v) general information [e.g. gender, age, body mass index (BMI)] of the ERAS group, and the control group was not statistically different at baseline.
+The exclusion criteria were as follows: (a) systematic reviews, conference abstracts, case reports, case series, letters, comments, and studies without a control group; (b) duplicate articles; (c) nondetailed data of outcomes or missing data; and (d) human patients who underwent revision, outpatient, or same-day surgical procedure were excluded.
+Outcomes of interest
+The primary outcomes for this meta-analysis were LOS, complication rate, and readmission rate in the ERAS group and the control group. The secondary results were transfusion rate, mortality rate, visual analog score (VAS), the Western Ontario and McMaster University Osteoarthritis Index (WOMAC), Short Form 36 bodily pain (SF-36 BP), SF-36 physical function (SF-36 PF), oxford knee score (OKS), and range of motion (ROM) in each group.
+Data extraction
+Two researchers, Z.Q. and C.Y., independently retrieved data from relevant journals. The following study characteristics were extracted: author, journal, publishing year, publishing type, objective, method, conclusion, inclusion criteria, exclusion criteria, ERAS measures, surgical site, and patient characteristics (sample size, gender, age, and BMI), as well as primary and secondary outcomes. To better study the content of ERAS, we additionally analyzed the patient pathways in the ERAS and control groups. If there were any disagreements, the article
+
+Downloaded from https://academic.oup.com/pmj/article/100/1181/159/7486536 by guest on 31 July 2026
+
+Enhanced recovery after surgery in patients after hip and knee arthroplasty | 161
+
+Downloaded from https://academic.oup.com/pmj/article/100/1181/159/7486536 by guest on 31 July 2026
+
+would be presented to a third author and discussed among the investigators. When information was lacking, the associated author was contacted via email and asked to give more details.
+Quality assessment
+The quality of the methodology in included studies was independently evaluated by the two authors (Z.Q. and C.Y.). The Cochrane Risk of Bias Assessment Tool (CROBAT) was utilized to assess the quality of included RCTs. CROBAT included “Random sequence generation,”, “Allocation concealment,” “Blinding of participants and personnel,” “Blinding of outcome assessment,” “Incomplete outcome data,” “Selective reporting,” and “Other bias” (Supplementary Table S3.1). There were three options for each question: “Low risk,” “Moderate,” and “High risk.” The risk level of RCTs would be evaluated by researchers based on the information released. The methodological quality of included cohort and casecohort studies was assessed using the Newcastle–Ottawa Scale (NOS). The NOS comprises eight factors classified into selection, comparability, and outcome (cohort studies) or exposure (case– control studies). For each issue, a variety of response options are provided. The NOS ranges from zero to nine points, with studies receiving six or more points considered excellent quality (Supplementary Tables S3.2 and S3.3). The decision was reached by consulting a third reviewer L.R. in the case of disagreements and failed consensus. Publication bias was evaluated by funnel plots and further confirmed by Egger’s test, and P ≤ .05 was considered the statistically significant risk of bias. We also used the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) tool to evaluate the quality of evidence for the primary outcomes. The GRADE tool classified the evidence of outcomes into “High,” “Moderate,” “Low,” and “Very low.” Each assessment could reduce or promote the level of quality. Specific rules are explained in Supplementary Table S3.4.
+Statistical analysis
+Continuous data using the same scale would be summarized by weighted mean difference (WMD) with 95% confidence intervals (CIs), while using different scales would be measured by standard mean difference with 95% CIs. Dichotomous data would be calculated by odds ratio (OR) with 95% CIs. If the study provided medians and interquartile ranges instead of means and standard deviations (SDs) for continuous variables, medians and interquartile ranges would be converted to means and SDs according to the Cochrane Handbook. All statistical tests were two-tailed, and P ≤ .05 was regarded as a statistically significant difference. According to Review Manager 5.3, inverse variance (fixed/random-effects model) was used for continuous data and Mantel–Haenszel (fixed/random-effects model) was used for dichotomous data. Heterogeneity in the meta-analysis was assessed using Cochrane Q and I2 statistics with appropriate analysis models. A fixed-effects model was employed when I2 < 50%, and a random-effects model was employed when I2 ≥ 50%. Studies with zero events were included by applying the standard continuity corrections (adding 0.5 to all cells for trials with zero events). Subgroup analysis would be carried out when detailed data were available. It would be based on the study type, surgical site, and degree of compliance based on ERAS elements.
+GRADE is based on the risk of bias, inconsistency, indirectness, etc., and is rated high when the lower risk criteria are met. See Supplementary Table S3.4 for detailed criteria. Meta-regression analysis was performed on outcomes that included ≥10 studies with high heterogeneity (I2 ≥ 50%). Sensitivity analysis was carried out by excluding each study one at a time to determine whether
+
+individual studies determined the efficacy of the outcome. Publication bias for our outcomes was assessed with funnel plots, and the asymmetry of the funnel was evaluated with Egger’s test. The trim-and-fill method was also used to assess publication bias for the primary outcomes (when the P-value of Egger’s test is <.5). All analyses were completed with Review Manager 5.3 and STATA 16.0.
+Results Search results
+Figure 1 depicts a f low diagram of the study selection process. A total of 2462 articles were identified (2442 articles through an electronic database search and 20 identified through other sources). After removing the duplicate studies, 1552 potentially relevant studies were reserved based on the title and abstract. Following that, 90 articles were chosen for full-text review. Finally, 11 RCTs, 27 case–control studies, and 9 cohort studies were included in this meta-analysis.
+Study characteristics and quality evaluation
+Table 1 provides a summary of the traits of all 47 included research. The papers were all published after 2008 and had similar distributions of sex, age, BMI, and intervention. Although there was a difference in the baseline ages of patients (P = .005), we concluded that the difference was insignificant. The 47 studies included 29 702 persons who received ERAS and 47 269 who received a control intervention, and 30 studies reviewed LOS; 17 studies reported the incidence of postoperative complications; 14 studies provided readmission rate; 16 studies mentioned transfusion rate; 10 studies provided mortality rate; 7 studies referred to VAS; 5 studies examined OKS; 3 studies noted WMOAC, SF-36 BP, and SF-36 PF; and 4 studies mentioned ROM.
+The quality of the 11 RCTs evaluated using CROBAT is summarized in Supplementary Fig. S1. All of the studies described random sequence generation, and none of the studies had incomplete or selective outcome data. Allocation concealment was described in seven studies. In this type of clinical trial, blinding was challenging to achieve. Supplementary Tables S6 and S7 summarize the quality of nine cohort studies and 27 case–control studies, which were evaluated using the NOS. All cohort and case–control studies with scores ≥6 were considered. Overall, the included studies had high methodological quality.
+Enhanced recovery after surgery elements
+Table S8 lists the following 17 elements of ERAS protocol for included studies and evaluates the presence or absence of these elements (Supplementary Table S8). Additionally, after carefully examining several excellent earlier reviews [11], we determined that the following seven components of the ERAS program are highly advised: avoid bowel preparation, PONV prophylaxis, standardized anesthesia, use of local anesthetics for infiltration analgesia and nerve blocks, tranexamic acid, prevent hypothermia, and early mobilization. These seven elements comprised 21.3%, 29.8%, 59.6%, 42.6%, 55.3%, 8.5%, and 89.4% of the total. Following discussion, the studies that included at least four of these seven components were considered to be of a high degree of compliance, while the remaining studies were supposed to be of a low degree. The primary outcomes of the article were analyzed based on the degree of compliance with ERAS elements (high- and low-degree subgroups). The percentages of high and low compliance studies were 40.43% and 59.57%, respectively.
+
+162 | Zhang et al.
+
+Table 1. Characteristics of studies included in systematic review.
+
+Year/author Study design
+
+Country
+
+Surgical site
+
+Experimental group/control group
+
+Characteristics of study population
+
+Outcome
+
+Sample size (N)
+
+Gender (N: male/female)a
+
+Age (years) mean ± SDb BMIc
+
+2008 Larsen
+
+Case–control study Denmark
+
+Hip knee
+
+2008 Petersen RCT
+
+Denmark
+
+Hip
+
+2009 Larsene RCT
+
+Denmark
+
+Hip knee
+
+2009 Larsenf Case–control study Denmark
+
+Hip
+
+2011 Gulotta 2011 Malviya
+
+Prospective cohort study Case–control study
+
+American UK
+
+2012 den Hertog
+
+RCT
+
+Germany
+
+Hip Hip knee Knee
+
+2012 Gooch
+
+RCT
+
+Canada
+
+Hip knee
+
+2012 McDonald 2013 Scott 2014 Glassou
+2014 Khan 2015 Auyong
+
+Case–control study UK
+
+Case–control study Retrospective cohort study Case–control study Case–control study
+
+UK Denmark
+UK American
+
+2015 Christelis Case–control study Australia
+
+Knee
+Hip knee Hip knee
+Hip Knee Knee
+Hip knee
+
+2015 Köksal
+
+Case–control study Turkey
+
+Knee
+
+E
+
+Accelerated intervention group/current intervention group Optimized perioperative care/conventional perioperative care Accelerated intervention/current intervention Accelerated intervention group/current intervention group Accelerated postoperative pathway/traditional pathway “Enhanced recovery” protocol/traditional recovery Fast-track rehabilitation/standard postoperative rehabilitation care Evidence-informed accelerated clinical pathway/standard of care ERP/control group
+
+142 28 45 55 149 1500 74
+1066 1081
+
+ERAS/non-ERAS Fast-track program/national comparison cohort ER/traditional recovery Post ERAS pathway/pre ERAS pathway ERAS/pre-ERAS (existing-practice)
+
+687 5740
+3000 126
+297
+
+Rapid recovery
+
+84
+
+protocol/standard protocol
+
+C
+
+E
+
+C
+
+E
+
+C
+
+E
+
+C
+
+105
+
+68/74
+
+53/52
+
+65 ± 11
+
+65 ± 11
+
+NA
+
+NA
+
+LOS, mortality
+
+33
+
+17/11
+
+17/16
+
+56 (28–84)d 58 (26–81)d NA
+
+NA
+
+Transfusion, SF-36 BP, SF-36
+
+PF
+
+42
+
+20/25
+
+23/19
+
+64 ± 10.8
+
+66 ± 9.2
+
+NA
+
+NA
+
+LOS, readmission
+
+50
+
+27/28
+
+23/27
+
+65 ± 9.6
+
+67 ± 9.8
+
+NA
+
+NA
+
+LOS
+
+134 3000 73
+
+98/51 711/789 23/51
+
+80/54
+
+50.3 ± 8.9 52.3 ± 8.5 26.9 ± 5.9 27.2 ± 5.8 LOS, complications
+
+1482/1518 68g
+
+69g
+
+NA
+
+NA
+
+Transfusion, mortality
+
+20/53
+
+66.58 ± 8.21 68.25 ± 7.91 31.17 ± 5.82 30.38 ± 6.05 LOS, complications, WOMAC
+
+504
+
+422/644
+
+202/302
+
+69.0 ± 11.1 69.0 ± 10.4 29.5 ± 5.6 29.4 ± 5.4 Complications, mortality,
+
+WOMAC, SF-36 BP, SF-36 PF
+
+735
+
+439/642
+
+307/428
+
+69d
+
+70d
+
+31d
+
+31d
+
+Transfusion, mortality, OKS
+
+1936
+
+NA
+
+NA
+
+68 ± 11
+
+68 ± 10
+
+NA
+
+NA
+
+Transfusion
+
+19 578 2411/3329 8027/11551 68 ± 10
+
+69 ± 10
+
+NA
+
+NA
+
+Complications, mortality
+
+3000 126
+
+1390/1610 41/85
+
+1482/1518 44/82
+
+68 ± 10
+
+69 ± 10
+
+66.02 ± 10.02 68.44 ± 9.98
+
+NA
+
+NA
+
+31.88 ± 7.629 31.3 ± 6.562
+
+Mortality Readmission, transfusion
+
+412
+
+113/299
+
+164/133
+
+67 ± 10
+
+68 ± 11
+
+No statistically significant LOS, complications,
+
+readmission, transfusion ,
+
+mortality, VAS
+
+85
+
+38/46
+
+40/45
+
+64 (56–79)d 68 (55–77)d 31.6 ± 6.2 31.2 ± 7.1 LOS, ROM
+
+(Continued)
+
+Downloaded from https://academic.oup.com/pmj/article/100/1181/159/7486536 by guest on 31 July 2026
+
+Table 1. Continued
+Year/author Study design
+
+Country
+
+Surgical site
+
+2015 Maempel 2016 Stowers 2016 Talboys 2016 Yang
+
+Case–control study Case–control study Retrospective cohort study RCT
+
+UK
+
+Knee
+
+New Zealand Hip knee
+
+UK
+
+Hip
+
+China
+
+Hip
+
+2017 Castorina 2017 Dwyer
+2017 Galbraith
+
+Retrospective cohort study Case–control study Case–control study
+
+Italy UK Ireland
+
+Knee Knee Hip knee
+
+2017 Gwynne-Jones
+
+Case–control study
+
+New Zealand Hip knee
+
+2017 Wilches 2018 Berg
+
+Case–control study Case–control study
+
+Spain Sweden
+
+Hip knee Hip knee
+
+2018 Featherall
+
+Case–control American Hip study
+
+2018 Fransen RCT
+
+Netherlands Knee
+
+2018 Pamiloe 2018 Pamilof 2018 Yanik 2019 Didden
+
+Case—control study Case–control study Case–control study Case–control study
+
+Finland
+
+Knee
+
+Finland
+
+Hip
+
+American Hip knee
+
+Netherlands Knee
+
+Downloaded from https://academic.oup.com/pmj/article/100/1181/159/7486536 by guest on 31 July 2026
+
+Experimental group/control group
+ERP/non-ERP group
+
+Characteristics of study population
+
+Sample size (N)
+
+E
+
+C
+
+84
+
+81
+
+Gender (N: male/female)a
+
+E
+
+C
+
+42/42
+
+37/44
+
+ERAS/non-ERAS
+
+100
+
+100
+
+47/53
+
+41/59
+
+ERP/routine preoperative 50
+
+50
+
+12/38
+
+15/35
+
+and postoperative care
+
+Fast-track
+
+123
+
+127
+
+56/70
+
+65/67
+
+program/standard program
+
+group
+
+Fast-track/traditional
+
+95
+
+37
+
+NA
+
+NA
+
+methods
+
+ERP/non-ERP
+
+57
+
+55
+
+17/40
+
+22/33
+
+Age (years) mean ± SDb
+
+E 69.8 ± 8.9 66.7 ± 9.2 83 ± 7.8 64.2 ± 9.4
+
+C 70.1 ± 10.5 65.4 ± 12.5 85 ± 8.2 66.3 ± 8.6
+
+71.1 ± 7.77 70 ± 9
+
+74.62 ± 6.42 73 ± 7
+
+BMIc
+E 32 (22.6–46.6)d 34.4 ± 7.0 NA 25.2 ± 4.2
+NA NA
+
+C 31.8 (20.5–41.9)d 32.5 ± 6.8 NA 25.3 ± 5.0
+NA NA
+
+Outcome
+Transfusion Complications, readmission LOS, mortality LOS, complications, readmission, transfusion ROM, transfusion LOS
+
+ERP/non-ERP
+
+Total:165 Total:145 95/70
+
+75/70
+
+NA
+
+NA
+
+NA
+
+NA
+
+Hip:125 Hip:119
+
+Knee:40 Knee:26
+
+ERAS/pre-ERAS
+
+Total:528 Total:507 Total:
+
+Total:
+
+Total:
+
+Total:
+
+NA
+
+NA
+
+Hip:318 Hip:314 253/275 229/278 69.1352 ± 10.7809 67.942 ± 10.9083
+
+Knee:210 Knee:193 Hip:146/172 Hip:146/168 Hip:68.3 ± 11.8 Hip:66.8 ± 11.8
+
+Knee:
+
+Knee:
+
+Knee: 70.4 ± 8.9 Knee: 69.8 ± 9.0
+
+107/103 83/110
+
+Fast-track/control group 100
+
+100
+
+40/60
+
+40/60
+
+69.24 ± 9.64
+
+73.07 ± 8.33
+
+NA
+
+NA
+
+Fast-track/control group Hip: 3857 Hip: 3724 Hip:
+
+Hip:
+
+Knee:3413 Knee:2916 1657/2200 1538/2186
+
+Knee:
+
+Knee:
+
+1461/1952 1182/1734
+
+Evidence-based care
+
+2081
+
+2000
+
+1033/1048 960/1040
+
+pathway/preprotocol or
+
+historical control cohort
+
+Fast-track
+
+25
+
+24
+
+11/14
+
+9/15
+
+protocols/regular joint care
+
+protocol
+
+Fast-tracking/traditional 624
+
+437
+
+No statistically
+
+recovery
+
+significant
+
+Fast-tracking/traditional 437
+
+464
+
+No statistically
+
+recovery
+
+significant
+
+Rapid recovery
+
+78
+
+174
+
+70/8
+
+157/17
+
+protocol/control group
+
+nNew pathway/old
+
+85
+
+85
+
+40/45
+
+36/49
+
+pathway
+
+Hip: 69.5 ± 10.1 Knee: 68.8 ± 9.0
+
+Hip: 69.5 ± 10.3 Knee: 69.5 ± 9.3
+
+64.09 ± 12.04
+
+64.03 ± 12.09
+
+64 ± 9
+
+61 ± 7
+
+No statistically significant
+
+No statistically significant
+
+66.56 ± 8.63 69.0 (52–86)d
+
+65.89 ± 8.70
+69.0 (47–86)d
+
+Hip: 27.4 ± 4.6 Knee: 29.2 ± 4.60
+
+Hip: 27.6 ± 4.6 Knee: 29.2 ± 4.9
+
+30.13 ± 6.17
+
+30.09 ± 6.38
+
+28.7 ± 3.5
+
+30.0 ± 4.1
+
+NA
+NA 30.95 ± 4.79
+28.7 (20.9–42.6)d
+
+NA
+NA 32.73 ± 5.77
+28.4 (21.8–43.2)d
+
+LOS, readmission
+LOS, readmission, mortality, OKS
+LOS, complications, transfusion Complications, Readmission
+LOS, complications
+LOS, complications, VAS
+Readmission Readmission LOS Readmission
+
+(Continued)
+
+Enhanced recovery after surgery in patients after hip and knee arthroplasty | 163
+
+164 | Zhang et al.
+
+Table 1. Continued
+Year/author Study design
+
+Country
+
+Surgical site
+
+Experimental group/control group
+
+Characteristics of study population
+
+Outcome
+
+Sample size (N)
+
+Gender (N: male/female)a
+
+Age (years) mean ± SDb
+
+BMIc
+
+2019 Jiang 2020 Jansen
+
+Prospective cohort study Retrospective cohort study
+
+China
+
+Knee
+
+Netherlands Knee
+
+2020 Plessl
+
+Case–control study
+
+American
+
+Knee
+
+2020 RipollésMelchor
+
+Prospective cohort study
+
+Spain
+
+Hip knee
+
+E
+
+ERAS group/traditional group Fast-track pathway/nonfast-track pathway Rapid recovery protocols/standard recovery protocol ERAS group/no ERAS group
+
+106 403 194 1592
+
+2020 Zhang
+
+RCT
+
+China
+
+2021 Arienti
+
+Prospective cohort study
+
+Italy
+
+2021 Chung
+2021 de Carvalho 2021 Gleicher
+2021 Picart
+2021 Wei 2021 Wu 2021 Zhong
+
+Case–control study Case–control study Case–control study Case–control study RCT RCT Prospective cohort study
+
+Hongkong
+Brazil
+Canada
+France
+China China China
+
+2022 AguadoMaestro 2022 Azam
+
+RCT
+Case–control study
+
+Spain India
+
+2022 Elmoghazy
+
+RCT
+
+Germany
+
+Hip
+
+clinical nursing
+
+35
+
+pathway/routine nursing
+
+Knee
+
+Fast-track rehabilitation 20
+
+protocol/conventional
+
+rehabilitation protocol
+
+Hip knee ERAS/conventional
+
+111
+
+practices
+
+Hip
+
+Fast-track/control group 47
+
+Knee
+
+ER/preintervention
+
+383
+
+Knee Knee Hip Hip
+Knee Knee
+Hip
+
+Fast-track
+
+216
+
+group/Conventional group
+
+ERAS/Control group
+
+35
+
+ERAS/routine nursing
+
+16
+
+Rapid rehabilitation
+
+180
+
+surgery group/conventional
+
+rehabilitation group
+
+Rapid recovery
+
+83
+
+program/classic protocol
+
+Enhanced
+
+275
+
+recovery/standard
+
+treatment group
+
+Fast-track
+
+30
+
+rehabilitation/conventional
+
+rehabilitation
+
+C 141 283
+129
+4554
+35 23
+117 51 232 335 34 16 168
+92 190
+30
+
+E 58/48 280/123
+
+C 83/58 205/78
+
+E 74.2 ± 6.3 67.46 ± 8.67
+
+C 75.4 ± 5.9 68.31 ± 9.37
+
+59/135
+
+47/82
+
+68.0 ± 8.8
+
+65.7 ± 9.8
+
+662/930 1904/2650 70 (63–76)d
+
+71 (64–76)d
+
+14/21 6/14
+
+15/20 4/19
+
+58.77 ± 13.97 69 (60–77)d
+
+59.66 ± 11.24 69 (65–73)d
+
+44/67
+25/22
+155/228
+78/138
+7/28 NA 78/102
+
+39/78
+25/26
+84/148
+114/221
+7/27 NA 73/95
+
+69.6 ± 9.2
+
+67.9 ± 12.4
+
+No statistically significant
+
+66.5 ± 9.9
+
+66.1 ± 10.1
+
+69.23 ± 7.80
+
+69.41 ± 9.86
+
+65.77 ± 4.51 35.6 ± 6.7 65 ± 11.2
+
+65.62 ± 5.06 31.7 ± 9.2 64 ± 12.1
+
+32/51 77/198
+
+35/57 65/125
+
+70.7g 65.8 ± 9.2
+
+71.3g 66.1 ± 10.1
+
+20/10
+
+10/20
+
+65 ± 9
+
+72 ± 7
+
+E 32.1 ± 5.1 28.89 ± 4.5
+
+C 31.4 ± 4.5 29.52 ± 4.7
+
+LOS, complications, transfusion, VAS, ROM OKS
+
+31.2 ± 5.1
+
+32.7 ± 5.9
+
+LOS
+
+Median (IQR) 29.3 (26.4–32.9)
+NA
+
+29.4 (26.4–32.8) NA
+
+Complications, readmission, transfusion, mortality, LOS, SF-36 BP, SF-36 PF
+
+Median (IQR)
+
+29.4 (26.2–32.5) LOS
+
+27.7 (25.4–29.4)
+
+NA
+
+NA
+
+LOS
+
+NA 32.45 ± 7.83
+
+NA 31.0 ± 7.0
+
+LOS, complications, transfusion LOS
+
+30.15 ± 4.79
+26.66 ± 1.19 NA 23.8 ± 3.5
+
+30.86 ± 5.46
+26.91 ± 1.22 NA 24.1 ± 3.6
+
+LOS, readmission, transfusion LOS, VAS LOS, complications, VAS LOS, VAS
+
+30.1 24.6 ± 4.5
+28 ± 5
+
+30.6 25.1 ± 3.9
+28.4 ± 5
+
+LOS, complications, ROM, OKS LOS, transfusion, VAS, OKS
+LOS, complications, readmission, transfusion, WOMAC
+
+aComparison of gender baseline between experimental group and control group: OR = .95, 95%CI (0.84, 1.0), P = .434. bComparison of age baseline between experimental group and control group: WMD = −.53, 95%CI (−0.90, −0.16), P = .005. cComparison of BMI baseline between experimental group and control group: WMD = −0.15, 95%CI (−0.37, −0.06), P = .167. dThe values are given as the median, with or without the range in parentheses. eThese are two different articles. fThese are two different articles. gThe values are given as the mean, without the SD. No statistically significant: There is no significant difference in the article. ERP: enhanced recovery program; ER: enhanced recovery; C: control group; E: experimental group (ERAS); N: number of patients; NA: not available; .
+
+Downloaded from https://academic.oup.com/pmj/article/100/1181/159/7486536 by guest on 31 July 2026
+
+Enhanced recovery after surgery in patients after hip and knee arthroplasty | 165
+
+Downloaded from https://academic.oup.com/pmj/article/100/1181/159/7486536 by guest on 31 July 2026
+
+Figure 1 Flow diagram of the study selection process
+Primary outcomes Effect of enhanced recovery after surgery protocols on hospital length of stay
+Thirty studies [12–40, 46] reported on the LOS. A total of 11 460 patients were evaluated for quantitative analysis, with 5784 in the ERAS group and 5676 in the control group (Fig. 2). The result showed that LOS in the ERAS group was considerably lower than that in the control group [WMD = −2.65 (−3.03, −2.26), P < .001]. Furthermore, in comparison to the control group, ERAS was associated with a statistically significant decrease in the LOS in different study types and surgical sites: RCTs [WMD = −3.08 (−3.95, −2.21), P < .001], nonrandomized controlled trials [NRCT; WMD = −2.45 (−2.85, −2.04), P < .001], THA [WMD = −2.60 (−3.75, −1.45), P < .001], TKA [WMD = −2.84 (−3.59, −2.08), P < .001], and THA + TKA [WMD = −2.38 (−3.23, −1.53), P < .001] (Table 2). The research considered to be of a high degree of compliance in terms of ERAS protocol elements also demonstrated substantially lower LOS in the ERAS group than in the control group [WMD = −2.29 (−3.20, −1.38), P < .001], though the same results were observed in the low-degree research [WMD = −2.87 (−3.35, −2.39), P < .001] (Table 2). However, there were signs of statistical heterogeneity between studies (I2 > 95%). Meta-regression analysis could not find causes of heterogeneity according to the types of study design, surgical sites, and the degree of compliance of ERAS. Sensitivity analysis found that none of the studies impacted the outcome (Supplementary Fig. S2.1). The GRADE table shows low evidence for LOS (Supplementary Table S5).
+Effect of enhanced recovery after surgery on postoperative complications
+There are 17 papers [15–17, 20, 24–26, 28, 33, 37, 39, 41–46] providing information on postoperative complications. According
+
+to sensitivity analysis, a study [15] had a considerable impact on the pooled OR, and its removal could lead to a stable outcome with significantly less statistical heterogeneity (Supplementary Fig. S2.2). Seventeen data from 16 papers were used in the meta-analysis. A total of 53 192 patients were evaluated for quantitative analysis, with 18 750 in the ERAS group and 34 442 in the control group (Fig. 3). There was no difference in the incidence of postoperative complications between the ERAS group and the control group [OR = 0.97 (0.90, 1.04), P = .374]. However, in the subgroup of RCTs, ERAS had a considerably lower risk of postoperative complications than the control group [OR = 0.68 (0.48, 0.95), P = .023], though there was no significant difference in NRCTs [OR = 0.98 (0.91, 1.06), P = .68] (Table 2). Additionally, there was no difference in the incidence of postoperative complications between the ERAS and control group in all surgical sites (P > .05) (Table 2). Our findings are unaffected by the degree of compliance in ERAS elements as well, as the pooled OR for high-degree literature is 0.97 [(0.89, 1.05), P = .42], while the pooled OR for low-degree literature is 0.97 [(0.82, 1.14), P = .71] (Table 2). The statistical heterogeneity among studies was low (I2 < 50%). The GRADE of the NRCTs was very low evidence, whereas the GRADE of the RCTs for the incidence of complications was moderate evidence (Supplementary Table S5).
+Effect of enhanced recovery after surgery on readmission rate
+Postoperative readmission rates were provided in 14 studies [13, 17, 20, 22, 23, 35, 43–49], and a total of 20 datasets were included in the meta-analysis. The readmission rate for a total of 41 728 patients was assessed, with 20 090 in the ERAS group and 21 638 in the control group (Fig. 4). According to the overall meta-analysis, there was no discernible difference between the two groups
+
+166 | Zhang et al.
+
+Downloaded from https://academic.oup.com/pmj/article/100/1181/159/7486536 by guest on 31 July 2026
+
+Figure 2 Comparison of LOS between the ERAS and the control groups
+
+[OR = 1.06 (0.98, 1.16), P = .15]. Moreover, ERAS did not affect the readmission rate, according to a subgroup analysis based on time, study type, and surgical site (Table 2). Similarly, in the high-degree literature, the readmission rate in the ERAS group was the same as in the control group [OR = 1.03 (0.94, 1.13), P = .490]. However, in the low-degree literature, the readmission rate in the ERAS group was much higher than in the control group [OR = 1.37 (1.05, 1.77), P = .019] (Table 2). The statistical heterogeneity among studies was low (I2 < 50%). According to the sensitivity analysis, none of the studies inf luenced the pooled OR (Supplementary Fig. S2.3). The readmission rate for RCTs was moderate evidence, compared with very low GRADE for NRCTs (Supplementary Table S5).
+Secondary outcomes Effect of enhanced recovery after surgery on transfusion rate
+Data on the transfusion rate were provided in 16 trials [17, 20, 24, 28, 33, 35, 40, 45–47, 50–55]. A total of 18 275 patients were involved, including 6387 in the ERAS group and 11 888 in the control group. According to the overall meta-analysis, there was a substantially fewer transfusion rate in the ERAS group than in the control group [OR = 0.40 (0.29, 0.54), P < .001] (Table 2). Furthermore, the ERAS group also had a significantly lower
+
+transfusion rate than the control group in the subgroups of RCTs, NRCTs, TKA, and THA + TKA. However, the analysis of the THA subgroups failed to achieve statistical significance (Table 2). Metaregression analysis identified heterogeneity from surgical sites (P = 0.042), confirming the need for subgroup analysis. The results of the meta-analysis and heterogeneity are detailed in Table 2. According to the sensitivity analysis, none of the studies had a bearing on the pooled OR (Supplementary Fig. S2.).
+Effect of enhanced recovery after surgery on mortality rate
+Ten researchers reported postoperative mortality, and 13 datasets from 10 studies [12, 17, 19, 23, 41, 42, 45, 51, 52, 56] were considered in the meta-analysis. A total of 59 336 patients had their death rates assessed; 20 384 were in the ERAS group and 38 952 were in the control group. Between the ERAS and the control groups, there was no difference in the postoperative mortality [OR = 0.76 (0.57, 1.01), P = .056] (Table 2). However, ERAS had significantly lower postoperative mortality than the control group at 30 days [OR = 0.46 (0.25, 0.85), P = .01], though there was no significant difference at 30–90 days [OR = 0.88 (0.64, 1.21), P = .43] (Table 2). The results of heterogeneity are detailed in Table 2. According to the sensitivity analysis, none of the studies impacted the pooled OR (Supplementary Fig. S2.).
+
+Enhanced recovery after surgery in patients after hip and knee arthroplasty | 167
+
+Downloaded from https://academic.oup.com/pmj/article/100/1181/159/7486536 by guest on 31 July 2026
+
+Table 2. Results for meta-analysis.
+
+Outcomes
+
+Subgroup analyses
+
+No. of data
+
+LOS
+
+Overall
+
+30
+
+Study type
+
+RCT
+
+9
+
+NRCT
+
+21
+
+Surgery site
+
+Hip
+
+10
+
+Knee
+
+12
+
+Hip+knee
+
+8
+
+grade
+
+High degree
+
+11
+
+Low degree
+
+19
+
+Complication
+
+Overall
+
+17
+
+rate
+
+Study type
+
+RCT
+
+7
+
+NRCT
+
+10
+
+Surgery site
+
+Hip
+
+6
+
+Knee
+
+5
+
+Hip+knee
+
+6
+
+Grade
+
+High degree
+
+10
+
+Low degree
+
+7
+
+Readmission
+
+Overall
+
+20
+
+rate
+
+Time/day
+
+≤30 days
+
+9
+
+30–90 days
+
+11
+
+Study type
+
+RCT
+
+3
+
+NRCT
+
+17
+
+Surgery site
+
+Hip
+
+8
+
+Knee
+
+7
+
+Hip+knee
+
+5
+
+Grade
+
+High degree
+
+9
+
+Low degree
+
+11
+
+Sample (E/C)
+5784/5676
+
+OR/WMD 95%CI
+
+−2.65
+
+[−3.03, −2.26]
+
+466/473 5318/5203
+
+−3.08 −2.45
+
+[−3.95, −2.21] [−2.85, −2.04]
+
+2766/2661 1552/1413 1466/1602
+
+−2.60 −2.84 −2.38
+
+[−3.75, −1.45] [−3.59, −2.08] [−3.23, −1.53]
+
+1731/1791 4053/3885 18 750/34 442
+
+−2.29 −2.87 0.97
+
+[−3.20, −1.38] [−3.35, −2.39] [0.90, 1.04]
+
+1417/866
+
+0.68
+
+17 333/33 576
+
+0.98
+
+[0.48, 0.95] [0.91, 1.06]
+
+6154/5948
+
+0.99
+
+3701/3246
+
+0.93
+
+8895/25 248
+
+0.96
+
+[0.88, 1.13] [0.79, 1.10] [0.87, 1.07]
+
+15 327/31 660
+
+0.97
+
+3423/2782
+
+0.97
+
+20 090/21 638
+
+1.06
+
+[0.89, 1.05]
+[0.82, 1.14] [0.98, 1.16]
+
+10 820/12 947
+
+1.13
+
+9270/8691
+
+1.06
+
+[0.89, 1.44] [0.95, 1.19]
+
+198/199
+
+0.80
+
+19 892/21 439
+
+1.07
+
+[0.43, 1.49] [0.98, 1.17]
+
+8991/8771
+
+1.34
+
+8537/7252
+
+1.00
+
+2562/5615
+
+1.25
+
+[0.99, 1.81] [0.87, 1.13] [0.95, 1.65]
+
+17 206/19 006
+
+1.03
+
+2884/2632
+
+1.37
+
+[0.94, 1.13] [1.05, 1.77]
+
+P-value <.001
+<.001 <.001
+<.001 <.001 <.001
+<.001 <.001 .374
+.023 .68
+.93 .40 .49
+.42 .71 .15
+.32 .31
+.488 .125
+.147 .931 .109
+.490 .019
+
+Heterogeneity (I 2 and P)
+I 2 = 98.7% P < 0.001
+I 2 = 95.8% P < .001 I 2 = 98.6% P < .001
+I 2 = 98.9% P < .001 I 2 = 98.9% P < .001 I 2 = 97.2% P < .001
+I 2 = 98.5% P < .001 I 2 = 98.5% P < .001 I 2 = 29.3% P = .124
+I 2 = 10.7% P = .348 I 2 = 24.9% P = .214
+I 2 = 47.0% P < .001 I 2 = 43.1% P = .134 I 2 = 13.8% P = .326
+I 2 = 46.1% P = .054 I 2 = 0% P = .43 I 2 = 40.4% P = .032
+I 2 = 50.4% P = .041 I 2 = 36.4% P = .108
+I 2 = 0.0% P = .016 I 2 = 47.2% P = .673
+I 2 = 64.3% P = .006 I 2 = 0.0% P = .854 I 2 = 42.4% P = .139
+I 2 = 17.5% P = .287 I 2 = 47.3% P = .041
+
+Egger’s test (P-value) .066
+.347 .356
+.028 .125 .004
+.77 .15 .002
+.021 .145
+.325 .036 .064
+.0 .296 .485
+.663 .634
+.954 .337
+.164 .036 .568
+.959 .665
+(Continued)
+
+Downloaded from https://academic.oup.com/pmj/article/100/1181/159/7486536 by guest on 31 July 2026
+
+168 | Zhang et al.
+
+Table 2. Continued
+
+Outcomes
+
+Subgroup analyses
+
+Transfusion rate
+
+Overall
+Study type RCT
+
+NRCT
+
+Surgery site Hip
+
+Knee
+
+Hip+knee
+
+Mortality rate
+
+Overall
+Time/day ≤30 days
+
+30–90 days
+
+VAS
+
+Overall
+
+Study type RCT
+
+NRCT
+
+WOMAC
+
+Overall
+
+SF-36 BP
+
+Overall
+
+SF-36 PF
+
+Overall
+
+OKS
+
+Overall
+
+ROM
+
+Overall
+
+No. of data 16
+3 13
+4 7 5 13
+6 7 7
+3 4 3 3 3 5 4
+
+Sample (E/C)
+6387/11 888
+
+OR/WMD 95%CI
+
+0.40
+
+[0.29, 0.54]
+
+181/190
+
+0.47
+
+6206/11 698
+
+0.38
+
+[0.24, 0.94] [0.27, 0.53]
+
+228/241
+
+0.23
+
+1983/1645
+
+0.37
+
+4176/10 002
+
+0.47
+
+20 384/38 952
+
+0.76
+
+[0.03, 1.74] [0.22, 0.63] [0.35, 0.63] [0.57, 1.01]
+
+8096/11 615 12 288/27 337 934/985
+
+0.46 0.88 −0.88
+
+[0.25, 0.85] [0.64, 1.21] [−1.57, −0.20]
+
+76/74 858/911 1170/607 1129/572 1129/572 2370/1807 380/378
+
+−0.56 −1.10 −2.86 4.49 3.64 0.33 6.65
+
+[−1.16, −0.03] [−2.19, −0.02] [−10.47, 4.75] [2.69, 6.29] [1.79, 5.48] [−0.93, 1.60] [2.09, 11.21]
+
+P-value <.001
+.03 <.001
+.16 <.001 <.001 .056
+.01 .43 .01
+.06 .046 .46 <.001 <.001 .61 .004
+
+Heterogeneity (I 2 and P)
+I 2 = 64.4% P < .001
+I 2 = 17.5% P = .298 I 2 = 69.6% P < .001
+I 2 = 83.9% P < .001 I 2 = 58.8% P = .024 I 2 = 47.0% P = .110 I 2 = 45.0% P = .040
+I 2 = 30.3% P = .208 I 2 = 47.0% P = .079 I 2 = 98.6% P < .001
+I 2 = 96.2% P < .001 I 2 = 98.1% P < .001 I 2 = 88.3% P < .001 I 2 = 0.0% P = .517 I 2 = 0.0% P = .383 I 2 = 97.8% P < .001 I 2 = 93.3% P < .001
+
+Egger’s test (P-value) .682
+.679 .498
+.875 .208 .205 .441
+.329 .522 .084
+.219 .414 .851 .54 .58 .418 .929
+
+Effect of enhanced recovery after surgery on visual analog score
+The pain levels of patients were scored utilizing the VAS, and the score was inversely correlated with their level of discomfort. Seven studies [17, 26, 28, 36–38, 40] reported the VAS within 3 days postsurgery. All investigations showed no significant differences in the baseline VAS scores (P > .05) (Supplementary Table S9). A total of 1919 patients were assessed for VAS, with 934 in the ERAS group and 985 in the control group. Patients in the ERAS group had a considerably lower VAS score than those in the control group [WMD = −0.88 (−1.57, −0.20), P = .01] (Table 2). This was also true in the subgroup of NRCTs [WMD = −1.10 (−2.19, −0.02), P = .046], while there was no significant difference in RCTs [WMD = −0.56 (−1.16, −0.03), P = .06] (Table 2). The results of heterogeneity are detailed in Table 2. According to the sensitivity analysis, none of the studies impacted the pooled WMD (Supplementary Fig. S2.6).
+Effect of enhanced recovery after surgery on Western Ontario and McMaster University Osteoarthritis Index score
+WOMAC score is divided into three subscales: pain, stiffness, and physical function, with a higher score indicating a more severe
+
+condition. Three studies [16, 41, 46] provided these scores over 3 months postsurgery with no significant differences in baseline WOMAC score levels (P > .05) (Supplementary Table S9). A total of 1777 patients were evaluated for WOMAC scores, with 1170 in the ERAS group and 607 in the control group. The pooled WMD showed that WOMAC score was not statistically significantly lower in either group due to ERAS (Table 2).
+Effect of enhanced recovery after surgery on short form 36 bodily pain and short form 36 physical function scores
+The SF-36 is a generic, self-administered instrument for measuring different aspects of quality of life, with a higher score indicating better health status. Three studies [30, 41, 50] reported PF and BP scores of the SF-36 over 3 months postsurgery, and there were no significant differences in baseline scores levels across all studies (P > .05) (Supplementary Table S9). A total of 1701 patients were evaluated for SF-36 BP and SF-36 PF, with 1129 in the ERAS group and 572 in the control group. The pooled results of both SF-36 BP and PF showed that the ERAS group had a significantly higher score than the control group [SF-36 BP: WMD = 4.49 (2.69, 6.29), P < .001. SF-36 PF: WMD = 3.64 (1.79, 5.48), P < .001]. They all had very low heterogeneity (Table 2).
+
+Enhanced recovery after surgery in patients after hip and knee arthroplasty | 169
+
+Downloaded from https://academic.oup.com/pmj/article/100/1181/159/7486536 by guest on 31 July 2026
+
+Figure 3 Comparison of complication rate between the ERAS and control groups
+
+Effect of enhanced recovery after surgery on oxford knee score
+Featuring a higher score indicating better health status, the OKS was designed exclusively for knee arthroplasty to evaluate the patient’s knee pain and functional status. Five studies [23, 39, 40, 52, 57] provided postoperative OKS for patients with no significant differences in baseline OKS levels across all studies (P > .05) (Supplementary Table S9). A total of 4177 patients were evaluated for OKS, with 2370 in the ERAS group and 1807 in the control group. The results show no statistical difference in the comparison between the ERAS and control groups [WMD = 0.33 (−0.93, 1.60), P = .61; I2 = 97.8%] (Table 2).
+Effect of enhanced recovery after surgery on range of motion
+Four studies [18, 28, 39, 55] reported postoperative ROM for patients. A total of 758 patients were evaluated for ROM, with 380 in the ERAS group and 378 in the control group. According to the results, ROM in the ERAS group was substantially greater than in the control group [WMD = 6.65 (2.09, 11.21), P = .004; I2 = 93.3%] (Table 2).
+
+Publication bias
+To evaluate publication bias, funnel plots of LOS, complication rate, readmission rate, transfusion rate, and mortality were performed. The P-value of Egger’s test is <.05 in the funnel plots of complications, suggesting that there may be publication bias. The P-value of the Egger test in the funnel plots of other results is more than 0.05, roughly distributed in an inverted funnel, indicating a smaller impact of publication bias on the results (Supplementary Fig. S3.1–3.5).
+Discussion
+To our knowledge, this is the largest meta-analysis to discuss the effect of ERAS on arthroplasty to date. We included 11 RCTs and 36 nonrandomized control studies, with a total of 76 971 participants; 29 702 received the ERAS regimen and 47 269 received the control perioperative care. The included studies in this meta-analysis were conducted from 2008 to 2023. After our data analysis, the outcomes demonstrated that ERAS could reduce the hospital LOS and transfusion rates without increasing postoperative complications or readmission rates.
+
+170 | Zhang et al.
+
+Downloaded from https://academic.oup.com/pmj/article/100/1181/159/7486536 by guest on 31 July 2026
+
+Figure 4 Comparison of readmission rate between the ERAS and control groups
+
+ERAS promotes patients to be discharged from the hospital as soon as possible, saving societal medical resources, alleviating patients’ financial burdens, and improving their quality of life. Although LOS heterogeneity was substantial, the direction and magnitude of effects [WMD = −2.65 (−3.03, −2.60), P < .001] show that ERAS protocols have important implications for LOS. Variations in the ERAS protocol, practice variation, diverse hospital resources and processes, and varying discharge criteria are considered the primary sources of substantial heterogeneity.
+Considering that publishing bias is significant in the complication rate (Egger’s test: P = .002), we employed the trim-andfill method to evaluate the stability of the overall combined effect size. The findings revealed that the pooled OR outcome did not vary much (P > .05) (Supplementary Table S10), indicating that the postoperative complication rate was not significantly affected by publication bias and that the pooled OR outcome was essentially constant. Notably, although the ERAS group’s incidence of postoperative complications was shown to be lower than the control group in the RCTs, the trim-and-fill method found no difference in the incidence of complications between patients in the two subgroups (P > .05) (Supplementary Table S10). In conclusion, ERAS protocols do not increase the incidence of complications in patients who underwent arthroplasty.
+Moreover, ERAS does not increase the postoperative mortality rate. The subgroup analysis showed that ERAS could dramatically
+
+lower the 30-day mortality rate following surgery while not affecting the 30–90-day mortality rate. In addition, compared with the control group, the ERAS group had significantly lower VAS scores, better ROM, SF-36 BP, and SF-36 PF scores, and no differences in WOMAC and OKS. This indicates that ERAS may benefit patients who underwent arthroplasty by minimizing pain, increasing joint mobility, and enhancing the quality of life following surgery. In terms of lowering the demand for pricey narcotic medicines and improving patients’ healing joint function, the ERAS group outperformed the control group.
+During the analysis, we discovered that different articles’ definitions of ERAS or fast-track protocols varied substantially. Due to this, we compiled a table of the ERAS guidelines’ recommended elements and discovered that nearly all studies that used ERAS protocol for hip or knee arthroplasty advocated early mobilization. Even though many patients are discharged to rehabilitation centers or nursing homes for further rehabilitation, getting patients out of bed on the day of surgery helps them recover lower extremity function and cuts down on their hospital stay as well. The primary outcomes of the article were analyzed in subgroups based on the degree of compliance with highly advised ERAS elements recommended by previous reviews. In contrast to the low-degree literature, ERAS did not increase the readmission rate in the high-degree literature. However, the types of literature we classified as high-degree and low-degree did not differ
+
+Enhanced recovery after surgery in patients after hip and knee arthroplasty | 171
+
+Downloaded from https://academic.oup.com/pmj/article/100/1181/159/7486536 by guest on 31 July 2026
+
+regarding the LOS or the complication rate. This might be due to the fact that just a few research adopted certain recommendations from guidelines, such as preventing hypothermia, which could have affected how well our categorization of article quality was done. Additionally, it is possible that some researchers did not fully describe the ERAS used in their investigation, leading to the reduction of the reliability of our subgroup analysis. However, the clinical significance of our study of ERAS subgroups is still quite vital. To not increase the readmission rate of patients with THA or TKA, we hope that future research will use the seven ERAS elements suggested in our meta-analysis.
+As an update and addition to earlier reviews [58–62], we conducted a rigorous literature review and used a sizeable sample in our meta-analysis. The ERAS approach and the conventional pathway for hip or knee arthroplasty were compared in every study. There are no language restrictions on studies, and studies were from various environments and geographic places. We also assessed 11 primary and secondary outcomes, including LOS, complications, readmission, transfusion, mortality, VAS, WOMAC, SF-36 BP, SF-36 PF, OKS, and ROM, which provided comprehensive assessment of ERAS. Additionally, our findings were strengthened by a thorough subgroup analysis based on the study type, surgical site, and degree of compliance with key ERAS elements.
+Our research also had some limitations. There was a chance of bias in our meta-analysis because the authors of several RCTs did not fully specify allocation concealment or blinding procedures, which would have reduced the statistical precision. The included studies did not apply standardized and consistent clinical procedures for ERAS programs, leading to bias in the meta-analysis. Moreover, most pertinent clinical outcomes were evaluated; however, we did not evaluate expenditures, primarily due to the relative absence of these data in the arthroplasty group. Additionally, the test effectiveness of the results was decreased due to the small sample sizes for some of the secondary outcomes.
+Conclusion
+In THA and TKA patients, ERAS could significantly shorten the LOS, reduce transfusion rate, and lower 30-day postoperative mortality without increasing postoperative complications or readmission rate. Also, ERAS could decrease the VAS of patients while improving their ROM, SF-36 BP, and SF-36 PF scores. Finally, based on our findings, ERAS is better for patients’ readmission rate in high-degree literature. These findings could support using these ERAS components in THA and TKA. However, further studies are needed to standardize these multimodal care pathways and better characterize these elements’ impact on patients undergoing arthroplasty.
+Acknowledgements
+Not applicable.
+Supplementary data
+Supplementary data are available at POSTMJ Journal online.
+Conflict of interest statement
+None declared.
+
+Funding
+This manuscript was not funded.
+Data availability of data and material
+All data generated or analyzed in this study are included in this published article.
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Authors’ contributions
+Qingqing Zhang, designed study, collected data, analyzed data, wrote article; Yuzhang Chen, collected data, analyzed data, wrote article; Yi Li, collected data, wrote article; Ruikang Liu, designed study; Saroj Rai, designed study; Jin Li, designed study, analyzed data, revised article; Pan Hong, designed study, analyzed data, revised article.
+References
+1. Kehlet H. Multimodal approach to control postoperative pathophysiology and rehabilitation. Br J Anaesth 1997;78:606–17. https://doi.org/10.1093/bja/78.5.606.
+2. Fearon KC, Ljungqvist O, von Meyenfeldt M. et al. Enhanced recovery after surgery: a consensus review of clinical care for patients undergoing colonic resection. Clin Nutr 2005;24:466–77. https://doi.org/10.1016/j.clnu.2005.02.002.
+3. Geltzeiler CB, Rotramel A, Wilson C. et al. Prospective study of colorectal enhanced recovery after surgery in a community hospital. JAMA Surg 2014;149:955–61. https://doi.org/10.1001/ jamasurg.2014.675.
+4. Kehlet H. Fast-track colorectal surgery. Lancet 2008;371:791–3. https://doi.org/10.1016/S0140-6736(08)60357-8.
+5. Kehlet H, Wilmore DW. Evidence-based surgical care and the evolution of fast-track surgery. Ann Surg 2008;248:189–98. https://doi.org/10.1097/SLA.0b013e31817f2c1a.
+6. Cerantola Y, Valerio M, Persson B. et al. Guidelines for perioperative care after radical cystectomy for bladder cancer: Enhanced Recovery After Surgery (ERAS((R))) Society recommendations. Clin Nutr 2013;32:879–87. https://doi.org/10.1016/j. clnu.2013.09.014.
+7. Nygren J, Thacker J, Carli F. et al. Guidelines for perioperative care in elective rectal/pelvic surgery: Enhanced Recovery After Surgery (ERAS(R)) Society recommendations. Clin Nutr 2012;31: 801–16. https://doi.org/10.1016/j.clnu.2012.08.012.
+8. Melloul E, Hübner M, Scott M. et al. Guidelines for perioperative care for liver surgery: Enhanced Recovery After Surgery (ERAS) Society recommendations. World J Surg 2016;40:2425–40. https:// doi.org/10.1007/s00268-016-3700-1.
+9. Lassen K, Coolsen MM, Slim K. et al. Guidelines for perioperative care for pancreaticoduodenectomy: Enhanced Recovery After Surgery (ERAS(R)) Society recommendations. Clin Nutr 2012;31: 817–30. https://doi.org/10.1016/j.clnu.2012.08.011.
+
+172 | Zhang et al.
+
+Downloaded from https://academic.oup.com/pmj/article/100/1181/159/7486536 by guest on 31 July 2026
+
+10. Mortensen K, Nilsson M, Slim K. et al. Consensus guidelines for enhanced recovery after gastrectomy: Enhanced Recovery After Surgery (ERAS(R)) Society recommendations. Br J Surg 2014;101: 1209–29. https://doi.org/10.1002/bjs.9582.
+11. Soffin EM, YaDeau JT. Enhanced recovery after surgery for primary hip and knee arthroplasty: a review of the evidence. Br J Anaesth 2016;117:iii62–72. https://doi.org/10.1093/bja/aew362.
+12. Larsen K, Hvass KE, Hansen TB. et al. Effectiveness of accelerated perioperative care and rehabilitation intervention compared to current intervention after hip and knee arthroplasty. A beforeafter trial of 247 patients with a 3-month follow-up. BMC Musculoskelet Disord 2008;9:59. https://doi.org/10.1186/1471-2474-9-59.
+13. Larsen K, Sorensen OG, Hansen TB. et al. Accelerated perioperative care and rehabilitation intervention for hip and knee replacement is effective: a randomized clinical trial involving 87 patients with 3 months of follow-up. Acta Orthop 2008;79:149–59. https://doi.org/10.1080/17453670710014923.
+14. Larsen K, Hansen TB, Soballe K. Hip arthroplasty patients benefit from accelerated perioperative care and rehabilitation: a quasi-experimental study of 98 patients. Acta Orthop 2008;79: 624–30. https://doi.org/10.1080/17453670810016632.
+15. Gulotta LV, Padgett DE, Sculco TP. et al. Fast track THR: one hospital’s experience with a 2-day length of stay protocol for total hip replacement. HSS J 2011;7:223–8. https://doi.org/10.1007/ s11420-011-9207-2.
+16. den Hertog A, Gliesche K, Timm J. et al. Pathway-controlled fasttrack rehabilitation after total knee arthroplasty: a randomized prospective clinical study evaluating the recovery pattern, drug consumption, and length of stay. Arch Orthop Trauma Surg 2012;132:1153–63. https://doi.org/10.1007/s00402-012-1528-1.
+17. Christelis N, Wallace S, Sage CE. et al. An enhanced recovery after surgery program for hip and knee arthroplasty. Med J Aust 2015;202:363–8. https://doi.org/10.5694/mja14.00601.
+18. Koksal I, Tahta M, Simsek ME. et al. Efficacy of rapid recovery protocol for total knee arthroplasty: a retrospective study. Acta Orthop Traumatol Turc 2015;49:382–6. https://doi.org/10.3944/ AOTT.2015.14.0353.
+19. Talboys R, Mak M, Modi N. et al. Enhanced recovery programme reduces opiate consumption in hip hemiarthroplasty. Eur J Orthop Surg Traumatol 2016;26:177–81. https://doi.org/10.1007/ s00590-015-1722-2.
+20. Yang G, Chen W, Chen W. et al. Feasibility and safety of 2day discharge after fast-track total hip arthroplasty: a Chinese experience. J Arthroplasty 2016;31:1686–1692.e1. https://doi. org/10.1016/j.arth.2016.02.011.
+21. Dwyer AJ, Thomas W, Humphry S. et al. Enhanced recovery programme for total knee replacement to reduce the length of hospital stay. J Orthop Surg 2014;22:150–4. https://doi. org/10.1177/230949901402200206.
+22. Galbraith JG, Fenelon C, Gibbons J. et al. Enhanced recovery in lower limb arthroplasty in the Irish setting. Ir J Med Sci 2017;186: 687–91. https://doi.org/10.1007/s11845-017-1571-6.
+23. Gwynne-Jones DP, Martin G, Crane C. Enhanced recovery after surgery for hip and knee replacements. Orthop Nurs 2017;36: 203–10. https://doi.org/10.1097/NOR.0000000000000351.
+24. Wilches C, Sulbarán JD, Fernández JE. et al. Fast-track recovery technique applied to primary total hip and knee replacement surgery. Analysis of costs and complications. Rev Esp Cir Ortop Traumatol 2017;61:111–6. https://doi.org/10.1016/j. recot.2016.10.002.
+25. Featherall J, Brigati DP, Faour M. et al. Implementation of a total hip arthroplasty care pathway at a high-volume health system: effect on length of stay, discharge disposition, and
+
+90-day complications. J Arthroplasty 2018;33:1675–80. https:// doi.org/10.1016/j.arth.2018.01.038. 26. Fransen BL, Hoozemans MJM, Argelo KDS. et al. Fast-track total knee arthroplasty improved clinical and functional outcome in the first 7 days after surgery: a randomized controlled pilot study with 5-year follow-up. Arch Orthop Trauma Surg 2018;138: 1305–16. https://doi.org/10.1007/s00402-018-3001-2. 27. Yanik JM, Bedard NA, Hanley JM. et al. Rapid recovery total joint arthroplasty is safe, efficient, and cost-effective in the veterans administration setting. J Arthroplasty 2018;33:3138–42. https:// doi.org/10.1016/j.arth.2018.07.004. 28. Jiang HH, Jian XF, Shangguan YF. et al. Effects of enhanced recovery after surgery in Total knee arthroplasty for patients older than 65 years. Orthop Surg 2019;11:229–35. https://doi. org/10.1111/os.12441. 29. Plessl D, Salomon B, Haydel A. et al. Rapid versus standard recovery protocol is associated with improved recovery of range of motion 12 weeks after Total knee arthroplasty. J Am Acad Orthop Surg 2020;28:e962–8. https://doi.org/10.5435/JAAOSD-19-00597. 30. Zhang C, Xiao J. Application of fast-track surgery combined with a clinical nursing pathway in the rehabilitation of patients undergoing total hip arthroplasty. J Int Med Res 2020;48: 300060519889718. https://doi.org/10.1177/0300060519889718. 31. Arienti C, Pollet J, Buraschi R. et al. Fast-track rehabilitation after total knee arthroplasty reduces length of hospital stay: a prospective, case-control clinical trial. Turk J Phys Med Rehabil 2020;66:398–404. https://doi.org/10.5606/tftrd.2020.6266. 32. Chung MMT, Ng JKF, Ng FY. et al. Effects of enhanced recovery after surgery practices on postoperative recovery and length of stay after unilateral primary total hip or knee arthroplasty in a private hospital. Hong Kong Med J 2021;27:437–43. https://doi. org/10.12809/hkmj208587. 33. de Carvalho Almeida RF, Serra HO, de Oliveira LP. Fast-track versus conventional surgery in relation to time of hospital discharge following total hip arthroplasty: a single-center prospective study. J Orthop Surg Res 2021;16:488. https://doi.org/10.1186/ s13018- 021- 02640- x. 34. Gleicher Y, Siddiqui N, Mazda Y. et al. Reducing acute hospitalization length of stay after total knee arthroplasty: a quality improvement study. J Arthroplasty 2021;36:837–44. https://doi. org/10.1016/j.arth.2020.09.054. 35. Picart B, Lecoeur B, Rochcongar G. et al. Implementation and results of an enhanced recovery (fast-track) program in total knee replacement patients at a French university hospital. Orthop Traumatol Surg Res 2021;107:102851. https://doi. org/10.1016/j.otsr.2021.102851. 36. Wei B, Tang C, Li X. et al. Enhanced recovery after surgery protocols in total knee arthroplasty via midvastus approach: a randomized controlled trial. BMC Musculoskelet Disord 2021;22:856. https://doi.org/10.1186/s12891-021-04731-6. 37. Wu Y, Xue H, Zhang W. et al. Application of enhanced recovery after surgery in total knee arthroplasty in patients with haemophilia a: a pilot study. Nurs Open 2021;8:80–6. https://doi. org/10.1002/nop2.605. 38. Zhong M, Liu D, Tang H. et al. Impacts of the perioperative fast track surgery concept on the physical and psychological rehabilitation of total hip arthroplasty: a prospective cohort study of 348 patients. Medicine 2021;100:e26869. https://doi.org/10.1097/ MD.0000000000026869. 39. Aguado-Maestro I, Cebrián-Rodríguez E, Fraile-Castelao O. et al. [Translated article] Implementation of a rapid recovery protocol in total knee arthroplasty. A randomised controlled trial. Rev
+
+Enhanced recovery after surgery in patients after hip and knee arthroplasty | 173
+
+Downloaded from https://academic.oup.com/pmj/article/100/1181/159/7486536 by guest on 31 July 2026
+
+Esp Cir Ortop Traumatol 2022;66:T380–8. https://doi.org/10.1016/ j.recot.2022.07.008. 40. Azam MQ, Goyal T, Paul S. et al. Enhanced recovery protocol after single-stage bilateral primary total knee arthroplasty decreases duration of hospital stay without increasing complication rates. Eur J Orthop Surg Traumatol 2022;32:711–7. https:// doi.org/10.1007/s00590- 021- 03031- y. 41. Gooch K, Marshall DA, Faris PD. et al. Comparative effectiveness of alternative clinical pathways for primary hip and knee joint replacement patients: a pragmatic randomized, controlled trial. Osteoarthr Cartil 2012;20:1086–94. https://doi.org/10.1016/j. joca.2012.06.017. 42. Glassou EN, Pedersen AB, Hansen TB. Risk of re-admission, reoperation, and mortality within 90 days of total hip and knee arthroplasty in fast-track departments in Denmark from 2005 to 2011. Acta Orthop 2014;85:493–500. https://doi. org/10.3109/17453674.2014.942586. 43. Stowers MD, Manuopangai L, Hill AG. et al. Enhanced recovery after surgery in elective hip and knee arthroplasty reduces length of hospital stay. ANZ J Surg 2016;86:475–9. https://doi. org/10.1111/ans.13538. 44. Berg U, BuLow E, Sundberg M. et al. No increase in readmissions or adverse events after implementation of fast-track program in total hip and knee replacement at 8 Swedish hospitals: an observational before-and-after study of 14,148 total joint replacements 2011-2015. Acta Orthop 2018;89:522–7. https://doi. org/10.1080/17453674.2018.1492507. 45. Ripollés-Melchor J, Ripollés-Melchor J, Abad-Motos A. et al. Association‘ between use of enhanced recovery after surgery protocol and postoperative complications in total hip and knee arthroplasty in the postoperative outcomes within enhanced recovery after surgery protocol in elective Total hip and knee arthroplasty study (POWER2). JAMA Surg 2020;155:e196024. https://doi.org/10.1001/jamasurg.2019.6024. 46. Elmoghazy AD, Lindner N, Tingart M. et al. Conventional versus fast track rehabilitation after total hip replacement: a randomized controlled trial. J Orthop Trauma Rehab 2022;29: 22104917221076501. https://doi.org/10.1177/22104917221076501. 47. Auyong DB, Allen CJ, Pahang JA. et al. Reduced length of hospitalization in primary total knee arthroplasty patients using an updated enhanced recovery after orthopedic surgery (ERAS) pathway. J Arthroplasty 2015;30:1705–9. https://doi.org/10.1016/j. arth.2015.05.007. 48. Pamilo KJ, Torkki P, Peltola M. et al. Fast-tracking for total knee replacement reduces use of institutional care without compromising quality. Acta Orthop 2018;89:184–9. https://doi. org/10.1080/17453674.2017.1399643. 49. Pamilo KJ, Torkki P, Peltola M. et al. Reduced length of uninterrupted institutional stay after implementing a fast-track protocol for primary total hip replacement. Acta Orthop 2018;89:10–6. https://doi.org/10.1080/17453674.2017.1370845. 50. Petersen MK, Andersen NT, Soballe K. Self-reported functional outcome after primary total hip replacement treated with two different periopera-tive regimes: a follow-up study
+
+involving 61 patients. Acta Orthop 2008;79:160–7. https://doi. org/10.1080/17453670710014932. 51. Malviya A, Martin K, Harper I. et al. Enhanced recovery program for hip and knee replacement reduces death rate. Acta Orthop 2011;82:577–81. https://doi.org/10.3109/17453674.2011.618911. 52. McDonald DA, Siegmeth R, Deakin AH. et al. An enhanced recovery programme for primary total knee arthroplasty in the United Kingdom–follow up at one year. Knee 2012;19:525–9. https://doi. org/10.1016/j.knee.2011.07.012. 53. Scott NB, McDonald D, Campbell J. et al. The use of enhanced recovery after surgery (ERAS) principles in Scottish orthopaedic units–an implementation and follow-up at 1 year, 20102011: a report from the musculoskeletal audit, Scotland. Arch Orthop Trauma Surg 2013;133:117–24. https://doi.org/10.1007/ s00402- 012- 1619- z. 54. Maempel JF, Walmsley PJ. Enhanced recovery programmes can reduce length of stay after total knee replacement without sacrificing functional outcome at one year. Ann R Coll Surg 2015;97: 563–7. https://doi.org/10.1308/rcsann.2015.0016. 55. Castorina S, Guglielmino C, Castrogiovanni P. et al. Clinical evidence of traditional vs fast track recovery methodologies after total arthroplasty for osteoarthritic knee treatment. A retrospective observational study. Muscles Ligaments Tendons J 2017;7:504–13. https://doi.org/10.11138/mltj/2017.7.3.504. 56. Khan SK, Malviya A, Muller SD. et al. Reduced short-term complications and mortality following enhanced recovery primary hip and knee arthroplasty: results from 6,000 consecutive procedures. Acta Orthop 2014;85:26–31. https://doi. org/10.3109/17453674.2013.874925. 57. Jansen JA, Kruidenier J, Spek B. et al. A cost-effectiveness analysis after implementation of a fast-track protocol for total knee arthroplasty. Knee 2020;27:451–8. https://doi.org/10.1016/j. knee.2019.09.014. 58. Zhu S, Qian W, Jiang C. et al. Enhanced recovery after surgery for hip and knee arthroplasty: a systematic review and metaanalysis. Postgrad Med J 2017;93:736–42. https://doi.org/10.1136/ postgradmedj-2017-134991. 59. Deng QF, Gu HY, Peng WY. et al. Impact of enhanced recovery after surgery on postoperative recovery after joint arthroplasty: results from a systematic review and metaanalysis. Postgrad Med J 2018;94:678–93. https://doi.org/10.1136/ postgradmedj-2018-136166. 60. Hu ZC, He LJ, Chen D. et al. An enhanced recovery after surgery program in orthopedic surgery: a systematic review and metaanalysis. J Orthop Surg Res 2019;14:77. https://doi.org/10.1186/ s13018- 019- 1116- y. 61. Morrell AT, Layon DR, Scott MJ. et al. Enhanced recovery after primary Total hip and knee arthroplasty: a systematic review. J Bone Joint Surg Am 2021;103:1938–47. https://doi.org/10.2106/ JBJS.20.02169. 62. Jiang M, Liu S, Deng H. et al. The efficacy and safety of fast track surgery (FTS) in patients after hip fracture surgery: a metaanalysis. J Orthop Surg Res 2021;16:162. https://doi.org/10.1186/ s13018- 021- 02277- w.

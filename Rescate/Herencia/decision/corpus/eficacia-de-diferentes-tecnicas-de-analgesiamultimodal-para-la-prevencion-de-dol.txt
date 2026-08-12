@@ -1,0 +1,360 @@
+INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
+
+REV COLOMB ANESTESIOL. 2018;46(Sup):9-17
+
+Colombian Journal of Anesthesiology
+Revista Colombiana de Anestesiología
+www.revcolanest.com.co
+
+OPEN
+
+Eﬁcacia de diferentes técnicas de analgesia multimodal para la prevención de dolor moderado a severo en reemplazo total primario de rodilla
+Efﬁcacy of different multimodal analgesia techniques to prevent moderate to severe pain in primary total knee arthroplasty
+Fabián Camilo Dorado-Velascoa, Natalia Satizábal-Padridínb
+a Clínia del Dolor Agudo, Fundación Valle del Lili. Cali, Colombia b Servicio de Anestesiología, Fundación Valle del Lili, Centro de Investigaciones Clínicas. Cali,
+Colombia.
+
+Palabras clave: Artroplastia de Reemplazo de Rodilla, Analgesia, Dolor Posoperatorio, Terapia por Ejercicio, Bloqueo Nervioso
+Keywords: Arthroplasty Replacement Knee, Analgesia, Pain Postoperative, Exercise Therapy, Nerve Block
+
+Resumen
+Introducción: La osteoartritis es una de las enfermedades más prevalentes, siendo la rodilla la articulación más afectada en mujeres mayores de 70 años. El reemplazo total primario de rodilla es un tratamiento deﬁnitivo y costoeﬁciente. El grupo etario, las comorbilidades, y la alta incidencia de dolor postoperatorio moderado a severo, hacen del manejo anestésico y analgésico un reto.
+Objetivos: Describir la eﬁcacia de las diferentes técnicas de analgesia multimodal usadas en el reemplazo total primario de rodilla en términos de dolor moderado a severo durante las primeras 48 horas postoperatorias.
+Materiales y métodos: Estudio observacional donde se analizaron los registros médicos de 79 pacientes sobre características clínicas, anestésicas y analgésicas durante 10 meses. Se calculó como resultado primario la incidencia de dolor postoperatorio moderado a severo inmediato, a las 24 y 48 horas y,
+
+como resultado secundario, el cumplimiento de metas de rehabilitación.
+Resultados: En el 89% se usó anestesia regional. Con el catéter perineural femoral más bloqueo de nervio ciático en dosis unica (47%), la incidencia de dolor moderado a severo postoperatorio inmediato, a las 24 y 48 horas fue 5, 16 y 14% respectivamente. Con anestesia regional dosis unica fue 43, 34 y 36% en su orden. El cumplimiento de los objetivos de rehabilitación fue similar para las diferentes técnicas analgésicas.
+Conclusiones: La anestesia regional fue usada en la mayoría, aunque de forma heterogénea. El catéter perineural femoral se asocia a menor incidencia de dolor moderado a severo postoperatorio, resultados acordes a lo mencionado en la literatura revisada.
+Abstract
+Introduction: Osteoarthritis is one of the most prevalent diseases and the knee is the most affected joint in women over 70 years old.
+
+Cómo citar este artículo: Dorado-Velasco FC, Satizábal-Padridín N. Eﬁcacia de diferentes técnicas de analgesia multimodal para la prevención de dolor moderado a severo en reemplazo total primario de rodilla. Rev Colomb Anestesiol. 2018;46:9–17.
+Read the English version of this article at: http://links.lww.com/RCA/A116. Copyright © 2018 Sociedad Colombiana de Anestesiología y Reanimación (S.C.A.R.E.). Published by Wolters Kluwer. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). Correspondencia: Cra 98 # 18–49 2do piso Torre 1 Anestesiología, Fundación Valle del Lili. Cali, Colombia. Correo electrónico: fabiancdv@hotmail.com
+Rev Colomb Anestesiol (2018) 46:Sup
+http://dx.doi.org/10.1097/CJ9.0000000000000039
+
+9
+
+COLOMBIAN JOURNAL OF ANESTHESIOLOGY
+
+INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
+
+Primary total knee replacement is a deﬁnitive and costeffective treatment. The age group, the comorbidities, and the high incidence of postoperative moderate to severe pain are challenging for anesthesia management.
+Objectives: To describe the efﬁcacy of different multimodal analgesia techniques used in primary total knee replacement in terms ofmoderate to severe pain, during the ﬁrst 48 postoperative hours.
+Materials and methods: Observational trial analyzing the medical records of 79 patients, focusing on the clinical, anesthetic, and analgesic characteristics over 10 months. The primary outcome was the incidence of moderate to severe immediate postoperative pain, after 24 and 48hours; the secondary outcome was compliance with the rehabilitation goals.
+Results: Regional anesthesia was used in 89% of the patients. Using the femoral perineural catheter in addition to single-dose sciatic nerve block (47%), the incidence of immediate moderate to severe postoperative pain and after 24 and 48hours was 5%, 16%, and 14%, respectively, while with single-dose regional anesthesia, the incidence was 43%, 34%, and 36%, respectively. The level of compliance with the rehabilitation goals was similar among the various analgesic techniques.
+Conclusions: Regional anesthesia was used in most cases, although in a heterogeneous manner. The femoral perineural catheter is associated with a lower incidence of postoperative moderate to severe pain, and the results are consistent with the literature reviewed.
+Introducción
+El reemplazo total primario de rodilla (RTPR) es considerado una opción eﬁcaz para el manejo de la patología articular severa de rodilla.1–4 El diagnóstico más comunmente asociado es la osteoartritis,5 pues genera dolor severo y reducción del rango de movilidad con limitación en las actividades diarias del paciente y disminución de la calidad de vida.5–8 La prevalencia de osteoartritis sintomática es de hasta 26% en mujeres mayores de 70 años, siendo la rodilla la articulación más afectada.9 La falla terapéutica a medidas convencionales y el grado de afectación en la calidad de vida, asociado a signos radiológicos propios, conﬁguran la indicación para realizar el procedimiento. Una forma de medir la presencia y severidad de estos factores es la escala de Oxford, descrita por primera vez en 1998 por Dawson, et al., que evalua dolor, funcionalidad, calidad de vida e interferencia de los síntomas con las actividades diarias.10 Sirve como valoración inicial del compromiso articular del paciente y para seguimiento postoperatorio.
+Debido al envejecimiento demográﬁco, se ha observado en los ultimos años un aumento importante en la tasa de RTPR en varios países del mundo7,10 y, segun Kurtz et al. se espera que para el año 2030 su demanda aumente en un 673%, llegando a los 570.000 casos en Estados Unidos.11 En la Fundación Valle del Lili, siendo un centro de alta
+
+complejidad donde se realizan aproximadamente 15.000 cirugías al año, este procedimiento fue realizado 114 y 127 veces en los años 2015 y 2016 respectivamente, con lo que se deduce que su tendencia es al aumento.
+Se ha observado una proporción considerable de pacientes con persistencia de dolor osteoarticular crónico postquirurgico a pesar de haberse realizado exitosamente el procedimiento,12,13 situación que afecta negativamente la satisfacción del paciente a largo plazo.14 Por esto, la participación de anestesiología en el equipo multidisciplinario, debe ser activa y directa al intervenir en el manejo analgésico inmediato y a corto plazo de estos pacientes,15 ya que el dolor severo en el postquirurgico inmediato puede ser un factor aditivo para el desarrollo de dolor crónico postquirurgico.
+El RTPR presenta muchos retos en cuanto al manejo anestésico y analgésico, ya que la población que con mayor frecuencia es candidata a este tipo de cirugía, son adultos mayores con grados avanzados de artrosis articular, con tendencia a la obesidad y con multiples comorbilidades.16,17 Además, por factores derivados de la práctica clínica y directamente del paciente, los resultados en la recuperación inmediata en términos de severidad del dolor agudo postoperatorio y el cumplimiento de metas tempranas de rehabilitación física, son heterogéneos. La utilización de técnicas anestésicas para este procedimiento deben estar dirigidas hacia el adecuado control del dolor postoperatorio, con la menor tasa de efectos secundarios y con la menor interferencia en el proceso de recuperación.10,18
+Dentro del manejo anestésico, las técnicas de analgesia regional son una opción eﬁciente para la prevención del dolor moderado a severo postoperatorio,19 siempre que se acomode a las necesidades del paciente en su recuperación. La preservación de la funcionalidad muscular para facilitar la rehabilitación ha sido la principal motivación en la busqueda de alternativas a las técnicas regionales convencionales, como la infusión perineural continua de anestésicos locales por catéter femoral y el bloqueo del nervio ciático (BNC).20 El riesgo de caídas, otra preocupación en el manejo de estos pacientes, ha demostrado ser multifactorial y no relacionado directamente con el uso de anestesia regional (AR).21 La inﬁltración local periarticular22 y el bloqueo de canal de aductores (BCA)23 que evita la parálisis del cuádriceps y la utilización de medicamentos anti-hiperalgésicos en el perioperatorio,24,25 son tendencia actualmente en el manejo analgésico de estos pacientes. Hoy, la posibilidad de implementar la anestesia regional como técnica estándar segun lo recomendado por algunas asociaciones cientíﬁcas, depende de la disponibilidad de recursos materiales y humanos con la competencia suﬁciente para hacerlo de forma segura y eﬁciente.5,10
+En nuestra práctica clínica diaria, la aplicación de diferentes técnicas de analgesia multimodal genera resultados heterogéneos en la evolución sintomática de esta población y, posiblemente en el cumplimiento de los
+
+10
+
+REV COLOMB ANESTESIOL. 2018;46(Sup):9-17
+
+INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
+
+objetivos del plan de rehabilitación intrahospitalaria. En este estudio se buscó caracterizar la población de pacientes sometidos a RTPR con información procedente de la revisión de registros médicos sobre características clínicas, anestésicas y analgésicas durante 10 meses. Se calculó como resultado primario la incidencia de dolor postoperatorio moderado a severo inmediato, a las 24 y 48 horas y, como resultado secundario, el cumplimiento de más del 50 y 70% en las metas del plan de rehabilitación.
+Métodos
+Acorde a las normas para estudios con sujetos humanos de la Organización Mundial de la Salud (OMS) y la Organización Panamericana de la Salud (OPS) respaldadas en la declaración de Helsinki y las Normas Cientíﬁcas, Técnicas y Administrativas para la Investigación en Salud, establecidas en la Resolución No.008430 de 1993 del Ministerio de Salud de Colombia, la investigación biomédica debe realizarse de conformidad con los principios de respeto por las personas, beneﬁcencia y justicia. De acuerdo a las categorías de riesgo establecidas y al no realizar intervención directa con los participantes, este estudio se consideró sin riesgo, por lo que se omitió el uso de consentimiento informado. Este estudio obtuvo aprobación del Comité de Ética en Investigación Biomédica institucional, y ﬁnanciación por parte de la Fundación Valle del Lili.
+Este es un estudio de tipo observacional descriptivo de pacientes a quienes se les realizó RTPR segun indicación del servicio de ortopedia desde septiembre de 2016 hasta junio de 2017. Se recolectó información demográﬁca y clínica procedente de la revisión de registros médicos para la construcción de la base de datos usando la valoración por ortopedia y medicina interna, la valoración preanestésica, el informe anestésico y el seguimiento por la Clínica de Dolor Agudo (CDA), ﬁsiatría y ﬁsioterapia. La técnica anestésica y analgésica fue escogida a discreción del paciente y del anestesiólogo a cargo.
+De rutina, la clínica de dolor agudo, dependencia directa del servicio de anestesiología, realizó seguimiento postoperatorio diario a estos pacientes, se evaluó la efectividad del esquema analgésico en términos de severidad del dolor, la realización de actividades básicas de recuperación y la ocurrencia de efectos adversos, indicando ajustes en el manejo segun lo requerido. Para la evaluación del dolor se utilizó la escala verbal numérica de dolor (Numerical Rating Scale NRS) con puntajes de 0 a 10 dependiendo de la intensidad del dolor referido, siendo 0 ausencia de dolor y, 10 el peor dolor imaginado por el paciente. En los casos en que la utilización de la escala NRS no fue posible, la mayoría de las veces por la no comprensión del paciente, se usó la escala categórica del dolor en leve, moderado o severo. Para el análisis de este estudio se homogeneizaron las descripciones de la severidad del dolor de la escala NRS a la categórica con
+
+la siguiente equivalencia: sí 1 a 3, leve; 4 a 6, moderado; y 7 a 10, severo, segun lo validado en otros estudios de dolor postoperatorio.26 Se considera efectiva la técnica analgésica usada si en el postoperatorio el paciente presenta dolor leve o su equivalente en la escala NRS. Se calculó la incidencia de dolor moderado a severo en reposo en la Unidad de Cuidados Postanestésicos (UCPA), a las 24 y 48 horas postoperatorias como medida de efectividad de cada técnica analgésica, ya que este grado de severidad del dolor indica cambios en el esquema analgésico, principalmente adición o aumento de opioides fuertes y/o coadyuvantes segun lo protocolizado en la institución, con la posibilidad de incremento de efectos adversos secundarios a estos.
+Se recolectaron los resultados de la valoración realizada por el grupo de ﬁsiatría y ﬁsioterapia, quienes miden el cumplimiento de los objetivos del plan de rehabilitación temprana institucional (modulación del dolor, extensión pasiva de la rodilla a 0°, ﬂexión de rodilla mínimo de 90°, contracción activa de cuádriceps, entrenamiento en transiciones [decubito supino a sedente borde de cama y viceversa], marcha con asistencia externa [caminador] y, educación al paciente y familia sobre plan de ejercicios y precauciones de movilización) con un puntaje porcentual de 0 a 100%. Se calculó el porcentaje de pacientes que cumplieron más del 50% y 70% de los objetivos de rehabilitación intrahospitalarios segun la técnica analgésica usada.
+Como regla general, pacientes que tuvieran datos faltantes en la totalidad de su seguimiento fueron excluidos del estudio. Un total de 6 pacientes tuvieron seguimiento por CDA solo hasta las primeras 24 horas postoperatorias. Esto corresponde a la diferencia del total de pacientes observada en la medición del dolor postoperatorio a las 48 horas. Por lo tanto, no se incluyen en el análisis y se ajusta el numero total de pacientes para esa medición.
+Análisis estadístico
+La distribución de las variables fue evaluada con la prueba Shapiro Wilk. Se utilizaron como medidas de tendencia central la mediana o el promedio, y como medidas de dispersión, la desviación estándar (DS) y rango intercuartílico (RIQ), segun correspondía. Las variables categóricas se presentaron como porcentajes.
+La frecuencia de las técnicas anestésicas y analgésicas fue calculada como proporciones, tomando como numerador cada técnica y, como denominador el total de pacientes. La valoración categórica del dolor en los diferentes momentos de medición se calculó como proporción tomando como numerador el numero de pacientes con este evento y como denominador el total de pacientes en el estudio. La incidencia de dolor postoperatorio moderado a severo en UCPA, a las 24 y 48 horas segun la técnica analgésica, fue calculada como un porcentaje, tomando como numerador el numero de
+
+11
+
+COLOMBIAN JOURNAL OF ANESTHESIOLOGY
+
+INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
+
+Figura 1. Flujograma de pacientes con las diferentes técnicas de anestesia general y anestesia regional en pacientes sometidos a RTR que ingresaron al estudio en el periodo septiembre 2016 a junio 2017. Fuente: Autores.
+
+pacientes con dolor moderado a severo y como denominador el numero total de pacientes con cada técnica analgésica. De la misma forma se calculó el porcentaje de pacientes que cumplieron más del 50 y 70% de los objetivos de rehabilitación segun cada técnica analgésica. Se realizaron tablas de frecuencia y gráﬁcos de barras mostrando la información obtenida. Se utilizó el programa Stata 14® para el análisis estadístico (StataCorp. 2015. Stata Statistical Software: Release 14. College Station, TX: StataCorp LP).
+Resultados
+Desde septiembre 2016 a junio 2017 se realizaron 79 RTPR (Figura 1). Las características demográﬁcas y clínicas de la población y el manejo anestésico y analgésico usado en el transoperatorio se exponen en la Tabla 1. La evaluación categórica del dolor en cada momento de medición se visualiza en la Figura 2. La incidencia de dolor moderado a severo con las diferentes técnicas de analgesia multimodal en los 3 momentos de medición se muestra en la Figura 3. La incidencia del cumplimiento de objetivos en terapia física a las 48 horas postoperatorias segun las diferentes técnicas de analgesia multimodal se muestra en la Tabla 2.
+De los factores de riesgo conocidos que se asocian con mayor severidad del dolor postoperatorio, se observó que de los pacientes que reportaron dolor moderado a severo a las 48 horas postoperatorias, 68,7% eran mayores de 65 años y tenían algun antecedente cardiovascular, 62,5% presentaban un índice de masa corporal (IMC) mayor o igual a 30, y en 62,5% se utilizó remifentanyl en el manejo anestésico.
+
+Se evidenció que las técnicas de anestesia regional fueron usadas en la mayoría de los pacientes, y se pudieron caracterizar en bloqueo nervioso dosis unica e infusión perineural continua. Justiﬁcado por la homogeneidad de la población, el numero similar de pacientes con cada técnica y la marcada diferencia en la incidencia de dolor moderado a severo postoperatorio inmediato y a las 24 horas, se realizaron las pruebas analíticas Chi2 y Fisher para buscar la relación entre cada técnica y la severidad del dolor, a pesar de ser un estudio observacional. Se encontró una relación estadísticamente signiﬁcativa (p < 0,05) entre el porcentaje de pacientes con dolor leve en UCPA y el uso de técnicas de analgesia multimodal con infusión perineural continua. Igualmente, entre el porcentaje de pacientes con dolor moderado a severo con el uso de anestesia regional dosis unica en UCPA. Esta relación no se mantuvo a las 24 horas. El mismo análisis se utilizó para evaluar la relación entre el cumplimiento del 50 y 70% de los objetivos en rehabilitación física segun la técnica de analgesia multimodal usada, sin encontrar relación estadísticamente signiﬁcativa (p > 0,05).
+Discusión
+Las características de la población observada en este estudio corresponde de forma general a aquella reportada en revisiones recientes,27 en la que se evidenció una alta prevalencia de comorbilidades y de factores asociados a difícil manejo de dolor postoperatorio. La analgesia multimodal, que incluye varios fármacos asociados a técnicas de anestesia regional (AR) fue usada en la mayoría de los casos. En una proporción similar se realizaron procedimientos de anestesia regional en dosis
+
+12
+
+INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
+
+REV COLOMB ANESTESIOL. 2018;46(Sup):9-17
+
+Tabla 1. Características demográﬁcas, clínicas y del manejo anestésico y analgésico de los pacientes sometidos a RTPR
+
+Variable
+∗
+Edad
+
+N (%) n = 79 70 (63–77)
+
+Género femenino
+∗
+IMC
+
+62 (78.5) 29.97 (26.6–33)
+
+Diagnóstico principal
+
+Osteoartrosis
+
+75 (94.9)
+
+Artritis
+
+2 (2.5)
+
+Secuelas de traumatismo
+
+1 (1.3)
+
+Otro
+∗
+Escala de Oxford
+
+1 (1.3) 14 (11–18)
+
+Antecedentes médicos
+
+Diabetes mellitus
+
+9 (11.4)
+
+Enfermedad cardiovascular
+
+47 (59.5)
+
+Enfermedad renal crónica
+
+3 (3.8)
+
+Ansiedad - Depresión
+
+5 (6.3)
+
+Uso regular de opioide débil
+
+1 (1.3)
+
+Uso regular de ISRS
+
+7 (8.9)
+
+Uso regular de benzodiacepínicos
+
+1 (1.3)
+
+Técnica anestésica
+
+Infusión de remifentanyl
+
+50 (63.3)
+
+Uso de fentanyl
+
+53 (67.1)
+
+Anestesia neuroaxial
+
+16 (20.3)
+
+Analgesia regional
+
+BNF
+
+4 (5.1)
+
+BNF + bloqueo de nervio ciático
+
+31 (39.2)
+
+CPF + bloqueo de nervio ciático
+
+36 (45.6)
+
+Manejo analgésico IOP
+
+Morﬁna intratecal
+
+6 (7.6)
+
+AINEs
+
+41 (51.9)
+
+Dipirona
+
+47 (59.5)
+
+Ketamina
+
+26 (32.9)
+
+Opioide fuerte
+
+36 (45.6)
+
+∗
+Valor expresado en mediana (RIQ), IMC, Índice de masa corporal; ISRS, Inhibidores selectivos de la recaptura de serotonina; BNF, Bloqueo de nervio femoral; CPF, Catéter perineural femoral; IOP, Intraoperatorio; AINEs, Antiinﬂamatorio no esteroideo. Fuente: Autores.
+
+unica y en infusión continua con catéter perineural femoral. Se pudo observar que esta ultima fue más eﬁcaz en la prevención del dolor moderado a severo en el postoperatorio durante las primeras 48 horas de observación, aunque esta diferencia fue disminuyendo a lo largo del tiempo como muestra la Figura 3, posiblemente por la intervención que se realiza durante el manejo intrahospitalario por el equipo multidisciplinario. Adicionalmente, un poco más de la mitad de los pacientes cumplieron al menos el 50% de las metas de rehabilitación, indistintamente de la técnica analgésica usada.
+Estos resultados muestran amplia heterogeneidad de combinaciones en el manejo anestésico y analgésico en la práctica diaria en una institución de referencia, hecho que pudiese ser representativo de la realidad general de instituciones similares en el país. Además, son una motivación para buscar la estandarización de las técnicas anestésicas para este tipo de procedimiento especíﬁco, y para la capacitación del personal de anestesiología en el uso de técnicas avanzadas de AR como catéteres perineurales, o bien, el establecimiento de técnicas alternativas en aquellos casos en los que no se es posible la AR, ya sea por factores logísticos o intrínsecos del paciente. Implementar, de forma sistemática, esquemas que pudiesen ser más eﬁcaces en el manejo de dolor postoperatorio y con mayor posibilidad de cumplir objetivos en rehabilitación postoperatoria, es una necesidad apremiante.
+Hay factores no reconocidos ni manejados previamente a la cirugía, que podrían contribuir a la heterogeneidad encontrada en la respuesta analgésica de estos pacientes. Aunque siendo una indicación quirurgica la ausencia de respuesta a manejo conservador durante seis meses, se desconoce el grado de adherencia a las diferentes guías de tratamiento establecidas por sociedades cientíﬁcas28 para el manejo de la osteoartritis. Esto es evidente, en la falta de datos sobre el tratamiento farmacológico en los registros clínicos de atención de estos pacientes. Un apropiado manejo del dolor en el periodo previo a la cirugía, podría disminuir la posibilidad de presentar fenómenos de sensibilización central, que lleve a la magniﬁcación de síntomas en el periodo perioperatorio. La sensibilización central, además de la alteración de los sistemas de control descendente generados por la presencia de dolor crónico, se han identiﬁcado como posibles causas de la hiperalgesia presente en los tejidos circundantes a la articulación de la rodilla. Esto es evidente, al realizar pruebas que muestran menor tolerancia a la presión y temperatura en pacientes con dolor severo por osteoartritis, en comparación con controles sanos y con osteoartritis con dolor no severo.29 Adicionalmente, se ha relacionado la hiperalgesia con el consumo previo de opioides, aun a bajas dosis, en pacientes con patologías osteoarticulares crónicas y que reciben manejo quirurgico para estas.30
+Las técnicas de AR se reconocen como estrategias analgésicas utiles por grupos de trabajo multidisciplinarios como el grupo PROSPECT (siglas en ingles de Procedure
+
+13
+
+COLOMBIAN JOURNAL OF ANESTHESIOLOGY
+
+INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
+
+Figura 2. Clasiﬁcación del dolor postoperatorio en los diferentes momentos de medición. Fuente: Autores.
+
+Speciﬁc Postoperative Pain Management), que a partir de la revisión sistemática de la literatura, genera recomendaciones basadas en el nivel de evidencia disponible para cada estrategia analgésica en diferentes procedimientos quirurgicos.31 Es llamativo que aunque la ultima revisión de bases de datos fue realizada hace relativamente poco, con corte a noviembre del 2015, el nivel de evidencia no fue suﬁciente para recomendar técnicas combinadas de AR como el bloqueo de nervio femoral (BNF) en conjunto con el BNC y/o bloqueo de nervio obturador (BNO), al igual que técnicas alternativas como analgesia intraarticular o TENS
+
+(Transcutaneuous Electrical Nerve Stimulation) en el RTPR.32
+A pesar del BNC ser una de las técnicas de anestesia regional más usada en este estudio (85%), en las ultimas revisiones sistemáticas realizadas en los años 201133 y 2016,20 su uso en conjunto con el BNF en dosis unica o
+infusión perineural continua, parece no tener ventajas de
+importancia clínica luego de las primeras 12 horas
+postoperatorias, en comparación con el uso aislado del
+BNF. La preocupación sobre la limitación en la realización de maniobras de rehabilitación, el riesgo de praxia del
+
+Figura 3. Incidencia de dolor postoperatorio moderado a severo segun las diferentes técnicas de analgesia multimodal en los diferentes momentos de medición. Fuente: Autores.
+14
+
+INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
+
+REV COLOMB ANESTESIOL. 2018;46(Sup):9-17
+Tabla 2. Incidencia del cumplimiento de objetivos en terapia física a las 48 horas postoperatorias segun las diferentes técnicas de analgesia multimodal
+Cumplimiento de >50% de los objetivos en TF Cumplimiento de >70% de los objetivos en TF
+
+Analgésico IV n = 8
+
+N
+
+Incidencia
+
+N
+
+3
+
+37,5%
+
+1
+
+AR DU n = 35
+
+18
+
+51,4%
+
+10
+
+AC/CPF n = 36
+
+18
+
+50,0%
+
+13
+
+TF, Terapia física; IV, Intravenoso; AR, Anestesia regional; DU, Dosis unica; CPF, catéter perineural femoral. Fuente: Autores.
+
+Incidencia 12,5% 28,6% 36,1%
+
+nervio ciático como complicación intrínseca a la cirugía y, el impacto negativo en tiempo, costos y seguimiento de estos pacientes, ha generado gran discusión acerca del uso de este bloqueo nervioso de forma sistemática.34
+Los estudios anatómicos realizados recientemente que evidencian la complejidad de la inervación sensitiva de la rodilla,35,36 han sido la base para el planteamiento de nuevas alternativas en procedimientos de AR. Uno de ellos es el bloqueo de canal de aductores (BCA), que al bloquear selectivamente el nervio del musculo vasto medial y el nervio safeno,37 presenta efectividad similar que el BNF para el manejo analgésico en pacientes sometidos a RTPR, permitiendo además la preservación de la fuerza del cuádriceps en las primeras 24 horas, y facilitando la deambulación con una disminución en el tiempo del test Time Up and Go (TUG), aunque solo de forma signiﬁcativa a las 6 horas en pacientes mayores de 68 años.38 Al igual que en este estudio, el dolor en movimiento durante la terapia física (TF) a las 48 horas fue moderado a severo en una mayor proporción.
+Cabe resaltar que no se encontró relación entre la técnica analgésica usada y el cumplimiento de más del 50, ni 70% de los objetivos de rehabilitación física. Por lo que se postula qué no solo la técnica analgésica es responsable de este resultado. Así lo expone un reciente meta-análisis, donde no se demuestra diferencia en la fuerza del cuádriceps con el uso de BNF o BCA en el RTPR,39 aunque con una amplia heterogeneidad en los resultados.
+En este estudio se evidencia que las técnicas de AR con infusión perineural femoral continua asociado al BNC dosis unica, son más efectivas en el control del dolor agudo y, se relaciona con mayor proporción de pacientes que presentan dolor leve en el área de UCPA con una signiﬁcancia estadística. Es diferente el caso de las técnicas de bloqueo nervioso dosis unica, pues presentan mayor proporción de pacientes con dolor moderado a severo en UCPA. Es posible que la experticia del anestesiólogo con el uso regular de catéteres perineurales, cuyo posicionamiento requiere mayor habilidad y destreza en técnicas avanzadas de anestesia regional,40 pueda ser un factor determinante para el éxito de estos procedimientos analgésicos en el postoperatorio inmediato.
+
+A pesar de la poca evidencia que sustenta el uso de algunas técnicas regionales puras y/o combinadas sobre otras, en un meta-análisis en red de reciente publicación se muestra que las opciones terapéuticas que más han sido evaluadas en ensayos clínicos controlados (RCT), incluyen el BNF (como dosis unica o infusión continua), analgesia epidural, inﬁltración periarticular y la combinación de BNF y BNC comparados mayoritariamente con administración de opioides por sistema PCA (Patient Controlled Analgesia).41 El mejor perﬁl de efectividad en cuanto a dolor en reposo, movimiento, consumo de opioides y rango de movilidad de la rodilla en las primeras 72 horas postoperatorias, lo tienen las técnicas de AR combinadas. La inﬁltración periarticular tiene menor efectividad para el dolor en reposo que las técnicas de AR, pero supera a la analgesia epidural o la morﬁna intratecal. Igualmente, supera a aquellas que usan bupivacaína liposomal, aunque con menor impacto en el consumo de opioides y el rango de movimiento.
+Esta técnica de inﬁltración periarticular podría ser efectivas asociadas a un esquema de manejo analgésico multimodal bien estructurado segun las necesidades del paciente como fue demostrado en un ensayo clínico controlado (RCT) reciente42 en donde se aleatorizaron pacientes con RTPR en tres brazos, comparando la AR femoral continua más BNC en dosis unica, la inﬁltración periarticular con ropivacaína y la inﬁltración periarticular con bupivacaína liposomal. No se encontraron diferencias signiﬁcativas en el dolor máximo a las 24 horas postoperatorias (categorizada como 2 puntos de diferencia en la escala verbal numérica del dolor entre los grupos de intervención al momento de la medición). Sin embargo, sí la hubo unicamente en la UCPA, siendo el BNF continuo más el BNC en dosis unica la técnica más eﬁciente en lograr dolor leve. Tampoco se encontró diferencia signiﬁcativa en el consumo de opioides a las 24 y 48 horas postoperatorias (categorizada como 20 miligramos de equivalentes orales de morﬁna de diferencia entre los grupos de intervención al momento de la medición).
+Siendo este un trabajo observacional, los resultados pueden verse afectados de forma importante por el azar al
+
+15
+
+INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
+
+COLOMBIAN JOURNAL OF ANESTHESIOLOGY
+
+no haber un cálculo de muestra deﬁnido estadísticamente que permita aumentar la validez interna de este. Los resultados de las pruebas analíticas usadas como indicador de asociación casual entre las técnicas analgesicas y los desenlaces deben ser asumidos cuidadosamente ya que el diseño de este estudio no fue experimental, con la posibilidad de error tipo II que esto implica. Este estudio muestra como en una institución de referencia la analgesia multimodal que incluye procedimientos de anestesia regional es usada ampliamente con una eﬁcacia variable y con una incidencia de dolor moderado a severo postoperatorio que puede ser sujeta a mejoría en el futuro. Se propondrá un diseño experimental que nos permita validar las asociaciones inferidas en este estudio.
+Agradecimientos
+A Robinson Pacheco López, epidemiólogo de la Fundación Valle del Lili, Centro de Investigaciones Clínicas.
+Responsabilidades éticas
+Protección de personas y animales: Los autores declaran que los procedimientos seguidos se conformaron a las normas éticas del comité de experimentación humana responsable y de acuerdo con la Asociación Médica Mundial y la Declaración de Helsinki.
+Conﬁdencialidad de los datos: Los autores declaran que han seguido los protocolos de su centro de trabajo sobre la publicación de datos de pacientes.
+Derecho a la privacidad y consentimiento informado: Los autores declaran que en este artículo no aparecen datos de pacientes.
+Fuente de ﬁnanciación
+El presente estudio tuvo ﬁnanciación de la Fundación Valle del Lili.
+Conﬂicto de interés
+Los autores del presente estudio no tienen conﬂicto de interés que declarar.
+Referencias
+1. Moran CG, Horton TC. Total knee replacement: the joint of the decade. A successful operation, for which there’s a large unmet need. BMJ 2000;320:820.
+2. Callahan CM, Drake BG, Heck DA, Dittus RS. Patient outcomes following tricompartmental total knee replacement. A metaanalysis. JAMA 1994;271:1349–1357.
+3. Kennedy LG, Newman JH, Ackroyd CE, Dieppe PA. When should we do knee replacements? Knee 2003;10:161–166.
+4. Kurtz SM, Ong KL, Lau E, Widmer M, Maravic M, Gómez-Barrena E, et al. International survey of primary and revision total knee replacement. Int Orthop 2011;35:1783–1789.
+5. Mancuso CA, Ranawat CS, Esdaile JM, Johanson NA, Charlson ME. Indications for total hip and total knee arthroplasties. Results of orthopaedic surveys. J Arthroplasty 1996;11:34–46.
+
+6. Quinet RJ, Winters EG. Total joint replacement of the hip and knee. Med Clin North Am 1992;76:1235–1251.
+7. Thomsen MG, Husted H, Otte KS, Orsnes T, Troelsen A. Indications for knee arthroplasty have remained consistent over time. Dan Med J 2012;59:A4492.
+8. Naylor CD, Williams JI. Primary hip and knee replacement surgery: Ontario criteria for case selection and surgical priority. Qual Health Care 1996;5:20–30.
+9. Neogi T, Zhang Y. Epidemiology of osteoarthritis. Rheum Dis Clin North Am 2013;39:1–19.
+10. Wu CL, Raja SN. Treatment of acute postoperative pain. The Lancet 2011;377:2215–2225.
+11. Kurtz S, Ong K, Lau E, Mowat F, Halpern M. Projections of primary and revision hip and knee arthroplasty in the United States from 2005 to 2030∗∗. J Bone Joint Surg Am 2007;89:780–785.
+12. Sakellariou VI, Poultsides LA, Ma Y, Bae J, Liu S, Sculco TP. Risk Assessment for Chronic Pain and Patient Satisfaction After Total Knee Arthroplasty. Orthopedics 2016;39:55–62.
+13. Thomazeau J, Rouquette A, Martinez V, Rabuel C, Prince N, Laplanche JL, et al. Predictive Factors of Chronic Post-Surgical Pain at 6 Months Following Knee Replacement: Inﬂuence of Postoperative Pain Trajectory and Genetics. Pain Physician 2016;19: E729–E741.
+14. Noiseux NO, Callaghan JJ, Clark CR, Zimmerman MB, Sluka KA, Rakel BA. Preoperative predictors of pain following total knee arthroplasty. J Arthroplasty 2014;29:1383–1387.
+15. Johnson RL, Kopp SL. Optimizing perioperative management of total joint arthroplasty. Anesthesiol Clin 2014;32:865–880.
+16. Cram P, Lu X, Kates SL, Singh JA, Li Y, Wolf BR. Total knee arthroplasty volume, utilization, and outcomes among Medicare beneﬁciaries, 1991-2010. JAMA 2012;308:1227–1236.
+17. Dieppe P, Basler HD, Chard J, Croft P, Dixon J, Hurley M, et al. Knee replacement surgery for osteoarthritis: effectiveness, practice variations, indications and possible determinants of utilization. Rheumatology (Oxford) 1999;38:73–83.
+18. Kehlet H, Jensen TS, Woolf CJ. Persistent surgical pain: risk factors and prevention. The lancet 2006;1618–1625.
+19. Turnbull ZA, Sastow D, Giambrone GP, Tedore T. Anesthesia for the patient undergoing total knee replacement: current status and future prospects. Local Reg Anesth 2017;10:1–7.
+20. Grape S, Kirkham KR, Baeriswyl M, Albrecht E. The analgesic efﬁcacy of sciatic nerve block in addition to femoral nerve block in patients undergoing total knee arthroplasty: a systematic review and meta-analysis. Anaesthesia 2016;71:1198–1209.
+21. Kim TE, Mariano ER. Developing a multidisciplinary fall reduction program for lower-extremity joint arthroplasty patients. Anesthesiol Clin 2014;32:853–864.
+22. Marques EM, Jones HE, Elvers KT, Pyke M, Blom AW, Beswick AD. Local anaesthetic inﬁltration for peri-operative pain control in total hip and knee replacement: systematic review and metaanalyses of short- and long-term effectiveness. BMC Musculoskelet Disord 2014;15:220.
+23. Hussain N, Ferreri TG, Prusick PJ, Banﬁeld L, Long B, Prusick VR, et al. Adductor Canal Block Versus Femoral Canal Block for Total Knee Arthroplasty: A Meta-Analysis: What Does the Evidence Suggest? Reg Anesth Pain Med 2016;41:314–320.
+24. Li F, Ma J, Kuang M, Jiang X, Wang Y, Lu B, et al. The efﬁcacy of pregabalin for the management of postoperative pain in primary total knee and hip arthroplasty: a meta-analysis. J Orthop Surg Res 2017;12:49.
+25. Souzdalnitski D, Rech GR, Naydinskiy A, Suzdalnitskaya D, Isakov RV, Guirguis M. Ketamine in perioperative analgesia for knee surgeries: Review of evidence from randomized controlled trials. Tech Reg Anesth Pain Manag 2014;18:130–136.
+26. Hjermstad MJ, Fayers PM, Haugen DF, Caraceni A, Hanks GW, Loge JH, et al. Studies comparing Numerical Rating Scales, Verbal Rating Scales, and Visual Analogue Scales for assessment of pain intensity in adults: a systematic literature review. J Pain Symptom Manage 2011;41:1073–1093.
+27. Carr AJ, Robertsson O, Graves S, Price AJ, Arden NK, Judge A, et al. Knee replacement. Lancet 2012;379:1331–1340.
+28. Nice.org.uk. (2017). Osteoarthritis: care and management j Guidance and guidelines j NICE . [online] Available at: https://www.nice.org. uk/guidance/cg177. [Accessed 2 Aug. 2017].
+
+16
+
+INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
+
+REV COLOMB ANESTESIOL. 2018;46(Sup):9-17
+
+29. Arendt-Nielsen L, Nie H, Laursen MB, Laursen BS, Madeleine P, Simonsen OH, et al. Sensitization in patients with painful knee osteoarthritis. Pain 2010;149:573–581.
+30. Hina N, Fletcher D, Poindessous-Jazat F, Martinez V. Hyperalgesia induced by low-dose opioid treatment before orthopaedic surgery: An observational case-control study. Eur J Anaesthesiol 2015; 32:255–261.
+31. Kehlet H, Wilkinson RC, Fischer HB, Camu F, Group PW. PROSPECT: evidence-based, procedure-speciﬁc postoperative pain management. Best Pract Res Clin Anaesthesiol 2007;21: 149–159.
+32. Prospect. (2017). Sections - Prospect . [online] Available at: http://www.postoppain.org/sections/?root_id=48292&section=8. [Accessed 2 Aug. 2017]. 2017.
+33. Abdallah FW, Brull R. Is sciatic nerve block advantageous when combined with femoral nerve block for postoperative analgesia following total knee arthroplasty? A systematic review. Reg Anesth Pain Med 2011;36:493–498.
+34. Ilfeld BM, Madison SJ. The sciatic nerve and knee arthroplasty: to block, or not to block–that is the question. Reg Anesth Pain Med 2011;36:421–423.
+35. Burckett-St Laurant D, Peng P, Girón Arango L, Niazi AU, Chan VW, Agur A, et al. The Nerves of the Adductor Canal and the Innervation of the Knee: An Anatomic Study. Reg Anesth Pain Med 2016;41:321–327.
+36. Anagnostopoulou S, Anagnostis G, Saranteas T, Mavrogenis AF, Paraskeuopoulos T. Saphenous and Infrapatellar Nerves at the Adductor Canal: Anatomy and Implications in Regional Anesthesia. Orthopedics 2016;39:e259–e262.
+
+37. Bendtsen TF, Moriggl B, Chan V, Børglum J. Basic Topography of the Saphenous Nerve in the Femoral Triangle and the Adductor Canal. Reg Anesth Pain Med 2015;40:391–392.
+38. Macrinici GI, Murphy C, Christman L, Drescher M, Hughes B, Macrinici V, et al. Prospective, Double-Blind, Randomized Study to Evaluate Single-Injection Adductor Canal Nerve Block Versus Femoral Nerve Block: Postoperative Functional Outcomes After Total Knee Arthroplasty. Reg Anesth Pain Med 2017;42:10–16.
+39. Wang D, Yang Y, Li Q, Tang SL, Zeng WN, Xu J, et al. Adductor canal block versus femoral nerve block for total knee arthroplasty: a meta-analysis of randomized controlled trials. Sci Rep 2017; 7:40721.
+40. Sites BD, Chan VW, Neal JM, Weller R, Grau T, Koscielniak-Nielsen ZJ, et al. The American Society of Regional Anesthesia and Pain Medicine and the European Society Of Regional Anaesthesia and Pain Therapy Joint Committee recommendations for education and training in ultrasound-guided regional anesthesia. Reg Anesth Pain Med 2009;34:40–46.
+41. Terkawi AS, Mavridis D, Sessler DI, Nunemaker MS, Doais KS, Terkawi RS, et al. Pain Management Modalities after Total Knee Arthroplasty: A Network Meta-analysis of 170 Randomized Controlled Trials. Anesthesiology 2017;126:923–937.
+42. Amundson AW, Johnson RL, Abdel MP, Mantilla CB, Panchamia JK, Taunton MJ, et al. A Three-arm Randomized Clinical Trial Comparing Continuous Femoral Plus Single-injection Sciatic Peripheral Nerve Blocks versus Periarticular Injection with Ropivacaine or Liposomal Bupivacaine for Patients Undergoing Total Knee Arthroplasty. Anesthesiology 2017;126:1139–1150.
+
+17

@@ -1,0 +1,36 @@
+{
+  "name": "@techsphere/deterministic",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Capa DETERMINISTA — evaluador estructural puro sobre valores ya normalizados. Tech Sphere Challenge 2, WO-25..WO-33.",
+  "license": "MIT",
+  "exports": {
+    ".": {
+      "types": "./dist/src/index.d.ts",
+      "default": "./dist/src/index.js"
+    }
+  },
+  "main": "./dist/src/index.js",
+  "types": "./dist/src/index.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "build": "tsc -p tsconfig.build.json",
+    "test": "node --test \"test/**/*.test.ts\"",
+    "verify": "npm run typecheck && npm test",
+    "metricas": "node scripts/metricas-160.mjs",
+    "fixture": "node scripts/trayectorias-a-fixture.mjs"
+  },
+  "comment:dependencies": "Compuerta G3 — ninguna dependencia de runtime salvo el modulo de contratos, y en particular NINGUNA de ningun modelo de lenguaje. Este modulo no invoca modelos: es aritmetica. Tampoco tiene cliente HTTP ni acceso a red por construccion.",
+  "dependencies": {
+    "@techsphere/contracts": "file:../contracts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "typescript": "^5.9.3"
+  }
+}

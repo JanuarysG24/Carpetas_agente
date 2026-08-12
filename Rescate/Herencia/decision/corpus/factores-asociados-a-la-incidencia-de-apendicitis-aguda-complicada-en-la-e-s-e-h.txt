@@ -1,0 +1,730 @@
+FACTORES ASOCIADOS A LA INCIDENCIA DE APENDICITIS AGUDA COMPLICADA EN LA E.S.E. HOSPITAL UNIVERSITARIO DEL CARIBE
+RUBÉN DARÍO AGRESOTT MARSIGLIA Estudiante de Postgrado para optar al título en la Especialidad de Cirugía General
+UNIVERSIDAD DE CARTAGENA FACULTAD DE MEDICINA
+ESPECIALIDAD EN CIRUGIA GENERAL CARTAGENA, COLOMBIA 2018
+
+FACTORES ASOCIADOS A LA INCIDENCIA DE APENDICITIS AGUDA COMPLICADA EN LA E.S.E. HOSPITAL UNIVERSITARIO DEL CARIBE
+AUTOR RUBÉN DARÍO AGRESOTT MARSIGLIA Estudiante de Postgrado para optar al título en la Especialidad de Cirugía General
+TUTOR ACADÉMICO FRANCISCO HERRERA SAENZ
+TUTOR METODOLÓGICO ENRIQUE RAMOS CLASON
+UNIVERSIDAD DE CARTAGENA FACULTAD DE MEDICINA
+ESPECIALIDAD EN CIRUGIA GENERAL CARTAGENA, COLOMBIA 2018
+
+NOTA DE ACEPTACION __________________________________ __________________________________ __________________________________ __________________________________
+__________________________________ Presidente del Jurado
+__________________________________ Nombre y firma del Jurado
+__________________________________ Nombre y firma del Jurado
+__________________________________ Nombre y firma del jefe de la Unidad Académica
+Cartagena de Indias D.T. y C, 17 de Octubre de 2018
+
+Cartagena de Indias D.T. y C, 17 de Octubre de 2018
+Doctor (a) VIRNA MARIA CARABALLO OSORIO Jefe Departamento de Postgrado y Educación Continua Facultad de Medicina Universidad de Cartagena L. C.
+Cordial Saludo,
+La presente tiene como fin dar a conocer la nota cuantitativa del informe final del proyecto de investigación: FACTORES ASOCIADOS A LA INCIDENCIA DE APENDICITIS AGUDA COMPLICADA EN LA E.S.E. HOSPITAL UNIVERSITARIO DEL CARIBE. Realizado por el estudiante de postgrado: RUBEN DARIO AGRESOTT MARSIGLIA, del programa de: CIRUGIA GENERAL.
+Calificación Obtenida: _______________
+Atentamente,
+__________________________ FRANCISCO HERRERA SAENZ Docente Cirugia General Facultad de Medicina Universidad de Cartagena
+__________________________ Nombre y firma del jefe de la Unidad Académica
+
+Cartagena de Indias D.T. y C, 17 de Octubre de 2018
+Doctor (a) INES BENNEDETTI PADRON Jefe Departamento de Investigaciones Facultad de Medicina Universidad de Cartagena L. C.
+Cordial Saludo,
+Por medio de la presente, autorizo que nuestro trabajo de investigación titulado: FACTORES ASOCIADOS A LA INCIDENCIA DE APENDICITIS AGUDA COMPLICADA EN LA E.S.E. HOSPITAL UNIVERSITARIO DEL CARIBE, realizado por el estudiante de postgrado RUBEN DARÍO AGRESOTT MARSIGLIA, bajo la asesoría de FRANCISCO HERRERA SAENZ tutor académico y ENRIQUE RAMOS CLASON tutor metodológico, sea digitalizado y colocado en la web en formato PDF, para la consulta de toda comunidad científica. Lo anterior es exigencia de la rectoría de la Universidad de Cartagena según circular 021 de la vicerrectoría académica de la Universidad de Cartagena del 28 de Agosto del 2012.
+Atentamente,
+______________________________ RUBÉN DARÍO AGRESOTT MARSIGLIA POSTGRADO EN CIRUGIA GENERAL C.C. 9.146.668 DE CARTAGENA
+_________________________ FRANCISCO HERRERA SAENZ Docente. Cirugía General Facultad de Medicina. Universidad de Cartagena
+
+UNIVERSIDAD DE CARTAGENA
+
+CÓDIGO: FO-GR-11
+
+RECURSOS PARA EL APRENDIZAJE Y LA INVESTIGACIÓN
+
+VERSIÓN: 00
+
+CESIÓN DE DERECHOS DE AUTOR
+
+PÁGINA: 6
+
+FECHA
+
+DD
+
+MM
+
+AAAA
+
+06
+
+09
+
+2018
+
+1. Presentación del trabajo de grado
+
+Código
+
+Documento de
+
+identidad
+
+Tipo
+
+Número
+
+Apellidos
+
+Nombres
+
+Correo electrónico
+
+CC 9146668
+
+Agresott Marsiglia Rubén Dario
+
+rubendagresottm@gmail.com
+
+Programa
+
+Especialización en Cirugía General
+
+Facultad
+
+Medicina
+
+Título que opta
+
+Especialista en Cirugía General
+
+Asesor
+
+Francisco Herrera Saenz
+
+Título de la Obra Palabras Clave
+
+FACTORES ASOCIADOS A LA INCIDENCIA DE APENDICITIS AGUDA COMPLICADA EN LA E.S.E. HOSPITAL UNIVERSITARIO DEL CARIBE Apendicitis aguda complicada, peritonitis, absceso apendicular, apendicitis perforada, apendicectomía
+
+2. Autorización de publicación de versión electrónica del trabajo de grado
+Con esta autorización hago entrega del trabajo de grado (investigación o tesis) y de sus anexos (si existen), de forma gratuita enforma digital o electrónica (CD-ROM, DVD) y doy plena autorización a la Universidad de Cartagena, de forma indefinida,para que en los terminos establecidos en la ley 23 de 1982, la Ley 44 de 1993, leyes y jurisprudencia vigente al respecto, hagala publicación de éste, con fines educativos. Esta autorización, es válida sobre la obra en formato o soporte material, digital, electrónico o virtual, para usos en red, internet, intranet, biblioteca digital o cualquier formato conocido o por conocer. EL AUTOR, expresa que el trabajo de grado (investigación o tesis) objeto de la presente autorización, es original y la elaborósin quebrantar ni suplantar los derechos de autor de terceros, de tal forma que el Trabajo es de su exclusiva autoría y tiene latitularidad sobre éste. En caso de queja o acción por parte de un tercero referente a los derechos de autor sobre el trabajo degrado en cuestión EL AUTOR, asumirá la responsabilidad total, y saldrá en defensa de los derechos aquí autorizados; paratodos los efectos, la Universidad de Cartagena actúa como un tercero de buena fe.Toda persona que consulte ya sea la biblioteca o en medio electrónico podrá copiar apartes del texto citando siempre lafuentes, es decir el título del trabajo, autor y año.Esta autorización no implica renunciar a la facultad que tengo de publicar total o parcialmente la obra. La autorización debeestar respaldada por las firmas de todos los autores del trabajo de grado. Si autorizo
+
+3. Firmas Firma Autor 1
+
+Firma Autor 2
+
+_____________________________________ RUBEN DARIO AGRESOTT MARSIGLIA Firma Autor 3
+
+____________________________________ FRANCISCO HERRERA SAENZ
+Firma Autor 4
+
+Cartagena de Indias D.T. y C, 17 de Octubre de 2018
+Doctor (a) INES BENNEDETTI PADRON Jefe Departamento de Investigaciones Facultad de Medicina Universidad de Cartagena L. C.
+Cordial Saludo.
+Con el fin de optar por el título de: CIRUGIA GENERAL, he presentado a la Universidad de Cartagena el trabajo de grado titulado: FACTORES ASOCIADOS A LA INCIDENCIA DE APENDICITIS AGUDA COMPLICADA EN LA E.S.E. HOSPITAL UNIVERSITARIO DEL CARIBE.
+Por medio de este escrito autorizo en forma gratuita y por tiempo indefinido a la Universidad de Cartagena para situar en la biblioteca un ejemplar del trabajo de grado, con el fin de que sea consultado por el público. Igualmente autorizo en forma gratuita y por tiempo indefinido a publicar en forma electrónica o divulgar por medio electrónico el texto del trabajo en formato PDF con el fin de que pueda ser consultado por el público.
+Esta autorización no implica renuncia a la facultad que tengo de publicar total o parcialmente la obra. La Universidad no será responsable de ninguna reclamación que pudiera surgir de terceros que reclamen autoría del trabajo que presento a continuación. Lo anterior es exigencia de la rectoría de la Universidad de Cartagena según circular 021 de la vicerrectoría académica de la Universidad de Cartagena del 28 de agosto del 2012.
+Atentamente,
+_____________________________ RUBÉN DARÍO AGRESOTT MARSIGLIA POSTGRADO EN CIRUGIA GENERAL C.C. 9.146.668 DE CARTAGENA
+__________________________ FRANCISCO HERRERA SAENZ Docente. Cirugía General Facultad de Medicina. Universidad de Cartagena
+
+Cartagena de Indias D.T. y C, 17 de Octubre de 2018
+Señores REVISTA CIENCIA BIOMEDICAS Departamento de Investigaciones Facultad de Medicina Universidad de Cartagena
+Estimados señores:
+Es mi deseo que el informe final del trabajo de grado: FACTORES ASOCIADOS A LA INCIDENCIA DE APENDICITIS AGUDA COMPLICADA EN LA E.S.E. HOSPITAL UNIVERSITARIO DEL CARIBE., que realizado en conjunto con mis asesores y del cual los abajo firmantes somos autores: NO, sea considerado, evaluado editorialmente y revisado por pares y publicado en la REVISTA CIENCIAS BIOMEDICAS, órgano de información científica de la Facultad de Medicina de la Universidad de Cartagena.
+Atentamente,
+_____________________________ RUBÉN DARÍO AGRESOTT MARSIGLIA POSTGRADO EN CIRUGIA GENERAL C.C. 9.146.668 DE CARTAGENA
+_________________________ FRANCISCO HERRERA SAENZ Docente. Cirugía General Facultad de Medicina. Universidad de Cartagena
+
+AGRADECIMIENTOS
+En el presente informe final del trabajo de grado me gustaría agradecer en primera instancia a Cristo mi Dios y su palabra, por rescatarme, guiar mis pasos para llegar hasta donde he llegado, por su mano sobre mi vida y familia en cada detalle de éste proceso tan duro y exigente.
+Isaac Newton afirmó: Si he podido ver más lejos, es porque me he sentado sobre hombro de gigantes. Son muchas las personas que han formado parte de mi vida profesional a las que me encantaría agradecerles su amistad, consejos, apoyo, ánimo y compañía en los momentos más difíciles de mi vida. Algunas ya no están, pero si en mi memoria y en mi corazón, sin importar en donde estén, quiero darles las gracias por formar parte de mí, por todo lo que me han brindado y por todas sus bendiciones.
+De manera muy especial a mi Esposa Shirley, compañera incansable de lucha y motor en este proceso, a Valeria, Isaac e Ismael por el tiempo que les he robado y por todo el que no he estado presente, por su buen comportamiento que me estimula y me permite vivir enfocado en darles buen ejemplo. A mis Padres Ruben Agresott y Martha Marsiglia, asi como a mi hermano Kelvin el cual ocupa un lugar especial en mi corazón, sobrinos y demás familiares. A mis suegros Abel Guerrero y Denis Lambis por estar siempre allí de manera incondicional. A los que partieron de esta vida pero que recuerdo con mucho amor especialmente mis Abuelas Sol Maria y Concepcion. Tambien para mis Pastores y amigos Harold, Doris, Luis Sanchez, Jorge, Edis, Isaias y tantos otros que se han mantenido orando por nosotros y apoyándonos de una manera incansable. De todos y cada uno tengo memoria siempre.
+A la reconocida, Universidad de Cartagena y al legendario Hospital Universitario del Caribe, sus pasillos han visto formar mi vida personal y profesionalmente, gracias por todas las herramientas brindadas para aprender el hermoso arte de la cirugía general y permitirme ir creciendo como profesional. Agradezco de manera muy especial a cada Paciente y su Familia que permitieron mediante su confianza y a través de su vida y la enfermedad que padecían que el conocimiento y la sabiduría fuera formándose en mí como persona.
+Al Dr. Fredy Pomares Herrera, decano de la Facultad, el cual es un gran mentor que inspira e impulsa para alcanzar grandes proyectos de vida. A mi tutor de tesis, Dr. Francisco Herrera Sáenz y su grupo de investigación en Cirugía General Scalpellum por su esfuerzo y dedicación, quien con sus conocimientos, sus correcciones y experiencia, su paciencia y su motivación ha logrado inspirar mi proceso de formación, Al igual que a Enrique Ramos, tutor metodológico, gracias. A Dailester Gomez, Martha Lopez, Yasmin Hundelhausen y Nuris Cassiani, asi como a todas y cada una de las segundas madres que me regaló este arduo
+
+proceso de formación en la universidad de Cartagena, su apoyo fundamental para mi.
+El arte de la cirugía solo se puede aprender cuando te encuentras grandes maestros que de la mano literalmente te van enseñando a esculpir con el bisturí por eso quiero agradecer a todos mis profesores. A todos los que me he encontrado no solo en cirugía general, deseo resaltar la carrera profesional de algunos que han forjado mi formación en especial a mis profesores Dr. Salcedo, Dr. Posada, Dr. Hoyos, Dr. Hernández, Dr. Miranda, Dr. Castilla, Dr. Iglesias, Dr. Coba, Dr. Alcázar, Dr. Porto, Dr. Oviedo, Dr. Cogollo, Dr. Solana, Dr. Zurita, por sus consejos, su enseñanza y por ese don de gente.
+A cada uno de mis seis compañeros residentes, compañeros de lucha, también a cada compañero de residencia en especial y en lo referente al proyecto a Carlos Gustavo Osorio por su disposición para ayudarme en el proceso de elaboración e invertir de su tiempo para hacer de este proyecto de grado una realidad.
+A todos lo que no he mencionado pero que ocupan un lugar especial en mi corazón, agradezco a mentores y amigos del área familiar y personal, que aportaron oraciones, tiempo, dinero, voz de aliento, y muchas formas de ayuda. Sin ellos imposible. Tiempo, oraciones, dinero, esfuerzo, es éste un logro del cual se deben sentir parte. También es su logro.
+Para Todos y cada uno de ellos, muchas gracias. Dios los bendiga.
+CONFLICTO DE INTERESES: Los autores no declaran conflictos de interés.
+FINANCIACIÓN: Este trabajo fue financiado por recursos propios de los autores.
+
+FACTORES ASOCIADOS A LA INCIDENCIA DE APENDICITIS AGUDA COMPLICADA EN LA E.S.E. HOSPITAL UNIVERSITARIO DEL CARIBE
+FACTORS ASSOCIATED WITH THE INCIDENCE OF COMPLICATED ACUTE APPENDICITIS IN THE E.S.E. UNIVERSITY HOSPITAL OF THE CARIBBEAN
+Rubén Agresott1, Francisco Herrera 2, Karen Herrera 3 Jorge Arrieta3
+1. Médico. Residente Especialidad en Cirugia General. Facultad de Medicina. Universidad de Cartagena. Cartagena. Colombia.
+2. Médico. Cirujano General. Grupo de Investigación Scalpellum. Docente Sección de Cirugía General. Facultad de Medicina. Universidad de Cartagena. Coordinador Servicio de Cirugia de Cuello & Mama. E.S.E Hospital Universitario del Caribe. Cartagena. Colombia.
+3. Estudiante de Pregrado. Semillero de Investigación Scalpellum. Facultad de Medicina, Universidad de Cartagena, Cartagena, Colombia.
+Introducción: La apendicitis aguda es la patología quirúrgica de causa benigna mas frecuente en todo el mundo, lo cual lleva a realizar uno de los procedimientos quirúrgicos de estudio permanente y constante aprendizaje en la cirugía global: la Apendicetomía, el adecuado y oportuno diagnóstico y tratamiento de esta patología permite establecer una diferencia enorme en cuanto a su evolución y pronostico, así como la disminución de los costos en cuanto a hospitalización, uso de antibióticos, periodo de rehabilitación e infecciones del sitio operatorio entre los pacientes complicados (perforados) y los no complicados.
+Objetivo: Determinar los factores asociados a la incidencia de apendicitis aguda complicada en el Hospital Universitario del Caribe, analizando variables prehospitalarias, de traslado y hospitalarias.
+Materiales y Métodos Se trata de un estudio descriptivo transversal, realizado en el hospital universitario del Caribe durante un período de 12 meses en una población mayor de 18 años, ingresados en el hospital con diagnóstico de apendicitis aguda, el cual fue confirmado por el equipo quirúrgico del mismo y trasladado a salas de cirugía. A lo que se realizó una entrevista directa en salas de hospitalización con un formato unificado y previamente estandarizado; Un total de 131 pacientes ingresaron al estudio, lo que se demostró mediante estudio histopatológico escrito de la pieza quirúrgica (apéndice cecal), perforación de la misma; se analizaron las variables sociodemográficas y se establecieron variables pre hospitalarias como la ingesta de medicamentos, el tiempo de consulta, el diagnóstico y la observación; variable de tiempo de remisión y traslado al hospital, así como variables de tiempo de atención, diagnóstico y traslado a salas de cirugía dentro del hospital en cuestión, utilizando tablas de contingencia para determinar las variables estadísticamente significativas, utilizando el modelo chi-cuadrado, t
+
+Student o U Mann - Whitney, cuando en su distribución cumplen o no, los criterios de normalidad respectivamente.
+Conclusión: el diagnóstico precoz y la transferencia oportuna de pacientes con apendicitis aguda se relacionan directamente con un manejo eficiente en el tercer nivel de atención, lo que se traduce en tiempos más tempranos de cirugía, menor tasa de complicaciones y tiempo de hospitalización, así como una disminución en los costos eso para el sistema de salud representa la patología quirúrgica benigna más común en todo el mundo.
+Palabras claves: Apendicitis aguda complicada, peritonitis, absceso apendicular, apendicitis perforada, apendicectomía
+Introduction: Acute appendicitis is the most frequent benign surgical pathology in the world, which leads to perform one of the surgical procedures of permanent study and constant learning in global surgery: appendectomy, adequate and timely diagnosis and treatment This pathology makes a huge difference in terms of its evolution and prognosis, as well as the reduction of costs in terms of hospitalization, use of antibiotics, rehabilitation period and infections of the operative site between complicated patients (perforated) and non-patients. complicated.
+Objective: To determine the factors associated with the incidence of complicated acute appendicitis in the University Hospital of the Caribbean, analyzing prehospital, transfer and hospital variables.
+Materials and Methods: This is a cross-sectional descriptive study, conducted at the university hospital of the Caribbean during a period of 12 months in a population over 18 years old admitted to the hospital with a diagnosis of acute appendicitis, which was confirmed by the surgical team. of the same one and transferred to rooms of surgery. To which a direct interview was carried out in hospitalization rooms with a unified and previously standardized format; A total of 131 patients entered the study, which was demonstrated by a histopathological study of the surgical piece (cecal appendix), perforation thereof; the sociodemographic variables were analyzed and pre-hospital variables were established, such as medication intake, consultation time, diagnosis and observation; variable of remission time and transfer to the hospital, as well as variables of attention, diagnosis and transfer to surgery rooms within the hospital in question, using contingency tables to determine the statistically significant variables, using the chi-square model, t Student or U Mann - Whitney, when in their distribution they fulfill or not, the criteria of normality respectively.
+Conclusion: early diagnosis and timely transfer of patients with acute appendicitis are directly related to efficient management at the third level of care, which translates into earlier times of surgery, lower rate of complications and time of hospitalization, as well as a decrease in costs that for the health system represents the most common benign surgical pathology in the world. Key words: Acute
+
+complicated appendicitis, peritonitis, appendiceal abscess, perforated appendicitis, appendectomy
+INTRODUCCIÓN
+La apendicitis aguda es la patología quirúrgica más común en nuestro medio y el mundo, siendo la apendicetomía temprana el tratamiento de elección para la curación de dicha enfermedad (1-3). La primera apendicectomía fue realizada por Claudius Armyad, (Cirujano de los Hospitales de Westminster en 1736). Pero no fue sino hasta 1755 cuando Heister comprendió que el apéndice podía ser asiento de inflamación aguda primaria (33). Se estima que 5% de la población la padecerá en algún momento de su vida. En 1886 fue reconocida como entidad clínica y anatomopatológica por Reginald Heber Fitz (1843-1913). (34).
+El apéndice fue descrito por Berengario DaCarpi (1460-1530), en el año 1521, aunque se observó claramente en las descripciones de anatomía de Leonardo Da Vinci (1452-1519), hechas en 1492, pero fueron publicadas en el siglo XVIII. También se encuentran en ilustraciones de Andreas Vesalius (1514-1564) en su libro “De Humani Corporis Fabrica” publicado en 1543 (35). Es así, que el procedimiento quirúrgico no electivo de mayor realización en las urgencias médicas es la apendicetomía, en los casos en los que la apendicitis es sospechada o confirmada (2-4). Esta patología está definida como la inflamación del apéndice cecal debido a una obstrucción del lumen que puede ser causada por diferentes circunstancias: en niños la causa más frecuente es la hiperplasia linfoide, en los adultos los fecalitos causan obstrucción hasta en el 80% de los casos, y estos se asocian con el incremento de riesgos de apendicitis complicada. Otros factores también pueden incluir cuerpos extraños, estenosis inflamatorias o debido a parásitos intestinales (21).
+La inflamación del apéndice comienza con la obstrucción de la luz apendicular, lo que trae como consecuencia un incremento de la presión intraluminal por el acúmulo de moco asociado con poca elasticidad de la serosa. El incremento de la presión compromete primero el retorno venoso y linfático. Si el proceso continúa, la presión intraluminal excede la presión capilar, produciendo isquemia de la mucosa y luego perforación del apéndice, junto con los cambios locales en la zona del apéndice, ocurre una respuesta inflamatoria regional mediada por el mesotelio y los vasos sanguíneos del peritoneo parietal. En una secuencia de eventos inflamatorios, la salida de neutrófilos y otros mediadores de inflamación a partir del apéndice y las estructuras adyacentes lleva a una respuesta inflamatoria local que tiende a limitar el proceso. En esta fase es posible que ocurra perforación, la cual puede ser “sellada” por las estructuras adyacentes; si ello no ocurre, se produce derramamiento del contenido del apéndice, con la subsecuente peritonitis severa, retención líquida en un tercer espacio, shock y muerte en un porcentaje significativo de los casos (1, 20, 21).
+
+Es preciso recalcar que el tratamiento de la apendicitis aguda, independientemente del grado de evolución de la patología, es meramente quirúrgico y se lleva a cabo con la realización de una apendicectomía, el diagnóstico oportuno y la consecuente cirugía pretende cortar el curso natural de la enfermedad hacia la apendicitis perforada, en este punto los infartos permiten el escape de bacterias y por consiguiente contaminación de la cavidad abdominal. La presión elevada provoca perforación en algunas de las zonas gangrenadas que empiezan pequeñas y van aumentando de tamaño. Con respecto al líquido peritoneal, este se torna purulento y de olor fétido (22), con lo cual aparecen las complicaciones más frecuentes como son el absceso apendicular, la peritonitis, plastrón apendicular y en excepcionales casos la muerte.
+Existe una gran variedad de signos clínicos que permiten la sospecha de apendicitis, tanto así que se han recomendado hasta 42 signos clínicos diferentes, todo esto debido a los retos diagnósticos que presenta la apendicitis en parte debido a sus síntomas inespecíficos en sus fases iniciales. Se ha reportado que la confiabilidad del diagnóstico de algunos hallazgos clínicos comunes tales como tensión abdominal y diagnóstico clínico de apendicitis fue de entre pobre a moderado en médicos de emergencias y cirujanos residentes, sin embargo cuando se combinan con exámenes de laboratorio, la utilidad diagnostica de los hallazgos clínicos aumenta significativamente (1).
+Dentro de las ayudas imagenológicas mas realizadas y estudiadas se encuentra la ecografía, la cual es utilizada en mayor medida en hospitales públicos , pues presenta un menor costo , su beneficio y rapidez facilitan y disminuyen los tiempos de diagnóstico; mientras que los hospitales privados tienden a utilizar en mayor medida exámenes como el TAC (3, 4, 21). Los errores en el diagnóstico son comunes, incluso presentando sobre diagnóstico conllevando a apendicetomías negativas con retrasos en el diagnóstico ocasionando perforaciones y complicaciones.
+La OMS y varios investigadores proponen que las tasas de apendicitis aguda perforada, apendicectomía y las complicaciones derivadas al procedimiento quirúrgico son indicadores de inequidad de acceso a la salud en las poblaciones y que reflejan de forma viable la globalidad del servicio brindado (8, 18, 19). Existiendo entonces una asociación de la apendicitis aguda perforada y la equidad en acceso en salud (8).
+En el modelo de salud gubernamental el paciente es evaluado en primera medida en centros de atención primaria en salud, de donde es derivado a centros de mayor complejidad según estos determinen, para que sean atendidos y tratados adecuada y oportunamente (18). En Colombia y en especial en Cartagena, las inequidades en el acceso a la salud, así como la mala calidad de la atención primaria en salud constituyen una de las razones para que las tasas de morbilidad no sufran una disminución significativa, 5-18% de complicaciones están relacionadas con inoportunidad en el manejo quirúrgico, por demoras en el diagnóstico y la intervención (8).
+
+Las tasas de apendicitis aguda complicada y de apendicetomía realizadas son una herramienta útil para el diagnóstico de la calidad de la atención primaria y de cobertura en salud. En Colombia existen muy pocos estudios que utilicen la apendicitis perforada como reflejo de las inequidades sociales para el acceso a la salud en Colombia (8).El objetivo del presente trabajo fue determinar los factores asociados a la incidencia de apendicitis aguda complicada en el Hospital Universitario del Caribe, analizando de especial manera la variable tiempo y automedicacion en su relacion con la misma.
+MATERIALES Y MÉTODOS
+Se trata de un estudio observacional de corte transversal, realizado en el Hospital Universitario del Caribe durante un periodo de 12 meses. El trabajo de investigación contó con el aval del Comité de Ética de la E.S.E. Hospital Universitario del Caribe. Durante el periodo comprendido entre el 01 de Enero de 2015 y el 31 de Diciembre de 2015, 131 pacientes fueron incluidos en este estudio. Los criterios de inclusión fueron: Pacientes con impresión clínica de apendicitis aguda quienes permitieran la realización de una entrevista clínica mediante la firma de consentimiento informado. Los criterios de exclusión fueron los siguientes: la no consulta a un centro de atención primaria previo ingreso al Servicio de Urgencias, el hallazgo intraoperatorio no compatible con apendicitis aguda y el disentir de la realización de entrevista dirigida, además se excluyeron aquellos pacientes en los que existía disociación entre los hallazgos descritos en la descripción quirurgica y el reporte escrito del servicio de patología del hospital universitario, por lo cual solo se consideraba apendicitis aguda complicada aquellos que evidenciaban por histopatología la solucion de continuidad de la mucosa de la apendice, en tales casos se consideraba complicada o perforada. La secuencia de inclusión y exclusión de pacientes en el estudio se muestra en la figura 1.
+En todos los casos la entrevista fue realizada por el mismo investigador. Mediante esta se midieron las siguientes variables: Edad del paciente, genero del paciente, centro de atención primaria del cual procedía el paciente, antecedente de automedicación con analgésicos, antecedente de medicación con analgésicos en centro de atención primaria, realización de la impresión diagnostica de apendicitis aguda en el centro de atención primaria y diagnostico anatomopatologico. Fueron categorizadas como complicados aquellos pacientes con diagnóstico de apendicitis aguda grado IV.
+Se consignaron la fecha y hora de inicio de los síntomas abdominales, la fecha y hora de ingreso al centro de atención primaria, la fecha y hora de egreso del centro de atención primaria, la fecha y hora de ingreso al servicio de urgencias de la E.S.E. Hospital Universitario del Caribe, y la fecha y hora de ingreso a sala de cirugía. Lo anterior con el objetivo de establecer los siguientes eventos: Tiempo 1: Tiempo en horas trascurrido desde el inicio de los síntomas abdominales hasta el ingreso al centro de atención primaria. Tiempo 2: Tiempo en horas trascurrido
+
+durante valoración en el centro de atención primaria. Tiempo 3: Tiempo en horas trascurrido desde el egreso del centro de atención primaria hasta el ingreso al Servicio de Urgencias de la E.S.E. Hospital Universitario del Caribe. Tiempo 4: Tiempo en horas trascurrido desde el ingreso Servicio de Urgencias de la E.S.E. Hospital Universitario del Caribe hasta el ingreso del paciente a sala de Cirugía. Tiempo total o Tiempo 5: Tiempo en horas trascurrido desde el inicio de los síntomas abdominales hasta el ingreso del paciente a sala de Cirugía.
+El análisis descriptivo de las variables cualitativas se realizó con el cálculo de frecuencias absolutas y relativas, por su parte el de las cuantitativas se utilizó como medida de tendencia central la Mediana (Me) con el Rango Inter Cuartílico (RIC) como su medida de dispersión, lo anterior debido a la naturaleza no paramétrica de todas las variables cuantitativas estimada por la prueba de Kolmogorov Smirnov. Las comparaciones entre los grupos de pacientes con apendicitis complicada o no se realizó en las variables cualitativas con el Chi2 o el Test Exacto de Fisher cuando fuera necesario; en las variables cuantitativas se utilizó el test de Mann Whitney, un valor de p menor de 0,05 fue considerado como estadísticamente significativo. Posteriormente se estimó el área bajo la curva (AUC, por sus siglas en inglés) mediante un análisis por Curva Receptor Operador (ROC, por sus siglas en ingles) para determinar el punto de corte con mejor rendimiento diagnóstico de los tiempos de atención pre-hospitalaria y hospitalaria como predictores de desarrollo de apendicitis aguda complicada. Finalmente para estimar la asociación de los aspectos relevantes de la atención pre hospitalaria y los tiempos de atención descritos arriba como factores causales de desarrollo de apendicitis aguda complicada se calcularon Odds Ratio (OR) crudos y ajustados por regresión logística, con sus respectivos intervalos de confianza el 95% (IC 95%).
+RESULTADOS
+La población de estudio estuvo conformada por 131 pacientes, 80 hombres (61.1%) y 51 mujeres (38.9%), con una mediana de 32,5 ± 13,1 años. La incidencia de apendicitis aguda complicada fue del 32.8%, correspondiente a 43 pacientes. El 61,1% fueron pacientes de sexo masculino, con una mediana de edad de 27 años (RIC: 23 - 38), dentro de las variables pre hospitalarias se encontró una mediana de tiempo transcurrido entre el inicio del dolor y la consulta al CAP (T1) de 8 horas (RIC: 4 - 20), observándose una impresión diagnóstica de apendicitis aguda en esta instancia de 54,2% y que en 50,4% se hizo uso de analgésicos para manejo del cuadro, la mediana de tiempo de atención en el CAP (T2) fue de 3 horas (RIC: 1 - 7), Tabla 1. El lugar de residencia habitual de los pacientes con apendicitis aguda fue Cartagena en 76,3% seguido por Turbaco y Marialabaja con 6,1% y 2,3% respectivamente, Figura 1.
+Dentro de la atención hospitalaria por el HUC se observó una mediana de tiempo transcurrido entre el inicio del dolor y el ingreso al HUC (T3) de 3 horas (RIC: 1 13), entre el ingreso al HUC y la realización de la cirugía (T4) una mediana de 12 horas (RIC: 7 - 19) para un tiempo diagnostico total trascurrido entre el inicio de
+
+dolor y realización de la cirugía (T5) con mediana de 39 horas (RIC: 26 - 59). La mediana del aporte porcentual de cada tiempo de atención pre-hospitalaria y hospitalaria al tiempo total de diagnóstico fue para T1 de 25,9%, T2 de 9%, T3 de 9,7% y T4 de 31,8%. El diagnóstico anátomo-patológico de la apendicitis fue en orden de frecuencia grado 3 en 33,6 %, seguido de Grado 4 con 32,8%, Grado 2 en 27,5% y Grado 1 en 6,1%. La apendicitis complicada se observó en el 41,2% de la muestra estudiada, correspondiente a 54 historias clínicas, la condición de complicada estuvo dada por peritonitis en 35,9%, perforación en 31,3%, plastrón 23,7% y absceso en 9,9%, no se reportó ningún caso mortal, Tabla 1.
+El análisis de los pacientes con apendicitis aguda complicada (N=54) mostró como lugar de residencia habitual a Cartagena con 78%, seguida de Turbaco y Marialabaja con 6% y 4% respectivamente, Figura 2. Por su parte los CAP que remitieron en mayor frecuencia pacientes con apendicitis aguda que se complicaron fueron El Pozón con 13%, Blas de Lezo 11,1%, La esperanza 9,3%, CAP de Turbaco 7,4% , la IPS Gestión Salud, CAP de Turbana, CAP de Olaya y de Canapote en 5,6% cada uno, entre otros CAP con frecuencias menores, Figura 3. Al comparar las características generales entre los grupos de apendicitis complicada o no complicada se observó una distribución por sexo masculino de 66,7% en el grupo con complicación y 57,3% en los no complicados, p=0,2711. Por su parte la mediana de edad en los grupos con y sin complicación fue de 32 y 26 años respectivamente, p=0,0496. La comparación del T1 mostró una mediana de 15 horas en los complicados y de 6 en los no complicados, p= 0,0025, por su parte el T2 mostró medianas de 3 en ambos grupos, p=0,5521. La realización de impresión diagnóstica de apendicitis en el primer nivel se observó en el 37% de los complicados y 66,2% de los no complicados, p=0,0009, mientras que el uso de analgésicos se encontró respectivamente entre los grupos comparados en 59,3% y 44,2%, p= 0,0887. En al ámbito hospitalario se observó en el grupo de apendicitis complicada una mediana de tiempo entre el inicio del dolor y consulta al HUC (T3) de 10 horas (RIC: 2 - 35) y en los no complicados de 1 hora (RIC: 1 4), p<0,0001. La mediana de T4 en los complicados fue de 13 horas (RIC: 9 - 25) y de 11 horas (6 - 17) en los no complicados, p=0,0120, arrojando un tiempo diagnostico total entre los grupos complicados y no complicados con mediana de 59 horas (RIC:42 - 78) y 30 horas (RIC: 22 - 40), respectivamente, p<0,0001. El diagnóstico anátomo-patológico de la apendicitis fue más frecuente Grado 1, 2 y 3 en las no complicadas con 10,4%, 46,8% y 42,9% respectivamente comparado con las complicadas con frecuencias respectivas de 0, 0 y 20,4%, observando entonces una mayor frecuencia de apendicitis grado 4 con 77,6% en el grupo complicado con respecto al grupo no complicado que no presentó esta clasificación, p<0,0001, Tabla 2.
+La capacidad predictiva de los tiempos de atención pre-hospitalaria mediante el análisis por curva ROC mostró como punto de corte para T1 un tiempo mayor de 13 horas con sensibilidad de 57,4% y especificidad de 74% con AUC de 0,655 (IC 95%: 0,567 a 0,736), p=0,0017; para T2 un punto de corte de mayor de 6 horas con AUC de 0,530 (IC 95%: 0,441 a 0,618), p=0,5594; para T3 un punto de corte
+
+de mayor de 6 horas con sensibilidad y especificidad respectiva de 57,4 y 84,4%, AUC de 0,731 (IC 95%: 0,647 a 0,805), p=0,0001; para T4 un punto de corte de mayor de 19 horas con sensibilidad y especificidad respectiva de 37,0 y 84,4%, AUC de 0,629 (IC 95%: 0,441 a 0,618), p=0,5594; y para T5 un punto de corte de mayor de 37 horas con sensibilidad y especificidad respectiva de 88,9 y 70,1%, AUC de 0,864 (IC 95%; 0,793 a 0,918), p=0,0001, Tabla 3.
+Finalmente el análisis de asociación tomando como variable dependiente el desarrollo de apendicitis complicada y como variables independientes la no realización de impresión diagnóstica en el CAP, la utilización de analgésicos en el primer nivel y la tenencia de tiempos de atención por encima del punto de corte encontrado en el análisis por curva ROC (solo los significativos) así: T1> de 13 horas, T3 > 6 horas, T4 > 19 horas y T5 > 37 horas, mostró una asociación ajustada causal y significativa para T3 y T5, indicando que un tiempo entre el inicio del dolor y consulta al HUC > 6 horas tiene un OR=3,49 (IC 95%: 1,07 – 11,37 ) y un tiempo diagnostico entre el inicio del dolor y la realización de la cirugía mayor de 37 horas tiene un OR=6,79 (IC 95%: 1,94 – 23,70), Tabla 4.
+DISCUSIÓN
+La mayoría de los sistemas de salud son una combinación compleja de coberturas privadas y públicas y el uso de sus servicios está altamente influenciado por el método de financiación (24). El mercado de la salud en Colombia funciona en el marco de un modelo de aseguramiento privado (24), vigilado y administrado por el gobierno a través de las Entidades Promotoras de Salud y la Superintendencia de Salud. Según el Sistema General de atención en Salud en Colombia todas las personas tienen acceso prioritario al primer, segundo y tercer nivel de atención en salud a través del Sistema Nacional de Salud, basado en principios de universalidad, equidad, integralidad y participación social (25); teóricamente existe una igualdad en el acceso al cuidado de la salud.
+En el sistema de salud gubernamental el paciente es evaluado en primer medida en centros de atención primaria en salud, de donde es derivado a centros de mayor complejidad según estos determinen, para así tratar a los pacientes de manera eficaz y administrar los recursos de la salud eficientemente pues una de las características de la atención primaria es su capacidad de coordinar efectivamente servicios de especialistas y ambulatorios y la integralidad de la atención recibida en el primer nivel (19).
+En un modelo de atención primaria de calidad, éste, debe detectar la afección en sus primeras etapas de desarrollo, reducido su gravedad o evitado la aparición de complicaciones, eliminando así la necesidad de hospitalizar al paciente; determinados estudios sugieren que la atención primaria de buena calidad es capaz de resolver la mayoría de las necesidades de salud de la población (19). Las tasas de hospitalizaciones y la calidad de la atención médica para la prevención de complicaciones y disminución de morbilidad están asociadas a la
+
+función del médico general como puerta de entrada al sistema (18). El estudio evidenció que el diagnostico de apendicitis aguda fue realizado por el médico de atención primaria solo en casi el 40% de los pacientes complicados contrastado con un porcentaje aproximado al 70% de diagnostico efectivo que se realizó en los pacientes no complicados, lo cual parece sugerir que un diágnostico preciso permite hacer mas eficiente el manejo de la patología, sin embargo el tiempo de atención en el primer nivel no evidenció diferencias entre los pacientes complicados y no complicados, como sí lo hizo su traslado o tiempo de consulta al tercer nivel de atención; seria necesario analizar factores como numero de camas, efectividad del proceso de remisión y aceptación de pacientes de nuestro medio, disponibilidad del numero de ambulancias entre otros factores relacionados que pueden estar retrasando la oportunidad y eficacia en el traslado de los mismos.
+Los resultados en salud y enfermedad de los individuos son altamente influenciables por diferentes factores de tipo social, individual, cultural, económico y ambiental (24), es así como las diferencias geográficas propias de nuestro país, las disparidad en el repartimiento de la riqueza y conocimientos (traducidos en una gran desigualdad socioeconómica), la falta de cobertura universal en la práctica médica, diferencias entre los planes de salud y en el gasto del sistema según los ingresos de los usuarios (8) perpetúan la existencia de inequidades en salud. En resumen, los principales factores para mayores tasas de hospitalización y complicaciones en distintos problemas de la salud son la inexistencia de un seguro público y acceso a una atención primaria eficaz, y no tanto a los recursos profesionales disponibles en el mercado del área de la salud (18). El estudio observo que a pesar de contar con facil acceso geográfico a la atencion primaria (la mayoria de los pacientes complicados viven y proceden de la ciudad de cartagena), el retraso en la decisión de consultar al médico de atención primaria repercute directamente en la complicación de la apendicitis, estudios posteriores relacionarán la causa de este retraso con posibles factores culturales (como el fácil acceso a medicación no formulada), o a factores propios del paciente o de su percepcion del sistema.
+Todos estos hechos mencionados anteriormente se traducen en ineficiencia y retrasos en el manejo y tratamientos oportunos de las distintas patologías, especialmente las enfermedades altamente sensibles al avance en el tiempo (como la apendicitis), aumentando el riesgo de complicaciones de las cuales hasta el 18% están relacionadas con inoportunidad en el manejo quirúrgico (8). Se ha demostrado que los pacientes que acudieron al hospital en las primeras 24 horas tuvieron menos complicaciones que aquellos que asistieron después de las 24 horas de iniciados los síntomas (12), lo que pudiese tener consecuencias negativas no solo para los pacientes y el sistema de salud en general, sino también para los mismos médicos ya que la apendicitis aguda ocupa un lugar entre las cinco causas más comunes de litigios exitosos de mala práctica médica por complicaciones que resultaron de la demora del tratamiento, la demora en el diagnóstico, y en la instauración del tratamiento definitivo, que resulta en un incremento en la morbilidead relacionada a perforación, peritonitis, formación de
+
+abscesos y Pileflebitis(22). En el presente estudio se observa que el tiempo ideal para consultar al médico, entre el inicio de sintomas como dolor abdominal, vomito y fiebre debe ser menor a 6 horas; contrastado con las 24 hrs de las que habla la literatura mundial, tiempo en el cual consideramos el curso de las complicaciones descritas se hace irreversible, los pacientes evidenciaron en ese mismo orden la frecuencia de las complicaciones relacionadas con un tiempo de atencion
+La apendicitis es una de las emergencias quirúrgicas más comunes y también es una condición sensible al tiempo de evolución, es decir, que el retraso en el tratamiento incrementa el riesgo de perforación apendicular (4). La apendicitis tiene una historia natural invariable, con un desenlace conocido y predecible (la ruptura apendicular), que se presenta si no es instaurado a tiempo un tratamiento quirúrgico correctivo (26). Por ello la apendicitis perforada puede utilizarse como un indicador de equidad de acceso en salud y ha sido usado como tal en gran variedad de estudios en salud pública (3, 4, 8, 12, 22, 26) siendo de forma viable un reflejo de la globalidad de la atención en salud (8). En nuestro estudio se observó un alto porcentaje de pacientes con apendicitis perforadas ( Grado 4) asi como apendicitis seropurulentas (Grado 3 ) complicadas, lo cual evidencia que a pesar de los esfuerzos del Estado y del sistema de salud nacional por vincular mediante la carnetización a la poblacion colombiana, los esfuerzos son insuficientes para minimizar las complicaciones de la patologia quirúrgica más comun de causa inflamatoria, lo cual lo sigue conviertiendo en un sistema de salud inequitativo, mas allá de la afluente carnetizacion.
+Recientes argumentos sugieren que las altas tasas de ruptura del apéndice pueden estar relacionadas con la calidad del cuidado hospitalario, y además asociadas con el acceso inadecuado a la atención quirúrgica. El acceso al cuidado hospitalario es un determinante crítico para las tasas de perforación apendicular y es más importante que las diferencias en la calidad de la atención entre diferentes hospitales (12) como se sugiere en otros estudios (3). En un estudio hecho en Cartagena (7), se demostró que tuvieron valoración previa por el primer nivel de atención 59% de los pacientes atendidos por Apendicitis en el HUC, y el segundo nivel 38%; además el 20.1% de los pacientes atendidos refirió retraso en la atención (7) por lo tanto, se ve reflejado, nada más en la ciudad, la baja eficiencia del primer nivel de atención. Nuestro estudio exculyó los pacientes que previamente no habían sido valorados por un médico en el pimer nivel de atención, para poder establecer con relación de causalidad las variables prehospitalaria con la presencia o no de complicación, sin embargo evidenció el diagnótico preciso solo en la mitad de los pacientes complicados compartativamente contra los pacientes no complicados.
+El acceso al sistema de salud es un proceso en donde existen varios eslabones y todos ellos pueden ser objeto de análisis, desde la motivación que tienen las personas para solicitar atención, la facilidad para entrar en contacto con el servicio de salud y su satisfacción final luego de haberlo utilizado, es decir, que el acceso no solo denota la entrada del individuo al sistema sino que en un sentido más amplio comprende desde la causa o la necesidad hasta el resultado o finalización
+
+de la atención médica. En ese orden, aunque el aseguramiento es un instrumento que busca que todos los individuos tengan entrada al servicio de salud, no garantiza la utilización final del mismo (12, 27).
+Se ha encontrado evidencia de inequidades en la utilización de los servicios médicos por nivel socioeconómico, regiones y zona de residencia. Por ejemplo, se observó que “la población que acude a los servicios de salud aumenta consistentemente con el nivel de riqueza: la población más rica usa 50% más los servicios de salud que los más pobres (27). El estrato socioeconómico constituye una herramienta útil para la discriminación por ingresos, pues es una aproximación a la diferencia socioeconómica jerarquizada de pobreza a riqueza. Además, el 90% de la población Colombiana se encuentra en los estratos 1, 2, 3 lo que nos da luces acerca del nivel de ingresos de la población Colombiana en general (8).
+Teniendo en cuenta lo anterior, se han identificado diversas barreras de acceso, definidas como los obstáculos que impiden que las personas pasen adecuadamente por el proceso de atención de la salud, se observan dos grupos: las de oferta (impuestas por el prestador médico o por el sistema) o las de demanda (atribuidas al individuo) (27). Para el caso específico de la Apendicitis Perforada como indicador de acceso en Salud, las barreras de acceso determinantes son el nivel socioeconómico, la edad, el lugar de residencia, el tiempo o la distancia al centro hospitalario, la demora en la atención por parte del equipo de cirugía y si se es remitido de un centro de atención hospitalaria (3, 4, 68, 12). En nuestro estudio pudimos evidenciar sin establecer relacion individual de causalidad entre las variables anteriormente enunciadas que los pacientes con apendicitis complicados tuvieron el doble de tiempo entre el inicio de los sintomas y el traslado a salas de cirugía (tiempo total de atención) comparativamente con los pacientes no complicados.
+Un estudio, mostró que entre 2008 y 2012 ha aumentado el tiempo de atención en salud para las grandes ciudades en Colombia (27). Un caso interesante constituye la ciudad de Cartagena, la cual después de la crisis hospitalaria que se presentó en la primera década del Siglo XXI (28) se palpa un notable avance en la atención y cobertura en salud, reflejada en los altos índices de satisfacción en los servicios de salud manifestados por los habitantes de la ciudad, los cuales son los más altos del país (27). Por otra parte, la satisfacción rural en Cartagena ha disminuido un 14% entre 2008 y 2012. La insatisfacción frente a los servicios de salud aumentó en todas las ciudades menos en Cartagena, en donde disminuyó en general 2 puntos porcentuales, a excepción de la zona rural de la misma la cual aumentó un 10% respecto al 2008 (27).
+En general ha habido una reducción de los obstáculos para acceder a la atención en salud, han disminuido desde el punto de vista de la demanda (individuo) pero aumentado en la oferta (funcionamiento de los servicios de salud). El mal servicio y la falta de dinero están en segundo lugar entre las causas de no haber consultado al médico, precedidas por haber considerado el cuadro clínico como
+
+leve por parte del paciente (27). A pesar de los halagadores indicadores de satisfacción, a nivel administrativo los hospitales del Caribe Colombiano han sido los menos eficientes (29), sumado a que las instituciones con menor complejidad han demostrado ser menos eficientes que las de mayor complejidad (29), posible causa del aumento en las tasas de insatisfacción de los pacientes provenientes de zonas rurales (27). El estudio permite concluir que tenemos pacientes provenientes de cartagena como mayor número de los pacientes complicados, carnetizados, con acceso al sistema, pero en realidad sin la confianza en el mismo y cuyos resultados finales no son efectivos y eficientes.
+Si observamos atentamente, las diferencias geográficas entre áreas rurales y urbanas, éstas pueden también contribuir a las diferencias en las tasas de perforación (12), varios estudios han demostrado que los pacientes provenientes de áreas rurales son más propensos a presentar perforación apendicular (6, 12, 13), debido a que los residentes de áreas remotas o rurales pueden no tener igual acceso físico a los proveedores de salud debido a la distribución de los recursos médicos (6), tanto así que en EE.UU sólo el 9% de los médicos laboran en áreas rurales, solo el 36% de los hospitales de zonas rurales contratan un cirujano de tiempo completo y solo el 67% de los hospitales tienen atención de anestesia las 24 horas (12).
+En el caso del departamento de Bolívar, el cual goza de unas particularidades geográficas que acentúan las barreras de acceso a los servicios de la salud como son su particular forma (alargada), en donde casi el 60% del territorio está situado a más de 150 Kms de la capital, la falta de vías de comunicación (30), y la poca disponibilidad de centros hospitalarios de alta complejidad. Para este último punto, según datos la Superintendencia de Salud Nacional, en Bolívar existen 154 centros de atención hospitalaria (31), de los cuales 54 son de carácter público; de éstos, 44 IPSs son de primer nivel, 9 IPSs son de segundo nivel y tan solo 2 IPSs en Bolívar son de un tercer nivel de atención (32). Teniendo en cuenta que la apendicectomía se realiza desde el segundo nivel de atención en adelante, solo se puede realizar dicha intervención en 11 Hospitales (Públicos) en Bolívar, de los cuales tan solo tres de ellos se encuentran en la zona rural del Departamento (Carmen de Bolívar, Magangué y Simití), entendiéndose como zona rural las localidades que se encuentren fuera del Distrito, teniendo en cuenta el número de residentes y su proximidad a la capital del departamento. A pesar de que la falta de médicos en las zonas rurales es evidente, no solo en nuestro país sino en otros (12) se ha descrito que hasta un 30% de los pacientes rurales reciben atención en hospitales urbanos. Y estos fueron remitidos, pero estos pacientes remitidos a hospitales urbanos fueron más propensos a presentar perforación apendicular (12). La baja densidad de población y las grandes zonas geográficas típicas de las zonas rurales contribuyen como barreras en el acceso a la salud. Los pacientes rurales se enfrentan a distancias de viaje más largas para acceder a la atención médica o quirúrgica, el cual puede tener un impacto en el estadio de la enfermedad (12). Lo anteriormente expuesto permite entender el bajo porcentaje de pacientes complicados provenientes de municipios de bolivar, a la vez que evidencia que los mismos proceden exclusivamente de municipios del norte.
+
+Se evidencia muy fácilmente la falta de infraestructura y personal médico en el departamento, además de las dificultades en el acceso a la atención médica antes mencionada, que conllevan a un retraso en la atención y un adecuado tratamiento, produciendo en últimas, un aumento en las tasas de apendicitis perforada como reflejo de las disparidades existentes en el acceso a la salud. Se desconocen estudios a la fecha que indaguen si la apendicitis perforada pueda considerarse como reflejo de las inequidades sociales para el acceso a la salud en Colombia por lo que el presente estudio representa un nuevo aporte en este vacío de conocimiento, y contribuye a mejorar la equidad en el servicio hospitalario, y proveer información para eliminar las disparidades en el cuidado de la salud, que se ha convertido en un tema importante para los servicios de salud y las Américas (8, 10). Basados en el estudio anteriormente expuesto podemos iniciar proceso de actualizacion médica continuada en el personal medico y de salud en general para detectar de manera oportuna signos y sintomas de la apendicitis aguda, iniciando en los centros de atencion primaria con mayor porcentaje de complicaciones de la misma, asi como campañas de concientizacion en promoción y prevención en salud para estimular la consulta oportuna al primer nivel de atención en la poblacion cartagenera, idealmente dentro de las primeras 6 hrs a partir del inicio de los sintomas.
+CONCLUSIÓN
+El diagnostico temprano y el traslado oportuno de los paciente con apendicitis aguda se relaciona directamente con un eficiente manejo en el tercer nivel de atención lo cual se traduce en tiempos mas tempranos de cirugía, menor tasa de complicaciones y tiempo de hospitalización, así como también disminución de los costos que para el sistema de salud en lo que representa la patología quirúrgica de causa benigna mas frecuente a nivel mundial llamada apendicitis aguda.
+Propongo basado en los resultado que se realice y establezca a nivel local y como proyecto a desarrollar Guias de manejo Fast Track de atencion al paciente con abdomen agudo Quirurgico, ajustado a nuestra condicion sociodemografica y cultural específica, socializarlo y aplicarlo con especial enfasis en el primer nivel de atencion del sistema, asi como trabajar en campañas comunitarias de promocion y prevencion en salud en el manejo del dolor abdominal y sus signos de alarma. Esto desde la plataforma y recurso humano de la Universidad de cartagena como Eje de transformacion de la sociedad contando con el apoyo del DADIS, DASALUD y la ESE Cartagena de Indias.
+
+Pacientes con impresión clínica de apendicitis aguda n = 237 (100%)
+Pacientes sin evaluación previa en un centro de atención primaria n = 24 (10.1%) .
+Pacientes con evaluación previa en un centro de atención primaria n = 213 (89.9%)
+Pacientes con diagnostico intraoperatorio diferente a apendicitis aguda n = 19 (8.9%)
+Pacientes con diagnostico anatomopatológico de apendicitis aguda n = 194 (81%)
+Pacientes que no consintieron la entrevista o esta no fue confiable
+n = 63 (26.5%)
+Pacientes con diagnóstico de apendicitis aguda complicada quienes consultaron previamente un centro de atención primaria
+n = 131 (54.5%)
+Figura 1. Secuencia de inclusión y exclusión de sujetos en el estudio.
+
+Tabla 1. Características generales, de la atención pre hospitalaria, hospitalaria y hallazgos diagnósticos
+
+Sexo F M
+
+N
+
+%
+
+51
+
+38.9
+
+80
+
+61.1
+
+Edad Me (RIC)
+
+27 (23 - 38)
+
+Centro atención (CAP) Tiempo entre inicio del Dolor y consulta al CAP Impresión diagnóstica de Apendicitis aguda Se administró analgésico Horas atención en CAP
+
+8 (4 - 20)
+
+71
+
+54,2
+
+66
+
+50,4
+
+3 (1 - 7)
+
+Hospitalarias Tiempo entre inicio del Dolor y consulta al HUC Tiempo entre el ingreso al HUC hasta la Cirugía Tiempo total de diagnóstico (Dolor a Cirugía) Porcentaje de tiempo diagnostico (%) Consulta a CAP Duración en CAP Consulta a HUC Duración HUC
+
+3 (1 - 13) 12 (7 -19) 39 (26 - 59)
+25,9 (9.8 – 46,7) 7,0 (3,3 – 20,6) 9,7 (3,5 – 27.8) 31,8 (20,8 – 52,6)
+
+Diagnostico anátamo-patológico Grado 1 (Edematosa) Grado 2 (Purulenta) Grado 3 (Necrotizante) Grado 4 (Perforada)
+
+8
+
+6.1
+
+36
+
+27.5
+
+44
+
+33.6
+
+43
+
+32.8
+
+Apendicitis complicada Peritonitis Perforación Plastrón Absceso
+
+54
+
+41.2
+
+47
+
+35.9
+
+41
+
+31.3
+
+31
+
+23.7
+
+13
+
+9.9
+
+Muerte por apendicitis
+
+0
+
+Tabla 2. Comparación de las características generales, pre hospitalarias, y hospitalarias entre los pacientes con apendicitis complicada y no complicada
+
+Complicada
+
+No
+
+Valor p
+
+N=54
+
+complicada
+
+N=77
+
+Sexo
+
+F
+
+18 (33,3)
+
+33 (42,9)
+
+0,2711
+
+M
+
+36 (66,7)
+
+44 (57,3)
+
+Edad Me (RIC)
+Centro atención (CAP) Tiempo entre inicio del Dolor y consulta al CAP (T1) Impresión diagnóstica de Apendicitis aguda Se administró analgésico Horas atención en CAP (T2)
+Hospitalarias Tiempo entre inicio del Dolor y consulta al HUC (T3) Tiempo entre el ingreso al HUC hasta la Cirugía (T4) Tiempo total de diagnóstico (Dolor a Cirugía) (T5)
+Diagnostico anátamo-patológico Grado 1 (Edematosa) Grado 2 (Purulenta) Grado 3 (Necrotizante) Grado 4 (Perforada)
+
+32 (24 - 43)
+15 (5 - 30) 20 (37,0) 32 (59,3) 3 (1 - 8)
+10 (2 - 35) 13 (9 -25) 59 (42 - 78)
+0 (0,0) 0 (0,0) 11 (20,4) 43 (77,6)
+
+26 (21 - 36)
+6 (3 - 15) 51 (66,2) 34 (44,2) 3 (1 - 6)
+1 (1 - 4) 11 (6 -17) 30 (22 - 40)
+8 (10,4) 36 (46,8) 33 (42,9) 0 (0,0)
+
+0,0496
+0,0025 0,0009 0,0887 0,5521
+<0,0001 0,0120 <0,0001
+0,0206 <0,0001 0,0073 <0,0001
+
+Tabla 3. Análisis por curvas ROC de la capacidad predictiva de los tiempos de consulta pre hospitalaria y hospitalaria para el desarrollo de apendicitis aguda complicada
+
+Tiempo T1 T2 T3 T4 T5
+
+Punto de Corte > 13 > 6 > 6 > 19 > 37
+
+Sens (IC 95%) 57,4 (43,2 – 70.8) 38,9 (25,9 – 53,1) 57,4 (43,2 – 70.8) 37,0 (24,3 – 51,3) 88.9 (77,4 – 95,8)
+
+Esp (IC 95%) 74,0 (62,8 – 83,4) 76,6 (65,6 – 85,5) 84,4 (74,4 – 91,7) 84,4 (74,4 – 91,7) 70,1 (58.6 – 80.0)
+
+AUC (IC 95%) 0,655 (0,567 a 0,736) 0,530 (0,441 a 0,618 ) 0,731 (0,647 a 0,805) 0,629 (0,540 a 0,712) 0,864 (0,793 a 0,918)
+
+Valor p 0,0017 0,5594 0,0001 0,0100 0,0001
+
+Tabla 4. Asociación cruda y ajustada por regresión logística de las características de atención pre hospitalaria y los tiempos de atención para el desarrollo de apendicitis aguda complicada.
+
+Uso de analgésico en el CAP Sin Impresión diagnóstica en CAP T1 > 13 horas T3 > 6 horas T4 > 19 horas T5 >37 horas
+
+OR crudo 1,84 3,33 3,84 7,30 3,19 18,72
+
+IC 95% 0,86 – 3,96 1,52 – 7,37 1,72 – 8,64 3,00 – 18,12 1,29 – 8,01 6,61 – 59,73
+
+OR Ajustado 0,54 2,96 2,73 3,49 3,17 6,79
+
+IC 95% 0,17 – 1,67 0,95 – 9,23 0,92 – 8,16 1,07 – 11,37 0,98 – 10,28 1,94 – 23,70
+
+Tabla 5. Asociación entre los intervalos de tiempo desde el egreso del centro de atención primaria hasta el manejo quirúrgico de los pacientes y la realización de la impresión clínica de apendicitis aguda en el centro de atención primaria.
+
+T 2 ( Horas ) T 3 ( Horas ) T 4 ( Horas )
+
+Impresión diagnostica de apendicitis: Mediana ( RSiasnegroea)lizó diagnóstico No se realizó diagnóstico p valor
+
+3 ( 1 - 48 )
+
+3 ( 1 - 34 )
+
+0.347
+
+1 ( 1 - 95 )
+
+12 ( 1 - 139 )
+
+0.000
+
+11 ( 2 - 55 )
+
+13 ( 1 - 55 )
+
+0.485
+
+Figura 1. Lugar de residencia habitual de los pacientes con apendicitis aguda (n=131)
+
+Cartagena
+
+76,3%
+
+Turbaco
+
+6,1%
+
+Marialabaja 2,3%
+
+Bayunca
+
+Arjona
+
+Carmen de Bolivar 1,5%
+
+Villanueva 0,8%
+
+Turbana
+
+Sincerin
+
+Santa Rosa
+
+Santa Ana
+
+San Jacinto
+
+Medellin
+
+Magangue
+
+Cordoba
+
+Clemencia
+
+Argentina
+
+Arenal 0,0% 10,0% 20,0% 30,0% 40,0% 50,0% 60,0% 70,0% 80,0% 90,0%
+
+Figura 2. Lugar de residencia habitual de los pacientes con apendicitis aguda complicada (n=54)
+
+Cartagena
+
+Turbaco
+
+6,0%
+
+Marialabaja
+
+4,0%
+
+Turbana 2,0%
+
+Sincerín 2,0%
+
+Santa Rosa 2,0%
+
+Córdoba 2,0%
+
+Clemencia 2,0%
+
+Arjona 2,0%
+
+0,0%
+
+20,0%
+
+40,0%
+
+60,0%
+
+78,0%
+
+80,0%
+
+100,0%
+
+Figura 3. Principales CAP de atención de los pacientes con apendicitis aguda complicada
+
+CAP El Pozon CAP Blas de Lezo CAP La Esperanza
+CAP Turbaco IPS Gestion Salud
+CAP Turbana CAP Olaya
+CAP Canapote CAP Nuevo Bosque CAP Nelson Mandela CAP Maria La Baja
+CAP Los Cerros CAP Arjona
+Nuevo Hospital Bocagrande Cartagena
+CAP Unicartagena CAP Santa Rosa
+CAP San Francisco CAP San Fernando CAP San Fernando
+CAP Clemencia Cap Carmen de Bolivar
+CAP Arroz Barato
+
+13,0% 11,1% 9,3% 7,4% 5,6%
+3,7%
+1,9%
+
+0,0% 2,0% 4,0% 6,0% 8,0% 10,0% 12,0% 14,0%
+
+BIBLIOGRAFÍA
+1. Wray C, Kao L, Millas S, Tsao K, Ko T. Acute appendicitis: Controversies in Diagnosis and Management. Current Problems in Surgery 2013;50:54-86.
+2. Barahona J, Rittenhouse D. Apendicitis Aguda ¿Ser o no Ser? Revisión Biliográfica Pediátrica. Rev Med Hondur 2009;77(3):118-21.
+3. Coelho J, Marquez F, Cortiano G, Munhos G, Sadowski J, Artner C. Appendectomy. Comparative study between a public and a private hospital. Rev Assoc Med Bras 2010; 56(5): 522-7.
+4. Steinman M, Rogeri P, Lenci L, Kirschner C, Teiveira J, Gonçalves P, et al. Appendicitis: What does really make the difference between private and public hospitals? BMC Emergency Medicine 2013;13(15).
+5. Collaborative NSR. Multicentre observational study of perfomance variation in provision and outcome of emergency appendicectomy. British Journal of Surgery 2013;100:1240-52.
+6. Huang, H; Chou, Y. Trends in rural and urban differentials in incidence rates for ruptured appendicitis under the National Health Insurance in Taiwan. Public Health 2006;120:1055-63.
+7. Iglesias J. Caracterización Epidemiológica y Clínica de la Apendicitis Aguda en el Hospital Universitario del Caribe 2008-2012: Universidad de Cartagena; 2013.
+8. Linares-Ramírez J, Ricaurte-Aragón A. Apendicitis Aguda Perforada en Adultos; Aproximación a las Inequidades Sociales en Salud, Bogotá 2012. [Tesis de Grado]: Universidad del Rosario; 2013.
+9. Bermudez A, Rivero A, Barroetabeña Y, Padieme R.Caracterización de los Pacientes con Abdomen Agudo Quirurgico Atendidos en el Centro Medico de Diagnóstico Integral. Municiío de Pampán. MEDICIEGO. 2012;18((Supl 1)).
+
+10. Lee S, Yaghoubian A, Stark R, Shekherdimian S. Equal access to Healthcare Does Not eliminate Disparities in the Management of Adults with Appendicitis. Journal of Surgical Research 2011;170:209-13.
+11. Papandria D, Goldstein S, Rhee D, Salazar J, Arlikar J, Gorgy A, et al. Risk of perforation increases with delay in recognition and surgery for acute appendicitis. Journal of Surgical Research 2012 ;184:723-9.
+12. Paquette I, Zuckerman R, Finlayson S. Perforated Appendicitis Amog Rural and Urban Patients: Implications of Acces to Care. Ann Surg 2011;253:534-8.
+13. Pieracci F, Eachempati S, Christos P, Barie P, Mushlin A.Explaining insurance-related and racial disparities in the surgical management of patients with acute appendicitis. The American Journal of Surgery 2007;194:57-62.
+14. Scarborough B, PappasT. Racial disparities in ourcomes after appendectomy for acute appendicitis. The American Journal of Surgery 2012;204:7.
+15. Stein G, Rath-Wolfson L, Zeidman A, Atar E, Marcus O, Joubran S, et al. Sex differences in the epidemiology, seasonal variations, and trends in the managements of patients with acute appendicitis. Langenbecks Arch Surg 2012; 397(1):1087-92.
+16. Trent S, Valley M, Brookler K, Haukoos J, Zerzan J.Potential barriers associated with increased prevalence of perforated appendicitis in Colorados's pediatric Medicaid population. American Journal of Emergency Medicine 2012;31:469-72.
+17. Walker A, Hatch Q, Nelson D, Fitzpatrick E, Bingham C, Black G, et al. Predictors of appendiceal perforation in an equal acces system. Journal of Surgical Research. 2014.
+18. Morera M. Variabilidad Geográfica y Factores Explicativos de las Tasas de Hospitalización por Problemas de Salud Suceptibles de Resolverse Ambulatoriamente: El Caso de Costa Rica. Estudios de Economía Aplicada 2006;24(3):803-20.
+
+19. Macinko J, Dourado I, Guanais F. Enfermedades Crónicas, Atención Primaria y desempeño de los sistemas de Salud. Diagnóstico, herramientas e intervenciones. 2011. Report No.: IDB-DP-189.
+20. Roosevelt F. Apendicitis Aguda en Adultos. In: Social MdP, editor. Guias para Manejo deUrgencias. Tercera Edición ed. Bogotá2009.
+21. Andrade J,Bermeo J. Comparación de la Eficacia Diagnóstica para Apendicitis de la Escala de Alvarado VS Ecografía teniendo como Referencia el Resultado Histopatológico en Pacientes Mayores de 12 años ingresados al Servicio de Emergencia del hospital vicente Corral Moscoso desde Enero del 2011 hasta Diciembre del 2001. Ecuador: Universidad de Cuenca; 2013.
+22. Maldonado P, Lopez R.Factores de Riesgo en Apendicitis Aguda Complicada en Pacientes del Hospital Vicente corral Moscoso de Cuenca, años: 2006-2008: Universidad de Cuenca; 2009.
+23. Ospina L, Manrique G. Utilidad de una Escala Diagnostica en casos de Apendicitis Aguda. Rev Colomb Cir 2011;26:234-41.
+24. Puerto D. La Gestión de Riesgo en Colombia. Bogotá: Universidad Nacional de Colombia; 2011.
+25. Sistema de Seguridad Social Integral, Ley 100 de 1993 (1993). 26. Livingston E, Fairlie R.Little Effect of Insurance status or Socioeconomic
+Condition on Disparities in Minority Appendicitis Perforation Rates. Arch Surg 2012;147(1):11-7. 27. Reina Y. Acceso a los Servicios de Salud en las Principales Ciudades Colombianas, 2008-2012. Documentos de trabajo sobre economía Regional. Cartagena: Banco de la Republica; 2014. p. 47. 28. Viloria J. Salud Pública y Situación Hospitalaria en Cartagena. Documentos de Trabajo sobre Economía Regional. Cartagena: Banco de la República; 2005. p. 71. 29. Orozco A. Una aproximación regional a la eficiencia y productividad de los hospitales públicos Colombianos. Documentos de Trabajo sobre Economía Regional. Cartagena: Banco de la República; 2014. p. 53.
+
+30. Viloria J. Economía y conflicto en el Cono sur del Depoartamento de
+
+Bolívar. Cartagena: Banco de la República; 2009.
+
+31. Salud Sd. Instituciones Prestadoras de Servicios de Salud en Bolívar.
+
+[cited
+
+2014
+
+19/Abril];
+
+Available
+
+from:
+
+http://www.supersalud.gov.co/mapaBolivar.html
+
+32. Salud Sd. IPSs por Nivel de Atención. 2014 [cited 2012 19/Abril/2014];
+
+Available from: http://201.234.78.38/habilitacion/consultas/sedes.aspx.
+
+33. Cope Z. A History of the Acute Abdomen. London, England Oxford
+
+University Press; 1965.
+
+34. Fitz RH. Perforating inflammation of the vermiform appendix; with special
+
+reference to its early diagnosis and treatment. Am J Med Sci 1886; 92: 321-
+
+46.
+
+35. Williams GR. Presidential address: a history of apendicitis. With anecdotes
+
+illustrating its importance. Ann Surg 1983; 197: 495-506.
+
+36. Wray C, Kao L, Millas S, Tsao K, Ko T. Acute appendicitis:
+
+Controversies in Diagnosis and Management. Current Problems in
+
+Surgery 2013;50:54-86.
+
+ANEXOS
+Formato de recolección de datos
+Factores asociados a la incidencia de apendicitis aguda complicada en la E.S.E. Hospital Universitario del Caribe
+
+Datos generales del paciente
+
+Nombre del paciente
+
+Código de
+
+____________________________________________________________________________
+
+registro________________________________
+
+Número de historia
+
+Números telefónicos
+
+_______________________________________________
+
+____________________________________________________________
+
+Genero
+
+Femeni no
+
+Masculin o
+
+Edad
+
+________________ años
+
+Procedencia _________________________________________________
+
+Variables pre - hospitalarias
+
+Fecha de inicio del dolor ______________________ ; Hora de inicio del dolor _____________________ ; Automedicación
+
+Si N o
+
+Centro de atención primaria ( CAP )
+
+_________________________________________________________________________________________________________________________
+
+Fecha de ingreso a CAP
+
+Hora de ingreso a CAP
+
+Tiempo de consulta a CAP
+
+_______________________ ;
+
+_______________________ ;
+
+______________ hora
+
+¿ Se realizó impresión diagnostica Si ?
+
+No ¿Fue remitido al segundo nivel?
+
+Si N o
+
+¿ Seadministró analgésico ?
+
+Si No Descripción del analgésico _____________________________________________
+
+Fecha de egreso en CAP
+
+Hora de egreso en CAP
+
+Tiempo duración en CAP
+
+______________________ ;
+
+_______________________ ;
+
+_______________ horas
+
+Variables hospitalarias
+
+¿Consultó por decisión Si No propia ?
+
+Fecha de ingreso a HUC ______________________ ; Fecha de ingreso a cirugía ____________________ ; Diagnostico anatomo - patológico Tiempototal de diagnóstico _______________ horas ¿ Apendicitis complicada ?
+Plastrón apendicular
+¿ Remisión a tercer nivel ?
+
+Hora de ingreso a HUC
+
+Tiempo de consulta a HUC
+
+_______________________ ;
+
+_____________ horas
+
+Hora de ingreso a
+
+Tiempohasta procedimiento
+
+cirugía_____________________ ;
+
+___________ horas
+
+Apendicitis grado 1 ( edematosa
+
+Apendicitis grado 2 ( purulenta
+
+)
+
+)
+
+Apendicitis grado 3 (
+
+Apendicitis grado 4 ( perforada
+
+necrotizante )
+
+)
+
+Si
+
+No Peritonitis aguda
+
+Si N o
+
+Si
+
+No Absceso apendicular
+
+Si N o
+
+Si No ¿Paciente muere por la apendicitis?
+
+Si N o
+
+Observaciones _______________________________________________________________________________________________________________________________________ __________ _______________________________________________________________________________________________________________________________________ ___________________________
+_______________________________________________________________________________________________________________________________________ ___________________________
+_______________________________________________________________________________________________________________________________________ ___________________________

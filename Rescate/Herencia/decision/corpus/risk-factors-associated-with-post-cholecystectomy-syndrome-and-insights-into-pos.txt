@@ -1,0 +1,491 @@
+Research Article
+Open Access, Volume 4
+
+www.journalonsurgery.org ISSN: 2691-7785
+
+Risk Factors Associated with Post-Cholecystectomy Syndrome and Insights into Post-Surgical Follow-Up: Retrospective Cohort Study
+Jose Castillo; Soumil Narayan; Gabriel Urreola; Khadija Soufi; Michael Le*; Omar Ortuno Carolinas Medical Center, Charlotte, North Carolina, USA.
+
+Abstract
+Background: Post Cholecystectomy Syndrome (PCS) refers to a persistence of heterogenous symptoms in patients who have undergone cholecystectomy. Although the term PCS remains in contention, we define it as a complex of ≥1 varied symptoms which include right upper quadrant pain, nausea/vomiting, diarrhea, or dyspepsia. The underlying etiologies of PCS are currently evolving but are broken down as early and late biliary causes and extra biliary causes. The advent of minimally invasive techniques and advanced imaging has drastically changed both the evaluation and treatment of patients with cholecystitis and inevitably the understanding of PCS. The goal of this manuscript is to report underlying etiologies of PCS, clearly define risk factors and influence management of patient who undergo cholecystectomy.
+Methods: We performed a retrospective analysis of 292 patients undergoing cholecystectomy to examine incidence of PCS, stratify PCS into various subtypes by pathophysiology, and identify covariates associated with increased development of PCS and PCS subtypes.
+Results: The incidence of all-cause PCS is 15% and can be broken down into biliary causes (e.g.biliary duct injury, retained stones, bile acid diarrhea etc) which constitutes 7.1% of cases, unexplained incisional pain which constitutes 2.1% of cases and idiopathic pathology which constitutes 7.8% of cases. Risk factors associated with development of PCS include female gender (OR 1.93, p=0.039) and presence of multiple gallstones (OR 2.0, p=0.046).
+Conclusion: Given female patients and multiple gallstones on preoperative imaging are risk factors for PCS, we recommend these patients to be counseled prior to surgical intervention. Moreover, we suggest patients with these risk factors necessitate further attention in post operation follow-up to manage potential symptoms. We also confirm various proposed etiologies of PCS, which include both biliary and extra biliary origins.
+Keywords: Postcholecystectomy syndrome; Cholecystectomy; Biliary; Risk factors.
+Manuscript Information: Received: Aug 03, 2024; Accepted: Aug 27, 2024; Published: Sep 03, 2024 Correspondance: Michael Le, Carolinas Medical Center, Charlotte, North Carolina, USA. Email: miqle@ucdavis.edu Citation: Castillo J, Narayan S, Urreola G, Soufi K, Le M, et al. Risk Factors Associated with Post-Cholecystectomy Syndrome and Insights into Post-Surgical Follow-Up: Retrospective Cohort Study. J Surgery. 2024; 4(2): 1174.
+Copyright: © Le M 2024. Content published in the journal follows creative common attribution license.
+
+Introduction
+Post Cholecystectomy Syndrome (PCS) is a collection of heterogenous symptoms that emerge after a patient’s gallbladder is surgically removed. These symptoms include right upper quadrant pain, diarrhea, nausea/vomiting, and indigestion, which are similar to the issues that often lead to the gallbladder’s removal in the first place. The causes of PCS are not fully understood but are notably categorized into early and late biliary causes, as well as causes unrelated to bile-ducts (extra-biliary) [1-3]. There is a large amount of variability in estimating the incidence of PCS, with estimates ranging from 5% and 40% [4]. These variations in PCS manifestation may be explained by advances in medical imaging, surgical techniques, postsurgical care, along with differing definitions of PCS across various studies.
+In older surgical literature the approach to treating patients with biliary symptoms was significantly different from the modern-day approach. The historical preoperative evaluation consisted of performing x-ray cholecystography with oral contrast and performing an open cholecystectomy in patients with calculous cholecystitis [5]. This approach was deemed to have a high failure rate with a larger portion of patients developing PCS. The incidence could be as high as 40% in patients who had false-positive x-ray cholecystography, and were later found to have acalculous gallbladders on pathology [6].
+With the advent of Ultrasound (US), Computed Tomography (CT), biliary scintigraphy, Magnetic Resonance Imaging (MRI) enterography, and Endoscopic Retrograde Cholangiopancreatography (ERCP) significant advances have been made in evaluating patients both pre and post operatively. Furthermore, advances in minimally invasive approaches have expanded surgical candidacy of patients, while also minimizing traumatic complications of the procedure [7]. The most recent prospective study performed in 1998 found a PCS incidence of 5% with identified etiologies including: residual stones 1%, subhepatic liquid formation 0.8%, incisional hernia 0.4%, peptic diseases 4%, wound pain 2.4%, functional disorders 26%. The purpose of this study is to: (1) Add to the existing clinical data of the underlying etiologies associated with post-cholecystectomy syndrome (2) clearly define the risk factors associated with this syndrome (3) provide clinical insight into the management of patients who undergo cholecystectomy.
+Materials and methods
+Patients: All patient information for this study was obtained from a single academic institution’s electronic medical records system known as Epic. A list of cholecystectomy patients was generated from the hospital’s Quality Advisor administrative database consisting of 292 patients aged 18 or older with a documented cholecystectomy International Classification of Diseases 9 (ICD-9) procedure code (51.2).
+Each of the 292 charts were retrospectively and manually reviewed and then assigned into either PCS positive or negative subgroups. Due to the retrospective nature of our study, patients and the public were not involved in generating the research question, methods or outcomes. We defined the PCS positive group as patients with occurrence of ≥1 of the following symptoms (right upper quadrant pain, nausea/vomiting, diarrhea, dyspepsia) after 5 days postoperatively regardless of initial time of onset, quality,
+
+or duration. We exclude from this any patients that have an active alternative diagnosis that may adequately explain their symptoms, or inadequate workup of their PCS symptoms.
+For both groups, data was collected regarding patients’ preoperative risk factors including demographics, operative details, surgical pathology, and past patient histories (medical, family, and social). Data was collected through routine documentation from patient registration data, preoperative history & physical note, operative note, and surgical pathology note. Furthermore, for all patients, documentation associated with emergency department and post-operative visits occurring between the time of surgery and 3 years post-op were manually reviewed to identify any patients experiencing symptoms of PCS. We found three years to encompass most patients who either developed PCS or who had meaningful follow up related to their cholecystectomy. Within the group of patients that did experience one or more PCS symptoms, further review of the patient’s problem list and other documented medical encounters were reviewed to exclude patients from the PCS group that have alternative diagnoses that adequately explain their symptoms.
+Patients were stratified based on the work-up of their postoperative PCS symptoms in a stepwise manner into the following groups. Priority was given to groups higher on the list.
+(1) Unexplained surgical site pain; defined as patients with nor mal labs and isolated abdominal pain that is consistent with either somatic incisional site pain or visceral pain associated with a prolonged recovery. This may occur either acutely (e.g. immediately after surgery and persisting for up to one month) or as a late recurrence in the form of incision site hernia.
+(2) Bile acid diarrhea; defined as patients with normal labs and isolated chronic diarrhea that occurs immediately following cholecystectomy.
+(3) Insufficient workup; defined as patients which have documented symptoms associated with PCS that are not consistent with the above categories and have a paucity of laboratory workup, imaging, physical exam documentation, and/or documentation to sufficiently evaluate and characterize the patient’s PCS subtype. Sufficient workup here is defined as having a documented history and physical with a mandatory abdominal component, accompanied by lab testing (>2 of the following: CBC/BMP, LFTs, lipase/amylase, esophageal pH monitoring) and at least one source of imaging (RUQ ultrasound, CT abdomen, EGD, barium swallow).
+(4) Other-Biliary; defined as patients with known and well biliary characterized causes of PCS. Examples broadly include biliary obstruction (such as retained stone, biliary dyskinesia, biliary stricture, or adhesions) and biliary duct injury.
+(5) Idiopathic; defined as patients which have presentations concerning for PCS with normal labs and imaging, and do not fit any aforementioned categories.
+Additionally, statistical analysis was performed to examine risk factors that stratify PCS positive against PCS negative patients, and our secondary outcomes which examines risk factors of PCS subtypes against PCS negative patients. The statistical methods used are listed by covariate in Table 2.
+
+www.journalonsurgery.org
+
+2
+
+Figure 1: PCS characterization algorithm.
+Results
+Study population: Of the 292 patient charts reviewed 108 patients had one or more PCS symptoms. Of these 108 patients, 57 had a confounding or alternative disease processes that adequately or better explained their symptoms and 7 had insufficient work-up. A total of 44 patients met criterion for PCS and were further stratified patients into subtypes based on their postoperative presentation and workup (Figure 1). The overall incidence of Post-Cholecystectomy Syndrome (PCS) is 15%, with 7.1% attributed to biliary issues (ie. duct injury, retained stones, and bile acid diarrhea). Unexplained surgical site pain accounts for 2.1%, while idiopathic causes represent 7.8% of cases.
+The median age of the study population was 52 years old, with a female majority of 176 patients and 116 male patients. A full list of demographics can be seen in Table 1. The incidence of the four PCS symptoms is greatest in the immediate postoperative period with most symptoms occurring within the first 3 months. Furthermore, patients that met our PCS criteria had earlier onset of PCS symptoms in comparison to the patients experiencing PCSlike symptoms in the PCS negative group (Figure 2). Density was defined as percentage of patients out of the sum total (Figure 2).
+On analysis of demographic factors and surgical correlates for developing PCS, female gender (OR 1.93, p=0.039) and presence of multiple gallstones (>2) (OR 2.0, p=0.046) were significantly associated with increased risk of developing PCS. Of note, atypical division of the cystic duct (i.e. division occurring either unusually distally or proximally) approaches but does not meet statistical significance (OR 2.67, p=0.14). A full list of covariates examined can be found in Table 2.
+
+Table 1: Baseline characteristics of all patients (N=292).
+
+PCS Positive (n=61) PCS Negative (n=241)
+
+Gender
+
+Male
+
+17(27.9%)
+
+99(41.1%)
+
+Female
+
+44(72. %)
+
+132(54.8%)
+
+Ethnicity
+
+Hispanic or Latino
+
+18(29.5%)
+
+64(26.6%)
+
+Not Hispanic or Latino
+
+41(67.2%)
+
+147(61.0%)
+
+Unknown
+
+2(3.3%)
+
+20(8.3%)
+
+Race
+
+Asian
+
+9(14.8%)
+
+33(13.7%)
+
+African American
+
+3(4.9%)
+
+15(6.2%)
+
+Native Hawaiian/Pacific Islander
+
+1(1.6%)
+
+0
+
+White
+
+38(62.3%)
+
+144(59.8%)
+
+Other
+
+10(16.4%)
+
+37(15.4%)
+
+American Indian/Alaska Native
+
+0
+
+0
+
+Unknown
+
+0
+
+2(0.8%)
+
+Smoking status
+
+Never
+
+48(78.7%)
+
+167(69.3%)
+
+Former
+
+11(18.0%)
+
+44(18.3%)
+
+Current
+
+2(3.3%)
+
+20(8.3%)
+
+Alcohol use
+
+Yes
+
+19(31.1%)
+
+85(35.3%)
+
+No
+
+42(68.9%)
+
+141(58.5%)
+
+Unknown
+
+0
+
+5(2.1%)
+
+Surgical approach
+
+Laparoscopic
+
+53(86.9%)
+
+199(82.6%)
+
+Open
+
+3(4.9%)
+
+13(5.4%)
+
+Laparoscopic converted to open
+
+5(8.2%)
+
+19(7.9%)
+
+Elective status
+
+Yes
+
+6(9.8%)
+
+24(10%)
+
+No
+
+55(90.2%)
+
+206(85.5%)
+
+Unknown
+
+0
+
+1(0.4%)
+
+Secondary procedure
+
+Yes
+
+10(16.4%)
+
+11(4.6%)
+
+No
+
+51(83.6%)
+
+220(91.3%)
+
+Figure 2: Incidence/Prevalence of PCS symptoms in PCS and non-PCS patients.
+
+www.journalonsurgery.org
+
+3
+
+Table 2: Univariate correlates of PCS.
+
+Variable Sex (F vs M) Race Age (years) Ethnicity (Hispanic vs non-Hispanic) Smoking (pack years) Alcohol consumption (oz/week) Surgical approach Urgent vs elective Atypical cystic duct division Gallstones (present/absent)
+Gallstones (count)
+Gallbladder thickness (cm) Obstruction (present/absent) Calculi obstruction vs non-calculi obstruction Recent weight loss (present/absent) Family History of Biliary disease (present/absent)
+
+Model Fisher’s Exact Test Binomial regression (categorical) Binomial regression Fisher’s Exact Test Binomial regression (continuous) Binomial regression (continuous) Fisher’s Exact Test Fisher’s Exact Test Fisher’s Exact Test
+Fisher’s Exact Test
+Binomial regression (categorical)
+Binomial regression (continuous) Fisher's Exact Test Fisher’s Exact Test Fisher’s Exact Test Fisher’s Exact Test
+
+Odds ratio or correlation coefficient 1.93
+
+P-value 0.039
+
+-0.0084
+
+0.26
+
+1.01
+
+1.0
+
+0.029
+
+0.27
+
+0.37
+
+0.21
+
+1.15
+
+1.0
+
+0.94
+
+1.0
+
+2.67
+
+0.14
+
+2.58 One - 0.61 Two - 0.88 Multiple - 0.50
+0.62 0.30 0.96 0.40 1.05
+
+0.15 One - 0.31 Two - 0.97 Multiple - 0.046
+0.61 0.12 1.0 0.6 1.0
+
+Discussion
+As a procedure, cholecystectomy involves many physiologic changes to the biliary and gastrointestinal system including disruption of the hormonal signaling, cholecysto-esophageal reflexes and cholecysto-antral reflex which can result in new onset symptoms following surgery [5]. The rates of PCS in the literature have ranged from 5% to 40% and remains an understudied etiology with unclear pathogenesis [6-8]. Our study aligns, and contributes to the literature, with our data demonstrating a 15% all-cause of PCS [9]. Moreover, the literature suggests the natural time-course of the disease to range vastly from 2 days to 25 years. Our research aligns with this data as we look at PCS from 5 days to 3 years.
+As a diagnosis of exclusion, PCS requires fulfillment of multiple criteria for appropriate diagnosis. However, this is complicated by the poor definition of this clinical entity. Although the variability of this diagnosis may be better understood in the historical context of which PCS initially was used to capture a set of complications of cholecystectomy that would have been technically challenging to diagnose with prior imaging and technology for diagnostically challenging patients that have failed cholecystectomy. Over time this definition faltered, as many of these previous diagnostic challenges may become readily identifiable and wellcharacterized forms of biliary disease. In this study, we define PCS as meeting the criteria defined in our methods. We also recognize PCS has various subtypes that have been more clearly defined by Girometti et al, as intra biliary and extra biliary [1]. Our findings fall within these two larger subtypes and were categorized as the following: unexplained surgical pain, bile acid diarrhea, other-biliary, idiopathic, and insufficient work-up. In this study, we define PCS as idiopathic subtypes without a specific cause of symptoms.
+
+However, it is still of clinical importance to be able to identify characterizable causes of PCS and manage them appropriately.
+This study found a higher prevalence of PCS amongst female patients which is consistent with the literature and thought to be due to increased prevalence of cholecystectomy amongst women due to estrogen induced supersaturation of the bile [10]. Beyond higher prevalence, female gender was significantly associated with PCS, however, the exact etiology of this remains unknown. Additionally, demographic factors such as age, race/ethnicity, and comorbidities such as obesity, recent weight loss, smoking and alcohol use were not associated with PCS syndrome which is consistent with reported findings by Saleem at al in a search of National Inpatient Sample database [5,11]. This study also affirms that the typical patient is a middle-aged female Caucasian patient [5]. Our findings are important to surgical decision making and clinical management of post-operative symptomatology, suggesting female patients may need more patient education and postoperative follow-up to manage symptoms.
+Biliary gallstones are a common etiology of PCS requiring further laboratory and procedural workup and have been to occur 10% of the time after a cholecystectomy. Our findings indicate that the number of gallstones found on imaging can be a risk factor for developing PCS. We found that 1-2 gallstones are lower risk, while multiple gallstones (>2) is a risk factor for developing PCS. This suggests patients with multiple gallstones may need closer follow-up in the post-operative period to help manage symptoms. Additional risk factors, although not statistically significant, may include atypical division of the cystic duct (i.e. division occurring either unusually distally or proximally) suggesting that retention of distal biliary segments or proximal leaks, features associated with atypical cystic duct division, may play a role in pathogenesis
+
+www.journalonsurgery.org
+
+4
+
+of PCS. In terms of other surgical and anatomic characteristics, neither gallbladder thickness, presence of obstruction including calculi and urgency of surgery had no association with development of PCS. In terms of surgical approach, there was no difference between open vs laparoscopic surgery indicating that surgical site pain is most likely one of many etiologies for this condition.
+Limitations
+Our study is important because it contributes to the understanding of PCS. We recognize and highlight that PCS is an imperfect and ever-growing definition for a syndrome that occurs in patients following cholecystectomy. It is important to emphasize that although there are unclear defined etiologies, previous literature suggests PCS can be broken down into smaller, more discernible categories. These include early and late biliary as well as extra billary causes Girometti et al, which we based much of our results on. We also recognize retrospective data analysis as another study limitation. Inevitably, due to this design we are unable to control all confounding variables and have limited control over exposure factors. Future prospective studies, controlling for demographics and symptoms may be able to provide a clearer picture into underlying etiologies causing of PCS. Another limitation to consider is our sample size. Although we were able to derive unique and interesting conclusions, analysis of sub-groups was limited by size.
+Appropriate assessment of PCS requires understanding of its distinct etiologies which are discussed below along recommendations in identification and proposed pathophysiology of each of these cases.
+Unexplained surgical pain pathophysiology
+Notably, 5% of patients following laparoscopic cholecystectomy experience chronic abdominal pain of unknown etiology [2]. Perioperative pain is expected to occur after any surgical procedure where tissue trauma has occurred. If perioperative pain is endorsed, it commonly is reported immediately after tissue trauma and is a result of inflammation and/or direct nerve damage [12]. Like our cases (2.1%) some patients may experience incisional pain that does not have a direct explanation. Other symptoms associated with post-operative incisional pain include nausea, vomiting, dyspepsia, and tachycardia. The combination of symptoms as described above makes unexplained surgical site pain, although less frequent, a notable extra-biliary cause of PCS [1].
+Diagnosis: Diagnosis of prolonged postoperative pain is largely clinical in nature and should be made in patients with isolated post-operative surgical site pain with gradual improvement of pain over time. In cases where infection and rheumatologic processes are of concern, serologic markers like ESR and CRP can be used to distinguish between the two, as these markers are normal in neuropathic pain, but may be high in infectious or rheumatologic processes. For cases of protracted pain, we recommend serial examination for up to 1 month if there is no improvement or 3 months with gradual improvement. Per review of cases of protracted surgical pain, by the end of the three-month period most patients had resolution of their symptoms.
+Treatment: The first line approach for pain control includes topical lidocaine, acetaminophen, NSAIDs, and gabapentin. There is a growing literature base suggesting aggressive use of these agents as preventive analgesia provides better pain control than
+
+rescue analgesia [13].
+Biliary obstruction - Adhesions
+Pathophysiology: Adhesions are abnormal connections of peritoneal tissue occurring as a normal response to injury of the peritoneal tissue. Adhesions have been implicated in a variety of disease processes, most classically small bowel obstruction but has also been associated with infertility in women, and chronic abdominal pain [10]. The pathogenesis of adhesions involve an inflammatory response with tissue deposition of fibrin through macrophages, epithelial, and mesothelial cells. Adhesions are more likely to arise when there is significant opposition of two damaged surfaces and increased rates of fibrin deposition via heightened inflammatory response. Conversely adhesions can be avoided if complete fibrinolysis occurs during the healing process leading to proper reepithelialization and smooth visceral surfaces. Furthermore, pain may arise when fibrinolysis fibrinolysis does not occur, as ingrowth nerves within fibrinous surfaces are susceptible to damage with shear forces leading to post-operative pain. Furthermore, significant adhesions along the biliary tract may produce frank obstruction of the biliary system causing a clinical presentation like choledocholithiasis or cholecystitis.
+Diagnosis: The diagnosis of an adhesion may be complicated depending on whether there is frank biliary obstruction or not. MRCP can be a valuable tool in assessing patients that present like classic biliary obstructions in post-cholecystectomy patients and may simultaneously evaluate other select causes of obstruction such as neoplastic masses. Conversely nonobstructive presentations of chronic RUQP would be more consistent with adhesions. Treatment The mainstay treatment for adhesion is adhesiolysis. Patients should be carefully monitored for recurrence.
+Bile leak/Biloma
+Bile leaks are common after cholecystectomy, with most leaks being clinically insignificant. Routine postoperative ultrasonography will detect small collections within the gallbladder bed in up to 24 percent of patients [14]. Significant bile leaks usually present with first postoperative week and occur in approximately 1.1% of patients [12,13]. Patients present with abdominal pain in 65%, fever in 54%, and abdominal tenderness in 60% of patients with documented biliary leak [13]. Pathophysiology The majority of bile leaks (up to 77%) arise from the cystic duct stump [12], but it has also been found that bile duct leak can occur from the transection of “subvesical” ducts or ducts of luschka [15,16]. It is believed that leaks from the cystic duct stump tend to occur due to either clip dysfunction or misplacement and/or necrosis or tearing of the cystic duct remnant proximal to the clip. Furthermore, biliary leak do not appear to be related to choledocolithiasis, as these patients develop leaks at similar rates to patients without retained stones with an incidence between 20% and 27% [13,16].
+Diagnosis: If one is suspected of having a bile leak, pockets of bile can usually be found via US [17]. CT scans are also able to distinguish bile leaks. However, negative US and CT cannot exclude a bile leak. The gold standard approaches include MRCP 95% sensitive and 100% specific for the diagnosis of a bile leak, but ERCP is currently the preferred over it as it is similar in sensitivity and specificity and provides a means of therapeutic intervention should a leak be found. Treatment As most bile leaks occur
+
+www.journalonsurgery.org
+
+5
+
+from the cystic stump or ducts of luschka a determination must be made to the output of the leak (e.g. through surgical drains or biloma volume). Low volume leaks tend to resolve without intervention. Should a bile leak persist, a stent can be placed to divert biliary flow and is typically done for about 4 to 6 weeks and is later removed once the patient is asymptomatic. For larger leaks (e.g. overt transection of a major biliary limb) a hepaticojejunal limb can be used to contain bile within the GI tract. It should be noted that stenting is not appropriate in cases where biloma persist, as these require drainage either percutaneously or via a surgical approach. Alternatively, an endoscopic ultrasound approach may be utilized to drain billomas in poor surgical candidates that are not amenable to percutaneous drainage [18].
+Bile acid diarrhea
+Pathophysiology: Bile acid diarrhea is believed to be a sequelae of increased bile acids in the bowel, oversaturating the channels that absorb bile acids at the ileum, and leading to osmotic diarrhea [19]. It has also been noted that patients with cholecystectomy have a total colonic transit time similar to patients with infectious diarrhea which can further decrease the absorptive capabilities of the colon leading to looser, less concentrated stool [20].
+Diagnosis: The diagnosis of bile acid diarrhea is clinical in nature. The signs and symptoms of post cholecystectomy diarrhea include as the name implies, >3 times a day of passing loose or watery stools, often may be accompanied by sequelae of chronic diarrhea [21]. Should there be concerns for other causes of diarrhea stool electrolytes and osmotic gap can be used to differentiate between secretory and osmotic diarrhea as bile acid diarrhea is expected to be osmotic in nature with an osmotic gap of >125 mOsm/kg [22]. For differentiation of bile acid diarrhea between other causes of osmotic diarrhea, a selenium Homocholic Acid Taurine (75-SeHCAT) scan can be employed [23]. The SeHCAT test involves oral administration of a selenium75 labeled synthetic bile acid followed by measurement of radiolabeled bile acid transit by gamma camera scan at seven days post-administration. Bile acid diarrhea is associated with a >5% retention of 75-SeHCAT.
+Treatment: Most patients have spontaneous improvement of bile acid diarrhea within 3 months. Should diarrhea persist, several dietary alterations can be made, including limiting intake of aggravating foods and increasing dietary fiber intake. In more severe or persistent cases bile acid binders such as cholestyramine have been shown to be successful in treating bile acid diarrhea [24].
+Biliary obstruction - Retained stone and biliary sludge
+Pathophysiology: Retained stones are thought to occur secondary to a gallstone escape during the cholecystectomy or formation of a de novo stone in the common bile duct secondary to biliary stasis associated with anesthesia, local trauma/inflammation, and opioid mediated sphincter dyskinesia. Retained stones have been shown to occur 10% of the time after a cholecystectomy [25].
+Diagnosis: The signs and symptoms of a retained stone are like those of biliary colic and calculous cholecystitis prior to cholecystectomy. One will endorse continued RUQ pain, epigastric pain, nausea or vomiting despite having the cholecystectomy. Lab workup may reveal elevations of liver enzymes, bilirubin, and alka-
+
+line phosphatase, and typically stones lodged downstream of the ampulla of Vater will present with pancreatitis symptoms and increased lipase/amylase. Another complication of a retained stone may include the development of cholangitis, with the patient endorsing Charcot’s triad and leukocytosis. Diagnosis of a retained stone is essentially the same as prior to cholecystectomy, with common modalities being used including RUQ US, EUS, MRCP, or ERCP. One meta-analysis found RUQ US to be 73% sensitive and up to 90% specific for diagnosing a stone in the common bile duct. If the symptoms are reported shortly after a cholecystectomy a RUQ US becomes less useful because studies have shown that the bile duct can dilate up to 10 mm after a cholecystectomy, making it difficult to determine if the symptoms are secondary to normal postoperative inflammation or retained stone. Consequently, patients with biliary type pain after a cholecystectomy are recommended to undergo MRCP, ERCP, or EUS to confirm the diagnosis. ERCP for choledocholithiasis is estimated to be 80 to 93 percent, with a specificity of 99 to 100 percent and allows for immediate intervention [26,27].
+Treatment: Treatment for retained stone is ERCP to remove the retained stone or sludge but can include another surgery. Individuals with altered anatomy such as Roux-en-Y gastric bypass may undergo a “percutaneous” ERCP through the gastric remnant pouch, or surgical exploration Prevention: There has been ongoing debate regarding the use of routine Intraoperative Cholangiogram (IOC) in the prevention of choledocholithiasis. In past literature, routine IOC was studied in non-risk stratified patients revealing an 11% incidence of retained stones. However, there is significant debate as to whether outcomes are improved with intervention in retained stones. IOC has several benefits in that it allows identification of biliary anatomy and may reduce bile duct injury rates and identified choledocholithiasis. Conversely, it also may lead to unnecessary intervention in choledocholithiasis in the form bile duct exploration or ERCP. In our study we were able to identify patients with symptomatic choledocholithiasis that requires intervention, and we noted a statically significant relationship between number of stones seen in preoperative imaging and development of all-cause biliary obstruction (e.g. adhesions, choledocholithiasis, or biliary sludge). Patients with no stones had an incidence of 0.8% of obstructive PCS, patients with one stone on imaging had an incidence of 1.18%, and patients with multiple stones had a 4% incidence of obstructive PCS. Furthermore, studies of routine IOC revealed some clinical benefits in improving patient outcomes. Patients undergoing laparoscopic cholecystectomy with IOC were found to have a statistically significant reduction in the rate of readmission related to biliary complications in comparison to patients that did not undergo IOC (adjusted odds ratio 0.80, 95% CI 0.70-0.92; P value=0.002) [28]. Given there is higher risk of symptomatic choledocholithiasis in patients with multiple stones on imaging and evidence of established clinical benefit in performing IOC, we suggest the routine use of IOC in patients with multiple stones on preoperative evaluation.
+Conclusion
+PCS is a heterogenous pathology of patients who experience persistence of their symptoms following cholecystectomy. Despite advancement in diagnostic techniques, 42% of patients have unknown etiology with the remaining patients presenting with symptoms most consistent with bile acid diarrhea, biliary obstruc-
+
+www.journalonsurgery.org
+
+6
+
+tion, bile duct injury and surgical site pain. Assessment of PCS 6. requires an understanding of the historic context of prior use. A higher index of suspicion is warranted to for female patients and patients with multiple gallstones on preoperative imaging and 7. counseling prior to surgical intervention may be warranted.
+Key message: What is already known on this topic: Around 5-40% of percent of patients who undergo cholecystectomy de- 8. velop PCS.
+What this study adds: Our study is one of three cohort studies to be done on PCS, the first to be done in the United States, and with the largest sample size. We found two independent risk fac- 9. tors for PCS, which are female and multiple gallstones fomnd on imaging.
+
+Novacek G. Gender and gallstone disease. Wien Med Wochenschr 1946. 2006; 156(19-20): 527-533. doi: 10.1007/s10354-0060346-x
+Alotaibi AM. Post-cholecystectomy syndrome: A cohort study from a single private tertiary center. J Taibah Univ Med Sci. 2022; 18(2): 383-389. doi: 10.1016/j.jtumed.2022.10.004
+The Rise of Minimally Invasive Surgery: 16 Year Analysis of the Progressive Replacement of Open Surgery with Laparoscopy - PMC. Accessed May 21, 2024. https: //www.ncbi.nlm.nih.gov/pmc/articles/PMC7810432/
+Yamada M, Nakagawa M, Yamamoto M, Furuoka H, Matsui T, et al. Histopathological and immunohistochemical studies of intracranial nervous-system tumours in four cattle. J Comp Pathol. 1998; 119(1): 75-82.
+
+How this study might affect research, practice, or policy: Our 10. Diamond MP, Freeman ML. Clinical implications of postsurgical ad-
+
+study can bridge health disparities in the post-surgical manage-
+
+hesions. Hum Reprod Update. 2001; 7(6): 567-576. doi: 10.1093/
+
+ment of cholecystectomy in women populations. We also provide
+
+humupd/7.6.567
+
+two clear risk factors that can influence pre-operative patient
+
+counseling.
+
+11. Alotaibi AM. Post-cholecystectomy syndrome: A cohort study from
+
+a single private tertiary center. J Taibah Univ Med Sci. 2023; 18(2):
+
+Abbreviations: PCS: Postcholecystectomy syndrome; ICD-9:
+
+383-389. doi: 10.1016/j.jtumed.2022.10.004
+
+International classification of diseases 9; ERCP: Endoscopic Ret- 12. Davidoff AM, Branum GD, Meyers WC. Clinical features and mech-
+
+rograde Cholangiopancreatography; MRCP: Magnetic Retrograde
+
+anisms of major laparoscopic biliary injury. Semin Ultrasound CT
+
+Cholangiopancreatography; US: Ultrasound; MRI: Magnetic Res-
+
+MR. 1993; 14(5): 338-345. doi: 10.1016/s0887-2171(05)80053-8
+
+onance Imaging; CT: Computed Tomography; SBO: Small Bowel
+
+Obstruction; 75SeHCAT: Selenium homocholic acid taurine; IOC: 13. Barkun AN, Rezieg M, Mehta SN, et al. Postcholecystectomy biliary
+
+Intraoperative cholangiography.
+
+leaks in the laparoscopic era: Risk factors, presentation, and management. McGill Gallstone Treatment Group. Gastrointest Endosc.
+
+Declarations
+
+1997; 45(3): 277-282. doi: 10.1016/s0016-5107(97)70270-0
+
+Conflicts of interest: There are no conflicts of interest to re- 14. Ko K, Kamiya J, Nagino M, et al. A Study of the Subvesical Bile Duct
+
+port.
+
+(Duct of Luschka) in Resected Liver Specimens. World J Surg. 2006; 30(7): 1316-1320. doi: 10.1007/s00268-0050469-z
+
+Funding disclosure statement: There is no funding to disclose. 15. Kitami M, Murakami G, Suzuki D, et al. Heterogeneity of Subvesical
+
+Ethics approval disclosure statement: Inova IRB; Protocol ID:
+
+Ducts or the Ducts of Luschka: A Study Using Drip-infusion Cholan-
+
+U19-06-3651. This study was a retrospective review of clinical data, in which
+
+giography-Computed Tomography in Patients and Cadaver Specimens. World J Surg. 2005; 29(2): 217-223. doi: 10.1007/s00268004-76525
+
+the ethics board did not deem it necessary or reasonable to ob-
+
+tain consent.
+
+16. Davids PH, Rauws EA, Tytgat GN, Huibregtse K. Postoperative bile
+
+leakage: endoscopic management. Gut. 1992; 33(8): 1118-1122.
+
+References
+
+doi: 10.1136/gut.33.8.1118
+
+1. Girometti R, Brondani G, Cereser L, et al. Post-cholecystectomy 17. Bergman JJ, Brink GR van den, Rauws EA, et al. Treatment of bile
+
+syndrome: Spectrum of biliary findings at magnetic resonance
+
+duct lesions after laparoscopic cholecystectomy. Gut. 1996; 38(1):
+
+cholangiopancreatography. Br J Radiol. 2010; 83(988): 351-361.
+
+141-147. doi: 10.1136/gut.38.1.141
+
+2. Schofer JM. Biliary Causes of Postcholecystectomy Syn- 18. Shami VM, Talreja JP, Mahajan A, Phillips MS, Yeaton P, Kahaleh M.
+
+drome. J Emerg Med. 2010; 39(4): 406-410. doi: 10.1016/j.je-
+
+EUS-guided drainage of bilomas: a new alternative? Gastrointest
+
+mermed.2007.11.090
+
+Endosc. 2008; 67(1): 136-140. doi: 10.1016/j.gie.2007.07.040
+
+3. Terhaar OA, Abbas S, Thornton FJ, et al. Imaging patients with post- 19. McJunkin B, Fromm H, Sarva RP, Amin P. Factors in the mechanism
+
+cholecystectomy syndrome: An algorithmic approach. Clin Radiol.
+
+of diarrhea in bile acid malabsorption: Fecal Ph-A key determinant.
+
+2005; 60(1): 78-84. doi: 10.1016/j.crad.2004.02.014
+
+Gastroenterology. 1981; 80(6): 1454-1464. doi: 10.1016/0016-
+
+4. Murshid KR. The postcholecystectomy syndrome: a review. Saudi J
+
+5085(81)90257-2
+
+Gastroenterol off J Saudi Gastroenterol Assoc. 1996; 2(3): 124-137. 20. Fort J, Azpiroz F, Casellas F, Andreu J, Malagelada J. Bowel habit
+
+5. Saleem S, Weissman S, Gonzalez H, et al. Post-cholecystectomy syndrome: A retrospective study analysing the associated demographics, aetiology, and healthcare utilization. Transl Gastroenter-
+
+after cholecystectomy: Physiological changes and clinical implications. Gastroenterology. 1996; 111(3): 617-622. doi: 10.1053/ gast.1996.v111.pm8780565
+
+ol Hepatol. 2021; 6: 58-58. doi: 10.21037/tgh.2019.11.08
+
+21. Mottacki N, Simrén M, Bajor A. Review article: Bile acid diarrhoea
+
+- pathogenesis, diagnosis and management. Aliment Pharmacol
+
+Ther. 2016; 43(8): 884-898. doi: 10.1111/apt.13570
+
+www.journalonsurgery.org
+
+7
+
+22. Eherer AJ, Fordtran JS. Fecal osmotic gap and pH in experimental 27. Gurusamy KS, Giljaca V, Takwoingi Y, et al. Endoscopic retrograde
+
+diarrhea of various causes. Gastroenterology. 1992; 103(2): 545-
+
+cholangiopancreatography versus intraoperative cholangiography
+
+551. doi: 10.1016/0016-5085(92)90845-p
+
+for diagnosis of common bile duct stones. Cochrane Database Syst
+
+23. Wildt S, Nørby Rasmussen S, Lysgård Madsen J, Rumessen JJ. Bile acid malabsorption in patients with chronic diarrhoea: clinical val-
+
+Rev. 2015; 2015(2): CD010339. doi: 10.1002/14651858.CD010339. pub2
+
+ue of SeHCAT test. Scand J Gastroenterol. 2003; 38(8): 826-830. 28. Halawani HM, Tamim H, Khalifeh F, Mailhac A, Jamali FR. Impact
+
+doi: 10.1080/00365520310004461
+
+of intraoperative cholangiography on postoperative morbidity and
+
+24. Schiller LR. Chronic Diarrhea. Curr Treat Options Gastroenterol. 2005; 8(3): 259-266. doi: 10.1007/s11938-005-0018-8
+
+readmission: Analysis of the NSQIP database. Surg Endosc. 2016; 30(12): 5395-5403. doi: 10.1007/s00464-016-4896-8
+
+25. Hermann RE. The spectrum of biliary stone disease. Am J Surg. 1989; 158(3): 171-173. doi: 10.1016/0002-9610(89)90245-6
+
+26. Prat F, Amouyal G, Amouyal P, et al. Prospective controlled study of endoscopic ultrasonography and endoscopic retrograde cholangiography in patients with suspected common-bileduct lithiasis. Lancet Lond Engl. 1996; 347(8994): 75-79. doi: 10.1016/ s01406736(96)90208-1
+
+www.journalonsurgery.org
+
+8

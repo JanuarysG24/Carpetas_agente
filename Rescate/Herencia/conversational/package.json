@@ -1,0 +1,30 @@
+{
+  "name": "@techsphere/conversational",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Capa CONVERSACIONAL — el entrevistador. STUB temporal, en construccion.",
+  "license": "MIT",
+  "exports": {
+    ".": {
+      "types": "./dist/src/index.d.ts",
+      "default": "./dist/src/index.js"
+    }
+  },
+  "main": "./dist/src/index.js",
+  "types": "./dist/src/index.d.ts",
+  "files": ["dist", "src"],
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "build": "tsc -p tsconfig.build.json",
+    "test": "node --test \"test/**/*.test.ts\"",
+    "verify": "npm run typecheck && npm test"
+  },
+  "dependencies": {
+    "@techsphere/contracts": "file:../contracts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "typescript": "^5.9.3"
+  }
+}

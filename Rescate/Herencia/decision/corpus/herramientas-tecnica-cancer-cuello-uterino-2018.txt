@@ -1,0 +1,609 @@
+Herramienta técnica de diagnóstico y tratamiento del
+cáncer de cuello uterino
+CUENTA DE ALTO COSTO
+Fondo Colombiano de Enfermedades de Alto Costo
+
+Herramienta técnica de diagnóstico y tratamiento Cáncer de cuello uterino
+CUENTA DE ALTO COSTO Fondo Colombiano de Enfermedades de Alto Costo
+CUENTA DE ALTO COSTO
+Fondo Colombiano de Enfermedades de Alto Costo
+
+Grupo desarrollador
+Lizbeth Acuña Merchán Directora Ejecutiva Cuenta de Alto Costo
+Luis Alberto Soler Vanoy Coordinador de Gestión del Riesgo
+Cuenta de Alto Costo
+Ángela Viviana Pérez Gómez Coordinadora de gestión del Conocimiento
+Cuenta de Alto Costo
+María Teresa Daza Fonseca Coordinadora de Auditoría Cuenta de Alto Costo
+Fernando Valderrama Coordinador de gestión de la tecnología
+Cuenta de Alto Costo
+Paula Ximena Ramírez Barbosa Especialista en analítica Cuenta de Alto Costo
+Luisa Fernanda Alvis Ñungo Especialista en analítica Cuenta de Alto Costo
+Revisión técnica
+Jaime González Médico internista, hematólogo y oncólogo clínico Asociación Colombiana de Hematología y Oncología
+
+HERRAMIENTA TÉCNICA DE DIAGNÓSTICO Y TRATAMIENTO CÁNCER DE CUELLO UTERINO
+
+PRESENTACIÓN
+La Cuenta de Alto Costo (CAC) en cumplimiento de las actividades misionales asignadas, ha realizado durante el año 2017 varios talleres de gestión del riesgo que han tenido como tema principal el diagnóstico y tratamiento adecuado de los tipos de cáncer más frecuentes en nuestro país.
+Dada la complejidad que puede representar para los diferentes equipos de salud encargados del seguimiento de la cohorte de personas con este tipo de patologías, la CAC con el apoyo de la Asociación Colombiana de Hematología y Oncología (ACHO) y de la Asociación Colombiana de Hematología y Oncología Pediátrica (ACHOP), ha realizado las presentes Herramientas Técnicas para el Diagnóstico de Cáncer, en las cuales de una forma sencilla y esquemática se suministra información clave frente al proceso de abordaje diagnóstico desde el punto de vista clínico, imagenológico y paraclínico, para lograr establecer un diagnóstico adecuado y oportuno junto con un estudio de extensión que permita estadificar el tumor y de acuerdo a esto generar un plan de intervención terapéutico acorde a las necesidades y deseos de la persona.
+Como otra herramienta que complementa esta inicial, la CAC generó las Herramientas Técnicas para el Tratamiento del Cáncer, en las cuales se presentan las opciones terapéuticas disponibles en nuestro país de manera tal que las personas que lideran el seguimiento de las cohortes puedan identificar la importancia de los esquemas allí descritos, las dosis y la frecuencia de administración recomendada, junto con las referencias bibliográficas necesarias en caso de querer ampliar algún tópico y la información reportada a la CAC relacionada con los esquemas de tratamiento.
+Esperamos con estas Herramientas Técnicas y con las actividades promovidas y realizadas por la CAC en diferentes espacios, articular los actores para lograr impactar positivamente en los resultados en salud de la población.
+DIAGNÓSTICO DEL CÁNCER DE CUELLO UTERINO
+El diagnóstico de cáncer de cuello uterino se puede realizar a través de dos vías: 1) por el resultado anormal de una citología o 2) por la presencia de síntomas.
+Examen físico y anamnesis Algunos síntomas de cáncer pueden no ser muy específicos. Algunos podrían ser signos y síntomas de alarma de cáncer de cuello uterino, pero no se presentan necesariamente (1,2). (Ver figura 1).
+
+Figura 1
+
+Sangrado postcoital
+
+Sangrado intermenstrual
+
+Dispareunia (dolor durante las relaciones
+sexuales)
+
+Secreción vaginal
+
+Sangrado durante el embarazo
+
+Cambios en los períodos menstruales
+
+Sangrado durante la menopausia
+
+Dolor lumbar
+
+Dolor pélvico
+
+Pérdida de peso
+
+Diarrea
+
+Sangre en heces
+
+Cuenta de Alto Costo ­~ Fondo Colombiano de Enfermedades de Alto Costo 3 www.cuentadealtocosto.org
+
+HERRAMIENTA TÉCNICA DE DIAGNÓSTICO Y TRATAMIENTO CÁNCER DE CUELLO UTERINO
+
+Factores de riesgo
+“Virus del Papiloma Humano (VPH): El virus del papiloma humano (VPH) es considerado como el principal agente etiológico en el desarrollo de cáncer de cuello uterino. En el género alfa-papillomavirus se encuentran los VPH que infectan la mucosa genital, los cuales a su vez se pueden subclasificar como de bajo y alto riesgo. Los VPH de alto riesgo son aquellos que están asociados con las Lesiones Intraepiteliales Escamosas de alto grado y el cáncer invasor (VPH16 y VPH18); mientras que los VPH de bajo riesgo son los que producen las lesiones cutáneas denominadas verrugas (VPH6 y VPH11)”(3).
+La infección por los virus del papiloma humano (VPH) de alto riesgo es una causa necesaria, pero no suficiente, de casi todos los casos de cáncer cervical (4). Se ha descrito la necesidad de una infección persistente con un VPH de alto riesgo para el desarrollo de una lesión de cuello uterino precancerosa o cancerosa (5). Más del 70% del carcinoma cervical invasivo en todo el mundo está asociado con VPH 16 y/o 18.
+
+Factores de riesgo para cáncer de cuello uterino (6)
+
+Factor de riesgo
+
+Infección VPH
+
+Persistencia de VPH y trasformación maligna
+
+Múltiples compañeros sexuales
+
+x
+
+n.e.
+
+Pareja con múltiples compañeros sexuales
+
+x
+
+n.e.
+
+Mala higiene
+
+x
+
+n.e.
+
+Ausencia de circuncisión masculina
+
+x
+
+x
+
+Inmunodeficiencia, VIH
+
+x
+
+x
+
+Multiparidad
+
+n.e.
+
+x
+
+Anticonceptivos orales
+
+n.e.
+
+x
+
+Fumar
+
+n.e.
+
+x
+
+Enfermedades de trasmisión sexual (especialmente C. trachomatis) n.e.
+
+x
+
+Estado nutricional deficiente
+
+n.e.
+
+x
+
+n.e. = no hay evidencia de que sea un factor de riesgo en este momento.
+
+Tamización La tamización de cáncer de cuello uterino en población general se realiza con el fin de reducir la incidencia y mortalidad de cáncer de cuello uterino invasivo. Debe estar enmarcada en un programa organizado de tamización con cumplimiento de indicadores de cobertura, calidad y seguimiento, y un sistema de vigilancia de los mismos. Además, debe asegurar la clasificación, confirmación diagnóstica y tratamiento oportuno en los casos que se requiera (3). (Ver figura 2).
+Teniendo en cuenta que existe población con difícil acceso a los servicios de salud, y que no en todas las regiones de Colombia se dispone de las pruebas de ADN-VPH, se plantea una tamización a través de otros métodos como se presenta a continuación. (Ver figura 3).
+Citología de cuello uterino La prueba de Papanicolaou consiste en tomar una muestra de células epiteliales de la superficie del cuello uterino para una revisión microscópica, en busca de detectar células anormales (7). (Ver figura 4).
+
+4 Cuenta de Alto Costo ­~ Fondo Colombiano de Enfermedades de Alto Costo www.cuentadealtocosto.org
+
+HERRAMIENTA TÉCNICA DE DIAGNÓSTICO Y TRATAMIENTO CÁNCER DE CUELLO UTERINO
+
+Figura 2
+
+PRUEBAS DE ADN-VPH
+
+Mujeres que hayan iniciado su vida sexual
+
+Que detecten tipos virales de alto riesgo
+
+Que cuenten con estudios de validación
+clínica
+
+No se sugiere genotipiﬁcación
+
+FRECUENCIA: En población general cada
+5 años.
+Cada 3 años si se usan pruebas rápidas o auto-toma
+
+CITOLOGÍA DE CUELLO UTERINO
+
+- Citología convencional (CCv)
+-Citología en base líquida
+
+Tomar el mismo tiempo que la prueba ADN-
+VPH
+
+Sólo se procesará la citología si el resultado de la prueba ADN-VPH
+es POSITIVO
+
+Es aceptable el uso de CCc para
+taizado en mujeres entre 25-30 años.
+
+POSITIVA
+
+NEGATIVA
+
+El resultado ASC-US debe ser conﬁrmado con una prueba de ADN-VPH.
+
+Se considera POSITIVO un hallazgo citológico de ASC-US o mayor
+
+Colposcopia y biopsia según
+hallazgos
+
+Nueva prueba de ADN-VPH en
+18 meses
+
+Objetivo: Evaluar persistencia de la infección
+
+Figura 3
+
+30 y 50 años
+
+POSITIVA Colposcopia
+
+NEGATIVA Continuar esquema de tamización
+
+INSATISFACTORIA Repetir en un tiempo no mayor a 30 días
+
+Prueba rápida ADN-VPH (Ante un resultado positivo, realizar
+las PIV)
+Pruebas de inspección visual (PIV) con ácido acético y lugol
+(VIA-VILI)
+Repetición de las pruebas no superior a 3 años
+
+Población con difícil acceso a los servicios de salud
+Trataiento inmediato ante resultados positivos
+
+Mayor 50 años
+
+Citología cervico uterina
+Pruebas rápidas de ADN-VPH según disponibilidad
+
+Menor a 30 años
+
+Mejor la tecnología disponible
+
+Cuenta de Alto Costo ­~ Fondo Colombiano de Enfermedades de Alto Costo 5 www.cuentadealtocosto.org
+
+HERRAMIENTA TÉCNICA DE DIAGNÓSTICO Y TRATAMIENTO CÁNCER DE CUELLO UTERINO
+
+Figura 3
+
+PRUEBA DE PAPANICOLAOU
+
+Citología convencional Citología en base líquida
+
+Tabla 1. Comparación de diferentes terminologías usadas para el reporte de la citología (8).
+
+Papanicolaou
+
+OMS
+
+NIC
+
+Bethesda
+
+Clase I
+
+Clase II
+
+Clase III
+Clase IV Clase V
+
+Displasia leve Displasia moderada Displasia severa Carcinoma in situ Carcinoma micro invasivo Carcinoma invasivo
+
+NIC: neoplasia cervical intraepitelial.
+
+NIC1 NIC2 NIC3 NIC3 Carcinoma invasivo
+
+Con límites normales Cambios celulares benignos Células escamosas atípicas (ASC) Lesión escamosa intraepitelial de bajo grado (LSIL)
+Lesión escamosa intraepitelial de alto grado (HSIL)
+Carcinoma invasivo
+
+Diagnóstico
+En los programas de detección, la colposcopia sigue siendo el estándar de oro para realizar el diagnóstico definitivo (9). (Ver figura 4).
+
+Figura 4
+
+Colposcopio
+
+COLPOSCOPIA
+
+Es un microscopio de campo estereoscópico,
+binocular, de baja resolución, con una fuente de iluminación potente.
+
+Se emplea para el examen visual del cuello uterino
+bajo aumento
+
+BIOPSIA
+
+Biosia colposcópica
+
+Curetaje endocervical (raspado endocervical)
+
+- Observación de características del epitelio cervical. - Diagnóstico de las neoplasias cervicales.
+Biopsia de cono
+
+Estadificación La clasificación FIGO es una estadificación basada en una evaluación clínica del tamaño del tumor, el compromiso de la vagina o el parametrio, la extensión a la vejiga o el recto y la presencia de metástasis a distancia (6,10–14).
+6 Cuenta de Alto Costo ­~ Fondo Colombiano de Enfermedades de Alto Costo www.cuentadealtocosto.org
+
+HERRAMIENTA TÉCNICA DE DIAGNÓSTICO Y TRATAMIENTO CÁNCER DE CUELLO UTERINO
+
+Estadificación de cáncer de cuello uterino de acuerdo a los criterios unificados de la AJCC y FIGO.
+
+Estadio
+
+T
+
+N
+
+M
+
+Estadio 0*
+
+Tis
+
+N0
+
+M0
+
+Estadio I
+
+T1
+
+N0
+
+M0
+
+Estadio IA
+
+T1a
+
+N0
+
+M0
+
+Estadio IA1
+
+T1a1
+
+N0
+
+M0
+
+Estadio IA2
+
+T1a2
+
+N0
+
+M0
+
+Estadio IB
+
+T1b
+
+N0
+
+M0
+
+Estadio IB1
+
+T1b1
+
+N0
+
+M0
+
+Estadio IB2
+
+T1b2
+
+N0
+
+M0
+
+Estadio II
+
+T2
+
+N0
+
+M0
+
+Estadio IIA
+
+T2a
+
+N0
+
+M0
+
+Estadio IIA1
+
+T2a1
+
+N0
+
+M0
+
+Estadio IIA2
+
+T2a2
+
+N0
+
+M0
+
+Estadio IIB
+
+T2b
+
+N0
+
+M0
+
+Estadio III
+
+T3
+
+N0
+
+M0
+
+Estadio IIIA
+
+T3a
+
+N0
+
+M0
+
+Estadio IIIB
+
+T3b
+
+Cualquier N M0
+
+T1-3
+
+N1
+
+M0
+
+Estadio IVA
+
+T3
+
+Cualquier N M0
+
+Estadio IVB
+
+Cualquier T Cualquier N M1
+
+*FIGO ya no considera el estadio 0 (Tis).
+Tomado de: Actualización de la estadificación de cáncer de cuello uterino. Claudia Álvarez, Ernesto Castro Nessim, Juan Martín Virginillo, Gabriel Bruno, Christian González, Javier Vallejos, Adriana Dieguez. Revista Argentina de Radiología–Volumen 76–Número 2 – 2012.
+
+Las pacientes con cáncer de cuello uterino con tumores de cualquier tamaño, con afectación de ganglios linfáticos y afectación de alguno de los órganos presentados en la siguiente ilustración, son clasificadas como pacientes con cáncer cervical metastásico(11). (Ver figuras 5 y 6).
+
+Figura 5
+
+Diseminación peritoneal
+Ganglio linfático para-aórtico
+Hueso
+
+Ganglio linfático supraclavicular
+Pulmón
+Cerebro
+
+Ganglio linfático mediastínico
+Hígado
+Enfermedad persistente / recurrente
+fuera de la pelvis
+
+Cuenta de Alto Costo ­~ Fondo Colombiano de Enfermedades de Alto Costo 7 www.cuentadealtocosto.org
+
+HERRAMIENTA TÉCNICA DE DIAGNÓSTICO Y TRATAMIENTO CÁNCER DE CUELLO UTERINO
+
+Figura 6
+
+METÁSTASIS
+
+LINFÁTICAS Si todos los sitios involucrados fuera de los
+órganos pélvicos son gánglios linfáticos
+
+HEMATÓGENAS (Son inusuales. Comúnmente se expanden a los
+pulmones (36,3%), los huesos (16,3%), el hígado, el cerebro, pero otros órganos
+pueden estar involucrados).
+
+PRUEBAS DIAGNÓSTICAS
+
+Tomografía computarizada (TC)
+
+Imágenes radiológicas
+(Rx de torax)
+
+Imágenes por
+resonancia magnética
+(IRM)
+
+Linfadenectomía
+
+Linfangiograma
+
+Tomografía por
+emisión de positrones
+(PET). Otras: [PET+TC] y [PET+IRM]
+
+Pielografía intravenosa Ecografía
+renal
+
+Cistoscopia Sigmoidoscopia
+
+BIOPSIA
+
+Tamaño del tumor
+
+Estadio
+
+Profundidad de la invasión
+del tumor
+
+Estado de los ganglios
+linfáticos
+
+Compromiso del espacio linfovascular
+
+Subtipo histológico
+
+TRATAMIENTO DEL CÁNCER DE CUELLO UTERINO INVASIVO
+El tratamiento para el cáncer de cuello uterino invasivo varía con respecto al estadio en el cual éste se encuentre. Según la estadificación clínica propuesta por la Federación Internacional de Ginecología y Obstetricia (FIGO), el cáncer de cuello uterino puede clasificarse en tres grandes grupos de presentación:
+1. Enfermedad infiltrante inicial (Estadios IA, IB1 y IIA1) 2. Enfermedad localmente avanzada (Estadios IB2, IIA2 a IVA) 3. Enfermedad sistémica o metastásica (Estadio IV B)
+De acuerdo con esta clasificación el tratamiento para cada grupo difiere en ciertas características específicas e incluso dentro de los mismos grandes grupos se presentan subdivisiones para el tratamiento (15).
+Cirugía Manejo del carcinoma infiltrante de cuello uterino según estadios
+Estadio IA1 Las opciones de manejo quirúrgico en estadio IA1 se dividen en conización e histerectomía total, la primera opción solo se indica cuando la profundidad de la invasión es menor de 3 mm, no invasión linfovascular, los márgenes del cono son negativos (16) y para aquellas mujeres que desean preservar su fecundidad cumpliendo los siguientes criterios:
+1. Existe un deseo explícito de preservar la fertilidad 2. No hay evidencia clínica de perjuicio importante sobre la supervivencia 3. FIGO etapas IA2-IB 4. Tamaño de las lesiones de menos de 2 cm
+8 Cuenta de Alto Costo ­~ Fondo Colombiano de Enfermedades de Alto Costo www.cuentadealtocosto.org
+
+HERRAMIENTA TÉCNICA DE DIAGNÓSTICO Y TRATAMIENTO CÁNCER DE CUELLO UTERINO
+
+5. Compromiso endocervical limitado en la colposcopia 6. No hay evidencia de metástasis en los ganglios de la pelvis 7. Ausencia de invasión del espacio vascular (15)
+De acuerdo a la Guía de Práctica Clínica colombiana, para mujeres con cáncer de cuello uterino en estadio IA1 el tratamiento de elección es quirúrgico, siendo la histerectomía total el tratamiento quirúrgico estándar con el fin de prevenir la progresión de la enfermedad y la muerte (15).
+
+Estadio IA2 En estadio IA2 está indicada la histerectomía radical modificada o tipo II (clasificación de Piver). En este tipo de cirugía se extrae el útero, el cuello uterino, la parte superior de la vagina, y los ligamentos y tejidos a su alrededor, se pueden extraer los ganglios linfáticos cercanos. A diferencia de la histerectomía radical o tipo III no se extraen los parametrios hasta su inserción en el hueso pélvico (15, 17). En este estadio se debe realizar linfadenectomía pélvica (15).
+
+Estadios IB1 y IIA1 Está indicada la histerectomía radical preservando la inervación pélvica con linfadenectomía pélvica (15). Se sugiere hacer adicionalmente biopsia paraaórtica por debajo de la salida de la mesentérica inferior como parte del tratamiento en estos estadios cuando las pacientes tienen un tumor mayor a 2 centímetros, compromiso de espacio linfovascular o compromiso de ganglio linfático pélvico como hallazgo intraoperatorio o por biopsia por congelación.
+En el estadio IB1 si la mujer desea conservar la fertilidad, se recomienda traquelectomía radical más linfadenectomía pelviana completa (15). En el estadio IIA1 es recomendable realizar evaluación colposcópica pre quirúrgica del compromiso vaginal, para planear la extensión de la resección vaginal. Además, en este estadio es posible realizar una cirugía menos radical con histerectomía abdominal total y linfadenectomía pélvica para tumores con diámetro mayor hasta 2cms con infiltración menor de 10mm (15).
+
+Resumen manejo quirúrgico
+
+Figura 7
+
+Cáncer de cuello uterino
+
+Conservación de la fertilidad IA1
+Invasión linfovascular
+
+IA2
+
+IB1
+
+IIA1
+
+Histerectomía radical modiﬁcada
+(tipo 2) + linfadenectomía
+pélvica
+
+Histerectomía radical preservando inervación pélvica +
+linfadenectomía pélvica
+
+Colposcopia vaginal para deﬁnir resección
+
+Sí
+
+No
+
+Histerectomía total + linfadenectomía
+pélvica
+
+Histerectomía total
+
+Histerectomía radical +
+linfadenectomía pélvica
+
+Tomado de la GPC para cáncer de cuello uterino invasivo de Colombia
+Cuenta de Alto Costo ­~ Fondo Colombiano de Enfermedades de Alto Costo 9 www.cuentadealtocosto.org
+
+HERRAMIENTA TÉCNICA DE DIAGNÓSTICO Y TRATAMIENTO CÁNCER DE CUELLO UTERINO
+• En el estadio IB2 y IIA2 la indicación terapéutica es la quimiorradioterapia, de igual forma para estadios IIB, IIIA, IIIB y IVA; para IV la recomendación es tratamiento paliativo (17).
+Radioterapia La radioterapia hace parte del tratamiento estándar del cáncer de cuello uterino, ya sea como terapia primaria concomitante con quimioterapia en los tumores localmente avanzados (IB2, IIA2, IIB, III y IV) o como terapia adyuvante sola o concomitante con quimioterapia en aquellas pacientes con estadios tempranos (IA1, IA2, IB1, IIA1) llevadas a cirugía, pero con factores de mal pronóstico para recaída (15).
+Para el estadio IVB el tratamiento se enfoca al cuidado paliativo y el uso de radioterapia para controlar el sangrado y el dolor, con el uso de quimioterapia para el cáncer diseminado (17).
+La braquiterapia se recomienda especialmente en pacientes con cáncer de cuello uterino en estadios tempranos que no son candidatas a cirugía, utilizando la braquiterapia intracavitaria y en casos seleccionados y específicos de mujeres, posterior a histerectomía (18, 19).
+Terapia sistémica
+Cáncer de cuello uterino localmente avanzado Las pacientes con cáncer de cuello invasivo localmente avanzado tienen altas tasas de recurrencia y disminución de la supervivencia, por lo cual, la guía colombiana recomienda para estas pacientes la realización de radioterapia junto con quimioterapia a base de platino, por sus efectos en reducir el riesgo de muerte y de recurrencia; siendo el cisplatino la elección, por evidenciar un adecuada respuesta y aumento de la supervivencia global (15). Otras alternativas farmacológicas son la gemcitabina, el carboplatino, medicamento recomendado como alternativa especialmente debido a la evidencia de nefrotoxicidad del cisplatino y el bevacizumab (terapia dirigida), medicamento que se recomienda principalmente cuando hay persistencia o recaída sistémica (15).
+Cáncer de cuello uterino metastásico Para las pacientes con enfermedad metastásica o en recaída sin opción quirúrgica o de radioterapia, el tratamiento primario es la quimioterapia a base de cisplatino, especialmente en combinación con paclitaxel, al igual que en el caso de las pacientes con enfermedad localmente avanzada, el carboplatino es una alternativa farmacológica ante la toxicidad del cisplatino, así como el bevacizumab (15).
+Otras opciones de tratamiento sistémico en pacientes con cáncer metastásico o con recidiva son la ifosfamida, el paclitaxel, el irinotecán, el topotecán y la vinorelbina (18,19).
+REFERENCIAS BIBLIOGRÁFICAS
+1. Lim AWW, Hamilton W, Hollingworth A, Stapley S, Sasieni P. Performance characteristics of visualising the cervix in symptomatic young females: a review of primary care records in females with and without cervical cancer. Br J Gen Pract [En línea]. 2016 Mar 1 [cited 2017 Jul 7];66(644):e189–92. Available from: http://www.ncbi.nlm.nih. gov/pubmed/26852796
+2. UCL Health Behaviour Research, Centre; Department of Health Cancer Team; The Eve Appeal. Cervical Cancer Awareness Measure. [cited 2017 Jul 7]; Available from: https://www.cancerresearchuk.org/sites/default/files/ health_professional_cervical_cancer_awareness_measure_toolkit_version_2.1_09.02.11.pdf
+3. Ministerio de Salud y Protección Social; Guía de Práctica Clínica para la detección y manejo de las lesiones precancerosas de cuello uterino. Colombia; 2014. p. 318.
+4. Vesco KK, Whitlock EP, Eder M, Burda BU, Senger CA, Lutz K. Risk factors and other epidemiologic considerations for cervical cancer screening: a narrative review for the U.S. Preventive Services Task Force. Ann Intern Med. United States; 2011 Nov;155(10):698–705, W216.
+10 Cuenta de Alto Costo ­~ Fondo Colombiano de Enfermedades de Alto Costo www.cuentadealtocosto.org
+
+HERRAMIENTA TÉCNICA DE DIAGNÓSTICO Y TRATAMIENTO CÁNCER DE CUELLO UTERINO
+5. Ebisch RM, Siebers AG, Bosgraaf RP, Massuger LF, Bekkers RL, Melchers WJ. Triage of high-risk HPV positive women in cervical cancer screening. Expert Rev Anticancer Ther. England; 2016 Oct;16(10):1073–85.
+6. World Health Organization. Pathology and Genetics of Tumours of the Breast and Female Genital Organs. In: Tavassoli, Fattaneh; Devilee P, editor. Classification of Tumours. 2003. p. 63–74.
+7. American Cancer Society. La prueba de Papanicolaou [En línea]. Prevención y detección temprana del cáncer de cuello uterino. [cited 2017 Jul 7]. Available from: https://www.cancer.org/es/cancer/cancer-de-cuello-uterino/ prevencion-y-deteccion-temprana/prueba-de-papanicolaou.html
+8. Working Group on the Evaluation of Cancer Preventive Strategies. Cervix cancer screening/IARC [En línea]. Lyon; 2004 [cited 2017 Jul 7]. Available from: http://www.iarc.fr/en/publications/pdfs-online/prev/handbook10/ handbook10-chap2.pdf
+9. International Federation of Gynecology & Obstetrics. Guía global para la prevención y control del cáncer cervicouterino. Diagnóstico temprano de neoplasia cervical: Prueba de Pap (Citología). 2009.
+10. Choi HJ, Ju W, Myung SK, Kim Y. Diagnostic performance of computer tomography, magnetic resonance imaging, and positron emission tomography or positron emission tomography/computer tomography for detection of metastatic lymph nodes in patients with cervical cancer: Meta-analysis. Cancer Sci [En línea]. Blackwell Publishing Ltd; 2010 Feb 11 [cited 2017 Jul 10];101(6):1471–9. Available from: http://doi.wiley.com/10.1111/j.1349-7006.2010.01532.x
+11. Li H, Wu X, Cheng X. Advances in diagnosis and treatment of metastatic cervical cancer. J Gynecol Oncol [En línea]. 2016 Jul [cited 2017 Jul 7];27(4):e43. Available from: http://www.ncbi.nlm.nih.gov/pubmed/27171673
+12. Colombo N, Carinelli S, Colombo A, Marini C, Rollo D, Sessa C. Cervical cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2012;23(SUPPL. 7).
+13. Bermudez A, Bhatla N, Leung E. Cancer of the cervix uteri. Int J Gynecol Obstet [En línea]. Elsevier B.V.; 2015;131:S88– 95. Available from: http://dx.doi.org/10.1016/j.ijgo.2015.06.004
+14. Álvarez C, Castro Nessim A, Martín Virginillo J, Bruno G, González C, Vallejos J, et al. Actualización de la estadificación de cáncer de cuello uterino. Rar. 2012;76(2):169–71.
+15. Ministerio de Salud y Protección Social, Instituto Nacional de Salud, Instituto de Evaluación Tecnológica en Salud. Guía de práctica clínica (GPC) para la detección temprana, tratamiento integral, seguimiento y rehabilitación del cáncer de cuello uterino invasivo [En línea]. Sistema Genera de Seguridad Social en Salud-Colombia. Guía completa 2014. 1-375p. Disponible en: http://gpc.minsalud.gov.co/gpc_sites/Repositorio/Otros_conv/GPC_Cuello_Uterino_inv/gpc_c_uterino_inv.aspx
+16. National Cancer Institute. Cervical Cancer Treatment (PDQ®)–Health Professional Version. Actualizado: 31 de enero de 2017, citado: 7 de julio de 2017. Disponible en: https://www.cancer.gov/espanol/tipos/cuello-uterino/ pro/tratamiento-cuello-uterino-pdq#section/_104
+17. Ministerio de Salud de Chile. Guías Clínicas AUGE Cáncer Cérvico Uterino. Subsecretaria de Salud Pública, 2015. Disponible en: http://diprece.minsal.cl/wrdprss_minsal/wp-content/uploads/2016/03/GPC-CaCU-Final.PLdocx.pdf
+18. American Cancer Society. Radiation Therapy for Cervical Cancer. Actualizado: 5 de diciembre de 2016. Citado: 07 de julio de 2017. Disponible en: https://www.cancer.org/cancer/cervical-cancer/treating/radiation.html
+19. NCCN National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology Cervical Cancer. Versión 1.2017, 1–83.
+Cuenta de Alto Costo ­~ Fondo Colombiano de Enfermedades de Alto Costo 11 www.cuentadealtocosto.org
+
+CUENTA DE ALTO COSTO
+Fondo Colombiano de Enfermedades de Alto Costo
+Este documentos fue realizado en caracteres Avenir Next en el mes de marzo de 2018 Bogotá, D. C., Colombia

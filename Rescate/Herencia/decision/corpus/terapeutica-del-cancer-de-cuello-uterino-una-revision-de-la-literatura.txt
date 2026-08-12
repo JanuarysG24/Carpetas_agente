@@ -1,0 +1,349 @@
+Artículo de investigación científica y tecnológica / Revisión
+
+Vol 21(1): 100-114, abril - julio 2018
+
+https://doi.org/1029375/01237047.2583
+
+Terapéutica del cáncer de cuello uterino, una revisión de la literatura Cervical cancer therapeutics: a literature review Terapêutica do câncer de colo do útero, uma revisão de literatura
+
+Fabio Camilo Suárez-Cadena, Est*
+
+Resumen
+Introducción. El cáncer de cuello uterino es la segunda causa de muerte más frecuente mundialmente; por ello, existen terapias tanto invasivas como poco invasivas que buscan impactar la supervivencia de la enfermedad. Entre los diferentes métodos de tratamiento se encuentran la radioterapia externa, la braquiterapia, la quimioterapia, la conización, la traquelectomía y la histerectomía radical. Objetivo. Revisar las características de cada uno de los métodos de tratamiento disponibles para el manejo del cáncer de cuello uterino. Metodología. Se realizó una búsqueda, en las bases de datos PUBMED y LILACS, de artículos publicados entre los años 2013 y 2016 que tuvieran como tema central el cáncer de cuello uterino y su tratamiento; luego de aplicar criterios de
+
+inclusión y exclusión, se seleccionaron 41 artículos para la revisión. Resultados. Para el manejo del cáncer de cérvix se plantean, como métodos poco invasivos: la conización, con supervivencia a cinco años de 95.1% en cáncer microinvasor; la radioterapia de haz externo, con supervivencia total de 92.2% a cinco años; la quimioterapia, con supervivencia similar a la radioterapia, pero con disminución de la necesidad de cirugía; y la braquiterapia combinada con quimioterapia, que logró respuesta en 64% de pacientes con cáncer estadio IA, IIA y IB. En relación con métodos más invasivos, se encuentran la traquelectomía en cáncer temprano sin compromiso local o a distancia, alcanza supervivencia del 95%, con tasas de embarazo de 50% posteriores al tratamiento y la histerectomía radical, con supervivencia total de 100% a cinco años en cáncer estadio IA2 y IB1, requiriendo
+
+* Estudiante de Medicina, undécimo semestre, escuela de Medicina, Facultad de Salud, Universidad Industrial de Santander, Bucaramanga, Santander, Colombia.
+
+Correspondencia: Fabio Camilo Suárez-Cadena. E-mail: fcamilosuarez1224@gmail.com.
+
+Artículo recibido: 27 de octubre de 2016.
+
+Aceptado: 31 de enero de 2018.
+
+100
+
+Terapéutica del cáncer de cuello uterino, una revisión de la literatura
+
+algunas veces combinación con otros métodos. Para las técnicas quirúrgicas se han desarrollado nuevos abordajes y variantes. Conclusiones. Los tratamientos en cáncer de cérvix han mostrado resultados alentadores en cuanto a supervivencia, además, la conización y traquelectomía permiten preservar la fertilidad. La quimioterapia, la radioterapia de haz externo y la braquiterapia logran buen control del cáncer de cérvix en estadios tempranos y se pueden usar como coadyuvantes de los métodos quirúrgicos. Sin embargo, la histerectomía radical es el estándar esencial para manejo del cáncer de cérvix, con buenos resultados en supervivencia; sus variantes, además, han logrado disminuir las complicaciones. [Suárez-Cadena FC. Terapéutica del cáncer de cuello uterino, una revisión de la literatura. MedUNAB. 2018;21(1):100-114. doi: 10.29375/01237047.2583].
+Palabras clave: Neoplasias del Cuello Uterino; Terapéutica; Tratamiento Farmacológico; Radioterapia; Braquiterapia; Conización; Traquelectomía; Histerectomía.
+Abstract
+Introduction. Worldwide, cervical cancer is the second most frequent cause of death, and because of its existence, there are several kinds of therapies that range between invasive to non-invasive ones. The purpose of these procedures is to impact disease survival within the human body. Thus, among those treatment methods used for cervical cancer treatment, we can find the following: external beam radiotherapy, brachytherapy, chemotherapy, cervical conization, trachelectomy, and radical hysterectomy. Objective. To review the characteristics of each one of the available methods for treating cervical cancer. Methodology. Published articles between 2013 and 2016 were collected using the databases PUBMED and LILACS. These articles had as a central topic cervical cancer and its treatment. After applying certain inclusion and exclusion criteria within the research, 41 articles were selected to be reviewed. Results. As non-invasive treatment methods for cervical cancer, the following are proposed: cervical conization method, which has a 5-year survival rate of 95.1% when treating micro-invasive cancer; external beam radiotherapy method, which has an overall 5-year survival rate of 92.2%; chemotherapy method, whose survival rate is similar to external beam radiotherapy method’s one, but with a slight diminishing of surgery risk; and finally brachytherapy method, which combined with chemotherapy method achieves 64% of response among patients in cancer stages IA, IIA and IB. On the other hand, more invasive treatment methods are presented as follows: trachelectomy method when treating early cancer stages (with no local involvement or distant
+
+spreading) reaches a survival rate of 95% and a posttreatment pregnancy rate of 50%, and radical hysterectomy method has a 5-year survival rate of 100% among patients in cancer stage IA2 and IB1, in spite in some occasions this method requires to be combined with other treatment techniques. New therapeutic approaches and variations have been developed for surgical techniques. Conclusions. Cervical Cancer treatments have shown promising results regarding survival rate and in some procedures, such as conization and trachelectomy, preservation of fertility rate. Methods such as chemotherapy, external beam radiotherapy, and brachytherapy have a great control of cervical cancer in early stages, and they can also be used as adjuvant therapies for surgical interventions. Nonetheless, radical hysterectomy is the standard and essential medical procedure for managing cervical cancer. This method has shown good results regarding survival rates and its variants have helped to diminish associated complications. [Suárez-Cadena FC. Cervical cancer therapeutics: a literature review. MedUNAB. 2018;21(1):100-114. doi: 10.29375/01237047.2583].
+Key Words: Uterine Cervical Neoplasms; Therapeutics; Drug Therapy; Radiotherapy; Brachytherapy; Conization; Trachelectomy; Hysterectomy.
+Resumo
+Introdução. O câncer de colo do útero é a segunda causa de morte mais frequente no mundo e por isso, existem terapias invasivas e minimamente invasivas que buscam impactar na sobrevivência da doença. As principais opções de tratamento para o câncer de colo do útero são: a radioterapia externa, a braquiterapia, a quimioterapia, a conização, a traquelectomia e a histerectomia radical. Objetivo. Revisar as características de cada um dos métodos disponíveis para o tratamento do câncer de colo do útero. Métodos. Pesquisa feita nas bases de dados PUBMED e LILACS, de artigos publicados entre 2013 e 2016 com o assunto principal: tratamento do câncer de colo do útero e tratamiento. Foram selecionados 41 artigos para revisão, após a aplicação dos critérios de inclusão e exclusão. Resultados. Para o tratamento do câncer de colo de útero, os seguintes métodos são considerados minimamente invasivos: a conização, com sobrevida em cinco anos equivalente a 95,1% no câncer microinvasor; a radioterapia externa, com sobrevida total de 92,2% em cinco años; a quimioterapia, com sobrevida semelhante à radioterapia, mas com diminuição da necessidade de cirurgia; e a braquiterapia combinada com quimioterapia, que obteve resposta em 64% dos pacientes com estádio IA, IIA e IB. Em relação aos métodos mais invasivos, a traquelectomia no câncer precoce sem comprometimento
+
+101
+
+Fabio Camilo Suárez-Cadena, Est
+
+Vol 21(1):100-114, abril - julio 2018
+
+local, ou à distância, atinge 95% de sobrevida, com 50% de taxas de gestação após o tratamento e histerectomia radical, com sobrevida total de 100% a cinco anos no estádio IA2 e IB1, requerendo às vezes combinação com outros métodos. Para técnicas cirúrgicas, novas abordagens e variantes foram desenvolvidas. Conclusões. Os tratamentos de câncer de colo do útero mostraram resultados encorajadores em termos de sobrevida, além disso, a conização e traquelectomia permitem preservar a fertilidade. A quimioterapia, a radioterapia externa e a braquiterapia conseguem um bom controle do câncer de colo do útero em estádios iniciais e podem ser usadas como coadjuvantes dos métodos cirúrgicos. Entretanto, a histerectomia radical é o padrão essencial para o tratamento de câncer de colo do útero, com bons resultados na sobrevida; suas variantes, além disso, conseguiram reduzir as complicações. [SuárezCadena FC. Terapêutica do câncer de colo do útero, uma revisão de literatura. MedUNAB. 2018;21(1):100-114. doi: 10.29375/01237047.2583].
+Palavras chave: Neoplasias do Colo do Útero; Terapêutica; Tratamento Farmacológico; Radioterapia; Braquiterapia; Conização; Traquelectomia; Histerectomia.
+Introducción
+El cáncer de cuello uterino (CCU) se considera el segundo caso más frecuente de cáncer a nivel mundial (1) y el cuarto caso de cáncer más frecuente en mujeres (2). En 2012, se presentaron 445,000 casos nuevos en países en desarrollo, los cuales representan el 84% de los casos a nivel mundial, con 270,000 muertes en ese mismo año (3). Se consideran regiones de alto riesgo aquellas con incidencia mayor a 30 por 100,000 personas, como el oriente de África, con incidencia de 42.7 por 100,000 personas; la región media y sur de África, con 31.5 por 100,000 personas. Por su parte, las regiones de menor incidencia son Australia, con 5.5 por 100,000 personas y el occidente de Asia con 4.4 por 100,000 personas en el año 2012 (2). La mortalidad para este mismo año fue menor de 2 por 100,000 mujeres en el oriente de Asia y Europa, en contraste con África media y occidental, donde las tasas de mortalidad fueron > 20 por 100,000 mujeres (2). De esta forma, se observa que el CCU es una patología estrechamente relacionada con el nivel de pobreza, en el que se hacen visibles las inequidades en salud. En los países desarrollados, la incidencia del CCU lo ubica por debajo de otros tipos de cáncer, como el de estómago y pulmón (4).
+En la región de las Américas, 83,000 mujeres fueron
+
+diagnosticadas con CCU en el año 2012 y casi 36,000 murieron por esta causa. Las tasas de mortalidad fueron tres veces mayores en Latinoamérica y el Caribe que en Norte América (5). En Latinoamérica, las regiones con mayor incidencia de CCU en 2012 fueron Venezuela, Perú, Bolivia y Paraguay, mientras que Colombia y Brasil se encuentran en un punto medio, con incidencias entre 13.6 y 20.6 por 100,000 mujeres, y Chile es el país con menor incidencia (< 7.9). En relación con la mortalidad, para el mismo año, Colombia, Brasil y Chile tuvieron tasas similares, entre 5.8 y 9.8 por 100,000 mujeres (2).
+En Colombia, la tasa de incidencia ajustada por edad para CCU, en el año 2012, fue de 18.7 por cada 100,000 mujeres (6), afectando principalmente a aquellas entre 35 y 50 años (7), mujeres con buen número potencial de años perdidos (5). A nivel nacional, el CCU es la cuarta causa de mortalidad en mujeres, ubicándose por debajo del cáncer de mama, estómago y tráquea (8), con tasas de mortalidad que pasaron de 7.8 por 100,000 en el 2005 a 6.68 por 100,000 mujeres en 2015 (9). En el departamento de Santander, el CCU es la tercera causa de mortalidad por neoplasias, con una tasa de mortalidad ajustada aproximadamente de 6.9 por 100,000, por debajo del cáncer de mama y de estómago (10).
+Este cáncer se origina en células con metaplasia en la zona de transformación del cérvix, que pueden presentar desórdenes en los mecanismos de control celular, debido a factores externos cancerígenos, principalmente la infección crónica con las cepas de alto riesgo del virus del papiloma humano (11), además de cofactores como tabaquismo, desnutrición, mala alimentación y enfermedades de transmisión sexual. Se observa, entonces, que los factores que favorecen la aparición del CCU son propios de países en vía de desarrollo, lo que explica la relación entre los niveles de pobreza y la incidencia del CCU observada en los datos epidemiológicos.
+Los tratamientos planteados para esta patología son: conización, braquiterapia, radioterapia de haz externo, quimioterapia, traquelectomía e histerectomía radical, cuya utilización depende del estadio que se asigna al CCU. El sistema de clasificación más común para asignar el estadio del tumor es el planteado por la Federación Internacional de Ginecología y Obstetricia (FIGO), el cual establece una clasificación basada en el TNM, donde la T se refiere al tamaño del tumor primario, N a la diseminación a ganglios linfáticos regionales y la M a las metástasis. Así, se observan cuatro estadios con subdivisiones, según las
+
+102
+
+Terapéutica del cáncer de cuello uterino, una revisión de la literatura
+
+características del tumor y su grado de diseminación (Tabla 1). Según la FIGO, se considera que todo CCU con compromiso de ganglios linfáticos regionales metastásicos es estadio IIIB y, si tiene metástasis a distancia, es estadio IVB (12).
+En Colombia, un estudio en mujeres con CCU mostró que el 53.2% de las pacientes recibieron radioterapia exclusiva y el 23%, solo cirugía. La combinación más frecuente fue radioterapia y quimioterapia, en 13% de las pacientes, mientras que la cirugía y radioterapia solo se usaron en 8.1% de las pacientes (13). Este mismo estudio reportó una tasa de supervivencia a cinco años de 56%, mientras que la Sociedad Americana de Cáncer reporta supervivencias que van del 93% en estadio 0 y IA a 16% en estadio IV (14).
+En México, se realizó un estudio sobre los conocimientos de profesionales de la salud, en relación con la prevención, diagnóstico y tratamiento del CCU, que utilizó un examen cuyo resultado máximo era 10 para medir estos conocimientos. Se evidenció que la media de puntaje obtenido fue 4.74 (IC 95% 4.57–4.88), siendo el resultado en médicos familiares 5.11 (IC 95% 4.86–5.35) (15). Por tanto, este estudio y lo expuesto con la epidemiología son un sustento sobre la necesidad de que los estudiantes de medicina y médicos generales conozcan más sobre el CCU. Esto incluye conocer los tratamientos disponibles para el mismo, de tal forma que puedan orientar a la paciente con CCU hacia un manejo específico, así como resolver las dudas que se generen en sus pacientes respecto al tema, usando información extraída de la literatura mundial. El objetivo de este estudio es revisar las características de cada uno de los métodos disponibles para tratamiento del CCU.
+Metodología
+Se realizó una búsqueda en las bases de datos PUBMED con las palabras clave “Uterine Cervical”, “Neoplasms/surgery” AND “Uterine Cervical Neoplasm/therapy” y, en LILACS, con las palabras clave “cáncer de cuello uterino” o “cáncer de cérvix” y “tratamiento”. Se obtuvieron 8,634 artículos en PUBMED y 1,308 en LILACS, se aplicaron los filtros de tiempo y tipo de artículos, según los criterios de inclusión, reduciendo la búsqueda a 1,121 artículos. Se eligieron los artículos según los siguientes criterios de inclusión: artículos publicados en inglés o español, entre el 1 de enero de 2013 y el 1 de mayo de 2016, artículos originales, revisiones de tema o revisiones sistemáticas con información respecto a una o varias
+
+terapias de CCU. Asimismo, se excluyeron aquellos artículos que mencionaban el CCU pero no incluían su terapéutica, junto con publicaciones que describían la terapéutica pero no aportaban información pertinente para el objetivo de este artículo. De los 1,121 artículos se seleccionaron, a través de título y resumen, 59 artículos según los criterios de inclusión y exclusión. Tras la lectura, se excluyeron otros 18 artículos, teniendo en cuenta los criterios planteados anteriormente, quedando así los 41 artículos incluidos en la revisión. Estos fueron leídos a profundidad con el fin de obtener la información más relevante de cada uno de ellos (Figura 1).
+Resultados
+El CCU continúa siendo una patología de alta prevalencia a nivel mundial, por lo que se requiere el mejoramiento continuo de las técnicas existentes y la generación de nuevas opciones terapéuticas. A continuación se realizará una descripción de las características de las terapias para CCU reportadas en la literatura entre 2013 y 2016:
+Conización
+Consiste en la remoción de una porción cónica del cuello con un bisturí frío, de tal forma que se tome endocervix y exocervix. La cantidad de tejido extirpado depende del tamaño de la lesión y la probabilidad de encontrar un cáncer invasor; finalmente, el tejido extirpado se envía a patología para realizar el diagnóstico histopatológico y determinar si todo el tejido anormal fue extraído. Durante el procedimiento, la complicación más común es la hemorragia, considerando que el cérvix tarda en cicatrizar de 4 a 6 semanas (11).
+Se ha utilizado esta terapia en el tratamiento del cáncer microinvasor, principalmente en el estadio IA1, debido a que permite preservar la fertilidad y es menos invasivo que los demás tratamientos existentes, alcanzando una supervivencia a cinco años similar a la de la histerectomía: 95.1% y 95.6% respectivamente. Cuando hay márgenes positivos en la muestra extirpada, es necesario reintervenir, pudiéndose realizar una nueva conización, sobre todo en pacientes en las que es importante preservar la fertilidad. Además, hay que tener en cuenta el necesario seguimiento a largo plazo posterior al procedimiento (16). En otro estudio, realizado por Ramírez y
+
+103
+
+Fabio Camilo Suárez-Cadena, Est
+
+Vol 21(1):100-114, abril - julio 2018
+
+Tabla 1. Estadificación de la FIGO para el cáncer de cuello uterino para tumor primario (T)
+
+Estadio FIGO I IA
+IA1 IA2 IB IB1 IB2 II IIA IIA1 IIA2 IIB III IIIA IIIB IVA
+
+Características
+Carcinoma cervical confinado al útero (la extensión al cuerpo no debe ser tenida en cuenta).
+Carcinoma invasor diagnosticado solo mediante microscopía. Invasión del estroma con una profundidad máxima de 5 mm y una extensión horizontal ≤7 mm. El compromiso del compartimento vascular, venoso o linfático no afecta la clasificación.
+Invasión estromal ≤3 mm en profundidad y ≤7 mm de extensión horizontal.
+Invasión estromal >3 mm y ≤5 mm en profundidad, con una extensión horizontal ≤7 mm.
+Lesión clínicamente visible limitada al cuello uterino o lesión microscópica mayores que el estadio IA.
+Lesión clínicamente visible ≤4 cm en su mayor diámetro.
+Lesión clínicamente visible >4 cm en su mayor diámetro.
+Carcinoma cervical que invade más allá́ del útero, pero no compromete la pared pélvica o el tercio inferior de la vagina.
+Tumor sin invasión de parametrios.
+Lesión clínicamente visible ≤4 cm en su mayor diámetro.
+Lesión clínicamente visible >4 cm en su mayor diámetro.
+Tumor con invasión de parametrios, sin llegar a la pared pelviana.
+Tumor que se extiende a la pared pélvica y/o compromete el tercio inferior de la vagina y/o causa hidronefrosis o alteración de la función renal.
+El tumor compromete el tercio inferior de la vagina, sin extensión a la pared pélvica.
+El tumor se extiende a la pared pélvica y/o causa hidronefrosis o alteración de la función renal.
+El tumor invade la mucosa de la vejiga o del recto y/o se extiende más allá́ de la pelvis (el edema bulloso no es suficiente para clasificar un tumor como T4).
+
+Fuente: Álvarez C, Castro E, Martín J, Bruno G, González C, Vallejos J, et al. Actualización de la estatificación de cáncer de cuello uterino. RAR. 2012; 76(2):169-71.
+
+104
+
+Terapéutica del cáncer de cuello uterino, una revisión de la literatura
+
+Figura 1. Algoritmo de búsqueda Fuente: elaboración propia de los autores
+
+colegas, se trataron con conización y linfadenectomía pélvica completa 260 mujeres de bajo riesgo y con cáncer de estadio temprano, 80% de ellas en estadio IB1. Se obtuvieron resultados favorables, con solo dos recaídas y una muerte, junto con 73 embarazos y 46 partos (12). Estos resultados demuestran que la conización es un tratamiento bueno en pacientes con CCU en estadio temprano, en quienes se desea lograr tratar el cáncer y mantener la fertilidad a largo plazo.
+
+Braquiterapia
+Consiste en la aplicación de material radioactivo directamente o cerca del tumor, permite usar dosis mayores de radiación para tratar un área más pequeña y se puede insertar en una cavidad como la vagina o el útero, braquiterapia (BT) intracavitaria, o en un tejido, BT intersticial. Existen dos tipos de BT: temporal y permanente. La BT temporal se puede administrar en dosis baja (LDR), en la que la paciente recibe radiación por 1 o 2 días y en dosis alta (HDR), donde el procedimiento dura de diez a
+
+105
+
+Fabio Camilo Suárez-Cadena, Est
+
+Vol 21(1):100-114, abril - julio 2018
+
+veinte minutos, suministrándose hasta diez sesiones semanales. Por otro lado, la BT permanente consiste en la implantación de semillas radioactivas que van liberando radiación que, con el tiempo, disminuye de intensidad hasta ser nula, quedando las semillas inactivas dentro del organismo (17).
+Se ha desarrollado la BT adaptativa guiada por imágenes, que permite ajustar las dosis de radiación emitidas por cada implante, según una reconstrucción 3D del tumor (18). De esta forma, se liberan altas dosis de radiación al tumor y se controla el nivel de radiación que recibe el cuerpo de forma general y la que llega a órganos cercanos. Así, muestra ser superior a la radioterapia de intensidad modulada, en cuanto logra administrar mayores dosis de radiación al volumen blanco, lo cual es más favorable para el control tumoral (p < 0.05) (19); a su vez, permite tanto conservar la fertilidad como disminuir la morbilidad (18). En pacientes con estadios IA, IIA y IIB, se logró respuesta en el 64% al combinar la BT con cisplatino, sin requerirse la realización de histerectomía radical (16). Por esto, en general, se pueden obtener resultados adecuados con esta técnica que, al tener varias modalidades, puede ser adaptada a las necesidades de cada paciente, permitiendo incluso preservar la fertilidad. Sin embargo, en la mayoría de los casos, requiere combinación con otros métodos de tratamiento y ha tenido dificultades en tumores extendidos lateralmente y asimétricos, debido a que la liberación de radiación es cilíndrica, generándose infradosis, o bien, sobredosis, cuando se trata de cubrir completamente el tumor (20).
+Radioterapia
+Este tratamiento se basa en la radiación con haces externos de fotones. Existen diferentes modalidades de terapia, como la radioterapia (RT) de representación tridimensional, que usa tomografías para mapear la ubicación del tumor en tres dimensiones, logrando buena precisión al irradiar; la radioterapia de intensidad modulada (IMRT), en la que se puede controlar la potencia de los haces, dando una dosis relativamente precisa a los volúmenes blancos, disminuyendo así los niveles de radiación a los órganos en riesgo (19, 21); y la terapia de protones de intensidad modulada, que tiene características similares a la IMRT, difiriendo de esta por el uso de protones (22).
+Para la planeación de la RT es importante definir el volumen tumoral, el volumen clínico blanco y
+
+los órganos en riesgo de recibir radiación. Además, hay que tener en cuenta que se pueden presentar incertidumbres tanto sistemáticas, por cambios de posición del paciente, como aleatorias, por cambios de la morfología tumoral (23). La RT puede usarse como una opción de rescate, en la que se combina RT de haz externo con radiación intracavitaria. En algunos casos, se puede usar solo RT de haz externo cuando no hay enfermedad residual y los márgenes de resección del tumor son negativos (24). La RT ha sido, incluso, planteada en un estudio como un método hemostático y secundariamente citoreductor, que se puede aplicar en pacientes con sangrado de tumores avanzados que no responden a mecanismos de hemostasia convencionales. Su efectividad es de 98.3%, con mortalidad y complicaciones nulas asociadas al procedimiento (25).
+A pesar de los buenos resultados logrados con la RT, es necesario tener en cuenta que, en 19.8% de las pacientes, se asocia a efectos adversos como incontinencia fecal (26), fístulas, obstrucción y sangrado vesical, hematuria, estenosis uretral, atrofia y acortamiento vaginal, lesión ovárica y pérdida de función endocrina sexual (24, 27); junto a complicaciones a largo plazo, como enteritis, cistitis y linfedema de miembros inferiores (28). Además, cuando se combina con la quimioterapia (QT), la RT se relaciona de forma significativa (p 0.001) con aumento de la frecuencia defecatoria y episodios de diarrea (29). Por tanto, es importante tener en cuenta estos efectos adversos, debido al gran impacto que generan en la calidad de vida, sobre todo de las mujeres jóvenes, que estarían expuestas con mayor frecuencia a los efectos a largo plazo. En busca de reducir la incidencia de estos efectos adversos, se utiliza la terapia de intensidad modulada que, sin embargo, no es tan efectiva para destruir el tumor (19).
+Con respecto a la supervivencia de las mujeres tratadas con RT, en un estudio en 348 mujeres que presentaban todos los estadios de CCU, se reportó que la supervivencia libre de enfermedad (SLE) a cinco años es de 88.8% y la supervivencia total (ST), en el mismo tiempo, de 92.2%, presentándose 75% de recaídas al primer año, 18% al tercer año y 6.2% en el quinto año (26). Cuando se empleó la RT de rescate, se presentó una SLE a 10 años de 83% y ST de 90.84%, mostrando su alta efectividad.
+Si se compara la RT convencional con la histerectomía, un estudio mostró que no hay diferencia significativa en porcentaje de recurrencias (16.89% vs 12.41%, p 0.200), SLE (log-rank, p 0.211) y ST (log-rank, p
+
+106
+
+Terapéutica del cáncer de cuello uterino, una revisión de la literatura
+
+0.347). Sin embargo, la RT es menos invasiva y causa menor linfedema (28). Según esto, la RT es un método de tratamiento con el que se obtienen buenos resultados de supervivencia a largo plazo, con adecuado control tumoral, pero que tiene relevantes efectos adversos que deben ser tenidos en cuenta al momento de seleccionarlo como método de tratamiento.
+Quimioterapia
+Consiste en la administración sistémica de fármacos que actúan en las células en reproducción. Sin embargo, dada su vía de administración, es común que hayan efectos adversos por lesión de células no tumorales (30), siendo más frecuente la neutropenia severa que se presenta en 91.3% de los pacientes, pero se recupera tras la suspensión de la terapia (31).
+Los fármacos aplicados pueden ser cisplatino, taxol y topotecan, aprobados por la Food and Drug Administration en 1978 (27), usados en combinación entre sí o con otros fármacos más recientes. Por ejemplo, en la terapia neoadyuvante se puede usar el esquema BOMP (bleomicina, vincristina, mitomicina y cisplatino) cada tres semanas por dos a cuatro ciclos, teniendo en cuenta que, según el estudio Neoadjuvant chemotherapy for locally advanced cervical cancer meta-analysis collaboration, la dosis de cisplatino es la de mayor efecto en el resultado del tratamiento (32). En los casos en que no hay respuesta de forma temprana al fármaco de QT suministrado, se recomienda realizar linfadenectomía, porque los tumores que hacen metástasis tienen COX 2 (los inhibidores de la ciclooxigenasa 2) y antígeno de carcinoma de células escamosas, que producen quimioresistencia, quedando focos de cáncer a pesar del tratamiento (33).
+Shuang L y colegas plantean que la QT es mejor que la RT como tratamiento en pacientes jóvenes y con estadio temprano de cáncer, porque reduce de forma clara las metástasis subclínicas y las tasas de recurrencia, con menor lesión en genitales y vejiga, favoreciendo una adecuada calidad de vida (27). A su vez, un estudio italiano en fase III reportó que la QT neoadyuvante es superior a la radiación convencional para lograr optimizar las condiciones del paciente antes de la histerectomía radical, logrando llevar a cirugía al 78.4% de las pacientes en el grupo tratado con QT (31).
+En algunos casos, se busca controlar el cáncer solo con QT para reducir la invasión en el paciente y los costos, encontrándose que la QT neoadyuvante en
+
+pacientes con cáncer en estadio IB2, IIA2 y IIB mejora el compromiso extrapélvico, medido como nodos pélvicos positivos, de un 44% a 29% y disminuye el requerimiento de cirugía post QT al 58%, comparado con el 80% del grupo que no recibió QT (32). A pesar de estas diferencias, la QT no logra mejores resultados a cinco años que la RT en cuanto a SLE y ST (27). Teniendo en cuenta estos resultados, al momento de definir la terapéutica del CCU. Es relevante conocer que el manejo con QT, a pesar de no ser superior a la RT en cuanto a SLE y ST, sí disminuye la frecuencia con que las pacientes requieren cirugía y, por tanto, sería preferible, ya que no somete a la paciente a múltiples intervenciones, con la posible mejora en su calidad de vida durante la enfermedad. Por otro lado, es posible combinar la QT con RT, reduciendo la recurrencia locoregional y distal cuando la paciente tiene un solo factor de riesgo como metástasis nodal, compromiso parametrial o margen quirúrgico positivo; pero, si tiene múltiples factores, solo reduce la recurrencia locoregional, mas no la distal (34).
+Un estudio comparó la ST a cinco años entre QT neoadyuvante y cirugía, siendo estas de 70% y 74% respectivamente (32), gracias a que la respuesta es de 78.3% al usar algunos fármacos como paclitaxel, docetaxel y carboplatino, manteniendo unos efectos adversos aceptables (31). Los resultados con QT pueden mejorar si se usa concomitantemente con otras terapias, observándose ST a cinco años de 84.7% y SLE a cinco y diez años de 85.5% y 60%, respectivamente, cuando se combina con RT externa 4500cGy a pelvis y BT de alta tasa durante siete semanas (35). De esta forma, se logran adecuados resultados con menos dosis de cada terapia y, por tanto, se reduce la incidencia de efectos adversos. Aunque es necesario realizar mayores estudios, la QT también ha mostrado resultados alentadores en el cáncer no escamoso, logrando una media de SLE de 26 meses cuando se asocia con histerectomía radical (31).
+Traquelectomía
+La traquelectomía (TQ) consiste en extirpar el cuello uterino, en algunos casos con algún segmento de vagina y ganglios linfáticos. Fue descrita inicialmente por E. Aburel en 1956, pero redescubierta por dos grupos de investigadores en 1990 (36). Es una terapia que busca preservar la fertilidad, pero no la garantiza. Se debe, además, realizar tomografía computarizada o resonancia magnética abdominopélvica para descartar compromiso de parametrios y metástasis
+
+107
+
+Fabio Camilo Suárez-Cadena, Est
+
+Vol 21(1):100-114, abril - julio 2018
+
+ganglionares (36). La TQ es indicada cuando hay invasión del cérvix mayor a 3 mm en carcinoma escamocelular (37) y la lesión solo se confina a este segmento. Cuando el cáncer invade entre 3 mm y 20 mm se recomienda el abordaje vaginal y, en tumores de mayor tamaño, el abdominal (38).
+En la técnica vaginal se realiza una incisión circunferencial en la vagina superior, se corta el ligamento supracervical y se moviliza la base de la vejiga. Después, se dividen los ligamentos uterosacros, se ubican los uréteres utilizándolos como guía para cortar los ligamentos cardinales y se extrae la pieza de cérvix. Finalmente, se sutura el útero con la cúpula vaginal restante (39). Para todo el procedimiento es necesario que el cirujano se encuentre capacitado, con habilidades en linfadenectomía laparoscópica y cirugía vaginal radical (40).
+Por otro lado, el abordaje abdominal puede ser de tres tipos. Por laparotomía (LT), en la cual se diseca la vejiga hacia la región medial de la vagina, se cortan los ligamentos y las arterias uterinas en su origen de la iliaca interna, respetando los ligamentos infundibulopelvicos, después se usa un cilindro vaginal para guiar la vaginectomía, se completa el procedimiento al separar el fondo uterino del istmo y se realiza el final del mismo que el abordaje vaginal (39): este método tiene menor curva de aprendizaje y no demanda una habilidad extensa del cirujano, debido a que usa instrumentos y una técnica muy similares a la histerectomía radical (40, 41).
+La otra técnica es a través de laparoscopia (LP), donde se inserta una cámara a través del ombligo, dos trocar de 5 mm en los cuadrantes inferiores lateral a las arterias epigástricas y un trocar de 10 mm suprapúbico en la línea media, para realizar el procedimiento igual que en el abordaje abdominal. Más recientemente, se ha descrito la TQ abdominal robótica que requiere un trocar de 12 mm transumbilical con cámara, dos trocar robóticos de 8 mm y un asistente de 10 mm (39).
+Se ha reportado que, cuando hay anatomía vaginal anormal, el abordaje abdominal tiene varias ventajas frente al vaginal, debido a que permite extraer tumores más grandes, por la necesidad que estos plantean de mayor radicalidad en la remoción de parametrios (36, 40, 41). Sin embargo, la hemorragia, el tiempo de cirugía y la estancia hospitalaria son mayores (38), por lo que el abordaje por LP sería el más indicado en pacientes jóvenes con estadios tempranos de CCU, ya que trae las ventajas arriba mencionadas, así como mejor aspecto
+
+estético. La TQ, en general, tiene complicaciones como estenosis cervical, expulsión de cerclaje, amenorrea, aumento del riesgo de parto pretérmino, aborto, corioamnionitis y ruptura prematura de membranas (39, 41). En el abordaje vaginal, las complicaciones perioperatorias son 8.5% y, a largo plazo, del 20%, siendo las más comunes amenorrea, dispareunia de novo y sagrado vaginal (39).
+La supervivencia en la TQ es de 95% a 98% en cáncer de estadio temprano y sin metástasis a ganglios linfáticos (38). En la literatura se reportan tasas de recurrencia para el abordaje abdominal de 3.8% (36) y, para el vaginal, de 2.5%, siendo más comunes las recurrencias locales (39), en algunos casos con tasas de recurrencia muy similares de 4.8% y 4.7% para la TQ abdominal y vaginal, respectivamente (41). Como la TQ se ha planteado con el fin de preservar la fertilidad, en ciertos estudios se ha encontrado que las tasas de embarazo son mayores que 50% y, de estos, entre 50 y 70% de nacidos vivos (39). Específicamente, las mujeres sometidas al abordaje abdominal han mostrado menor fertilidad, con embarazos en el 15.5% de las pacientes, de los cuales 35% presenta partos pretérmino, en comparación con la vía vaginal que presenta 30 y 20%, respectivamente. La explicación es la mayor cantidad de cérvix resecado en la cirugía abdominal (38, 41).
+Histerectomía radical
+Fue desarrollada inicialmente por Wertheim, quien propuso una cirugía con escisión del útero, retiro de tejido conectivo circundante y los anexos de la vagina superior. Thoma Lonescu consideraba necesario realizar linfadenectomía como tratamiento. En 1944, Meigs mejoró la técnica de Wertheim reportando supervivencia de 75% en pacientes estadio I, con mortalidad intraquirúrgica de 1% (42).
+Durante el procedimiento clásico por LT, se realiza una incisión en la línea media supra e infraumbilical, se pinza, secciona y liga el ligamento ancho y el infundíbulo pélvico lo más cerca de la pared pélvica, para tener buena exposición del retroperitoneo. Luego, se identifican los vasos ilíacos y el uréter, para empezar a diseccionar los ganglios en la fosa obturatriz, pasando a los ganglios linfáticos en zonas paraaórtica, paracaval y los vasos ilíacos primitivos. Después, se completa la disección de los parametrios desde la pelvis y se separa la arteria ilíaca interna, cuidando de no lesionar la arteria ureteral inferior.
+
+108
+
+Terapéutica del cáncer de cuello uterino, una revisión de la literatura
+
+Posteriormente, se pinza el plexo hipogástrico hasta llegar al piso pélvico, se diseccionan los tabiques vesico-vaginales y se procede a aislar los uréteres realizándoles tunelización. Finalmente, se separan el tejido paravesical y la vejiga de la vagina, para cortar la vagina 4-5 cm y tener un margen adecuado (43).
+La histerectomía radical (HR) sigue siendo el procedimiento fundamental en el tratamiento del CCU y se recomienda en invasión mayor a 3 mm de un carcinoma escamocelular (37). No obstante, cuando se descubre un cáncer estadio IA durante la conización de una lesión intraepitelial de alto grado, se recomienda realizar una histerectomía simple en lugar de una radical, debido a que la última tiene mayor morbilidad pero no difiere en mortalidad para este estadio (44). Para la HR, se han planteado dos abordajes principales, por LT o por LP. Este último no muestra de forma significativa ser menos efectivo en la radicalidad quirúrgica y, al usar equipos electroquirúrgicos para coagulación y disección, causa menor reacción inflamatoria, en comparación con los cortes con tijeras y los puntos de sutura con mayor tensión que se usan en las heridas más grandes de la LT (45). Por esto, tal como sucedía en la TQ, con el abordaje por LP para HR se obtienen los mismos resultados que con HR por LT, pero con menor invasión y, por tanto, con mejor recuperación en el postoperatorio.
+Al evaluar las ventajas del abordaje por LP, se está desarrollando el abordaje microlaparoscópico para disminuir la invasividad, reduciendo el diámetro de los puertos a 3 mm o desarrollando una cirugía de puerto único (46, 47). Además de estos abordajes, pueden realizarse diferentes técnicas de HR. Una de ellas busca preservar los nervios (nerve-sparing, en inglés) realizando menor resección de algunos tejidos, pero no reduce la radicalidad en comparación con la técnica convencional (48).
+En el estudio de Bobadilla y colegas (49), se practicó HR a 27 pacientes con CCU estadio IA1 y IB1, encontrando excelentes resultados, con nula mortalidad transoperatoria y solo 18.5% de complicaciones posquirúrgicas. Adicionalmente, en cuanto a calidad de vida, la HR mostró ser superior a la RT o quimio-radioterapia, debido a que el 90% de las mujeres a las que se les realizó HR llevaban una vida sexual más activa que aquellas que recibieron RT o quimio-radioterapia (p 0.01). La longitud vaginal también fue mayor, con media 7.4 +/− 1 cm (p < 0.001), en comparación con 5.5 cm y 5.3 cm de la RT y la quimio-radioterapia, respectivamente. Por lo
+
+tanto, se asoció a menor dispareunia (p 0.021) (29). Junto a esto se ha observado que, si se realiza la HR después de quimio-radioterapia, los riesgos son iguales a llevarla a cabo como terapéutica inicial, sin mejorar tampoco la tasa de supervivencia (50). Por otro lado, en mujeres mayores, la supervivencia de la HR es similar a la RT y, por lo tanto, en ellas deben considerarse las terapias no quirúrgicas, teniendo en cuenta comorbilidades, edad y estado funcional (51).
+Al comparar los dos abordajes, el abordaje por LP mostró ser quirúrgica y oncológicamente seguro, debido a que no hubo diferencias en cuanto a supervivencia. Por otro lado, las complicaciones a 60 días fueron significativamente menores en el grupo de LP (24.5%), frente al 52.1% en el grupo con LT (p 0.001), siendo las complicaciones más comunes en los dos abordajes las infecciones de vía urinaria (47). Adicionalmente, se ha encontrado diferencia significativa en el tiempo de cirugía, estancia hospitalaria, perdida sanguínea y necesidad de transfusión, siendo menores para el abordaje por LP (38, 47). No obstante, un estudio realizado en Singapur, comparando estos dos, solo encontró diferencia significativa en el volumen de sangrado (52). Cuando se evalúa la percepción de dolor a través de una escala análoga verbal de diez puntos, como realizaron Campos et al en su ensayo clínico controlado y aleatorizado, las pacientes sometidas a LP tuvieron puntajes menores que aquellas a las que se practicó LT (45).
+A su vez, los nuevos abordajes han mostrado resultados positivos, encontrándose que la microLP tiene un tiempo de cirugía de 165 minutos, cuya pérdida sanguínea estimada es 30 ml. En el estudio, el procedimiento cursó sin complicaciones intraoperatorias ni postoperatorias y, además, disminuyó el dolor, el tiempo de recuperación y mejoró los resultados estéticos (46). Otro método, llamado HR robótica, es comparable a la HR laparoscópica en la radicalidad, tiempo de cirugía y supervivencia a tres años, pero presenta menor pérdida sanguínea (p 0.037) y menos complicaciones tempranas menores de seis semanas desde la cirugía (p 0.028) (53). Así, estos nuevos métodos están logrando resultados alentadores con respecto al control del CCU y a la invasión en el tratamiento, por lo que se amerita que se continúe la investigación sobre estos temas.
+En los últimos años, se ha planteado como técnica la HR modificada o HR preservadora de nervios (nerve-sparing), en la cual se busca mantener
+
+109
+
+Fabio Camilo Suárez-Cadena, Est
+
+Vol 21(1):100-114, abril - julio 2018
+
+los nervios esplácnicos pélvicos para disminuir la tasa de disfunción vesical que se ve en la HR convencional. En un ensayo clínico controlado no se evidenció diferencia significativa en ST a cinco años ni en recurrencia, cuya tasa fue de 26% en la HR convencional y 24% en la modificada. Sin embargo, se observó diferencia en morbilidad urológica, siendo de 28% para la convencional y 13% en la modificada (38). Las complicaciones postoperatorias en la HR modificada son menores, ya que se recuperan más rápido la función vesical y la función ano-rectal, dada por menor constipación (48, 54). En cuanto a la función sexual, en algunos casos es superior con la HR modificada (54), mientas que en otros no hay diferencia, refiriéndose, en los estudios, que esta función depende mayormente de factores psicológicos, fibrosis y acortamiento vaginal (48).
+Cuando se evalúan estas dos técnicas, es necesario tener en cuenta que la HR modificada requiere mayor tiempo quirúrgico y no tiene una técnica universalmente establecida (54, 55). Además, la recurrencia y complicaciones como pérdida sanguínea, fístulas y estancia hospitalaria son similares entre las dos. Sin embargo, la HR modificada, al tener menos complicaciones urinarias, es superior en cuanto a mejora de la calidad de vida en aspectos como vida familiar, social, sensación de bienestar e interés para trabajar (54, 56, 57).
+De acuerdo con lo anterior, se está realizando en Japón un ensayo clínico fase III no aleatorizado multiinstitucional, en pacientes con tumores < 2 cm y con un seguimiento de cinco años, para evaluar la efectividad de la HR modificada contra la HR convencional. Se busca determinar si hay verdadero beneficio con respecto a la recuperación de la función urinaria, ya que, en dicho país, el grupo etario de 20 a 30 años es el más afectado por CCU y, por tanto, el impacto de estas complicaciones en la calidad de vida es mayor (58).
+En relación con complicaciones y desventajas, el método robótico es más costoso, aumenta el tiempo de procedimiento y, en el 19% de los casos, cursa con injuria de la vía urinaria y síntomas del tracto inferior (59). Al comparar los abordajes de LP con la LT, las complicaciones postoperatorias son 11 y 13.3%, respectivamente, siendo las más comunes fístulas ureterovaginales y desorden a largo plazo del vaciamiento vesical (52). No obstante, la LP tiene mayor riesgo de recurrencia, debido a menor extracción de linfonodos (p 0.008) (47). Es necesario tener en cuenta que, al detectar recurrencia del cáncer
+
+en la cúpula vaginal y reintervenir a través de LP, se logra control en 62.5% de los casos, pero se generan mayores complicaciones que afectan la calidad de vida como íleo, sangrado del fondo vaginal y fístulas vesicovaginales (60). Omitiendo las diferencias en complicaciones entre técnicas o abordajes y estudiando las complicaciones de la HR entre grupos de edad, George y colegas encontraron que la tasa de complicaciones en mujeres menores de 50 años es menor que en mayores de 70 años, con significancia estadística en cuanto a complicaciones intraoperatorias (p 0.003) y de la herida quirúrgica (p < 0.001). Además, las mujeres mayores de 70 años tienen 30 veces más mortalidad que las menores de 50 años (51).
+La HR en pacientes con estadio bajo de cáncer IA2 y IB1 alcanza una supervivencia general de 100% y SLE a cinco años de 96.3%. No obstante, para lograr estos resultados, el 18.5% requirió RT adyuvante por tener cáncer en estadio IB1 y, por tanto, mayor riesgo de extensión (49). Sin embargo, otro estudio reporta que, en pacientes con CCU estadio IB1 a quienes se les realizó HR más disección de linfonodos pélvicos, la ST a 5 años es 88% y la tasa de recurrencia de 9 a 18% (59).
+Conclusiones
+El CCU continúa siendo una patología muy frecuente en las mujeres, especialmente en países en vía de desarrollo, debido a su relación con el virus del papiloma humano. En esta medida, han aparecido múltiples terapias usadas mundialmente para el tratamiento de la enfermedad, teniendo en cuenta las características del tipo de cáncer que se padece, el estadio, factores propios de cada mujer (paridad satisfecha, edad, entre otros) y la calidad de vida que se logrará con la terapia. La conización logra controlar el carcinoma microinvasor preservando la fertilidad, mientras que la TQ es más invasiva, tiene mayores efectos adversos que la conización, pero es útil en CCU de tamaño < 3 mm, logrando adecuada supervivencia y preservando también la fertilidad. Por otra parte, con el desarrollo de la técnica mediante LP y LP robótica las complicaciones quirúrgicas son menores.
+La RT de haz externo, QT y BT han funcionado como métodos de tratamiento para CCU temprano y como coadyuvantes de la cirugía en estadios avanzados. La BT permite aplicar al tumor dosis de radiación más localizadas, con menor diseminación a órganos adyacentes y sin necesidad de que la paciente asista con frecuencia al centro hospitalario. La RT de haz
+
+110
+
+Terapéutica del cáncer de cuello uterino, una revisión de la literatura
+
+externo y la QT obtienen resultados buenos en cuanto a ST y SLE; sin embargo, la RT de haz externo genera gran cantidad de efectos adversos que se deben tener en cuenta, sobre todo en pacientes jóvenes. Por otro lado, la QT muestra efectos adversos principalmente sanguíneos, que a largo plazo no afectan la calidad de vida. Finalmente, la HR es la práctica fundamental para el tratamiento del CCU, con buenos resultados en cuanto a control del cáncer, ST y SLE. Además, con el desarrollo de nuevos abordajes como el LP, microLP y robótico, las complicaciones perioperatorias son menores, sin afectar los resultados obtenidos. Con el desarrollo de la HR modificada, también se han logrado reducir las complicaciones urinarias del procedimiento.
+Referencias
+1. Amaya J, Restrepo S. Tamizaje para cáncer de cuello uterino: Cómo, desde y hasta cuándo. Rev Colomb Obstet Ginecol. 2005;56(1):59-67.
+2. World Health Organization, International Agency for Research on Cancer. GLOBOCAN 2012: Estimated cancer incidente, mortality and prevalence worldwide in 2012 [Internet]. 2012 [Citado 21 de enero de 2018]. Recuperado a partir de: http:// globocan.iarc.fr/Pages/fact_sheets_ca
+3. Salud (OMS) OM de la. Papilomavirus Humanos (PVH) y cáncer cervicouterino [Internet]. 15 de marzo de 2015 [Citado 15 de mayo de 2016]. Recuperado a partir de: http://www.who.int/ mediacentre/factsheets/fs380/es/
+4. International Agency for Research on Cancer. GLOBOCAN 2012: Estimated Cancer Incidence, Mortality and Prevalence Worldwide in 2012, Incidence/Mortality, cancers, populations by sex [Internet]. 2012 [Citado 10 de abril de 2016]. Recuperado a partir de: http://globocan.iarc
+5. Pan American Health Organization, World Health Organization. Cervical cancer [Internet]. 2016 [Citado 21 de enero de 2018]. Recuperado a partir de: http://www.paho.org/hq/index.php?option=com_co ntent&view=article&id=5420%3A2011-cervicalcancer&Itemid=3637&lang=en
+6. Martínez JC, Martínez VM. Protocolo de vigilancia en salud pública: Cáncer de mama y cuello uterino. Inst Nac Salud. 2016;1-39.
+7. Instituto Nacional de Cancerología-ESE IN. Mortalidad por tipo de cáncer [Internet]. 2011 [Citado 15 de mayo de 2016]. Recuperado a partir de: http://www.cancer.gov.co/cancer_en_cifras
+
+8. Ministerio de Salud y Protección Social de Colombia. Análisis de situación de Salud de Colombia 2015 [Internet]. 2015 [Citado 21 de enero de 2018]. Recuperado a partir de: https://www.minsalud.gov. co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/ED/ PSP/asis-2015.pdf
+9. Observatorio Nacional de Cáncer ONC Colombia, Ministerio de Salud y Protección Social de Colombia. Tasa de mortalidad por tumores malignos del cuello uterino [Internet]. 2016 [Citado 21 de enero de 2018]. Recuperado a partir de: http://www. sispro.gov.co/Pages/Observatorios/cancer.aspx
+10. Observatorio de Salud Pública de Santander OSPS. Análisis de Situación de Salud de Santander ASIS. Revista del Observatorio de Salud Pública de Santander. 2014;9(1):1-71.
+11. Organización Mundial de la Salud. Guía Control integral del cáncer cervicouterino: Guía de prácticas esenciales. 2015;p1-412.
+12. Álvarez C, Castro E, Martín J, Bruno G, González C, Vallejos J, et al. Actualización de la estadificación de cáncer de cuello uterino. RAR. 2012;76(2):16971.
+13. Pardo C, Cendales R. Supervivencia de pacientes con cáncer de cuello uterino tratadas en el Instituto Nacional de Cancerología. Revista del Instituto Nacional de Salud Biomédica. Bogotá. 2009. doi. org/10.7705/biomedica.v29i3.2
+14. American Cancer Society. Tasas de supervivencia para el cáncer de cuello uterino según la etapa [Internet]. 2016 [Citado 3 de febrero de 2018]. Recuperado a partir de: https://www.cancer.org/ es/cancer/cancer-de-cuello-uterino/detecciondiagnostico-clasificacion-por-etapas/supervivencia. html#escrito_por
+15. Li S, Hu T, Chen Y, Zhou H, Li X, Cheng X, et al. Adjuvant Chemotherapy, a Valuable Alternative Option in Selected Patients with Cervical Cancer. PLOS One. 2013. doi.org/10.1371/journal. pone.0073837
+16. Arillo E, Lazcano E, Peris M, Salazar E, Salméron J, Alonso P. El conocimiento de profesionales de la salud sobre la prevención del cáncer cervical. Alternativas de educación médica. Salud Pública de México [Internet]. 2000 [Citado 3 de febrero de 2018];42(1):34-42. Recuperado a partir de: http:// www.redalyc.org/html/106/10642108/
+17. Qian Q, Yang J, Cao D, You Y, Chen J, Shen K. Analysis of treatment modalities and prognosis on microinvasive cervical cancer: a 10-year cohort
+
+111
+
+Fabio Camilo Suárez-Cadena, Est
+
+Vol 21(1):100-114, abril - julio 2018
+
+study in China. J Gynecol Oncol. 2014;25(4):293300. doi.org/10.3802/jgo.2014.25.4.293 18. American Cancer Society. Radioterapia interna (braquiterapia) [Internet]. 2015 [Citado 15 de mayo de 2016]. Recuperado a partir de: https://www. cancer.org/es/tratamiento/tratamientos-y-efectossecundarios/tipos-de-tratamiento/radioterapia/ radioterapia-interna.html 19. Mazeron R, Gilmore J, Dumas I, Champoudry J, Goulart J, Vanneste B, et al. Adaptive 3D ImageGuided Brachytherapy: A Strong Argument in the Debate on Systematic Radical Hysterectomy for Locally Advanced Cervical Cancer. The Oncologist. 2013;18:415-22. doi.org/10.1634/ theoncologist.2012-0367 20. Khosla D, Patel F, Oinam A, Tomar P, Sharma S. Dosimetric comparison of vaginal vault ovoid brachytherapy versus intensity‑modulated radiation therapy plans in postoperative patients of cervical carcinoma following whole pelvic radiotherapy. J Cancer Res Ther. 2014;10(1):153-58. doi. org/10.4103/0973-1482.131449 21. Marnitz S, Köhler C, Budach V, Neumann O, Kluge A, Wlodarczyk W, et al. Brachytherapy-emulating robotic radiosurgery in patients with cervical carcinoma. Radiation Oncology. 2013;8:1-8. doi. org/10.1186/1748-717X-8-109 22. Wang X, Zhao Y, Shen Y, Shu P, Li Z, Bai S, et al. Long-term follow-up results of simultaneous integrated or late course accelerated boost with external beam radiotherapy to vaginal cuff for high risk cervical cancer patients after radical hysterectomy. BMC Cancer. 2015;15(257):1-8. doi.org/10.1186/s12885-015-1248-3 23. American Cancer Society. Radioterapia externa [Internet]. 2015 [Citado 15 de mayo de 2016]. Recuperado a partir de: https://www.cancer.org/ es/tratamiento/tratamientos-y-efectos-secundarios/ tipos-de-tratamiento/radioterapia/radioterapiaexterna.html 24. Romero P, Villafranca E, Rico M, Manterola A, Vila MT, Domínguez MA. Radioterapia guiada por imagen. Impacto clínico. An. Sist. Sanit. Navar [Internet]. 2009 [Citado 3 de febrero de 2018];32(Supl.2):33-7. Recuperado a partir de: http://scielo.isciii.es/scielo.php?script=sci_ arttext&pid=S1137-66272009000400004 25. Koh HK, Jeon W, Kim HJ, Wu H, Kim K, Chie EK. Outcome Analysis of Salvage Radiotherapy for Occult Cervical Cancer Found After Simple
+
+Hysterectomy. JJCO. 2013;43(12):1226-32. doi. org/10.1093/jjco/hyt137 26. April M, Marincaæ MA, Prunoiu VM, Ionescu S, Brãtucu E. The place of radiofrequency ablation in the multimodal treatment of cervical cancer. Our experience. Chirurgia [Internet]. 2014 [Citado 3 de febrero 2018];109(2):168-73. Recuperado a partir de: http://revistachirurgia.ro/pdfs/2014-2-168.pdf 27. Pineda-vega R, Riveros-torrado E. Características clínicas y pronóstico de las pacientes con cáncer de cervix tratadas en tres instituciones de salud en Barranquilla, Colombia, de 2005 a 2011. Rev. Colomb. Obstet. Ginecol. 2014;65(2):120-28. doi. org/10.18597/rcog.60 28. Chai Y, Wang T, Wang J, Yang Y, Gao Y, Gao J, et al. Radical hysterectomy with adjuvant radiotherapy versus radical radiotherapy for FIGO stage IIB cervical cancer. BMC Cancer 2014;14(1):1-8. doi. org/10.1186/1471-2407-14-63 29. Ferreira A, Mello E, Rossi T, Batista E, Silva-Filho A. Treatments for invasive carcinoma of the cervix : what are their impacts on the pelvic floor functions?. IBJU. 2013;39(1):46-54. doi.org/10.1590/S16775538.IBJU.2013.01.07 30. American Cancer Society. Quimioterapia. Tratamientos y Efectos Secundarios. Tipos de Tratamiento [Internet]. 2016 [Citado 15 de mayo de 2016]. Recuperado a partir de: http://www.cancer.org/ espanol/servicios/tratamientosyefectossecundarios/ quimioterapia/fragmentado/principios-de-laquimioterapia-analisis-exhaustivo-de-las-tecnicasy-su-papel-en-el-tratamiento-contra-el-cancer 31. Shoji T, Takatori E, Saito T, Omi H, Kagabu M, Miura F, et al. Neoadjuvant chemotherapy using platinum- and taxane-based regimens for bulky stage Ib2 to IIb non-squamous cell carcinoma of the uterine cervix. 2013;71:657-62. doi.org/10.1007/ s00280-012-2052-2 32. Katsumata N, Yoshikawa H, Kobayashi H, Saito T, Kuzuya K, Nakanishi T, et al. Phase III randomised controlled trial of neoadjuvant chemotherapy plus radical surgery vs radical surgery alone for stages IB2, IIA2 and IIB cervical cancer : a Japan Clinical Oncology Group trial (JCOG 0102). BJC. 2013;108(10):1957-63. doi.org/10.1038/ bjc.2013.179 33. Hu T, Li X, Zhang Q, Huang K, Jia Y, Yang R, et al. Could the Extent of Lymphadenectomy Be Modified by Neoadjuvant Chemotherapy in Cervical Cancer? A Large-Scale Retrospective Study. PLOS
+
+112
+
+Terapéutica del cáncer de cuello uterino, una revisión de la literatura
+
+ONE. 2015;10(4):1-14. doi.org/10.1371/journal.
+
+pone.0123539
+
+34. Matsuo K, Mabuchi S, Okazawa M, Kawano M,
+
+Kuroda H, Kamiura S, et al. Clinical implication
+
+of surgically treated early-stage cervical cancer
+
+with multiple high-risk factors. J Gynecol Oncol.
+
+2015;26(1):3-11. doi.org/10.3802/jgo.2015.26.1.3
+
+35. Barboza D, Gutiérrez E, Urdaneta N, Vera A,
+
+Abreu P, Villegas M. Cáncer de cuello uterino
+
+tratado con quimioterapia y radioterapia diez
+
+años de seguimiento. Rev Venez Oncol [Internet].
+
+2013 [Citado 22 de enero de 2018];25(1):17-25.
+
+Recuperado a partir de: http://www.redalyc.org/
+
+articulo.oa?id=375634875004
+
+36. Capilna ME, Ioanid N, Scripcariu V, Gavrilescu
+
+MM, Szabo B. Abdominal Radical Trachelectomy:
+
+a Romanian Series. Int J og Gynecol Cancer.
+
+2014;24(3):615-19.
+
+doi.org/10.1097/
+
+IGC.0000000000000076
+
+37. Nagura M, Koshiyama M, Matsumura N, Kido
+
+A, Baba T, Abiko K, et al. Clinical approaches to
+
+treating papillary squamous cell carcinoma of the
+
+uterine cervix. BMC Cancer. 2014;14:1-7. doi.
+
+org/10.1186/1471-2407-14-784
+
+38. Arimoto T, Kawana K, Adachi K, Ikeda Y, Nagasaka
+
+K, Tsuruga T, et al. Minimization of curative surgery
+
+for treatment of early cervical cancer: a review.
+
+JJCO. 2015;45(7):611-16. doi.org/10.1093/jjco/
+
+hyv048
+
+39. Gizzo S, Ancona E, Saccardi C, Patrelli TS,
+
+Berretta R, Anis O, et al. Radical trachelectomy:
+
+The first step fo fertility preservation in young
+
+women with cervical cancer (Review). Oncol Rep.
+
+2013;30(6):2545-54. doi.org/10.3892/or.2013.2736
+
+40. Cao DY, Yang JX, Wu XH, Chen YL, Li L, Liu KJ,
+
+et al. Comparisons of vaginal and abdominal radical
+
+trachelectomy for early-stage cervical cancer:
+
+preliminary results of a multi-center research in
+
+China. BJC. 2013;109:2778-82. doi.org/10.1038/
+
+bjc.2013.656
+
+41. Kuei Y, Lim T. Radical abdominal trachelectomy for
+
+stage IB1 cervical cancer in Singapore. Singapore
+
+Med J [Internet]. 2013 [Citado 22 de enero de
+
+2018];54(10):204-07. Recuperado a partir de: http://
+
+www.smj.org.sg/sites/default/files/5410/5410cr3.
+
+pdf
+
+42. Marin F, Plesca M, Ci B, Ma M, Blidaru A. Types
+
+of radical hysterectomies: From Thoma Lonescu
+
+and Wertheim to present day. J Med life [Internet].
+
+2014 [Citado 22 de enero de 2018];7(2):172-76.
+
+Recuperado a partir de: https://www.ncbi.nlm.nih. gov/pubmed/25408722 43. Hernández D, Aragón F, Barra R, Quintana- A. Puntos clave de la histerectomía radical (Tipo III). GAMO. [Internet]. 2010 [Citado 22 de enero 2018];9(6):300-04. Recuperado a partir de: http:// www.elsevier.es/pt-revista-gaceta-mexicanaoncologia-305-articulo-puntos-clave-histerectomiaradical-tipo-X1665920110004360 44. Chen J, Chiu M, Wang T, Chen T, Wang K, Su T, et al. Is conization once following by simple hysterectomy sufficient for all clinical stage IA1 cervical squamous cell carcinoma?. Taiwan J Obstet Gynecol. 2013;52(3):385-88. doi.org/10.1016/j. tjog.2012.12.004 45. Campos LS, Limberger LF, Stein AT, Kalil AN. Postoperative pain and perioperative outcomes after laparoscopic radical hysterectomy and abdominal radical hysterectomy in patients with early cervical cancer: a randomised controlled trial. Trials. 2013;14(1):1-7. doi.org/10.1186/1745-6215-14-293 46. Fanfani F, Gallotta V, Fagotti A, Rossitto C, Piovano E, Scambia G. Total Microlaparoscopic Radical Hysterectomy in Early Cervical Cancer JSLS. 2013;17(1):111-15. doi. org/10.4293/108680812X13517013318319 47. Xiao M, Zhang Z. Total Laparoscopic Versus Laparotomic Radical Hysterectomy and Lymphadenectomy in Cervical Cancer: An Observational Study of 13-year Experience. Medicine [Internet]. 2015 [Citado 22 enero de 2018];94(30):1-6. Recuperado a partir de: https:// www.ncbi.nlm.nih.gov/pubmed/26222868 48. Kim H, Kim K , Ryoo SB, Seo J , Kim S , Park J, et al. Conventional versus nerve-sparing radical surgery for cervical cancer: a meta-analysis. J Gynecol Oncol. 2015;26(2):100-10. https://doi. org/10.3802/jgo.2015.26.2.100 49. Bobadilla A, Esperón R, Berto I, Silveira J, Linchenat A, Montero J. Mortalidad postquirúrgica y sobrevida en pacientes con cáncer cervical tratadas con cirugía radical. Revista Habanera de Ciencias Médicas [Internet]. 2013 [Citado 22 enero de 2018];13(1):36-45. Recuperado a partir de: http:// www.redalyc.org/articulo.oa?id=180431104005 50. Cetina L, González A, Cantú D, Coronel J, Peréz D, Hinojosa J, et al. Brachytherapy versus radical hysterectomy after external beam chemoradiation with gemcitabine plus cisplatin: a randomized, phase III study in IB2 - IIB cervical cancer patients.
+
+113
+
+Fabio Camilo Suárez-Cadena, Est
+
+Vol 21(1):100-114, abril - julio 2018
+
+Ann Oncol. 2013;24:2043-47. doi.org/10.1093/ annonc/mdt142 51. George E, Tergas A, Ananth C, Burke W, Lewin S, Prendergast E, et al. Safety and Tolerance of Radical Hysterectomy for Cervical Cancer in the Elderly. Gynecol Oncol. 2015;134(1):36-41. doi. org/10.1016/j.ygyno.2014.04.010 52. Lim Y, Chia Y, Yam K. Total laparoscopic Wertheim’s radical hysterectomy versus Wertheim’s radical abdominal hysterectomy in the management of stage I cervical cancer in Singapore: a pilot study. Singapore Med J [Internet]. 2013 [Citado 5 de febrero de 2018];54(12):683-88. Recuperado a partir de: https://www.ncbi.nlm.nih.gov/pubmed/24356754 53. Yim GW, Kim SW, Nam EJ, Kim S, Kim HJ, Kim YT. Surgical Outcomes of Robotic Radical Hysterectomy Using three Robotic Arms versus Conventional Multiport Laparoscopy in Patients with Cervical Cancer. Yonsei Med J. 2014;55(5):122230. doi.org/10.3349/ymj.2014.55.5.1222 54. Long Y, Yao D, Pan X, Ou T. Clinical Efficacy and Safety of Nerve-Sparing Radical Hysterectomy for Cervical Cancer: A Systematic Review and Meta-Analysis. PLOS One. 2014;9(4):1-14. doi. org/10.1371/journal.pone.0094116 55. Sakuragi N. Nerve-sparing radical hysterectomy: time for a new standard of care for cervical cancer? J Gynecol Oncol. 2015;26(2):81-2. doi.org/10.3802/ jgo.2015.26.2.81 56. Chen L, Zhang WN, Zhang SM, Yang ZH, Zhang P. Effect of laparoscopic nerve-sparing radi-
+
+cal hysterectomy on bladder function, intestinal function recovery and quality of sexual life in patients with cervical carcinoma. Asian Pac J Cancer Prev [Internet]. 2014 [Citado 5 de febrero de 2018];15(24):10971-75. Recuperado a partir de: http://journal.waocp.org/?sid=Entrez:PubMed&id=pmid:25605211&key=2014.15.24.10971 57. Roh JW, Lee D , Suh D, Lim M, Seo SS, Chung J, et al. Efficacy and oncologic safety of nervesparing radical hysterectomy for cervical cancer: a randomized controlled trial. J Gynecol Oncol. 2015;26(2):90-9. doi.org/10.3802/jgo.2015.26.2.90 58. Kunieda F, Kasamatsu T, Arimoto T, Onda T, Toita T, Shibata T, et al. Non-randomized confirmatory trial of modified radical hysterectomy for patients with tumor diameter 2 cm or less FIGO stage IB1 uterine cervical cancer: Japan Clinical Oncology Group Study. (JCOG1101). JJCO. 2015;45(1):12326. doi.org/10.1093/jjco/hyu168 59. H Hoogendam JP, Verheijen RHM, Wegner I, Zweemer RP. Oncological outcome and long-term complications in robot-assisted radical surgery for early stage cervical cancer: an observational cohort study. BJOG. 2014;121(12):1538-45. doi. org/10.1111/1471-0528.12822 60. Abe A, Matoda M, Okamoto S, Kondo E, Kato K, Omatsu K, et al. Resection of the vaginal vault for vaginal recurrence of cervical cancer after hysterectomy and brachytherapy. World J Surg Oncol. 2015;13:1-6. doi.org/10.1186/s12957-0150495-8
+
+114

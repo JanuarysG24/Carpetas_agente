@@ -1,0 +1,233 @@
+1 1 7 0 9 5 6 research-article2023
+
+RPO0010.1177/27536351231170956Rehabilitation Process and OutcomeKarimijashni et al
+
+Pre- and Post-Operative Rehabilitation Interventions in Patients at Risk of Poor Outcomes Following Knee or Hip Arthroplasty: Protocol for Two Systematic Reviews
+Motahareh Karimijashni1,2, Samantha Yoo3, Keely Barnes1,2,4 and Stéphane Poitras1
+1School of Rehabilitation Sciences, Faculty of Health Sciences, University of Ottawa, Ottawa, ON, Canada. 2Ottawa Hospital Research Institute, Ottawa, ON, Canada. 3School of Epidemiology and Public Health, Faculty of Medicine, University of Ottawa, Ottawa, ON, Canada. 4Bruyère Research Institute, Ottawa, ON, Canada.
+
+Advances in Rehabilitation Science and Practice Volume 12: 1–7 © The Author(s) 2023 hDttOpsI::/1/d0o.i1.o1rg7/71/02.17157376/2375513263511127301915706956
+
+ABSTRACT
+Objective: Total knee (TKA) and hip arthroplasty (THA) are successful procedures in treating end-stage osteoarthritis when nonoperative treatments fail. However, a growing body of literature has been reporting suboptimal outcomes following TKA and THA. While pre- and postoperative rehabilitation is imperative to recovery, little is known about their effectiveness for patients at risk of poor outcomes. In the 2 systematic reviews with identical methodology, we aim to evaluate the effectiveness of (a) pre-operative and (b) post-operative rehabilitation interventions for patients at risk of poor outcomes following TKA and THA.
+Methods: The 2 systematic reviews will follow the principles and recommendations outlined in the Cochrane Handbook. Only randomized controlled trials (RCTs) and pilot RCTs will be searched in 6 databases: CINAHL, MEDLINE, Embase, Web of Science, Pedro, and OTseeker. Eligible studies including patients at risk of poor outcomes and evaluating rehabilitation interventions following and preceding arthroplasty will be considered for inclusion. Primary outcomes will include performance-based tests and functional patient-reported outcome measures, and secondary outcomes will include health-related quality of life and pain. The quality of eligible RCTs will be evaluated using the Cochrane’s risk of bias tool, and the strength of evidence will be assessed using the Grades of Recommendation, Assessment, Development, and Evaluation (GRADE).
+Discussion: These reviews will synthesize the evidence regarding the effectiveness of pre-and post-operative rehabilitation interventions for patients at risk of poor outcomes, which in turn may inform practitioners and patients in planning and implementing the most optimal rehabilitation programs to achieve the best outcomes after arthroplasty.
+Systematic Review Registration: PROSPERO CRD42022355574
+Keywords: Total joint arthroplasty, osteoarthritis, rehabilitation, poor outcome
+
+RECEIVED: December 8, 2022. ACCEPTED: April 4, 2023.
+Type: Study Protocol
+Funding:The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+Declaration of Conflicting Interests: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+CORRESPONDING AUTHOR: Stéphane Poitras, Faculty of Health Sciences, School of Rehabilitation Sciences, University of Ottawa, 451 Smyth Road, Ottawa, ON K1H 8M5, Canada. Email: stephane.poitras@uottawa.ca
+
+Introduction Total knee arthroplasty (TKA) and total hip arthroplasty (THA) are recognized as the most common and cost-effective elective surgical procedures for symptomatic end-stage hip and knee osteoarthritis (OA) to relieve pain and restore functional status (1). There has been an increasing demand for these surgeries over the past decade1,2 due to several factors including obesity, population aging, increases in sports-related injuries, changing expectations about the quality of active life, and expanding surgical indications.3-5 In recent years, THA and TKA cases increased 5% annually on average for both joints in Canada.1 Although THA and TKA are generally successful interventions, leading to improvement in pain levels and functional status, it is well documented that up to one-third of patients undergoing arthroplasty report challenges in the recovery in terms of persistent pain, restricted range of motion (ROM), functional disability, poor quality of life, and
+
+dissatisfaction.6-8 The patients at risk of poor outcomes are less likely to perform the activities they would like to do after surgery and more likely to be high consumers of healthcare services.
+Various concepts for poor outcomes are used, and there is no consensus on its definition.9 A review by Te Molder et al9 reported that 8 different domains were used in the literature to define poor outcomes, including pain, joint function, physical functioning, quality of life, patient satisfaction, anxiety, depression, and global patient assessment. In addition, several demographic and clinical factors have been shown to be risk factors for poor outcomes such as older age,10-13 female gender,10,14-16 frailty,17,18 obesity,19,20 presence of comorbidity,21-25 pre-operative muscle strength,26,27 pre-operative ROM,28 pain,29,30 preoperative function,31-34 concomitant musculoskeletal joint complaints beyond the operated joint,29,35 and psychological problems.36-40
+
+Creative Commons CC BY: This article is distributed under the terms of the Creative Commons Attribution 4.0 License (https://creativecommons.org/licenses/by/4.0/) which permits any use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+
+2
+
+Advances in Rehabilitation Science and Practice ﻿
+
+Rehabilitation is an essential part of the provision of THA and TKA and the quality of rehabilitation strategies has been suggested to be a key determinant of post-operative outcomes.41-43 These strategies could be delivered to patients pre-operatively (also known as prehabilitation) and post-operatively with a goal of supporting surgical preparation and recovery. Prehabilitation and rehabilitation strategies are designed to help patients regain and maintain physical, sensory, intellectual, psychological, and social function,6,44,45 ensure shorter hospital stays, fewer complications, and reduced utilization of follow-up services.46 Rehabilitation could involve contributions from many healthcare disciplines, including physiotherapy, occupational therapy, psychology, prosthetic/orthotic, and is offered in a variety of settings (inpatient, outpatient, home supervised (including telerehabilitation and telephone interview) and unsupervised).47-50 Rehabilitation and prehabilitation interventions for TKA and THA can include pre- and post-operative exercises, education, non-exercise interventions (eg, cryotherapy, continuous passive motion, electrical stimulation, assistive device), gait and balance training, and psychological interventions.6,51-53
+Despite the expanding body of knowledge on numerous post-operative interventions, the most effective way of providing rehabilitation remains unclear following TKA and THA.41,42 Most studies have targeted the average patients and have not focused on rehabilitation programs for patients at risk of poor outcomes.2,54 Because of this, some patients may not receive the most appropriate form of rehabilitation for their circumstances, resulting in suboptimal outcomes and wide variations in clinical practice.36,41,55 Several recent systematic reviews have evaluated the effectiveness of different rehabilitation strategies before and after TKA and THA.43,56-58 However, little is known on the effectiveness of rehabilitation programs for patients at risk of poor outcomes.
+Objectives
+These systematic reviews aim to provide evidence regarding the effect of pre- and post-operative rehabilitation interventions on patients at risk of poor outcomes undergoing TKA and THA. Specific objective is to determine the effectiveness of pre- and post-operative rehabilitation interventions on function, quality of life, and pain for patients at risk of poor outcomes following TKA and THA.
+Methods This protocol followed the Cochrane Handbook for Systematic Reviews59 and was reported based on the Preferred Reporting Items for Systematic Review and Metaanalysis Protocols (PRISMA-P) checklist guidelines (Supplemental Appendix A).60 The protocol for these systematic reviews was registered in PROSPERO (registration number CRD42022355574).
+
+Eligibility criteria
+See Table 1 for the inclusion and exclusion criteria.
+Population.  The current reviews will consider studies that include adults (aged 18 years and older) at risk of poor outcomes, with at least 85%61 undergoing primary elective TKA or THA due to OA because this surgery is predominantly considered to treat moderate to severe OA.1,62 Studies that include patients who underwent arthroplasty for reasons other than OA (eg, rheumatoid arthritis, dysplasia, trauma, revision), unicompartmental arthroplasty, hemiarthroplasty, hip resurfacing, and bilateral arthroplasty will be excluded. For pre-operative rehabilitation, patients who are scheduled to undergo TKA or THA will be included. Patients at risk of poor outcomes are defined according to the International Classification of Functioning, Disability, and Health (ICF) domains (Supplemental Appendix B).The ICF is a comprehensive framework of health states developed and published by the WHO in 2001. It is based on an integrative model of functioning, disability, and health and provides a standard language for describing an individual’s health state.63-65 This framework can contribute to broadening the understanding of different ways in which chronic conditions can affect patients’ functioning.64 The ICF model has 2 parts: (1) functioning/disability, which includes impairment, activity limitation, and participation restriction, and (2) contextual factors, including environmental, and personal factors.63,64 Patients at risk of poor outcomes are defined as including any of the following domains:
+(1) Impairment: pre- and post-operative pain measure, joint mobility measures, or muscle strength measures
+(2) Activity limitation: pre- and post-operative performancebased tests, disease- or site-specific patient reported outcome measures (PROMs)
+(3) Participation restriction: pre- and post-operative generic PROMs
+(4) Environmental factors: family, friends, caregiver support, or physical environment
+(5) Personal factors: age, sex, socioeconomic situations, frailty, level of dependency on walking aids, presence of comorbidity, psychological factors or concomitant musculoskeletal joint complaints beyond the index joint
+The above factors were derived from previous systematic rev iews,18,21,22,24,29,37,66-74 clinical practice guideline,47 and Delphi study.42
+Since there is consensus on the definition of poor response to arthroplasty,9 we will include the articles whether they defined the poor outcomes based on absolute or relative change. Therefore, there will be no restriction for the cut-off to define the patients at risk of poor outcomes.
+
+Karimijashni et al
+
+Table 1.  Inclusion and exclusion criteria.
+
+PICO framework
+Population
+
+Inclusion •  Adults aged 18 or older
+
+•  Primary elective knee and hip arthroplasty due to OA.
+•  Patients at risk of poor outcomes
+  ○ Based on ICF domains (impairment, activity limitation, participation restriction outcome measures, environmental and personal factors)
+
+Intervention Comparator Outcome
+Study design
+
+• All types of pre- and post-operative rehabilitation interventions (non-invasive, non-medication)
+• Without restrictions on duration •  Any intervention setting •  By any healthcare providers, research staff, or supervisors •  No treatment •  Usual care •  Another rehabilitation intervention •  Primary outcome:   ○  Performance-based measures   ○  PROMs of function •  Secondary outcomes:   ○  Health-related quality of life measures   ○  Pain •  RCTs, Pilot RCTs
+
+Others
+
+•  No restrictions in the date of publication
+
+3
+Exclusion
+• Unicompartmental, hip resurfacing, hemiarthroplasty
+•  Arthroplasty for:   ○  Rheumatoid arthritis   ○  Dysplasia   ○  Revision   ○  Trauma   ○  Other situations other than OA •  Invasive interventions
+•  Interventions involving pharmaceutical products
+      • Do not report any of the outcomes of
+interest
+• Abstracts •  Book chapters •  Thesis dissertations •  Observational studies • Quasi-RCTs •  Nonrandomized clinical trials • Reviews • Gray literature (eg, government
+reports, clinical practice guidelines)
+
+Since there is no consensus on the definition of poor response to arthroplasty,9 the articles will be included whether they defined the poor outcomes based on absolute or relative change. Therefore, there will be no restriction for the cut-off to define the patients at risk of poor outcomes. The study will be eligible if they included only patients at risk of poor outcomes. Articles with mixed samples will be excluded unless they did subgroup analyses for each factor.
+
+Intervention.  The following interventions will be included:
+(1) All pre- and post-operative rehabilitation interventions that are non-invasive and non-pharmacological (eg, exercise, electrical stimulation, cryotherapy, continuous passive motion, supporting devices, education, psychological intervention, and weight management/nutritional intervention).
+
+4
+
+Advances in Rehabilitation Science and Practice ﻿
+
+(2) Interventions beginning in any period before surgery or after (eg, acute hospital, prior to discharge from hospital, post-acute)
+(3) Provided by any healthcare providers. (4) Any intervention setting (eg, land, water, inpatient, outpatient, community-, home, virtual) and supervised or unsupervised interventions.
+Studies including multi-component interventions (eg, exercise and education) will also be included.
+Comparators.  Studies will be included if they investigated (1) a rehabilitation intervention compared with no intervention, (2) a rehabilitation intervention compared with usual care, (3) 2 different types of rehabilitation interventions compared headto-head. Studies comparing more than 2 interventions will also be included.
+Outcomes.  Primary outcomes will include performance-based measures assessed with any tool (eg, 6-minute Walk Test (6 MWT), Timed Up and Go (TUG), Stair Climbing Test (SCT)), function PROMs assessed with any tool (eg, Western Ontario and McMaster Universities Arthritis Index (WOMAC), Oxford Hip (OHS), and Knee Scores (OKS)). Secondary outcomes will include health-related quality of life measures assessed with any tool (eg, 12- and 36-Item ShortForm Health Surveys (SF-36, SF-12), EuroQol-5 Dimension (EQ-5D)), and pain assessed with any tools (eg, Likert scale).75 There will be no restrictions regarding the time the outcomes were measured pre- and post-operatively.
+Study types and others. These systematic reviews will only include randomized control trials (RCTs) and pilot RCTs. We will include the literature written in English, French, Korean, and Persian languages. There will be no restriction in the time of publication. Only the articles available in full text will be included.
+Data sources and search strategy
+The published studies will be identified by searching in 6 electronic databases: CINAHL, MEDLINE, Embase, Web of Science, Pedro, and Otseeker. The search strategy was developed by the first author with the assistance of an experienced medical Librarian using keywords and Medical Subject Heading (MeSH) related to TKA, THA, total joint arthroplasty, rehabilitation, and RCT. The search strategy was based on 2 Cochrane reviews,76,77 and pre-designed search filter for RCTs were used.59,77,78 The full search strategy for MEDLINE can be found in Supplemental Appendix C. The search strategy was adapted for other databases with the help of the medical librarian. Additional manual screening of the reference lists of included articles will be performed to identify other potentially eligible studies.
+
+Study records
+Data management and selection process.  All the search results will be imported into the Covidence web-based platform for systematic review79 and Zotero reference management software,80 and duplicate studies will be removed. A 2-step process will be conducted for study screening and selection according to the inclusion and exclusion criteria. Initially, 2 independent reviewers will conduct the title and abstract screening for potentially eligible studies. Studies meeting the inclusion criteria or requiring full texts to determine eligibility will be passed to the next process. Two independent reviewers will screen the full texts to confirm eligibility. Any discrepancy between reviewers will be resolved by discussion or judged by another reviewer if no consensus is reached. The reviewers will document the selection process in Covidence with rationale for study exclusion.
+Data extraction. Data will be extracted by 2 independent reviewers using a predetermined data extraction form. Three studies will be piloted to check the adequacy of extraction form and any necessary revisions will be made. Any disagreement will be resolved by discussion or by consulting another reviewer. The following information will be extracted: (1) general information such as title, first author, country of study, conflict of interest, funding, year of publication; (2) study details such as aim, design, inclusion and exclusion criteria, sample size; (3) study population such as demographic characteristics and criteria for inclusion of patients at risk of poor outcomes; (4) intervention characteristics such as type, setting and timing (starting point, duration), intensity/frequency of intervention, follow-up time points, and adherence; (5) outcome information such as primary and secondary outcomes, method of assessing outcomes, blinding of outcome assessment, adverse events; (6) surgical procedure (TKA, THA); THA and TKA results will be extracted and reported separately if available in the article; (7) summary of results. Whenever necessary, the study authors will be contacted for additional information. Supplemental Appendix D provides the items of the data extraction form.
+Risk of bias assessment.  Two independent reviewers will independently appraise the risk of bias using the Cochrane’s Risk of Bias Tool for Randomized Trials.81 The risk of bias assessment will include 7 domains: sequence generation; allocation concealment; blinding of participants and personnel; blinding of outcome assessment; incomplete outcome data; selective outcome reporting, and other biases. Potential bias in each item will be ranked high, low, or unclear risk based on the criteria provided in the tool. We will contact the authors of included articles for missing information or clarification if necessary. The rationale for these judgments, together with supporting information from the study, will be documented. Any disagreements between reviewers will be resolved by discussion or by consulting another reviewer. The risk of bias will be presented in a summary table.
+
+Karimijashni et al
+
+5
+
+Data synthesis.  Included studies will be descriptively analyzed in a narrative review. Characteristics of included studies, such as patient demographics, patient risk factors, intervention type, outcome measurements, and follow-up period will be reported in a summary table. Primary and secondary outcomes will be synthesized, and comparisons will be made across rehabilitation interventions and comparators. Included studies for preand post-operative rehabilitation interventions will be divided by type of surgery (THA and TKA) since differences in outcomes have been shown.62,82
+For post-operative rehabilitation interventions, each category will be divided based on 3 factors: (1) time: interventions that started within the first 12 weeks after TKA and THA and interventions that started after the 12-week period (the 12-week cut-off will be used since the greatest magnitude of functional improvement occurs within the first 12 weeks following surgery,83,84 (2) type of interventions (eg, exercise, electrotherapy, education, psychology), and (3) poor outcomes risk factors.
+For pre-operative rehabilitation interventions, each category will be divided based on 2 factors: (1) type of interventions and (2) poor outcomes risk factors.
+A meta-analysis will be undertaken for both reviews using a random-effects model if sufficiently homogeneous clinical trials are identified for comparison. Heterogeneity of the included studies will be measured using both Q and the I2 statistic.85 The level of heterogeneity will be determined based on I2 as follows: 0% to 40% unimportant heterogeneity, 30% to 60% moderate, 50% to 90% substantial, and 75% to 100% considerable heterogeneity.60 The results will be displayed in a forest plot. For primary or secondary outcomes measured on a continuous scale, standard deviations (SD) and 95% confidence intervals will be reported on. For dichotomous outcomes, risk ratios (RR) with 95% CI will be reported. If heterogeneity is high, we will conduct subgroup analyses stratified by criteria such as THA and TKA, and risk of bias score. Publication bias will be investigated and presented using a funnel plot and Egger’s test if more than 10 trials are pooled.59,86 All statistical analyses will be performed on RevMan Web87 by 2 independent reviewers. Sensitivity analyses will be conducted to assess the effect of studies with a high risk of bias.88
+Confidence in cumulative evidence.  The Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework will be used to appraise the evidence, with regards to cumulative strength and quality by 2 independent reviewers.59,89 They will prepare “summary of findings” tables, including a grade of the overall quality of the body of evidence for each outcome. The quality of the body of evidence will be evaluated according to 5 GRADE criteria: risk of bias, inconsistency, indirectness, imprecision, and publication bias.59 Quality will be ranked as high, moderate, low, or very low, which will follow the definitions set out by the GRADE Working Group.90 Any discrepancy will be resolved by consensus or in consultation with a third review author.
+
+Discussion To our knowledge, these are the first systematic reviews that aim to evaluate the effectiveness of rehabilitation interventions for patients at risk of poor outcomes. Given that poor outcome could be attributed to inappropriate rehabilitation interventions pre-and post-arthroplasty,46,91 we expect that the findings of these reviews will provide insights and guidance to practitioners. Ultimately, we seek to contribute to the knowledge of effective rehabilitation interventions for patients at risk of poor outcomes following TKA and THA. Furthermore, given that few studies focus on interventions for patients at risk of poor outcomes, these reviews can identify the gaps in the literature that could be addressed in future research.
+The strength of these reviews is a focus on the subgroup of patients at risk of poor recovery. In addition, we are adopting a rigorous methodology, including eligibility criteria, a comprehensive systematic search strategy, study selection, data extraction, and quality appraisal of studies by 2 independent reviewers. These reviews are not without limitations. Firstly, the included studies will be limited to English, French, Korean, and Persian languages. Secondly, isolating the effect of rehabilitation interventions for elective arthroplasty results in the exclusion of studies on non-elective arthroplasty, such as fractures. Third, including only RCTs will result in less generalizability. Finally, although the comprehensive ICF framework will be used in these reviews allowing to include all potential patients at risk of poor outcomes, no standardized definition of poor outcomes exists as various concepts for poor outcomes after arthroplasty are used.
+Acknowledgements The authors would like to thank librarian Karine Fournier for her expertise, contribution, and time with the development of the search strategy.
+Author Contributions MK, SY, and SP contributed to the development of the protocol. MK, SY, and KB participated in the writing of the protocol. MK, SY contributed to the development of the search strategy. SP reviewed and approved the protocol manuscript.
+Ethics Approval and Consent to Participate Not applicable.
+Consent for Publication Not applicable.
+Availability of Data and Materials Not applicable
+Amendments The date of any amendment and a description of the change with associated justification will be outlined in PROSPERO and specified in the final manuscript.
+
+6
+
+Advances in Rehabilitation Science and Practice ﻿
+
+Supplemental Material
+Supplemental material for this article is available online.
+References
+1. Canadian Institute for Health Information. CJRR annual report: Hip and knee replacements in Canada. Published Jun 2, 2022 Accessed September 27, 2022. https://www.cihi.ca/en/cjrr-annual-report-hip-and-knee-replacements-in-canada
+2. Bandholm T, Wainwright TW, Kehlet H. Rehabilitation strategies for optimisation of functional recovery after major joint replacement. J Exp Orthop. 2018;5:44.
+3. Kim S. Changes in surgical loads and economic burden of hip and knee replacements in the US: 1997-2004. Arthritis Rheum. 2008;59:481-488.
+4. Losina E, Thornhill TS, Rome BN, Wright J, Katz JN. The dramatic increase in total knee replacement utilization rates in the United States cannot be fully explained by growth in population size and the obesity epidemic. J Bone Joint Surg Am. 2012;94:201-207.
+5. Crowninshield RD, Rosenberg AG, Sporer SM. Changing demographics of patients with total joint replacement. Clin Orthop Relat Res. 2006;443:266-272.
+6. L. Snell D, Hipango J, Sinnott KA, et al. Rehabilitation after total joint replacement: a scoping study. Disabil Rehabil. 2018;40:1718-1731.
+7. Larsen JB, Mogensen L, Arendt-Nielsen L, Madeleine P. Intensive, personalized multimodal rehabilitation in patients with primary or revision total knee arthroplasty: a retrospective cohort study. BMC Sports Sci Med Rehabil. 2020;12:5-8.
+8. Ewen AM, Stewart S, St Clair Gibson A, Kashyap SN, Caplan N. Post-operative gait analysis in total hip replacement patients-a review of current literature and meta-analysis. Gait Posture. 2012;36:1-6.
+9. Te Molder MEM, Smolders JMH, Heesterbeek PJC, van den Ende CHM. Definitions of poor outcome after total knee arthroplasty: an inventory review. BMC Musculoskelet Disord. 2020;21:378-386.
+10. Judge A, Javaid MK, Arden NK, et al. Clinical tool to identify patients who are most likely to achieve long-term improvement in physical function after total hip arthroplasty. Arthritis Care Res. 2012;64:881-889.
+11. Utrillas-Compaired A, De la Torre-Escuredo BJ, Tebar-Martínez AJ, AsúnsoloDel Barco Á. Does preoperative psychologic distress influence pain, function, and quality of life after TKA? Clin Orthop Relat Res. 2014;472:2457-2465.
+12. Lopez-Olivo MA, Landon GC, Siff SJ, et al. Psychosocial determinants of outcomes in knee replacement. Ann Rheum Dis. 2011;70:1775-1781.
+13. Murphy BPD, Dowsey MM, Spelman T, Choong PFM. The impact of older age on patient outcomes following primary total knee arthroplasty. Bone Joint J. 2018;100-B:1463-1470.
+14. Choong ALC, Shadbolt C, Dowsey MM, Choong PFM. Sex-based differences in the outcomes of total hip and knee arthroplasty: a narrative review. ANZ J Surg. 2021;91:553-557.
+15. Parsley BS, Bertolusso R, Harrington M, Brekke A, Noble PC. Influence of gender on age of treatment with TKA and functional outcome. Clin Orthop Relat Res. 2010;468:1759-1764.
+16. Dalury DF, Mason JB, Murphy JA, Adams MJ. Analysis of the outcome in male and female patients using a unisex total knee replacement system. J Bone Joint Surg Br. 2009;91-B:357-360.
+17. Dharmasukrit C, Chan SYS, Applegate RL, Tancredi DJ, Harvath TA, Joseph JG. Frailty, race/ethnicity, functional status, and adverse outcomes after total hip/knee arthroplasty: a moderation analysis. J Arthroplasty. 2021;36: 1895-1903.
+18. Schmucker AM, Hupert N, Mandl LA. The impact of frailty on short-term outcomes after elective hip and knee arthroplasty in older adults: a systematic review. Geriatr Orthop Surg Rehabil. 2019;10:2151459319835109.
+19. Wang H, Qiong M, Ma B. Analysis of the influence of BMI on the outcome after total knee arthroplasty. IJS Global Health. 2021;4:e55.
+20. Romero JA, Jones R, Brown TS, Shahrestani SN, Huo MH. Morbid obesity in total hip arthroplasty: what does it mean? Semin Arthroplasty. 2017;28:254-258.
+21. Harmelink KEM, Zeegers AVCM, Hullegie W, Hoogeboom TJ, Nijhuis-van der Sanden MWG, Staal JB. Are there prognostic factors for one-year outcome after total knee arthroplasty? A systematic review. J Arthroplasty. 2017;32:3840-3853.e1.
+22. Podmore B, Hutchings A, van der Meulen J, Aggarwal A, Konan S. Impact of comorbid conditions on outcomes of hip and knee replacement surgery: a systematic review and meta-analysis. BMJ Open. 2018;8:e021784.
+23. Kim YJ, Kim BR, Kim SR, et al. Influence of comorbidities on short-term functional outcomes after unilateral total knee arthroplasty. Am J Phys Med Rehabil. 2021;100:1062-1069.
+24. Buirs LD, Van Beers LW, Scholtes VA, Pastoors T, Sprague S, Poolman RW. Predictors of physical functioning after total hip arthroplasty: a systematic review. BMJ Open. 2016;6:e010725.
+
+25. Elmallah RD, Cherian JJ, Robinson K, Harwin SF, Mont MA. The effect of comorbidities on outcomes following total knee arthroplasty. J Knee Surg. 2015;28:411-416.
+26. Mizner RL, Petterson SC, Stevens JE, Axe MJ, Snyder-Mackler L. Preoperative quadriceps strength predicts functional ability one year after total knee arthroplasty. J Rheumatol. 2005;32:1533-1539.
+27. Devasenapathy N, Maddison R, Malhotra R, Zodepy S, Sharma S, Belavy DL. Preoperative quadriceps muscle strength and functional ability predict performance-based outcomes 6 months after total knee arthroplasty: a systematic review. Phys Ther. 2019;99:46-61.
+28. Bade MJ, Kittelson JM, Kohrt WM, Stevens-Lapsley JE. Predicting functional performance and range of motion outcomes after total knee arthroplasty. Am J Phys Med Rehabil. 2014;93:579-585.
+29. Lewis GN, Rice DA, McNair PJ, Kluger M. Predictors of persistent pain after total knee arthroplasty: a systematic review and meta-analysis. Br J Anaesth. 2015;114:551-561.
+30. Alattas SA, Smith T, Bhatti M, Wilson-Nunn D, Donell S. Greater pre-operative anxiety, pain and poorer function predict a worse outcome of a total knee arthroplasty. Knee Surg Sports Traumatol Arthrosc. 2017;25:3403-3410.
+31. Poitras S, Wood KS, Savard J, Dervin GF, Beaule PE. Predicting early clinical function after hip or knee arthroplasty. Bone Jt Res. 2015;4:145-151.
+32. Bade MJ, Wolfe P, Zeni JA, Stevens-Lapsley JE, Snyder-Mackler L. Predicting poor physical performance after total knee arthroplasty. J Orthop Res. 2012;30:1805-1810.
+33. Johansson HR, Bergschmidt P, Skripitz R, Finze S, Bader R, Mittelmeier W. Impact of preoperative function on early postoperative outcome after total hip arthroplasty. J Orthop Surg. 2010;18:6-10.
+34. Weber M, Craiovan B, Woerner ML, Schwarz T, Grifka J, Renkawitz TF. Predictors of outcome after primary total joint replacement. J Arthroplasty. 2018;33:431-435.
+35. Zhang M, Selzer F, Losina E, Collins JE, Katz JN. Impact of preoperative and incident musculoskeletal problematic areas on postoperative outcomes after total knee replacement. ACR Open Rheumatology. 2021;3:583-592.
+36. Ditton E, Johnson S, Hodyl N, et al. Improving patient outcomes following total knee arthroplasty: identifying rehabilitation pathways based on modifiable psychological risk and resilience factors. Front Psychol. 2020;11:1061.
+37. Vissers MM, Bussmann JB, Verhaar JA, Busschbach JJ, Bierma-Zeinstra SM, Reijman M. Psychological factors affecting the outcome of total hip and knee arthroplasty: a systematic review. Semin Arthritis Rheum. 2012;41:576-588.
+38. Kazarian GS, Anthony CA, Lawrie CM, Barrack RL. The impact of psychological factors and their treatment on the results of total knee arthroplasty. JBJS. 2021;103:1744-1756.
+39. Nwankwo VC, Jiranek WA, Green CL, Allen KD, George SZ, Bettger JP. Resilience and pain catastrophizing among patients with total knee arthroplasty: a cohort study to examine psychological constructs as predictors of post-operative outcomes. Health Qual Life Outcomes. 2021;19:136-211.
+40. Benditz A, Jansen P, Schaible J, Roll C, Grifka J, Götz J. Psychological factors as risk factors for poor hip function after total hip arthroplasty. Ther Clin Risk Manag. 2017;13:237-244.
+41. Bakaa N, Chen LH, Carlesso L, Richardson J, Macedo L. Reporting of postoperative rehabilitation interventions for Total knee arthroplasty: a scoping review. BMC Musculoskelet Disord. 2021;22:602-613.
+42. Westby MD, Brittain A, Backman CL. Expert consensus on best practices for post-acute rehabilitation after total hip and knee arthroplasty: a Canada and United States Delphi study. Arthritis Care Res. 2014;66:411-423.
+43. Sharma R, Ardebili MA, Abdulla IN. Does rehabilitation before total knee arthroplasty benefit postoperative recovery? A systematic review. Indian J Orthop. 2019;53:138-147.
+44. Krysa JA, Ho C, O’Connell P, Pohar Manhas K. Clinical practice recommendations for prehabilitation and post-operative rehabilitation for arthroplasty: a scoping review. Musculoskeletal Care. 2022;20:503-515.
+45. Peter WF, Nelissen RG, Vlieland TP. Guideline recommendations for postacute postoperative physiotherapy in total hip and knee arthroplasty: Are they used in daily clinical practice? Musculoskeletal Care. 2014;12:125-131.
+46. Dávila Castrodad IM, Recai TM, Abraham MM, et al. Rehabilitation protocols following total knee arthroplasty: a review of study designs and outcome measures. Ann Transl Med. 2019;7:S255.
+47. Jette DU, Hunter SJ, Burkett L, et al. Physical therapist management of total knee arthroplasty. Phys Ther. 2020;100:1603-1631.
+48. Smith TO, Jepson P, Beswick A, et al. Assistive devices, hip precautions, environmental modifications and training to prevent dislocation and improve function after hip arthroplasty. Cochrane Database Syst Rev. 2016;7:CD010815.
+49. Mistry JB, Elmallah RD, Bhave A, et al. Rehabilitative guidelines after total knee arthroplasty: a review. J Knee Surg. 2016;29:201-217.
+50. Colibazzi V, Coladonato A, Zanazzo M, Romanini E. Evidence based rehabilitation after hip arthroplasty. Hip Int. 2020;30:20-29.
+
+Karimijashni et al
+
+7
+
+51. Westby MD. Rehabilitation and total joint arthroplasty. Clin Geriatr Med. 2012;28:489-508.
+52. Secretariat MA. Physiotherapy rehabilitation after total knee or hip replacement: an evidence-based analysis. Ont Health Technol Assess Ser. 2005;5:1-91.
+53. Paravlic AH, Tod D, Milanovic Z. Mental simulation practice has beneficial effects on patients’ physical function following lower limb arthroplasty: a systematic review and meta-analysis. Arch Phys Med Rehabil. 2020;101:1447-1461.
+54. Kittelson AJ, Loyd BJ, Graber J, et al. Examination of exclusion criteria in total knee arthroplasty rehabilitation trials: influence on the application of evidence in day-to-day practice. J Eval Clin Pract. 2021;27:1335-1342.
+55. Jones CA, Martin RS, Westby MD, Beaupre LA. Total joint arthroplasty: practice variation of physiotherapy across the continuum of care in Alberta. BMC Health Serv Res. 2016;16:627-7.
+56. Hansen S, Aaboe J, Mechlenburg I, Overgaard S, Mikkelsen LR. Effects of supervised exercise compared to non-supervised exercise early after total hip replacement on patient-reported function, pain, health-related quality of life and performance-based function - a systematic review and meta-analysis of randomized controlled trials. Clin Rehabil. 2019;33:13-23.
+57. Saueressig T, Owen PJ, Zebisch J, Herbst M, Belavy DL. Evaluation of exercise interventions and outcomes after hip arthroplasty: a systematic review and metaanalysis. JAMA Netw Open. 2021;4:e210254.
+58. Konnyu KJ, Thoma LM, Cao W, et al. Prehabilitation for total knee or total hip arthroplasty: A systematic review. Am J Phys Med Rehabil. 2023;102:1-10.
+59. Higgins JP, Thomas J, Chandler J, et al. Cochrane Handbook for Systematic Reviews of Interventions. John Wiley & Sons; 2019.
+60. Moher D, Shamseer L, Clarke M, et al. Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement. Syst Rev. 2015;4:1-9.
+61. Henderson KG, Wallis JA, Snowdon DA. Active physiotherapy interventions following total knee arthroplasty in the hospital and inpatient rehabilitation settings: a systematic review and meta-analysis. Physiotherapy. 2018;104: 25-35.
+62. Singh JA. Epidemiology of knee and hip arthroplasty: a systematic review. Open Orthop J. 2011;5:80-85.
+63. Rauch A, Cieza A, Stucki G. How to apply the International Classification of Functioning, Disability and Health (ICF) for rehabilitation management in clinical practice. Eur J Phys Rehabil Med. 2008;44:329-342.
+64. World Health Organization. World Health Organization international classification of functioning, disability and health. Geneva: World Health Organization, 2001.
+65. Stucki G, Ewert T, Cieza A. Value and application of the ICF in rehabilitation medicine. Disabil Rehabil. 2002;24:932-938.
+66. Ethgen O, Bruyère O, Richy F, Dardennes C, Reginster JY. Health-related quality of life in total hip and total knee arthroplasty. A qualitative and systematic review of the literature. J Bone Joint Surg Am. 2004;86:963-974.
+67. Yang Z, Liu H, Xie X, Tan Z, Qin T, Kang P. The influence of diabetes mellitus on the post-operative outcome of elective primary total knee replacement: a systematic review and meta-analysis. Bone Joint J. 2014;96-B:1637-1643.
+68. Hofstede SN, Gademan MG, Vliet Vlieland TP, Nelissen RG, Marang-van de Mheen PJ. Preoperative predictors for outcomes after total hip replacement in patients with osteoarthritis: a systematic review. BMC Musculoskelet Disord. 2016;17:212-311.
+69. Boyce L, Prasad A, Barrett M, et al. The outcomes of total knee arthroplasty in morbidly obese patients: a systematic review of the literature. Arch Orthop Trauma Surg. 2019;139:553-560.
+
+70. Barrett M, Prasad A, Boyce L, et al. Total hip arthroplasty outcomes in morbidly obese patients: a systematic review. EFORT Open Rev. 2018;3:507-512.
+71. Sharma V, Morgan PM, Cheng EY. Factors influencing early rehabilitation after THA: a systematic review. Clin Orthop Relat Res. 2009;467:1400-1411.
+72. Santaguida PL, Hawker GA, Hudak PL, et al. Patient characteristics affecting the prognosis of total hip and knee joint arthroplasty: a systematic review. Can J Surg. 2008;51:428.
+73. Hewlett-Smith N, Pope R, Furness J, Simas V, Hing W. Prognostic factors for inpatient functional recovery following total hip and knee arthroplasty: a systematic review. Acta Orthop. 2020;91:313-318.
+74. Batailler C, Lording T, De Massari D, Witvoet-Braam S, Bini S, Lustig S. Predictive models for clinical outcomes in total knee arthroplasty: a systematic analysis. Arthroplast Today. 2021;9:1-15.
+75. Cochrane Musculoskeletal. Proposed Outcomes. Accessed November 4, 2022. https://musculoskeletal.cochrane.org/proposed-outcomes
+76. Ostelo RW, Costa LO, Maher CG, de Vet HC, van Tulder MW. Rehabilitation after lumbar disc surgery: an update Cochrane review. Spine. 2009;34:1839-1848.
+77. Handoll HH, Elliott J. Rehabilitation for distal radial fractures in adults. Cochrane Database Syst Rev. 2015;2015:CD003324.
+78. rct_filters.pdf. Accessed November 9, 2022. https://ent.cochrane.org/sites/ent. cochrane.org/files/public/uploads/rct_filters.pdf
+79. Covidence. Better systematic review management. Covidence. Accessed October 15, 2022. https://www.covidence.org/
+80. Zotero. Your personal research assistant. Accessed October 15, 2022. https:// www.zotero.org/
+81. Higgins JP, Altman DG, Gøtzsche PC, et al. The Cochrane Collaboration’s tool for assessing risk of bias in randomised trials. BMJ. 2011;343:d5928.
+82. Bourne RB, Chesworth B, Davis A, Mahomed N, Charron K. Comparing patient outcomes after THA and TKA: is there a difference? Clin Orthop Relat Res. 2010;468:542-546.
+83. Kennedy DM, Stratford PW, Riddle DL, Hanna SE, Gollish JD. Assessing recovery and establishing prognosis following total knee arthroplasty. Phys Ther. 2008;88:22-32.
+84. Wieczorek M, Rotonda C, Guillemin F, Rat AC. What have we learned about the course of clinical outcomes after total knee or hip arthroplasty? Arthritis Care Res. 2020;72:1519-1529.
+85. Borenstein M, Hedges LV, Higgins JP, Rothstein HR. Introduction to MetaAnalysis. John Wiley & Sons; 2021.
+86. Sterne JA, Sutton AJ, Ioannidis JP, et al. Recommendations for examining and interpreting funnel plot asymmetry in meta-analyses of randomised controlled trials. BMJ. 2011;343:d4002.
+87. Cochrane. RevMan Web. Accessed November 4, 2022. https://revman. cochrane.org/#/myReviews
+88. Viswanathan M, Patnode CD, Berkman ND, et al. Recommendations for Assessing the risk of bias in systematic reviews of health care interventions. J Clin Epidemiol. 2018;97:26-34.
+89. Guyatt GH, Oxman AD, Vist G, et al. GRADE guidelines: 4. Rating the quality of evidence–study limitations (risk of bias). J Clin Epidemiol. 2011;64:407-415.
+90. Group GW. Grading quality of evidence and strength of recommendations. BMJ. 2004;328:1490.
+91. Bade MJ, Kohrt WM, Stevens-Lapsley JE. Outcomes before and after total knee arthroplasty compared to healthy adults. J Orthop Sports Phys Ther.
+2010;40:559-567.

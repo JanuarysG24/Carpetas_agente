@@ -1,0 +1,454 @@
+Open Access Original Article
+
+Review began 06/29/2024 Review ended 09/23/2024 Published 09/25/2024
+© Copyright 2024 Dobel et al. This is an open access article distributed under the terms of the Creative Commons Attribution License CC-BY 4.0., which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+DOI: 10.7759/cureus.70219
+
+Postoperative Complications Following Appendectomy: A Single-Center Retrospective Study
+Amnah A. Dobel 1, Nawaf A. Alkhaldi 1, Alshaima A. Alkharashi 1, Nour H. Aljamaan 2, Mohammad Eid M. Mahfouz 1
+1. Department of Surgery, College of Medicine, Taif University, Taif, SAU 2. Department of Surgery, King Faisal University, Al-Hofuf, SAU
+Corresponding author: Amnah A. Dobel, khd1_1@hotmail.com
+Abstract
+Background
+Appendicitis is a common surgical emergency with a global incidence rate of approximately 8%, necessitating prompt intervention to prevent complications. Appendectomy, either through open surgery or laparoscopy, is the standard treatment. Understanding the factors contributing to post-appendectomy complications is crucial for improving patient outcomes.
+Aim
+This retrospective study aimed to assess the surgical outcomes of various surgical approaches for appendicitis in Taif City, Saudi Arabia, specifically at King Abdulaziz Specialist Hospital.
+Methodology
+A total of 220 patients who underwent appendectomy in 2022 were included in the study. Data were obtained from medical files, and statistical analysis was performed using IBM SPSS Statistics for Windows, Version 26.0 (Released 2019; IBM Corp., Armonk, NY, USA). chi-square and Fisher’s exact tests were utilized, with a significance level set at p < 0.05.
+Results
+The majority of patients fell within the 20-39 age group (n = 124, 56.4%), and males constituted 63% (n = 140) of the cohort. Mean complications post-surgery were observed in 5.5% (n = 12) of cases, with surgical site infection being the most common complication (n = 9, 75%). Patients with complicated appendicitis had a significantly higher rate of surgical complications (n = 8, 44.4%) compared to those without complicated appendicitis (n = 4, 2%, p = 0.000). Longer hospital stays were associated with a higher incidence of complications (p = 0.008). The American Society of Anesthesiologists classification showed a significant association with complications (p = 0.000).
+Conclusions
+Our study underscores the importance of early diagnosis, appropriate surgical management, and infection prevention strategies in reducing post-appendectomy complications. Factors such as complicated appendicitis, longer hospital stays, and higher ASA classification were associated with increased complication rates.
+
+Categories: Emergency Medicine, General Surgery Keywords: retrospective study, saudi arabia, taif city, surgical complications, appendectomy, appendicitis
+Introduction
+Abdominal pain is a common symptom encountered in clinical practice and can signify various underlying conditions, one of which is appendicitis [1]. Appendicitis is characterized by inflammation of the vermiform appendix and often manifests as acute abdominal pain, frequently necessitating emergency surgical intervention [2-4]. The incidence rate of appendicitis globally is approximately 8%, making it a prevalent condition that requires prompt diagnosis and management [5]. However, acute complicated appendicitis is a severe subset characterized by complications like perforation, abscess formation, or peritonitis, requiring urgent surgical intervention [1,2,4].
+The standard treatment for acute appendicitis is appendectomy, a surgical procedure aimed at removing the inflamed appendix [3]. Appendectomy can be performed using either an open surgical approach or a
+
+How to cite this article Dobel A A, Alkhaldi N A, Alkharashi A A, et al. (September 25, 2024) Postoperative Complications Following Appendectomy: A Single-Center Retrospective Study. Cureus 16(9): e70219. DOI 10.7759/cureus.70219
+
+laparoscopic method, each with its own unique set of advantages and potential risks [1]. Both surgical approaches for appendicitis are generally safe but carry risks of postoperative complications, including infections, abscesses, bowel obstructions, and deep vein thrombosis [4]. The reported complication rates following appendectomy range from 2% to 23%, highlighting the importance of assessing surgical outcomes and preventing adverse events [4]. One notable consideration in the choice of surgical approach is the duration of hospital stay, as open surgery is often associated with a longer postoperative recovery period compared to laparoscopy [4,5].
+Approximately 3% of patients undergoing appendectomy may require readmission due to complications and the need for careful monitoring and follow-up care [3,4]. While some studies have reported no significant differences in postoperative complications between open and laparoscopic appendectomy methods [4], there remains a gap in the literature regarding comparative outcomes, especially in specific populations such as children and the elderly in Saudi Arabia [3]. Limited data on the effectiveness and safety of open versus laparoscopic appendectomy prompted the need for this retrospective study [2,5]. Although some studies have suggested that the timing of surgery (morning, afternoon, or night) does not significantly affect complication rates, there is a notable observation of increased appendicitis cases presenting at night, often managed with an open surgical approach [6,7]. Furthermore, comparisons between senior general surgeons (SGSs) and general surgery residents (GSR) have shown differences in surgical outcomes, with shorter surgery durations noted in SGSs [8].
+The influence of factors such as the American Society of Anesthesiologists (ASA) classification on surgical outcomes, particularly in patients with comorbidities like asthma, has also been studied [9,10]. Additionally, laparoscopic appendectomy has been identified as a favorable option for obese patients due to shorter hospital stays [11]. Mortality rates post-appendectomy, especially in elderly patients with multiple comorbidities, have been documented, highlighting the importance of evaluating surgical safety and patient outcomes [12,13].
+Materials And Methods
+The study employed a retrospective research design aimed at assessing surgical outcomes of various surgical approaches for appendicitis in Taif City, Saudi Arabia. The study was conducted over a specific period from January 1, 2022, to December 31, 2022. The research was carried out at King Abdulaziz Specialist Hospital in Taif City, Saudi Arabia. This hospital was selected due to its status as a specialized medical center with a significant patient population, offering a suitable setting for studying appendectomy outcomes and surgical practices. The study included patients who underwent appendectomy during the specified study period of 2022. Both male and female patients across all age groups were considered eligible for inclusion, except for pregnant women who were excluded from the study due to unique physiological considerations related to pregnancy and surgery. A sample of 220 patients was included in the final analysis. The sampling approach aimed to include a diverse representation of patients undergoing both laparoscopic and open appendectomy. A structured data collection sheet was developed for this study (refer to Appendix A), comprising two main sections. The first section captured sociodemographic information such as age, gender, and preexisting conditions. The second section included variables related to the surgical procedure, complications, length of hospital stay, and postoperative outcomes. The data collection tool was adapted from previously validated instruments and tailored to the specific objectives of this study.
+Data collection was conducted by reviewing medical files and electronic health records of patients who underwent appendectomy during the study period. Trained research personnel systematically extracted relevant data from patient charts, ensuring accuracy and consistency in data collection. The data collection process adhered to ethical guidelines and maintained patient confidentiality. Data processing and analysis were performed using IBM SPSS Statistics for Windows, Version 26.0 (Released 2019; IBM Corp., Armonk, NY, USA). Upon completion of data collection, the raw data were entered into the SPSS software for cleaning and organization. Data cleaning involved identifying and resolving any inconsistencies, missing values, or outliers to ensure the accuracy and reliability of the dataset. Descriptive statistics were used to summarize the demographic characteristics of the study participants, surgical procedures, and postoperative outcomes. Inferential statistical tests, including ANOVA, chi-square test, and Fisher’s exact test, were employed to analyze associations between variables and assess the significance of findings. A significance level of p < 0.05 was considered for all statistical tests. Ethical approval for this study was obtained from the Deanship of Scientific Research at the Ministry of Health in Taif City, Saudi Arabia (reference number HAP-02-T-067). The study adhered to ethical principles outlined in the Declaration of Helsinki, ensuring patient confidentiality, voluntary participation, and informed consent. Patient identities were anonymized in the data analysis process to protect privacy and confidentiality. Ethical considerations also included obtaining permissions for data access and ensuring compliance with institutional policies and regulations regarding research involving human subjects.
+Results
+A total of 220 patients were included in the analysis, and their demographic characteristics, surgical details, and postoperative outcomes were examined. Table 1 presents a detailed overview of the patient’s demographics and surgical procedures. It is noted that the majority of patients fell into the age group of 20-
+
+2024 Dobel et al. Cureus 16(9): e70219. DOI 10.7759/cureus.70219
+
+2 of 12
+
+39 years (n = 124, 56.4%), followed by those under 20 years (n = 68, 30.9%). In terms of gender distribution, 63.6% (n = 140) were male, and 36.4% (n = 80) were female. Regarding the presentation of appendicitis, 91.8% (n = 208) of patients did not present with complicated appendicitis, while 8.2% (n = 12) did. The most common type of surgery performed was open surgery, accounting for 86.4% (n = 190) of cases, while laparoscopic surgery was performed in 13.6% (n = 30) of cases.
+
+2024 Dobel et al. Cureus 16(9): e70219. DOI 10.7759/cureus.70219
+
+3 of 12
+
+Parameters Age (years) Gender (female/male) Patient presented with complicated appendicitis Type of surgery Complicated surgery Type of complication (n = 12) Operation done by
+Length of hospital stay (days)
+ASA Pre-perative antibiotic during hospital stay Time of performing the operation
+
+<20 20-39 40-59 60-79 Female Male No Yes Laparoscopic Open surgery No Yes Hernia PE SSI Consultant Resident specialist One Two Three Four Five or more 1 2 3 4 No Yes Afternoon (15:00-22:00) Morning (8:00-15:00) Night (22:00-8:00)
+
+TABLE 1: Characteristics of included patients and operations (n = 220)
+ASA, American Society of Anesthesiologists; PE, pulmonary embolism; SSI, surgical site infection
+
+Frequency (%) 68 (30.9%) 124 (56.4%) 27 (12.3%) 1 (0.5%) 80 (36.4%) 140 (63.6%) 202 (91.8%) 18 (8.2%) 30 (13.6%) 190 (86.4%) 208 (94.5%) 12 (5.5%) 2 (16.7%) 1 (8.3%) 9 (75%) 50 (22.7%) 94 (42.7%) 76 (34.5%) 50 (22.7%) 93 (42.3%) 45 (20.5%) 18 (8.2%) 14 (6.4%) 127 (57.7%) 81 (36.8%) 10 (4.5%) 2 (0.9%) 52 (23.6%) 168 (76.4%) 57 (25.9%) 78 (35.5%) 85 (38.6%)
+
+Complications post-surgery were observed in 5.5% (n = 12) of cases, with surgical site infection (SSI) being the most prevalent complication at 75% (n = 9). Other complications included hernia (n = 2, 16.7%) and pulmonary embolism (n = 1, 8.3%). The personnel performing the operations were mostly residents (n = 94,
+
+2024 Dobel et al. Cureus 16(9): e70219. DOI 10.7759/cureus.70219
+
+4 of 12
+
+42.7%) and specialists (n = 76, 34.5%), followed by consultants (n = 50, 22.7%). The length of hospital stay varied, with the majority of patients staying for two days (n = 93, 42.3%) or three days (n = 45, 20.5%). With regard to the time of performing the operation, 38.6% (n = 85) of the operations were performed in the night shift, 35.5% (n = 78) in the morning shift, and 25.9% (n = 57) in the afternoon shift.
+Table 2 explores the association between surgical complications and various patient and operation characteristics. It was found that patients aged 40-59 years had a higher incidence of complicated surgeries (n = 4, 14.8%), although this difference was not statistically significant (p = 0.118). Similarly, gender did not show a significant association with complications (p = 0.145), although males tended to experience more complications (n = 10, 7.1%) than females (n = 2, 2.5%).
+
+2024 Dobel et al. Cureus 16(9): e70219. DOI 10.7759/cureus.70219
+
+5 of 12
+
+Parameters Age (years) Gender (female/male) Patient presented with complicated appendicitis Type of surgery Operation done by
+Length of hospital stay (days)
+ASA Preoperative antibiotic during hospital stay Time of performing the operation
+
+<20 20-39 40-59 60-79 Female Male No Yes Laparoscopic Open surgery Consultant Resident Specialist One Two Three Four Five or more 1 2 3 4 No Yes Afternoon (15:00-22:00) Morning (8:00-15:00) Night (22:00-8:00)
+
+Complicated surgery
+
+No
+
+Yes
+
+64 (94.1%)
+
+4 (5.9%)
+
+120 (96.8%) 4 (3.2%)
+
+23 (85.2%)
+
+4 (14.8%)
+
+1 (100%)
+
+0 (0%)
+
+78 (97.5%)
+
+2 (2.5%)
+
+130 (92.9%) 10 (7.1%)
+
+198 (98%)
+
+4 (2%)
+
+10 (55.6%)
+
+8 (44.4%)
+
+29 (96.7%)
+
+1 (3.3%)
+
+179 (94.2%) 11 (5.8%)
+
+48 (96%)
+
+2 (4%)
+
+91 (96.8%)
+
+3 (3.2%)
+
+69 (87.7%)
+
+7 (12.3%)
+
+50 (100%)
+
+0 (0%)
+
+87 (93.5%)
+
+6 (6.5%)
+
+44 (97.8%)
+
+1 (2.2%)
+
+14 (77.8%)
+
+4 (22.2%)
+
+13 (92.9%)
+
+1 (7.1%)
+
+126 (99.2%) 1 (0.8%)
+
+76 (93.8%)
+
+5 (6.2%)
+
+4 (40%)
+
+6 (60%)
+
+2 (100%)
+
+0 (0%)
+
+49 (94.2%)
+
+3 (5.8%)
+
+159 (94.6%) 9 (5.4%)
+
+54 (94.7%)
+
+3 (5.3%)
+
+76 (97.4%)
+
+2 (2.6%)
+
+78 (91.8%)
+
+7 (8.2%)
+
+X2 5.863 2.128 57.789 0.303 7.884
+13.866
+63.253 0.013 2.542
+
+p-value 0.118 0.145 0 0.582 0.061
+0.008
+0 0.909 0.281
+
+TABLE 2: Surgery complications in association with characters of patients and operations (n = 220)
+ASA, American Society of Anesthesiologists
+
+The presentation of complicated appendicitis was significantly associated with a higher rate of surgical complications (n = 8, 44.4% vs. n = 4, 2%, p = 0.000). Additionally, the length of hospital stay showed a significant association with complications (p = 0.008), with longer stays correlating with a higher incidence of complications. The ASA classification also demonstrated a significant association with complications (p = 0.000), as higher ASA scores were linked to increased rates of surgical complications.
+However, factors such as the type of surgery, operating personnel, preoperative antibiotic use, and time of performing the operation did not show significant associations with surgical complications (p > 0.05).
+
+2024 Dobel et al. Cureus 16(9): e70219. DOI 10.7759/cureus.70219
+
+6 of 12
+
+Figure 1 presents the average hospital stay (in days) among patients categorized into complicated and noncomplicated groups following appendectomy. The analysis revealed a significant difference between these groups (F = 3.939, p = 0.048), indicating that patients with complications had a longer average hospital stay compared to those without complications.
+FIGURE 1: Boxplot showing average hospital stay (days) among complicated and non-complicated groups (F = 3.939, p = 0.048)
+Table 3 delves into the specific types of complications observed and their association with patient and operation characteristics. Among the types of complications (hernia, PE, and SSI), SSI was the most prevalent (n = 9, 75%).
+
+2024 Dobel et al. Cureus 16(9): e70219. DOI 10.7759/cureus.70219
+
+7 of 12
+
+Parameters Age (years) Gender (female/male) Patient presented with complicated appendicitis Type of surgery Operation done by
+Length of hospital stay (days)
+ASA Preoperative antibiotic during hospital stay Time of performing the operation
+
+<20 20-39 40-59 60-79 Female Male No Yes Laparoscopic Open surgery Consultant Resident Specialist One Two Three Four Five or more 1 2 3 4 No Yes Afternoon (15:00-22:00) Morning (8:00-15:00) Night (22:00-8:00)
+
+Type of complication (n = 12)
+
+Hernia
+
+PE
+
+SSI
+
+0 (0%)
+
+1 (25%) 3 (75%)
+
+1 (25%) 0 (0%)
+
+3 (75%)
+
+1 (25%) 0 (0%)
+
+3 (75%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+1 (50%) 1 (50%)
+
+2 (20%) 0 (0%)
+
+8 (80%)
+
+0 (0%)
+
+1 (25%) 3 (75%)
+
+2 (25%) 0 (0%)
+
+6 (75%)
+
+0 (0%)
+
+0 (0%)
+
+1 (100%)
+
+2 (18.2%) 1 (9.1%) 8 (72.7%)
+
+1 (50%) 0 (0%)
+
+1 (50%)
+
+0 (0%)
+
+1 (33.3%) 2 (66.7%)
+
+1 (14.3%) 0 (0%)
+
+6 (85.7%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+6 (100%)
+
+1 (100%) 0 (0%)
+
+0 (0%)
+
+1 (25%) 0 (0%)
+
+3 (75%)
+
+0 (0%)
+
+1 (100%) 0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+1 (100%)
+
+0 (0%)
+
+1 (20%) 4 (80%)
+
+2 (33.3%) 0 (0%)
+
+4 (66.7%)
+
+0 (0%)
+
+0 (0%)
+
+0 (0%)
+
+1 (33.3%) 0 (0%)
+
+2 (66.7%)
+
+1 (11.1%) 1 (11.1%) 7 (77.8%)
+
+1 (33.3%) 0 (0%)
+
+2 (66.7%)
+
+0 (0%)
+
+1 (50%) 1 (50%)
+
+1 (14.3%) 0 (0%)
+
+6 (85.7%)
+
+X2
+
+p-value
+
+3
+
+0.558
+
+5.6 0.061
+
+3
+
+0.223
+
+0.364 0.834
+
+5.159 0.271
+
+18.5 0.005
+
+3.556 0.469 1.037 0.595 6.159 0.188
+
+TABLE 3: Type of complication in association with characters of patients and operations (n = 12)
+ASA, American Society of Anesthesiologists; PE, pulmonary embolism; SSI, surgical site infection
+
+While age groups and gender did not show significant associations with specific complications (p > 0.05), patients presenting with complicated appendicitis had a higher proportion of complications, particularly SSI (n = 6, 75%) compared to those SSI cases without complicated appendicitis (n = 3, 25%, p = 0.223). The length of hospital stay was significantly associated with the type of complication (p = 0.005), with longer stays correlating with a higher incidence of SSI. Time of performing the operation was insignificantly associated with the type of complication (p =0.188).
+Discussion
+Appendicitis remains a common surgical emergency worldwide, requiring prompt diagnosis and appropriate
+
+2024 Dobel et al. Cureus 16(9): e70219. DOI 10.7759/cureus.70219
+
+8 of 12
+
+management to prevent complications and improve patient outcomes [1,2]. The definitive treatment for appendicitis is an appendectomy, which can be performed using open surgical techniques or laparoscopy [3,14]. While laparoscopic appendectomy has gained popularity due to its minimally invasive nature and potential for reduced postoperative complications, open surgery remains a viable option, especially in cases of complicated appendicitis or in settings where laparoscopic expertise may be limited [3-6]. Our study aimed to assess surgical outcomes of various surgical approaches for appendicitis in Taif City, Saudi Arabia. We conducted a retrospective analysis of 220 patients who underwent appendectomy at King Abdulaziz Specialist Hospital in 2022. Our main findings revealed several key insights into the demographic characteristics, surgical procedures, and postoperative outcomes of these patients.
+Most patients did not present with complicated appendicitis, and open surgery was the preferred surgical approach. Complications post-surgery were observed in a small percentage of cases, with SSI being the most common complication. A higher incidence of complications was associated with longer hospital stays, and patients with complicated appendicitis had a significantly higher rate of surgical complications compared to those without complicated appendicitis [15-17]. One of the primary objectives of our study was to assess the effectiveness and safety of laparoscopic versus open appendectomy. Our results indicated that the majority of appendectomies in Taif City were performed using open surgery (n = 190, 86.4%), with laparoscopic surgery accounting for a smaller percentage (n = 30, 13.6%). This distribution reflects common practice patterns in many healthcare settings, where the choice of surgical approach may depend on various factors such as surgeon expertise, patient characteristics, and hospital resources [2-4].
+The literature provides mixed evidence regarding the superiority of laparoscopic appendectomy over open surgery [18-20]. This preference may be influenced by several factors including surgeon expertise, patient characteristics, and hospital resources [3]. While laparoscopy is associated with shorter hospital stays and reduced wound complications, some studies have not found significant differences in overall postoperative complications between the two methods [4]. Contrary to some literature suggesting superior outcomes with laparoscopic appendectomy [4], we did not find a significant association between the type of surgery and overall postoperative complications. Our results align with studies that have reported similar complication rates between open and laparoscopic approaches (p > 0.05) [4,18]. However, it is crucial to note that individual patient factors and case complexity may influence the choice of surgical approach and subsequent outcomes.
+Complicated appendicitis poses a greater challenge in terms of surgical management and postoperative care [21,22]. In our study, patients presenting with complicated appendicitis had a significantly higher rate of surgical complications (n = 8, 44.4%) compared to those without complications (n = 4, 2%, p = 0.000). This finding underscores the importance of early diagnosis and intervention to prevent appendiceal perforation and subsequent complications [21,23]. The literature consistently supports the notion that complicated appendicitis is associated with increased morbidity, longer hospital stays, and higher rates of postoperative complications such as SSIs and intra-abdominal abscesses [2,5]. Our study adds to this body of evidence by highlighting the impact of complicated appendicitis on surgical outcomes in the Taif City population.
+Several other factors were explored in our study to understand their potential influence on postappendectomy complications. The ASA classification showed a significant association with complications (p = 0.000). Higher ASA scores were correlated with increased rates of surgical complications, emphasizing the importance of preoperative risk stratification and optimization of patient health status [13]. The timing of appendectomy, whether performed during morning, afternoon, or night, did not significantly affect complication rates as reported in the literature [21,22]. This is consistent with studies indicating that the timing of surgery does not necessarily impact postoperative outcomes, although the volume of appendectomies may vary throughout the day [6].
+Furthermore, our study did not find significant differences in complication rates between surgeries performed by SGSs and GSRs, contrary to some previous studies suggesting that experienced surgeons may have better outcomes [8]. However, it is essential to note that surgical expertise and skill levels can vary widely among practitioners, potentially influencing complication rates. Comparing our findings with international studies, we observed similar trends regarding the impact of complicated appendicitis on postoperative complications and the lack of significant differences between laparoscopic and open surgery in terms of overall complication rates. Studies from Australia [12] and the United States [10] have also highlighted the importance of patient risk stratification, surgical expertise, and standardized protocols in appendicitis management.
+Strengths and limitations
+The study examined the effectiveness and safety of open versus laparoscopic appendectomy and compared outcomes between senior surgeons and residents, noting that most procedures are performed by residents. It also considered the impact of the ASA classification on outcomes. Limitations include relying solely on medical file data, suggesting follow-up studies to track complications over time, and focusing on 220 patients in 2022 without historical comparisons or control groups to adequately assess risks.
+
+2024 Dobel et al. Cureus 16(9): e70219. DOI 10.7759/cureus.70219
+
+9 of 12
+
+Conclusions
+Our study compared open and laparoscopic appendectomy outcomes in Taif City, Saudi Arabia. Higher ASA classifications correlated with increased post-appendectomy complications. These findings emphasize the importance of tailored surgical strategies, preoperative risk assessment, and continuous monitoring to optimize appendectomy outcomes and patient care. Future research should focus on long-term follow-up and prospective studies to further refine surgical practices and enhance patient outcomes.
+Appendices
+Appendix A
+Data collected from files according to these questions 1. Age group Less than 20 years old 20-39 40-59 60-79 2. Gender Male Female 3. Patient came with complicated appendicitis Yes No 4. Type of surgery to treat appendicitis Open appendectomy Laparoscopic appendectomy 5. Is there any complication after surgery? Yes No 6. Type of complication SSI PE Hernia 7. Operation done by Consultant Resident Specialist 8. Length of hospital stay
+
+2024 Dobel et al. Cureus 16(9): e70219. DOI 10.7759/cureus.70219
+
+10 of 12
+
+One day
+Two days
+Three days
+Four days
+Five or more
+9. American Society of Anesthesiologists (ASA)
+1
+2
+3
+4
+10. Preoperative antibiotic during hospital stay
+Yes
+No
+11. Time of performing the operation
+Morning (8:00-15:00)
+Afternoon (15:00-22:00)
+Night (22:00-8:00)
+Additional Information
+Author Contributions
+All authors have reviewed the final version to be published and agreed to be accountable for all aspects of the work.
+Concept and design: Amnah A. Dobel, Nawaf A. Alkhaldi, Alshaima A. Alkharashi, Nour H. Aljamaan, Mohammad Eid M. Mahfouz
+Acquisition, analysis, or interpretation of data: Amnah A. Dobel, Nawaf A. Alkhaldi, Alshaima A. Alkharashi, Nour H. Aljamaan, Mohammad Eid M. Mahfouz
+Drafting of the manuscript: Amnah A. Dobel, Nawaf A. Alkhaldi, Alshaima A. Alkharashi, Nour H. Aljamaan, Mohammad Eid M. Mahfouz
+Critical review of the manuscript for important intellectual content: Amnah A. Dobel, Mohammad Eid M. Mahfouz
+Supervision: Mohammad Eid M. Mahfouz
+Disclosures
+Human subjects: Consent was obtained or waived by all participants in this study. Animal subjects: All authors have confirmed that this study did not involve animal subjects or tissue. Conflicts of interest: In compliance with the ICMJE uniform disclosure form, all authors declare the following: Payment/services info: All authors have declared that no financial support was received from any organization for the submitted work. Financial relationships: All authors have declared that they have no financial relationships at present or within the previous three years with any organizations that might have an interest in the submitted work. Other relationships: All authors have declared that there are no other relationships or activities that could appear to have influenced the submitted work.
+
+2024 Dobel et al. Cureus 16(9): e70219. DOI 10.7759/cureus.70219
+
+11 of 12
+
+References
+1. Wang D, Dong T, Shao Y, Gu T, Xu Y, Jiang Y: Laparoscopy versus open appendectomy for elderly patients, a meta-analysis and systematic review. BMC Surg. 2019, 19:54. 10.1186/s12893-019-0515-7
+2. Fingerhut A, Millat B, Borrie F: Laparoscopic versus open appendectomy: time to decide . World J Surg. 1999, 23:835-45. 10.1007/s002689900587
+3. Liu Y, Cui Z, Zhang R: Laparoscopic versus open appendectomy for acute appendicitis in children . Indian Pediatr. 2017, 54:938-41. 10.1007/s13312-017-1186-z
+4. Poprom N, Wilasrusmee C, Attia J, McEvoy M, Thakkinstian A, Rattanasiri S: Comparison of postoperative complications between open and laparoscopic appendectomy: an umbrella review of systematic reviews and meta-analyses. J Trauma Acute Care Surg. 2020, 89:813-20. 10.1097/TA.0000000000002878
+5. Bhangu A, Søreide K, Di Saverio S, Assarsson JH, Drake FT: Acute appendicitis: modern understanding of pathogenesis, diagnosis, and management. Lancet. 2015, 26:1278-87. 10.1016/s0140-6736(15)00275-5
+6. San Basilio M, Delgado-Miguel C, Ramírez-Amorós C, et al.: Does the timing of appendectomy affect outcomes and postoperative complications?. Pediatr Surg Int. 2023, 39:90. 10.1007/s00383-023-05369-2
+7. Mönttinen T, Kangaspunta H, Laukkarinen J, Ukkonen M: Nighttime appendectomy is safe and has similar outcomes as daytime appendectomy: a study of 1198 appendectomies. Scand J Surg. 2021, 110:227-32. 10.1177/1457496920938605
+8. Siam B, Al-Kurd A, Simanovsky N, et al.: Comparison of appendectomy outcomes between senior general surgeons and general surgery residents. JAMA Surg. 2017, 152:679-85. 10.1001/jamasurg.2017.0578
+9. Kurnick B, Madrigal J, Han AY, Benharash P, St John MA, Aghaloo T: Does American Society of Anesthesiologist classification effect hospital course and postoperative complications following oral and maxillofacial surgical procedures?. Oral Surg Oral Med Oral Pathol Oral Radiol. 2023, 136:136-41. 10.1016/j.oooo.2023.01.003
+10. Koay KL, Mohd Zim MA, Botross NP, et al.: Appendectomy and asthma: a search for an association in older subjects. Med J Malaysia. 2024, 79:47-51.
+11. Markar SR, Venkat-Raman V, Ho A, Karthikesalingam A, Kinross J, Evans J, Bloom I: Laparoscopic versus open appendicectomy in obese patients. Int J Surg. 2011, 9:451-5. 10.1016/j.ijsu.2011.06.005
+12. Young E, Stewart S, McCulloch GA, Maddern GJ: Appendicectomy mortality: an Australian national audit. ANZ J Surg. 2019, 89:1441-5. 10.1111/ans.15439
+13. Wu T, Yang Y, Wu Y, Lu L, Dong S: Complications after appendectomy in patients with treated appendicitis: results from a retrospective study. Ann Palliat Med. 2021, 10:12546-53. 10.21037/apm-21-3295
+14. Sohn M, Agha A, Bremer S, Lehmann KS, Bormann M, Hochrein A: Surgical management of acute appendicitis in adults: a review of current techniques. Int J Surg. 2017, 48:232-9. 10.1016/j.ijsu.2017.11.028
+15. Chen CC, Ting CT, Tsai MJ, et al.: Appendectomy timing: will delayed surgery increase the complications? . J Chin Med Assoc. 2015, 78:395-9. 10.1016/j.jcma.2015.04.001
+16. Nguyen NT, Zainabadi K, Mavandadi S, Paya M, Stevens CM, Root J, Wilson SE: Trends in utilization and outcomes of laparoscopic versus open appendectomy. Am J Surg. 2004, 188:813-20. 10.1016/j.amjsurg.2004.08.047
+17. Canal C, Lempert M, Birrer DL, Neuhaus V, Turina M: Short-term outcome after appendectomy is related to preoperative delay but not to the time of day of the procedure: a nationwide retrospective cohort study of 9224 patients. Int J Surg. 2020, 76:16-24. 10.1016/j.ijsu.2020.02.001
+18. Rather JM, Manzoor S, Shah M: Clinical outcome of appendectomy: laparoscopic vs open technique . Int Surg J. 2022, 9:10.18203/2349-2902.isj20215137
+19. Tiwari MM, Reynoso JF, Tsang AW, Oleynikov D: Comparison of outcomes of laparoscopic and open appendectomy in management of uncomplicated and complicated appendicitis. Ann Surg. 2011, 254:92732. 10.1097/SLA.0b013e31822aa8ea
+20. Quah GS, Eslick GD, Cox MR: Laparoscopic appendicectomy is superior to open surgery for complicated appendicitis. Surg Endosc. 2019, 33:2072-82. 10.1007/s00464-019-06746-6
+21. Wray CJ, Kao LS, Millas SG, Tsao K, Ko TC: Acute appendicitis: controversies in diagnosis and management . Curr Probl Surg. 2013, 50:54-86. 10.1067/j.cpsurg.2012.10.001
+22. Wagner M, Tubre DJ, Asensio JA: Evolution and current trends in the management of acute appendicitis . Surg Clin North Am. 2018, 98:1005-23. 10.1016/j.suc.2018.05.006
+23. Talan DA, Di Saverio S: Treatment of acute uncomplicated appendicitis . N Engl J Med. 2021, 385:1116-23. 10.1056/NEJMcp2107675
+
+2024 Dobel et al. Cureus 16(9): e70219. DOI 10.7759/cureus.70219
+
+12 of 12

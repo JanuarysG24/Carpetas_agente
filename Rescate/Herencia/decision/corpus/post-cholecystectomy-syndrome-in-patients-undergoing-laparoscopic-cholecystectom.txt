@@ -1,0 +1,311 @@
+J Prev Epidemiol. 2025;e35209 doi 10.34172/jpe.2025.35209
+
+Journal of Preventive Epidemiology
+
+Original
+http jprevepi.com
+
+Post-cholecystectomy syndrome in patients undergoing laparoscopic cholecystectomy
+Roya Ataei1 ID , Hamid Reza Hemmati2* ID , Shahrzad Izadi2 ID , Majid Mirmohammadkhani3 ID , Amir Molaei2 ID
+1General Practitioner, Semnan University of Medical Sciences, Semnan, Iran 2Department of Surgery, Semnan University of Medical Sciences, Semnan, Iran 3Social Determinants of Health Research Center, Semnan University of Medical Science, Semnan, Iran
+
+Correspondence to: Hamid Reza Hemmati, Email: dr.hemmati2007@yahoo. com, dr.hhemmati@semums.ac.ir
+Received: 17 Jun. 2024 Revised: 8 Feb. 2025 Accepted: 1 May 2025 ePublished: 7 Jun. 2025
+Keywords: Cholecystectomy, Laparoscopy, Post cholecystectomy syndrome, Abdominal pain, Dyspepsia
+
+Abstract
+Introduction: Cholecystectomy is the gold standard for surgical treatment of cholelithiasis, biliary pain, and other gallbladder disorders, with a recovery rate of more than 90%. However, some patients suffer from post-cholecystectomy syndrome, which is the recurrence of symptoms. Objectives: We aimed to assess the prevalence of symptoms in patients before and after laparoscopic cholecystectomy surgery to determine the prevalence of post-cholecystectomy syndrome. Patients and Methods: In a cross-sectional study, 55 patients who underwent laparoscopic cholecystectomy enrolled in the study. Clinical data were recorded and patients followed up after the surgery. The symptoms and signs were recorded during hospitalization before surgery and one week and one month after surgery. Descriptive statistical methods were used for data analysis. Results: Abdominal pain was the most common preoperative complaint in 52 cases (94.5%), followed by fat intolerance in 38 cases (69%) and nausea and vomiting in 27 cases (49%). Postoperative signs and symptoms include nausea and vomiting 4.5%, indigestion 5.5%, anorexia 4.5%, heartburn 6.3%, abdominal pain 9.8%, fat intolerance 9.8%, and change of bowel habits (6.3%). In 1.7% of patients, new symptoms were observed at the end of the first month. Conclusion: In our study, the incidence of post-cholecystectomy syndrome was less than 10%, and it can be said that laparoscopic cholecystectomy is an effective treatment for symptomatic gallstones and resulted in complete improvement of symptoms in most patients.
+
+Citation: Ataei R, Hemmati HR, Izadi S, Mirmohammadkhani M, Molaei A. Postcholecystectomy syndrome in patients undergoing laparoscopic cholecystectomy. J Prev Epidemiol. 2025;10(x):e35209. doi: 10.34172/ jpe.2025.35209.
+
+Introduction The prevalence of gallstones in the adult population is approximately 20% and 15% of cases are symptomatic (1). Cholecystectomy is the gold standard treatment for gallstones, biliary colic and other gallbladder diseases (2). The most common disease of the biliary system is gallstones and the usual treatment is laparoscopic cholecystectomy. This method has many benefits compared to open surgery, such as smaller surgical incision, better cosmetic results, less pain and bleeding, shorter recovery and hospitalization time, faster return to work and daily activities as before surgery, as well, abdominal muscles are not cut as in open surgery (3,4).
+Laparoscopic cholecystectomy in more than 90% of patients results in the overall improvement of symptoms that existed before surgery (5), however, a small number of patients are not satisfied with this method due to unimprovement and recurrence of symptoms. These symptoms are either due to the presence of gallstones or digestive
+
+Key point
+Prevalence of post-cholecystectomy syndrome has been reported variously. Early recognition is essential to prevent adverse outcomes and need for an interprofessional approach team for understanding of the quantity and quality of post-operative symptoms and choosing the best method and an algorithmic approach in the management of postcholecystectomy syndrome patients.
+complications caused by surgery. These symptoms are called post-cholecystectomy syndrome and manifested in the form of mild to severe digestive complications with attacks of abdominal pain and jaundice (2). The prevalence of post-cholecystectomy syndrome has been reported from 10% to 40% (6-8). Lill et al, indicated that 37% of patients had gastrointestinal symptoms after surgery (9). These patients experience different degrees of digestive symptoms such as fat intolerance, nausea and vomiting, heartburn, bloating, indigestion, diarrhea, occasional mild abdominal pain and severe right upper quadrant (RUQ) pain (10).
+
+Copyright © 2025 The Author(s); Published by Society of Diabetic Nephropathy Prevention. This is an open-access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+Ataei R et al
+Some studies point to an obvious alleviation of gallstone symptoms following laparoscopic cholecystectomy. Biliary colic, nausea, vomiting and belching have been alleviated in many cases, although the recovery rate of belching, flatulence and heartburn has been relatively lower (11). Diarrhea after eating, in the post-surgery period, was one of the new and obvious symptoms in patients (12). The findings of Jaunoo and colleagues’ study indicated the effectiveness of laparoscopy in eliminating preoperative symptoms in more than 90% of patients, although some patients also experienced postoperative symptoms(5). In the study by de Mello Del Grande et al, a change in bowel habits was observed in 1.35% of patients (1). Because the prevalence of post-cholecystectomy syndrome has been reported variously, and understanding of the quantity and quality of post-operative symptoms is effective in choosing the treatment method.
+Objectives In this study, we aimed to assess the prevalence of symptoms in patients before and after laparoscopic cholecystectomy surgery in order to determine the prevalence of postcholecystectomy syndrome.
+Patients and Methods Study design In a cross-sectional study between April 15, 2018 and March 29, 2019, 55 patients were candidates for elective laparoscopic cholecystectomy (non-emergency) and were referred to Kawsar hospital for the enrolled in the study. The inclusion criteria were patients with chronic cholecystitis and gallstones, candidates for elective laparoscopic cholecystectomy and the presence of other digestive conditions were ruled out based on history, endoscopy, CT scan and other diagnostic measures. Another inclusion criteria were classes I and II based on the American Society of Anesthesiologist (ASA) guidelines. Patients with other gastrointestinal diseases including peptic ulcer, gastrointestinal malignancies and inflammatory bowel diseases were excluded from the study.
+All the signs and symptoms of the patients include symptoms of indigestion (bloating, heaviness after eating, early satiety, pain in the epigastrium, heartburn), anorexia, nausea and vomiting, radiating back pain, regurgitation, fat intolerance, defecation problems (diarrhea, constipation), long-lasting hospitalization and the time of returning to daily activities were recorded.
+Statistical analysis The studied patients filled out a checklist regarding the symptoms of the disease before the surgery, one week and one month after the surgery. The collected data were analyzed in SPSS 24 by chi-square, analysis of variance (ANOVA) and t test. A P value <0.05 was considered significant.
+
+Results Out of 55 patients who enrolled in the study, 44 were female (80%) and 11 male (20%). The mean (±SD) age of the patients was 46 ± 13.63 years (25-83 years). Thirtythree (60%) of the patients had no underlying diseases and 22 (40%) had underlying diseases (Table 1). The minimum duration of hospitalization was 1 day (in 40% of patients) and the maximum was 7 days (in 5.5% of patients). Fortytwo percent of patients (the highest frequency) were hospitalized for 2 days, and the average hospitalization period was 2 days.
+The duration of return to daily activity was also checked, the minimum duration for returning to daily activity was 1 (in 3.7% of patients) and the maximum was 30 days (in 6.3% of patients) with a mean of five days.
+The highest frequency of patients’ complaints was abdominal pain in 52 cases (94.5%), fat intolerance in 38 cases (69%) and nausea/vomiting in 27 cases (49%). The duration of patients’ complaints before the operation varied from 4 weeks to several years.
+Descriptive statistics Nausea and vomiting Twenty-seven (49%) of patients had nausea and vomiting before surgery, of which 23 (85.1%) had full recovery after surgery, 4 patients still had nausea and vomiting after the surgery, 3 patients had symptoms from beginning of the first week after surgery, 2 patients continued to have nausea and vomiting until the end of the first month, but 1 patient became asymptomatic at the end of the month. One patient had nausea and vomiting after the first week, which became asymptomatic at the end of the month. One patient (1.8%) had nausea and vomiting as a new symptom that started from the beginning of the first week after the operation and continued until the end of the first month (Table 2).
+Indigestion Ten patients (18.1%) had symptoms of indigestion before the operation, of which 6 patients (60%) recovered completely after the operation, the symptoms continued in 4 patients from the beginning of the first week, which 1 patient was cured at the end of the week, but in 3 patients it continued until the end of the month.
+
+Table 1. Frequency of underlying disease Underlying disease Cardiovascular diseases Hypertension Hyperlipidemia Diabetes mellitus Lung diseases Renal diseases Others No underlying disease
+
+Percent 12.7 21.8 10.9 12.7 1.8 3.6 5.4 60
+
+Number 7 12 6 7 1 2 3 33
+
+Journal of Preventive Epidemiology
+
+2
+
+Volume xx, Issue xx, 2025
+
+In 9 patients (16.3%) the symptoms of indigestion were observed as a new symptom after the operation, 5 of which were only in the first week and finally resolved, but in 4 patients the symptoms continued until the end of the month.
+Anorexia Thirteen patients (23.6%) complained of anorexia before the operation, and 8 patients (61.5%) had a complete recovery after the operation. 5 patients still had anorexia after surgery, 2 patients became asymptomatic at the end of the first week, but in 3 cases, anorexia continued until the end of the first month. Anorexia was mentioned as a new symptom in 4 cases (7.1%). In 2 patients, it continued during the first week and resolved at the end of the week, in 1 patient, it continued until the end of the first week and then resolved, and in 1 patient, it started from the beginning of the first week and continued until the end of the month (Table 2).
+Heartburn Heartburn was present in only 2 patients (3.6%) before the operation, of which 1 case (50%) recovered completely, but the second case continued until the end of the first month after the operation.
+Three patients (5.4%) also mentioned heartburn as a new symptom, which started in 2 patients at the beginning of the first week and continued during the first month, and in 1 patient, it was resolved at the end of the month. The second patient remained symptomatic at the end of the month. In 1 case, heartburn was observed after the first week, which was resolved at the end of the month (Table 2).
+Abdominal pain Abdominal pain was mentioned as the main symptom in the majority of patients. 52 patients (94.5%) had abdominal pain, and in 44 patients (84.6%) complete recovery was achieved after the operation. In 3 patients, the abdominal pain continued during the first week after the operation
+
+Post-cholecystectomy syndrome
+and then resolved. In one case, the pain started after the first week and was resolved at the end of the month. In 4 patients, the pain continued after the operation until the end of the first month.
+In 2 patients who did not have abdominal pain from the beginning, pain was not mentioned as a new symptom after the operation (Table 2).
+Fat intolerance Thirty-eight patients (69%) complained of fat intolerance before the operation, which improved in 31 patients (81.6%) after the operation (of course, the patients also followed their diet). It was present in 1 person during the first week and then resolved. In 1 patient, it started after the first week and was resolved at the end of the month, and in 5 patients, fat intolerance continued until the end of the month. Fat intolerance was not presented as a new symptom in any of the patients (Table 2).
+Change in bowel habits In 3 patients (4.5%), change in bowel habits in the form of constipation was mentioned before the operation, and in 2 cases, recovery was achieved, and in 1 it continued until the end of the first month after the operation.
+In 3 patients (4.5%), the change of bowel habits in the form of constipation was mentioned as a new symptom, which in 2 patients was during the first week and then resolved, and in 1 patient it continued until the end of the first month (Table 2).
+New symptoms A total of 14 patients (25.4%) mentioned new symptoms after the operation, the most of which were indigestion symptoms. Nine patients had symptoms only in the first week, 6 of them recovered during the first week and 3 patients became asymptomatic after the first week. One patient presented a new symptom after the first week, which improved at the end of the month, and in 4 patients, the symptom started after the operation and continued until the end of the month (Table 2).
+
+Table 2. Frequency of pre- and post-surgery symptoms
+
+Symptoms
+Nausea and vomiting Indigestion Anorexia Heartburning Abdominal Pain Fat intolerance Intestinal habits changes New symptoms
+
+Pre-operation
+
+No. %
+
+27
+
+49
+
+10
+
+18.1
+
+13
+
+23.6
+
+2
+
+3.6
+
+52
+
+94.5
+
+38
+
+69
+
+3
+
+4.5
+
+0
+
+0
+
+At the first week
+
+No.
+
+%
+
+5
+
+9.1
+
+13
+
+23.6
+
+9
+
+16.1
+
+3
+
+5.4
+
+7
+
+12.5
+
+6
+
+10.7
+
+4
+
+7.1
+
+13
+
+23.6
+
+From the end of first week to At the end of first week
+beginning of the first month
+
+No.
+
+%
+
+No.
+
+%
+
+4
+
+7.1
+
+5
+
+9.1
+
+10
+
+18.1
+
+7
+
+12.7
+
+4
+
+7.1
+
+3
+
+5.4
+
+3
+
+5.4
+
+4
+
+7.1
+
+4
+
+7.1
+
+5
+
+9.1
+
+5
+
+9.1
+
+6
+
+10.7
+
+2
+
+3.6
+
+2
+
+3.6
+
+7
+
+12.7
+
+5
+
+9.1
+
+At the end of first month
+
+No.
+
+%
+
+3
+
+5.4
+
+7
+
+12.7
+
+3
+
+5.4
+
+2
+
+3.6
+
+5
+
+9.1
+
+5
+
+9.1
+
+2
+
+3.6
+
+4
+
+7.1
+
+Journal of Preventive Epidemiology
+
+3
+
+Volume xx, Issue x, 2025
+
+Ataei R et al
+Discussion In present study, we aimed to investigate the frequency of post-cholecystectomy syndrome in patients referred for laparoscopic cholecystectomy. The results of this study showed that laparoscopic cholecystectomy is an effective treatment for symptomatic gallstones, so that most patients had a complete recovery after surgery. However, in a small number of patients, at the end of the first month after surgery, symptoms were still present and had not resolved (nausea and vomiting 4.5%, indigestion 5.5%, anorexia 4.5%, belching 3.6%, abdominal pain 8.9%, fat intolerance 9.8%, change in bowel habits 6.3%). The highest number of patients’ complaints after the operation was related to indigestion symptoms, which was 12.5% at the end of the first month, and abdominal pain and fat intolerance in 9.8% and in 7% of the patients at the end of the first month new symptom was observed.
+Our findings were similar to the study by Victorzon et al and Niranjan et al, in terms of improvement in abdominal pain, nausea and vomiting. The Victorzon et al study indicated that biliary colic was improved by 97%, nausea by 95%, and vomiting by 96% (13). In Niranjan and colleagues’ study, abdominal pain was 99% and nausea and vomiting were 98% (14), and in Jaunoo and colleagues’ study, more than 90% of cases were cured (5). In our study, 91.1% of abdominal pain and 94.6% of nausea and vomiting improved, while these symptoms continued in 37% of patients in Lill and colleagues’ study (9).
+In Hemmati et al study, nausea was present in 47.7% and vomiting in 34.1% of patients at the first 24 hours after surgery (15), while in our study only 8.9% of patients the symptoms were presented during the first week after surgery. They had nausea and vomiting, which reached 1.7% at the end of the first week.
+The rate of improvement of heartburn and indigestion symptoms in our study was contrary to the other studies, so that in our study these symptoms improved in 87.5% of cases and in 12.5% continued at the end of the first month after the operation. In the study by Victorzon et al 34% (13), by Niranjan et al 40% (14) and Mertens et al in 2.63% (16) of patients indigestion symptoms were continued after surgery.
+Change of intestinal habits, unlike to similar studies, which were mainly in the form of diarrhea, in our study, there was no diarrhea in the patients, and constipation was mentioned only in a few cases. Constipation presented in 6.3% of cases, which is in contrast to the studies of Niranjan et al (20%) (14) and de Mello Del Grande et al (35.1%) (1). The recovery rate of fat intolerance in our study was 91% and similar to Jaunoo and colleagues’ study which was >90% (5). While it was not reported by Victorzon et al (13), and Sven Lill et al indicated that this symptom continued in about 37% of patients (9). In our study, constipation was improved in 4.96% of cases, while in the Victorzon et al study, constipation was not affected (13).
+
+The mean of hospitalization time in our study was two days, which is similar to the Victorzon et al study, but the mean duration of medical leave of absence from work in Victorzon et al study was 15 days (13), while it was 5 days in our study. This study showed that although a small number of patients were dissatisfied with the continuation of previous symptoms or the development of new symptoms, but, laparoscopic cholecystectomy is an effective treatment for symptomatic gallstones and causes complete improvement of symptoms in most patients.
+Conclusion In our study, the incidence of post-cholecystectomy syndrome was less than 10%, and it can be said that laparoscopic cholecystectomy is an effective treatment for symptomatic gallstones and resulted in complete improvement of symptoms in most patients.
+Limitations of the study This study was conducted in a single surgical center and requires further investigation by larger studies.
+Authors’ contribution Conceptualization: Hamid Reza Hemmati. Data curation: Roya Ataei. Formal analysis: Majid Mirmohammadkhani. Investigation: Roya Ataei, Shahrzad Izadi. Methodology: Majid Mirmohammadkhani. Project administration: Hamid Reza Hemmati. Resources: Shahrzad Izadi. Supervision: Hamid Reza Hemmati. Validation: Hamid Reza Hemmati, Amir Molaei. Visualization: Amir Molaei, Shahrzad Izadi. Writing–original draft: Hamid Reza Hemmati. Writing–review and editing: Hamid Reza Hemmati, Amir Molaei, Majid Mirmohammadkhani.
+Conflicts of interest The authors declare that they have no competing interests.
+Ethical issues The study adhered to the principles of the Declaration of Helsinki. The Ethics Committee of Isfahan University of Medical Sciences approved this study (Ethical code#IR.SEMUMS.REC.1395.105). Consequently, written informed consent was obtained from all participants prior to any intervention. This study was extracted from the M.D. thesis of Roya Ataei at the university (Thesis# 1104). Furthermore, the authors have completely addressed ethical issues such as plagiarism, data fabrication, and double publication.
+Funding/Support None.
+References 1. de Mello Del Grande L, Leme LF, Marques FP, Ramos AT, Ramos
+PT, de Souza FA. Prevalence and predictors of changes in bowel habits after laparoscopic cholecystectomy. Arq Bras Cir Dig. 2017;30:3-6. doi: 10.1590/0102-6720201700010002. 2. Zackria R, Lopez RA. Postcholecystectomy syndrome. In: StatPearls [Internet]. Treasure Island, FL: StatPearls Publishing; 2023.
+
+Journal of Preventive Epidemiology
+
+4
+
+Volume xx, Issue xx, 2025
+
+3. Jiang B, Ye S. Pharmacotherapeutic pain management in patients undergoing laparoscopic cholecystectomy: a review. Adv Clin Exp Med. 2022;31:1275-88. doi: 10.17219/ acem/151995.
+4. Michaloliakou C, Chung F, Sharma S. Preoperative multimodal analgesia facilitates recovery after ambulatory laparoscopic cholecystectomy. Anesth Analg. 1996;82:44-51. doi: 10.1097/00000539-199601000-00009.
+5. Jaunoo SS, Mohandas S, Almond LM. Postcholecystectomy syndrome (PCS). Int J Surg. 2010;8:15-7. doi: 10.1016/j. ijsu.2009.10.008.
+6. Acharya R, Karan D, Khetan M. Postoperative analgesia with intraperitoneal ropivacaine with and without dexmedetomidine after total laparoscopic hysterectomy: a randomized, double-blind, controlled trial. Asian J Pharm Clin Res. 2016;9):76-9. doi: 10.22159/ajpcr.2016.v9s3.14396.
+7. Arora D, Kaushik R, Kaur R, Sachdev A. Post-cholecystectomy syndrome: a new look at an old problem. J Minim Access Surg. 2018;14:202-7. doi: 10.4103/jmas.JMAS_92_17.
+8. Mahfouz MEM, Altowairqi ADM, Alghamdi HY, Alzahrani MSZ, Alqurashi AK, Alhuraity TH, et al. Prevalence and factors associated with post-cholecystectomy syndrome in Saudi Arabia. Cureus. 2022;14:e32827. doi: 10.7759/cureus.32827.
+9. Lill S, Rantala A, Karvonen J, Pölönen T, Grönroos JM. Elective laparoscopic cholecystectomy for symptomatic uncomplicated gallstone disease: do the symptoms disappear? Surg Endosc. 2014;28:1816-20. doi: 10.1007/s00464-013-3391-8.
+
+Post-cholecystectomy syndrome
+10. Carrias AS, Borges AG, de Souza LK. Complications of the association of irritable and post-cholecystectomy gut syndromes: a case report. Res Soc Dev. 2021;10:e19510111378. doi: 10.33448/rsd-v10i1.11378.
+11. Cerkezovic M, Tulumovic D, Umihanic MM. Belching after biliary pancreatitis and laparoscopic cholecystectomy. Med Arch. 2016;70:151-3. doi: 10.5455/medarh.2016.70.151-153.
+12. Yueh TP, Chen FY, Lin TE, Chuang MT. Diarrhea after laparoscopic cholecystectomy: associated factors and predictors. Asian J Surg. 2014;37:171-7. doi: 10.1016/j. asjsur.2014.01.008.
+13. Victorzon M, Lundin M, Haglund C, Roberts PJ, Kellokumpu I. Short and long term outcome after laparoscopic cholecystectomy. Ann Chir Gynaecol. 1999;88:259-63.
+14. Niranjan B, Chumber S, Kriplani AK. Symptomatic outcome after laparoscopic cholecystectomy. Trop Gastroenterol. 2000;21:144-8.
+15. Hemmati H, Ghorbani R, Hossein-Zadeh B, Ebrahim-Zadeh H, Shakeri S. The effect of single dose of dexamethasone on postoperative nausea and vomiting in patients undergoing laparoscopic cholecystectomy. J Babol Univ Med Sci. 2014;16:15-21. doi: 10.18869/acadpub.jbums.16.11.15. [Persian].
+16. Mertens MC, Roukema JA, Scholtes VP, De Vries J. Risk assessment in cholelithiasis: is cholecystectomy always to be preferred? J Gastrointest Surg. 2010;14:1271-9. doi: 10.1007/ s11605-010-1219-6.
+
+Journal of Preventive Epidemiology
+
+5
+
+Volume xx, Issue x, 2025

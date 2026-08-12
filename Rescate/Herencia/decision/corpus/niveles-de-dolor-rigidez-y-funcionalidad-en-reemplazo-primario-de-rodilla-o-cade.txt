@@ -1,0 +1,969 @@
+1 Niveles de dolor, rigidez y funcionalidad en reemplazo primario de rodilla o
+cadera: en un Hospital de alta complejidad de Manizales (Caldas), 2023
+Erika Fernanda Arias Rodríguez
+Universidad de Caldas Facultad de Ciencias para la Salud
+Departamento de Salud Pública Manizales, Caldas 2024
+
+2 Niveles de dolor, rigidez y funcionalidad en reemplazo primario de rodilla o
+cadera: en un Hospital de alta complejidad Manizales (Caldas), 2023
+Erika Fernanda Arias Rodríguez
+Trabajo de investigación para optar al título de: Especialista en Epidemiología
+Director (a): Diana Paola Betancurth Loaiza Enfermera, Mg. en Enfermería con énfasis en Atención Primaria en Salud, PhD en Salud Pública, investigadora y docente asociada
+Universidad de Caldas Facultad de Ciencias para la Salud
+Departamento de Salud Pública Manizales, Caldas 2024
+
+3
+Agradecimientos
+S.E.S Hospital de Caldas. Al grupo de investigación por todo el apoyo a este trabajo al estar prestos al análisis de las bases de datos Dr. Juan Manuel Muñoz. Asesor temático. Ortopedista, Especialista en cirugía reconstructiva y del Reemplazo Articular de Cadera y Rodilla.
+
+4
+Resumen
+Introducción: Con el envejecimiento progresivo de la población, la implantación de prótesis en cadera o rodilla primaria se incrementó, los avances en protocolos estandarizados requieren una vigilancia del riesgo perioperatorio mediante cuestionarios que permitan cuantificar la mejora en la calidad de vida relacionada con la salud por medio del índice de osteoartritis de las universidades Western Ontario y McMaster, con miras a generar información oportuna confiable que puede ser un aporte para la toma de decisiones y estrategias de atención en el adulto controlando factores para obtener resultados clínicamente importantes para el paciente.
+Objetivo: Identificar las diferencias estadísticas y mínimas clínicamente importantes de los puntajes de dolor, rigidez y capacidad funcional en pacientes sometidos a cirugía de Reemplazo primario de rodilla o cadera, con dos medidas (medida 1: prequirúrgico o basal; medida 2: a mediano plazo a los 6 meses posoperatorio), en un Hospital de Manizales (Caldas), 2023.
+Diseño y análisis: Estudio observacional, retrospectivo y transversal. Se consultaron fuentes secundarias de datos de la junta de reemplazos articulares del SES hospital de Caldas. Se incluyeron pacientes sometidos a reemplazo primario de rodilla o cadera, que cumplieron con los criterios de inclusión entre el 2 de marzo y el 16 de mayo de 2023.
+Resultados: Para el grupo general de 61 pacientes llevados a reemplazo primario, el 73,8% fue de género femenino, con edad promedio de 67,9 ± 9,0 años, 60,7% eran del régimen contributivo. El subgrupo de pacientes llevados a reemplazo de rodilla fue el 50,8% y 49,2% para cadera, la lateralidad que primó fue la derecha (67,7% rodilla vs 53,3% cadera), 95,1 % se clasificaron con riesgo ASA II. El 96,7% tienen como diagnóstico causal la osteoartritis. Referente a los antecedentes personales de los pacientes el 62,3% tenían hipertensión arterial, 19,7% hipotiroidismo, 11,5% diabetes, y fumó el 6.6%. La mediana del tiempo quirúrgico fue 1:24 hora/minutos y la estancia postoperatoria tuvo una mediana de 1 día, solo un paciente requirió cuidados intensivos
+
+5
+por embolismo pulmonar posterior a reemplazo de rodilla. Se observó una mayor frecuencia de reconsulta a urgencias en pacientes de rodilla (12,9% vs. 10%). Se encontró relación estadísticamente significativa de la edad con el tipo de cirugía (p=0,005) y con los dominios de WOMAC de dolor, rigidez y capacidad funcional (C.F) antes y después del procedimiento quirúrgico (p<,001). La diferencia mínima clínicamente importante (DMCI) de WOMAC – C.F tanto en rodilla como en cadera lo alcanzó el 90%. Se encontró una fuerte consistencia y asociación con mayor dolor posquirúrgico y peor funcionalidad en pacientes de género femenino. Conclusiones: Hubo una D.M.C.I en el dominio de funcionalidad del W.O.M.A.C a los 6 meses de reemplazo de rodilla o cadera del 90%. Se deben realizar más estudios para determinar variables que puedan limitar la satisfacción con la cirugía en el 10% restante, como condiciones médicas asociadas de tipo osteomuscular, complicaciones medicas por comorbilidades de base y complementarlo con una escala de calidad de vida general para ayudar al clínico a crear expectativas reales en los pacientes.
+Palabras clave: Reemplazo primario de reemplazo de cadera o rodilla; Western Ontario and McMaster Universities osteoarthritis index (WOMAC); Calidad de vida relacionada con la salud (CVRS); diferencia mínima clínicamente importante (DMCI); medidas de resultado informadas por el paciente (PROMs) (DeCs).
+
+6
+Abstract With the progressive aging of the population, the implantation of primary hip or knee prostheses has increased. Advances in standardized protocols require monitoring of perioperative risk through questionnaires that quantify improvements in health-related quality of life using the Western Ontario and McMaster Universities Osteoarthritis Index. This aims to generate timely and reliable information that can contribute to decisionmaking and care strategies for adults, controlling factors to achieve clinically significant outcomes for patients.
+Keywords:
+Hip or knee replacement arthroplasty; Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC); Health-related quality of life (HRQoL); Minimal Clinically Important Difference (MCID).
+
+7
+
+Tabla de contenido
+
+1
+
+INTRODUCCIÓN
+
+7
+
+1.1
+
+PLANTEAMIENTO DEL PROBLEMA
+
+10
+
+1.1.1 PREGUNTA PROBLEMA
+
+10
+
+1.2
+
+JUSTIFICACIÓN
+
+10
+
+2
+
+OBJETIVOS
+
+13
+
+2.1
+
+OBJETIVO GENERAL
+
+13
+
+2.1.1 OBJETIVOS ESPECÍFICOS
+
+13
+
+3
+
+MARCO TEÓRICO
+
+14
+
+3.1
+
+MARCO CONCEPTUAL
+
+16
+
+4
+
+METODOLOGÍA
+
+23
+
+4.1
+
+TIPO DE ESTUDIO Y POBLACIÓN
+
+23
+
+4.2
+
+RECOLECCIÓN DE DATOS Y VARIABLES
+
+23
+
+4.3 ¡Error! Marcador no definido.4.4
+RESULTADOS
+
+CONSIDERACIONES ¡Error! Marcador no definido.5 28
+
+6
+
+DISCUSIÓN
+
+40
+
+7
+
+CONCLUSIONES
+
+45
+
+8
+
+RECOMENDACIONES
+
+46
+
+9
+
+REFERENCIAS BIBLIOGRÁFICAS
+
+48
+
+10
+
+APÉNDICES
+
+53
+
+8
+
+Lista de tablas
+
+Tabla 1. Características clínicas y sociodemográficas de los pacientes incluidos en el
+
+estudio (n=61)
+
+22
+
+Tabla 2. Características clínicas y sociodemográficas de los pacientes incluidos
+
+en el estudio, de los subgrupos R.P.R (n=31); R.P.C (n=30) con su
+
+significancia
+
+22¡Error! Marcador no definido.
+
+Tabla 3. Contraste de hipótesis formuladas en la investigación
+
+Tabla 4. Comparación entre W.O.M.A.C prequirúrgico (medida basal) y a los 6
+
+meses postquirúrgico (medida a mediano plazo) de reemplazo primario de
+
+cadera o rodilla. (Análisis bivariado)
+
+26
+
+Tabla 5. Análisis de D.M.C.I WOMCAC- CF para R.P.C con características clínicas
+
+y sociodemográficas. (Análisis bivariado)
+
+26
+
+Tabla 6. Comparación entre W.O.M.A.C posquirugico y género. (Análisis bivariado)
+
+Lista de figuras
+
+Figura 1. Flujograma de selección de los pacientes
+
+9
+
+Figura 2. Diagrama de caja y bigotes comparando la puntuación de total del
+
+W.O.M.A.C para la población general antes de la cirugía frente al
+
+seguimiento a los 6 meses.
+
+25
+
+Figura 3. Diagrama de sectores comparando el logro de la D.M.C.I del
+
+W.O.M.A.C-C. F para cada subgrupo.
+
+25
+
+Lista de apéndices
+
+9
+
+Apéndice A. Escala W.O.M.A.C
+
+53
+
+Apéndice B. Formato de J.U.R.A.D.O S.E.S hospital de caldas
+
+54
+
+Apéndice C. Operacionalización de las variables
+
+55
+
+Lista de siglas
+OA: Osteoartritis R.P.R: Reemplazo primario total de rodilla R.P.C: Reemplazo primario total de cadera J.U.R.A.D.O: Junta de Reemplazos Articulares y Definición Operativa O.M.S: Organización mundial de la salud p: Nivel de significancia D.E: Desviación estándar R.I.C: Rango intercuartílico A.S.A: Sociedad americana de anestesiólogos W.O.M.A.C: Western Ontario and McMaster Universities osteoarthritis index D.M.C.I: Diferencia Mínima Clínicamente Importante P.R.O.Ms: Medidas de resultado informadas por el paciente ( sigla en inglés de Patient Reported Outcomes Measures)
+
+1. Introducción
+
+10
+El protocolo “Enhanced Recovery After Surgery” (“E.R.A.S”) funciona como herramienta de mejora continua al valorar el porcentaje del cumplimiento del programa de reemplazos articulares, consta de 17 ítems como factores protectores para prever complicaciones menores o mayores, a su vez disminuye el tiempo de estancia hospitalaria por ende el costo al sistema de salud (1). Vigilar la gestión eficaz del riesgo perioperatorio es posible mediante la obtención de medidas de resultados informadas por el paciente P.R.O.Ms (sigla en inglés de Patient Reported Outcomes Measures) a través de cuestionarios de calidad de vida general como él E.Q-5D (sigla en inglés European Quality of Life -5 Dimensions) y específico en el caso de la osteoartritis (O.A) el índice de las universidades de Western Ontario y McMaster (W.O.M.A.C); estos instrumentos registran cambios similares luego del año de seguimiento, facilitando la medición de desenlaces subjetivos, logrando convertir el concepto salud-enfermedad en métodos cuantificables. Centrando la calidad de la asistencia sanitaria en el paciente, propuesta por la Organización Mundial de la Salud (O.M.S) (2).
+La osteoartritis dado a su prevalencia creciente del 10,81% (IC 95% 9,68 - 12,06%) en Colombia, se considera un problema de salud pública, la O.M.S creó como estrategia “ La década del hueso y la articulación” (3) entre el 2000 y 2010 que unió esfuerzos de entidades gubernamentales y no gubernamentales para lograr soluciones integrales y la Organización de Naciones Unidas (O.N.U) proclamó la década del Envejecimiento Saludable (2020-2030) dado a un crecimiento para el 2030 del 38% en personas mayores de 60 años superando la juventud, donde abordan la capacidad funcional desde la capacidad intrínseca y la posibilidad de adaptación de cambios en el entorno, que mejoren la discapacidad como en la O.A.
+La O.A afecta a uno de cada 3 individuos (33.9%) después de los 70 años de edad y es más común en las mujeres 20.3% vs 11.1% los síntomas más frecuentes son en las rodillas en un 35%, según el estudio basado en el cuestionario con siglas en inglés, Community Oriented Programa for Control of Rheumatic Diseases (C.O.P.C.O.R.D) (3); también se ha demostrado que la O.A afecta significativamente la calidad de vida relacionada con la salud (C.V.R.S) generando la necesidad de un reemplazo primario
+
+11
+como segmento líder la rodilla proyectándose para el año 2030, 16 millones en Estados Unidos. El no diferir la cirugía impacta en una razón incremental de costo utilidad (R.I.C.U) de 7302 pesos por años de vida ajustado por calidad (A.V.A.C) ganado (4).
+Varios estudios sugieren que algunos factores preoperatorios pueden tener un efecto sobre los P.R.O.Ms como el género femenino, bajo nivel socioeconómico, fuerte apoyo social, comorbilidades o lumbago, un peor dolor o estado funcional preoperatorio, factores psicológicos (depresión, ansiedad o catastrofismo) entre otros (5). En este contexto, surge la necesidad de estudiarlos con miras a generar información oportuna confiable que puede ser un aporte para la toma de decisiones y estrategias de atención en el adulto que permitan controlar factores para obtener resultados clínicamente importantes para el paciente.
+La capacidad de respuesta a los instrumentos al detectar una diferencia mínima clínicamente importante (D.M.C.I), como en el WOMAC es una propiedad psicométrica necesaria para estudiar, con el fin de demostrar cambios reales después de una intervención (6,7). La mayoría de los ensayos clínicos se han concentrado en detectar la capacidad de respuesta a instrumentos de C.V.R.S, en las intervenciones farmacológicas, resultados de rehabilitación y unos pocos después de reemplazo de rodilla o cadera (6).
+1.1 Planteamiento Del Problema
+Los cuestionarios de calidad de vida son importantes para monitorear el impacto de enfermedades reumatológicas como la O.A y las intervenciones de reemplazo articular como avance más relevante en el siglo XX, que suponen una enorme mejora en términos de restauración funcional, con bienestar al disminuir el dolor (4), sin embargo, hasta un 30% de los pacientes al año postquirúrgico no manifiestan una mejora sustancial considerándose así una posible prótesis dolorosa (7,8).
+
+12
+El WOMAC consta de 24 ítems con tres dimensiones, tiene una escala tipo Likert (LK) de 5 niveles (Ninguno = 0, Poco = 1, Bastante = 2, Mucho = 3, Muchísimo = 4), cada dimensión puntúa con un valor máximo que indica mayor discapacidad, Dolor (5 ítems) (0-20), Rigidez (2 ítems) (0-8), Capacidad funcional (17 ítems) (0-68) con un puntaje global de (0-96) (9).
+El término D.M.C.I fue introducido, por Jaeschke, Singer y Guyatt en 1989, definido como “la diferencia más pequeña en una escala (desde la perspectiva del paciente) que demandará cambios en el tratamiento en ausencia de efectos secundarios y altos costos”, ahora aceptada como el cambio clínico más pequeño que es importante para el paciente, la cual permite comprender los efectos de las intervenciones (6). La importancia de conocer la D.M.C.I de una escala radica en que, aunque se demuestran diferencias estadísticamente significativas, estas diferencias pueden ser clínicamente no significativas considerando así el tratamiento fallido (6). Hay varios métodos estadísticos para hallarla: el basado en distribución, el ancla o por consenso de expertos por ejemplo mencionando para la escala a la subescala de capacidad funcional (C.F) del WOMAC de 11 para rodilla y de 13 para cadera (6,7).
+El Colegio Estadounidense de Cirujanos, mediante el Programa Nacional de Mejoramiento de la Calidad Quirúrgica, cuenta con un registro de medidas de desempeño hospitalario en línea para acceder a una calculadora, la cual logró predecir el alta post aguda en artroplastia total, sin embargo (10), no hay calculadoras que incluyan P.R.O.Ms para establecer lo que es un resultado favorable postquirúrgico.
+Las enfermedades musculoesqueléticas y sus costos asociados representan problemas importantes en países en desarrollo (3), aunque la incidencia es menor (aproximadamente el 1.7% con respecto a un 3.4% en países desarrollados), la discapacidad ajustada en años de vida es 2.5 veces mayor en países en desarrollo (6). En un estudio realizado en un país en desarrollo donde el manejo quirúrgico a tiempo vs el manejo médico logró una ganancia de 0,43 A.V.A.C (4).
+
+13
+En Colombia los registros sobre este evento en salud pública son escasos, tanto del uso de orto-biológicos (11), como de reemplazos articulares y la percepción de los pacientes mediante cuestionarios de calidad de vida; es por esto que surgen limitaciones al momento de comparar datos, aunado a la carencia de información en cuanto a variables como: raza, mencionada sólo en el 5.6% de manuscritos, en 1.4% la etnia; no mencionan seguro- ingresos- educación, ningún estudio las incluye en las regresiones multivariadas, lo que genera así disparidades al crear políticas en salud (12). Es por lo que surge la necesidad de estudiar en una institución de mediano y alto nivel de complejidad de Manizales los factores prequirúrgicos que afectan a favor o en contra el logro de una D.M.C.I con el índice W.O.M.A.C.
+1.1.1 Pregunta Problema
+¿Cuál es la diferencia estadística y mínima clínicamente importante de los puntajes obtenidos en los niveles de dolor, rigidez, capacidad funcional antes y a los 6 meses posterior a reemplazo de rodilla o cadera para el 2023?
+
+14
+1.2 Justificación
+En la atención médica las medidas de desempeño hospitalario son la base de la prestación de servicios de calidad. La identificación adecuada de pacientes candidatos a reemplazo de rodilla o cadera mediante el cuestionario WOMAC permite minimizar los riesgos prequirúrgicos y evitar el desarrollo de una prótesis dolorosa (5,8).
+Al describir los posibles factores de riesgo prequirúrgicos identificados en la junta de reemplazos articulares y definición operativa (J.U.R.A.D. O) en un Hospital de Manizales, se pretende analizar los que se asocian con una no mejoría importante desde la perspectiva del paciente para hacer propuestas que permitan reducir el grado de insatisfacción, mediante un análisis integral de todas las variables que afectan los P.R.O.Ms independientemente del método estadístico utilizado.
+De acuerdo con lo anterior, el proyecto se enfoca en identificar los factores prequirúrgicos que contribuyan a lograr o no una D.M.C.I, permitiendo así la mitigación de estos y desarrollar en el clínico la capacidad de diferenciar el intervalo entre un dolor posoperatorio normal vs un dolor protésico que implica estudios adicionales, así como un asesoramiento perioperatorio optimizado.
+La población potencialmente beneficiada con la presente investigación será la población con O.A en el territorio colombiano con una prevalencia para el 2018 del 10.81% (3), se desconoce con precisión la incidencia de pacientes con O.A severa llevados a reemplazo articular.
+Hay pocas evidencias de estudios en la prevención terciaria de riesgos prequirúrgicos basados en P.R.O.Ms (5) medido con instrumento W.O.M.A.C, identificando la D.M.C.I en la población colombiana. Entre las estrategias de prevención esta la aplicación de orto biológicos ((plasma rico en plaquetas (P.R.P), el concentrado de aspirado de médula ósea (B.M.A.C), el tejido adiposo micro fragmentado (M.F.A.T)) (11) y la asistencia a rehabilitación física pre y posquirúrgica que permita mejorar la C.V.R.S a su vez que los A.V.A.C que se puede articular con la toma de decisiones de la economía en salud.
+
+15
+Se podrán establecer propuestas de mejora, sobre las falencias encontradas en la población de estudio, recopilando registros de medidas de desempeño hospitalario, disminuyendo el riesgo de factores prequirúrgicos reconocibles en los que se pueda educar al paciente asistente a J.U.R.A.D.O que sirvan para los programas en las áreas de reemplazos y preservación articular.
+Los resultados permitirán conocer la percepción del paciente, favoreciendo la interpretación de un compartido “buen resultado o favorable” no solo desde la significancia estadística (7) como modelo actual de salud basado en la definición de enfermedad (2), logrando una gestión eficaz del riesgo perioperatorio adicional al ya existente protocolo E.R.A.S (1), con P.R.O.Ms ajustados para los Determinantes Sociales de Salud (D.S.S). A futuro se podrá crear un programa en Colombia de mejoramiento en calidad quirúrgica con disminución de costos demostrados por escalas de calidad de vida con una calculadora de riesgo-beneficio y/o calculadora de costos individualizada. En el Reino Unido tienen un modelo basado en el puntaje máximo del Oxford preoperatorio para priorizar el manejo quirúrgico, basada en suponer que una mejor funcionalidad inicial tiene menos probabilidades de lograr una D.M.C.I (7).
+
+16
+2. Objetivos
+2.1.1 Objetivo General Identificar las diferencias estadísticas y mínimas clínicamente importantes de los puntajes de dolor, rigidez y capacidad funcional en pacientes sometidos a cirugía de Reemplazo primario de rodilla o cadera, con dos medidas (prequirúrgico o basal y a mediano plazo), en un Hospital de Manizales (Caldas), 2023.
+2.1.1.1 Objetivos Específicos
+− Describir los factores sociodemográficos y clínicos prequirúrgicos de los pacientes candidatos a remplazo de rodilla o cadera con su respectiva significancia por tipo de cirugía.
+− Comparar la diferencia significativa de los dominios de dolor, rigidez, capacidad funcional y puntaje total del cuestionario W.O.M.A.C antes y a los 6 meses de reemplazo primario de rodilla o cadera.
+− Encontrar la D.M.C.I para la población en estudio de la subescala de capacidad funcional del W.O.M.A.C- C.F.
+− Analizar la asociación entre el sexo y la percepción del paciente posterior al reemplazo articular.
+
+17
+3. Marco teórico
+Entre las cirugías electivas con mayor tasa de éxito (5) en C.V.R.S y capacidad funcional, se encuentran el reemplazo de rodilla o cadera. Según la O.M.S (13) la osteoartritis se encuentra entre las principales causas de discapacidad por dolor, degeneración articular e impacto significativo en la calidad de vida. La incidencia de O.A aumenta con la edad en un 25% en la sexta y séptima década de vida y un 45% a los 80 y 90 años (12). Se tiene proyectado en Estados Unidos para el 2030 casi medio millón de reemplazos de rodilla (13).
+Definir el momento óptimo de la artroplastia para lograr el mejor resultado es una preocupación importante, dado a que el número mayor de pacientes menores de 55 años que se someten a reemplazo articular tienen un alto riesgo de fracaso a los 12 años de seguimiento (14), esto aunado a una esperanza de vida a nivel mundial para mayores de 65 años proyectada en el 2025 del 12.8%. Se creó la necesidad de tener o proyectar o contar con alternativas de preservación articular con rentabilidad tanto económica (menos del 30% de revisiones) como clínica del 75% independiente de la edad, como lo menciona a nivel internacional el estudio K.A.R.D.S en el Reino Unido multicéntrico fase III, que usa el fijador externo de rodilla para potenciar el poder intrínseco de reparación del cartílago y del hueso subcondral (14).
+El E.R.A.S evalúa la eficacia de los elementos individuales para acelerar el logro de criterios de alta y garantizar procesos de calidad en las distintas fases: preoperatoria, intraoperatoria y postoperatoria (1).
+Los factores que se afectan más en temas de discrepancias o diferencias, son: en el prequirúrgico: optimizar la educación preoperatoria del paciente y el cuidador, analgesia multimodal ahorrador de opioides (1), la procedencia en términos de accesibilidad a servicios de salud y a su vez el manejo limitado de las comorbilidades por especialidades pertinentes como: la diabetes reportada en un metaanálisis por reducir la función física y C.V.R.S (15), en otros estudios el reemplazo de cadera mejora la calidad de vida independientemente de la morbilidad preoperatoria (16), la osteoporosis a los 3 meses postoperatorios se asocia a tiempo significativamente más largo para completar la
+
+18
+prueba de subir y bajar escaleras, la prueba Timed Up and Go, puntajes más bajos para la prueba de caminata de 6 minutos, puntuación negativa en el rango de movimiento en el extensor de la rodilla (17). El género femenino se asocia en el preoperatorio con resultados no favorables, para osteoartritis de rodilla con el cuestionario (K.O.O.S) de síntomas, dolor y actividades de la vida diaria (18). La gravedad preoperatoria radiológica de la artrosis de cadera, pero no el de la rodilla se relaciona con mejoría en H.O.O.S "Actividades de la vida diaria", "Dolor”, "Síntomas", y del componente físico de la escala SF36 (19).
+Otros factores por considerar son, en la fase intraoperatoria: la técnica anestésica, técnica quirúrgica en la estabilidad articular postoperatoria (1).
+En el postoperatorio, según un estudio de cohortes realizado en Cali/ Colombia con el fin de incluir información a futuro en una guía del ministerio de salud de rehabilitación física, crean un protocolo de movilización activa temprana que logra una mejoría de fuerza 3- a 4+ (escala de Kendal's) en el 80%, en la amplitud del movimiento articular que supera 90 ° de flexión de rodilla, con efectividad por medio del WOMAC en el dolor, rigidez y la capacidad funcional con un valor de p de 0,00, 0,01, 0,009 significativo y finalmente mejora de la calidad de vida con el SF12 en limitación para subir escaleras (20).
+En América latina, por ejemplo, en México evaluaron los factores asociados a los 5 años, postquirúrgico en reemplazo de rodilla con depresión y obesidad como predictores de baja C.V.R.S y de la importancia de tratar los mismos oportunamente (21).
+A nivel nacional en Cali / Colombia una vez evaluada la evidencia, en un estudio de seguimiento a corto y mediano plazo de evaluación prospectiva de calidad de vida, se concluyó que los cambios más importantes en la C.V.R.S medida por puntuaciones de Oxford (p<0,001) ocurren durante las primeras etapas después de la cirugía, medido entre los 2 y 6 meses, para los grupos de rodilla y cadera con aumento de 21 y 24 puntos respectivamente; para revisión de rodilla y cadera de 22 y 23 puntos (22). También se cuenta con un análisis de ganancia funcional satisfactoria, en un entorno de rehabilitación
+
+19
+post aguda en Israel, lográndose en los que en un inicio tenían una capacidad funcional al ingreso mejor y la edad impactó negativamente (23).
+En una institución de mediano y alto nivel de complejidad de caldas Manizales / Colombia, se realiza un manejo multidisciplinar desde el equipo de alto desempeño en las áreas de reemplazos y preservación articular, tratando de consolidar las medidas específicas para cirugía ortopédica de reemplazo articular, con el fin de incorporarlas y aportar intersectorialmente en el proyecto de Cirugía Optimizada para América Latina (C.O.P.A.L).
+En el S.E.S Hospital de Caldas, se ha avanzado en la educación sanitaria del paciente preoperatoriamente, logrando preservar la autonomía del paciente y la satisfacción por parte de los cuidadores (1).
+Es importante investigar sobre el impacto de la calidad de vida (24,25) y sus variables asociadas integralmente antes y después del manejo quirúrgico, ya que la creciente prevalencia de la O.A y su impacto en la salud pública pueden resultar críticos para los sistemas de salud en un futuro próximo por un aumento de las revisiones de prótesis articulares (26).
+3.1 Marco conceptual
+Artroplastia: Del griego [arthr(o)- ἄρθρον gr. 'articulación' + -plastíā -πλαστία gr. cient. 'remodelación quirúrgica'] sustitución de la articulación o reemplazo por un componente protésico, que puede ser total, o parcial; primaria (implantación de una prótesis de cadera por primera vez) o de revisión (sustituir una cadera previamente implantada) (DecS).
+Calidad de Vida Relacionada con la Salud (C.V.R.S): no incluye los determinantes sociales de la salud como ingresos, recursos financieros, nutrición, condiciones ambientales, calidad del clima, libertad política, personal, y seguridad pública. La C.V.R.S se enfoca en asuntos relacionados con el cuidado de la salud, incluye los síntomas de la enfermedad y los efectos secundarios del tratamiento, la satisfacción con el tratamiento,
+
+20
+los bienestares físicos, el funcionamiento social y la satisfacción con la vida, y la salud mental, cognición (DecS).
+Osteoartritis de la cadera: enfermedad degenerativa no inflamatoria de la articulación de la cadera que aparece usualmente tarde en la edad media o en ancianos. Se caracteriza por trastornos en el crecimiento o en la maduración del cuello y cabeza del fémur, así como por displasia acetabular. Un síntoma dominante es el dolor al cargar pesos o al movimiento (DecS).
+Osteoartritis de la rodilla: enfermedad degenerativa no inflamatoria de la articulación de la rodilla constituida por tres grandes categorías: afecciones que bloquean el movimiento sincrónico normal, que producen formas anormales de movimiento, y que causan estrés que llevan a cambios del cartílago articular (DecS).
+Medición de Resultados Informados por el Paciente (P.R.O.Ms) (sigla en inglés de Patient Reported Outcomes Measures) : Los resultados percibidos por los pacientes se pueden medir con un instrumentos que consideran experiencias de vida generales o específicas de una enfermedad, para comparar y valorar varias condiciones e intervenciones médicas, fue validado en una publicación del 2009 por la F.D.A (DecS).
+La diferencia mínima clínicamente importante (D.M.C.I) o la diferencia en la puntuación en el dominio de interés, se siente “algo mejor”: evalúa el cambio significativo de percepción como beneficioso antes y después de una intervención considerándola así valiosa (DecS).
+
+21
+4. Metodología
+4.1 Tipo de estudio y población
+Se realizó un estudio observacional descriptivo retrospectivo. De corte transversal que se enfocó en comparar dos medidas reportadas en la base de datos del Equipo de Alto Desempeño en las áreas de reemplazos y preservación articular, con puntajes de la escala WOMAC (Medida 1: prequirúrgica o basal; medida 2: al mediano plazo a los 6 meses postquirúrgico de 2023) percibidas en un hospital de alto nivel de complejidad de Manizales/Caldas (Colombia). En pacientes sometidos a cirugía de R.P.R o R.P.C entre el 02 marzo y el 16 de mayo de 2023.
+Se tuvieron en cuenta los siguientes criterios de inclusión: tener un intervalo mínimo de 6 meses entre cada medida reportada del W.O.M.A.C, haber tenido los dominios tanto de dolor, rigidez como capacidad funcional con puntajes completos antes del procedimiento quirúrgico y después del mismo. Se excluyeron los pacientes que recibieron reemplazo de cadera por fractura, cirugías de revisión de reemplazo de rodilla o cadera (R.R.R o R.R.C), por lo que la muestra final fue de 61 pacientes (Figura 1).
+
+22
+Figura 1. Flujograma de selección de los pacientes. Fuente: elaboración propia. Nota. Población de estudio. Registro de Artroplastias de Servicios Especiales de Salud Hospital de Caldas; F.C.F.A, Fractura de Cuello Femoral Aguda; R.R.C, Revisión de Reemplazo de Cadera; R.R.R Revisión de Reemplazo de Rodilla; R.P.R, Reemplazo Primario de Rodilla; R.P.C, Reemplazo Primario de Cadera.
+
+23
+4.2 Recolección de datos y variables
+La información de los pacientes se recolectó a partir de la revisión de las historias clínicas en el apartado de la asistencia a J.U.R.A.D.O del índice W.O.M.A.C y de la base de datos del Equipo de Alto Desempeño en las áreas de reemplazos y preservación articular. Previo al procedimiento fueron tomados los datos presencialmente durante la junta y posterior al mismo a los 6 meses del 2023 vía telefónica por protocolo del Hospital preguntaron por la escala W.O.M.A.C a cada uno de los pacientes la cual quedo registrada.
+Las medidas del nivel de dolor, rigidez y capacidad funcional fueron reportadas en el índice W.O.M.A.C versión validada y traducida por Batlle-Gualda y Cols y Alonso J y cols. Esta escala fue creada por las universidades de Western Ontario y McMaster consta de 24 ítems, que evalúan 3 dimensiones o apartados: Dolor (5 ítems), Rigidez (2 ítems), Capacidad funcional (17 ítems) (27). Cada una de las preguntas tiene cinco opciones de respuesta tipo Likert (L.K) (ninguno = 0 puntos; poco = 1 punto; bastante = 2 puntos; mucho = 3 puntos y muchísimo = 4 puntos) y la puntuación de las dimensiones se valoran independientemente mediante la suma de los ítems que la componen, en caso necesario se puede obtener una puntuación global por método de ponderación.
+Mediante la revisión de las historias clínicas de cada uno de los pacientes se confirmó que se hubiera cumplido el protocolo E.R.A.S y se obtuvo información sobre las siguientes variables:
+Variables sociodemográficas ⮚ Edad: en años ⮚ Sexo: femenino, masculino ⮚ Afiliación a salud: contributivo, subsidiado.
+
+24
+Variables Clínicas ⮚ Tipo de cirugía: rodilla o cadera. ⮚ Lateralidad ⮚ Antecedentes: diabetes, hipotiroidismo, hipertensión arterial, fumador. ⮚ Causa de cirugía: osteoartritis, displasia, pseudoartrosis. ⮚ Puntaje A.S.A: I, II, III. ⮚ Tiempo quirúrgico: registrado en horas y minutos. ⮚ Estancia en U.C.I posoperatorio: días en que el paciente permaneció en la unidad ⮚ Estancia hospitalaria posterior: días trascurridos desde el procedimiento hasta el día del alta hospitalaria. ⮚ Complicación mayor: embolia pulmonar con severidad moderada. ⮚ Reingreso antes de los 30 días ⮚ Causas de reingreso: diagnosticó de convalecencia consecutiva a cirugía, celulitis, complicaciones mecánicas, reintervención programada.
+Variables del W.O.M.A.C prequirúrgico y a los 6 meses ⮚ Puntuación de dominio de Dolor: sumatoria de los 5 ítems mínima 0 máxima 20. ⮚ Puntuación de dominio de Rigidez: sumatoria de los 2 ítems mínima 0 máxima 8. ⮚ Puntuación de dominio de Capacidad funcional: sumatoria de los 17 ítems mínima 0 máxima 68. ⮚ Puntuación Total del W.O.M.A.C: mínima 0 máxima 96
+Operacionalización de las variables Cada una de estas variables se define y se especifica en la tabla de operacionalización de variables (Apéndice C).
+
+25
+4.3 Análisis estadístico
+Los datos se ingresaron en una base de datos creada en Microsoft Excel para su posterior análisis en el programa estadístico S.P.S.S 25.0 (S.P.S.S, Chicago, IL, EE. UU.) licenciado para la Universidad de Caldas. Estos se describen utilizado frecuencias absolutas / relativas para las variables categóricas, y promedios, desviaciones estándar (D.E), o medianas y rangos intercuartílicos (R.I.C) para las variables cuantitativas según la normalidad de los datos (prueba de Kolmogorov Smirnov), para los subgrupos de menos de 50 pacientes de rodilla y cadera (prueba de Shapiro Wilk). Se realizó un análisis bivariado para comparar las variables (puntaje WOMAC con sus dominios y global), entre la medida basal y a mediano plazo para cada subgrupo de R.P.R y R.P.C, usando las pruebas T de Student para muestras relacionadas o Wilcoxon para las variables cuantitativas según la normalidad de los datos, y las pruebas chi cuadrado o exacta de Fisher para las categóricas, considerando un nivel de significancia estadística de p <0,05. Se tomó como referencia la D.M.C.I de 11 para rodilla y de 13 para cadera según concepto de expertos para W.O.M.A.C -C. F (6).
+4.4 Consideraciones éticas
+La presente investigación cumplió con los principios éticos establecidos en la declaración de Helsinki y las normas científicas, técnicas y administrativas de investigación en salud en seres humanos, del artículo 11 resolución 8430 de 1993 del Ministerio de Salud de Colombia, siendo clasificada como investigación de riesgo mínimo al no generar afección en los participantes, ya que la decisión de realizar la intervención quirúrgica no hace parte de este estudio y el paciente decidió realizarla como parte del tratamiento médico habitual. Además, el estudio fue avalado por el comité de ética de la Universidad de Caldas mediante el acta número 014 del 2022.
+
+26
+5. Resultados
+Para el grupo general de 61 pacientes sometidos a reemplazo articular, la media de edad fue de 67.9 años (D.E: 9,0 años) con un mínimo de 48 años y un máximo de 89 años, 73,8% (n=45) fueron mujeres y todos estaban afiliados a la Nueva EPS de los cuales el 60,7% (n = 37) pertenecieron al régimen contributivo. En cuanto a las variables relacionadas con el paciente se encontró que la causa principal de reemplazo articular fue la osteoartritis en un 96,7%, seguido de displasia de cadera y pseudoartrosis cada una en un 1,6%. Al observar los antecedentes personales de los pacientes el 62,3% tenían hipertensión arterial, 19,7% hipotiroidismo, 11,5% diabetes, y fumó el 6,6%.
+La distribución del tiempo quirúrgico fue no normal con una mediana de 1:24 hora/minutos, duración mínima de 45 minutos y máxima de 2:40 horas/minutos. El procedimiento quirúrgico más frecuente fue reemplazo de rodilla con un 50,8%, seguido por el de cadera con el 49,2%. El 95,1 % de los pacientes se clasificaron con riesgo A.S.A II.
+Con relación a la estancia hospitalaria postoperatoria tuvo una distribución no normal con una mediana de 1 día, un paciente requirió estancia en UCI (4 días) y egreso posterior al manejo de embolia pulmonar de severidad moderada que requirió tratamiento farmacológico. A los 30 días postoperatorios todos estaban vivos. El 11,5% reingresaron a los 30 días, el diagnostico de reingreso principal fue la convalecencia consecutiva a cirugía en un 8,2%, 1,6% para celulitis, complicación mecánica e indicación de reintervención programada (Tabla 1).
+
+27
+Tabla 1. Características clínicas y sociodemográficas de los pacientes incluidos en el estudio (n=61).
+Fuente: Elaboración propia.
+
+28
+Dando cumplimiento al objetivo número 2 se realizó comparación de frecuencias absolutas y relativas entre los dos grupos de reemplazo de rodilla y cadera. En las características sociodemográficas se encontró que el género femenino presentó predominio en ambos grupos R.P.R (83,9%), R.P.C (63,3%). Con relación a la edad su distribución fue normal y obtuvo una media de 71,2 años (mín. 59- máx. 83) para R.P.R, 64,7% años (mín. 48 – máx.89) para R.P.C, el 67,7% y 53,3% pertenecían al régimen contributivo para rodilla y cadera respectivamente.
+Con respecto al diagnóstico prequirúrgico, se encontró la Osteoartritis como principal causa de reemplazo primario para rodilla 100% y 93,3% para cadera, un 3,3% para pseudoartrosis y displasia de cadera respectivamente. En cuanto a los antecedentes personales, el más representativo fue la Hipertensión para R.P.R 64.5% y para R.P.C 60%, seguido de hipotiroidismo en R.P.R 19,4% y en R.P.C 20%, así mismo para Diabetes Mellitus correspondió el 12,9% para R.P.R y el 10% en R.P.C, además, se encontró que los pacientes que fumaron en R.P.R fueron el 3,2% y 10% para R.P.C.
+Según el análisis de las variables relacionadas con el procedimiento, se cuantificó el tiempo quirúrgico como una distribución normal obtuvo un promedio de 1:34:07 h/min/seg para R.P.R y con una distribución no normal la mediana para R.P.C fue de 1:15 h/min de duración. Por otro lado, la lateralidad que primó fue la derecha para rodilla 67.7% y para cadera 53.3%. El puntaje de riesgo A.S.A, de la sociedad americana de anestesiología, la mayoría de los pacientes presentaron puntaje II, R.P.R 93,5% y R.P.C 96,7%. La estancia hospitalaria posterior se encontró que la mediana en ambos reemplazos primarios fue de 1 día (tabla 2).
+Se realizó prueba de significancia con los tipos de cirugía de rodilla o cadera con una p = 0,005 al relacionarla con la variable edad, sin encontrar significancia con las demás variables analizadas (Tabla 2).
+
+29
+Tabla 2. Características clínicas y sociodemográficas de los pacientes incluidos en el estudio (n=61) y de los subgrupos RPR (n=31); RPC (n=30).
+Nota. * Media y D.E: Desviación estándar. R.I.C: Rango Intercuartílico. Fuente: Elaboración propia.
+
+30 Contraste de hipótesis Ho = Hipótesis nula formulada. HA= Hipótesis alternativa formulada. X = Número de hipótesis
+Tabla 3. Contraste de hipótesis formuladas en la investigación.
+Fuente: Elaboración propia.
+
+31 La diferencia del antes y después presentó una distribución para los dominios del WOMAC no normal excepto para dolor y capacidad funcional en R.P.R. Las puntuaciones referentes a la mediana del WOMAC para el grupo general y para los subgrupos se muestran en la tabla 4. Se realizaron comparaciones entre la medida basal y a mediano plazo postquirúrgico (a los 6 meses). Para todos los grupos y subgrupos la mediana de puntación en dolor del WOMAC disminuyo en 15 puntos, para puntuación de rigidez la diferencia de medianas fue de 6 puntos, excepto para R.P.C de 7 puntos. Para capacidad funcional la diferencia de medianas fue de 47 puntos excepto para R.P.R que fue de 48 puntos y finalmente para el puntaje total de la escala la diferencia fue de 70 puntos, excepto para RPC que fue de 67,5 puntos. Las comparaciones basales vs mediano plazo fueron estadísticamente significativas para todos los reemplazos articulares en general y para cada subgrupo (p<,001; tabla 4). En la figura 2 se muestra el diagrama de caja y bigotes comparando la puntuación total del W.O.M.A.C.
+Tabla 4. Comparación entre WOMAC prequirúrgico (medida basal) y a los 6 meses postquirúrgico (medida a mediano plazo) de reemplazo primario de cadera o rodilla. (Análisis bivariado).
+Nota. *T – student para muestras relacionadas. Fuente: Elaboración propia.
+
+32
+Figura 2. Diagrama de caja y bigotes comparando la puntuación de total del W.O.M.A.C para la población general antes de la cirugía frente a la medida de los 6 meses. Los diagramas de cajas muestran el rango intercuartílico (caja), los valores medianos (línea horizontal dentro de la caja), los valores del percentil 10 y 90 (bigotes) y los valores atípicos (puntos). (a) Comparación general. (b) Comparación de subgrupos por tipo de artroplastia. Grupo 1: RPR, reemplazo primario de rodilla; grupo 2: RPC, reemplazo primario de cadera. Fuente: Elaboración propia. 2023
+
+33 La D.M.C.I de W.O.M.A.C -C. F en rodilla es de 11 según conceso de expertos (3), para el presente estudio el 90,3% (n =28) la alcanzó vs el 9,7% (n = 3) y para cadera la D.M.C.I de W.O.M.A.C -C. F es de 13 según el consenso de expertos, para el presente estudio el 90% (n =27) la alcanzó vs el 10% (n=3). En la figura 3 se muestra el diagrama de sectores.
+Figura 3. Diagrama de sectores comparando el logro de la D.M.C.I del W.O.M.A.C-C. F para cada subgrupo (a) D.M.C.I en R.P.R. (b) D.M.C.I en R.P.C. Fuente: Elaboración propia. 2023
+
+34 De los 30 pacientes de R.P.C registrados, 8 (13,1%) son menores de 55 años, sin embargo, 75% presentaron una D.M.C.I WOMAC- CF esperada según consensó de expertos y 25% no lo lograron (tabla 5). Para R.P.R no había pacientes menores de 55 años. Tabla 5. Análisis de D.M.C.I WOMCAC- CF para R.P.C con características clínicas y sociodemográficas.
+(Análisis bivariado)
+Fuente: Elaboración propia. 2023
+
+35
+Posteriormente se realizó análisis bivariado entre la variable dependiente (W.O.M.A.C postquirúrgico) y la variable independiente de sexo. Se encontró una fuerte asociación y consistencia con peor funcionalidad posoperatoria con una p= 0,030 y para el reemplazo de rodilla, mayor dolor postquirúrgico reporto una p =0,022 en pacientes de género femenino, se muestra en la tabla 6.
+Tabla 6. Comparación entre W.O.M.A.C posquirúrgico y sexo. (Análisis bivariado)
+Nota. Prueba estadística U de Mann-Whitney. Fuente: Elaboración propia.
+
+36
+6. Discusión
+Al momento de iniciar el presente trabajo de grado y partiendo de la base de datos proporcionada por el equipo de alto desempeño en las áreas de reemplazos y preservación articular, se evidenció que la sintomatología previa de dolor, rigidez, funcionalidad eran determinantes desde la afección en la C.V.R.S. para una intervención quirúrgica oportuna, por tal motivo se esperaba que existiera una relación entre la escala W.O.M.A.C y el reemplazo de rodilla o cadera para que la identificación de una D.M.C.I objetivable pueda orientar al clínico a generar expectativas en el paciente acorde a sus particularidades (7).
+En aras de cumplir con los fines mencionados con anterioridad, se investigaron los factores prequirúrgicos que podían relacionarse con el logro de una D.M.C.I presentada en 61 pacientes asistentes a J.U.R.A.D.O, se hizo una división por subgrupo de rodilla o cadera, también se estudiaron algunas variables que se consideraron necesarias debido a que algunos autores señalan que los factores relacionados con el procedimiento quirúrgico como puntaje A.S.A, tiempo quirúrgico, lateralidad de la cirugía, estancia en U.C.I posoperatoria, estancia hospitalaria posterior (4), complicación mayor (8) como embolia pulmonar con severidad moderada, reingreso antes de los 30 días, al igual que condiciones individuales como la edad y el sexo, antecedentes de diabetes (15), hipotiroidismo, hipertensión arterial, fumador, afiliación a salud, pueden considerarse moduladores que potencializan o minimizan el riesgo (7).
+Una vez desarrollada la presente investigación, se evidenció que hay diferencias significativas entre la medida basal y a mediano plazo en los dominios del W.O.M.A.C resolviendo la primera hipótesis. Adicionalmente el dolor postquirúrgico para rodilla y la capacidad funcional para el grupo en general se ve afectada por el factor prequirúrgico relacionado con el sexo, concuerda con el estudio de Perez BA, Slover (18).
+Estos resultados coinciden con la literatura revisada para la elaboración del proyecto, como a nivel nacional en Cali / Colombia, en un estudio se concluyó que los cambios más importantes en la C.V.R.S medida por puntuaciones de Oxford (p<0,001) ocurren
+
+37
+durante las primeras etapas después de la cirugía medido entre los 2 y 6 meses, para los grupos de reemplazo primario rodilla y cadera con aumento de 21 y 24 puntos respectivamente; para revisión de rodilla y cadera de 22 y 23 puntos (22). En otro estudio realizado en la misma ciudad posterior a un programa de rehabilitación estructurado se logró una mejoría tanto de la fuerza 3- a 4+ (escala de Kendal's) en el 80%, en la amplitud del movimiento articular que supero 90° de flexión de rodilla, con significancia por medio del W.O.M.A.C en la rigidez, el dolor y la capacidad funcional con un valor de p=0.00, 0,01, 0.009 respectiva y finalmente mejora de la calidad de vida con el SF12 en limitación para subir escaleras (20).
+La literatura presenta discrepancias en el análisis del índice de masa corporal (I.M.C), en México encontraron la obesidad y la depresión como predictores de baja C.V.R. S posterior a reemplazo de rodilla (21), sin embargo, en un estudio realizado en la Universidad Northwestern recomienda evitar utilizar el I.MC como un indicador aislado de riesgo con un área bajo la curva entre 0,51 y 0, 56 (27) por lo cual no se tomó en cuenta dentro de las variables del estudio. Un estudio reporto que la osteoporosis a los 3 meses postoperatorios se asocia a tiempo significativamente más largo para completar la prueba de subir y bajar escaleras, la prueba Timed Up and Go, puntajes más bajos para la prueba de caminata de 6 minutos, puntación negativa en el rango de movimiento en el extensor de la rodilla (17).
+Se debe mencionar varios puntos fuertes. Uno de ellos es que es el primer estudio en Manizales / caldas que describe las diferencias en la C.V.R. S por medio del W.O.M.A.C en pacientes sometidos a reemplazo de rodilla o cadera primaria. Además, el diseño retrospectivo de este estudio permitió prever abandonos ya se encontraba registrada la calidad de vida a mediano plazo obtenida vía telefónica logrando encontrar las significancias esperadas con el procedimiento.
+Este estudio tiene varias limitaciones que merecen ser mencionadas. En primer lugar, la población correspondió a solo un centro y la extrapolación a una población fuera del mismo debe realizarse con cautela. En segundo lugar, no se disponía de información de
+
+38
+cada ítem alterado en la escala W.O.M.A.C de cada subescala tipo L.K no permitiendo un óptimo análisis asociado a la ausencia de datos referentes a la forma de ejecución de actividades de la vida diaria previa desde el componente musculoesquelético, propios de cada paciente. Por lo tanto, la evaluación complementaria con un cuestionario de C.V.R.S general como el E.Q-5D o la escala S.A.P.S (siglas en inglés de SelfAdministered Patient Satisfaction Scale) validada al español en Cali/Colombia (28) son importantes para futuras investigaciones como condición primordial para determinar una D.M.C.I. En tercer lugar, los factores asociados encontrados requieren más estudios para confirmarlos.
+En la presente investigación no se tuvo en cuenta como variable la antigüedad de la espera del procedimiento quirúrgico, lo que pudo interferir en un no logro de la D.M.C.I dado que aplazar el procedimiento genera más gastos y una mejoría posquirúrgica menor a la esperada si el procedimiento se hace en el momento oportuno (4). La gravedad radiológica no se estudió se ha reportado que en la O.A de cadera, pero no la de rodilla se relaciona con mejoría en HOOS "Actividades de la vida diaria", "Dolor" y "Síntomas", y del componente físico de la escala SF36 (19).
+Otro factor que se debe tener en cuenta relacionado al método utilizado y su aplicación fue que se realizó el estudio únicamente con aquellos que presentaron sintomatología, excluyendo a los pacientes que se encontraban sanos, eliminando la posibilidad de contar con un grupo de control con su respectiva calidad de vida para valorar si era alcanzable y comparable posterior al reemplazo articular. En estudios previos se ha demostrado que el seguimiento del año en adelante la mejoría alcanzada no varía en los P.R.O.Ms (7), sin embargo varios estudios continúan haciendo seguimiento a los 10 o 12 años , dado a que con el tiempo las prótesis fallan y requiere revisión que se asocia a mayor mortalidad. La esperanza de vida para mayores de 65 años se proyecta del 12.8% para el 2025, y el aumento de personas menores de 55 años que requiere su primer reemplazo de cadera como en este estudio correspondió al 13.1% sin embargo se logró una DMCI para el WOMAC -CF del 75%, la necesidad de posponer la cirugía genero alternativas de preservación articular y rentabilidad económica como el estudio KARS,
+
+39
+en el Hospital se realizan medidas de viscosuplementación con el objetivo de aplazar el reemplazo articular (14). Contar una herramienta fácil de aplicar con seguimiento a largo plazo tipo calculadora de riesgo (10) que incluya P.R.O.Ms (29) puede ayudar a crear un programa integral de O.A, para mejorar la satisfacción del paciente y optimizar recursos.
+En cuanto a las hipótesis planteadas en la presente investigación se observa que hipótesis tales como la relación entre tiempo quirúrgico y estancia hospitalaria postquirúrgica, no existe significancia con el WOMAC ni con el tipo de cirugía sea rodilla o cadera, concuerda con lo documento el protocolo E.R.A.S(1); tampoco se observó asociación con antecedentes de hipotiroidismo, ni con diabetes como si lo refiere un metaanálisis por reducir la función física y C.V.R.S (15). Se logro una D.M.C.I en el 90% de cada subgrupo, el dolor postquirúrgico es mayor en el género femenino, hallazgo que coincide con Hernández C (5), también en el presente estudio la DMCI la alcanzó todo el género masculino, en otro estudio (18) el género femenino se asocia en el preoperatorio con resultados no favorables, para osteoartritis de rodilla con el cuestionario (KOOS) de síntomas de dolor y actividades de la vida diaria.
+
+40
+7. Conclusiones
+● En conclusión, los reemplazos articulares son más frecuente en personas mayores de 55 años, la mejoría en la calidad de vida específica para cadera o rodilla en cada uno de los dominios del cuestionario W.O.M.A.C lograron alcanzar una diferencia estadística significativa con respecto al antes y una diferencia mínima clínicamente importante (DMCI) para la subescala de capacidad funcional (CF) del W.O.M.A.C en un 90%. Coincide con lo reportando en otro estudio aproximadamente un 18-30% de insatisfacción para rodilla y un 7-11% para cadera (28).
+● El factor prequirúrgico como el género se asoció con dolor posquirúrgico en R.P.R. El género también se asoció con capacidad funcional para toda la población estudiada. El tiempo quirúrgico, la estancia hospitalaria posterior no se asocian con el tipo de cirugía sea cadera o rodilla, pero la edad sí. Las pruebas psicométricas necesarias para analizar siguen siendo un desafío dado a lo subjetivo de la percepción de cada paciente y de los D.S.S que crea la necesidad de trans-culturalizar los P.R.O.Ms.
+● Se pudo evidenciar que la tasa de reingreso es baja en ambos procedimientos, la educación prequirúrgica entre otras estrategias del ERAS es efectiva. La optimización de los factores de riesgo y la recuperación posquirúrgica podría mejorar el 10% que no alcanzaron una D.M.C.I. Sin embargo, se debe explorar las razones de una no mejoría clínica en la C.V.R.S para determinar si el dolor es consecuencia directa de la cirugía, resultante de condiciones médicas asociadas de tipo osteomuscular, o debido a complicaciones posteriores de condiciones médicas u otros factores socioeconómicos.
+
+41
+8. Recomendaciones
+● Realizar atención oportuna por consulta externa a los pacientes con osteoartritis, con énfasis en rodilla o cadera, que permita conocer y realizar seguimiento a la evolución de la severidad, con el fin de implementar medidas orto-biológicas, que eviten la progresión de esta, o la definición de manejo quirúrgico oportuno dado a que favorece buenos resultados, evitando gastos en el sistema de salud.
+● Caracterizar la población actual del estudio para continuar seguimiento a largo plazo, en cada grupo de cadera o rodilla, y con base en esta, elaborar un plan de seguimiento, teniendo en cuenta las particularidades de cada cirugía, que permitan la recuperación fisiológica desde el punto de vista de la capacidad funcional o detectar y tratar interdisciplinariamente a tiempo un reemplazo de doloroso en caso de persistir con dolor posterior al año.
+● Implementar desde el equipo de alto desempeño en las áreas de reemplazos y preservación articular, jornadas de reencuentro para realizar seguimiento con el equipo de fisioterapia, a través de las cuales se promueva la realización de ejercicio físico acorde a la evolución y se valoren escalas de funcionalidad, evitando así a futuro una reintervención.
+● Realizar análisis de cada uno de los pacientes en la Junta de reemplazos articulares y definición operativa J.U.R.A.D.O, que permita conocer los posibles factores de riesgo asociados a una no mejoría en calidad de vida y con base en los hallazgos encontrados, se cree un plan de trabajo encaminado a eliminar el factor como la exposición a fumar como lo recomienda el protocolo E.R.A.S. Mitigar el riesgo a su mínima expresión, controlando factores psicológicos y comorbilidades previamente.
+Conflicto de interés
+Ninguno reportado
+Financiación
+Ninguna reportada
+
+42
+
+9. Bibliografía
+
+1. Wainwright TW, Gill M, McDonald DA, Middleton RG, Reed M, Sahota O, et al. Consensus statement for perioperative care in total hip replacement and total knee replacement surgery: Enhanced Recovery After Surgery (ERAS®) Society recommendations. Acta Orthop [Internet]. 2020;91(1):3–19. Disponible en: https://pubmed.ncbi.nlm.nih.gov/31663402/
+
+2. Grassi A, Golinelli D, Tedesco D, Rolli M, Bordini B, Amabile M, et al. Patient-
+
+reported outcome measures (PROMs) after elective hip, knee and shoulder
+
+arthroplasty: protocol for a prospective cohort study. BMC Musculoskelet Disord
+
+[Internet].
+
+2015
+
+;20(1).
+
+Disponible
+
+en:
+
+https://bmcmusculoskeletdisord.biomedcentral.com/articles/10.1186/s12891-019-
+
+2745-3
+
+3. Londoño J, Peláez Ballestas I, Cuervo F, Angarita I, Giraldo R, Rueda JC, et al. Prevalencia de la enfermedad reumática en Colombia, según estrategia COPCORD-Asociación Colombiana de Reumatología. Estudio de prevalencia de enfermedad reumática en población colombiana mayor de 18 años. Rev Colomb Reumatol [Internet]. 2018;25(4):245–56. Disponible en: https://www.elsevier.es/esrevista-revista-colombiana-reumatologia-374-articulo-prevalencia-enfermedadreumatica-colombia-segun-S0121812318300951
+
+4. Rábago C, Waimann CA, Marengo MF, Martínez J, Menón M, Ivernizzi B, et al.
+
+Eficacia y costo-utilidad de primer reemplazo total de cadera y rodilla en pacientes
+
+con osteoartritis. Revista Argentina Reumatología [Internet]. 2017;28(4): 9-17.
+
+Disponible
+
+en:
+
+https://ojs.reumatologia.org.ar/index.php/revistaSAR/article/view/547
+
+5. Hernández C, Díaz-Heredia J, Berraquero ML, Crespo P, Loza E, Ruiz Ibán MÁ.
+
+Factores predictores prequirúrgicos de dolor posquirúrgico en pacientes sometidos
+
+a artroplastia de cadera o rodilla. Una revisión sistemática. Reumatol Clínica
+
+[Internet].
+
+2015;11(6):361–80.
+
+Disponible
+
+en:
+
+http://www.reumatologiaclinica.org/es-factores-predictores-prequirurgicos-dolor-
+
+posquirurgico-articulo-S1699258X14002629
+
+6. Donado Gómez JH, Jiménez Cotes EA, Cardona LM. Diferencia mínima clínicamente importante en algunas escalas de medición utilizadas en enfermedades musculoesqueléticas. Rev Colomb Reumatol [Internet]. 2014;21(3):125–32. Disponible en: https://www.elsevier.es/es-revista-revistacolombiana-reumatologia-374-articulo-diferencia-minima-clinicamente-importantealgunas-S0121812314701604
+
+7. Goh GS, Tarabichi S, Baker CM, Qadiri QS, Austin MS. Should We Aim to Help
+
+43
+
+Patients “Feel Better” or “Feel Good” After Total Hip Arthroplasty? Determining
+
+Factors Affecting the Achievement of the Minimal Clinically Important Difference
+
+and Patient Acceptable Symptom State. J Arthroplasty. 2023;38(2):293–9.
+
+Disponible
+
+en:
+
+https://www.sciencedirect.com/science/article/abs/pii/S0883540322007549?dgcid
+
+=raven_sd_recommender_email
+
+8. Cella D, Hays RD. A Patient Reported Outcome Ontology: Conceptual Issues and Challenges Addressed by the Patient-Reported Outcomes Measurement Information System® (PROMIS®). Patient Relat Outcome Meas [Internet]. 2022; 13:189. Disponible en: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9390886/
+
+9. Escobar A, Quintana JM, Bilbao A, Azkárte J, Güenaga LI. Validation of the
+
+Spanish version of the WOMAC questionnaire for patients with hip or knee
+
+osteoarthritis. Western Ontario and McMaster Universities Osteoarthritis Index. Clin
+
+Rheumatol
+
+[Internet].
+
+2002;21(6):466–71.
+
+Disponible
+
+en:
+
+https://pubmed.ncbi.nlm.nih.gov/12447629/
+
+10. Goltz DE, Baumgartner BT, Politzer CS, DiLallo M, Bolognesi MP, Seyler TM. The American College of Surgeons National Surgical Quality Improvement Program Surgical Risk Calculator Has a Role in Predicting Discharge to Post-Acute Care in Total Joint Arthroplasty. J Arthroplasty [Internet]. 2018;33(1):25–9. Disponible en: http://www.arthroplastyjournal.org/article/S0883540317306976/fulltext
+
+11. Magaway CL, Malanga G. Patient registries in orthopedics and orthobiologic
+
+procedures: a narrative review. BMC Musculoskelet Disord [Internet].
+
+2022;23(1):1–13. Disponible
+
+en:
+
+https://bmcmusculoskeletdisord.biomedcentral.com/articles/10.1186/s12891-022-
+
+05416-4
+
+12. Donnelly KM, Theriot HG, Bourgeois JP, Chapple AG, Krause PC, Dasa V. Lack of
+
+Demographic Information in Total Hip Arthroplasty/Total Knee Arthroplasty
+
+Randomized Controlled Trial Publications. J Arthroplasty [Internet]. 2022;38
+
+(3):573-577.
+
+Disponible
+
+en:
+
+https://www.sciencedirect.com/science/article/abs/pii/S0883540322009275
+
+13. Garriga XM. Definición, etiopatogenia, clasificación y formas de presentación. Atención Primaria [Internet]. 2014;46(SUPPL 1):3–10. Disponible en: https://www.elsevier.es/es-revista-atencion-primaria-27-articulo-definicionetiopatogenia-clasificacion-formas-presentacion-S021265671470037X
+
+14. Tassinari CJ, Higham R, Smith IL, Arnold S, Mujica-Mota R, Metcalfe A, et al. Protocol: Clinical and cost-effectiveness of Knee Arthroplasty versus Joint
+
+44
+Distraction for Osteoarthritis (KARDS): protocol for a multicentre, phase III, randomised control trial. BMJ Open [Internet]. 2022;12(6):e062721. Disponible en: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9247693/.
+15. Na A, Oppermann LM, Jupiter DC, Lindsey RW, Coronado RA. Diabetes Mellitus Blunts the Symptoms, Physical Function, and Health-Related Quality of Life Benefits of Total Knee Arthroplasty: A Systematic Review with Meta-analysis of Data from More Than 17 000 Patients. J Orthop Sports Phys Ther [Internet]. 2021;51(6):269–80. Disponible en: https://pubmed.ncbi.nlm.nih.gov/33870736/
+16. Ferguson R, Prieto-Alhambra D, Peat G, Delmestri A, Jordan KP, Strauss VY, et al. Does pre-existing morbidity influences risks and benefits of total hip replacement for osteoarthritis: a prospective study of 6682 patients from linked national datasets in England. BMJ Open [Internet]. 2021 Sep 23 [cited 2022 Sep 12];11(9). Disponible en: https://pubmed.ncbi.nlm.nih.gov/34556506/
+17. Kim YJ, Kim BR, Kim SR, Nam KW, Lee SY, Choi JH, et al. Influence of Comorbidities on Short-Term Functional Outcomes After Unilateral Total Knee Arthroplasty. Am J Phys Med Rehabil [Internet]. 2021;100(11):1062–9. Disponible en: https://pubmed.ncbi.nlm.nih.gov/33480606/
+18. Perez BA, Slover J, Edusei E, Horan A, Anoushiravani A, Kamath AF, et al. Impact of gender and race on expectations and outcomes in total knee arthroplasty. World J Orthop [Internet]. 2020; 11(5):265–77. Disponible en: https://pubmed.ncbi.nlm.nih.gov/32477903/
+19. Tilbury C, Holtslag MJ, Tordoir RL, Leichtenberg CS, Verdegaal SHM, Kroon HM, et al. Outcome of total hip arthroplasty, but not of total knee arthroplasty, is related to the preoperative radiographic severity of osteoarthritis. A prospective cohort study of 573 patients. Acta Orthop [Internet]. 2016;87(1):67–71. Disponible en: https://pubmed.ncbi.nlm.nih.gov/26484651/
+20. Sardi-Barona LA, Suárez-Caicedo OC, Campo-Ramírez MÁ, Alejandro EscobarVidal D, Guevara-Mendoza MF, Hurtado-Gutiérrez H. Efecto de un protocolo de rehabilitación sobre la funcionalidad y calidad de vida en pacientes con reemplazo total de rodilla. estudio de cohorte transversal. Rev Colomb Ortop y Traumatol [Internet]. 2021;35(3):280–8. Disponible en: https://www.elsevier.es/es-revistarevista-colombiana-ortopedia-traumatologia-380-articulo-efecto-un-protocolorehabilitacion-sobre-S0120884521000754
+
+45
+
+21. Charles-Lozoya S, Cobos-Aguilar H, Tamez-Montes JC, Brizuela-Ventura JM, Rangel-Valenzuela JM, García-Hernández A. Obesity, depression, and factors associated to the quality of life in total knee arthroplasty. Cir Cir [Internet]. 2020;88(2):143–9. Disponible en: https://pubmed.ncbi.nlm.nih.gov/32116316/
+
+22. Martinez-Cano JP, Herrera-Escobar JP, Arango Gutierrez AS, Sanchez Vergel A, Martinez-Rondanelli A. Prospective quality of life assessment after hip and knee arthroplasty: short- and mid-term follow-up results. Arthroplast today [Internet]. 2016;3(2):125–30. Disponible en: https://pubmed.ncbi.nlm.nih.gov/28695185/
+
+23. Hershkovitz A, Vesilkov M, Beloosesky Y, Brill S. Characteristics of Patients with Satisfactory Functional Gain Following Total Joint Arthroplasty in a Postacute Rehabilitation Setting. J Geriatr Phys Ther [Internet]. 2018;41(4):187–93. Disponible en: https://pubmed.ncbi.nlm.nih.gov/28079634/
+
+24. Miettinen HJA, Mäkirinne-Kallio N, Kröger H, Miettinen SSA. Health-Related
+
+Quality of Life after Hip and Knee Arthroplasty Operations. Scand J Surg [Internet].
+
+2021;110(3):427–33.
+
+Disponible
+
+en:
+
+https://journals.sagepub.com/doi/10.1177/1457496920952232?url_ver=Z39.88-
+
+2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed
+
+25. Sabah SA, Knight R, Alvand A, Beard DJ, Price AJ. Early patient-reported outcomes from primary hip and knee arthroplasty have improved over the past seven years. [Internet]. 2022;104-B(6):687–95. Disponible en: https://online.boneandjoint.org.uk/doi/abs/10.1302/0301-620X.104B6.BJJ-20211577.R1
+
+26. Schwartz AM, Farley KX, Guild GN, Bradbury TL. Projections and Epidemiology of
+
+Revision Hip and Knee Arthroplasty in the United States to 2030. J Arthroplasty.
+
+2020;35(6):
+
+S79–85.
+
+Disponible
+
+en:
+
+https://www.arthroplastyjournal.org/article/S0883-5403(20)30191-1/fulltext
+
+27. Kwasny MJ, Edelstein AI, Manning DW. Statistical methods dictate the estimated
+
+impact of body mass index on major and minor complications after total joint
+
+arthroplasty. Clin Orthop Relat Res [Internet]. 2018 [cited 2022 Nov
+
+18];476(12):2418–29.
+
+Disponible
+
+en:
+
+https://journals.lww.com/clinorthop/Fulltext/2018/12000/Statistical_Methods_Dicta
+
+te_the_Estimated_Impact.22.aspx
+
+28. Mantilla M, Stangl-Correa P, Stangl-Herrera W, Cantor E, Echeverry-Vélez A,
+Palacio JC. Validación al español del instrumento Self-Administered Patient Satisfaction Scale (SAPS) para reemplazo total de cadera o de rodilla. Rev la Asoc Argentina Ortop y Traumatol [Internet]. 2022 Dec 31;87(6):765–71. Disponible en: https://raaot.org.ar/index.php/AAOTMAG/article/view/1535/4998
+
+29. López Alonso SR, Martínez Sánchez CM, Romero Cañadillas AB, Navarro Casado
+
+46
+
+F, González Rojo J. Propiedades métricas del cuestionario WOMAC y de una
+
+versión reducida para medir la sintomatología y la discapacidad física. Atención
+
+Primaria
+
+[Internet].
+
+2009;41(11):613–620.
+
+Disponible
+
+en:
+
+https://www.elsevier.es/es-revista-atencion-primaria-27-articulo-propiedades-
+
+metricas-del-cuestionario-womac-S0212656709002029
+
+47
+
+Apéndice A. Escala W.O.M.A.C
+
+10. Apéndices
+
+Fuente: Fue extraído de “Propiedades métricas del cuestionario WOMAC y de una versión reducida para medir la sintomatología y la discapacidad física” y elaborado por López Alonso SR, Martínez Sánchez CM, Romero Cañadillas AB, Navarro Casado F, González Rojo J (29)
+
+48
+
+Apéndice B. Formato de J.U.R.A.D.O S.E. S hospital de caldas
+
+Junta de Reemplazos Articulares y Definición Operativa-J.U.R.A.D. O
+
+Paciente:
+
+Sexo
+
+F:
+
+M:
+
+Fecha de nacimiento/Edad Ocupación: Labora o no; pensionado, estudiante, Ama de casa
+1. Definir riesgo quirúrgico
+
+AA/MM/DD
+Afiliación a salud: Contributivo, Subsidiado, Excepción, Especial, No asegurado, Sin dato
+
+subsidiado
+
+ASA:
+
+Grupta: en
+
+LEE: I (0
+
+I (Saludable), II
+
+porcentaje
+
+factor de
+
+(Enf. Sist. Leve),
+
+del riesgo de
+
+riesgo -
+
+III (Enf. Sist.
+
+infarto o paro
+
+bajo, II (1
+
+Grave), IV
+
+cardiaco
+
+factor de
+
+(Amenaza vida),
+
+perioperatorio
+
+riesgo-
+
+V (Moribundo), VI
+
+moderado),
+
+(Muerte cerebral)
+
+III (2
+
+factores de
+
+riesgo-
+
+alto), IV (3
+
+o más
+
+factores de
+
+riesgo-
+
+muy alto)
+
+2. Escala funcional W.O.M.A.C puntajes de cada dominio y total prequirúrgico o día de
+
+asistencia a JURADO: Consta de 24 ítems, que evalúan 3 dimensiones o apartados: •
+
+Dolor (5 ítems) (0-20) • Rigidez (2 ítems) (0-8) • Capacidad funcional (17 ítems) (0-68).
+
+Cada ítem contiene 5 niveles: • Ninguno = 0 • Poco = 1 • Bastante = 2 • Mucho = 3 •
+
+Muchísimo = 4. Puntaje total: 0-96
+
+Dolor
+
+Rigidez
+
+Capacidad
+
+Funcional
+
+Total:
+
+3. Terapias físicas guiadas recibidas
+
+Total:
+
+previamente
+
+4. Tratamiento analgésico previo: medicamentos si
+
+no
+
+(acetaminofén), orto- biológicos: (plasma rico en
+
+plaquetas (PRP), el concentrado de aspirado de
+
+médula ósea (BMAC) y el tejido adiposo micro
+
+fragmentado (MFAT)) infiltración (esteroide, visco
+
+suplementación ácido hialuronato)
+
+5. Escala funcional W.O.M.A.C puntajes de cada dominio y total postquirúrgico
+
+(tomado de historias clínicas a los 6 meses):
+
+Dolor
+
+Rigidez
+
+Capacidad
+
+Funcional
+
+Total:
+
+6. Comorbilidades
+
+Peso
+
+Talla
+
+IMC
+
+49
+
+Diabetes
+
+Hipotiroidismo Enfermedad renal crónica
+
+Hipertensión
+
+Cáncer
+
+Enfermedad coronaria
+
+7. Clasificación Radiológica: Tonnis cadera: 0 (sin signos de artrosis) 1 (esclerosis subcondral) 2(quistes pequeños) 3(quistes grandes). Kellgren y Lawrence (KL) rodilla: 0 (ausencia de artrosis) 1(Dudosa) 2(Mínima) 3 (Moderada) 4 (Severa)
+
+Insuficiencia cardiaca Trombosis
+
+8. Estancia hospitalaria
+9.Complicaciones mayores y/o Menores: mayores: (infección profunda del sitio quirúrgico
+(ISQ), embolia pulmonar, accidente cerebrovascular, paro cardíaco, infarto de miocardio, ruptura de heridas, falla del implante, intubación no planificada, > 48 horas en un ventilador, insuficiencia renal aguda, coma, sepsis, Re-operación o mortalidad) menores (ISQ superficial, neumonía, infección del tracto urinario, trombosis venosa profunda o lesión de nervio
+periférico)
+Fuente: Datos consignados en las historias clínicas del S.E.S hospital de caldas en la junta de reemplazos articulares y definición operativa.
+
+50
+
+Apéndice C. Operacionalización de las variables
+
+Variable
+
+Definición
+
+Naturaleza
+
+Preoperatorias
+
+Edad
+
+Edad del paciente en el
+
+momento de la intervención
+
+quirúrgica, en años cumplidos
+
+según fuentes primarias o
+
+calculada entre fecha de
+
+nacimiento y fecha de cirugía
+
+Sexo
+
+Sexo biológico del paciente,
+
+según copia del documento de
+
+identidad en HC
+
+Determinante Social
+
+Afiliación a la Régimen de aseguramiento en
+
+salud
+
+salud ó afiliación a salud
+
+(régimen contributivo para
+
+trabajadores formales y
+
+régimen subsidiado para
+
+quienes no tienen capacidad
+
+de pago)
+
+Determinante Biológico
+
+Riesgo cardiovascular preoperatorio
+
+La American Society of Anesthesiologist ASA describe una escala que estadifica el estado de salud preoperatorio e indica el riesgo anestésico y/o quirúrgico, incluye 6 rubros
+
+Independiente Independiente Independiente
+Independiente
+
+Comorbilidades otras enfermedades crónicas Independiente
+
+Operatorias Reemplazo primario
+Postoperatorias Estancia
+Complicaciones
+
+Postquirúrgico de Reemplazo primario de rodilla (R.PR) ó Reemplazo primario de cadera (R.P.C)
+Fecha de inicio y terminación de estancia hospitalaria luego del POP Mayores (infección profunda del sitio quirúrgico (ISQ), embolia pulmonar, accidente
+
+Dependiente
+Independiente Independiente
+
+Valores finales
+Años cumplidos
+
+Nivel de medición
+Cuantitativa de razón
+
+Masculino Femenino
+
+Cualitativa nominal dicotómica
+
+Contributivo Subsidiado
+
+Cualitativa nominal dicotómica
+
+I (Saludable)
+II (Enf. Sist. Leve)
+III (Enf. Sist. Grave)
+IV (Amenaza vida)
+V (Moribundo) VI (Muerte
+cerebral)
+Hipertensión
+DM Hipotiroidism o Fumador
+
+Cualitativa ordinal
+Cualitativa nominal politómica
+
+R.P. R R.P.C
+Días cumplidos Mayores Menores
+
+Cualitativa nominal politómica (fecha)
+Cuantitativa de razón continua
+Cualitativa nominal dicotómica
+
+Cuestionario
+
+cerebrovascular,
+
+paro
+
+cardíaco,
+
+infarto de miocardio, ruptura
+
+de heridas, falla del implante,
+
+intubación no planificada, > 48
+
+horas en un ventilador,
+
+insuficiencia renal aguda,
+
+coma, sepsis, Re-operación o
+
+mortalidad) y menores (ISQ
+
+superficial,
+
+neumonía,
+
+infección del tracto urinario,
+
+trombosis venosa profunda o
+
+lesión de nervio periférico)
+
+WOMAC
+
+WOMAC dolor WOMAC rigidez
+
+Puntuación tabla A, dolor es el síntoma más común que se encuentra en la articulación afectada (5 ítems) (0-20)
+Puntuación tabla B; síntoma particular de la artrosis que aparece luego de un período de reposo y existe también rigidez matutina (2 ítems) (0-8)
+
+Dependiente Dependiente
+
+WOMAC capacidad funcional
+
+Puntuación
+
+tabla
+
+C,
+
+características individuales de
+
+las personas, determinantes
+
+en la condición física (17
+
+ítems) (0-68)
+
+Dependiente
+
+Fuente: Elaboración propia.
+
+51
+
+Cuestionario prequirúrgico y de control al año POP
+Cuestionario prequirúrgico y de control al año POP
+
+Cualitativa ordinal
+Cualitativa ordinal
+
+Cuestionario prequirúrgico y de control al año POP
+
+Cualitativa ordinal

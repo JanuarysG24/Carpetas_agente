@@ -1,0 +1,237 @@
+Colelitiasis y colecistitis aguda Cholelithiasis and acute cholecystitis
+
+Colelitiasis y colecistitis aguda Cholelithiasis and acute cholecystitis
+María Isabel Benítez Espinosa Estudiante de medicina, miembro del Semillero de Investigación en Cirugía,
+Facultad de Medicina, Universidad de Antioquia.
+Santiago Escobar Céspedes Estudiante de Medicina, miembro del Semillero de Investigación en Cirugía,
+Facultad de Medicina, Universidad de Antioquia.
+Andrés Felipe Cárdenas Velásquez Cirujano general IPS universitaria León XIII, docente ocasional, Facultad de
+Medicina, Universidad de Antioquia.
+DOI: https://doi.org/10.59473/medudea.pc.2023.56
+¿Qué es importante repasar antes de leer este capítulo?
+● Formación, secreción y almacenamiento de la bilis. ● Anatomía del árbol biliar. ● Examen físico de la región abdominal
+Los objetivos de esta lectura serán:
+● Afianzar los conocimientos acerca de la epidemiología de la colelitiasis y la colecistitis aguda, así como los factores de riesgo asociados a su aparición.
+● Identificar signos y síntomas que sugieran la presencia de cálculos biliares en la vesícula y los criterios para definir sus complicaciones.
+● Reconocer los criterios usados para definir la gravedad de las complicaciones de la colelitiasis en caso de presentarse.
+● Reconocer las herramientas diagnósticas disponibles y el manejo adecuado en los pacientes con colelitiasis y en aquellos con colecistitis aguda.
+
+Palabras clave: Enfermedades de las Vías Biliares, Cálculos Biliares, Vesícula Biliar, Conductos Biliares, Colelitiasis, Colecistitis Aguda. Keywords: Biliary Tract Diseases, Gallstones, Gallbladder, Bile Ducts, Cholelithiasis, Acute Cholecystitis. Cómo citar este artículo: Benítez MI, Escobar S, Cárdenas AF. Colelitiasis y colecistitis aguda. [Internet]. Medellín: Perlas Clínicas, Facultad de Medicina, Universidad de Antioquia; 2021 [acceso día de mes de año]. DOI: https://doi.org/10.59473/medudea.pc.2023.56
+1. VIÑETA CLÍNICA
+Paciente femenina de 49 años, independiente en su ABC básico y avanzado, con antecedente personal de obesidad, dislipidemia mixta y diabetes mellitus tipo 2 insulino-requirente quien consulta al servicio de urgencias por cuadro de 8 horas de evolución consistente en dolor abdominal tipo cólico en cuadrante superior derecho de intensidad 8/10 irradiado a la espalda que no modifica su intensidad con el movimiento, el dolor está asociado a fiebre subjetiva y náuseas. Al examen físico se encuentra signo de Murphy positivo y sensibilidad a la palpación superficial en abdomen superior.
+2. INTRODUCCIÓN
+La colelitiasis o litiasis vesicular se define como la presencia de cálculos en la vesícula biliar, mientras que la colecistitis aguda hace referencia a una entidad clínica caracterizada por la inflamación de la pared vesicular, causada en el 90 % de los casos por obstrucción asociada a cálculos biliares; al ser una la complicación de la otra, se presentará a continuación la epidemiología, presentación clínica, diagnóstico y tratamiento apropiado de cada condición por separado, con énfasis en la historia natural de la enfermedad (1).
+
+Colelitiasis Generalidades y epidemiología La litiasis biliar es una de las principales enfermedades digestivas en la actualidad. Se estima que entre 10 y 20 % de los adultos en los Estados Unidos presentará esta condición a lo largo de su vida. Se estima que el 80 % son presentaciones silentes, y entre 2 a 3 % tendrá complicaciones entre las que se encuentran la colecistitis aguda, coledocolitiasis, colangitis y carcinoma de la vesícula biliar (2).
+En función a su composición se pueden diferenciar 3 tipos de cálculos: cálculos de colesterol que representan el 75-80 %, cálculos de pigmentos marrones (15-20 %) formados principalmente por sales de calcio de bilirrubina no conjugada y cálculos de pigmentos negros (1-5 %) asociados típicamente a hemolisis crónica, cirrosis y pancreatitis, y cuyo componente principal es el bilirrubinato cálcico. Los cálculos de colesterol y los de pigmentos negros se forman en la vesícula, mientras que los cálculos de pigmentos marrones pueden originarse en el árbol biliar y en la vesícula, como resultado de infecciones anaerobias de la bilis e infestaciones parasitarias (2).
+Para la formación de los cálculos biliares existen factores de riesgo modificables y no modificables, entre los primeros podemos encontrar la obesidad, perímetros abdominales aumentados, sedentarismo, dietas hipergrasas, diabetes insulino-requirente, hipertrigliceridemia o pérdida rápida de peso. Entre los factores no modificables está el sexo femenino, la edad superior a 40 años, embarazo, multiparidad y la etnia, este último con mayor prevalencia en personas con ascendencia amerindia (1).
+
+Colelitiasis asintomática Esta presentación representa el 80 % de los casos y frecuentemente se diagnostican incidentalmente al ordenar ecografías abdominales por otros motivos. Debido a que el riesgo anual de desarrollar síntomas es del 2 % y la incidencia de complicaciones es muy baja en estos pacientes, no es necesario realizar colecistectomía profiláctica en todos los casos; sin embargo, existen varias excepciones en las que podría plantearse el beneficio de realizarla, por ejemplo:
+● Pacientes con alto riesgo de desarrollar cáncer de vesícula: o Existencia de pólipos vesiculares con crecimiento rápido o mayor de 1 cm. o Vesícula en porcelana. o Cálculo mayor de 3 cm. o Mujer joven de origen amerindio.
+● Pacientes con riesgo mayor de desarrollar síntomas: o Joven con anemia drepanocítica. En estos pacientes las crisis de dolor abdominal podrían hacer difícil el diagnóstico diferencial con un cólico biliar o una colecistitis aguda (1). o Se sabe que la colelitiasis asintomática acumula un riesgo anual del 1 % de desarrollar complicaciones, por lo que se deberían llevar a colecistectomía laparoscópica a todos los pacientes con una expectativa mayor a 20-30 años.
+Colelitiasis sintomática no complicada El único síntoma característico de la colelitiasis es el cólico biliar simple, producido por la obstrucción intermitente del conducto cístico por un cálculo; es un dolor constante tipo cólico en el abdomen superior, a veces más localizado en cuadrante superior derecho que no modifica su intensidad con el movimiento o la posición, a veces se irradia a la espalda y tiene una duración de entre 30 min y 6 horas con un
+
+promedio de 1 hora. Las recurrencias son frecuentes y pueden tener desde horas de diferencia hasta años, en algunos pacientes tiene predominio nocturno, así como también hay pacientes que manifiestan dolor postprandial. Se pueden encontrar otros síntomas asociados como náuseas, intolerancia a comidas hipergrasas o sensación de llenura (1,3).
+El patrón de referencia para el diagnóstico de esta entidad es la ecografía abdominal y es la única exploración necesaria para identificar la presencia de cálculos biliares en la vesícula biliar, con una sensibilidad y especificidad superior al 95 %; en caso de que esta fuese negativa y aún se mantenga la sospecha, se podría repetir el procedimiento, y de permanecer el resultado negativo se podría utilizar la ecoendoscopia como herramienta diagnóstica (1,3).
+Con los síntomas y la confirmación por ecografía se debe proponer la colecistectomía diferida debido al riesgo aumentado de recurrencias y complicaciones. El tratamiento no quirúrgico presenta baja eficacia y altas tasas de recurrencia, por lo tanto, solo debe ofrecerse en pacientes con alto riesgo quirúrgico o que no quieran someterse a cirugía. El manejo médico más utilizado es el tratamiento oral disolutivo con ácido ursodesoxicólico, que disuelve los cálculos, disminuye la secreción biliar de colesterol y satura la bilis. El tratamiento se mantiene hasta que se comprueba la disolución de los cálculos en dos ecografías consecutivas realizadas en un intervalo de un mes y se debe interrumpir si no es bien tolerado por el paciente, si presenta complicaciones de la colelitiasis o si los cálculos no se han disuelto en 6 meses. Esta opción tiene éxito en un 20-70 % de los pacientes tratados, con un riesgo de recaída del 50 % a los 5 años (1).
+Colecistitis aguda Generalidades y epidemiología La colecistitis aguda (CA) es una entidad clínica caracterizada por la inflamación de la pared vesicular. Su mortalidad global está en torno al 10 % y es mayor en las
+
+formas acalculosas, en pacientes con una edad igual o superior a los 75 años y en presencia de comorbilidades.
+El síntoma principal es el dolor abdominal agudo y constante en el cuadrante superior derecho, de duración mayor de 5 horas, típicamente irradiado a la espalda, se acompaña frecuentemente de náuseas, vómitos y fiebre que oscila entre 37,5 ºC y 39 ºC. En la exploración física destaca un área de hipersensibilidad en hipocondrio derecho y la palpación manual durante la inspiración profunda a ese nivel produce dolor y cese inspiratorio (signo de Murphy). En pacientes ancianos, especialmente si son diabéticos, el cuadro clínico puede no ser típico y es habitual que el enfermo no manifieste dolor, por lo que es preciso un elevado índice de sospecha (1).
+Criterios diagnósticos: A. Signos locales de inflamación:
+● Signo de Murphy. ● Masa/ dolor/ sensibilidad en cuadrante superior derecho.
+B. Signos sistémicos de inflamación: ● Fiebre. ● PCR elevada. ● Recuento de leucocitos elevado.
+C. Hallazgos en imagen característicos de colecistitis aguda. ● Diagnóstico sospechado: un ítem A + un ítem B ● Diagnóstico definitivo: un ítem A + un ítem B + C (4).
+Métodos diagnósticos ● La ecografía es el método de imagen de primera elección para el diagnóstico morfológico de la colecistitis aguda.
+
+● La resonancia magnética (RM)/colangiopancreatografía por resonancia magnética (CPRM) es útil para diagnosticar colecistitis aguda y solo se recomienda si la ecografía abdominal no proporciona un diagnóstico definitivo.
+● Para la colecistitis gangrenosa se recomienda la tomografía computarizada (TC) con contraste o la RM con contraste.
+● Hallazgos específicos en la TC: engrosamiento irregular de la pared de la vesícula biliar, realce deficiente del contraste de la pared de la vesícula biliar (signo del borde interrumpido), aumento de la densidad del tejido graso alrededor de la vesícula biliar, gas en la luz o pared de la vesícula biliar, estructuras membranosas en el interior de la vesícula biliar (colgajo o membrana), y absceso perivesicular.
+● La colecistitis gangrenosa se clasifica como colecistitis aguda moderada (grado II) según la clasificación de gravedad de la Guía Tokio 2013 (TG13), y es una afección grave que puede causar daño orgánico si se retrasa el diagnóstico.
+● Para la colecistitis enfisematosa también se recomienda la TC. Una evaluación precisa de la presencia de gas dentro de la pared de la vesícula biliar es importante para el diagnóstico de colecistitis enfisematosa; sin embargo, en la ecografía abdominal es difícil distinguir entre gas intramural, que parece hiperecogénico, y vesícula biliar de porcelana. Como a veces se encuentra presente gas dentro de la luz de la vesícula biliar después de una cirugía biliar o esfinterotomía, es importante distinguir entre gas intraluminal e intramural, pero esto puede ser difícil de diagnosticar correctamente mediante ecografía abdominal. El gas aparece claramente hipodenso en la TC, lo que hace que la detección sea extremadamente fácil. El gas intramural también suele estar presente en la colecistitis gangrenosa. Se debe considerar la TC con contraste para la evaluación de complicaciones como absceso intraperitoneal y peritonitis (4).
+
+Escala de severidad ● Colecistitis aguda de grado III (grave)
+La colecistitis aguda de "grado III" se asocia con la disfunción de cualquiera de los siguientes órganos/sistemas:
+o Disfunción cardiovascular: hipotensión que requiere tratamiento con dopamina ≥5 μg/kg por minuto o cualquier dosis de norepinefrina.
+o Disfunción neurológica: disminución del nivel de conciencia. o Disfunción respiratoria: relación PaO2/FiO2 <300. o Disfunción renal: oliguria, creatinina >2,0 mg/dL. o Disfunción hepática: PT-INR >1,5 o Disfunción hematológica: recuento de plaquetas <100.000/mm3.
+● Colecistitis aguda de grado II (moderada)
+La colecistitis aguda de "grado II" se asocia con cualquiera de las siguientes afecciones:
+o Recuento de leucocitos elevado (>18.000/mm3). o Masa sensible palpable en el cuadrante abdominal superior derecho. o Duración de las quejas >72 h. o Inflamación local marcada (colecistitis gangrenosa, absceso
+pericolequístico, absceso hepático, peritonitis biliar, colecistitis enfisematosa).
+● Colecistitis aguda de grado I (leve)
+La colecistitis aguda "Grado I" no cumple con los criterios de colecistitis aguda "Grado III" o "Grado II". Se puede definir como colecistitis aguda en un paciente sano sin disfunción orgánica y cambios inflamatorios leves en la vesícula biliar, lo que hace que la colecistectomía sea un procedimiento quirúrgico seguro y de bajo riesgo (4).
+
+Tratamiento Mientras se consideran las indicaciones para la cirugía y el drenaje de emergencia, se debe considerar hacer una corrección de electrolitos y administración de antibióticos y analgésicos en ayuno en caso de ser necesario, con el control respiratorio y hemodinámico continuo.
+Según el grado de gravedad se recomiendan los siguientes tratamientos: o Grado I (leve): idealmente, la colecistectomía laparoscópica (ColeLap) debe realizarse poco después del inicio si las puntuaciones de ICC (Índice de Comorbilidad de Charlson) y ASA-PS (Clasificación del Estado físico de la Sociedad Estadounidense de Anestesiólogos) sugieren que el paciente puede soportar la cirugía. Si se decide que el paciente no puede soportar la cirugía, se debe realizar un tratamiento conservador al principio y se debe considerar la cirugía diferida una vez que se observe que el tratamiento surte efecto.
+o Grado II (moderado): idealmente, la ColeLap debe realizarse poco después del inicio si las puntuaciones de ICC y ASA-PS sugieren que el paciente puede soportar la cirugía y el paciente se encuentra en un centro quirúrgico avanzado. Sin embargo, se debe tener especial cuidado para evitar lesiones durante la cirugía y se debe considerar un cambio a colecistectomía abierta o subtotal según los hallazgos. Si se decide que el paciente no puede soportar la cirugía, se debe considerar el tratamiento conservador y el drenaje biliar.
+o Grado III (grave): se debe determinar el grado de disfunción orgánica y se debe intentar normalizar la función a través del soporte sistémico, junto con la administración de antimicrobianos. Los médicos deben investigar los factores predictivos, es decir, una rápida recuperación de la disfunción circulatoria o renal después de iniciado el tratamiento, y las puntuaciones de ICC o ASA-PS; si se decide que el paciente puede
+
+resistir la cirugía, un cirujano especialista con amplia experiencia puede realizar la ColeLap tempranamente en un entorno que permita el manejo de cuidados intensivos. Si se decide que el paciente no puede soportar la cirugía, se debe realizar un tratamiento conservador que incluya un manejo integral. Se debe considerar el drenaje biliar temprano si no es posible controlar la inflamación de la vesícula biliar (5).
+
+Índice de Comorbilidad de Charlson (ICC) El ICC categoriza las comorbilidades del paciente según los códigos de la Clasificación Internacional de Enfermedades (CIE). A cada categoría comórbida se le asigna una ponderación (1-6) en función del riesgo ajustado por los recursos utilizados o la tasa de mortalidad. Una puntuación de cero (0) muestra que no se descubrieron comorbilidades. A medida que aumenta la puntuación, aumenta la tasa de mortalidad prevista y el tratamiento requeriría más recursos sanitarios.
+
+Tabla 1. Índice de comorbilidad de Charlson.
+Peso asignado Condiciones para enfermedades
+
+1
+
+● Infarto de miocardio
+
+● Insuficiencia cardiaca congestiva
+
+● Enfermedad vascular periférica
+
+● Enfermedad cerebrovascular
+
+● Demencia
+
+● Enfermedad pulmonar crónica
+
+● Enfermedad del tejido conectivo
+
+● Enfermedad de úlcera péptica
+
+● Enfermedad leve del hígado
+
+● Diabetes mellitus (sin complicaciones)
+
+2
+
+● Hemiplejia
+
+● Enfermedad renal crónica moderada o grave
+
+● Diabetes mellitus con daño de órganos diana
+
+● Cualquier tumor sólido
+
+● Leucemia
+
+● Linfoma maligno
+
+3
+
+● Enfermedad hepática moderada o grave
+
+6
+
+● Tumor sólido metastásico
+
+● Síndrome de inmunodeficiencia adquirida (SIDA)
+
+*Adaptado de: (5). Escala de clasificación del estado físico de la Sociedad Estadounidense de Anestesiólogos (ASA-PS)
+El ASA-PS es un índice desarrollado por la Sociedad Estadounidense de Anestesiólogos para proporcionar una comprensión del estado de salud de un paciente antes de la cirugía.
+
+Tabla 2. Escala de clasificación del estado físico de la Sociedad Estadounidense de Anestesiólogos.
+
+Clasificación ASA-PS
+
+Definición
+
+Ejemplos
+
+ASA I
+
+Paciente normal.
+
+sano Consumo de alcohol saludable, para no fumadores, nulo o mínimo.
+
+ASA II
+
+Paciente enfermedad sistémica leve.
+
+con Enfermedades leves solo sin limitaciones funcionales sustanciales. Los ejemplos incluyen (pero no se limitan a): fumador actual, bebedor social de alcohol, embarazo, obesidad (30 <IMC <40), DM/HTA bien controlada, enfermedad pulmonar leve.
+
+ASA III
+ASA IV ASA V ASA VI
+
+Un paciente con enfermedad sistémica grave.
+
+Limitaciones funcionales sustantivas; una o más enfermedades de moderadas a graves. Los ejemplos incluyen (pero no se limitan a): DM o HTA mal controlados, EPOC, obesidad mórbida (IMC ≥40), hepatitis activa, dependencia o abuso del alcohol, marcapasos implantado, reducción moderada de la fracción de eyección, ERET que se somete a diálisis programada regularmente, lactante prematuro PCA <60 semanas, antecedentes (> 3 meses) de IM, ACV, AIT o EAC/stents.
+
+Un paciente con enfermedad sistémica grave que es una amenaza constante para la vida.
+
+Los ejemplos incluyen (pero no se limitan a): IM reciente (<3 meses), ACV, AIT o EAC/stents, isquemia cardiaca en curso o disfunción grave de la válvula, reducción severa de la fracción de eyección, sepsis, CID, DRA o ESRD que no se someten regularmente diálisis programada
+
+Un
+
+paciente
+
+moribundo que no
+
+se espera que
+
+sobreviva sin la
+
+operación.
+
+Los ejemplos incluyen (pero no se limitan a): rotura de aneurisma abdominal / torácico, trauma masivo, hemorragia intracraneal con efecto de masa, intestino isquémico ante una patología cardíaca significativa o disfunción de múltiples órganos / sistemas
+
+Un paciente con muerte cerebral declarada cuyos órganos se extraen con fines de donación
+
+*IMC: índice de masa corporal, DM: diabetes mellitus, HTA: hipertensión arterial,
+
+EPOC: enfermedad pulmonar obstructiva crónica, ERET: enfermedad renal en etapa terminal, PCA: persistencia del conducto arterioso, IM: infarto de miocardio, ACV: accidente cerebrovascular, AIT: accidente isquémico transitorio, EAC: enfermedad arterial coronaria, CID: coagulación intravascular diseminada, DRA: Diálisis de reinfusión de ascitis. *Adaptado de: (5).
+3. VIÑETA CLÍNICA (DESENLACE)
+Al sospechar colecistitis aguda se le ordenaron paraclínicos en donde se encontró leucocitosis y PCR elevada, adicionalmente se ordenó una ecografía abdominal donde se encontraron hallazgos que confirmaban el diagnóstico de colecistitis aguda, fue clasificada como grado I y se planteó el manejo quirúrgico con colecistectomía.
+4. MENSAJES INDISPENSABLES
+● El cólico biliar puede ser la única manifestación de una colelitiasis, y un alto grado de sospecha asociado a los factores de riesgo es crucial para el diagnóstico.
+● La ecografía es el patrón de referencia para el diagnóstico de la colelitiasis y de la colecistitis aguda.
+● El tratamiento quirúrgico en colelitiasis solo se debe dar en pacientes sintomáticos y en aquellos con condiciones especiales.
+● El tratamiento de la colecistitis aguda dependerá de su gravedad, si se considera que el paciente puede resistir la cirugía debe ser el manejo elegido, de lo contrario se deberá dar un manejo conservador integral.
+● El diagnóstico definitivo de la colecistitis aguda se hace con un ítem del criterio A + un ítem del criterio B + criterio C.
+
+● Se debe establecer el grado de gravedad de la colecistitis para así ofrecer el tratamiento más adecuado a la condición del paciente.
+● Se deben tener en cuenta las comorbilidades del paciente y su estado físico para comprender mejor su estado de salud.
+
+5. BIBLIOGRAFÍA
+
+1. Jerusalén C, Simón M. Cálculos biliares y sus complicaciones. [Internet].
+
+Madrid: Hospital Clínico Universitario Lozano Blesa. Zaragoza. Disponible en:
+
+https://www.aegastro.es/documents/pdf/45_Calculos_biliares_y_sus_compli
+
+caciones.pdf
+
+2. O'Connell K, Brasel K. Bile metabolism and lithogenesis. Surg Clin North Am
+
+[Internet].
+
+2014
+
+Apr;94(2):361-75.
+
+Available
+
+from:
+
+https://aplicacionesbiblioteca.udea.edu.co:2598/24679426
+
+3. Cafasso DE, Smith RR. Symptomatic cholelithiasis and functional disorders of
+
+the biliary tract. Surg Clin North Am [Internet]. 2014 Apr;94(2):233-56. Available
+
+from: https://aplicacionesbiblioteca.udea.edu.co:2598/24679419/
+
+4. Yokoe M, Hata J, Takada T, Strasberg SM, Asbun HJ, Wakabayashi G, et al.
+
+Tokyo Guidelines 2018: diagnostic criteria and severity grading of acute
+
+cholecystitis (with videos). J Hepatobiliary Pancreat Sci [Internet]. 2018
+
+Jan;25(1):41-54..
+
+Available
+
+from:
+
+https://aplicacionesbiblioteca.udea.edu.co:2303/doi/10.1002/jhbp.515
+
+5. Okamoto K, Suzuki K, Takada T, Strasberg SM, Asbun HJ, Endo I, et al. Tokyo
+
+Guidelines 2018: flowchart for the management of acute cholecystitis. J
+
+Hepatobiliary Pancreat Sci [Internet]). 2018 Jan 1;25(1):55–72. Disponible en:
+
+https://aplicacionesbiblioteca.udea.edu.co:2303/doi/10.1002/jhbp.516

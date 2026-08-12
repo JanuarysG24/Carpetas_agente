@@ -1,0 +1,246 @@
+The Role of Postoperative Surveillance in Colorectal Cancer
+Kerry Hammond, M.D.1 and David A. Margolin, M.D.1
+
+ABSTRACT
+
+Postoperative surveillance for recurrent and/or metachronous disease is an important component of the treatment of patients with colorectal cancer. The optimal schedule of follow-up investigations remains controversial. Several randomized trials have suggested a moderate improvement in 5-year survival and earlier detection of cancer recurrence with the implementation of intensive surveillance protocols. Whether these protocols are cost-effective has yet to be determined. Current guidelines from the American Society of Colon and Rectal Surgeons recommend periodic patient follow-up with ofﬁce visits, carcinoembryonic antigen (CEA) measurement, and endoscopy following potentially curative resection of colorectal cancer.
+KEYWORDS: Colorectal cancer, cancer surveillance
+
+Objectives: Upon completion of this article, the reader should: (1) understand the rationale for colorectal cancer surveillance; (2) recognize the various diagnostic modalities employed in the follow-up of colorectal cancer patients; and (3) be familiar with major societal guidelines for colorectal cancer surveillance.
+
+Colorectal cancer remains the third most common cause of cancer death in the United States, with an estimated 41,930 new cases of rectal cancer diagnosed annually.1 Despite advances in surgical and adjuvant therapeutic modalities, disease recurrence occurs in up to 40% of patients following primary therapy.
+Many diagnostic modalities are currently employed in the postoperative surveillance of patients with rectal cancer. In this review, we will discuss the rationale for postoperative surveillance, the available diagnostic methods for detection of disease recurrence, and the current recommendations for the role of surveillance from major medical and surgical societies.
+
+RATIONALE FOR POSTOPERATIVE
+SURVEILLANCE
+The primary objectives of surveillance following surgical resection for rectal cancer are to detect disease recurrence (local and metastatic) and to screen for metachronous colorectal lesions and primary cancers in other organ systems. Although most clinicians agree with the necessity of rectal cancer surveillance, no strong consensus exists regarding the scheduling and utility of various diagnostic modalities.2
+Between 60 to 80% of rectal cancer recurrences occur within 24 months following primary treatment, and 90% occur within 4 years.2–4 Improved clinical outcomes have been demonstrated when recurrent cancer is treated at an early stage.3–8 Therefore,
+
+1Department of Colon and Rectal Surgery, Ochsner Clinic Foundation, New Orleans, Louisiana.
+Address for correspondence and reprint requests: David A. Margolin, M.D., Department of Colon and Rectal Surgery, Ochsner Clinic Foundation, 1514 Jefferson Hwy., New Orleans, LA 70121 (e-mail: damargolin@ochsner.org).
+
+Rectal Cancer; Guest Editor, Harry L. Reynolds, Jr., M.D. Clin Colon Rectal Surg 2007;20:249–254. Copyright # 2007 by
+Thieme Medical Publishers, Inc., 333 Seventh Avenue, New York, NY 10001, USA. Tel: +1(212) 584-4662. DOI 10.1055/s-2007-984869. ISSN 1531-0043.
+
+249
+
+250
+
+CLINICS IN COLON AND RECTAL SURGERY/VOLUME 20, NUMBER 3 2007
+
+most proposed surveillance protocols emphasize initial follow-up at shorter intervals.
+METHODS FOR DETECTION OF RECURRENT OR METACHRONOUS DISEASE
+History and Physical Examination Multiple diagnostic modalities are available for combined use in the surveillance of patients with colorectal cancer. The simplest of these is the history and physical examination. Symptoms suggestive of locoregional or distant disease recurrence include coughing, abdominal or pelvic pain, change in bowel habits, rectal bleeding, and fatigue.3 A thorough physical examination, including digital rectal exam, palpation of inguinal nodes, and pelvic examination in female patients should also be performed. Recurrent disease is rarely diagnosed on the basis of the history and physical exam (H&P) alone,9 and studies have indicated that symptomatic disease recurrences are less likely to be resected for cure.3,9–11 Positive clinical ﬁndings are an indication for further diagnostic investigation. Other advantages of routine postoperative clinical assessment include patient education and reassurance and detection of disease in other organ systems.
+Laboratory Studies Various laboratory tests, including serum hemoglobin, hepatic enzymes, and carcinoembryonic antigen (CEA) levels, have been extensively studied as markers of colorectal cancer recurrence. Serum hemoglobin and liver function tests have not been demonstrated to be effective indicators of disease recurrence and are not recommended for use in routine surveillance.3,9,12,13
+CEA, an oncofetal protein associated with colorectal and various other cancers, lacks both sensitivity and speciﬁcity and is therefore not a useful screening tool for colorectal cancer. However, in patients with an established history of colorectal cancer, an abnormal CEA is often the ﬁrst indication of disease recurrence.3–6,12–16 Because false positive CEA elevations are common (7 to 16%), a second level should be obtained to conﬁrm the elevation prior to embarking upon an extensive diagnostic workup.12,15
+Radiographic Imaging Disease recurrence at distant sites, most commonly lung and liver metastases, can be detected with abdominal computer tomography (CT) imaging and chest radiography. Resection of isolated pulmonary metastases is associated with a 5-year survival rate between 30 to 40%.9,11 Chest radiography is a relatively inexpensive,
+
+noninvasive method by which asymptomatic pulmonary metastases may be detected.
+The use of routine abdominal CT imaging for the detection of resectable hepatic metastases is controversial. Several studies have demonstrated the utility of routine CT imaging for detecting asymptomatic hepatic recurrences. However, few of these recurrences were resected for cure.10–12,17
+The role of positive emission tomography (PET) scanning in routine surveillance has not been extensively studied. This modality can be effective for the detection of disease recurrence in patients found to have persistent CEA elevations.12
+Endorectal ultrasound (EUS) is emerging as a useful adjunct in the surveillance of patients with previously resected rectal cancer.16,18,19 Using this technique, the rectal wall and perirectal tissue can be examined for evidence of local recurrence of disease. However, results are operator-dependent, and this modality is not at this time recommended in standard surveillance protocols.
+Endoscopy Complete endoscopic evaluation of the colon for synchronous lesions should be performed prior to surgical resection of rectal cancer. If this is not possible, colonic evaluation should be performed within 6 months following surgery. Because the risk of metachronous cancer is 1.5 to 3 times greater in patients with an established history of colorectal cancer, lifelong endoscopic surveillance is mandatory. Flexible sigmoidoscopy, which can be performed with minimal preparation in an ofﬁce setting, is a useful method for visualizing rectal anastomoses for evidence of recurrence.
+SURVEILLANCE SCHEDULES: IS INTENSIVE FOLLOW-UP BENEFICIAL? Several randomized trials4,6,10,11,16 and meta-analyses have examined the theoretical beneﬁt of intensive surveillance following potentially curative resection of colorectal cancer. None of these studies speciﬁcally addressed primary rectal cancer. Furthermore, there is considerable variability between these studies in the modalities included in ‘‘intensive’’ or ‘‘standard’’ follow-up.
+In a 1995 study, Ohlsson et al4 reported a randomized study in which 53 patients were enrolled in an intensive postoperative surveillance program. This program required physical examination, rigid proctosigmoidoscopy, serum CEA, liver function tests (LFTs), fecal occult blood testing, and chest x-rays at 3 month intervals, with complete colonoscopy performed at 3, 15, 30, and 60 months postoperatively. CT of the pelvis was performed at 3, 6, 12, 18, and 24 months in patients who
+
+POSTOPERATIVE SURVEILLANCE IN COLORECTAL CANCER/HAMMOND, MARGOLIN
+
+251
+
+underwent abdominoperineal resection. Compared with a control group of patients (n ¼ 54) who underwent no scheduled follow-up studies, no signiﬁcant difference in time to disease recurrence or overall 5-year survival was demonstrated.
+A prospective, randomized trial by Makela et al10 compared postsurgical patients who underwent standard follow-up with those who underwent intensive followup. The intensive schedule included annual CT imaging of the abdomen and pelvis, hepatic ultrasound every 6 months, and colonoscopy at 3 months and then annually. Barium contrast enemas were performed
+
+instead of colonoscopy in the standard follow-up arm. The time to ﬁrst disease recurrence was signiﬁcantly decreased (10 versus 15 months) in the intensive followup group. There was no difference in 5-year survival. Similar results were reported in a larger study by Kjeldsen et al in 1997,18 in which the control arm underwent minimal follow-up postoperatively.
+In the only major randomized prospective study to demonstrate an increase in survival with intensive follow-up, Pietra et al16 compared conventional followup (n ¼ 103) to intense follow-up (n ¼ 104). Cancer recurrence was detected signiﬁcantly earlier (10.3 versus
+
+Table 1
+
+Intensive versus Standard Surveillance: Results of Five Prospective Randomized Trials
+
+N Intensive Standard
+
+First Recurrence (Months) Intensive
+Standard
+
+5-Year Survival (%) Intensive Standard
+
+Ohlsson et al4
+
+53 54 20.4 24 (NS)
+
+75 67 (NS)
+
+Intensive protocol:
+
+–H&P with CBC, FOBT, CEA, cxr every 3 mo x 2 y, then every 6 mo
+
+–Annual colonoscopy and computed tomography
+
+–Hepatic ultrasound every 6 mo
+
+–Sigmoidoscopy every 3 mo for rectal and sigmoid
+
+cancers Standard protocol:
+
+–H&P with CBC, FOBT, CEA, cxr every 3 mo x 2
+
+y, then every 6 mo
+
+–Annual barium enema
+
+–Sigmoidoscopy every 3 mo for rectal cancers
+
+Makela et al10
+
+Intensive protocol:
+
+52 54 10 15 (p ¼ 0.002) 59 54 (NS)
+
+–H&P with CBC, FOBT, CEA, cxr every 3 mo x 2 y, then every 6 mo
+
+–Colonoscopy at 3,15,30, & 60 mo
+
+–Computed tomography after APR at 3,6,12,18,
+
+& 24 mo Standard protocol:
+
+–No scheduled follow-up
+
+–FOBT samples delivered to clinic every 3 mo x 2 y, then annually
+
+Schoemaker et al11
+
+167 158 Not evaluated
+
+76 70 (NS)
+
+Intensive protocol:
+
+–H&P with CBC, FOBT, LFTs,CEA every 3 mo x 2 y, then every 6 mo
+
+–Colonoscopy annually
+
+–Computed tomography and cxr annually Standard protocol:
+
+–H&P with CBC, FOBT, LFTs,CEA every 3 mo x 2 y, then every 6 mo
+
+Pietra et al16
+
+104 103 10.3 20.2
+
+73.1 58.3
+
+Intensive protocol:
+
+(p < 0.0003)
+
+(p < 0.02)
+
+–H&P with CEA and hepatic ultrasound every 3 mo x
+
+2 y, then every 6 mo
+
+–Annual colonoscopy, cxr and computed tomography Standard protocol:
+
+–H&P with CEA and hepatic ultrasound every 6 mo x
+
+1 year, then annually –Annual colonoscopy and cxr
+
+Kjeldsen et al18
+
+Intensive protocol:
+
+290 307 18 27 (p < 0.001) 70 68 (NS)
+
+–H&P with CBC, FOBT, ESR, LFTs, colonoscopy and cxr every 6
+
+mo x 3 y, every 12 mo x 2 y, then every 5 y Standard protocol:
+
+–H&P with CBC, FOBT, ESR, LFTs, colonoscopy and cxr at 5 and 10 y
+
+H&P, history and physical examination; CBC, complete blood count; FOBT, fecal occult blood test; CEA, carcinoembryonic antigen; APR, abdominoperineal resection; LFTs, liver function tests; cxr, chest x-ray; ESR, erythrocyte sedimentation rate; NS, not significant.
+
+252
+
+CLINICS IN COLON AND RECTAL SURGERY/VOLUME 20, NUMBER 3 2007
+
+Table 2 Summary of Recommended Surveillance Protocols
+
+Test/Procedure
+
+ASCRS12
+
+NCCN23
+
+ASCO24
+
+History and physical exam
+Fecal occult blood test Complete blood count Liver function tests Carcinoembryonic antigen
+Chest radiography Flexible sigmoidoscopy/
+proctoscopy, endoscopic ultrasound
+Colonoscopy
+Computed tomography of chest/abdomen/pelvis
+Abdominal ultrasound
+
+Minimum of 3 times/year for the ﬁrst 2 y
+Not recommended Not recommended Not recommended Minimum of 3 times/year for
+the ﬁrst 2 years Not recommended Periodic anastomotic evaluation
+recommended (patients who have undergone resection/ anastomosis or local excision of rectal cancer) Every 3 years following primary therapy
+Not recommended
+Not recommended
+
+Every 3–6 mo for 2 y, then every 6 mo for 5 y
+Not addressed Not addressed Not addressed Every 3–6 mo for 2 y, then every 6 mo for
+5 y for T2 or greater Not recommended Consider proctoscopy every 6 mo Â 5 y
+1 y after primary therapy, then at 3 y & every 5 y (repeat in 1 y if abnormal)
+Annually Â 3 y for patients at higher risk of recurrence (lymphovascular invasion, poor differentiation)
+Not addressed
+
+Every 3–6 mo for 3 y, every 6 mo years 4 & 5, then physician discretion
+Not addressed Not recommended Not recommended Every 3 mo for 3 y or longer
+Not recommended Flexible proctoscope/sigmoidoscopy
+every 6 mo Â 5 y for patients who have not received pelvic irradiation
+At 3 y, then every 5 y if normal
+Annually Â 3 y for patients at higher risk recurrence (lymphovascular invasion, poor differentiation)
+Not addressed
+
+ASCRS, Standards Practice Task Force of the American Society of Colon and Rectal Surgeons; NCCN, National Cancer Care Network; ASCO, the American Society of Clinical Oncology.
+
+POSTOPERATIVE SURVEILLANCE IN COLORECTAL CANCER/HAMMOND, MARGOLIN
+
+253
+
+20.2 months) in the intense follow-up group. These patients underwent surveillance every 3 months for the ﬁrst 2 years, every 6 months for years 3 through 5, and annually thereafter. Five-year survival rates were 73.1 for the intense follow-up group and 58.3 for the standard follow-up group (p < 0.02).
+A recent meta-analysis of the ﬁve major randomized comparisons of intensive and standard colorectal cancer surveillance protocols demonstrated a signiﬁcant reduction in all-cause mortality (p ¼ 0.007), earlier detection of all cancer recurrences (p < 0.001), and an increased detection rate for local cancer recurrences (p < 0.011).20 Improvement in overall survival rates were most pronounced in studies that incorporated frequent CEA evaluation and computed tomography in intensive follow-up schedules. A brief synopsis of these studies is displayed in Table 1.
+COST ANALYSIS In today’s health care environment, surveillance protocols must be cost-effective to gain widespread acceptance. In a cost-analysis of 11 surveillance protocols by Virgo et al,21 1992 Medicare-allowed charges varied from a low of $561 for an annual barium-enema only to a high of $16,492 for patients enrolled in the intensive surveillance protocol of Makela et al.10 They concluded that higher-cost strategies did not appear to increase survival or quality of life.
+Graham et al14 focused on the cost–beneﬁt ratio of periodic physical examination, CEA analysis, chest x-ray, and colonoscopy in 421 patients with recurrent rectal cancer. The estimated mean cost of each test was evaluated in a subset of patients found to have recurrent disease amenable to surgical resection (n ¼ 96). Despite a cumulative cost of $418,615 for ofﬁce visits, no resectable recurrences were diagnosed on routine physical examination. The detection rate for chest X-ray was 0.9%, with a total cost of $120,934 (cost per resectable recurrence ¼ $10,078). One percent of resectable recurrences were detected by colonoscopy, with a cumulative cost of $641,344 (cost per resectable recurrence ¼ $45,810). Analysis of CEA was the most cost-effective test in detecting potentially curable recurrent disease, with a 2.2% detection rate and cost per recurrence of $5,696 (cumulative cost $170,880).
+In a 2001 Dutch study of similar design,22 42 of 496 patients were found to have resectable disease recurrence. Of this group, 22 were diagnosed based on hepatic ultrasound, colonoscopy, or CT, with a cost of $11,790 per patient. Routine physical examination, chest radiography, and CEA measurement were indications of recurrence in 6 patients, with an average cost per patient of $19,850. They concluded that these later three modalities are not cost-effective for use in standard surveillance.
+
+Based on these disparate ﬁndings, it is evident that further investigation is warranted to determine the most cost-effective strategy to detect recurrent disease in patients with an established history of colorectal cancer.
+CURRENT SURVEILLANCE GUIDELINES In 2004, the Standards Practice Task Force of the American Society of Colon and Rectal Surgeons (ASCRS) proposed practice parameters for follow-up of patients with colon and rectal cancer based on the current literature related to surveillance efﬁcacy.12 They determined that follow-up for patients with completely resected colorectal cancer is justiﬁed, and should include routine ofﬁce visits, CEA evaluation, periodic anastomotic evaluation in rectal cancer patients, and colonoscopy. Serum hemoglobin, fecal occult blood testing, liver function studies and routine hepatic imaging were not recommended as components of the standard follow-up schedule.
+A summary of the current ASCRS guidelines and those proposed by the National Cancer Care Network (NCCN) and the American Society of Clinical Oncology (ASCO) is included in Table 2.12,23,24
+CONCLUSIONS Surveillance following potentially curative resection of colorectal cancer is well supported by the current literature. However, controversy remains concerning the utility and cost-effectiveness of speciﬁc diagnostic modalities. Further investigation is necessary to determine an optimal schedule for postoperative follow-up of colorectal cancer patients.
+REFERENCES
+1. Jemal A, Siegel R, Ward E, et al. Cancer statistics, 2006. CA Cancer J Clin 2006;56:106–130
+2. Vernava AM, Longo WE, Virgo KS, et al. Current followup strategies after resection of colon cancer: results of a survey of members of the American Society of Colon and Rectal Surgeons. Dis Colon Rectum 1994;37:573–583
+3. Longo WE, Johnson FE. The preoperative assessment and postoperative surveillance of patients with colon and rectal cancer. Surg Clin North Am 2002;82:1091–1108
+4. Ohlsson B, Breland U, Ekberg H, et al. Follow-up after curative surgery for colorectal carcinoma: randomized comparison with no follow-up. Dis Colon Rectum 1995;38:619–626
+5. Belluco C, Melega E, Mammano E, et al. Multimodality management of recurrent rectal cancer. Clin Colon Rectal Surg 2002;15(1):63–70
+6. Rodriguez-Moranta F, Arcusa A, Boadas J. Postoperative surveillance in patients with colorectal cancer who have undergone curative resection: a prospective, multicenter, randomized, controlled trial. J Clin Oncol 2006;24(3):386–393
+
+254
+
+CLINICS IN COLON AND RECTAL SURGERY/VOLUME 20, NUMBER 3 2007
+
+7. Rosen M, Chan L, Beart RW Jr, et al. Follow-up of colorectal cancer: A meta-analysis. Dis Colon Rectum 1998; 41:1116–1126
+8. Castells A, Bessa X, Daniels M, et al. Value of postoperative surveillance after radical surgery for colorectal cancer: results of a cohort study. Dis Colon Rectum 1998;41:714–724
+9. Buie WD, Attard JP. Follow-up recommendations for colon cancer. Clin Colon Rectal Surg 2005;18(3):232–243
+10. Makela JT, Laitinen OS, Kairaluoma MI. Five-year follow-up after radical surgery for colorectal cancer: results of a prospective randomized trial. Arch Surg 1995;130(10):1062–1067
+11. Schoemaker D, Black R, Giles L, Toouli J. Yearly colonoscopy, liver CT, and chest radiography do not inﬂuence 5-year survival of colorectal cancer patients. Gastroenterology 1998;114:7–14
+12. Anthony T, Simmang C, Hyman N, et al. Practice parameters for the surveillance and follow-up of patients with colon and rectal cancer. Dis Colon Rectum 2004;47:807–817
+13. Pﬁster DG, Benson AB III, Sornerﬁeld MR. Surveillance strategies after curative treatment of colorectal cancer. N Engl J Med 2004;350(23):2375–2382
+14. Graham RA, Wang S, Catalano PJ, Haller DG. Postsurgical surveillance of colon cancer: preliminary cost analysis of physician examination, carcinoembryonic antigen testing, chest x-ray, and colonoscopy. Ann Surg 1998;228:59–63
+15. McCall JL, Black RB, Rich CA, et al. The value of serum carcinoembryonic antigen in predicting recurrent disease following curative resection of colorectal cancer. Dis Colon Rectum 1994;37:875–881
+16. Pietra N, Sarli L, Costi R, et al. Role of follow-up in management of local recurrences of colorectal cancer: a
+
+prospective, randomized study. Dis Colon Rectum 1998; 41(9):1127–1133 17. Howell JD, Wotherspoon H, Leen E, et al. Evaluation of a follow-up program after curative resection for colorectal cancer. Br J Cancer 1999;79:308–310 18. Kjeldsen BJ, Kronborg O, Fenger C, Jorgensen OD. A prospective randomized study of follow-up after radical surgery for colorectal cancer. Br J Surg 1997;84(5):666–669 19. de Anda EH, Suk-Hawn L, Finne CO, et al. Endorectal ultrasound in the follow-up of rectal cancer patients treated by local excision or radical surgery. Dis Colon Rectum 2004;47:818–824 20. Renehan AG, Egger M, Saunders MP, O’Dwyer ST. Impact on survival of intensive follow up after curative resection for colorectal cancer: systematic review and meta-analysis of randomized trials. BMJ 2002;324(7341):813 21. Virgo KS, Vernava AM, Longo WE. Cost of patient followup after potentially curative colorectal cancer treatment. JAMA 1995;273(23):1837–1841 22. Bleeker WA, Mulder NH, Hermans J, Otter R, Plukker JTM. Value and cost of follow-up after adjuvant treatment of patients with Duke’s C colonic cancer. Br J Surg 2001; 88(1):101–106 23. NCCN practice guidelines in oncology-v.1. 2007. Available at: http://www.nccn.org/professionals/physician_gls/PDF/rectal. pdf. Accessed June 21, 2007 24. Desch CE, Benson AB III, Somerﬁeld MR, et al. Colorectal cancer surveillance: 2005 update of the American Society of Clinical Oncology Practice Guideline. J Clin Oncol 2005; 23(33):8512–8519

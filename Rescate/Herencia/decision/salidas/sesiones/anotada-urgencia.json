@@ -1,0 +1,28 @@
+{
+  "session_id": "anotada-urgencia",
+  "generated_at": "2026-08-09T11:02:17.851Z",
+  "patient_ref": null,
+  "identity_status": "unverified",
+  "frame": {
+    "provenance": "inferred",
+    "rounds": 0,
+    "context_complete": false
+  },
+  "findings": [],
+  "decision": {
+    "escalate": true,
+    "criticality": "rojo",
+    "reason": "Red flag RF-sangrado sobre el enunciado literal: \"se me abrio la herida y estoy sangrando harto, no para\".",
+    "reason_code": "urgencia",
+    "branch": "urgencia",
+    "traces": {
+      "doc_ids": [],
+      "rules_fired": []
+    }
+  },
+  "versions": {
+    "domain_version": "postop-0.1.0",
+    "vd_version": "vd-tabla-0.2.0",
+    "embedding_model": "lexical-bm25/k1=1.2/b=0.75/es-minusculas-sin-tildes-sin-vacias-v1"
+  }
+}

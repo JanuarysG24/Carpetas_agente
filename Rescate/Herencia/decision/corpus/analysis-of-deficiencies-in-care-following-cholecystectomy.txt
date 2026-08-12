@@ -1,0 +1,215 @@
++Model JVS-497; No. of Pages 6
+
+ARTICLE IN PRESS
+
+Journal of Visceral Surgery (2015) xxx, xxx—xxx
+
+Available online at
+ScienceDirect
+www.sciencedirect.com
+
+ORIGINAL ARTICLE
+Analysis of deﬁciencies in care following cholecystectomy
+A.P. Wysocki a,∗, J. Allen b, T. Rey-Conde b, J.B. North b
+a Logan Hospital, Corner Armstrong and Loganlea Roads, Meadowbrook, Queensland 4131, Australia b Queensland Audit of Surgical Mortality, Royal Australasian College of Surgeons, Brisbane, Queensland, Australia
+
+KEYWORDS Mortality; Audit; Laparoscopy; Cholecystectomy; Failure to rescue
+
+Summary Introduction: Failure To Rescue was ﬁrst deﬁned in patients who died due to a complication following (open) cholecystectomy but research into the relevant factors has been scarce. This study was designed to determine a chronological sequence of deﬁciencies in care. Methods: Adult patients who died under the care of a surgeon following cholecystectomy in Queensland were identiﬁed from the Australian and New Zealand Audit of Surgical Mortality (ANZASM) database. Results: Not unexpectedly, this is a high-risk patient population: median age of the 48 patients was 74.5 years and the median number of comorbidities and American Society of Anesthesiologists class was 4. Death occurred on postoperative day 6. Most deaths occurred at the end of the week. Over 80% of deaths followed emergency cholecystectomy. In almost half the patients, there were no deﬁciencies in care. Most common deﬁciency was during postoperative management (i.e. Failure To Rescue), however, signiﬁcant deﬁciencies also arose prior to surgical admission; choice and timing of intervention as well as intraoperative decision-making. Conclusion: Surgeons who perform cholecystectomy need to be aware of the levels at which deﬁciencies arise given that many may be preventable. Crown Copyright © 2015 Published by Elsevier Masson SAS.
+
+Introduction
+Cholecystectomy is a safe, frequently performed operation. The overall morbidity (3%) and mortality (< 0.2%) rates are very low [1]. Common indications for cholecystectomy include: biliary colic, acute cholecystitis, biliary pancreatitis as well as in the setting of choledocholithiasis. Some two decades ago, the concept of Failure To Rescue (FTR) a patient from a postoperative complication was proposed in patients who had died following open cholecystectomy (and prostatectomy) [2]. While FTR has become an important administrative
+∗ Corresponding author. E-mail address: arek p@ecn.net.au (A.P. Wysocki).
+http://dx.doi.org/10.1016/j.jviscsurg.2015.06.008 1878-7886/Crown Copyright © 2015 Published by Elsevier Masson SAS.
+Please cite this article in press as: Wysocki AP, et al. Analysis of deﬁciencies in care following cholecystectomy. Journal of Visceral Surgery (2015), http://dx.doi.org/10.1016/j.jviscsurg.2015.06.008
+
++Model JVS-497; No. of Pages 6
+2
+
+ARTICLE IN PRESS
+
+A.P. Wysocki et al.
+
+tool (i.e. a Patient Safety Indicator with the Agency for Healthcare Research and Quality), this needs to be translated into a clinical context to allow surgeons to improve their practice.
+The Australian and New Zealand Audit of Surgical Mortality (ANZASM) database contains clinical details as well as the conclusions of reviews by assessor surgeons. It represents the ideal source for determining where deﬁciencies in care arose in those dying following cholecystectomy.
+Methods
+We prospectively collected data through the Australian and New Zealand Audit of Surgical Mortality over seven years between January 2007 and December 2013 for the state of Queensland. Hospitals report deaths to ANZASM if the patient had been an inpatient at the time of death and under the care of a surgeon, whether or not a surgical procedure had been performed. Patients who were readmitted by a surgeon and died within 30 days of surgery are also included. ANZASM is a protected quality assurance activity in Australia under Part VC of the Health Insurance Act 1973 (gazetted August 2011) and ethical approval for the study was obtained from the Royal Australasian College of Surgeons.
+The functioning, governance and objectives of ANZASM have been outlined [3]. Brieﬂy, the treating surgeon provides the clinical data to ANZASM using a standard surgical case form (SCF). The de-identiﬁed SCF is sent for ﬁrst line assessment to a surgeon from a different hospital but of the same subspecialty. Based on clinical judgment (without a standardised pro forma), the assessor surgeon determines if there were any adverse events and whether deﬁciencies in care arose. The case may then be closed or proceed to a non de-identiﬁed second line assessment where a different assessor surgeon has access to the medical progress notes for that admission.
+For this study, we included patients who were 17 years or older that died in a Queensland hospital following cholecystectomy. Baseline patient population data was not available for patients who had undergone cholecystectomy and had been discharged from hospital alive. The Australian Institute of Health and Welfare deﬁnition of a major hospital as one having more than 500 available beds [4] was adopted.
+We extracted the data from the ANZASM database and analysed it using IBM SPSS Statistics 19 (Armonk, NY: IBM Corporation, 2010) and Microsoft Excel (Redmond, Washington: Microsoft, 2010). We could not do any chart reviews. We present continuous variables as medians, with the interquartile range (IQ) in brackets. We present categorical variables as frequencies, with the percentages in brackets.
+Results
+Twenty female and 28 male patients (total 48) died over 7 calendar years (ranging from 3 to 12 per year) following cholecystectomy in Queensland. A total of 81.3% (39) of deaths followed emergency cholecystectomy, 14.6% (7) after elective cholecystectomy and for 2 patients the admission type was not speciﬁed. Patient age was 74.5 years (IQ range 68.5—84.0 years) and American Society of Anesthesiologists (ASA) class was 4 (IQ range 3—5). The median number of comorbidities was 4 (IQ range 2—5; question not answered in 7). Length of stay was 10 days (IQ range 5—20 days). Surgery occurred on day 1 following admission (IQ range 0—5 days)
+
+and death occurred on day 6 following cholecystectomy (IQ range 3—15 days). Twenty-three patients were admitted to a major hospital and 25 to a smaller center. The details in Table 1 demonstrate those admitted to a non-major hospital underwent surgery earlier than those who were admitted to a major hospital (0 vs. 3 days respectively; P = 0.027). There was no statistical difference for the other parameters studied, when stratiﬁed by hospital size.
+Twenty-ﬁve patients (52.1%) underwent a laparoscopic cholecystectomy and an additional 7 (14.6%) had the laparoscopic approach converted to open. Fourteen patients (29.2%) underwent an open cholecystectomy. In 2 patients (4%), the surgical approach could not be determined.
+Diagnoses consisted of: acute cholecystitis (33/48; 68.8%), choledocholithiasis (6/48; 12.5%), biliary colic (3/48; 6.3%) and acute pancreatitis (2/48; 4.2%). No diagnosis was stated in 4 patients (8.3%).
+The busiest day for admission was Tuesday (12 patients), followed by Sunday (9) and Saturday (7). Most of the elective patients were admitted on Monday and Tuesday (4 out of 7) where as most of the emergency admissions were on Tuesday and the Weekend (25 out of 39). Males aged less than 75 years with ASA 5 were over represented on Tuesday admissions. On any given day of the week, there were between 6 and 8 operations (except Wednesdays when there were only 4). In 17 patients, the postoperative course to death was of gradual deterioration without a speciﬁc event (often in the Intensive Care Unit). Half of the remaining 31 patients experienced their ﬁrst postoperative deterioration on postoperative day 0 or 1 (5 and 11 patients respectively). Most of these ﬁrst deteriorations were diagnosed between Monday and Thursday (between 4 and 7 patients per day) while fewer were diagnosed between Friday and Sunday (between 2 and 4 patients). Most deaths occurred between Wednesday and Sunday (between 6 and 9 patients on each day) while the fewest deaths occurred on Tuesdays (4 patients).
+The main reported cause of death was multiple organ failure (17 patients; 35.4%), followed by: sepsis and respiratory failure (8 patients each; 16.7%) and cardiac failure (6 patients; 12.5%). Nine patients died from other causes (18.8%).
+No adverse events were identiﬁed by surgeon reviewers in 23 patients (47.9%). The remaining 25 patients had a median of 1 adverse event (IQ range 1—2). Adverse events occurred at all stages of patient management (Table 2) but most arose during postoperative care (21 events). Assessor surgeons identiﬁed deﬁciencies prior to surgical intervention, e.g. late referral (10 events); timing of procedure (8 events); choice of procedure (10 events) and intraoperative decision-making (8 events). Intraoperative events noted included: visceral injury, vascular injury, site of port placement, non-use of cholangiography, total versus subtotal cholecystectomy.
+Half of the deﬁciencies in postoperative care (i.e. Failure To Rescue the patient from a post operative complication) were due to a delay to diagnose a complication (9 events) or manage it in a timely fashion (2 events). The next major group was failure to obtain more specialized support, be that from a specialist Hepato-Pancreato-Biliary unit (5 events) or Intensive Care Unit (3 events).
+During 2011 in Queensland public hospitals, 4744 laparoscopic cholecystectomies were performed with 79% of these being elective. These ﬁgures give a crude estimate of 33,208 cholecystectomies having been performed during the study period with a mortality rate of 0.14%.
+
+Please cite this article in press as: Wysocki AP, et al. Analysis of deﬁciencies in care following cholecystectomy. Journal of Visceral Surgery (2015), http://dx.doi.org/10.1016/j.jviscsurg.2015.06.008
+
++Model JVS-497; No. of Pages 6
+
+ARTICLE IN PRESS
+
+Analysis of deﬁciencies in care following cholecystectomy
+
+3
+
+Table 1 Deﬁciencies in care.
+
+Adverse event
+
+Number in category
+
+Prior to intervention
+
+10
+
+6
+
+4
+
+Timing of procedure
+
+8
+
+7
+
+1
+
+Choice of procedure
+
+10
+
+5
+
+5
+
+Intraoperative
+
+8
+
+Postoperative care
+
+21
+
+9
+
+5 3
+
+2 2
+
+Description
+Late referral Preoperative workup Too late Too early Intervention not necessary Prefer cholecystostomy See text Delayed diagnosis of intraabdominal complication Failure to refer to a specialist unit Failure to admit to Intensive Care Unit Inadequate ﬂuid management Delayed management of intraabdominal complication
+
+Discussion
+ANZASM surgeon reviewers are active clinicians who focus on clinical events while being aware that a system based failure may have contributed. For this reason, we chose a chronological approach to describing deﬁciencies in care in patients who died following cholecystectomy. Not surprisingly this is a high-risk patient population: 74.5 years of age with 4 comorbidities, ASA class 4 undergoing emergency cholecystectomy. Signiﬁcantly, almost half the patients audited did not have deﬁciencies identiﬁed in their care. The other half had a median of one event — this was most frequently a deﬁciency in postoperative care. Surgical judgment (timing of intervention, choice of intervention and intraoperative decision making) and issues arising prior to admission were also prominent. The number of deﬁciencies in care was not related to hospital size.
+Silber at al. developed the concept of Failure To Rescue following cholecystectomy [2]. This has been adopted as Patient Safety Indicator by the Agency for Healthcare Research and Quality. Literature in this ﬁeld consistently demonstrates that complications are undesirable outcomes, which reﬂect the characteristics of the patient on admission, while whether a patient survives the complication depends on the care delivered by the hospital and its staff [2,5]. This was again demonstrated in North American patients undergoing general and vascular surgery — the risk adjusted mortality rate per hospital varied two fold from 3.5% to
+
+6.9% while the risk adjusted rates of complications were the same [6]. Therefore, early identiﬁcation and management of complications should result in a lower mortality rate. FTR patients aged over 65 years following elective open cholecystectomy has been looked at previously with the following observations: variation in surgeon skill was not associated with mortality; low board certiﬁcation rate for anesthesiologists/intensivists and presence of junior medical staff correlated with failure to rescue; while admission to a high technology hospital correlated with a low failure to rescue rate [2]. While a small proportion of adverse events are caused by out of bounds behavior, the majority are not [7]. There is a paucity of research into the what individual clinician factors underlie Failure To Rescue [8], e.g. the reoperation rate alone is an inaccurate marker of the quality of care (after colorectal surgery) [9].
+Late referral from Emergency Department or Medical inpatient unit was felt to be an important contributing factor in 6 out of 57 adverse events (10.5%). Possible reasons include: Acute Coronary Syndrome mimicking acute biliary pathology [10] or long waiting list for interval cholecystectomy following medically treated acute gall stone related admission [11]. A late diagnosis may delay commencement of antibiotics in patients with septic shock — each hour that antibiotics are delayed, survival falls by 8% [12]. In addition, cholecystectomy may not have been necessary in 5 patients due to futility or equivocal intraoperative ﬁndings.
+
+Table 2
+
+Comparison of deaths at non-major and major hospitals. Non-major hospitaln = 25
+
+Age (IQ range) Male (%) Completed laparoscopically (%) Days from admission to surgery (IQ range) Days from operation to death (IQ range) Length of hospital stay (IQ range) Number of comorbidities (IQ range) ASA class (IQ range) Number of adverse events (IQ range)
+
+74 (71—84) 15 (60%) 11 (44%) 0 (1—2) 7 (3—13) 10 (5—17) 4 (2—5) 4 (3—4) 0 (0—3)
+
+IQ: Inter-quartile; ASA: American Society of Anesthesiologists.
+
+Major hospitaln = 23
+75 (66—83) 13 (57%) 14 (61%) 3 (0—8) 5 (3—15) 11 (6—21) 4 (3—6) 4 (3—5) 1 (0—1)
+
+P-value
+0.703 0.807 0.242 0.027 0.563 0.337 0.177 0.119 0.364
+
+Please cite this article in press as: Wysocki AP, et al. Analysis of deﬁciencies in care following cholecystectomy. Journal of Visceral Surgery (2015), http://dx.doi.org/10.1016/j.jviscsurg.2015.06.008
+
++Model JVS-497; No. of Pages 6
+4
+
+ARTICLE IN PRESS
+
+A.P. Wysocki et al.
+
+Surgeon assessors indicated the timing of emergency cholecystectomy had been delayed in 7 instances while rather than operating, percutaneous cholecystostomy or medical management alone could have been considered in 5 instances each. However, medical management of acute cholecystitis is associated with a higher 30-day mortality rate compared to cholecystectomy and is not the standard of care [13]. Delaying cholecystectomy in high risk patients beyond the day of admission serves only to increase operative difﬁculty and prolong overall length of stay without reducing 30-day morbidity or mortality [14]. Prolonged duration of symptoms is sometimes advocated as a reason for not performing emergency laparoscopic cholecystectomy but the conversion rate is the same when operating within 7 days or later [15]. The patient’s initial white blood cell count is not predictive of the need to convert [16,17]. Patients with a C-reactive protein level > 300 mg/L have a 3.9 times higher likelihood of conversion to open than those with a CRP < 165 mg/L [17]. Importantly however, the rate of postoperative complications is not affected by the C-reactive protein concentration [17]. The conversion rate in patients with acute necrotizing cholecystitis, hydrops and empyema of the gallbladder is equivalent [18] — again reinforcing that the patient with a palpable mass should not be refused laparoscopic cholecystectomy.
+There is a lack of good evidence with respect to the role of percutaneous tube cholecystostomy (transhepatic or transperitoneal) in managing the medically unwell patient with acute cholecystitis. While many individual studies report encouraging results [19], pooled data in a recent Cochrane meta-analysis found this procedure not to be life saving [20].
+Reviewers noted several adverse intraoperative events: visceral injury, vascular injury, site of port placement, non-use of cholangiography, decision to persist with total cholecystectomy rather than opting for subtotal cholecystectomy. Appraisal of the merits of routine cholangiography versus the critical view of safety technique in avoiding bile duct injury during cholecystectomy is beyond the scope of this paper [21]. However, the surgeon needs to consider whether a (defensive) subtotal cholecystectomy is preferable to complete cholecystectomy in the setting of biliary inﬂammatory fusion, ﬁbrosed cholecystohepatic plate or cirrhosis to avoid biliary injury and haemorrhage [22,23]. The following recommendations have been made for laparoscopic cholecystectomy in the Child-Pugh’s class A or B cirrhotic without ascites [24]: preoperative medical optimization; open Hasson approach away from the umbilicus; trans illumination of abdominal wall to site 5 mm ports; placing an additional left upper quadrant port to lift up the left lateral section of the liver; avoiding excessive traction on the gall bladder; using a bipolar cautery device rather than conventional monopolar hook diathermy; and not leaving a drain for over 24 hours.
+Postoperative complications following open cholecystectomy are typically due to biliary obstruction and are readily identiﬁable by the presence of abdominal pain, jaundice as well as biochemical and imaging evidence of biliary obstruction [25]. However, biliary injury during laparoscopic cholecystectomy typically results in a bile leak or ﬁstula and presents much more subtly: bloating, mild pain, lack of jaundice, lack of peritonitis (unless signiﬁcant delay) and minimal derangement of Liver Function Tests [25]. Patients following laparoscopic cholecystectomy are typically very well the next day thus there must be a low threshold to request abdominal imaging when the patient does not follow
+
+this normal postoperative course [26]. Abdominal Computed Tomography is the ideal modality as Ultra-Sound Scanning and Cholescintigraphy may be falsely reassuring [25,27]. A ﬂuid collection should be presumed to be bile and drained percutaneously and the biliary tree evaluated with MRCP or ERCP [28]. Laparoscopic washout and drain placement may be required [29]. There is no role for exploratory laparotomy as the diagnosis may be missed and the surgeon is often not prepared to manage the complication [25]. Patients with bile in an operatively placed drain should also undergo imaging evaluation for a possible biloma as well as biliary injury and retained choledocholithiasis [29].
+Tertiary unit referral should be made early once a biliary injury is identiﬁed as this may be accompanied by vascular injury and retained choledocholithiasis. Successful repair requires a specialty unit with access to multidisciplinary teams (e.g. interventional radiology and gastroenterology) while results of repair by the primary surgeon are known to be inferior [26]. The timing of repair (early or delayed for 6 weeks) is less important than attention to nutrition, drainage of sepsis, organ support, complete cholangiography and repair using established techniques [30].
+While the current paper focuses attention on actions of clinicians, others point out the importance of process or system failures [31]. The majority of process failures following elective general surgery were found to be failures of routine procedures (e.g. medication administration, delivery of care) rather than unexpected sudden events [31]. The two main underlying causes of process failure identiﬁed in that study were: communication failure and delays [31].
+Recent work from the United Kingdom highlights the ‘‘weekend effect’’, i.e. increased risk of death following surgery performed at the end of the week and suggests this may be related to reduced presence of consultant staff [32]. Our data suggest the initial deterioration (eventually resulting in death) is less likely to be diagnosed between Friday and Sunday especially given that the number of operations performed on any weekday is fairly constant. It is unclear why in our population the highest risk patients (males with ASA class 5) were more likely to have been admitted on a Tuesday.
+While the present study includes only adult inpatient deaths following cholecystectomy while under the care of a surgeon in the state of Queensland, its greatest strength is that all deaths were subject to at least a double blinded First Line Assessment and review by a peer surgeon. ANZASM data is systematically collected by surgeons using a selfreporting tool and is thus clinically sound. Limitations of the study included the use of an audit database, possible self reporting bias, slight denominator variation due to not all questions having been answered and including only in hospital deaths while under the care of a surgeon, i.e. potentially missing patients who died at home. The study covers only one Australian state, and while frequencies of events may change, the ﬁndings would be applicable across the wider surgical population. The ﬁndings of our study hinge on the opinions of clinically active surgeons rather than any standard deﬁned by the Royal Australasian College of Surgeons or any other body. The surgeon assessors did not perform an analysis of root causes but instead focused on what they determined to be unsafe acts of clinicians, however surgical opinion is known to vary [33]. The dataset thus represents both a strength and a limitation. Had all the case reviews been performed by one or two surgeons, the ﬁndings would be heavily skewed by their personal biases. A review of clinical events by non-medical researchers may
+
+Please cite this article in press as: Wysocki AP, et al. Analysis of deﬁciencies in care following cholecystectomy. Journal of Visceral Surgery (2015), http://dx.doi.org/10.1016/j.jviscsurg.2015.06.008
+
++Model JVS-497; No. of Pages 6
+
+ARTICLE IN PRESS
+
+Analysis of deﬁciencies in care following cholecystectomy
+
+5
+
+not recognize clinically signiﬁcant events [7]. Perhaps basing the study on the opinions of many surgeons is the initial step of a multicenter study allowing generalizability of the ﬁndings?
+Clearly, the largest group of adverse events in our study were in the category of deﬁcient postoperative care, i.e. Failure To Rescue. Our data suggests this deﬁciency may follow the failure to recognize a clinical need to ‘‘rescue’’. While the best way to avoid complications must include comprehensive pre-operative assessment of the patient and technical excellence in surgery, complications will none the less occur. Postoperative care is critical and must remain the responsibility of the consultant as senior member of the surgical team. In some cases, when the surgeon completes the surgical procedure, many providers erroneously believe that the most important part of that episode of care is over. Situational awareness may be lost and complex decision making compromised and this will lead to misadventure that may then be deemed negligence [26].
+We present an analysis of deaths following cholecystectomy with focused references to published literature in order to determine where deﬁciencies in care may exist. Elimination of these factors may further reduce mortality but a retrospective study cannot show cause and effect. Almost half the patients did not experience a deﬁciency in their care. There was little difference between major and smaller hospitals. While most adverse events involved deﬁciencies with postoperative care, other areas included: delayed referral to a surgeon, timing of intervention, choice of intervention and intraoperative decision-making. Failure to rescue the patient from a post-cholecystectomy complication is only one area where deﬁciencies in care may arise and in order to improve patient outcomes.
+Contribution
+First and fourth author developed the idea, second and third authors collected the data, ﬁrst three authors interpreted the data and all four authors contributed to the writing and revisions of the manuscript.
+Disclosure of interest
+The authors declare that they have no conﬂicts of interest concerning this article.
+References
+[1] Shea JA, Healey MJ, Berlin JA, et al. Mortality and complications associated with laparoscopic cholecystectomy. A meta-analysis. Ann Surg 1996;224:609—20.
+[2] Silber JH, Williams SV, Krakauer H, et al. Hospital and patient characteristics associated with death after surgery. A study of adverse occurrence and failure to rescue. Med Care 1992;30:615—29.
+[3] Raju RS, Guy GS, Majid AJ, et al. The Australian and New Zealand Audit of Surgical Mortality-Birth, Deaths, and Carriage. Ann Surg 2014.
+[4] How diverse are public hospitals?; 2013 [Accessed 25/2/2014, at https://www.aihw.gov.au/haag11-12/publichospitals-diversity/].
+[5] Silber JH, Romano PS, Rosen AK, et al. Failure-to-rescue: comparing deﬁnitions to measure quality of care. Med Care 2007;45:918—25.
+
+[6] Ghaferi AA, Birkmeyer JD, Dimick JB. Variation in hospital mortality associated with inpatient surgery. N Engl J Med 2009;361:1368—75.
+[7] Karl R, Karl MC. Adverse events: root causes and latent factors. Surg Clin North Am 2012;92:89—100.
+[8] Ghaferi AA, Birkmeyer JD, Dimick JB. Complications, failure to rescue, and mortality with major inpatient surgery in medicare patients. Ann Surg 2009;250:1029—34.
+[9] Burns EM, Bottle A, Aylin P, et al. Variation in reoperation after colorectal surgery in England as an indicator of surgical performance: retrospective analysis of Hospital Episode Statistics. BMJ 2011;343:d4836.
+[10] Demarchi MS, Regusci L, Fasolini F. Electrocardiographic changes and false-positive troponin I in a patient with acute cholecystitis. Case Rep Gastroenterol 2012;6:410—4.
+[11] Cheruvu CV, Eyre-Brook IA. Consequences of prolonged wait before gallbladder surgery. Ann R Coll Surg Engl 2002;84: 20—2.
+[12] Kumar A, Roberts D, Wood KE, et al. Duration of hypotension before initiation of effective antimicrobial therapy is the critical determinant of survival in human septic shock. Crit Care Med 2006;34:1589—96.
+[13] Riall TS, Zhang D, Townsend Jr CM, et al. Failure to perform cholecystectomy for acute cholecystitis in elderly patients is associated with increased morbidity, mortality, and cost. J Am Coll Surg 2010;210:668—77 [77—9].
+[14] Brooks KR, Scarborough JE, Vaslef SN, et al. No need to wait: an analysis of the timing of cholecystectomy during admission for acute cholecystitis using the American College of Surgeons National Surgical Quality Improvement Program database. J Trauma Acute Care Surg 2013;74:167—73 [73—4].
+[15] Koo KP, Thirlby RC. Laparoscopic cholecystectomy in acute cholecystitis. What is the optimal timing for operation? Arch Surg 1996;131:540—4 [discussion 4—5].
+[16] Soffer D, Blackbourne LH, Schulman CI, et al. Is there an optimal time for laparoscopic cholecystectomy in acute cholecystitis? Surgical Endosc 2007;21:805—9.
+[17] Wevers KP, van Westreenen HL, Patijn GA. Laparoscopic cholecystectomy in acute cholecystitis: C-reactive protein level combined with age predicts conversion. Surgical Laparosc Endosc Percutan Tech 2013;23:163—6.
+[18] Eldar S, Sabo E, Nash E, et al. Laparoscopic cholecystectomy for acute cholecystitis: prospective trial. World J Surg 1997;21:540—5.
+[19] Chang YR, Ahn YJ, Jang JY, et al. Percutaneous cholecystostomy for acute cholecystitis in patients with high comorbidity and re-evaluation of treatment efﬁcacy. Surgery 2014;155:615—22.
+[20] Gurusamy KS, Rossi M, Davidson BR. Percutaneous cholecystostomy for high-risk surgical patients with acute calculous cholecystitis. Cochrane Database Syst Rev 2013;8:CD007088.
+[21] Wysocki AP, McKay CJ, Carter CR, et al. Cholangiography is no substitute. ANZ J Surg 2006;76:536.
+[22] Ham JM. Defensive cholecystectomy. RACS Bulletin; 1989. p. 2—4.
+[23] Strasberg SM. A teaching program for the ‘‘culture of safety in cholecystectomy’’ and avoidance of bile duct injury. J Am Coll Surg 2013;217:751.
+[24] Nguyen KT, Kitisin K, Steel J, et al. Cirrhosis is not a contraindication to laparoscopic cholecystectomy: results and practical recommendations. HPB 2011;13:192—7.
+[25] Stewart L. Iatrogenic biliary injuries: identiﬁcation, classiﬁcation, and management. Surg Clin N Am 2014;94:297—310.
+[26] Slater K, Strong RW, Wall DR, et al. Iatrogenic bile duct injury: the scourge of laparoscopic cholecystectomy. ANZ J Surg 2002;72:83—8.
+[27] McMahon MJ. Association of laparoscopic surgeons: clinical guidelines: recognition, management and prevention of abdominal complications of laparoscopic surgery; 2006.
+[28] Thompson CM, Saad NE, Quazi RR, et al. Management of iatrogenic bile duct injuries: role of the interventional radiologist. Radiographics 2013;33:117—34.
+
+Please cite this article in press as: Wysocki AP, et al. Analysis of deﬁciencies in care following cholecystectomy. Journal of Visceral Surgery (2015), http://dx.doi.org/10.1016/j.jviscsurg.2015.06.008
+
++Model JVS-497; No. of Pages 6
+6
+
+ARTICLE IN PRESS
+
+A.P. Wysocki et al.
+
+[29] Wills VL, Jorgensen JO, Hunt DR. Role of relaparoscopy in the management of minor bile leakage after laparoscopic cholecystectomy. Br J Surg 2000;87:176—80.
+[30] Stewart L, Way LW. Laparoscopic bile duct injuries: timing of surgical repair does not inﬂuence success rate. A multivariate analysis of factors inﬂuencing surgical outcomes. HPB 2009;11:516—22.
+[31] Symons NR, Almoudaris AM, Nagpal K, et al. An observational study of the frequency, severity, and etiology of failures in
+
+postoperative care after major elective general surgery. Ann Surg 2013;257:1—5. [32] Aylin P, Alexandrescu R, Jen MH, et al. Day of week of procedure and 30 day mortality for elective surgery: retrospective analysis of hospital episode statistics. BMJ 2013;346: f2424. [33] Wysocki AP. Can we both be right? ANZ J Surg 2011;81: 498—9.
+
+Please cite this article in press as: Wysocki AP, et al. Analysis of deﬁciencies in care following cholecystectomy. Journal of Visceral Surgery (2015), http://dx.doi.org/10.1016/j.jviscsurg.2015.06.008

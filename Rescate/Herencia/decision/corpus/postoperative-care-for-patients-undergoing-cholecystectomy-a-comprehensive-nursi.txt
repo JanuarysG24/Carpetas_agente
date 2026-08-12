@@ -1,0 +1,289 @@
+W J G S World Journal of Gastrointestinal Surgery
+
+Submit a Manuscript: https://www.f6publishing.com
+
+World J Gastrointest Surg 2025 August 27; 17(8): 106170
+
+DOI: 10.4240/wjgs.v17.i8.106170
+
+ISSN 1948-9366 (online)
+
+MINIREVIEWS
+
+Postoperative care for patients undergoing cholecystectomy: A comprehensive nursing review
+
+Jing-Jia Tu, Zhu Chen, Zhi-Qin Zhou, Fang-Yan Lu
+
+Specialty type: Gastroenterology and hepatology
+Provenance and peer review: Unsolicited article; Externally peer reviewed.
+Peer-review model: Single blind
+Peer-review report’s classification Scientific Quality: Grade A, Grade B, Grade B, Grade B, Grade B Novelty: Grade B, Grade B, Grade C, Grade C, Grade C Creativity or Innovation: Grade B, Grade B, Grade C, Grade C, Grade C Scientific Significance: Grade B, Grade B, Grade B, Grade C, Grade C
+P-Reviewer: Abdelsamad A; Ahmad A; Li GC
+Received: April 22, 2025 Revised: May 17, 2025 Accepted: July 14, 2025 Published online: August 27, 2025 Processing time: 125 Days and 3.9 Hours
+
+Jing-Jia Tu, Zhi-Qin Zhou, Department of Plastic and Aesthetic Center, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou 310006, Zhejiang Province, China
+Zhu Chen, Department of Operating Room, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou 310006, Zhejiang Province, China
+Fang-Yan Lu, Liver Transplant Center, Zhejiang University, Hangzhou 310000, Zhejiang Province, China
+Co-corresponding authors: Zhi-Qin Zhou and Fang-Yan Lu.
+Corresponding author: Fang-Yan Lu, MD, Chief Nurse, Liver Transplant Center, Zhejiang University, No. 79 Qingchun Road, Hangzhou 310000, Zhejiang Province, China. 2196032@zju.edu.cn
+Abstract
+Cholecystectomy is a commonly performed surgical procedure globally, primarily for symptomatic cholelithiasis or related gallbladder conditions. Advances in surgical techniques, such as laparoscopic and robotic approaches, have enhanced patient results and reduced hospital stays. However, postoperative care is crucial for optimizing recovery, preventing complications, and enhancing quality of life. Nurses have a critical role in achieving these objectives, starting from immediate postoperative evaluation through long-term monitoring. This review outlines essential nursing considerations and evidence-based practices for postoperative care following cholecystectomy. Key areas encompass pain control, respiratory assistance, early mobilization, wound and drain management, nutritional advice, psychosocial aid, and discharge preparation. By integrating current research and clinical guidelines, this review aims to serve as an authoritative resource to assist nurses in improving postoperative outcomes and patient satisfaction.
+
+Key Words: Cholecystectomy; Postoperative care; Nursing; Pain management; Early mobilization; Low-resource settings
+©The Author(s) 2025. Published by Baishideng Publishing Group Inc. All rights reserved.
+
+WJGS https://www.wjgnet.com
+
+1
+
+August 27, 2025 Volume 17 Issue 8
+
+Tu JJ et al. Postoperative care after cholecystectomy
+Core Tip: Cholecystectomy, commonly performed for symptomatic cholelithiasis and gallbladder pathologies, has benefited from advancements in surgical techniques, such as laparoscopic and robotic approaches. Postoperative care is crucial to enhance recovery, prevent complications, and improve patient outcomes. Nurses play a central role in this process in key areas including pain management, respiratory support, early mobilization, wound care, nutritional guidance, and psychosocial support. This review offers evidence-based practices to support nursing interventions and enhance postoperative patient satisfaction.
+Citation: Tu JJ, Chen Z, Zhou ZQ, Lu FY. Postoperative care for patients undergoing cholecystectomy: A comprehensive nursing review. World J Gastrointest Surg 2025; 17(8): 106170 URL: https://www.wjgnet.com/1948-9366/full/v17/i8/106170.htm DOI: https://dx.doi.org/10.4240/wjgs.v17.i8.106170
+
+INTRODUCTION
+Cholecystectomy, the surgical removal of the gallbladder, is necessary for various conditions such as gallstones (cholelithiasis), cholecystitis, gallbladder polyps, and other complications like biliary dyskinesia or gallbladder neoplasms [1]. The procedure has significantly advanced in recent decades, with laparoscopic cholecystectomy now recognized as the preferred method due to its minimally invasive nature, reduced postoperative pain, and shorter hospital stays compared to open surgery[2]. More recently, single-incision laparoscopic cholecystectomy and robotic techniques have further improved surgical management, although they are not as widely adopted as standard laparoscopic procedures in many settings[3]. Despite technological advancements, the postoperative phase remains crucial in determining patient outcomes. Proper postoperative care can shorten hospital stays, lower the risk of complications such as infection or postoperative bleeding, and facilitate quicker recovery of normal functions[4]. Nurses play a vital role in this care continuum by assessing pain, maintaining fluid and electrolyte balance, providing wound care, encouraging early ambulation, and offering patient education and emotional support[5]. The primary objective is not only to ensure a safe and complication-free recovery but also to address individual patient needs-physical, psychological, and social-enabling patients to resume daily activities and maintain a high quality of life.
+Laparoscopic cholecystectomy has enhanced patient satisfaction and outcomes; however, postoperative complications such as bile duct injury, residual common bile duct stones, postoperative pneumonia, and incisional site infections can still occur[6]. Therefore, effective nursing care necessitates a comprehensive evidence-based strategy encompassing surveillance for surgical complications, pain management, respiratory and circulatory support, and patient education on discharge and self-care at home[7]. Nurses should tailor care plans to individual comorbidities, considering factors such as age, obesity, diabetes, and complex gallbladder diseases that may elevate the risk of adverse events[8]. Tailored approaches may be needed for specific populations, such as geriatric and pediatric patients. Sociocultural factors and health literacy levels significantly influence postoperative compliance and long-term health results[9]. This review aims to provide a detailed evidence-based analysis of postoperative nursing care for patients undergoing cholecystectomy.
+
+METHODOLOGY
+A focused search of PubMed, CINAHL and Web of Science (January 2014-March 2024) used: ("cholecystectomy") AND ("postoperative care" OR "enhanced recovery"). We included English fulltext studies on adults reporting pain, complications, length of stay or readmission; paediatric series, case reports < 10 patients and conference abstracts were excluded. Two reviewers screened records independently and summarised eligible evidence narratively.
+
+CHOLECYSTECTOMY OVERVIEW: PROCEDURE AND CLINICAL SIGNIFICANCE
+The gallbladder, a small organ responsible for storing and concentrating bile to aid in fat digestion, may require surgical removal in cases where its pathology leads to significant morbidity or poses a risk to patient safety. Laparoscopic cholecystectomy, introduced in the late 1980s, has become the preferred procedure due to its minimally invasive approach and favorable recovery outcomes[10]. This method typically involves insufflating carbon dioxide into the peritoneal cavity to create a working space, followed by the insertion of a laparoscope and other surgical instruments through small port incisions. The gallbladder is dissected from the liver bed and then removed through a single port site [11].
+Open cholecystectomy remains an option for patients with significant inflammation, previous abdominal surgeries causing adhesions, specific anatomical variations, or intraoperative complications that prevent laparoscopic procedures [12]. Despite a longer hospital stay and increased postoperative pain levels associated with open cholecystectomy, it may be preferable in certain clinical conditions. Advancements in imaging techniques, such as intraoperative cholangiography and preoperative endoscopic retrograde cholangiopancreatography, enable surgeons to plan better and reduce surgical
+
+WJGS https://www.wjgnet.com
+
+2
+
+August 27, 2025 Volume 17 Issue 8
+
+Tu JJ et al. Postoperative care after cholecystectomy
+complications[13]. Robotic cholecystectomy, utilizing platforms such as the da Vinci Surgical System, provides improved visualization and enhanced surgeon dexterity, potentially lowering complications and streamlining surgical procedures [14]. However, the widespread adoption of robotic surgery is limited by costs and the necessity for specialized training. Irrespective of the surgical approach (laparoscopic, open, or robotic), postoperative care principles remain consistent: Managing pain, supporting physiological functions, and preventing complications[15]. Laparoscopic procedures may lead to postoperative shoulder pain due to residual carbon dioxide irritating the diaphragm, while open procedures involve a larger abdominal incision with a higher infection risk and more severe pain[16]. Therefore, postoperative interventions need to be tailored accordingly. The implementation of enhanced recovery after surgery protocols has standardized perioperative care, promoting practices like early feeding, reduced opioid usage, and prompt mobilization, all requiring effective nursing leadership[17].
+IMMEDIATE POSTOPERATIVE CARE
+Immediate postoperative care typically starts in the Post-Anesthesia Care Unit (PACU). The nursing team in this setting must promptly evaluate airway patency, breathing, and circulation, collectively known as the “ABCs”[18]. Observations encompass vital signs such as blood pressure, heart rate, respiratory rate, oxygen saturation, and temperature. Early detection of potential complications is crucial. Nurses should check the surgical site for bleeding or hematoma formation, assess the patient’s level of consciousness, and monitor urine output to ensure sufficient perfusion[19]. During laparoscopic cholecystectomy, the carbon dioxide used for insufflation may cause referred pain to the shoulder or upper back, and residual gas can impede optimal ventilation if not expelled. Therefore, patients may need assistance with deep breathing exercises, incentive spirometry, and supplemental oxygen to ensure proper oxygenation[20]. In open procedures, respiratory function may be compromised by increased incisional pain, hindering deep breathing. Nurses must monitor early signs of atelectasis or pneumonia, such as decreased oxygen saturation, altered breath sounds, and increased respiratory rates[21]. Pain management in the immediate postoperative period often involves multimodal analgesia. Depending on institutional protocols and patient history, intravenous opioids, non-opioid analgesics (e.g., acetaminophen), and nonsteroidal anti-inflammatory drugs (NSAIDs) may be utilized[22]. Peripheral nerve blocks or local anesthetic infiltration at the trocar or incision sites can further alleviate pain and reduce opioid requirements. Nursing duties include administering analgesics as directed, assessing their efficacy, and monitoring adverse effects like respiratory depression or sedation[23]. Intravenous fluid administration is another crucial aspect of immediate postoperative care, especially in patients who have been nil per os before surgery. Nurses must regulate fluid intake to maintain hemodynamic stability and electrolyte balance while preventing fluid overload[24]. Monitoring the patient’s postoperative laboratory results, including hemoglobin levels and liver function tests, is equally crucial. If abnormal findings are detected, the care team must adjust management accordingly. These actions, along with regular vital sign assessments, conclude the initial care phase and ready the patient for transfer to a dedicated surgical ward or a short-stay unit[25]. The anesthetic team oversees airway management and analgesia titration, while nurses concentrate on continuous ABC monitoring, early mobilization guidance, and patient education to prevent role duplication.
+PAIN MANAGEMENT STRATEGIES
+Postoperative pain is a primary concern following cholecystectomy and can hinder mobility, breathing exercises, and overall recovery. Therefore, effective pain management is a fundamental aspect of nursing care and can significantly influence patient satisfaction and clinical outcomes[26]. Pain may present at the incision sites in the shoulder due to diaphragmatic irritation and occasionally in the upper abdomen or back. It is often multifactorial, stemming from tissue trauma, inflammatory responses, and residual gas in laparoscopic procedures[27]. A recent randomized trial revealed that active gas aspiration reduced 12-hour Numeric Rating Scale (NRS) pain scores by approximately 2 points and reduced shoulder pain incidence by half compared to simple compression[28]. Hence, multimodal analgesia is widely recommended, incorporating paracetamol (acetaminophen), NSAIDs, opioids, local anesthetic infiltration, and sometimes adjunct therapies such as gabapentinoids or ketamine infusions in opioid-tolerant or complex cases[29]. Nurses should collaborate with anesthesia and surgical teams to customize pain management regimens based on individual patient requirements. Pain assessment tools such as the NRS or Visual Analog Scale aid in evaluating pain intensity, although patient-reported pain remains subjective and is influenced by emotional and cultural factors[30]. In laparoscopic cholecystectomy, local anesthetic infiltration at trocar sites or a transversus abdominis plane block can alleviate somatic pain[31]. For open cholecystectomy, epidural analgesia may be used, providing superior pain relief and faster recovery of pulmonary function, albeit with potential side effects such as hypotension or urinary retention[32]. Nurses are tasked with monitoring the effectiveness of analgesics and potential adverse effects, such as respiratory depression, sedation, constipation, and pruritus. Patient education on realistic pain management goals and the significance of pain control during recovery is equally crucial. Encouraging patients to promptly report escalating pain enables timely intervention and prevents uncontrolled pain escalation[33]. Nonpharmacological interventions, including relaxation techniques, guided imagery, and the application of heat or cold packs (when appropriate), as well as patient repositioning, play a vital role. Through therapeutic communication, nurses can provide reassurance and alleviate anxiety, which often exacerbates pain[34].
+
+WJGS https://www.wjgnet.com
+
+3
+
+August 27, 2025 Volume 17 Issue 8
+
+Tu JJ et al. Postoperative care after cholecystectomy
+RESPIRATORY SUPPORT AND COMPLICATION PREVENTION
+Effective respiratory support after cholecystectomy not only limits postoperative pulmonary problems but also anchors broader complication-prevention efforts. Complications may occur following a simple cholecystectomy, necessitating attentive nursing observation. Major complications encompass respiratory problems, surgical site infections, bleeding, deep vein thrombosis, and bile duct injuries or leaks. While these events are uncommon, their consequences can be significant, prolonging hospital stays and increasing morbidity and mortality if not promptly identified and managed[35]. Respiratory issues, such as atelectasis or pneumonia, can be alleviated through the regular use of incentive spirometry, patient education on deep breathing and coughing exercises, and adequate pain management to promote effective ventilation[36]. Nurses should monitor oxygen saturation, respiratory rate, and lung auscultation findings. Early mobilization not only aids in lung expansion but also diminishes the risk of venous thromboembolism (VTE). While mechanical prophylaxis devices and pharmacological prophylaxis (e.g., low-molecular-weight heparin) may be prescribed, the nursing role in educating patients on the importance of ambulation and adherence to preventive measures is crucial[37].
+Surgical site infections are relatively rare in laparoscopic procedures but remain a concern in open cholecystectomy or in immunocompromised patients. Proper wound care includes regular inspections for signs of redness, swelling, discharge, or dehiscence. Changing sterile dressings and following aseptic techniques are essential. If a drain is inserted during open surgery or complex laparoscopic procedures, nurses should monitor the volume, color, and consistency of the drainage to ensure the drain's patency and correct positioning[38]. Bleeding may result in alterations in vital signs (tachycardia and hypotension), reduced hemoglobin levels, or excessive output from surgical drains. Continuous assessment of vital parameters, monitoring hemoglobin or hematocrit levels, and promptly reporting any abnormalities are crucial nursing duties[39]. Bile duct injuries or leaks, which are potential complications of cholecystectomy, can present as escalating abdominal pain, fever, jaundice, or bilious drainage from the surgical site. Timely radiologic assessment and potential surgical intervention may be necessary, with nurses often playing a key role in detecting subtle clinical deterioration[40]. Recent registry data indicate that shortages in experienced nursing and surgical staff during the coronavirus disease 2019 pandemic are independently linked to higher rates of bile duct injury and readmissions[41]. Figure 1 depicts a stepwise complication-monitoring flowchart.
+
+NUTRITION AND GASTROINTESTINAL RECOVERY
+Nutrition plays a crucial role in the recovery process following cholecystectomy. While many patients can return to a regular diet within 24 hours after surgery, personalized approaches are often required based on the patient’s condition, comorbidities, and the nature of the procedure (laparoscopic vs open)[42]. For uncomplicated laparoscopic cholecystectomy cases, enhanced recovery protocols typically recommend early initiation of oral fluids and a light diet on the day of the operation to reduce insulin resistance and promote early bowel function[17]. Nurses need to evaluate patients' ability to tolerate oral intake and watch for symptoms like nausea, vomiting, or bloating, which may be aggravated by residual anesthesia, opioids, or carbon dioxide insufflation[11]. Prophylactic prescription or as-needed administration of antiemetic drugs such as ondansetron or metoclopramide may be necessary. In instances of significant postoperative nausea and vomiting, intravenous fluid therapy and electrolyte replacement are vital to prevent dehy-dration and restore normal bodily functions[12]. Dietary suggestions commonly include low-fat meals, which are particularly important for patients with a history of biliary colic or fatty food intolerance. Some patients may experience post-cholecystectomy diarrhea or dyspepsia, particularly those with rapid bile flow into the small intestine[9]. Nurses should educate patients on dietary adjustments, such as consuming smaller, more frequent meals, limiting high-fat foods, and ensuring adequate hydration to alleviate symptoms. Additional assessment or referral to a dietitian may be warranted[13].
+Monitoring bowel movements is another important nursing responsibility. Postoperative ileus may arise due to anesthesia, opioids, or reduced mobility. Interventions involve walking, ensuring sufficient hydration, and administering prokinetic drugs. Nurses need to evaluate bowel sounds, abdominal swelling, and the passing of gas to gauge gut function recovery. Timely identification of delayed gastric emptying or ileus is essential for prompt management[14]. Nutritional care can be intricate for patients after open cholecystectomy or those with complex perioperative courses, such as bile duct exploration or complications necessitating reoperation. Total parenteral nutrition or nasoenteric feeding tubes may be necessary if enteral feeding is not feasible or well-tolerated. In such cases, nurses play a critical role in monitoring nutritional status, accurately tracking fluid balance, and strictly following sterile protocols for intravenous lines to prevent infections and aid in recovery[15]. The primary postoperative nursing priorities for each approach are outlined in Table 1.
+
+PSYCHOSOCIAL ASPECTS OF POSTOPERATIVE CARE
+Postoperative care extends beyond physiological stabilization and physical recovery. Patients undergoing cholecystectomy often face anxiety, fear, and uncertainty about surgical outcomes, bodily changes, and lifestyle modifications [16]. Nurses play a crucial role in addressing these psychosocial challenges through empathetic communication, patient education, and emotional support. Preoperative anxiety may persist postoperatively, leading to increased pain perception, restlessness, or difficulty following instructions. Nurses can help by offering clear explanations about postoperative expectations, pain management strategies, and potential medication side effects[17]. Encouraging patients
+
+WJGS https://www.wjgnet.com
+
+4
+
+August 27, 2025 Volume 17 Issue 8
+
+Tu JJ et al. Postoperative care after cholecystectomy
+
+Table 1 Nursing priorities by surgical modality
+
+Priority
+Analgesia Respiratory VTE risk Drain care LOS
+
+Laparoscopic
+Shoulder-pain focus; TAP block Incentive spirometer Low-moderate Rare 0-1 days
+
+Open
+Epidural or IV PCA Incentive spirometer + splinting Higher; LMWH prophylaxis Frequent 3-5 days
+
+Robotic
+Similar to laparoscopic Incentive spirometer; rapid CO2 wash-out Low Rare 1-2 days
+
+LOS: Length of stay; VTE: Venous thromboembolism; LMWH: Low-molecular-weight heparin; TAP: Transversus abdominis plane; PCA: Patientcontrolled analgesia.
+
+Figure 1 Depicts a stepwise complication-monitoring flowchart. CBC: Complete blood count.
+to voice their concerns and ask questions fosters a therapeutic environment that enhances trust and compliance. Family involvement can significantly enhance postoperative recovery. With the patient’s consent, nurses should
+engage with family members or caregivers and provide guidance on wound care, medication schedules, dietary adjustments, and signs that require medical attention. This collaboration not only lessens the patient's burden but also nurtures a supportive home environment conducive to recovery[18]. Cultural competence is essential for psychosocial care as cultural background shapes attitudes toward pain, dietary preferences, and acceptance of medical interventions. By recognizing cultural values and beliefs, nurses can customize communication and educational strategies to better connect with diverse patient populations[19]. In advanced nursing practice, psychosocial assessment tools can help identify patients at higher risk of postoperative stress or depression. Referring patients to mental health professionals or chaplaincy services may be beneficial when significant emotional distress is detected. Ultimately, holistic nursing care acknowledges that successful surgical outcomes encompass not only physiological measures but also psychological wellbeing and social reintegration.
+
+EARLY MOBILIZATION AND ACTIVITY MANAGEMENT
+Early mobilization is increasingly acknowledged as the foundation of postoperative care. Laparoscopic cholecystectomy, characterized by smaller incisions and reduced pain levels, allows patients to start walking sooner, frequently on the day of surgery[20]. Nursing personnel have a crucial role in motivating and aiding patients to sit up in bed, dangle their legs off the bed, and walk short distances shortly after coming back from the PACU, as tolerated.
+Ambulation enhances various physiological benefits, such as improved pulmonary function, reduced risk of VTE, and enhanced gastrointestinal motility[21]. However, assessing and adjusting each patient’s activity level based on pain control, hemodynamic stability, and absence of complicating factors is crucial. Nurses should monitor vital signs during initial ambulation and watch for signs of orthostatic hypotension, dizziness, or excessive fatigue. In open cholecystectomy, ambulation may be more challenging due to increased postoperative pain and a larger incision. Pain management strategies, such as epidural analgesia or regular analgesic administration, facilitate early mobilization[22]. Physical therapists may assist in developing suitable exercises to strengthen abdominal muscles and prevent deconditioning. Nurses play a key role in coordinating these interdisciplinary efforts, ensuring patients attend scheduled physical therapy sessions and receive adequate pre-medication for pain before these sessions. Patient education is vital to emphasize the importance of early mobility in preventing complications and expediting recovery. Nurses should educate patients on proper techniques for getting out of bed, using an abdominal binder if advised by the surgeon, and supporting the incision site with a pillow when coughing or sneezing to minimize discomfort[23].
+
+SPECIFIC CONSIDERATIONS FOR HIGH-RISK PATIENT POPULATIONS
+Certain groups require specialized nursing interventions due to comorbidities, advanced age, or other risk factors that could complicate postoperative recovery. For example, older adults may show reduced physiological reserves, preexisting cardiac or pulmonary conditions, and a higher likelihood of polypharmacy. These factors increase vulnerability to postoperative complications, such as delirium, pneumonia, and adverse drug reactions[24]. Nurses should conduct comprehensive risk assessments, monitor medication regimens closely, and implement fall prevention strategies. Collaboration between geriatric and pharmacy teams is often beneficial, and obese patients present another subset
+
+WJGS https://www.wjgnet.com
+
+5
+
+August 27, 2025 Volume 17 Issue 8
+
+Tu JJ et al. Postoperative care after cholecystectomy
+requiring specific consideration. Obesity can complicate the laparoscopic approach due to poor visualization and technical challenges, sometimes prolonging the surgical time and duration[25]. Postoperatively, these patients are at increased risk of respiratory compromise, wound complications, and VTE. Nursing strategies include ensuring adequate respiratory support, using specialty bariatric equipment, and maintaining meticulous wound care, particularly in the context of skinfolds and increased incision tension[26]. In patients with diabetes, glycemic control is crucial for promoting wound healing and reducing the risk of infection. Regular blood glucose checks, appropriate insulin administration, and oral hypoglycemic adjustments are essential. Nurses must be vigilant about signs of hyperglycemia or hypoglycemia, as both can complicate the recovery trajectory[27]. Patients with an underlying liver disease or cirrhosis require close monitoring of liver function and coagulopathy markers. A reduced hepatic reserve can limit the ability to metabolize medications and predispose patients to postoperative ascites, encephalopathy, or bleeding[29].
+
+PATIENT EDUCATION AND DISCHARGE PLANNING
+Effective patient education and discharge planning play crucial roles in determining post-cholecystectomy outcomes. While laparoscopic cholecystectomy patients may be discharged within 24 hours, they often continue their recovery at home, requiring clear instructions on pain management, wound care, activity levels, and dietary modifications[30]. Nurses should offer verbal explanations and written materials summarizing essential information to enable patients and caregivers to refer to the instructions. Wound care education should cover recognizing signs of infection, such as redness, swelling, warmth, or discharge, and knowing when to seek medical attention. Patients should also be informed about any drain that is placed. While many laparoscopic procedures do not require drains unless complications arise, open procedures may require fluid evacuation to reduce the risk of hematoma or seroma formation[31]. Nurses must educate patients on measuring and documenting drain output, maintaining device patency, safely removing or discontinuing the device as per physician orders, and transitioning from intravenous to oral analgesics post-discharge. Patients should be instructed on proper medication dosing intervals, potential side effects, and the importance of not exceeding recommended doses. There is a growing emphasis on tapering opioid doses to minimize dependence, particularly in regions affected by the opioid crisis[32]. The rationale for employing non-pharmacological strategies, such as local heat, relaxation techniques, or gentle movement to alleviate discomfort, and activity guidelines typically permit light-tomoderate activities. However, patients are advised to avoid heavy lifting (over 5-10 pounds) for four-six weeks, depending on the surgeon’s recommendations. Nurses should clarify restrictions on driving until analgesic use is significantly reduced and abdominal discomfort subsides. Patients should also receive counseling on gradually reintroducing low-fat diets, increasing fiber intake, and staying hydrated to promote bowel function[33]. The timing of followup appointments with surgeons or primary care providers is critical for evaluating wound healing, removing sutures or staples, and addressing ongoing issues. Nurses should schedule these appointments before discharge and provide patients with contact information for urgent concerns. This proactive approach has been shown to reduce readmission rates and enhance patient satisfaction[34]. Finally, telehealth services and virtual consultations have expanded postoperative follow-up and education options. Patients can utilize nurse-led hotlines, digital platforms for wound assessment, or video consultations, which are particularly beneficial in remote areas or for individuals with mobility limitations[35].
+
+CHALLENGES IN LOW-RESOURCE SETTINGS
+Evidence from low- and middle-income countries remains scarce. Limited opioids, shortage of specialist nurses and lack of devices (spirometers, compression sleeves) hinder guideline uptake. Nevertheless, paracetamolbased analgesia, coached deep breathing, early bedside ambulation and mobilephone wound followup have proven feasible and costeffective in recent Nigerian and Kenyan cohorts, suggesting that simplified ERAS bundles can still improve outcomes where resources are constrained[7].
+
+CONCLUSION
+Cholecystectomy, whether laparoscopic, open, or robotic, typically results in a positive outcome. However, postoperative care is intricate and necessitates a comprehensive grasp of surgical anatomy, physiology, pain management, and psychosocial factors. Nurses play a crucial role in this care continuum, overseeing patients from the PACU to the complete resumption of daily activities. Effective nursing practice requires swift ABC assessment, vigilant pain control, prevention of complications such as infection or VTE, and careful monitoring of nutrition and fluid status, all underpinned by clear patient and family education. Tailored interventions for high-risk groups, in collaboration with multidisciplinary teams, will further improve safety and recovery. As surgical technology advances and care models become more patient-centered, nurses play a crucial role in bridging innovation with bedside reality by providing holistic expertise. The key points for practice include: (1) Incorporating nurse-led stepwise complication monitoring flow into standard postoperative orders; (2) Adopting multimodal analgesia, including active desufflation, to alleviate shoulder pain and facilitate mobilization; and (3) Integrating procedure-specific nursing priorities into orientation and ongoing education programs. Implementing these measures can effectively translate the reviewed evidence into practical steps
+
+WJGS https://www.wjgnet.com
+
+6
+
+August 27, 2025 Volume 17 Issue 8
+
+Tu JJ et al. Postoperative care after cholecystectomy that promptly enhance recovery speed, lower readmission rates, and boost patient satisfaction.
+
+FOOTNOTES
+Author contributions: Tu JJ and Chen Z conceptualized the study and designed the research framework; Zhou ZQ and Tu JJ collected and organized the relevant clinical and nursing data; Lu FY and Tu JJ drafted the initial version of the manuscript; Tu JJ and Chen Z performed the formal analysis of nursing outcomes; Lu FY, Zhou ZQ, and Tu JJ jointly contributed to methodology design and data visualization; Tu JJ and Lu FY validated the data and ensured the integrity of the manuscript. All authors have reviewed, edited, and approved the final version of the manuscript. Zhou ZQ and Lu FY are co-corresponding authors and made critical and indispensable contributions to the completion of this study. Zhou ZQ guided the clinical framework of postoperative nursing care, coordinated interdisciplinary input from surgical and nursing teams, and played a central role in identifying key areas of clinical significance. She also contributed significantly to the manuscript revision and cross-checked the integration of nursing protocols with evidence-based guidelines. Lu FY proposed the overall research direction and supervised the entire process of manuscript development. She was responsible for literature synthesis, manuscript structure optimization, and ensuring alignment with liver surgery-related postoperative care strategies. She also oversaw correspondence, response to revisions, and the final approval process for submission. The collaboration between Zhou ZQ and Lu FY is essential to the study’s development, data interpretation, and final publication, and justifies their designation as co-corresponding authors.
+Conflict-of-interest statement: All the authors report no relevant conflicts of interest for this article.
+Open Access: This article is an open-access article that was selected by an in-house editor and fully peer-reviewed by external reviewers. It is distributed in accordance with the Creative Commons Attribution NonCommercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial. See: https://creativecommons.org/Licenses/by-nc/4.0/
+Country of origin: China
+ORCID number: Jing-Jia Tu 0009-0008-5959-0881; Fang-Yan Lu 0000-0002-5652-9101.
+S-Editor: Li L L-Editor: A P-Editor: Zhao YQ
+
+REFERENCES
+
+1
+
+Peery AF, Crockett SD, Murphy CC, Jensen ET, Kim HP, Egberg MD, Lund JL, Moon AM, Pate V, Barnes EL, Schlusser CL, Baron TH,
+
+Shaheen NJ, Sandler RS. Burden and Cost of Gastrointestinal, Liver, and Pancreatic Diseases in the United States: Update 2021.
+
+Gastroenterology 2022; 162: 621-644 [RCA] [PMID: 34678215 DOI: 10.1053/j.gastro.2021.10.017] [FullText]
+
+2
+
+van Dijk AH, Wennmacker SZ, de Reuver PR, Latenstein CSS, Buyne O, Donkervoort SC, Eijsbouts QAJ, Heisterkamp J, Hof KI', Janssen J,
+
+Nieuwenhuijs VB, Schaap HM, Steenvoorde P, Stockmann HBAC, Boerma D, Westert GP, Drenth JPH, Dijkgraaf MGW, Boermeester MA,
+
+van Laarhoven CJHM. Restrictive strategy versus usual care for cholecystectomy in patients with gallstones and abdominal pain (SECURE): a
+
+multicentre, randomised, parallel-arm, non-inferiority trial. Lancet 2019; 393: 2322-2330 [RCA] [PMID: 31036336 DOI:
+
+10.1016/S0140-6736(19)30941-9] [FullText]
+
+3
+
+Noitumyae J, Mahatharadol V, Niramis R. Single-Incision Pediatric Laparoscopic Surgery: Surgical Outcomes, Feasibility Indication, and the
+
+Systematic Review. J Laparoendosc Adv Surg Tech A 2022; 32: 1190-1202 [RCA] [PMID: 35900259 DOI: 10.1089/lap.2021.0869] [FullText]
+
+4
+
+Alexander HC, Bartlett AS, Wells CI, Hannam JA, Moore MR, Poole GH, Merry AF. Reporting of complications after laparoscopic
+
+cholecystectomy: a systematic review. HPB (Oxford) 2018; 20: 786-794 [RCA] [PMID: 29650299 DOI: 10.1016/j.hpb.2018.03.004] [FullText]
+
+5
+
+Wainwright TW, Jakobsen DH, Kehlet H. The current and future role of nurses within enhanced recovery after surgery pathways. Br J Nurs
+
+2022; 31: 656-659 [RCA] [PMID: 35736850 DOI: 10.12968/bjon.2022.31.12.656] [FullText]
+
+6
+
+Johansson E, Österberg J, Sverdén E, Enochsson L, Sandblom G. Intervention versus surveillance in patients with common bile duct stones
+
+detected by intraoperative cholangiography: a population-based registry study. Br J Surg 2021; 108: 1506-1512 [RCA] [PMID: 34642735 DOI:
+
+10.1093/bjs/znab324] [FullText] [Full Text(PDF)]
+
+7
+
+Garzali IU, Alhuniti MNM, Hassanat R, Alsardia Y, Aloun A. Feasibility of Day-Case Laparoscopic Cholecystectomy. Nigeri J Med 2022;
+
+31: 491-496 [RCA] [DOI: 10.4103/njm.njm_69_22] [FullText]
+
+8
+
+Sato N, Shibao K, Mori Y, Higure A, Yamaguchi K. Postoperative complications following single-incision laparoscopic cholecystectomy: a
+
+retrospective analysis in 360 consecutive patients. Surg Endosc 2015; 29: 708-713 [RCA] [PMID: 25052126 DOI:
+
+10.1007/s00464-014-3726-0] [FullText]
+
+9
+
+Bhagat TS, Gulati G, Bhagat R, Gupta S. Epidemiology of gallbladder cancer in India 2018–2023. Santosh Univ J Health Sci 2024; 10: 87-92
+
+[DOI: 10.4103/sujhs.sujhs_12_24] [FullText]
+
+10 El Boghdady M, Arang H, Ewalds-kvist BM. Fundus-first laparoscopic cholecystectomy for complex gallbladders: A systematic review.
+
+Health Sci Rev (Oxf) 2022; 2: 100014 [DOI: 10.1016/j.hsr.2022.100014] [FullText]
+
+11 Bourgeois C, Oyaert L, Van de Velde M, Pogatzki-Zahn E, Freys SM, Sauter AR, Joshi GP, Dewinter G; PROSPECT working Group of the
+
+European Society of Regional Anaesthesia and Pain Therapy (ESRA). Pain management after laparoscopic cholecystectomy: A systematic
+
+review and procedure-specific postoperative pain management (PROSPECT) recommendations. Eur J Anaesthesiol 2024; 41: 841-855 [RCA]
+
+[PMID: 39129451 DOI: 10.1097/EJA.0000000000002047] [FullText]
+
+WJGS https://www.wjgnet.com
+
+7
+
+August 27, 2025 Volume 17 Issue 8
+
+Tu JJ et al. Postoperative care after cholecystectomy
+12 Gallaher JR, Charles A. Acute Cholecystitis: A Review. JAMA 2022; 327: 965-975 [RCA] [PMID: 35258527 DOI: 10.1001/jama.2022.2350] [FullText]
+13 Evangelisti G, Barra F, Centurioni MG, D'Alessandro G, Alessandri F, Ferrero S. Vaginal Natural Orifice Transluminal Endoscopic Surgery (NOTES) for Treating Benign Adnexal Diseases: Past Results and Future Developments. J Invest Surg 2022; 35: 409-410 [RCA] [PMID: 33289584 DOI: 10.1080/08941939.2020.1843205] [FullText]
+14 Zhang MX, Chi SQ, Cao GQ, Tang JF, Tang ST. Comparison of efficacy and safety of robotic surgery and laparoscopic surgery for choledochal cyst in children: a systematic review and proportional meta-analysis. Surg Endosc 2023; 37: 31-47 [RCA] [PMID: 35913517 DOI: 10.1007/s00464-022-09442-0] [FullText]
+15 Rehman FU, Ali MZ, Zafar M, Ikram M, Tassadduq A, Habib MF. Perioperative Outcomes after Elective Laparoscopic Cholecystectomy in High Risk Patients. J Health Rehabil Res 2024; 4: 658-662 [DOI: 10.61919/jhrr.v4i2.705] [FullText]
+16 Akturk R, Serinsöz S. Determining a Method to Minimize Pain After Laparoscopic Cholecystectomy Surgery. Surg Laparosc Endosc Percutan Tech 2022; 32: 441-448 [RCA] [PMID: 35797664 DOI: 10.1097/SLE.0000000000001071] [FullText]
+17 Sami A, Rafiq K, Ahmed Z, Khan MUF, Noor D, Khan MU. Unveiling the Impact of Enhanced Recovery After Surgery Programs on PostOperative Morbidity and Mortality. Pak J Health Sci 2024; 5: 237-244 [DOI: 10.54393/pjhs.v5i09.1881] [FullText]
+18 Zhang M, Zhou SY, Xing MY, Xu J, Shi XX, Zheng SS. The application of clinical pathways in laparoscopic cholecystectomy. Hepatobiliary Pancreat Dis Int 2014; 13: 348-353 [RCA] [PMID: 25100118 DOI: 10.1016/s1499-3872(14)60279-4] [FullText]
+19 Ylimartimo AT, Nurkkala J, Koskela M, Lahtinen S, Kaakinen T, Vakkala M, Hietanen S, Liisanantti J. Postoperative Complications and Outcome After Emergency Laparotomy: A Retrospective Study. World J Surg 2023; 47: 119-129 [RCA] [PMID: 36245004 DOI: 10.1007/s00268-022-06783-8] [FullText]
+20 Artıklar T, Erden S. The Effect of Breathing and Coughing Exercises and Oxygen Therapy on Shoulder Pain and Analgesic Consumption After Laparoscopic Cholecystectomy: A Randomized Controlled Study. J Perianesth Nurs 2024; 39: 540-546 [RCA] [PMID: 38069969 DOI: 10.1016/j.jopan.2023.10.008] [FullText]
+21 Arozullah AM, Khuri SF, Henderson WG, Daley J; Participants in the National Veterans Affairs Surgical Quality Improvement Program. Development and validation of a multifactorial risk index for predicting postoperative pneumonia after major noncardiac surgery. Ann Intern Med 2001; 135: 847-857 [RCA] [PMID: 11712875 DOI: 10.7326/0003-4819-135-10-200111200-00005] [FullText]
+22 Gordon DB, de Leon-Casasola OA, Wu CL, Sluka KA, Brennan TJ, Chou R. Research Gaps in Practice Guidelines for Acute Postoperative Pain Management in Adults: Findings From a Review of the Evidence for an American Pain Society Clinical Practice Guideline. J Pain 2016; 17: 158-166 [RCA] [PMID: 26719073 DOI: 10.1016/j.jpain.2015.10.023] [FullText]
+23 Jarzyna D, Jungquist CR, Pasero C, Willens JS, Nisbet A, Oakes L, Dempsey SJ, Santangelo D, Polomano RC. American Society for Pain Management Nursing guidelines on monitoring for opioid-induced sedation and respiratory depression. Pain Manag Nurs 2011; 12: 118145.e10 [RCA] [PMID: 21893302 DOI: 10.1016/j.pmn.2011.06.008] [FullText]
+24 Gan TJ, Meyer T, Apfel CC, Chung F, Davis PJ, Eubanks S, Kovac A, Philip BK, Sessler DI, Temo J, Tramèr MR, Watcha M; Department of Anesthesiology, Duke University Medical Center. Consensus guidelines for managing postoperative nausea and vomiting. Anesth Analg 2003; 97: 62-71, table of contents [RCA] [PMID: 12818945 DOI: 10.1213/01.ane.0000068580.00245.95] [FullText]
+25 Donkervoort SC, Kortram K, Dijksman LM, Boermeester MA, van Ramshorst B, Boerma D. Anticipation of complications after laparoscopic cholecystectomy: prediction of individual outcome. Surg Endosc 2016; 30: 5388-5394 [RCA] [PMID: 27129543 DOI: 10.1007/s00464-016-4895-9] [FullText]
+26 Dantes G, Keane OA, Margol M, Thompson O, Darville G, Clifton MS, Heiss KF. Implementation of enhanced recovery protocols reduces opioid use in pediatric laparoscopic cholecystectomy surgery. Pediatr Surg Int 2022; 38: 1517-1523 [RCA] [PMID: 36069916 DOI: 10.1007/s00383-022-05195-y] [FullText]
+27 Bisgaard T, Rosenberg J, Kehlet H. From acute to chronic pain after laparoscopic cholecystectomy: a prospective follow-up analysis. Scand J Gastroenterol 2005; 40: 1358-1364 [RCA] [PMID: 16334446 DOI: 10.1080/00365520510023675] [FullText]
+28 Abdelsamad A, Ruehe L, Lerch LP, Ibrahim E, Daenenfaust L, Langenbach MR. Active aspiration versus simple compression to remove residual gas from the abdominal cavity after laparoscopic cholecystectomy: a randomized clinical trial. Langenbecks Arch Surg 2022; 407: 1797-1804 [RCA] [PMID: 35469110 DOI: 10.1007/s00423-022-02522-8] [FullText]
+29 Wick EC, Grant MC, Wu CL. Postoperative Multimodal Analgesia Pain Management With Nonopioid Analgesics and Techniques: A Review. JAMA Surg 2017; 152: 691-697 [RCA] [PMID: 28564673 DOI: 10.1001/jamasurg.2017.0898] [FullText]
+30 McIntyre C, Johnston A, Foley D, Lawler J, Bucholc M, Flanagan L, Sugrue M. Readmission to hospital following laparoscopic cholecystectomy: a meta-analysis. Anaesthesiol Intensive Ther 2020; 52: 47-55 [RCA] [PMID: 32090306 DOI: 10.5114/ait.2020.92967] [Full Text]
+31 Herrador-Benito J, Páramo-Zunzunegui J, Rodríguez-Caravaca G, Durán-Poveda M. Pre-incisional local infiltration with levobupivacaine in laparoscopic cholecystectomy: a randomized and clinical trial. Cir Cir 2024; 92: 69-76 [RCA] [PMID: 38537241 DOI: 10.24875/CIRU.230000221] [FullText]
+32 Mannion AF, Elfering A. Predictors of surgical outcome and their assessment. Eur Spine J 2006; 15 Suppl 1: S93-108 [RCA] [PMID: 16320033 DOI: 10.1007/s00586-005-1045-9] [FullText]
+33 Clarke EB, French B, Bilodeau ML, Capasso VC, Edwards A, Empoliti J. Pain management knowledge, attitudes and clinical practice: the impact of nurses' characteristics and education. J Pain Symptom Manage 1996; 11: 18-31 [RCA] [PMID: 8815146 DOI: 10.1016/0885-3924(95)00134-4] [FullText]
+34 Walton LL, Duff E, Arora RC, McMillan DE. Surgery patients' perspectives of their role in postoperative pain: A scoping review. Int J Nurs Stud Adv 2023; 5: 100124 [RCA] [PMID: 38746556 DOI: 10.1016/j.ijnsa.2023.100124] [FullText] [Full Text(PDF)]
+35 Graham L. Care of patients undergoing laparoscopic cholecystectomy. Nurs Stand 2008; 23: 41-48; quiz 50 [RCA] [PMID: 18988582 DOI: 10.7748/ns2008.10.23.7.41.c6711] [FullText]
+36 Gustafsson UO, Scott MJ, Schwenk W, Demartines N, Roulin D, Francis N, McNaught CE, MacFie J, Liberman AS, Soop M, Hill A, Kennedy RH, Lobo DN, Fearon K, Ljungqvist O; Enhanced Recovery After Surgery Society. Guidelines for perioperative care in elective colonic surgery: Enhanced Recovery After Surgery (ERAS®) Society recommendations. Clin Nutr 2012; 31: 783-800 [RCA] [PMID: 23099039 DOI: 10.1016/j.clnu.2012.08.013] [FullText]
+37 Turner BRH, Machin M, Jasionowska S, Salim S, Onida S, Shalhoub J, Davies AH. Systematic Review and Meta-analysis of the Additional Benefit of Pharmacological Thromboprophylaxis for Endovenous Varicose Vein Interventions. Ann Surg 2023; 278: 166-171 [RCA] [PMID:
+
+WJGS https://www.wjgnet.com
+
+8
+
+August 27, 2025 Volume 17 Issue 8
+
+Tu JJ et al. Postoperative care after cholecystectomy
+36205129 DOI: 10.1097/SLA.0000000000005709] [FullText] [Full Text(PDF)] 38 Cirocchi R, Kwan SH, Popivanov G, Ruscelli P, Lancia M, Gioia S, Zago M, Chiarugi M, Fedeli P, Marzaioli R, Di Saverio S. Routine drain
+or no drain after laparoscopic cholecystectomy for acute cholecystitis. Surgeon 2021; 19: 167-174 [RCA] [PMID: 32713729 DOI: 10.1016/j.surge.2020.04.011] [FullText] 39 Kaushik R. Bleeding complications in laparoscopic cholecystectomy: Incidence, mechanisms, prevention and management. J Minim Access Surg 2010; 6: 59-65 [RCA] [PMID: 20877476 DOI: 10.4103/0972-9941.68579] [FullText] 40 Kholdebarin R, Boetto J, Harnish JL, Urbach DR. Risk factors for bile duct injury during laparoscopic cholecystectomy: a case-control study. Surg Innov 2008; 15: 114-119 [RCA] [PMID: 18448447 DOI: 10.1177/1553350608318144] [FullText] 41 Abdelsamad A, Ibrahim E, Elsheikh A, Abousaleh A, Daenenfaust L, Elfallah M, Gebauer F, Langenbach MR. Worse cholecystectomy outcomes during the COVID-19 pandemic: were staff shortages or a change in patient case-mix the culprit? Surg Endosc 2024; 38: 7389-7398 [RCA] [PMID: 39443378 DOI: 10.1007/s00464-024-11337-1] [FullText] 42 Silvetti S, Paternoster G, Abelardo D, Ajello V, Aloisio T, Baiocchi M, Capuano P, Caruso A, Del Sarto PA, Guarracino F, Landoni G, Marianello D, Münch CM, Pieri M, Sanfilippo F, Sepolvere G, Torracca L, Toscano A, Zaccarelli M, Ranucci M, Scolletta S. Recommendations for fast-track extubation in adult cardiac surgery patients: a consensus statement. Minerva Anestesiol 2024; 90: 957-968 [RCA] [PMID: 39545652 DOI: 10.23736/S0375-9393.24.18267-3] [FullText]
+
+WJGS https://www.wjgnet.com
+
+9
+
+August 27, 2025 Volume 17 Issue 8
+
+Published by Baishideng Publishing Group Inc 7041 Koll Center Parkway, Suite 160, Pleasanton, CA 94566, USA
+Telephone: +1-925-3991568 E-mail: office@baishideng.com Help Desk: https://www.f6publishing.com/helpdesk
+https://www.wjgnet.com
+© 2025 Baishideng Publishing Group Inc. All rights reserved.

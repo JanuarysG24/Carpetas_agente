@@ -1,0 +1,71 @@
+{
+  "session_id": "muestra-caso_tray_pac_42_00019_14",
+  "generated_at": "2026-08-09T11:31:05.172Z",
+  "patient_ref": null,
+  "identity_status": "identificado",
+  "frame": {
+    "provenance": "inferred",
+    "rounds": 1,
+    "context_complete": false
+  },
+  "findings": [
+    {
+      "unit_id": "fiebre",
+      "state": 3,
+      "raw": null,
+      "normalized": null,
+      "cause": "no_sabe"
+    },
+    {
+      "unit_id": "dolor_intensidad",
+      "state": 2,
+      "raw": "el dolor lo siento como un 6",
+      "normalized": 6,
+      "cause": "no_sabe"
+    },
+    {
+      "unit_id": "movilidad",
+      "state": 2,
+      "raw": "me siento como pesada",
+      "normalized": null,
+      "cause": "no_sabe"
+    },
+    {
+      "unit_id": "aspecto_herida",
+      "state": 2,
+      "raw": "la vi como rojita, un poquito, alrededor mija, pero no le vi que saliera nada raro ni mal olor",
+      "normalized": "eritema_leve",
+      "cause": "no_sabe"
+    },
+    {
+      "unit_id": "apetito",
+      "state": 2,
+      "raw": "casi no me provoca comer, todo me da como asco o pereza, apenas unas cucharaditas de sopa",
+      "normalized": "muy_disminuido",
+      "cause": "no_sabe"
+    },
+    {
+      "unit_id": "sueno",
+      "state": 2,
+      "raw": "casi no duermo, me despierto",
+      "normalized": "muy_alterado",
+      "cause": "no_sabe"
+    }
+  ],
+  "decision": {
+    "escalate": true,
+    "criticality": "verde",
+    "reason": "Contexto incompleto tras 1 ronda(s): \"fiebre\" se cerro por no_sabe sin valor normalizado. Cerrada no es cubierta: el dato no existe. \"dolor_intensidad\" se cerro por no_sabe sin valor normalizado. Cerrada no es cubierta: el dato no existe. \"movilidad\" se cerro por no_sabe sin valor normalizado. Cerrada no es cubierta: el dato no existe. \"aspecto_herida\" se cerro por no_sabe sin valor normalizado. Cerrada no es cubierta: el dato no existe. \"apetito\" se cerro por no_sabe sin valor normalizado. Cerrada no es cubierta: el dato no existe. \"sueno\" se cerro por no_sabe sin valor normalizado. Cerrada no es cubierta: el dato no existe. No se emite silencio sobre un cuadro que no se pudo leer (ADR-014).",
+    "reason_code": "contexto_incompleto",
+    "branch": "degradacion",
+    "traces": {
+      "doc_ids": [],
+      "rules_fired": []
+    }
+  },
+  "versions": {
+    "domain_version": "postop-0.1.0",
+    "vd_version": "vd-tabla-0.2.0",
+    "embedding_model": "lexical-bm25/k1=1.2/b=0.75/es-minusculas-sin-tildes-sin-vacias-v1"
+  }
+}

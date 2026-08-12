@@ -1,0 +1,1165 @@
+Identificación de microorganismos intrabdominales asociados a colección intrabdominal postoperatoria en niños con apendicitis perforada
+Luz Nélida Marina Garzón González
+Universidad Nacional de Colombia Facultad de Medicina
+Departamento de cirugía Unidad de Cirugía Pediátrica
+Bogotá D.C., Colombia 2022
+
+Identificación de microorganismos intrabdominales asociados a colección intrabdominal postoperatoria en niños con apendicitis perforada
+Luz Nélida Marina Garzón González
+Tesis o trabajo de investigación presentada(o) como requisito parcial para optar al título de:
+Cirujana pediatra
+Director (a): Juan Javier Valero Halaby, MD, profesor asistente cirugía pediátrica
+Universidad Nacional de Colombia Facultad de Medicina
+Departamento de cirugía Unidad de Cirugía Pediátrica
+Bogotá D.C., Colombia 2022
+
+A mi mama, mi hermano y mi abuelita por su apoyo incondicional, compañía, sacrificio y amor día a día en el cumplimiento de mis sueños.
+A Diego quien con su amor y compañía siempre me animo y me apoyo hasta llegar a la meta.
+
+Declaración de obra original
+Yo declaro lo siguiente: He leído el Acuerdo 035 de 2003 del Consejo Académico de la Universidad Nacional. «Reglamento sobre propiedad intelectual» y la Normatividad Nacional relacionada al respeto de los derechos de autor. Esta disertación representa mi trabajo original, excepto donde he reconocido las ideas, las palabras, o materiales de otros autores. Cuando se han presentado ideas o palabras de otros autores en esta disertación, he realizado su respectivo reconocimiento aplicando correctamente los esquemas de citas y referencias bibliográficas en el estilo requerido. He obtenido el permiso del autor o editor para incluir cualquier material con derechos de autor (por ejemplo, tablas, figuras, instrumentos de encuesta o grandes porciones de texto). Por último, he sometido esta disertación a la herramienta de integridad académica, definida por la universidad.
+________________________________ Nombre
+Fecha 17/02/2022
+
+Agradecimientos
+Al Doctor Juan Javier Valero por su confianza y apoyo durante la realización de este trabajo de investigación.
+A mis amigos de residencia, docentes y cirujanos pediatras de la Universidad Nacional de Colombia y el HOMI – Fundación Hospital pediátrico la misericordia por la recolección de las muestras de líquido peritoneal obtenidos durante los procedimientos quirúrgicos, que hicieron posible la realización de este trabajo.
+A Maryam Daniela Jerez Bustos y Angie Johana Cabezas Vásquez (Microbiólogas) por el compromiso y el apoyo desde el laboratorio en el procesamiento y el reporte de los cultivos.
+
+Resumen y Abstract
+
+IX
+
+Resumen
+Introducción
+La apendicitis aguda es la urgencia quirúrgica abdominal más frecuente en niños. Los patógenos más comúnmente asociados son las enterobacterias y los anaerobios, existiendo diferencias entre la sensibilidad bacteriana en los distintos hospitales. El objetivo del estudio es determinar la asociación entre la presencia de un microorganismo resistente al antibiótico empírico y el desarrollo de colecciones en pacientes con apendicitis perforada.
+Metodología
+Se realizó un estudio prospectivo de cohortes en pacientes menores de 18 años llevados a apendicectomía por laparoscopia con documentación intraoperatoria de apendicitis perforada entre el 1 noviembre del 2019 al 30 septiembre 2020, se tomó muestra de líquido peritoneal para cultivo y se procesaron en botellas de hemocultivo aerobio, anaerobio y tubo seco. Se recolectaron datos clínicos y microbiológicos de todos los pacientes.
+Resultados
+Se incluyeron 232 pacientes, la edad promedio fue 10.10 años (DE 3.74). Los microorganismos más comúnmente aislados fueron Escherichia coli (E. coli) (80.14%) y Pseudomona aeruginosa (7.45%). El 5.31% de E coli fueron catalogadas como BLEE. P aeruginosa no presentó resistencia al meropenem. Se documentaron 50 cultivos con gérmenes resistentes al antibiótico iniciado empíricamente, siendo necesario el cambio de antibiótico en 5 casos, sin encontrar una asociación entre esta resistencia y la aparición de absceso intrabdominal postoperatorio. En el análisis multivariado los factores asociados a presentar colección intrabdominal fueron el alto riesgo al ingreso OR 2.89 (p=0.01) y el requerimiento de dren OR 4.78 (p<0.01).
+
+X
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+Conclusiones
+E. coli fue el microorganismo más comúnmente aislado, con una baja tasa de aislamientos BLEE. El presentar un microorganismo resistente al antibiótico empírico no se asoció con aumento en la tasa de colección postoperatoria. Los factores asociados a presentar absceso intrabdominal fueron el alto riesgo al ingreso y el requerimiento de dren en el postoperatorio.
+
+Palabras clave: Apendicitis, resistencia bacteriana, alto riesgo, absceso intraabdominal.
+
+Contenido
+
+XI
+
+Abstract
+Identification of intra-abdominal bacteria and association with intra-abdominal abscess in pediatric patients with perforated appendicitis
+Introduction
+Acute appendicitis is the most common surgical emergency in children. Enterobacteria and anaerobes are the pathogens most frequently associated with its occurrence and the sensitivity of bacteria to antibiotics differs from one hospital to another. The objective of this study was to determine the association between the presence of a microorganism resistant to the antibiotic used in empirical therapy and the development of intra-abdominal abscess in patients with perforated appendicitis.
+Methodology
+A prospective cohort study was conducted in patients under 18 years of age who underwent laparoscopic appendectomy between November 1, 2019 and September 30, 2020 and in which perforated appendicitis was documented intraoperatively; peritoneal fluid samples were taken for bacteria culture purposes; samples were processed in aerobic and anaerobic blood culture bottles and dry tubes. Clinical and microbiological data from all patients were collected.
+Results
+
+XII
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+A total of 232 patients were included and the mean age was 10.10 years (SD 3.74). Escherichia coli (E. coli) (80.14%) and Pseudomona aeruginosa (7.45%) were the most isolated microorganism. Besides, 5.31% of E coli isolates were classified as ESBLproducing organism. None of the P aeruginosa isolates were resistant to meropenem. Germs resistant to the antibiotic used in the empirical antimicrobial therapy were documented in 50 cultures, and changing the antibiotic was necessary in 5 cases, without finding an association between this resistance and the appearance of a postoperative intraabdominal abscess. In the multivariate analysis, being a high risk patient on admission (OR 2.89 (p=0.01)) and the requirement of postoperative drain, (OR 4.78 (p<0.01)) were associated with having intra-abdominal abscess postoperatively.
+Conclusions
+E. coli was the most commonly isolated microorganism, with a low rate of ESBL-producing isolates. Having a microorganism resistant to the antibiotic used in empirical antimicrobial therapy was not associated with an increased risk of postoperative intra-abdominal collections. The following factors were associated with the development of intra-abdominal abscess: being a high-risk patient on admission and requiring postoperative drain.
+
+Keywords: Appendicitis, bacterial resistance, high-risk patients, intra-abdominal abscess.
+
+Contenido
+
+XIII
+
+Contenido
+
+XIV
+
+Contenido
+Pág. Resumen _______________________________________________________________ IX Abstract _______________________________________________________________ XI 1. Introducción _______________________________________________________ 17 2. Marco teórico ______________________________________________________ 19 3. Metodología _______________________________________________________ 25
+3.1 Variables _____________________________________________________________ 25 3.2 Estudios microbiológicos ________________________________________________ 27 3.3 Análisis ______________________________________________________________ 27 3.4 Datos financiamiento ___________________________________________________ 28 4. Resultados _________________________________________________________ 29 4.1 Análisis univariado _____________________________________________________ 29 4.2 Cirugía _______________________________________________________________ 32 4.3 Microbiología _________________________________________________________ 32 4.4 Seguimiento __________________________________________________________ 34 4.5 Análisis bivariado ______________________________________________________ 36 4.6 Análisis multivariado ___________________________________________________ 39 5. Discusión __________________________________________________________ 40
+
+Contenido
+
+XV
+
+6. Conclusión _________________________________________________________ 43 Anexo: Consentimiento apendicectomía_____________________________________ 45 Bibliografía ____________________________________________________________ 49
+
+Lista de figuras
+Pág. Figura 1. Flujograma institucional para manejo de pacientes con dolor abdominal con sospecha de apendicitis __________________________________________________ 21
+
+Lista de tablas
+Tabla 1. Escala pediátrica de apendicitis PAS .......................................................... 20 Tabla 2. Datos sociodemográficos........................................................................... 30 Tabla 3. Frecuencia de aislamientos de bacterias aerobias y anaerobias ................. 33 Tabla 4. Perfiles de resistencia de los aislamientos.................................................. 34 Tabla 5. Aislamientos de cultivo del absceso intrabdominal. ................................... 35 Tabla 6. Análisis Bivariado...................................................................................... 37
+
+XVI
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+Tabla 7. Análisis multivariado ................................................................................. 39
+
+1. INTRODUCCIÓN
+El dolor abdominal constituye del 7-10% de las consultas en urgencias, siendo la apendicitis aguda la causa más común de dolor abdominal en cuadrante inferior derecho1. La apendicitis aguda constituye la patología quirúrgica más frecuente en la población pediátrica, con un pico de incidencia entre los 10 y los 19 años2 y es la principal causa de infección intraabdominal. La apendicitis se clasifica en apendicitis perforada y no perforada, siendo perforados cuando presentan un orificio visible en el apéndice o si se documenta un fecalito libre en cavidad3,4.
+Los patógenos más comúnmente aislados constituyen las enterobacterias (Escherichia coli, Klebsiella sp), cocos gram positivos (Enterococcus sp) y microorganismos anaerobios estrictos (Bacteroides fragilis)5,6, existiendo diferencias entre la sensibilidad bacteriana en los distintos hospitales.
+Dentro de las complicaciones de las apendicitis se describen los abscesos intrabdominales que aumentan la morbilidad, siendo reportadas en la literatura entre el 3.7% al 20%3,7–9. La asociación entre presentar un germen resistente al antibiótico empírico y complicaciones como abscesos no ha sido estudiado en profundidad, además, en países con bajos y medianos ingresos los perfiles de resistencia locales son poco estudiados.
+Se han descrito factores asociados al desarrollo de absceso intraabdominal postoperatorio la presencia de diarrea al ingreso9, la obesidad10, la duración prolongada de la cirugía11,12, la clasificación de ASA11,13, la presencia de fecalito intraoperatorio y el manejo postoperatorio en UCI14. Para el manejo de la apendicitis aguda se utiliza el antibiótico empírico basado en los perfiles de resistencia locales, pudiendo inferir que la presencia de gérmenes resistentes constituye un factor de riesgo para el desarrollo de abscesos.
+El objetivo primario de este estudio fue determinar la asociación entre la presencia de un germen resistente al antibiótico empírico y el desarrollo de abscesos intraabdominales en
+
+18
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+pacientes con apendicitis aguda perforada llevados a cirugía en la Fundación Hospital Pediátrico la Misericordia (HOMI), el objetivo secundario fue describir los perfiles de sensibilidad bacteriana y resistencia local.
+
+2.MARCO TEÓRICO
+El dolor abdominal es uno de los motivos de consulta más frecuente en la población pediátrica, y la apendicitis representa la emergencia quirúrgica abdominal más común en esta población15. El riesgo de presentar apendicitis a lo largo de la vida es del 7-8%16. El pico de incidencia de la apendicitis ocurre durante la segunda década de la vida, con una edad mediana entre los 10 y los 11 años16, siendo más frecuente en los hombres. A pesar de ser una patología relativamente común, el diagnóstico de la apendicitis en niños es difícil en algunos casos, por lo que se han propuesto escalas de evaluación al ingreso que permitan protocolizar la atención y mejorar la sensibilidad diagnóstica.
+Los síntomas de apendicitis se describen como dolor periumbilical migratorio a fosa iliaca derecha, náuseas, vomito, anorexia, fiebre y menos frecuentemente diarrea. Sin embargo, esta descripción de los síntomas ocurre en menos del 50% de los niños16. El diagnóstico en los niños más pequeños es un reto, debido a la dificultad para expresar los síntomas a sus padres y personal médico, así como la dificultad en diferenciar apendicitis incipiente de cuadros gastrointestinales virales, se presentan en un 80% con apendicitis perforada, comparado con el 20% en aquellos entre 10-17 años16.
+Dentro de los signos utilizados en los niños se incluyen dolor a la palpación en fosa iliaca derecha, con defensa a la palpación y defensa a la percusión. Otros signos descritos en adultos como el signo de Rovsing (palpación en fosa iliaca izquierda que produce dolor en fosa iliaca derecha), signo del obturador (rotación interna de la pierna derecha) y signo del psoas (dolor mientras se encuentra en decúbito lateral izquierdo y extender la pierna derecha) son poco específicos para apendicitis en niños16.
+
+20
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+Si bien ningún laboratorio aislado ha demostrado una alta sensibilidad y especificidad para el diagnóstico de apendicitis en niños, se ha utilizado la leucocitosis, el recuento de neutrófilos y la proteína c reactiva (PCR)15.
+La escala más utilizada en pediatría fue descrita por Samuel en el 2002, conocida como escala pediátrica de apendicitis (PAS)17, en la que se toman 8 variables clínicas y paraclínicas que incluyen anorexia, fiebre, nausea/vómito, migración del dolor, dolor en fosa iliaca derecha, defensa a la percusión en fosa iliaca derecha, leucocitosis y neutrofilia (Tabla 1). En este estudio se tomó un valor de 6 o más puntos con una sensibilidad 100% y una especificidad del 92%. Luego de varias validaciones de la escala en poblaciones más grandes se tiene como valores de referencia de baja probabilidad <3, zona gris entre 4-7 y >8 con alta probabilidad de apendicitis, por lo que estos valores son los que se utilizan en los algoritmos de manejo, lo que permite disminuir el uso de radiación y una valoración pronta por cirugía para definir la necesidad de manejo quirúrgico18 (Figura 1).
+
+Tabla 1. Escala pediátrica de apendicitis PAS
+Escala pediátrica de apendicitis (PAS)
+Anorexia Fiebre
+Náusea/vómito Migración del dolor Dolor a la palpación en fosa iliaca derecha Defensa a la percusión en fosa iliaca derecha Leucocitosis (>10.000)
+Neutrofilia Total
+
+Puntaje
+1 1 1 1 2 2 1 1 10 puntos
+
+Marco teórico
+
+21
+
+Figura 1. Flujograma institucional para manejo de pacientes con dolor abdominal con sospecha de apendicitis
+
+22
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+Figura 1. (continuación)
+
+Tomado de guía de práctica clínica informada en la evidencia para el manejo de apendicitis en menores de 18 años; Disponible en http://fundacionhomi.org.co/images/guias-practica-clinica/cartilla-apendicitis.pdf
+Típicamente, los aislamientos bacterianos incluyen las enterobacterias (Escherichia coli, Klebsiella spp) acompañados de Pseudomonas aeruginosa, Gram positivos (Enterococcos y Streptococcus) y anaerobios (Bacteroides spp).
+El manejo antibiótico empírico se basa en las tasas de sensibilidad local, y varia desde la terapia triconjugada con ampicilina, clindamicina y gentamicina, manejo conjugado con ceftriaxona + metronidazol, o monoterapia con ampicilina/sulbactam o piperacilina/tazobactam.
+El manejo de la apendicitis se ha basado clásicamente en el manejo quirúrgico, implementándose la laparoscopia como el método de elección, recientemente han surgido reportes en el manejo médico de la apendicitis, con un manejo conservador con antibióticos sin embargo una gran proporción de pacientes son llevados finalmente a manejo quirúrgico19.
+
+Marco teórico
+
+23
+
+Durante la intervención quirúrgica, la apendicitis se clasifica en apendicitis perforada y no perforada, definiendo apendicitis perforada cuando se identifica un orificio en el apéndice o un fecalito en cavidad3.
+Para guiar el tratamiento antibiótico de las infecciones intraabdominales, se encuentra descrita la valoración del riesgo de desenlaces adversos en el postoperatorio, dentro de estos se encuentra la identificación de factores fenotípicos y fisiológicos, signos de choque séptico, comorbilidades, evidencia de peritonitis generalizada, efectividad del tratamiento quirúrgico, presencia o persistencia de gérmenes oportunistas, hospitalización al menos 48 horas en los últimos 90 días, manejo antibiótico en los últimos 90 días, terapia endovenosa en los últimos 30 días o reemplazo renal y el uso de esteroides a altas dosis o de larga duración20.
+
+3. METODOLOGÍA
+Realizamos un estudio prospectivo de cohortes de pacientes menores de 18 años que fueron llevados a apendicectomía por laparoscopia en HOMI, que es un centro de referencia de tercer nivel en la atención de población pediátrica en Colombia. En este centro se realizan entre 1081 y 1626 apendicectomías anuales. Se incluyeron todos los pacientes con apendicitis perforadas documentadas intraoperatoriamente que tuvieran la presencia de al menos un germen en líquido peritoneal, entre el 1 noviembre del 2019 al 30 de septiembre del 2020. Este estudio contó con la aprobación del comité de ética del HOMI - Fundación Hospital Pediátrico la Misericordia, con Acta No 0.12 CEI 19-18 y se obtuvo consentimiento informado de los padres o acudientes de cada niño incluido en el estudio. También se siguieron las pautas de la declaración de Helsinki21.
+En el momento del ingreso se recolectaron datos sociodemográficos y los relacionados con la duración de los síntomas y tratamientos recibidos previos al ingreso, posteriormente se recolectó la información de la cirugía y la hospitalización hasta el momento del alta, también se recolectó la información de la cita de control a los 15 días, los pacientes que no pudieron asistir a la consulta fueron contactados por medios electrónicos. La información se recolectó a través de un formulario cuyas variables surgieron de una revisión no sistemática de la literatura y del consenso de expertos del equipo de cirujanos pediátricos del hospital.
+3.1 Variables La exposición se definió como aquellos pacientes que de acuerdo con el antibiograma de la muestra del líquido peritoneal tomado durante la cirugía reportan microorganismos
+
+26
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+resistentes al tratamiento antibiótico empírico recibido en el postoperatorio. El desenlace fue definido como el desarrollo de colección postoperatoria confirmado a través de ecografía o tomografía realizada institucionalmente por un radiólogo pediatra. Los estudios de imagen para confirmar la presencia de absceso intraabdominal fueron tomados durante la hospitalización o por reingreso en pacientes sintomáticos.
+Se midieron posibles factores de confusión como: edad en años en el momento del ingreso, sexo, régimen de aseguramiento, síntomas a la presentación (dolor abdominal, vómito, nausea, fiebre, anorexia y diarrea), duración de los síntomas a la consulta al hospital, consultas previas, recuento de leucocitos y neutrófilos, hallazgos radiológicos, la escala pediátrica de apendicitis (PAS) y la clasificación de la sociedad americana de anestesia (ASA). Las variables intraoperatorias evaluadas fueron duración de los síntomas hasta la cirugía, tipo de cirugía y el tipo de peritonitis que presentaban (localizada si hay pus en 1 o 2 cuadrantes, o generalizada si hay pus en 3 o 4 cuadrantes), duración de la cirugía, conversión a cirugía abierta, requerimiento de dren y catéter central. En el seguimiento se evaluó la estancia hospitalaria, requerimiento de manejo en unidad de cuidado intensivo (UCI), la necesidad de imágenes postoperatorias con el desarrollo de colecciones y el reingreso a los 60 días.
+Todos los pacientes recibieron una dosis de antibiótico previo a la incisión, utilizando de rutina la ampicilina/sulbactam como el medicamento de elección (50 mg/kg/dosis). En la institución, las apendicectomias son realizadas por laparoscopia, a menos que la condición clínica del paciente o la distensión abdominal contraindiquen este abordaje. La colocación de drenes no es rutinaria y se deja a discreción del cirujano. El tratamiento antimicrobiano postquirúrgico está indicado según el tipo de peritonitis que presente el paciente, siendo ampicilina/sulbactam si presenta peritonitis localizada o piperacilina/tazobactam cuando se presentan con peritonitis generalizada. A los pacientes que presentaron choque séptico se les colocó catéter venoso central en el mismo tiempo quirúrgico y manejo postoperatorio inmediato en UCI. En la población adulta los pacientes con alto riesgo de falla en el tratamiento o muerte son aquellos que cursan con sepsis o choque séptico, Acute Physiology and Chronic Health Evaluation (APACHE) >10, enfermedad cardiovascular extensa, pobre estado nutricional, falla en lograr un control local, inmunosupresión, estancia prolongada en el hospital previo a la cirugía (>5 días), uso extendido de antibiótico
+
+Metodología
+
+27
+
+prequirúrgico (2 días), el presentar peritonitis generalizada o un inadecuado control de la fuente20,22–24, sin embargo, estos factores no se han descrito en la población pediátrica, por esta razón, para el presente estudio se tomaron como factores de alto riesgo la presencia de choque séptico, el uso previo de antibióticos y la inmunodeficiencia (por enfermedad concomitante o medicación).
+En el seguimiento intrahospitalario, los pacientes que al tercer día postoperatorio están afebriles, con adecuada tolerancia a la dieta normal y con adecuado control del dolor son candidatos para continuar el manejo con antibiótico oral de forma ambulatoria según reporte de hemograma y PCR control tomados ese día. Los demás continúan con el tratamiento antibiótico hasta que se den estas condiciones.
+3.2 Estudios microbiológicos A cada paciente se tomó muestra de líquido peritoneal y fue repartido en 3 frascos: 1 frasco de hemocultivo aerobio, 1 frasco de hemocultivo anaerobio y 1 tubo seco25. Todas las muestras fueron procesadas en el mismo laboratorio, siguiendo las pautas dictadas por la American Society for Microbiology (ASM)26.
+Los cultivos aerobios fueron realizados en agar sangre, MacConkey, chocolate y las muestras se enriquecían en caldo de tioglicolato. El crecimiento obtenido fue procesado en VITEK 2® (Biomerieux) con procesamiento automático. Para cocos gram positivos se usó la tarjeta de identificación GP, y para susceptibilidad la P577 y ST03 (Streptoccocus). Para bacilos gram negativos la tarjeta de identificación fue GN y la de susceptibilidad es N272, y en algunos casos se usó la N271 por disponibilidad de los reactivos en el laboratorio.
+Los anaerobios se sembraron en agar sangre, MacConkey y para generar anaerobiosis se utilizó GENbag anaer (Biomerieux), a los aislamientos obtenidos se realizó test de anaerotolerancia y se aplicó la tarjeta de identificación ANC.
+3.3 Análisis Se realizó la descripción de las características sociodemográficas y clínicas de los sujetos incluidos en la cohorte, para las variables continuas se usaron medias y desviaciones
+
+28
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+estándar, o medianas y rango intercuartílico dependiendo de la distribución de la variable; las variables categóricas fueron descritas con frecuencias absolutas y relativas. Se realizó la descripción de los aislamientos microbiológicos y los perfiles de resistencia a través de frecuencias absolutas y relativas. También se realizó un análisis bivariado entre los posibles confusores y el desenlace, para ello se usaron pruebas t de student para muestras independientes o pruebas no paramétricas como la prueba U de Mann-Whitney de acuerdo con la distribución de los datos, el análisis bivariado para variables categóricas fue realizado con la prueba de chi cuadrado. Por último, se realizó un modelo multivariado de regresión logística para evaluar la asociación entre la exposición y el desenlace controlando por posibles factores de confusión, las variables incluidas en el modelo se seleccionaron a partir del análisis bivariado y la opinión de los expertos, se evaluaron los supuestos del modelo multivariado y se consideró una p<0.05 como el punto de corte para la significancia estadística. Los análisis fueron realizados con el programa Stata 14.
+3.4 Datos financiamiento Se obtuvo financiamiento para el procesamiento de las muestras de laboratorio del HOMI, Fundación Hospital Pediátrico la Misericordia.
+
+4. RESULTADOS
+4.1 Análisis univariado En el periodo del 1 noviembre del 2019 hasta el 30 de septiembre del 2020 fueron llevados a apendicectomía 1.067 pacientes, encontrando en 408 (38.23%) apendicitis perforada. En 152 casos no se obtuvo muestra suficiente para cultivo, por lo que fueron excluidos. En total se recolectaron 256 muestras para cultivo, se excluyeron 21 pacientes por cultivo negativo, 2 pacientes por reporte de patología sin apendicitis aguda y 1 paciente por no disponer de consentimiento informado para la participación en el estudio. Se recolectaron datos de los 232 pacientes restantes.
+El 55.6% eran hombres, la edad promedio fue 10.10 años (DE 3.74). 188 (81.03%) pacientes pertenecen al régimen contributivo (de mayores ingresos), 43 al régimen subsidiado (de menores ingresos) y 1 fue particular. Ciento setenta y siete pacientes (76.29%) consultaron inicialmente a otra institución y fueron remitidos para su valoración, 192 pacientes (82.76%) habían consultado previamente al menos una vez. Información adicional sobre las características sociodemográficas se encuentra en la tabla 2.
+En cuanto a los síntomas, todos los pacientes presentaron dolor abdominal, seguido de vómito en el 90.52%, anorexia en el 79.31%, náusea en el 76.29% y diarrea en el 41.81% de los pacientes al ingreso, la mediana del tiempo de inicio de los síntomas a la consulta fue 41.06 horas (Tabla 2).
+Dentro de los paraclínicos, la mediana de leucocitos fue 16.110, de neutrófilos fue 13.670 y de proteína c reactiva (PCR) fue 154. El 83.19% de los pacientes presentaron una escala pediátrica de apendicitis (PAS) >717. La ecografía prequirúrgica fue realizada en 99 pacientes (42.67%), siendo diagnóstica de apendicitis en el 72.72% de los pacientes, y 29
+
+30
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+pacientes (12.5%) requirieron tomografía computada de abdomen, siendo positiva para apendicitis en el 96.55% de los mismos (Tabla 2).
+
+Tabla 2.
+
+Datos sociodemográficos.
+
+Características de base
+
+Edad [años], media (DE)
+
+Sexo
+
+Masculino, n (%)
+
+Régimen de salud
+
+Contributivo, n (%)
+
+Subsidiado, n (%)
+
+Particular, n (%) Peso °
+Normal, n (%) Sobrepeso u obesidad, n (%) Consultas previas
+0, n (%) 1, n (%) 2, n (%) 3, n (%) Paciente remitido, n (%) Síntomas Vómito, n (%) Anorexia, n (%)
+
+Pacientes, n = 232 10.10 (3.74)
+129 (55.6)
+188 (81.03) 43 (18.53)
+1 (0.43)
+188 (81.03) 42 (18.10)
+40 (17.24) 146 (62.93) 38 (16.38)
+8 (3.45) 177 (76.29)
+210 (90.52) 184 (79.31)
+
+Discusión
+
+31
+
+Nauseas, n (%) Fiebre, n (%) Diarrea, n (%)
+Alto riesgo, n (%) Pas*
+Bajo, n (%) Medio, n (%) Alto, n (%) Asa+
+1, n (%) 2, n (%) 3, n (%) 4, n (%) Recibieron antibiótico previo, n (%) Paraclínicos Leucocitos [10^3/uL], mediana (p25-975) Neutrófilos [10^3/uL], mediana (p25-975) PCR [mg/L], mediana (p25-975) Ecografía Apendicitis, n (%) Cambios sugestivos, n (%) Normal, n (%) Tomografía
+
+177 (76.29) 175 (75.43) 97 (41.81) 75 (32.33)
+6 (2.59) 33 (14.22) 193 (83.19)
+140 (60.34) 66 (28.45) 22 (9.48) 4 (1.72) 9 (3.88)
+16.11 (11.92-19.23) 13.67 (9.92-17.06)
+154 (105-307)
+41 (17.67) 31 (13.36) 27 (11.64)
+
+32
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+Apendicitis, n (%)
+
+23 (9.91)
+
+Cambios sugestivos, n (%)
+
+5 (2.16)
+
+Normal, n (%)
+
+1 (0.43)
+
+DE: Desviación estándar, °Valor sobre 230 pacientes, *PAS: Score pediátrico de apendicitis, +ASA: Clasificación de la sociedad americana de anestesiología.
+
+4.2 Cirugía
+La mediana del tiempo entre el inicio de los síntomas y la cirugía fue 52.57 horas. El 88.79% de los pacientes fueron clasificados como ASA I y ASA II por el anestesiólogo. 32.33% de los pacientes fueron clasificados como alto riesgo entre los cuales 9 habían recibido antibiótico previo. En el 96.55% la apendicectomia fue realizada por laparoscopia, se requirió conversión a cirugía abierta en 9 casos (3.88%). Las cirugías fueron realizadas en el 27.59% de los casos por el cirujano pediatra, en las demás fueron realizadas por residentes de cirugía pediátrica asistidos por el cirujano pediatra durante el procedimiento. La duración de la cirugía fue en promedio 98.4 minutos. Se documentó peritonitis localizada en 93 (40.08%) pacientes y peritonitis generalizada en 139 (59.92%) pacientes. En 26 pacientes se dejó dren en el postoperatorio (11.21%), 130 pacientes (56.03%) requirieron catéter central en el postoperatorio y 135 pacientes (58.19%) requirieron manejo en unidad de cuidado intensivo en el postoperatorio inmediato.
+
+4.3 Microbiología
+De los 232 cultivos positivos, se obtuvo crecimiento polimicrobiano en 48 muestras (20.69%). El germen más frecuentemente aislado fue Escherichia coli (E. coli) en el 80.14%, seguido por Pseudomonas aeruginosa (P aeruginosa) en el 7.45% y Klebsiella pneumoniae en el 2.83%. Dentro de los cocos gram positivos se aisló Streptococcus anginosus en el 1.77% y Streptococcus constellatus en el 1.77% (Tabla 3).
+
+Discusión
+
+33
+
+Tabla 3.
+
+Frecuencia de aislamientos de bacterias aerobias y anaerobias
+
+Bacteria
+
+No
+
+%
+
+Gram negativas
+
+Escherichia coli
+
+226 80.14
+
+Pseudomonas aeruginosa
+
+21 7.45
+
+Klebsiella pneumoniae
+
+8
+
+2.83
+
+Klebsiella oxytoca
+
+4
+
+1.42
+
+Enterobacter aerogenes
+
+2
+
+0.71
+
+Proteus mirabilis
+
+2
+
+0.71
+
+Gram positivas
+
+Streptococcus anginosus
+
+5
+
+1.77
+
+Streptococcus constellatus
+
+5
+
+1.77
+
+Enterococcus avium
+
+1
+
+0.35
+
+Enterococcus faecium
+
+1
+
+0.35
+
+Anaerobios
+
+Prevotella disiens
+
+3 42.86
+
+Prevotella intermedia
+
+3 42.86
+
+Gemella morbillorum
+
+1 14.29
+
+Dentro de los perfiles de resistencia, encontramos que el 26.99% de E. coli presentan resistencia a ampicilina/sulbactam, mientras que solo el 0.44% fueron resistentes a piperacilina/tazobactam. El 5.31% de E coli fueron catalogadas como BLEE. P aeruginosa no presento ningún perfil de resistencia en los aislamientos. En cuanto a K. pneumoniae presenta resistencia a la ampicilina/sulbactam en el 25%, a la piperacilina/tazobactam en el 12.5%, así como para el meropenem 12.5% y las cefalosporinas de 3ra y 4ta generación 12.5% (Tabla 4).
+
+34
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+Tabla 4.
+
+Perfiles de resistencia de los aislamientos
+
+Microorganismos Antibióticos
+
+n
+
+BLEE*
+
+%
+
+Amp/sulba& %R
+
+Pip/Tazo+ %I
+
+%R
+
+Meropenem %R
+
+Clindamicina %R
+
+Vancomicina %R
+
+Cefuroxima %I
+
+Ceftriaxona %R
+
+Cefepime %R
+
+Amikacina %R
+
+Ciprofloxacino %I
+
+%R
+
+Tigeciclina %R
+
+Linezolid %R
+
+Penicilina G %I
+
+E. coli 226 5.31 26.99 3.54 0.44
+0 --0 5.31 5.31 0 5.31 10.62 0 ---
+
+Gram negativos
+
+P. aeruginosa K. pneumoniae
+
+21
+
+8
+
+--
+
+0
+
+--
+
+25
+
+0
+
+0
+
+0
+
+12.5
+
+0
+
+12.5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+12.5
+
+0
+
+12.5
+
+0
+
+0
+
+0
+
+0
+
+0
+
+12.5
+
+--
+
+0
+
+--
+
+--
+
+--
+
+--
+
+Gram positivos
+
+S. anginosus S. constellatus
+
+5
+
+5
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+0
+
+0
+
+0
+
+0
+
+--
+
+--
+
+0
+
+0
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+--
+
+0
+
+0
+
+0
+
+0
+
+20
+
+20
+
+*BLEE: Betalactamasa de espectro extendido, &Amp/sulba: Ampicilina/sulbactam, +Pip/tazo: Piperacilina/tazobactam, R. Resistente, I: Sensibilidad intermedia
+
+Se obtuvieron 50 cultivos con gérmenes resistentes al antibiótico que se estaba administrando, solo se requirió el cambio de antibiótico en 5 casos (2.16%), mientras que en 45 casos (19.4%) no se realizó el cambio del manejo antibiótico empírico porque los pacientes presentaron buena evolución clínica.
+
+4.4 Seguimiento
+Se documentaron 7 infecciones de la herida (3.01%) y 42 colecciones intrabdominales (18.01%), lo que en total representa el 21.12% de complicaciones postoperatorias. De los 42 niños que desarrollaron colecciones intrabdominales 22 requirieron drenaje, en 12 pacientes se realizó el drenaje por radiología intervencionista y 10 pacientes fueron reintervenidos. Se obtuvo crecimiento bacteriano en 13 muestras de las colecciones drenadas con un total de 15 aislamientos. Dentro del perfil de resistencia, se documentó
+
+Discusión
+
+35
+
+un germen diferente al cultivo inicial en 2 pacientes, y en 6 pacientes se documentaron mecanismos de resistencia no identificados en el cultivo inicial, como se muestra en la tabla 5.
+La duración del antibiótico fue en promedio 8.55 días (DE 4.66). 170 pacientes (73.27%) asistieron a cita de control postoperatoria, 32 pacientes reingresaron en el postoperatorio temprano, siendo 15 reingresos por infección (6,46%).
+
+Tabla 5.
+
+Aislamientos de cultivo del absceso intrabdominal.
+
+No Cultivo inicial
+
+Perfil
+
+Cultivo de
+
+Perfil de
+
+Resistencia
+
+colección
+
+resistencia
+
+1 Escherichia coli 2 Escherichia coli 2 Shigella sonnei 3 Escherichia coli
+
+Natural Natural AMPC+ Natural
+
+4 Enterobacter
+aerogenes
+4 Streptococcus
+anginosus
+5 Escherichia coli 6 Escherichia coli 7 Escherichia coli 7 Pseudomonas
+aeruginosa
+8 Pseudomonas
+aeruginosa
+8 Escherichia coli 9 Pseudomonas
+aeruginosa
+
+AMPC+
+Natural
+Natural Natural Natural Natural
+Natural
+BLEE& Natural
+
+Escherichia coli Escherichia coli
+
+Natural BLEA*
+
+Escherichia coli
+Enterobacter aerogenes Streptococcus anginosus Escherichia coli Escherichia coli Escherichia coli
+
+Penicilinasa Sensible
+Inhibidores AMPC+
+Natural
+Natural AMPC+ Natural
+
+Pseudomonas aeruginosa
+Pseudomonas aeruginosa
+
+Natural Natural
+
+Mismo germen
+Si/No
+SI
+SI
+
+Sensibilidad S/R
+S
+R
+
+SI
+
+R
+
+SI
+
+R
+
+SI
+
+S
+
+SI
+
+R
+
+SI
+
+S
+
+SI
+
+S
+
+SI
+
+S
+
+36
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+9 Escherichia coli
+
+Penicilinasa Sensible
+
+Inhibidores
+
+10 Escherichia coli Penicilinasa Escherichia coli Penicilinasa
+
+NO
+
+R
+
+Sensible
+
+Sensible
+
+Inhibidores
+
+Inhibidores
+
+10
+
+Klebsiella
+
+BLEA*
+
+oxytoca
+
+11 Escherichia coli Natural
+
+Escherichia coli
+
+Natural
+
+SI
+
+S
+
+12 Escherichia coli Natural
+
+Escherichia coli
+
+Natural
+
+SI
+
+S
+
+13 Escherichia coli Natural
+
+Streptococcus Modificación
+
+NO
+
+R
+
+constellatus
+
+PBP
+
++AMPC: Betalactamasas de tipo AmpC, *BLEA: betalactamasa de espectro ampliado, &BLEE: Betalactamasa de espectro extendido.
+
+4.5 Análisis bivariado
+Los factores asociados a presentar colección en el postoperatorio que se encontraron en el estudio fueron: mayor tiempo de los síntomas a la cirugía en los pacientes con colección (66.5 vs 49.46 p 0.01), el presentar alto riesgo al ingreso (52.38%) vs (27.89%) p <0.00), el ser operado por el cirujano ((40.48%) vs (24.74%) p 0.04), mayor duración de la cirugía (105 vs 90 p 0.01), requerir conversión a cirugía abierta (4 vs 5 p 0.04), requerimiento de dren en el postoperatorio ((28.57%) vs (4.37%) p <0.00), requerir catéter central en el postquirúrgico ((78.57%) vs (51.05%) p <0.00), requerimiento de UCI ((80.95%) vs (53.16%) p<0.00) (Tabla 6). El presentar peritonitis generalizada se asocia con el riesgo de presentar colección intrabdominal ((76.19%) vs (56.32%) p 0.02).
+
+Discusión
+
+37
+
+Tabla 6.
+
+Análisis Bivariado
+
+Edad (años) [mediana (p25-p75)] Sexo Síntomas [ no (%)]
+Tiempo hasta la cirugía (horas) Paraclínicos [mediana (p25-p75)]
+
+Masculino Vómito Anorexia Náuseas Fiebre Diarrea
+Leucocitos
+
+Neutrófilos
+
+Ecografía
+
+PCR
+Apendicitis Cambios sugestivos Normal
+
+Colección Si, n (%) 11 (8-13)
+22 (52,38)
+37 (88,10) 152 (80,00) 32 (76,19) 32 (76,19) 22 (52,38) 66,50 (44,67109,70)
+
+No colección
+
+p
+
+No, n (%)
+
+10 (7-13)
+
+0.2
+
+0
+
+107 (56,32)
+
+0.64
+
+173 (91,05)
+
+0.55
+
+32 (76,19)
+
+0.58
+
+145 (76,32)
+
+0.99
+
+143 (75,26)
+
+0.90
+
+75 (39,47)
+
+0.13
+
+49,46(34,81-74,49) 0.01
+
+15290 (9580-
+
+16440(12610-
+
+0.16
+
+18570)
+
+19370)
+
+13140 (740015730)
+
+14140 (10610-
+
+0.20
+
+17070)
+
+164,50 (108-404) 151,50 (103-281) 0.16
+
+4 (28,57) 7 (50,00)
+3 (21,43)
+
+37 (43,53)
+
+0.26
+
+24 (28,24)
+
+24 (28,24)
+
+38
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+Tomografía axial computada
+
+Apendicitis
+
+3 (60,00)
+
+20 (83,33)
+
+0.32
+
+Cambios sugestivos
+
+2 (40,00)
+
+3(12,50)
+
+Normal
+
+0 1(4,17)
+
+Escala PAS*
+
+Alto
+
+35 (83,33)
+
+158 (83,16)
+
+1.00
+
+Medio
+
+6 (14,29)
+
+27 (14,21)
+
+Bajo
+
+1 (2,38)
+
+5(2,63)
+
+Alto riesgo
+
+Si
+
+22 (52,38)
+
+53 (27,89)
+
+0.00
+
+ASA+
+
+1 20 (47,62)
+
+120 (63,16)
+
+0.12
+
+2 14(33,33)
+
+52 (27,37)
+
+3 6 (14,29)
+
+16 (8,42)
+
+4 2 (4,76)
+
+2 (1,05)
+
+Cirujano
+
+Cirujano
+
+17 (40.48)
+
+47 (24.74)
+
+0.04
+
+Duración de la cirugía (mins) [mediana (p25p75)]
+
+105(90-124)
+
+90(65-120)
+
+0.01
+
+Conversión
+
+Si
+
+4 (9,52)
+
+5 (2,63)
+
+0.04
+
+Catéter
+
+Si
+
+33(78,57)
+
+97(51,05)
+
+0.00
+
+Dren
+
+Discusión
+
+39
+
+Uci
+Antibiótico cubre al germen
+Tipo de peritonitis
+
+Si
+
+12 (28,57)
+
+Si
+
+34 (80,95)
+
+Si
+
+37 (88.10)
+
+Generalizada Localizada
+
+32 (76,19) 10 (23,81)
+
+14 (4,37)
+
+0.00
+
+101 (53,16)
+
+0.00
+
+145 (76,32)
+
+0.09
+
+107(56,32)
+
+0.02
+
+83 (43,68)
+
+*PAS: Score pediátrico de apendicitis, +ASA: Clasificación de la sociedad americana de anestesiología.
+
+4.6 Análisis multivariado
+Al evaluar la asociación entre el uso de antibiótico terapéutico que cubrieran el germen aislado y el desarrollo de colecciones intrabdominales controlando por factores de confusión no se encontró una asociación estadísticamente significativa OR 1.87(IC 95% 0.66-5.33). El alto riesgo al ingreso OR 2.89 (IC95% 1.36-6.15) y el requerimiento de dren OR 4.78 (IC95% 1.87 – 12.25) se asociaron de manera independiente al desarrollo de colecciones (Tabla 7).
+
+Tabla 7.
+
+Análisis multivariado
+
+Colección Odds
+
+[95%
+
+p
+
+ratio
+
+intervalo
+
+confianza]
+
+Ab previo
+
+1.87 0.66 5.33 0.24
+
+Edad
+
+1.05 0.95 1.17 0.29
+
+Laparotomía 1.12 0.21 5.83 0.89
+
+Alto riesgo 2.89 1.36 6.15 0.01
+
+Dren
+
+4.78 1.87 12.25 0.00
+
+40
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+5. DISCUSIÓN
+El manejo óptimo de la apendicitis aguda en niños se basa en el manejo antibiótico empírico y la apendicectomia temprana, recomendándose la administración del antibiótico en la primera hora del reconocimiento27. En HOMI, por ser un hospital universitario de referencia para la ciudad de Bogotá y algunos departamentos vecinos (el 76.29% de los pacientes fueron remitidos), se reciben niños gravemente enfermos, esto explica el largo tiempo de evolución de los síntomas (52.57 horas), el alto porcentaje de apendicitis perforada con peritonitis generalizada (59.92%) y el gran porcentaje de pacientes con alto riesgo para presentar complicaciones (32.33%) en el presente estudio.
+No existe un consenso en el antibiótico de elección y la duración del antibiótico para la apendicitis. Dentro del manejo empírico para los pacientes con apendicitis aguda no se recomienda el uso de ampicilina-sulbactam dada la alta tasa de resistencia documentada22, alcanzando el 54.7% en el estudio SMART6, sin embargo en nuestro estudio la tasa de resistencia a ampicilina/sulbactam fue del 26.99%. En la institución, la ampicilina/sulbactam se encuentra reservada en el manejo postquirúrgico de los niños sin hospitalización previa, de bajo riesgo y con peritonitis localizada evienciada durante el procedimiento quirúrgico. En caso de documentar choque séptico, alto riesgo o peritonitis generalizada se inicia en el postoperatorio piperacilina/tazobactam, que ha demostrado ser seguro en la población pediatrica28,29. En una revisión sistemática de la literatura en niños, no se encontraron diferencias entre el manejo antibiótico con ampicilina/sulbactam comparado con cefotaxima + metronidazol30 en el desarrollo de infecciones de la herida.
+
+Discusión
+
+41
+
+Tampoco existe diferencia en el manejo con ampicilina/sulbactam con ertapenem en la resolución clínica de la infección31. En pacientes con alto riesgo de falla se ha encontrado que prolongar el manejo antibiótico no provee ningún beneficio clínico32.
+En nuestro estudio la mayoría de los niños con apendicitis presentan infección por E. coli (80.14%)28,33–37. También encontramos que la prevalencia de P aeruginosa es del 7.45%, en la literatura se ha demostrado una prevalencia del 5.3% al 23% 35,37–39.
+La producción de betalactamasas de espectro extendido (BLEE) contribuyen al problema de resistencia antibiótica actual, en el presente trabajo encontramos que el 5.31% de las E coli eran productoras de BLEE, una frecuencia un poco menor a la descrita en el estudio SMART que fue del 6.8%6, aunque mayor a la descrita en otros estudios40. No se obtuvieron aislamientos de Klebsiella spp productora de BLEE. En nuestro estudio encontramos que las bacterias eran resistentes en el 21.55% de los casos, la literatura reporta que estas pueden ser resistentes hasta en el 25% de los casos41. En este estudio no encontramos asociación entre tener un microorganismo resistente al antibiótico que recibía el paciente y el desarrollo de un absceso intrabdominal en el postoperatorio, se requieren estudios adicionales con mayor poder para poder estudiar esta posible asociación. El cambio del manejo antibiótico se realiza basado principalmente por la evolución clínica, el porcentaje de cambio en nuestro estudio fue del 2.16%.
+Las complicaciones postoperatorias en este estudio fueron del 21.12%, siendo la colección intrabdominal la más frecuente, estos hallazgos son compatibles con otros estudios7. La colección intrabdominal se presentó en el 50% de los pacientes llevados a UCI y en el 9.5% de los pacientes en piso14. El requerimiento de UCI en este estudio (58.19%) es mayor a lo reportado en el estudio CIAOW en adultos42.
+Encontramos que el requerimiento de drenes se asocia con el riesgo de desarrollar colección intrabdominal postquirúrgica, y sigue presente luego de realizar el análisis multivariado, lo que se encuentra en contra de la literatura en la que se reporta que el uso de drenes no se asocia con un aumento en el riesgo de infecciones intrabdominales u obstrucción1, pero si con el riesgo de desarrollar gérmenes resistentes40 y una mayor estancia hospitalaria43. Esta asociación puede estar mediada por factores de confusión no medidos o que no fueron incluidos en el modelo multivariado debido al tamaño de la
+
+42
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+muestra, estudios adicionales con mayor tamaño de muestra que incluyan otros factores de confusión son necesarios para establecer la naturaleza de esta asociación.
+No encontramos asociación entre el aislamiento de un microorganismo resistente al antibiótico empírico y el desarrollo de colección intrabdominal, pero sí encontramos que tener alto riesgo al ingreso es un factor de riesgo independiente para el desarrollo de éstas. La evaluación del riesgo al ingreso para el desarrollo de complicaciones intrabdominales no ha sido estudiada a profundidad en población pediátrica con apendicitis aguda, estudios adicionales son necesarios para establecer su importancia en la toma de decisiones en el manejo postoperatorio.
+Las limitaciones de este estudio son un tamaño de muestra bajo lo cual no permitió ajustar todos los posibles factores de confusión, así como posibles factores de confusión no medidos. Por haberse realizado en un centro de referencia el estudio está expuesto a un sesgo de selección en el que los pacientes tienen características clínicas que pueden comprometer la validez externa de los resultados.
+
+Discusión
+
+43
+
+6. CONCLUSIÓN
+
+El presentar un microorganismo resistente al antibiótico empírico no se asoció con aumento en la tasa de colección postoperatoria. La E coli continúa siendo el germen más comúnmente aislado, con una baja tasa de aislamientos BLEE en nuestra población, seguido por P aeruginosa. Se documentó que pacientes con gérmenes resistentes, pero con adecuada evolución clínica, por lo general no requieren ajuste de manejo antibiótico. El tratamiento empírico con ampicilina/sulbactam no se encuentra recomendado en pacientes de alto riesgo. En este estudio encontramos que los factores asociados a colección intrabdominal son el alto riesgo al ingreso y el requerimiento de dren en el postoperatorio. Se deben tomar en cuenta estos datos al momento de indicar el manejo antibiótico postoperatorio.
+
+Anexo: Consentimiento apendicectomía
+
+48
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+Bibliografía
+1. Di Saverio, S. et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J. Emerg. Surg. 15, 1–42 (2020).
+2. Rentea, R. M., Peter, S. D. S. & Snyder, C. L. Pediatric appendicitis_ state of the art review. Pediatric Surgery International vol. 33 269–283 (2017).
+3. Peter, S. D. S. et al. An evidence-based definition for perforated appendicitis derived from a prospective randomized trial. J. Pediatr. Surg. 43, 2242–2245 (2008).
+4. Castañeda-Espinosa, S. D. et al. Cambio en la clasificación macroscópica de la apendicitis. ¿Tiene algún impacto? Estudio retrospectivo en un Hospital Universitario Pediátrico. Rev. la Fac. Med. 63, 243–250 (2015).
+5. Vallejo, M. et al. Características clínicas y microbiológicas de la infección intraabdominal complicada en Colombia: un estudio multicéntrico. Rev. Chil. infectología 33, 261–267 (2016).
+6. Lob, S. H., Badal, R. E., Hackel, M. A. & Sahm, D. F. Epidemiology and antimicrobial susceptibility of gram-negative pathogens causing intra-abdominal infections in pediatric patients in Europe—SMART 2011–2014. J. Pediatric Infect. Dis. Soc. 6, 72–79 (2017).
+7. Somers, K. K., Eastwood, D., Liu, Y. & Arca, M. J. Splitting hairs and challenging guidelines: Defining the role of perioperative antibiotics in pediatric appendicitis patients. J. Pediatr. Surg. 55, 406–413 (2020).
+8. Pennell, C. et al. A Standardized Protocol for the Management of Appendicitis in Children Reduces Resource Utilization. Pediatr. Qual. Saf. 5, e357 (2020).
+9. Bansal, S., Banever, G. T., Karrer, F. M. & Partrick, D. A. Appendicitis in children less than 5 years old: influence of age on presentation and outcome. Am. J. Surg.
+
+50
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+204, 1031–1035 (2012).
+10. Witt, C. E., Goldin, A. B., Vavilala, M. S. & Rivara, F. P. Effect of body mass index percentile on pediatric gastrointestinal surgery outcomes. J. Pediatr. Surg. 51, 1473– 1479 (2016).
+11. Kasatpibal, N. et al. Risk of surgical site infection and efficacy of antibiotic prophylaxis: a cohort study of appendectomy patients in Thailand. BMC Infect. Dis. 6, 1–7 (2006).
+12. Levin, D. E. & Pegoli, W. Abscess After Appendectomy: Predisposing Factors. Adv. Surg. 49, 263–280 (2015).
+13. Gómez, D. R., Alberto, J., Buriticá, A. & Clemencia, O. Riesgo anestésico y tipo de herida asociados a infección intrahospitalaria en pacientes quirúrgicos. Modelo logístic. Rev. Colomb. Anestesiol. 30, 17–21 (2002).
+14. Holguín-Sanabria, D. A. et al. Prevalence of organ-space surgical site infections after appendectomy for ruptured appendix in children. Rev. la Fac. Med. 67, 639–643 (2019).
+15. Glass, C. C. & Rangel, S. J. Overview and diagnosis of acute appendicitis in children. Semin. Pediatr. Surg. 25, 198–203 (2016).
+16. Rentea, R. M. & St. Peter, S. D. Pediatric Appendicitis. Surg. Clin. North Am. 97, 93– 112 (2017).
+17. Samuel, M. Pediatric appendicitis score. J. Pediatr. Surg. 37, 877–881 (2002).
+18. Rentea, R. M., Peter, S. D. S. S. & Snyder, C. L. Pediatric appendicitis: state of the art review. Pediatr. Surg. Int. 33, 269–283 (2017).
+19. Caruso, A. M. et al. Acute appendicitis in children: not only surgical treatment. J. Pediatr. Surg. 52, 444–448 (2017).
+20. Mazuski, J. E. et al. The surgical infection society revised guidelines on the management of intra-abdominal infection. Surg. Infect. (Larchmt). 18, 1–76 (2017).
+21. Association, W. M. World Medical Association Declaration of Helsinki: ethical principles for medical research involving human subjects. JAMA 310, 2191–2194
+
+Bibliografía
+
+51
+
+(2013).
+22. Lee, Y. R., McMahan, D., McCall, C. & Perry, G. K. Complicated intra-abdominal infections: the old antimicrobials and the new players. Drugs 75, 2097–2117 (2015).
+23. Solomkin, J. S. et al. Diagnosis and management of complicated intra-abdominal infection in adults and children: guidelines by the Surgical Infection Society and the Infectious Diseases Society of America. Complicated Intra-abdominal Infection Guidelines • CID vol. 2010 133–64 (2010).
+24. Blot, S., De Waele, J. J. & Vogelaers, D. Essentials for selecting antimicrobial therapy for intra-abdominal infections. Drugs 72, e17–e32 (2012).
+25. Jiménez, A., Sánchez, A., Rey, A. & Fajardo, C. Recuperación de bacterias aerobias y anaerobias de pacientes con apendicitis aguda mediante botellas de hemocultivo. Biomedica 39, 699–706 (2019).
+26. Miller, J. M. et al. A guide to utilization of the microbiology laboratory for diagnosis of infectious diseases: 2018 update by the Infectious Diseases Society of America and the American Society for Microbiology. Clin. Infect. Dis. 67, e1–e94 (2018).
+27. Weiss, S. L. et al. Surviving sepsis campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children. Intensive Care Medicine vol. 46 (2020).
+28. Arguedas, A. et al. An open, multicenter clinical trial of piperacillin/tazobactam in the treatment of pediatric patients with intra-abdominal infections. J. Chemother. 8, 130– 136 (1996).
+29. Hamdy, R. F. et al. Comparative effectiveness of ceftriaxone plus metronidazole versus anti-pseudomonal antibiotics for perforated appendicitis in children. Surg. Infect. (Larchmt). 20, 399–405 (2019).
+30. Roque, F. M. C. B. et al. Antibiotics for appendicectomy in children and adolescents during the perioperative period: an integrative review. Rev. Paul. Pediatr. 37, 494– 502 (2019).
+31. Catena, F. et al. TEA Study: three-day ertapenem versus three-day Ampicillin-
+
+52
+
+Identificación de microorganismos intrabdominales asociados a colección
+
+intrabdominal postoperatoria en niños con apendicitis perforada
+
+Sulbactam. BMC Gastroenterol. 13, 1–6 (2013).
+32. Hassinger, T. E. et al. Longer-duration antimicrobial therapy does not prevent treatment failure in high-risk patients with complicated intra-abdominal infections. Surg. Infect. (Larchmt). 18, 659–663 (2017).
+33. Fernández Ibieta, M. et al. Estudio de la flora patógena y resistencias en apendicitis pediátricas. Cir Pediatr 27, 16–20 (2014).
+34. Coccolini, F. et al. Antibiotic resistance evaluation and clinical analysis of acute appendicitis; report of 1431 consecutive worldwide patients: A cohort study. Int. J. Surg. 26, 6–11 (2016).
+35. Schmitt, F. et al. Bacterial studies of complicated appendicitis over a 20-year period and their impact on empirical antibiotic treatment. J. Pediatr. Surg. 47, 2055–2062 (2012).
+36. Tartar, T. et al. Does microbial resistance profile change in community-based intraabdominal infections? Evaluation of the culture results of patients with appendicitis. Turk. J. Pediatr. 60, 520–526 (2018).
+37. Kwok, C. P. D., Tsui, S. Y. B. & Chan, K. W. E. Updates on bacterial resistance and empirical antibiotics treatment of complicated acute appendicitis in children. J. Pediatr. Surg. (2021) doi:10.1016/j.jpedsurg.2021.03.027.
+38. Obinwa, O., Casidy, M. & Flynn, J. The microbiology of bacterial peritonitis due to appendicitis in children. Ir. J. Med. Sci. 183, 585–591 (2014).
+39. Andrey, V., Crisinel, P.-A. A., Prod’hom, G., Croxatto, A. & Joseph, J.-M. M. Impact of co-amoxicillin-resistant Escherichia coli and Pseudomonas aeruginosa on the rate of infectious complications in paediatric complicated appendicitis. Swiss Med. Wkly. 149, w20055 (2019).
+40. Sun, L., Liu, S., Wang, J. & Wang, L. Analysis of Risk Factors for MultiantibioticResistant Infections Among Surgical Patients at a Children’s Hospital. Microb. Drug Resist. 25, 297–303 (2019).
+41. Chan, K. W. E. et al. Evidence-based adjustment of antibiotic in pediatric complicated appendicitis in the era of antibiotic resistance. Pediatr. Surg. Int. 26,
+
+Bibliografía
+
+53
+
+157–160 (2010).
+42. Sartelli, M. et al. Complicated intra-abdominal infections worldwide : the definitive data of the CIAOW Study. 1–10 (2014).
+43. Abdulhamid, A. K. & Sarker, S.-J. J. Is abdominal drainage after open emergency appendectomy for complicated appendicitis beneficial or waste of money? A single centre retrospective cohort study. Ann. Med. Surg. 36, 168–172 (2018).

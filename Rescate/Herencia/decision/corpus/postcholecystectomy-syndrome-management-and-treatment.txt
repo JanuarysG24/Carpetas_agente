@@ -1,0 +1,162 @@
+REVIEW | OPEN ACCESS
+
+Medical Science
+To Cite: Korpalski M, Pawluczyk M, Pawlikowski K, Żygłowicz M, Torbicki A, Augustyn D, Gaworek P, Marciniak M, Trybuła A. Postcholecystectomy syndrome - management and treatment. Medical Science 2025; 29: e140ms3670 doi: https://doi.org/10.54905/disssi.v29i162.e140ms3670
+Authors’ Affiliation: 1Dr. Tytus Chałubiński Radom Specialist Hospital, Adolfa Tochtermana 1 Street, 26-610 Radom, Poland; 0009-0006-1182-551X; michal.korpalski@onet.pl 2District Hospital in Sochaczew, Batalionów Chłopskich 3/7 Street, 96-500 Sochaczew, Poland; 0009-0008-1626-7494; mariapawluczyk2@gmail.com 3University Clinical Center of the Medical University of Warsaw, Banacha 1A Street, 02-097 Warsaw, Poland; 0009-0002-6193-9671; krzysztof.pawlikowski98@onet.pl 4Ludwik Rydygier Specialist Hospital, Złota Jesień 1 Street, 31-826 Kraków, Poland; 0009-0000-0139-8688; marekzyglowiczpl@gmail.com 5Nicolaus Copernicus Hospital, COPERNICUS Medical Entity limited liability company under Polish law, Nowe Ogrody 1/6 Street, 80-803 Gdańsk, Poland; 0009-0004-4986-101X; torbickiadam@gmail.com 6Ludwik Rydygier Specialist Hospital, Złota Jesień 1 Street, 31-826 Kraków, Poland; 0009-0003-7974-8897; dominikaugustyn97@gmail.com 7Międzyleski Specialist Hospital in Warsaw, Bursztynowa 2 Street, 04-749 Warsaw, Poland; 0009-0006-0446-8067; gaworekpiotr@gmail.com 8Mikołaj Kopernik Provincial Multi-Specialist Center of Oncology and Traumatology Pabianicka 62, 93-513 Łódź, Poland; 0009-0008-9652-9094; marciniak.mateusz.1998@gmail.com 9Kazimierz Pułaski University of Technology and Humanities in Radom: Radom, Mazovia, PL Jacka Malczewskiego 29, 26-600 Radom, Poland; 00090001-3335-4281; trybalicja@gmail.com
+⃰ Corresponding author: Michał Korpalski, Dr. Tytus Chałubiński Radom Specialist Hospital, Adolfa Tochtermana 1 Street, 26-610 Radom, Poland; Email: michal.korpalski@onet.pl
+Peer-Review History Received: 07 May 2025 Reviewed & Revised: 18/May/2025 to 29/July/2025 Accepted: 07 August 2025 Published: 21 August 2025
+Peer-review Method External peer-review was done through double-blind method.
+Medical Science pISSN 2321–7359; eISSN 2321–7367
+
+Postcholecystectomy syndrome management and treatment
+Michał Korpalski1*, Maria Pawluczyk2, Krzysztof Pawlikowski3, Marek Żygłowicz4, Adam Torbicki5, Dominik Augustyn6, Piotr Gaworek7, Mateusz Marciniak8, Alicja Trybuła9
+ABSTRACT
+Gallstones are described as one of the most common diseases of the digestive system. It can affect 15% of the adult population. The standard of treatment for symptomatic gallbladder stones is laparoscopic cholecystectomy. Among its most outstanding features are its effectiveness and low complication rate. In a proportion of patients, the image of side effect, with a name known as Postcholecystectomy Syndrome (PCS), occurs after a successful surgery, for some time, with medical implications. In the context of PCS, a variety of clinical symptoms are included, including diarrhea, abdominal pain, nausea, indigestion, or bloating. It may be immediately following an operation or many months or years afterwards. The etiology of PCS is complex and ambiguous, including both organic causes (e.g., residual stones, sphincter of Oddi dysfunction), and extra-biliary causes (e.g., irritable bowel syndrome). The variety of symptoms and causes makes the diagnosis of PCS difficult and requires a multidisciplinary approach. This paper will provide an overview of the current state of knowledge on PCS, with a focus on the mechanisms of symptom onset, diagnostic options and available therapeutic strategies, including the treatment of diarrhea caused by bile acid disorders.
+Keywords: postcholecystectomy syndrome (PCS), laparoscopic cholecystectomy, bile acids, postoperative diarrhea, sphincter of Oddi dysfunction
+
+© The Author(s) 2025. Open Access. This article is licensed under a Creative Commons Attribution License 4.0 (CC BY 4.0)., which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+DISCOVERY
+SCIENTIFIC SOCIETY
+
+1. INTRODUCTION
+Gallstones are the most common disease of the biliary tract (Arora et al., 2018). The main symptom is pain in the upper right abdomen. The pain occurs 30 minutes to 2 hours after eating fatty foods. The pain can last from a few hours to 24 hours. Pain lasting longer than 24 hours is most often associated with a secondary infection known as acute cholecystitis (Asad et al., 2025). Laparoscopic cholecystectomy is considered the “gold standard” for the treatment of symptomatic gallstones (McLean et al., 2017).
+Laparoscopic treatment has a high success rate, but some patients continue to experience symptoms after surgery. The occurrence of symptoms after cholecystectomy is referred to as “postcholecystectomy syndrome” (PCS) (Arora et al., 2018). Advances in surgical techniques and postoperative care have contributed
+
+Medical Science 29, e140ms3670 (2025)
+
+1 of 8
+
+REVIEW | OPEN ACCESS
+to more than 50% of cholecystectomies in the UK being performed on an outpatient basis. PCS develops in 10% of patients after cholecystectomy. Most of these patients may have extra-gallbladder or non-disease-related organic disorders that could have been diagnosed before cholecystectomy (Isherwood et al., 2019).
+The diverse causes of PCS mean that diagnosis and subsequent treatment cover a comprehensive spectrum. Depending on the therapy used, varying degrees of treatment effectiveness can be achieved (Aldahshan et al., 2021).
+2. REVIEW METHODS
+As part of this review, we searched PubMed and Google Scholar for articles published between January 2015 and April 2025. We focused on studies related to PCS. We used keywords such as postcholecystectomy syndrome (PCS), laparoscopic cholecystectomy, bile acids, postoperative diarrhea, and sphincter of Oddi dysfunction. First, we checked the titles and abstracts. Then we read the full texts of the most relevant articles. We included studies that explained the development of symptoms occurring after treatment. We included 10 articles in this systematic review study (Fig. 1).
+
+Fig 1. PRISMA consort chart of selected studies Medical Science 29, e140ms3670 (2025)
+
+2 of 8
+
+REVIEW | OPEN ACCESS
+3. RESULTS
+Definition of postcholecystectomy syndrome PCS was first described in the literature in 1947. It is characterized by the persistence of gastrointestinal symptoms after cholecystectomy (Isherwood et al., 2019). In the scientific article “Postcholecystectomy syndrome: a cohort study from a single private tertiary referral center,” PCS can be defined as early if it occurs immediately after surgery. The author points out that PCS may be caused by the presence of gallstones as well as damage to the bile ducts. In the case of late PCS, symptoms occur months or years after laparoscopic cholecystectomy. This may be due to recurrent stones, dysfunction, or stricture of the bile ducts (Alotaibi, 2023).
+Symptoms of PCS These symptoms include nausea, vomiting, bloating, jaundice, diarrhea, or abdominal pain occurring after cholecystectomy at any time after surgery (Arora et al., 2018). PCS may be apparent immediately after the postoperative period. However, it can also cause symptoms many years after surgery (Sangiorgio et al., 2023). According to the given definition, PCS also includes symptoms unrelated to the bile ducts, which occur after cholecystectomy surgery (Arora et al., 2018).
+Risk factors of postcholecystectomy syndrome Research on the syndrome has been initiated to determine its possible etiology. It has been hypothesized that the vast majority of patients with PCS had non-herpetic or organic disorders. During the study, it was difficult to obtain a precise result as to whether the disorder was present before the operation or was caused by the doctor's actions (Isherwood et al., 2019). Risk factors associated with PCS in patients include age, low physical activity, an unbalanced diet, complicated gallstones, diabetes, and irritable bowel syndrome (Georgescu et al., 2022).
+The mechanisms of PCS development as a result of surgery include the presence of stones in the bile ducts and the formation of de novo ductal stones, as well as stenosis and dysfunction of the sphincter of Oddi (Isherwood et al., 2019). Early laparoscopic cholecystectomy for acute cholecystitis is associated with a lower incidence of wound infections, shorter total hospital stay, and lower costs, with no difference in mortality or biliary tract injuries (Cao et al., 2015). There are studies indicating that 2% to 15% of laparoscopic cholecystectomies convert to open surgery. Age, acute cholecystitis, peritoneal adhesions, chronic cholecystitis, and inflammatory infiltration are factors that increase the risk of conversion (Warchalowski et al., 2020).
+In the article “Postcholecystectomy syndrome: complications related to the bile ducts,” the author presented the main complications after cholecystectomy. These include bile duct damage (0.08–0.5%), bile leakage (0.42–1.1%), stone retention in the bile ducts (0.8–5.7%), cholecystectomy syndrome (10–15%), and postcholecystectomy diarrhea (5–12%) (Sangiorgio et al., 2023). The article “Diagnosis and treatment of diarrhea after cholecystectomy” states that after cholecystectomy, bile acids continuously flow into the duodenum. It has been found that diarrhea can occur due to various factors. After gallbladder removal surgery, bile cannot be stored. This results in a continuous flow of unconcentrated bile into the small intestine. The gag reflex causes more bile to pass from the small intestine to the large intestine. This, in turn, causes diarrhea induced by bile acids. The author of the article points to an increase in the frequency of bowel movements from once a day before surgery to 4-5 times a day after cholecystectomy. At the same time, it is described that the likelihood of postoperative diarrhea is influenced by the patient's age, weight, and gender (Huang et al., 2023).
+After cholecystectomy, we will also be concerned about infection of the surgical site. This results in prolonged hospitalisation and increased healthcare costs (Warren et al., 2017).
+In the article “Postcholecystectomy Syndrome,” Tami Moore presents the case of a 32-year-old female patient who underwent cholecystectomy three years earlier. She then presented to the emergency department complaining of epigastric pain. An ultrasound examination revealed no abnormalities, and the patient was discharged from the hospital. A few days later, during a follow-up visit, MR cholangiopancreatography was performed. It showed dilation of the common bile duct with the presence of a stone. Endoscopic retrograde cholangiopancreatography was then ordered, during which one stone was removed and a sphincterotomy was performed. After this procedure, all of the patient's symptoms improved. The author points out that approximately 5% of patients after cholecystectomy continue to experience abdominal pain, vomiting, indigestion, and loose stools (Moore & Amin, 2017). The presented clinical case proves that PCS should be considered in patients after cholecystectomy who report epigastric pain.
+
+Medical Science 29, e140ms3670 (2025)
+
+3 of 8
+
+REVIEW | OPEN ACCESS
+Development of postoperative management Due to the numerous etiological causes of PCS, there is a wide range of management that will induce a reduction in patients' complaints. Among the possible management methods, it was demonstrated that early complaints of PCS (occurring less than 3 years after cholecystectomy) were more often of gastric etiology. In contrast, later symptoms were attributed to retained stones (Isherwood et al., 2019).
+In McLean's research study, a questionnaire was administered to patients up to three months after surgery to assess their level of satisfaction following cholecystectomy. It was shown that in addition to the clinical results achieved, the return to recreational activities, the absence of wound pain, and the patients' high assessment of their current health status were also essential elements. In this study, 71% of patients described themselves as "very satisfied" with the procedure. At the same time, it was shown that there was a greater willingness to participate in the study among older patients, who may have had lower expectations about the potential effects with the treatment, as well as those who had received good treatment. As the author of this research paper himself put it, this may have artificially increased the level of satisfaction of the treatment obtained (McLean et al., 2017).
+In a scientific paper, the author aimed to explicitly state the factors that contribute to the development of PCS. He found no correlation between PCS and age, gender, and BMI. Among other things, he found that early attacks of acute cholecystitis are related to the occurrence of PCS. The presence of comorbidities was also shown to influence the incidence of PCS. Diabetes was identified as the main comorbidity. Patients with diabetes were shown to have a higher incidence of gastric dysmotility and biliary dyskinesia (Arora et al., 2018). The author also identified interim factors that correlate with the presence of post-operative symptoms. These factors include:
+• elevated preoperative alkaline phosphatase laboratory result • Previously undergone abdominal surgery
+Importance and benefits of postoperative management First and foremost, subject and physical examinations play the most critical role in diagnosing PCS. Laboratory tests and imaging studies also play an essential role in determining the exact etiology of PCS (Saleem et al., 2021). For patients presenting to the hospital with PCS, they need symptomatic treatment and an accurate determination of the cause of their symptoms. In this situation, liver function and abdominal ultrasound should be examined first, and further diagnostics should be tailored to the symptoms (Arora et al., 2018). Based on the British Society of Gastroenterology's Guideline on Testing for Chronic Diarrhea, endoscopy and the SeHCAT test are indicated as first-line tests. A 48-hour fecal bile acid test is shown as an alternative, which could reduce health care expenses (Huang et al., 2023).
+Tarnasky (2016) studied that when a patient presents with classic biliary symptoms and suspected biliary obstruction, sphincter of Oddi dysfunction should be considered. In such cases, endoscopic retrograde cholangiopancreatography (ERCP) examination should be considered. On the other hand, in a situation where a patient presents with atypical symptoms without documented evidence of biliary obstruction, the author posits that such patients do not qualify for ERCP.
+Gallbladder removal surgery may lead to adverse metabolic effects, including alterations in glucose and insulin levels, lipid and lipoprotein profiles, hepatic steatosis, and an increased risk of metabolic syndrome (Di Ciaula et al., 2018). The causes of PCS are varied, but many are extra-biliary causes that may have been present in the patient before cholecystectomy (Isherwood et al., 2019). One of the key factors in preventing the development of PCS is a proper diet. Based on patient observations, it has been found that diarrhea is often related to diet, especially as a result of consuming fatty foods (Huang et al., 2023).
+Treatment of diarrhea in PCS A study conducted by Huang et al., (2023) found an increase in the concentration of deoxycholic acid in the stool. This causes an increase in rectal sensitivity, which in turn affects the increased need to pass stool. Drugs that will act on bile acid receptors and transporters or that affect the bile acid pool are considered as possible forms of treatment. To counteract diarrhea resulting from bile acids after cholecystectomy, few treatments have been developed.
+Bile acid sequestrants (BAS) are indicated as first-line treatment based on guidelines created by the Canadian Society of Gastroenterology. Bile acid sequestrants include:
+• cholestyramine • colestpol • kolesewelam
+
+Medical Science 29, e140ms3670 (2025)
+
+4 of 8
+
+REVIEW | OPEN ACCESS
+They can bind bile acids that are secreted into the intestine. The study was performed in patients who had been diagnosed with diarrhea after cholecystectomy. To be eligible for the study, participants had to have experienced more than four loose stools per day for a period of one to twenty years, and have been found to have elevated levels of bile acids in their stools, with a stool weight of more than 200 grams per day. After treatment with cholestyramine at a dose of 4 to 16 grams per day, the number of daily bowel movements decreased within 72 hours. In contrast, when cholestyramine treatment was discontinued, diarrhea recurred in all patients.
+Bile acid receptor agonists also have applications in the treatment of diarrhea following cholecystectomy, which is often caused by bile acid imbalances. The farnesoid X receptor (FXR), which is involved in bile acid synthesis, was found to be strongly expressed in the intestine and liver. FXR is assigned a role in the extrahepatic metabolism of cholesterol, lipids, and glucose. The use of bile acid receptor agonists induces a reduction in bile acid synthesis. FXR agonists have potential as anti-diarrheal drugs because they inhibit the secretion of adenosine monophosphate chloride by the colonic epithelium (Huang et al., 2023).
+The glucagon-like peptide-1 (GLP-1) receptor agonist, liraglutide, is also indicated as a medication that may have beneficial effects in patients with bile acid-induced diarrhea. It has applications in the treatment of type 2 diabetes and obesity, and is used as a secondline antidiarrheal therapy for treating bile acid-induced diarrhea. Liraglutide delays gastric emptying and inhibits peristalsis of the duodenum and small intestine. GLP-1 inhibits upper gastrointestinal motility and induces longer small intestinal transit time. This increases the passive resorption of bile acids into the bloodstream. This, in turn, results in fewer bile acids reaching the colon. There are studies indicating a correlation between cholecystectomy and the later onset of diabetes. For this reason, the use of liraglutide may have an additional beneficial therapeutic effect. The role of liraglutide is not yet fully defined, and research is still ongoing (Huang et al., 2023).
+Bile acid-induced diarrhea following cholecystectomy also marks the role of the gut microbiota in some patients. Studies have emerged indicating increased binding of bile acids, as well as subsequent fecal excretion. Antidiarrheal drugs are also used to treat diarrhea resulting from bile acids. Loperamide should be mentioned as a representative of this group of drugs. It reduces intestinal secretion and inhibits intestinal peristalsis, thus slowing intestinal transit. This induces greater resorption of bile acids, resulting in relief of diarrhea symptoms. There are studies on the use of diphenoxylate and atropine, but their use is limited due to the higher risk of cardiotoxicity (Huang et al., 2023).
+A proper diet also plays an essential role in preventing diarrhea resulting from bile acids. The severity of diarrhea can be reduced by limiting cholesterol, fats, animal protein and eggs in the diet and also by adding more fruits and vegetables to one's diet. A diet high in plant-based dietary fiber can prevent diarrhea by decreasing gastric emptying, improving intestinal barrier function, regenerating intestinal epithelial cells more effectively, and increasing fluid and electrolyte resorption in the intestines (Huang et al., 2023).
+A key role in the onset of one of the symptoms of PCS, diarrhea, was attributed to the high concentration of bile acids in the intestines. After the cholecystectomy procedure, the most likely mechanism leading to the accumulation of bile acids was explained. Further research will allow us to understand these processes more thoroughly and treat the adverse effects of cholecystectomy more effectively. An apt example is the discovery and subsequent use of the gut-specific activator FXR to alleviate biliary enterostasis by inducing FGF19 and reducing bile acid synthesis in the liver. This finding avoided the side effects of FXR activation in the liver. However, it should be added that the use of this drug may be associated with the development of other side effects. In the case of liraglutide, which the author of the research paper cites as an effective anti-diarrheal method, the main limitation is the high price of the drug, making it unaffordable for use as a first-line treatment (Huang et al., 2023).
+4. DISCUSSION
+The studies presented here clearly indicate that post-cholecystectomy syndrome (PCS) is a serious clinical problem, especially in the context of chronic diarrhea. One of the key mechanisms underlying this symptom is the constant generation of unconcentrated bile into the small intestine after cholecystectomy, leading to the hypersecretion of bile acids into the large intestine. This induces mucosal irritation, peristalsis, and water loss, thereby causing diarrhea. Bile acid sequestrants play a pivotal role in PCS treatment. They are cholestyramine, which binds acids in the intestine and interrupts their irritation. Drugs that alter bile acid metabolism (FXR agonists; liraglutide) are also an option, but their availability and cost hinder wide use. Educational support along with diet modification (limited fats, high fiber, avoidance of factors that worsen symptoms) is as crucial as pharmacologic therapy. However, it is essential to emphasize that not all cases of PCS are related to the procedure. In several patients, symptoms are functional or are caused by preexisting occult diseases of the gastrointestinal system. This emphasizes the importance of an accurate preoperative diagnosis and an individualized approach to all cholecystectomy patients. A summary of the key information on PCS is presented in Table 1.
+
+Medical Science 29, e140ms3670 (2025)
+
+5 of 8
+
+REVIEW | OPEN ACCESS
+
+Table 1. Clinical characteristics and therapeutic options in PCS
+
+Aspect
+
+Key Information
+
+Types of PCS
+
+- Early: shortly after surgery - Late: months to years after surgery
+
+Typical Symptoms
+
+Abdominal pain, bloating, nausea, vomiting, diarrhea, jaundice, indigestion
+
+Etiology
+
+- Biliary (e.g., ductal stones, bile leakage, sphincter of Oddi dysfunction) - Non-biliary (e.g., IBS, metabolic changes)
+
+Main Risk Factors
+
+Age, low physical activity, diabetes, complicated stones, previous abdominal surgery
+
+Diagnostic Tools
+
+LFTs, abdominal US, Magnetic Resonance Cholangiopancreatography, ERCP, SeHCAT, stool bile acid test, endoscopy
+
+Treatment Options
+
+- For diarrhea: BAS (cholestyramine), FXR agonists, GLP-1 agonists, diet - General PCS: pharmacological (e.g., nifedipine), endoscopic, surgical
+
+5. CONCLUSION
+Post cholecystectomy syndrome (PCS) is a significant clinical problem, even though laparoscopic cholecystectomy is widely recognized as an effective and safe treatment for gallstones. PCS is distinguished by varied symptoms, including abdominal pain, bloating, nausea, indigestion, and diarrhea, which can occur immediately after surgery or even years later. A particularly significant and frequently reported symptom is diarrhea, resulting from the chronic effects of bile acids on the intestines due to the lack of a mechanism to store them after gallbladder removal. The mechanisms of PCS are multifactorial and include both organic and functional disorders. This paper presents the potential causes of PCS, current diagnostic approaches, and treatment methods, with a particular emphasis on drug therapy for diarrhea caused by excessive bile acids. The importance of individualizing treatment and the need for comprehensive evaluation of patients before and after surgery are presented. A deeper understanding of the mechanisms of PCS can lead to more effective therapy and an improved quality of life for patients.
+Author’s Contributions Conceptualization: Michal Korpalski; Methodology: Piotr Gaworek; Software: Mateusz Marciniak; Check: Maria Pawluczyk and Krzysztof Pawlikowski; Formal analysis: Marek Żygłowicz and Dominik Augustyn; Investigation: Alicja Trybuła and Adam Torbicki; Resources: Michał Korpalski and Piotr Gaworek; Data curation: Krzysztof Pawlikowski; Writing - rough preparation: Dominik Augustyn; Writing - review and editing: Michał Korpalski;
+
+Medical Science 29, e140ms3670 (2025)
+
+6 of 8
+
+REVIEW | OPEN ACCESS
+Visualization: Piotr Gaworek; Supervision: Michał Korpalski; Project administration: Alicja Trybuła and Maria Pawluczyk; Receiving funding - no specific funding.
+
+Acknowledgments The authors have no acknowledgments to disclose.
+
+Informed consent Not applicable.
+
+Ethical approval Not applicable.
+
+Funding This study has not received any external funding.
+
+Conflict of interest The authors declare that there is no conflict of interest.
+
+Data and materials availability All data associated with this work are present in the paper.
+
+REFERENCES
+1. Aldahshan AAS, Salamah AR, Fayoumi NM, Alkhudaydi SA, Alhijji MKM, Alnahwi QAA, Balghsoon AA, Alomran AO, Altalhi SMQ, Haqawi BI. An Overview on PostCholecystectomy Syndrome Diagnostic &amp; Management Approach. Arch Pharm Pract 2021;12(4–2021):38–41. doi: 10.5 1847/OteX8PLCKi
+2. Alotaibi AM. Post-cholecystectomy syndrome: A cohort study from a single private tertiary center. J Taibah Univ Med Sci 2023;18(2):383–9. doi: 10.1016/j.jtumed.2022.10.004
+3. Arora D, Kaushik R, Kaur R, Sachdev A. Postcholecystectomy syndrome: A new look at an old problem. J Minim Access Surg 2018;14(3):202. doi: 10.4103/jmas.JMAS_92 _17
+4. Asad U, Wang CF, Jones MW. Laparoscopic Cholecystectomy. In: StatPearls. Treasure Island (FL): StatPearls Publishing 2025.
+5. Cao AM, Eslick GD, Cox MR. Early Cholecystectomy Is Superior to Delayed Cholecystectomy for Acute Cholecystitis: a Meta-analysis. J Gastrointest Surg 2015;19(5):848–57. doi: 10.1007/s11605-015-2747-x
+6. Di Ciaula A, Garruti G, Wang DQH, Portincasa P. Cholecystectomy and risk of metabolic syndrome. Eur J Intern Med 2018;53:3–11. doi: 10.1016/j.ejim.2018.04.019
+
+7. Georgescu D, Caraba A, Ionita I, Lascu A, Hut EF, Dragan S, Ancusa OE, Suceava I, Lighezan D. Dyspepsia and Gut Microbiota in Female Patients with Postcholecystectomy Syndrome. Int J Womens Health 2022;14:41–56. doi: 10.2147/ IJWH.S342882
+8. Huang R-L, Huang W-K, Xiao X-Y, Ma L-F, Gu H-Z-R, Yang G-P. Diagnosis and treatment of post-cholecystectomy diarrhoea. World J Gastrointest Surg 2023;15(11):2398–405. doi: 10.4240/wjgs.v15.i11.2398
+9. Isherwood J, Oakland K, Khanna A. A systematic review of the aetiology and management of post cholecystectomy syndrome. Surgeon 2019;17(1):33–42. doi: 10.1016/j.surge.2018. 04.001
+10. McLean KA, Sheng Z, O’Neill S, Boyce K, Jones C, Wigmore SJ, Harrison EM. The Influence of Clinical and PatientReported Outcomes on Post-surgery Satisfaction in Cholecystectomy Patients. World J Surg 2017;41(7):1752–61. doi: 10.1007/s00268-017-3917-7
+11. Moore T, Amin M. Post-Cholecystectomy Syndrome. Clin Pract Cases Emerg Med 2017;1(4):446–7. doi: 10.5811/cpcem. 2017.6.33321
+12. Saleem S, Weissman S, Gonzalez H, Rojas PG, Inayat F, Alshati A, Gaduputi V. Post-cholecystectomy syndrome: a retrospective study analysing the associated demographics,
+
+Medical Science 29, e140ms3670 (2025)
+
+7 of 8
+
+REVIEW | OPEN ACCESS
+aetiology, and healthcare utilization. Transl Gastroenterol Hepatol 2021;6:58. doi: 10.21037/tgh.2019.11.08 13. Sangiorgio G, Zanghì M, Dionigi G, Zanghì G. Postcholecystectomy syndrome: biliary-related complications. Minerva Surg 2023;78(6):684–91. doi: 10.23736/s2724-5691.23.0 9942-2 14. Tarnasky PR. Post-cholecystectomy syndrome and sphincter of Oddi dysfunction: past, present and future. Expert Rev Gastroenterol Hepatol 2016;10(12):1359–72. doi: 10.1080/1747 4124.2016.1251308 15. Warchałowski Ł, Łuszczki E, Bartosiewicz A, Dereń K, Warchałowska M, Oleksy Ł, Stolarczyk A, Podlasek R. The Analysis of Risk Factors in the Conversion from Laparoscopic to Open Cholecystectomy. Int J Environ Res Public Health 2020;17(20):7571. doi: 10.3390/ijerph17207571 16. Warren DK, Nickel KB, Wallace AE, Mines D, Tian F, Symons WJ, Fraser VJ, Olsen MA. Risk Factors for Surgical Site Infection After Cholecystectomy. Open Forum Infect Dis 2017;4(2):ofx036. doi: 10.1093/ofid/ofx036
+
+Medical Science 29, e140ms3670 (2025)
+
+8 of 8

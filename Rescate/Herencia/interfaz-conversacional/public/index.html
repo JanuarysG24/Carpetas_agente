@@ -1,0 +1,341 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Prueba — Capa conversacional (voz)</title>
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: #f4f5f7; color: #1c1e21; display: flex; height: 100vh;
+  }
+  #columna-chat { flex: 1 1 60%; display: flex; flex-direction: column; border-right: 1px solid #ddd; min-width: 360px; }
+  #cabecera { padding: 12px 16px; background: #202531; color: #fff; display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+  #cabecera h1 { font-size: 15px; margin: 0; font-weight: 600; }
+  #cabecera .fase { font-size: 12px; opacity: .8; white-space: nowrap; }
+  #mensajes { flex: 1; overflow-y: auto; padding: 16px; display: flex; flex-direction: column; gap: 10px; }
+  .msg { max-width: 72%; padding: 10px 14px; border-radius: 14px; line-height: 1.4; font-size: 14.5px; white-space: pre-wrap; }
+  .msg.agente { align-self: flex-start; background: #fff; border: 1px solid #e2e2e2; border-bottom-left-radius: 4px; }
+  .msg.paciente { align-self: flex-end; background: #2f6feb; color: #fff; border-bottom-right-radius: 4px; }
+  .msg.sistema { align-self: center; background: transparent; color: #888; font-size: 12.5px; font-style: italic; }
+  .latencia { align-self: flex-start; font-size: 11px; color: #999; margin-top: -6px; }
+  .latencia.paciente-lado { align-self: flex-end; }
+  #zona-entrada { display: flex; flex-direction: column; gap: 8px; padding: 12px; border-top: 1px solid #ddd; background: #fff; }
+  #fila-texto { display: flex; gap: 8px; }
+  #texto { flex: 1; padding: 10px 12px; border-radius: 10px; border: 1px solid #ccc; font-size: 14.5px; }
+  button { cursor: pointer; border: none; border-radius: 10px; padding: 10px 16px; font-size: 14px; font-weight: 600; }
+  #enviar { background: #2f6feb; color: #fff; }
+  #enviar:disabled { background: #a9c0ee; cursor: not-allowed; }
+  #reiniciar { background: #eee; color: #333; }
+  #fila-voz { display: flex; align-items: center; gap: 10px; }
+  #microfono {
+    flex: 1; background: #d9364f; color: #fff; padding: 14px; font-size: 15px;
+    user-select: none; -webkit-user-select: none; touch-action: none;
+  }
+  #microfono.grabando { background: #a11; box-shadow: 0 0 0 4px #ffd7dc; }
+  #microfono:disabled { background: #ccc; cursor: not-allowed; }
+  #estado-voz { font-size: 12px; color: #666; min-width: 160px; }
+  #columna-debug { flex: 0 0 40%; max-width: 460px; overflow-y: auto; padding: 16px; background: #fbfbfc; }
+  #columna-debug h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: #666; margin: 0 0 10px; }
+  .unidad { background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 10px 12px; margin-bottom: 8px; font-size: 12.5px; }
+  .unidad .fila-1 { display: flex; justify-content: space-between; align-items: baseline; }
+  .unidad .id { font-weight: 700; }
+  .unidad .extraction { font-size: 11px; padding: 2px 6px; border-radius: 6px; background: #eee; }
+  .unidad .extraction.cubierta, .unidad .extraction.cubierta_condicionada { background: #d6f5d6; color: #1a7a1a; }
+  .unidad .extraction.suspendida { background: #f5d6d6; color: #a11; }
+  .unidad .extraction.hidratada_sin_normalizar { background: #fdf1c7; color: #8a6d00; }
+  .unidad .detalle { margin-top: 4px; color: #555; }
+  .unidad .detalle b { color: #111; }
+  #bandera-roja { background: #ffe1e1; border: 1px solid #e88; border-radius: 10px; padding: 10px; margin-bottom: 12px; font-size: 13px; color: #a11; display: none; }
+</style>
+</head>
+<body>
+  <div id="columna-chat">
+    <div id="cabecera">
+      <h1>Prueba — capa conversacional, voz a voz (sin decisión ni RAG)</h1>
+      <span class="fase" id="fase">fase: —</span>
+    </div>
+    <div id="mensajes"></div>
+    <div id="zona-entrada">
+      <div id="fila-voz">
+        <button id="microfono">🎤 Mantener presionado para hablar</button>
+        <span id="estado-voz"></span>
+      </div>
+      <div id="fila-texto">
+        <input id="texto" type="text" placeholder="…o escriba en vez de hablar" autocomplete="off" />
+        <button id="enviar">Enviar</button>
+        <button id="reiniciar">Reiniciar</button>
+      </div>
+    </div>
+  </div>
+  <div id="columna-debug">
+    <h2>Estado interno (para verificar, no se muestra al paciente)</h2>
+    <div id="bandera-roja"></div>
+    <div id="unidades"></div>
+  </div>
+
+<script>
+const $mensajes = document.getElementById("mensajes");
+const $texto = document.getElementById("texto");
+const $enviar = document.getElementById("enviar");
+const $reiniciar = document.getElementById("reiniciar");
+const $fase = document.getElementById("fase");
+const $unidades = document.getElementById("unidades");
+const $banderaRoja = document.getElementById("bandera-roja");
+const $microfono = document.getElementById("microfono");
+const $estadoVoz = document.getElementById("estado-voz");
+
+// ---------------------------------------------------------------------------
+// Chat + panel de estado
+// ---------------------------------------------------------------------------
+
+function agregarMensaje(texto, clase, latenciaMs, ladoLatencia) {
+  const div = document.createElement("div");
+  div.className = "msg " + clase;
+  div.textContent = texto;
+  $mensajes.appendChild(div);
+  if (latenciaMs !== undefined) {
+    const l = document.createElement("div");
+    l.className = "latencia" + (ladoLatencia === "paciente" ? " paciente-lado" : "");
+    l.textContent = `${latenciaMs} ms`;
+    $mensajes.appendChild(l);
+  }
+  $mensajes.scrollTop = $mensajes.scrollHeight;
+}
+
+function pintarUnidades(estado) {
+  $fase.textContent = `fase: ${estado.phase} · turno: ${estado.turno} · estado global: ${estado.global_state}`;
+  if (estado.red_flag) {
+    $banderaRoja.style.display = "block";
+    $banderaRoja.textContent = `⚠ bandera roja: ${estado.red_flag.red_flag_id} — "${estado.red_flag.utterance}"`;
+  } else {
+    $banderaRoja.style.display = "none";
+  }
+  $unidades.innerHTML = "";
+  for (const u of estado.unidades) {
+    const div = document.createElement("div");
+    div.className = "unidad";
+    div.innerHTML = `
+      <div class="fila-1"><span class="id">${u.id}</span><span class="extraction ${u.extraction}">${u.extraction}</span></div>
+      <div class="detalle"><b>raw:</b> ${u.raw ?? "—"}</div>
+      <div class="detalle"><b>normalized:</b> ${u.normalized === null ? "null" : JSON.stringify(u.normalized)}</div>
+      <div class="detalle"><b>state:</b> ${u.state} · <b>confidence:</b> ${u.confidence.toFixed(2)} · <b>cobertura:</b> ${u.coverage_met.join(", ") || "—"}</div>
+      ${u.cause ? `<div class="detalle"><b>cause:</b> ${u.cause} · <b>closure:</b> ${u.closure ?? "—"}</div>` : ""}
+    `;
+    $unidades.appendChild(div);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Texto -> voz (TTS). Voz del sistema operativo por ahora — es lo que el
+// propio plan del reto recomienda para el primer día: cierra el ciclo ya,
+// se cambia despues por Piper/Kokoro sin tocar nada de esto.
+// ---------------------------------------------------------------------------
+
+let vozEspanol = null;
+function elegirVoz() {
+  const voces = speechSynthesis.getVoices();
+  vozEspanol =
+    voces.find((v) => /es[-_](CO|MX|419)/i.test(v.lang)) ||
+    voces.find((v) => v.lang?.toLowerCase().startsWith("es")) ||
+    null;
+}
+speechSynthesis.onvoiceschanged = elegirVoz;
+elegirVoz();
+
+/** Habla el texto y devuelve cuando EMPIEZA a sonar (para medir latencia real). */
+function hablar(texto) {
+  return new Promise((resolve) => {
+    if (!("speechSynthesis" in window) || !texto) return resolve(null);
+    const u = new SpeechSynthesisUtterance(texto);
+    u.lang = vozEspanol?.lang ?? "es-ES";
+    if (vozEspanol) u.voice = vozEspanol;
+    u.rate = 1.0;
+    u.onstart = () => resolve(performance.now());
+    u.onerror = () => resolve(null);
+    speechSynthesis.cancel(); // no encimar turnos
+    speechSynthesis.speak(u);
+  });
+}
+
+// ---------------------------------------------------------------------------
+// Voz -> texto (STT). Push-to-talk: mantener presionado graba, soltar envia
+// a /api/transcribir (Whisper large-v3 en Groq). Es la salida segura que
+// recomienda el plan: en una demo en vivo, el control manual nunca falla.
+// ---------------------------------------------------------------------------
+
+let grabadora = null;
+let trozosAudio = [];
+let tFinDeHabla = 0;
+
+async function empezarGrabacion(ev) {
+  ev.preventDefault();
+  if (grabadora) return;
+  try {
+    const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+    trozosAudio = [];
+    grabadora = new MediaRecorder(stream);
+    grabadora.ondataavailable = (e) => { if (e.data.size > 0) trozosAudio.push(e.data); };
+    grabadora.start();
+    $microfono.classList.add("grabando");
+    $microfono.textContent = "🔴 Grabando… suelte para enviar";
+    $estadoVoz.textContent = "";
+  } catch (e) {
+    $estadoVoz.textContent = "No se pudo acceder al micrófono: " + e.message;
+  }
+}
+
+async function pararGrabacion(ev) {
+  ev.preventDefault();
+  if (!grabadora || grabadora.state === "inactive") return;
+  const tipoMime = grabadora.mimeType || "audio/webm";
+  const listo = new Promise((resolve) => { grabadora.onstop = resolve; });
+  grabadora.stop();
+  grabadora.stream.getTracks().forEach((t) => t.stop());
+  await listo;
+  tFinDeHabla = performance.now();
+
+  $microfono.classList.remove("grabando");
+  $microfono.disabled = true;
+  $microfono.textContent = "⏳ transcribiendo…";
+  grabadora = null;
+
+  const blob = new Blob(trozosAudio, { type: tipoMime });
+  if (blob.size < 500) {
+    $microfono.disabled = false;
+    $microfono.textContent = "🎤 Mantener presionado para hablar";
+    $estadoVoz.textContent = "Grabación muy corta, no se envió.";
+    return;
+  }
+
+  try {
+    const r = await fetch("/api/transcribir", {
+      method: "POST",
+      headers: { "Content-Type": tipoMime },
+      body: blob,
+    }).then((r) => r.json());
+
+    if (r.error) {
+      $estadoVoz.textContent = "Error de transcripción: " + r.error;
+    } else {
+      const msTranscripcion = Math.round(performance.now() - tFinDeHabla);
+      $estadoVoz.textContent = `transcrito en ${msTranscripcion} ms`;
+      await enviarTexto(r.texto, true);
+    }
+  } catch (e) {
+    $estadoVoz.textContent = "Error de red";
+    agregarMensaje(diagnosticarRed(e), "sistema");
+  } finally {
+    $microfono.disabled = false;
+    $microfono.textContent = "🎤 Mantener presionado para hablar";
+  }
+}
+
+$microfono.addEventListener("mousedown", empezarGrabacion);
+$microfono.addEventListener("touchstart", empezarGrabacion);
+["mouseup", "mouseleave", "touchend", "touchcancel"].forEach((ev) =>
+  $microfono.addEventListener(ev, pararGrabacion),
+);
+
+// ---------------------------------------------------------------------------
+// El turno: comun a voz y a texto.
+// ---------------------------------------------------------------------------
+
+/**
+ * "Failed to fetch" no dice nada util por si solo. Estas son las dos causas
+ * reales, y se distinguen antes de intentar la peticion.
+ */
+function diagnosticarRed(e) {
+  if (location.protocol === "file:") {
+    return (
+      "La página se abrió como archivo (file://), no desde el servidor. " +
+      "El navegador no puede llamar a /api/... así. Arranca el servidor con " +
+      "`GROQ_API_KEY=tu_clave npm start` y abre http://localhost:8787 en la barra de direcciones."
+    );
+  }
+  if (e && /failed to fetch|networkerror|load failed/i.test(e.message)) {
+    return (
+      "No hay nadie escuchando en " + location.origin + ". El servidor no está corriendo o se cayó. " +
+      "Revisa la terminal donde corriste `npm start`: si dice ERR_MODULE_NOT_FOUND, faltan los enlaces " +
+      "entre paquetes (ver README)."
+    );
+  }
+  return "Error de red: " + (e?.message ?? e);
+}
+
+async function iniciar() {
+  $mensajes.innerHTML = "";
+  if (location.protocol === "file:") {
+    agregarMensaje(diagnosticarRed(null), "sistema");
+    return;
+  }
+  try {
+    const r = await fetch("/api/reiniciar", { method: "POST" }).then((r) => r.json());
+    if (r.error) { agregarMensaje("Error: " + r.error, "sistema"); return; }
+    agregarMensaje(r.saludo, "agente");
+    await hablar(r.saludo);
+    pintarUnidades(r.estado);
+  } catch (e) {
+    agregarMensaje(diagnosticarRed(e), "sistema");
+  }
+}
+
+/**
+ * @param {string} texto lo dicho por el paciente (transcrito o escrito).
+ * @param {boolean} esVoz si viene de voz, la latencia se mide desde que dejo de hablar (t_fin_de_habla), no desde el envio HTTP.
+ */
+async function enviarTexto(texto, esVoz) {
+  texto = (texto ?? "").trim();
+  if (!texto) return;
+  agregarMensaje(texto, "paciente");
+  const t0 = esVoz ? tFinDeHabla : performance.now();
+  try {
+    const r = await fetch("/api/turno", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ texto }),
+    }).then((r) => r.json());
+
+    if (r.error) {
+      agregarMensaje("Error: " + r.error, "sistema");
+      return;
+    }
+    if (r.say) {
+      agregarMensaje(r.say, "agente");
+      const tHabloEn = await hablar(r.say);
+      const ms = Math.round((tHabloEn ?? performance.now()) - t0);
+      agregarMensaje(
+        esVoz ? `latencia fin-de-habla → inicio-de-respuesta: ${ms} ms` : `latencia: ${ms} ms`,
+        "sistema",
+      );
+    }
+    if (r.terminado) agregarMensaje("— la sesión terminó: se cerró todo lo pendiente por corte —", "sistema");
+    pintarUnidades(r.estado);
+  } catch (e) {
+    agregarMensaje(diagnosticarRed(e), "sistema");
+  }
+}
+
+async function enviarDesdeTexto() {
+  const texto = $texto.value.trim();
+  if (!texto) return;
+  $texto.value = "";
+  $enviar.disabled = true;
+  try {
+    await enviarTexto(texto, false);
+  } finally {
+    $enviar.disabled = false;
+    $texto.focus();
+  }
+}
+
+$enviar.addEventListener("click", enviarDesdeTexto);
+$texto.addEventListener("keydown", (e) => { if (e.key === "Enter") enviarDesdeTexto(); });
+$reiniciar.addEventListener("click", iniciar);
+
+iniciar();
+</script>
+</body>
+</html>

@@ -1,0 +1,707 @@
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del paciente con colecistitis aguda calculosa
+en el Hospital Universitario Nacional
+Juan Sebastián Martínez Buitrago
+Universidad Nacional de Colombia Facultad de Medicina, Departamento de Especialidades Quirúrgicas
+Bogotá, Colombia 2023
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del paciente con colecistitis aguda calculosa
+en el Hospital Universitario Nacional
+Juan Sebastián Martínez Buitrago
+Tesis o trabajo de investigación presentada(o) como requisito parcial para optar al título de:
+Especialista en Cirugía General
+Director (a): Dr. Oscar Alexander Guevara Cruz. Profesor Titular del Departamento de Cirugía (Facultad de Medicina, Universidad Nacional de Colombia). Cirujano hepatobiliar del servicio de Cirugía (Hospital Universitario Nacional de Colombia)
+Asesor (a) metodológico: Metodólogos de investigación Dirección de investigación en innovación HUN
+Universidad Nacional de Colombia Facultad de Medicina, Departamento de Especialidades Quirúrgicas
+Bogotá, Colombia 2023
+
+A mi familia, por todo el amor, el empeño y el sacrificio que han tenido durante estos años.
+A Camila Andrea por su paciencia, por poner las palabras adecuadas en el momento adecuado.
+A mis profesores por permitirme aprender de su ejemplo.
+A nuestros pacientes por enseñarme día a día, por confiar y por colocar su vida en nuestras manos.
+“Y aunque estudiaras medicina durante más de una vida, acudiría la gente cuyas enfermedades son misterios, porque la angustia que mencionas es parte integrante de la profesión de curar, y hay que aprender a vivir con ella”.
+Noah Gordon, el médico. 1986.
+
+VI Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+Declaración de obra original
+Yo, declaro lo siguiente:
+He leído el Acuerdo 035 de 2003 del Consejo Académico de la Universidad Nacional. «Reglamento sobre propiedad intelectual» y la Normatividad Nacional relacionada al respeto de los derechos de autor. Esta disertación representa mi trabajo original, excepto donde he reconocido las ideas, las palabras, o materiales de otros autores.
+Cuando se han presentado ideas o palabras de otros autores en esta disertación, he realizado su respectivo reconocimiento aplicando correctamente los esquemas de citas y referencias bibliográficas en el estilo requerido.
+He obtenido el permiso del autor o editor para incluir cualquier material con derechos de autor (por ejemplo, tablas, figuras, instrumentos de encuesta o grandes porciones de texto).
+Por último, he sometido esta disertación a la herramienta de integridad académica, definida por la universidad.
+________________________________ Nombre Juan Sebastián Martínez Buitrago Fecha 27/11/2023
+
+Agradecimientos
+A la Universidad Nacional de Colombia por permitirme continuar mi formación profesional y obtener el titulo de especialista en cirugía general.
+
+Resumen y Abstract
+
+IX
+
+Resumen
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+Introducción: La colecistitis aguda consiste en el proceso inflamatorio de la vesícula biliar que ocurre como consecuencia de la oclusión del conducto cístico, o de la limitación en el vaciamiento vesicular. Se trata de la complicación más común de la enfermedad litiásica biliar y tiene un espectro evolutivo variable dentro del curso de la enfermedad desde colecistitis aguda Tokio I a Tokio III. Se puede asociar a otro tipo de patologías a tener en cuenta como la coledocolitiasis donde se hace imperativo estimar el riesgo de presentación. El manejo de la colecistitis aguda implica un manejo multidisciplinario y oportuno que se verá reflejado en mejoría en la atención en salud y desenlace para los pacientes.
+Objetivos: En el Hospital Universitario Nacional consiste en uno de los principales motivos de remisión, involucrando diversos tipos de procedimientos. Por lo tanto, el presente estándar clínico busca unificar conceptos multidisciplinarios para el adecuado diagnóstico y tratamiento de pacientes con colecistitis aguda calculosa.
+Metodología: El proceso fue desarrollado secuencialmente, teniendo en cuenta seis actividades: (i) conformación del grupo elaborador; ii) definición del alcance y los objetivos del ECBE; iii) revisión sistemática de la literatura de GPC; iv) elaboración de la propuesta preliminar de ECBE; v) desarrollo de un acuerdo interdisciplinario; y vi) elaboración del documento final del ECBE.
+
+X Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+Discusión: El presente estándar busca ser referente institucional y optimizar el manejo de los pacientes con colecistitis aguda calculosa, para ello se establecieron 5 secciones: diagnóstico, clasificación de severidad, clasificación del riesgo de coledocolitiasis, tratamiento quirúrgico y tratamiento del paciente inicialmente no apto para cirugía. Con las cuales se busca mejorar los desenlaces, así como optimizar recursos en salud. Se establecieron puntos de control con la finalidad de establecer momentos claves de la atención y que servirán como herramienta de evaluación y seguimiento.
+Conclusión: La colecistitis aguda calculosa es una patología altamente prevalente que involucra un manejo multidisciplinario dado su espectro clínico variable. El desarrollo de un estándar clínico basado en la evidencia institucional permite mejorar la calidad y la atención en salud de dichos pacientes.
+Palabras clave: Colecistitis aguda, diagnóstico, tratamiento, estándar clínico basado en la evidencia.
+
+Definición de términos
+Abstract
+Evidence Based Clinical Standard: Patient with acute calculous cholecystitis Diagnosis and treatment
+Introduction: Acute calculous cholecystitis refers to the inflamatory process of the gallbladder related to the cystic duct obstruction, or the limited gallbladder emptying. It is the most common complication of the litiasic disease. It has a wide evolutive spectrum ranging from Tokio I to Tokio III. It could be related to choledocholithiasis where it is necessary to evaluate the risk. Treatment requires a multidisciplinary approach that would be reflected in a better healthcare attention and better outcomes for the patients.
+Objective: This pathology is one of the most common in the Hospital Universitario Nacional that requires different types of procedures. Therefore, the present evidence based clinical standard looks for unify multidisciplinary concepts for the correct diagnosis and treatment of patients with acute calculous cholecystitis.
+Metodology: The process was sequential, it involved 6 activities: (i) forming the elaboration group ; ii) defining the scope and objectives; iii) systematic review of the literature; iv) preliminary proposal elaboration; v) elaboration of the interdisciplinary agreement; and vi) elaboration of the final document.
+Discussion: The present standard pretends to be an institutioal referent and to optimize the treeatment of patients with acute calculous cholecystitis, so the we define 5 sections: diagnosis, severity classification, choledocholithiasis risk classification, surgical treatment and inicial treatment of the patient not suitable for surgery
+Conclusion: Acute claculos cholecystitis is a highly prevalent pathology that involves a multidisciplinary apporach due to its clinical variability. The development of an instittutional clinical based standard will allow to get a better quality attention for these patients.
+
+XII Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+Keywords: Acute Cholecystitis, diagnosis, therapeutics, clinical evidence based standard
+
+Contenido
+
+XIII
+
+Contenido
+ÍNDICE:..................................................................................¡Error! Marcador no definido. Índice de tablas: .......................................................................................................... XIV Índice de figuras .......................................................................................................... XIV
+Definición de términos ……………………………………………………………………… XV Lista de abreviaturas............................................................¡Error! Marcador no definido.
+Introducción .......................................................................¡Error! Marcador no definido.7 Alcance .........................................................................................................................19
+Objetivos ………………………………………………………………………………………...19 Metodología ...................................................................................................................21 Diagramas de flujo y puntos de control.......................................................................24 Implementación y evaluación de la adherencia. .........................................................47 Impacto esperado .........................................................................................................49 Actualización . ...............................................................................................................50 Discusión .......................................................................................................................51 Conclusiones ................................................................................................................. 52 Referencias ....................................................................................................................53
+
+Lista de símbolos y abreviaturas
+
+XIV
+
+ÍNDICE:
+Índice de tablas.
+Tabla 1. Guías de Práctica Clínica identificadas en la busqueda que cumplen con los criterios de eligibilidad para el desarrollo del ECBE. ...................................................7 Tabla 2. Indicadores propuestos para la medición de los puntos de control...........31
+
+Índice de figuras.
+Figura 1. Diagrama de la metodología del proceso de desarrollo del ECBE en el HUN ......................................................................................................................................... 5 Figura 2. Sección 1: Diagnóstico .................................................................................9 Figura 3. Sección 2: Clasificación de la severidad .................................................... 10 Figura 4: Sección 3: Clasificación del riesgo de coledocolitiasis ............................21 Figura 5: Sección 4: Tratamiento del paciente incialmente no apto para cirugía ... 27
+
+Definición de términos
+Definición de Términos
+Adaptación de recomendaciones: Grado en el que una intervención basada en evidencia se cambia o se modifica por un usuario durante la adopción e implementación para ajustarla a las necesidades de su práctica, o para mejorar el desempeño en condiciones locales (1).
+Algoritmo: Procedimiento expresado como una serie de pasos que permite solucionar un problema específico en un tiempo y espacio determinados. Debe cumplir con los siguientes atributos: tener una entrada y una salida, no presentar ambigüedad en los pasos planteados; el procedimiento debe terminar después de un determinado número de pasos, y cada instrucción debe estar suficientemente explicada como para que pueda ser ejecutada (2).
+Colecistectomía laparoscópica: Cirugía que se realiza con la finalidad de resecar la vesícula biliar mediante un laparoscopio. Se considera el estándar de oro para el tratamiento quirúrgico de la litiasis vesicular (3). Este produce menos dolor postoperatorio, mejor estética y estancias hospitalarias más breves y discapacidad laboral que la colecistectomía abierta (4).
+Colecistectomía laparoscópica temprana: Procedimiento realizado durante los primeros 7 días desde el inicio de los síntomas (5).
+Colecistitis aguda calculosa: Proceso inflamatorio agudo de la vesícula biliar secundario a la oclusión del conducto cístico o a la limitación del vaciamiento vesicular ante la presencia de cálculos (6,7).
+Coledocolitiasis: Presencia de cálculos en el colédoco (8). La coledocolitiasis primaria (es decir, formación de cálculos dentro del conducto colédoco) ocurre típicamente en el contexto de estasis biliar lo que resulta en una mayor propensión a la formación de cálculos intraductales. La coledocolitiasis secundaria es el resultado del paso de cálculos biliares desde la vesícula biliar al conducto colédoco. En los países occidentales, la mayoría de los casos de coledocolitiasis son secundarios a cálculos en la vesícula biliar (9).
+Colelitiasis: Presencia de cálculos en la vesícula biliar. La presencia de cálculos en la vesícula biliar no se considera una enfermedad a menos que estos cálculos causen síntomas (8).
+Diagrama de flujo: Representación gráfica de un algoritmo. Usualmente es utilizado en salud para representar el proceso de atención integral del paciente con determinada condición o enfermedad. Esta herramienta ha sido reconocida como la más útil en el área de la salud; además, es utilizada por instituciones gubernamentales para mejorar el proceso de atención en salud (10).
+
+XVI Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+Diagrama PRISMA: Diagrama que permite describir de forma gráfica el flujo de información durante las fases del proceso de búsqueda y revisión de la evidencia. Este diagrama facilita identificar el número de registros incluidos y excluidos, así como las razones para estas exclusiones (11).
+Perfil hepático: Panel de laboratorio que incluye bilirrubinas (total, directa e indirecta), transaminasas (AST, ALT) y fosfatasa alcalina; se usa como medida indirecta de colestasis (8).
+Puntos de Control del Estándar: Puntos trazadores de cada uno de los procesos de atención en salud que se abordan en el ECBE, de vital importancia para el seguimiento de la adherencia al proceso. Permiten diseñar estrategias de implementación específicas.
+
+Lista de símbolos y abreviaturas
+
+XVII
+
+Lista de Símbolos y abreviaturas
+AHRQ: Agency for Healthcare Research and Quality ALT: Alanino aminotransferasa ASA: American Society of Anesthesiologist ASA PS: ASA Physical Status Classification System ASGE: American Society of Gastrointestinal Endoscopy AST: Aspartato Aminotransferasa BD: Bilirrubina directa BI: Bilirrubina indirecta BT: Bilirrubina total BUN: Nitrógeno ureico CENETEC: Centro Nacional de Excelencia Tecnológica en Salud – México CIO: Colangiografía intraoperatoria CPRE: Colangiopancreatografía retrograda endoscópica ECBE: Estándar Clínico Basado en la Evidencia FA: Fosfatasa Alcalina FiO2: Fracción inspirada de oxígeno GIN: Guidelines International Network HIDA: Gammagrafía hepatobiliar con ácido iminodiacético
+
+XVIII Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+HUN: Hospital Universitario Nacional ICC: Índice de comorbilidad de Charlson IETS: Instituto de Evaluación Tecnológica en Salud INR: (Razón Normalizada Internacional) International Normalized Ratio NE: Nivel de evidencia NICE: National Institute for Health and Clinical Excellence OMS: Organización Mundial de la Salud OPS: Organización Panamericana de la Salud PaO2: Presión arterial de oxígeno PCR: Proteína C reactiva PLT: Plaquetas PT: Tiempo de protrombina RMN: Resonancia magnética nuclear SIGN: Scottish Intercollegiate Guidelines Network UCI: Unidad de cuidado intensivo WHOLIS: Sistema de Información en Biblioteca de la Organización Mundial de la Salud
+
+Introducción
+La colecistitis aguda consiste en el proceso inflamatorio de la vesícula biliar que ocurre como consecuencia de la oclusión del conducto cístico, o de la limitación en el vaciamiento vesicular, en la mayoría de los casos secundaria a la presencia de cálculos o barro biliar. Esta es la complicación más común de la enfermedad litiásica biliar y generalmente se desarrolla en pacientes con antecedentes de cálculos biliares sintomáticos (8). La prevalencia estimada de colelitiasis en la población general varía de acuerdo al sexo, la edad y etnia (12). Un estudio en 1.999 estimó a través de ultrasonografía en 14.000 personas asintomáticas entre los 20 y los 74 años, una prevalencia de alrededor del 26,7 % en mujeres hispanas, 16,6 % en mujeres blancas no hispanas, 13,9 % en mujeres negras no hispanas, 8,6 % en hombres blancos no hispanas, 8,9 % en hombres blancos hispánicos y 5,3 % en hombres negros (12). En Colombia no se cuenta con un registro exacto de dicha cifra, pero estudios poblacionales calculan una prevalencia cercana al 8,6 % (13). Se estima que aproximadamente el 6 al 11 % de los pacientes con colelitiasis sintomática desarrolla colecistitis aguda durante una mediana de seguimiento de 7 a 11 años (14). La colecistitis aguda calculosa inicia con la obstrucción del drenaje de la vesícula secundario a la presencia de un cálculo en el conducto cístico (15). Dicha obstrucción puede ser parcial y de corta duración, manifestándose como un cólico biliar. Si la obstrucción es completa y continua, conlleva a un aumento de la presión de la vesícula generando dilatación, estasis biliar, proliferación de microorganismos, congestión de capilares y linfáticos, posteriormente edema y engrosamiento de la pared vesicular, zonas de hemorragia, necrosis y en caso de no tratamiento formación de abscesos (16). Los pacientes con colecistitis aguda calculosa por lo general presentan una clínica de dolor abdominal, con mayor frecuencia en el cuadrante superior derecho o en el epigastrio, constante, severo y típicamente prolongado (más de cuatro a seis horas). El dolor puede irradiarse al hombro derecho o la espalda. Algunos síntomas asociados incluyen la presencia de fiebre, náuseas, vómitos y anorexia (17). A partir de los criterios del consenso de Tokio, se establece el diagnóstico de colecistitis aguda calculosa basado en hallazgos clínicos sugestivos de inflamación local, signos inflamatorios sistémicos y hallazgos
+
+2
+
+Introducción
+
+imagenológicos (7). Se ha estimado una sensibilidad del 91,2 % y especificidad del 96,9 % con la aplicación de dichos criterios (7); sin embargo, los estudios han encontrado que la precisión del diagnóstico varía del 60,4 % al 94,0 % si se utilizan muestras patológicas como estándar de oro (18). Conocer el grado de severidad de la enfermedad y la probabilidad de coledocolitiasis resulta indispensable a establecer, una vez se ha realizado el diagnóstico clínico de colecistitis aguda calculosa por su implicación en la toma de decisiones respecto al tratamiento médico y quirúrgico (7). El grado de severidad de la enfermedad de acuerdo a los criterios de Tokio es un factor predictor de mortalidad, tiempos de estancia hospitalaria más prolongados y requerimiento de conversión de cirugía abierta durante la colecistectomía laparoscópica (7,19). Por otra parte, es necesario clasificar la probabilidad de coledocolitiasis basado en las características clínicas, paraclínicos y estudios imagenológicos. En pacientes con riesgo intermedio o alto de coledocolitiasis, será necesario la realización de colangioresonancia nuclear magnética o colangiopancreatografía retrograda endoscópica (CPRE) previo a la realización de la colecistectomía laparoscópica (5). El tratamiento no quirúrgico de la colecistitis aguda calculosa requiere de hidratación parenteral, reposo intestinal, inicio de antibioticoterapia y analgesia. El tratamiento definitivo generalmente se realiza mediante colecistectomía laparoscópica sin embargo, en algunos casos requiere de tratamiento conservador (5,8).
+
+En el Hospital Universitario Nacional de Colombia (HUN) la colecistitis aguda calculosa representa una enfermedad de importancia. Durante el año 2019 se atendieron 742 pacientes con esta condición, lo que representó un total de 520 consultas ambulatorias y 1.962 días de estancia hospitalaria. La atención integral de estos pacientes involucra las áreas asistenciales de medicina general, cirugía general, cuidado intensivo, gastroenterología, radiología, infectología, laboratorio clínico y enfermería. Por todo lo anterior, estandarizar el tratamiento de esta enfermedad en el HUN, es de gran relevancia. Considerando esto, este Estándar Clínico Basado en la Evidencia (ECBE) busca disminuir la variabilidad en el proceso de diagnóstico y tratamiento de la colecistitis aguda calculosa en el HUN, utilizando un enfoque interdisciplinario y que se fundamente en la mejor evidencia disponible.
+
+Alcance y objetivos
+El presente estándar clínico basado en la evidencia (ECBE) toma como población a los pacientes adultos con colecistitis aguda calculosa atendidos en hospitalización o unidad de cuidado intensivo (UCI) en el HUN proporcionando recomendaciones para el diagnóstico y tratamiento de los pacientes con dicha patología. Por otra parte esta dirigido a profesionales y servicios involucrados en la atención de los pacientes con colecistitis aguda calculosa: medicina general, cirugía general, cuidado crítico, gastroenterología, radiología, infectología, enfermería, laboratorio clínico, y farmacia. Además también busca ser fuente de información y consulta para personal en formación y de utilidad para docentes y estudiantes de la Universidad Nacional de Colombia que realice sus prácticas formativas en el HUN. Finalmente, puede ser utilizado por el personal administrativo de la institución para la toma de decisiones.
+Objetivo General
+Identificar las indicaciones para el diagnóstico y tratamiento de los pacientes con colecistitis aguda calculosa atendidos en el HUN, a través del desarrollo de un ECBE.
+Objetivos Específicos
+● Identificar las áreas asistenciales del HUN involucradas en el diagnóstico y tratamiento de los pacientes con colecistitis aguda calculosa.
+● Identificar recomendaciones basadas en la evidencia reportadas en la literatura biomédica para el diagnóstico y tratamiento de los pacientes con colecistitis aguda calculosa.
+
+Comentado [PAGC1]: Parafrasear el que está en el ECBE
+
+4
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario
+
+Nacional
+
+● Generar un acuerdo entre las áreas asistenciales involucradas acerca del diagnóstico y tratamiento de los pacientes con colecistitis aguda calculosa en el HUN.
+● Definir un algoritmo clínico para el diagnóstico y tratamiento de los pacientes con colecistitis aguda calculosa atendidos en el HUN.
+● Identificar puntos de control para la implementación y evaluación del ECBE.
+● Presentar los lineamientos para la diseminación e implementación del ECBE.
+
+Metodología
+El proceso fue desarrollado secuencialmente, teniendo en cuenta seis actividades: (i) conformación del grupo elaborador; ii) definición del alcance y los objetivos del ECBE; iii) revisión sistemática de la literatura de GPC; iv) elaboración de la propuesta preliminar de ECBE; v) desarrollo de un acuerdo interdisciplinario; y vi) elaboración del documento final del ECBE (Figura 1). Figura 1. Diagrama de la metodología del proceso de desarrollo de ECBE en el HUN.
+El grupo elaborador del ECBE estuvo conformado por expertos en cirugía general y en epidemiología. Los miembros diligenciaron los formatos de conflicto de intereses. Este grupo interdisciplinario estableció los objetivos y alcance del ECBE. Para la revisión de la literatura se realizó una búsqueda sistemática con el propósito de identificar las GPC que respondieran al objetivo y alcance planteados. Las estrategias de búsqueda fueron realizadas en diferentes bases de datos (Medline, Embase y LILACS), desarrolladores y compiladores, utilizando lenguaje controlado y estrategias adicionales de búsqueda. Para más información de esta actividad, véase el Anexo 1. Para la tamización y selección de la evidencia, los miembros del grupo desarrollador establecieron a priori los siguientes criterios de elegibilidad:
+
+6
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario
+
+Nacional
+
+Criterios de inclusión: • GPC enfocadas en adultos con colecistitis aguda calculosa que traten los aspectos de diagnóstico y tratamiento. • GPC con evaluación de la calidad global de AGREE II mayor a seis o un puntaje mayor a 60 % en los dominios de rigor metodológico e independencia editorial. • GPC publicadas en idioma inglés o español, con disponibilidad de texto completo. • Fecha de elaboración no mayor a diez años.
+Criterios de exclusión: • Población pediátrica. • Población de gestantes.
+Para la actividad de tamización de la evidencia se llevó a cabo una revisión por título, resumen y texto completo de los documentos identificados por la búsqueda sistemática de la evidencia. Este proceso fue realizado de manera doble e independiente. En caso de discrepancias se obtuvo la revisión de un tercer integrante del grupo desarrollador. Para la evaluación de la calidad de los documentos seleccionados se utilizó el instrumento AGREE II (20). Esta actividad de evaluación de la calidad de la evidencia fue realizada de forma doble e independiente por uno de los expertos clínicos y uno de los expertos metodológicos. El proceso de selección de GPC se resume en el diagrama PRISMA (Anexo 3). Finalmente, después de aplicar todos los criterios de elegibilidad se incluyeron los documentos descritos en la Tabla 1. Para más información de la revisión sistemática de la literatura realizada ver el Anexo 2.
+Tabla 1. GPC identificadas en la búsqueda que cumplen con los criterios de elegibilidad para el desarrollo del ECBE
+
+Capítulo (…)
+
+7
+
+Id GPC 1
+GPC 2
+
+Nombre de la GPC
+2020 World Society of Emergency Surgery updated guidelines for the diagnosis
+and treatment of
+acute calculus cholecystitis
+(5) Tokio Guidelines 2018: diagnostic criterio and severity grading of acute cholecystitis (with videos)
+(7)
+
+Grupo desarrollador World Journal of Emergency
+Surgery
+Japanese Society of Hepato-
+BiliaryPancreatic
+Surgery
+
+País Estado Unidos
+Japón
+
+Idioma Inglés
+Inglés
+
+Año 2020
+2018
+
+Para la elaboración de la propuesta preliminar del ECBE, en primera instancia se elaboró la tabla de extracción de información utilizando un sistema de dominios (explicado en el
+
+8
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario
+
+Nacional
+
+Anexo 1). En segunda instancia, se extrajo la evidencia contenida en las GPC seleccionadas (los niveles de evidencia y grados de recomendación utilizados por cada una de las GPC seleccionadas se encuentran en el Anexo 4). Para finalizar la actividad de elaboración de la propuesta preliminar se identificaron las áreas asistenciales involucradas en el proceso de atención, y se elaboró el diagrama de flujo del diagnóstico y tratamiento del paciente con colecistitis aguda calculosa en el HUN. Para el acuerdo interdisciplinario se designaron representantes de las áreas involucradas en el proceso de atención del paciente con colecistitis aguda calculosa. Estos representantes recibieron la versión preliminar del documento para su evaluación antes de la reunión de consenso. Se logró la presencia de las áreas asistenciales: i) cirugía general, ii) cuidado crítico, iii) gastroenterología, iv) radiología, v) infectología, vi) enfermería, vii) laboratorio clínico y viii) farmacia. La reunión fue moderada por la Dirección de Investigaciones e Innovación, y la presentación de los diagramas de flujo estuvo a cargo del líder clínico del ECBE. Se presentaron cuatro secciones del ECBE, con una adicional correspondiente a los puntos de control, y se realizaron las votaciones correspondientes para cada sección. El resultado de las cinco votaciones derivó en consenso total a favor de la utilización de las recomendaciones de diagnóstico y tratamiento del paciente con colecistitis aguda calculosa, contenidas en los diagramas de flujo presentados (resultados adicionales de este ejercicio se pueden consultar en el Anexo 1). Para la elaboración de la versión final del ECBE, el equipo desarrollador unificó las sugerencias emitidas en el acuerdo interdisciplinario. También se llevó a cabo la corrección de estilo y diagramación del ECBE para consolidar la versión final.
+
+Diagramas de flujo y puntos de control
+Figura 1. Diagrama de flujo para el diagnóstico y tratamiento del paciente con colecistitis aguda calculosa.
+
+10
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+Figura 2. Sección 1: Enfoque diagnóstico del paciente con colecistitis aguda calculosa.
+
+Información adicional
+A. Anamnesis: El diagnóstico de colecistitis aguda se obtiene a partir de una historia clínica completa, basada en el interrogatorio adecuado, las características del dolor. La anamnesis debe enfocarse en el inicio de la sintomatología, características del dolor (compatible con cólico biliar, que se caracteriza por un dolor abdominal con mayor frecuencia en el cuadrante superior derecho o en el epigastrio, que es constante, severo, pero en contraste el dolor
+
+Conclusiones
+
+11
+
+de la colecistitis comparte las mismas características pero este es típicamente prolongado más de cuatro a seis horas, y se suele asociar con generarse posterior a una ingesta de alimentos; el dolor puede irradiarse al hombro derecho o la espalda) y algunos otros síntomas a tener en cuenta como náusea, emesis, fiebre, tiente ictérico, características de la diuresis y las deposiciones, así como episodios presentados previamente de características similares (recomendación de expertos) (17).
+B. Examen clínico: Es indispensable realizar un examen físico minucioso que incluya la toma y registro de signos vitales, la inspección y palpación del abdomen, evaluando desde el sitio de menor dolor, haciendo énfasis en el cuadrante superior derecho, la presencia de masas, evaluar el signo de Murphy (detención de la inspiración con la palpación profunda de la zona subcostal derecha) y evaluar la presencia o no de signos de irritación peritoneal, son aspectos fundamentales para hacer el diagnóstico clínico de esta condición. También es importante evaluar la ictericia revisando las escleras, el estado de hidratación con las mucosas y una adecuada auscultación pulmonar para descartar derrame pleural asociado (NE muy baja; GRADE) (7).
+C. Paraclínicos: Como ayuda diagnóstica se recomienda solicitar las siguientes pruebas diagnósticas: hemograma (CUPS: 902210) , PCR (906914), perfil hepático (FA (CUPS: 903833), AST (CUPS: 903867), ALT (CUPS: 903866), BT (CUPS: 903809), BD (CUPS: 903809), BI (CUPS: 903809), amilasa (CUPS: 903805)), función renal (BUN (CUPS: 903856, creatinina (CUPS: 903822)) (NE bajo; GRADE) (7). Con lo anterior es importante evaluar, según los rangos de referencia del laboratorio reportados, si el paciente se encuentra con una FA elevada hablando de un posible síndrome biliar obstructivo aumentando la sospecha diagnóstica de la colecistitis aguda calculosa; No hace parte del alcance de esta estándar pero es importante aclarar que en casos de las gestantes y niños, esta sustancia puede estar aumentada y ser otra causa diferente (embarazo o patología ósea). Es importante considerar si los valores de bilirrubinas están elevadas o hay alteraciones en las transaminasas, y también amilasa, que no hace parte como tal del perfil hepático, pero
+
+12
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+resulta ser de utilidad en el diagnóstico diferencial, en este caso de pancreatitis (NE muy baja; GRADE) (7).
+
+D. Imágenes diagnósticas: Se recomienda el uso de ecografía de abdomen superior (CUPS: 881305) o ecografía hepatobiliar (CUPS: 881306) como la imagen inicial preferida dada su costo efectividad, amplia disponibilidad, invasividad reducida y buena precisión para el diagnóstico de colecistitis aguda calculosa (NE C; GRADE) (5); (NE alta; GRADE) (7). Los hallazgos sugestivos de colecistitis aguda calculosa incluyen la evidencia de cálculos (particularmente impactados en el cuello), el signo de murphy ecográfico, distensión de la vesícula, líquido pericolecístico y paredes engrosadas > 3 mm (recomendación de expertos). Se recomienda el uso de imágenes adicionales para el diagnóstico de colecistitis aguda calculosa en pacientes seleccionados, según la experiencia y la disponibilidad locales. La exploración con gammagrafía con ácido iminodiacético hepatobiliar (HIDA) (CUPS: 920702), tiene la mayor sensibilidad y especificidad para el diagnóstico de colecistitis aguda calculosa en comparación con otras modalidades de imagen (NE D; GRADE) (5), pero esta tiene un mayor costo que la ecografía y por la no disponibilidad en la institución tarda más tiempo en obtenerse el resultado, se prefiere la endoscopia biliopancreática (recomendación de expertos). La anteriormente mencionada se prefiere en casos puntuales como lo son: los pacientes con insuficiencia cardíaca congestiva descompensada, hepatopatía o insuficiencia renal crónica con signos de sobrecarga y hallazgos sugestivos de colecistitis en ecografía con clínica dudosa (recomendación de expertos). La precisión diagnóstica de la tomografía axial computarizada (TAC) de abdomen contrastada (CUPS: 879420), es deficiente salvo en presencia de colecistitis enfisematosa (NE D; GRADE) (5) pero es de utilidad en pacientes de riesgo como pacientes con sensación de masa palpable o pérdida de peso no intencionada (recomendación de expertos) y la RMN abdominal cotrastada (CUPS: 883401), es tan precisa como la ecografía abdominal (NE moderada; GRADE) (7).
+
+Conclusiones
+
+13
+
+Autor/ Año Kiewiet et al/2012 (21) Kiewiet et al/2012 (21) Kiewiet et al/2012 (21)
+
+Método diagnóstico Gammagrafía HIDA
+Ecografía
+RNM abdominal
+
+Sensibilidad (%) 94
+82
+86
+
+Especificidad (%) 90
+81
+82
+
+E. Criterios diagnósticos para colecistitis aguda calculosa: Los criterios diagnósticos de Tokio para colecistitis aguda calculosa tienen alta sensibilidad y especificidad y un buen rendimiento diagnóstico; por lo tanto, se recomienda su uso como criterio diagnóstico para colecistitis aguda calculosa (NE C; GRADE) (7). Estos criterios diagnóstico de Tokio según un estudio reciente encontró una sensibilidad del 91,2 % y especificidad del 96,6 %, usando como estándar de oro para el diagnóstico (recomendación de expertos) (7).
+Criterios diagnósticos de Tokio (7): A. Signos locales de inflamación: signo de Murphy o masa/dolor/sensibilidad en cuadrante superior derecho.
+B. Signos sistémicos de inflamación: fiebre, PCR elevada o recuento de leucocitos elevado.
+C. Hallazgos de imagen: hallazgos de imagen compatibles con colecistitis aguda calculosa.
+En caso de que no se cuente al ingreso a la institución con evidencia de imágenes diagnósticas estas se deben solicitar.
+• Se definirá, según:
+o Diagnóstico sospechoso: un ítem en A + un ítem en B.
+
+14
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+o Diagnóstico definitivo: un ítem en A + un ítem en B + C. Hallazgos ecográficos compatibles con colecistitis aguda calculosa: (recomendación de expertos) (7) (22).
+- Distensión de la vesícula biliar > 4 cm en diámetro anteroposterior. - Engrosamiento de la pared vesicular > 3 mm. - Líquido pericolecístico. - Murphy ecográfico positivo. - Presencia de cálculos vesiculares, particularmente impactados a nivel del cuello.
+
+Conclusiones
+
+15
+
+Figura 3. Sección 2: Diagrama de flujo de la clasificación de la severidad del paciente con colecistitis aguda calculosa.
+
+16
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+Información adicional
+F. Grado de severidad del paciente con colecistitis aguda calculosa: Se recomienda la clasificación de severidad de Tokio como un indicador pronóstico de estancia hospitalaria y requerimiento de conversión a cirugía abierta (NE C; Grade) (5).
+Los grados de severidad son: • Tokio I: Aquella que no cumple criterios para II ni III. • Tokio II: Cumple algún criterio de los siguientes: - Leucocitosis mayor a 18.000. - Masa palpable en cuadrante superior derecho. - Duración de los síntomas mayor a 72 horas. - Inflamación local marcada (colecistitis gangrenosa, enfisematosa, absceso pericolecístico, absceso hepático, peritonitis biliar). •Tokio III: Asociada con disfunción de alguno de los siguientes órganos/sistemas: - Cardiovascular: Hipotensión con requerimiento de uso de dopamina ≥ 5 mcg/Kg/min, o cualquier dosis de noradrenalina. - Neurológica: Disminución del nivel de conciencia. - Respiratoria: PaO2/FiO2 < 300. - Renal: Oliguria, creatinina > 2 mg/dL. - Hepática: PT/INR > 1,5 - Hematológica: Conteo plaquetario < 100.000
+G. Criterios de ingreso a UCI / Intermedio: Un paciente se considera candidato para ingreso a UCI / Intermedio siempre y cuando no se violen sus voluntades anticipadas y presente al menos una de las siguientes condiciones (recomendación de expertos):
+• Requerimiento de ventilación mecánica invasiva/no invasiva. • Inestabilidad hemodinámica dada por PAM < 60 mmHg, presencia de choque séptico, fiebre no controlada, infección no modulada, etc.
+
+Conclusiones
+
+17
+
+• Alteración del estado de la conciencia (disminución marcada por debajo de 9/15 según la escala de Glasgow). • Alteración del trazado electrocardiográfico. • Evolución clínica con signos de inflamación local marcada (Tokio II).
+H. Vigilancia hemodinámica: La vigilancia hemodinámica hace referencia al control periódico de signos vitales, y avisar cambios en caso de presentarse (recomendación de expertos) (23).
+I. Soporte hidroelectrolítico: El soporte hidroelectrolítico consiste en la infusión de líquidos endovenosos para prevenir estados de deshidratación y aporte de electrolitos en caso de pérdida de los mismos o limitación para la ingesta o indicación de ayuno (recomendación de expertos) (24).
+Se recomienda el uso de cristaloides como el lactato de ringer o la solución salina normal, con ajuste de dosis de acuerdo al peso del paciente (basado en la fórmula de Holliday Segar: 1500 ml + 20 ml/kg por cada Kg > 20 hasta un máximo de 2400 ml en el día) y teniendo en cuenta comorbilidades que conlleven a sobrecarga hídrica (insuficiencia cardiaca, hepática, renal) (recomendación de expertos) (24).
+J. Analgesia: Existe controversia respecto al manejo apropiado del dolor. Existen estudios que demuestran utilidad de los antiinflamatorios no esteroideos (AINES) en lograr tempranamente el control del dolor; además se puede hacer uso de opioides, antiespasmódicos y paracetamol vía endovenosa (recomendación de expertos) (25).
+K. Ayuno: El ayuno se usa como medida de reposo intestinal puesto que la ingesta principalmente de comidas con alto contenido lipídico se relaciona con aumento del dolor abdominal (recomendación de expertos) (25). En caso de no tener contraindicación para iniciar la vía oral se puede indicar dieta líquida clara.
+
+18
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+L. Tratamiento antibiótico pacientes con colecistitis aguda Tokio I o II: El objetivo principal de la terapia antimicrobiana en la colecistitis aguda es limitar tanto la respuesta sistémica como la inflamación local, prevenir infecciones del sitio operatorio en herida superficial, fascia o espacio de órganos, y prevenir la formación de abscesos intrahepáticos. En los casos de colecistitis aguda Tokio I y II, el tratamiento antimicrobiano debe administrarse dentro de las primeras 6 horas posteriores al diagnóstico, para los casos de colecistitis Tokio III el tratamiento debe iniciarse dentro de la primera hora (NE D; GRADE) (1). Al seleccionar agentes antimicrobianos, se deben tener en cuenta los organismos objetivo, la farmacocinética y la farmacodinamia, el antibiograma local, los antecedentes de uso de antimicrobianos, la función renal y hepática y los antecedentes de alergias y otros eventos adversos (NE D; GRADE) (1). Se recomienda terapia anaeróbica si hay una enteroanastomosis biliar-biliar (NE C; GRADE) (1).
+En los casos de colecistitis aguda Tokio I y II se recomienda como primera opción el uso de cefuroxime 1,5 gr endovenoso cada 8 horas + metronidazol 500 mg endovenoso cada 8 horas o como segunda medida ampicilina sulbactam a dosis de 3 gr endovenoso cada 6 horas. En caso de complicaciones como colecistitis gangrenosa, enfisematosa, absceso pericolecístico, hepático, peritonitis biliar se recomienda el uso de piperacilina tazobactam a dosis de 4,5 gr endovenoso cada 6 horas.
+Los pacientes con colangitis aguda y colecistitis que pueden tolerar la vía oral pueden tratarse con terapia oral. Dependiendo de los patrones de susceptibilidad de los organismos identificados, también se pueden utilizar agentes antimicrobianos como fluoroquinolonas (ciprofloxacina, levofloxacina o moxifloxacina), amoxicilina/ácido clavulánico o cefalosporinas (recomendación de expertos).
+Es indispensable recordar que la ampicilina sulbactam se encuentra contraindicada en pacientes con antecedente de alergias conocidas a las penicilinas, cefalosporinas, imipenem. Adicionalmente en pacientes con antecedente de atopia como asma, eczema, fiebre del heno. Como parte de las contraindicaciones relativas se encuentran las infecciones virales o leucemias linfáticas dado que estos pacientes son propensos a presentar reacciones de hipersensibilidad con rash, en dichos casos el tratamiento de
+
+Conclusiones
+
+19
+
+elección consiste en ciprofloxacina 400 mg cada 12 horas endovenoso + metronidazol 500 mg cada 8 horas endovenoso (recomendación de expertos) (26).
+Duración de terapia antibiótica: La terapia antimicrobiana para pacientes con colecistitis aguda calculosa Tokio I y II se recomienda desde el ingreso y puede ser descontinuado dentro de 24 horas posteriores a la colecistectomía. Sin embargo, en condiciones especiales como perforación, cambios enfisematosos o necrosis de la pared vesicular el tratamiento debe extenderse de cuatro a siete días, ante dichos hallazgos intraoperatorios se considera toma de cultivo de bilis (NE B; GRADE) (5).
+M. Tratamiento integral en UCI: Una vez el paciente ingresa al servicio de hospitalización en UCI, el paciente será valorado por los servicios o áreas asistenciales de: 1) medicina crítica, 2) enfermería y 3) fisioterapia. Cada uno definirá los objetivos de cuidado más pertinentes para el paciente de acuerdo con su condición y evolución clínica. Se buscará el control de signos vitales, soporte de órgano y rehabilitación integral del paciente, adicionalmente se considera toma de hemocultivos en los casos de colecistitis aguda Tokio III (recomendación de expertos).
+N. Soporte de órgano: Un paciente se considerará candidato para tener soporte de órgano (ventilatorio, hemodinámico), cuando no se no se violen sus voluntades anticipadas, y presente al menos una de las siguientes condiciones (NE C; GRADE) (5): • Disminución del estado de la conciencia por debajo de 9/15 según escala de Glasgow. • Disminución de la TAM por debajo de 65 mmHg sin respuesta a líquidos. • Disminución del nivel de plaquetas < 100.000.
+O. Tratamiento antibiótico del paciente con colecistitis aguda Tokio III u hospitalizado en UCI: Para los casos de colecistitis aguda Tokio III se recomienda el inicio de piperacilina tazobactam 4,5 gr endovenoso cada seis horas o el uso de cefepime a dosis de 2 gr
+
+20
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+endovenoso cada ocho horas acompañado de metronidazol 500 mg endovenoso cada ocho horas. Adicionalmente como se cometo previamente se debe contar con hemocultivos y toma de cultivo de bilis (recomendación de expertos). Duración de terapia antibiótica: Para pacientes con colecistitis aguda calculosa Tokio III, el tiempo de duración recomendado es de cuatro a siete días una vez que la fuente de la infección haya sido controlada. En casos de bacteriemia por cocos gram positivos la duración mínima es de dos semanas (NE D; GRADE) (5). En los casos en que se presenten cálculos residuales u obstrucción del tracto biliar el tratamiento debe ser continuado hasta que haya resolución del cuadro. Para los casos de absceso hepático asociado el tratamiento debe ser continuado hasta que haya resolución clínica, bioquímica y radiológica completa (recomendación de expertos).
+
+Conclusiones
+
+21
+
+Figura 4. Sección 3: Clasificación del riesgo de coledocolitiasis y tratamiento quirúrgico del paciente con colecistitis aguda calculosa.
+
+22
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+Información adicional
+P. Determinar riesgo de coledocolitiasis: Sugerimos estratificar el riesgo de coledocolitiasis según a la clasificación propuesta modificada de la ASGE (NE muy bajo; GRADE) (7,27,28), así:
+• Riesgo bajo de coledocolitiasis (< 10 %): Ningún criterio predictor de riesgo de coledocolitiasis. Estos pacientes deben ser llevados a colecistectomía laparoscópica con o sin colangiografía intraoperatoria.
+• Riesgo intermedio de coledocolitiasis (10 – 50 %): Corresponde a pacientes con alteración del perfil hepático, edad mayor a 55 años o dilatación de vía biliar > 6 mm en algún estudio imagenológico. Dichos pacientes deben ser llevados a colangioresonancia nuclear magnética, ultrasonografía endoscópica, colecistectomía laparoscópica con colangiografía intraoperatoria.
+• Riesgo alto de coledocolitiasis (> 50 %): Presencia de colangitis ascendente, evidencia de cálculo en la vía biliar por imágenes o bilirrubina total > 4 mg/dl con dilatación de vía biliar. Estos pacientes deben ser llevados a CPRE.
+Q. Caracterización imagenológica de coledocolitiasis en pacientes con riesgo intermedio de coledocolitiasis: Se recomienda que los pacientes con riesgo intermedio de coledocolitiasis se sometan a cualquier de las siguientes: 1) colangioresonancia magnética (CUPS: 883434), 2) endosonografía (ecoendoscopia) (CUPS: 881317), (NE alto; GRADE) (5) o 3) colangiografía intraoperatoria (CIO) (CUPS: 511101). En primaria instancia por disponibilidad en la institución se recomienda la realización de colangioresonancia magnética y en caso de existir la posibilidad de que este disponible en el momento, la ecografía endoscópica. Respecto a la colangioresonancia magnética, esta tiene una mayor utilidad para valorar el colédoco proximal y se recomienda también si es un paciente que
+
+Conclusiones
+
+23
+
+tenga insuficiencia cardíaca congestiva con fracción de eyección del ventrículo izquierdo (FEVI) disminuida (≤ 40 %) (recomendación de expertos). En cuanto a la ecoendoscopia, es de mayor utilidad para valorar el colédoco distal, microlitiasis, patología a nivel de la papila y se recomienda en pacientes con marcapasos o claustrofobia (recomendación de expertos).
+
+Autor/Año
+Ledro-Cano/2007 (29) Ledro-Cano/2007 (29)
+
+Método diagnóstico Colangioresonancia magnética Endosonografía (ecografía endoscópica)
+
+Sensibilidad (%) 94 95
+
+Especificidad (%) 96 97
+
+La CIO se puede realizar siempre y cuando el paciente no cuente con una colangioresonancia magnética o ecografía endoscópica. Esta se recomienda en los siguientes casos (recomendación de expertos) (30):
+• Ictericia o historia de ictericia. • Historia de pancreatitis, particularmente pancreatitis de origen biliar. • Alteración del perfil hepático. • Colédoco con diámetro > 7 mm. • Conducto cístico con diámetro > 3 mm. • Múltiples cálculos vesiculares de pequeño tamaño. • Anatomía poco clara. • Sospecha de lesión de conductos biliares o fuga biliar. • Conducto cístico corto.
+R. Hallazgos imagenológicos de coledocolitiasis: Los hallazgos imagenológicos que confirman coledocolitiasis según la imagen diagnóstica
+
+24
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+realizada, pueden ser (recomendación de expertos) (31–35):
+
+• Colangioresonancia magnética: Se evidencia defecto de llenado del colédoco al paso de la bilis, secundario a la presencia de un cálculo. • Endosonografía: Se evidencian defectos hiperecoicos a nivel de la vía biliar, los cuales proyectan sombra acústica posterior. • Colangiografía intraoperatoria: Se observa defecto del llenado a nivel del colédoco, dilatación de la vía biliar o ausencia de paso al duodeno posterior a la infusión de medio de contraste al interior de la vía biliar.
+
+S. CPRE: Se recomienda que los pacientes con alto riesgo de coledocolitiasis se sometan a CPRE (NE alto; GRADE) (7). La CPRE tiene una función diagnóstica y terapéutica en el tratamiento de la coledocolitiasis, pero es un procedimiento invasivo con posibles complicaciones graves. La morbilidad asociada con la CPRE diagnóstica incluye pancreatitis, colangitis, hemorragia, perforación duodenal y reacción alérgica al medio de contraste. Las complicaciones ocurren en 1 a 2 % y aumentan al 10 % cuando se asocian con esfinterotomía (recomendación de expertos) (36). En caso de que no sea posible realizar la CPRE (por una falsa ruta o no canulación de la papila), se considere la posibilidad de la maniobra de rendez-vous, como una opción técnica de acceso a la vía biliar durante la colecistectomía laparoscópica (recomendación de expertos) (37).
+
+Autor/Año Ford/2012 (36)
+
+Método diagnóstico CPRE
+
+Sensibilidad (%)
+
+Especificidad (%)
+
+99
+
+99
+
+T. Tratamiento quirúrgico: • Tokio I y II: La colecistectomía laparoscópica temprana es el tratamiento de elección para los casos grado I y II. Sin embargo, en pacientes con riesgo quirúrgico elevado (ICC ≥ 6 y ASA - PS ≥ 3) se indica tratamiento médico y drenaje vesicular temprano o urgente. (NE D; GRADE) (7).
+
+Conclusiones
+
+25
+
+• Tokio III: La colecistectomía temprana o urgente está indicada en pacientes seleccionados: ICC < 4 y ASA-PS < 3 y pacientes en los cuales halla mejoría ante evidencia de disfución cardiovascular o renal. Por otra parte se contraindica la intervención ante riesgo anestesico elevado, difunción neurológica, respiratoria e ictericia con niveles de bilirrubina ≥ 2 en cuyo caso se debe realizar un drenaje vesicular temprano o urgente (NE D; GRADE) (7).
+Se recomienda tomar cultivo de líquido biliar durante el procedimiento quirúrgico en pacientes con colecistitis aguda calculosa Tokio III o Tokio II con evidencia de complicaciones como colecistitis gangrenosa, enfisematosa, absceso pericolecístico, hepático, peritonitis biliar. Se debe guiar la terapia antibiótica de acuerdo con los resultados del cultivo (recomendación de expertos) (7).
+U. Colecistectomía Temprana: Se define como colecistectomía temprana aquella llevada a cabo dentro de los primeros 7 días posterior al inicio de los síntomas, se asocia a menor incidencia de infección de sitio operatorio, menor estancia hospitalaria, menor perdida de días laborales. Por otra parte la colecistectomía temprana no aumenta las tasas de mortalidad, lesión de vía biliar, fuga biliar, conversión a cirugía abierta o complicaciones generales (recomendación de expertos) (5).
+V. Evolución clínica: Los pacientes con evolución clínica satisfactoria son aquellos que cursan con una evolución postoperatoria adecuada, toleran satisfactoriamente la vía oral, han modulado adecuadamente el dolor abdominal y presentan signos de tránsito intestinal. Por otra parte los pacientes que no presentan una evolución satisfactoria son aquellos con alteración en los signos vitales, no toleran adecuadamente la vía oral, persisten con dolor abdominal, se tornan ictéricos, no presentan signos de tránsito intestinal, dichos pacientes ameritan estudios complementarios en busca de la etiología de su deterioro (recomendación de expertos).
+
+26
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+W. Causa de deterioro: Sangrado postoperatorio el cual puede ser evidente a través de drenajes externos colocados durante la intervención, distensión y dolor abdominal en aumento, descenso en valores de hemoglobina. En aquellos casos en que no haya mejoría a pesar de medidas de soporte dichos pacientes deberán ser reintervenidos (recomendación de expertos). Lesión de vía biliar la cual se puede sospechar al evidenciar drenaje bilioso a través de drenajes externos colocados durante la intervención, se deberá correlacionar con estudios imagenológicos, dependiendo el grado y extensión de la lesión serán susceptible de manejo endoscópico o quirúrgico (recomendación de expertos). Lesión visceral la cual se puede manifestar como lesiones intestinales inadvertidas y se deberán sospechar en paciente con deterioro clínico progresivo, alteración en signos vitales, intolerancia persistente a la vía oral, dolor abdominal en aumento, signos de irritación peritoneal ó hallazgos en estudios imagenológicos. Dichos pacientes requerirán de reintervención quirúrgica. (recomendación de expertos).
+
+Conclusiones
+
+27
+
+Figura 5. Sección 4: Tratamiento del paciente con colecistitis aguda calculosa inicialmente no apto para cirugía.
+
+28
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+Información adicional
+X. Colecistostomía percutánea:
+Se recomienda realizar el drenaje de la vesícula biliar en pacientes con colecistitis aguda calculosa que no son aptos para cirugía (NE baja; GRADE) (5).
+Existen varias series de casos, tanto retrospectivas como observacionales, sobre colecistostomía. Una revisión sistemática de la literatura incluyó 53 estudios con 1.918 pacientes que describen una alta tasa de éxito del procedimiento (85,6 %) con una baja tasa de mortalidad relacionada con el procedimiento (0,36 %); sin embargo, la tasa de mortalidad a los 30 días fue alta, del 15,4 %. Una limitación importante del estudio fue la inclusión de pacientes con colecistitis acalculosa (recomendación de expertos) (38).
+El drenaje de la vesícula biliar puede ser una opción en pacientes que fracasaron en el tratamiento conservador después de un tiempo variable de 24 a 48 horas y que presentan contraindicaciones absolutas para la cirugía. Un estudio prospectivo de Barak et al. informaron que la edad mayor de 70 años, la diabetes, la taquicardia y la distensión de la vesícula biliar en el momento del ingreso son predictores de fracaso de la terapia médica a las 24 horas de seguimiento, mientras que la leucocitosis de más de 15.000 células/mm3, fiebre y una edad superior a los 70 años fueron predictores de fracaso de la terapia médica a las 48 horas de seguimiento (recomendación de expertos) (39).
+Y. Colecistogastrostomía:
+La colecistogastrostomía cumple el mismo papel que la colecistostomía y es una alternativa opcional a tener en cuenta de acuerdo a la disponibilidad institucional. Esta consiste en el drenaje de la vesícula biliar mediante eco endoscopia haciendo uso de un stent de aposición luminal. Usualmente se hace en pacientes que tengan un riesgo quirúrgico elevado a los cuales no se pueda llevar a otra intervención (recomendación de expertos) (40).
+
+Conclusiones
+
+29
+
+Y. Colecistostomía quirúrgica:
+Dicha técnica quirúrgica consiste en acceder a la cavidad abdominal mediante una incisión mínima en el punto de mayor sensibilidad en el cuadrante superior derecho, posteriormente incidir el fondo vesicular, drenar su contenido, extraer la mayor cantidad de cálculos posible e insertar una sonda o catéter para continuar el drenaje. Dicho procedimiento se puede realizar bajo anestesia local (recomendación de expertos).
+
+30
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+Puntos de control
+Los puntos de control para el ECBE se definieron teniendo en cuenta momentos claves dentro del proceso de atención del paciente con colecistitis aguda calculosa. Estos puntos de control fueron elegidos de forma conjunta teniendo en cuenta las opiniones del equipo desarrollador y se presentan a continuación.
+1) Realización de la clasificación del grado de severidad de colecistitis aguda calculosa en todo paciente con diagnóstico confirmado (Sección 2 de clasificación de la severidad del paciente con colecistitis aguda calculosa): Este punto de control se considera de importancia dado que la determinación del grado de severidad es pivote para la toma de decisión clínica posterior. También se tomó en consideración que todos los pacientes atendidos en el HUN se les debe estadificar la severidad para ofrecer un tratamiento integral. En la Tabla 2 se puede observar el indicador planteado para la medición de este punto de control.
+2) Realización de la clasificación del riesgo de coledocolitiasis a todos los pacientes con diagnóstico confirmado de colecistitis aguda calculosa (Sección 3 de clasificación del riesgo de coledocolitiasis y tratamiento quirúrgico del paciente con colecistitis aguda calculosa): Este punto de control se considera de importancia debido a que a todo paciente que tenga colecistitis calculosa aguda se le debe determinar que tanto riesgo tiene de tener coledocolitiasis por las posibles complicaciones que se pueden presentar al llevarlo al procedimiento quirúrgico de extracción de la vesícula. En la Tabla 2 se puede observar el indicador planteado para la medición de este punto de control.
+3) Realización de colecistectomía temprana al paciente con colecistitis aguda calculosa con indicación de tratamiento quirúrgico (Sección 3 de clasificación del riesgo de coledocolitiasis y tratamiento quirúrgico del paciente con colecistitis aguda calculosa): este punto de control se consideró de importancia dado que todo paciente con colecistitis aguda calculosa que tenga indicación quirúrgica y se lleve a una colecistectomía temprana laparoscópica se ha asociado a mejores desenlaces que cuando se hace de forma tardía. En la Tabla 2. se puede observar el indicador planteado para la medición de este punto de control.
+
+Conclusiones
+
+31
+
+Tabla de indicadores puntos de control
+
+En la siguiente tabla se presentan los indicadores propuestos para desarrollar procesos de implementación y vigilancia de los puntos de control definidos en la sección anterior.
+
+Tabla 2. Indicadores propuestos para los puntos de control.
+
+Nombre 1. Severidad colecistitis calculosa
+
+de la aguda
+
+2. Riesgo
+
+de
+
+coledocolitiasis
+
+3. Colecistectomía laparoscópica temprana
+
+Definición
+
+Proporción de pacientes
+
+con diagnóstico de
+
+colecistitis aguda calculosa
+
+con reporte en la historia
+
+clínica del grado de
+
+severidad de acuerdo con
+
+la escala Tokio
+
+Proporción de pacientes
+
+con diagnóstico de
+
+colecistitis aguda calculosa
+
+con reporte en la historia
+
+clínica del riesgo de
+
+coledocolitiasis
+
+Proporción de pacientes
+
+con diagnóstico de
+
+colecistitis aguda calculosa
+
+con
+
+indicación
+
+de
+
+tratamiento
+
+quirúrgico
+
+llevados a colecistectomía
+
+laparoscópica temprana
+
+Fórmula #Pacientes con colecistitis aguda calculosa + reporte de grado severidad Tokio / #Pacientes con colecistitis aguda calculosa
+
+Pacientes con colecistitis
+
+aguda calculosa + reporte
+
+de
+
+riesgo
+
+de
+
+coledocolitiasis / #
+
+Pacientes con colecistitis
+
+aguda calculosa
+
+Pacientes con colecistitis
+
+aguda calculosa con
+
+colecistectomía
+
+laparoscópica temprana / #
+
+Pacientes con colecistitis
+
+aguda calculosa aptos para
+
+tratamiento quirúrgico
+
+32
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+Implementación y evaluación de la adherencia
+Para el proceso de implementación y evaluación de la adherencia se desarrollarán diferentes actividades que se describen de forma general en este apartado. La primera actividad será la conformación de un equipo interdisciplinario que incluya a los miembros del equipo desarrollador más representantes de las áreas administrativas y clínicas que puedan apoyar el proceso de implementación. Para esta actividad se dará prioridad a la integración al equipo de personal del área de tecnologías de la información del HUN.
+Después de la conformación del equipo de implementación del ECBE, se realizarán reuniones que permitan identificar las barreras y facilitadores del proceso para la institución. Posteriormente, se utilizarán dos enfoques para poder abordar las posibles acciones de implementación del ECBE. El primer enfoque tendrá como objetivo la difusión del diagrama de flujo del ECBE y sus puntos de control. Dentro de las actividades correspondientes a este enfoque se contemplan charlas educativas presenciales y pregrabadas por los líderes clínicos de cada ECBE; la difusión del conocimiento utilizando redes sociales del HUN y las carteleras ubicadas en los diferentes servicios. El segundo enfoque tendrá como objetivo desarrollar estrategias administrativas utilizando tecnologías de la información y el software de historia clínica para generar avisos interactivos o mensajes de recordación que refuercen las actividades educativas planteadas previamente.
+Finalmente, el proceso de evaluación de la adherencia tendrá tres enfoques que incluyen i) evaluación de conocimiento sobre el ECBE: contempla encuestas válidas y transparentes que serán desarrolladas en diferentes ámbitos para medir el grado de conocimiento del personal acerca de los ECBE. ii) evaluaciones de impacto: contemplarán actividades relacionadas con los desenlaces clínicos, desenlaces reportados por pacientes y desenlaces económicos, según la disponibilidad de recursos destinados. iii) evaluaciones de adherencia: se utilizarán principalmente fuentes de información administrativa y en algunos casos de prioridad para la institución, se utilizarán estudios adicionales que permitan evaluar de manera focalizada la adherencia.
+
+Conclusiones
+
+33
+
+Se aclara que el proceso de implementación será desarrollado en etapas adicionales a las del proceso de desarrollo que permitan identificar las mejores alternativas de implementación para este ECBE.
+
+34
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+Impacto esperado
+Este ECBE tiene múltiples propósitos a mediano y largo plazo que se describen a continuación y que serán alcanzados a medida que se lleven a cabo las fases de implementación y actualización.
+• Disminuir la variabilidad de la práctica clínica en el diagnóstico y tratamiento de pacientes adultos con colecistitis aguda calculosa atendidos en el servicio de cirugía del HUN.
+• Mejorar los desenlaces en salud de los pacientes adultos con colecistitis aguda calculosa atendidos en el servicio de cirugía del HUN.
+• Optimizar la utilización de los recursos utilizados en el proceso de atención de los pacientes adultos con colecistitis aguda calculosa atendidos en el servicio de cirugía del HUN.
+• Mejorar los desenlaces reportados por los pacientes adultos con colecistitis aguda calculosa atendidos en el servicio de cirugía del HUN.
+• Proporcionar una herramienta pedagógica basada en la mejor evidencia disponible para los docentes y estudiantes de las facultades de salud de la Universidad Nacional de Colombia en lo que respecta al diagnóstico y tratamiento de pacientes con colecistitis aguda calculosa.
+• Posicionar al HUN como una entidad referente en la región en el tratamiento de los pacientes con colecistitis aguda calculosa.
+
+Conclusiones
+
+35
+
+Actualización
+El proceso de actualización de ECBE en el HUN se acogerá a las recomendaciones emitidas por el manual de desarrollo de ECBE (IN-MN-04. desarrollo de ECBE en el HUN). De esta manera, el tiempo de actualización fue determinado por el grupo desarrollador considerando diferentes aspectos como: i) volumen del cuerpo de evidencia disponible actualmente; ii) disponibilidad de nueva evidencia relacionada con el tema que pueda influenciar la toma de decisiones en el proceso de atención integral de la enfermedad; iii) calidad de la evidencia disponible en el momento del desarrollo del ECBE y iv) disponibilidad de recursos institucionales para la implementación y actualización del ECBE.
+Considerando estos aspectos, el grupo de trabajo decidió que para el caso de la colecistitis aguda calculosa se espera que en un tiempo aproximado de tres a cinco años se publique nueva evidencia que afecte la manera de llevar a cabo el proceso de diagnóstico y tratamiento de la enfermedad y que por lo tanto este será el periodo máximo de actualización de este documento.
+
+36
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+Discusión
+La colecistitis aguda calculosa representa una patología altamente prevalente y un motivo de remisión frecuente en el Hospital Universitario Nacional, que hace necesario estandarizar procesos de atención multidisciplinarios enfocados en brindar una atención oportuna y adecuada para este tipo de pacientes.
+El curso natural de la enfermedad es variable, pudiéndose presentar desde casos leves hasta situaciones extremadamente complejas que ponen en riesgo la vida del paciente, por lo tanto resulta fundamental establecer un diagnóstico certero, clasificar adecuadamente la severidad partiendo de la historia clínica, paraclínicos de extensión y estudios imagenológicos (8). Posteriormente establecer el riesgo de coledocolitiasis dado que se derivan procedimientos y conductas adicionales. Finalmente instaurar el manejo médico inicial y determinar el tipo de intervención quirúrgica o no quirúrgica a seguir (7).
+Por lo tanto el desarrollo de un ECBE es una herramienta útil para definir la ruta a seguir en la atención integral de los pacientes, partiendo de la selección y revisión de la mejor evidencia disponible y haciendo un análisis multidisciplinario para llegar a consensos en el plan de diagnóstico y tratamiento de dichos pacientes. De tal manera que la atención en salud no solo presente beneficios para los pacientes sino también para la institución en términos de optimización de recursos, control financiero y fortalecimiento institucional en manejo de este tipo de patología.
+Como medida de seguimiento se plantea la vigilancia de los puntos de control, es decir, momentos determinantes en la atención en salud que permitan evaluar la adecuada adherencia al estándar. Y con ello medir diversos tipos de desenlaces derivados de la atención. Adicionalmente servirá como parámetro de comparación con otro tipo de estándares y desenlaces de otras instituciones. Cabe resaltar que al ser un estudio transversal requiere de una actualización periódica sujeta al devenir de nueva evidencia.
+
+Conclusiones
+
+37
+
+Conclusiones
+La colecistitis aguda calculosa es una patología altamente prevalente en nuestro medio, que requiere de un diagnóstico oportuno y tratamiento precisos, basado en la correcta clasificación de severidad, estimación de riesgo de coledocolitiasis e inicio de medidas terapéuticas para posteriormente definir el tipo de estrategia intervencionista.
+El desarrollo de un estándar clínico basado en la evidencia (ECBE) en el diagnóstico y manejo de la colecistitis aguda calculosa es una herramienta fundamental para el adecuado manejo de dichos pacientes, optimización de recursos en salud, control financiero y fortalecimiento institucional en manejo de este tipo de patología.
+
+38
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+Referencias
+
+1. ILOTT I, RICK J, PATTERSON M, TURGOOSE C, LACEY A. What is protocolbased
+
+care? A concept analysis. Journal of Nursing Management. octubre de 2006;14(7):544-52.
+
+2. Gulwani S. Programming by examples: Applications, algorithms, and ambiguity
+
+resolution [Internet]. Vol. 9706, Lecture Notes in Computer Science (including subseries
+
+Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). 2016. p. 9-14.
+
+Disponible
+
+en:
+
+https://www.microsoft.com/enus/research/wp-
+
+content/uploads/2017/02/ijcar16.pdf
+
+3. Soper NJ, Stockmann PT, Dunnegan DL, Ashley SW. Laparoscopic cholecystectomy. The new «gold standard»? Archives of surgery (Chicago, Ill : 1960). agosto de 1992;127(8):917-21; discussion 921-3.
+
+4. Wilson RG, Macintyre IM, Nixon SJ, Saunders JH, Varma JS, King PM. Laparoscopic cholecystectomy as a safe and effective treatment for severe acute cholecystitis. BMJ (Clinical research ed). 15 de agosto de 1992;305(6850):394-6.
+
+5. Pisano M, Allievi N, Gurusamy K, Borzellino G, Cimbanassi S, Boerna D, et al. 2020 World Society of Emergency Surgery updated guidelines for the diagnosis and treatment of acute calculus cholecystitis. World Journal of Emergency Surgery. 5 de diciembre de 2020;15(1):61.
+
+6. Kalloo AN, Kantsevoy S V. Gallstones and biliary disease. Primary care. septiembre de 2001;28(3):591-606, vii.
+
+7. Yokoe M, Hata J, Takada T, Strasberg SM, Asbun HJ, Wakabayashi G, et al. Tokyo Guidelines 2018: diagnostic criteria and severity grading of acute cholecystitis (with videos). Journal of Hepato-Biliary-Pancreatic Sciences. enero de 2018;25(1):41-54.
+
+8. Jones MW, Genova R OMC. Acute Cholecystitis. Treasure Island (FL) [Internet]. StatPearls. 2021. Disponible en: https://www.ncbi.nlm.nih.gov/books/NBK459171/
+
+9. Baiu I, Hawn MT. Choledocholithiasis. JAMA. 2018;320(14):1506.
+
+Conclusiones
+
+39
+
+10. Jun GT, Ward J, Morris Z, Clarkson J. Health care process modelling: which method when? International Journal for Quality in Health Care. 1 de junio de 2009;21(3):214- 24.
+11. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 29 de marzo de 2021;372:n71.
+12. Everhart JE, Khare M, Hill M, Maurer KR. Prevalence and ethnic differences in gallbladder disease in the United States. Gastroenterology. septiembre de 1999;117(3):632-9.
+13. Medicina. FP de A de F de. Guía para manejo de urgencias. 2009. Tomo II, pp. 182-7.
+14. Friedman GD. Natural history of asymptomatic and symptomatic gallstones. American journal of surgery. abril de 1993;165(4):399-404.
+15. Roslyn JJ, DenBesten L, Thompson JE, Silverman BF. Roles of lithogenic bile and cystic duct occlusion in the pathogenesis of acute cholecystitis. The American Journal of Surgery. julio de 1980;140(1):126-30.
+16. Ayman Zaki Azzam; Zaki Ahmed Azzam. Acute Cholecystitis. European Journal of Biomedical and Pharmaceutical Sciences. 2017;4(11):116-23.
+17. Alemi F, Seiser N, Ayloo S. Gallstone Disease: Cholecystitis, Mirizzi Syndrome, Bouveret Syndrome, Gallstone Ileus. Surgical Clinics. abril de 2019;99(2):231-44.
+18. Naidu K, Beenen E, Gananadha S, Mosse C. The Yield of Fever, Inflammatory Markers and Ultrasound in the Diagnosis of Acute Cholecystitis: A Validation of the 2013 Tokyo Guidelines. World Journal of Surgery. 2016;40(12):2892-7.
+19. Paul Wright G, Stilwell K, Johnson J, Hefty MT, Chung MH. Predicting length of stay and conversion to open cholecystectomy for acute cholecystitis using the 2013 Tokyo Guidelines in a US population. Journal of Hepato-Biliary-Pancreatic Sciences. noviembre de 2015;22(11):795-801.
+
+40
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+20. Brouwers MC, Kerkvliet K, Spithoff K, AGREE Next Steps Consortium. The AGREE Reporting Checklist: a tool to improve reporting of clinical practice guidelines. BMJ. 8 de marzo de 2016;i1152.
+21. Kiewiet JJS, Leeuwenburgh MMN, Bipat S, Bossuyt PMM, Stoker J, Boermeester MA. A systematic review and meta-analysis of diagnostic performance of imaging in acute cholecystitis. Radiology. 2012;264(3):708-20.
+22. Wertz JR, Lopez JM, Olson D, Thompson WM. Comparing the Diagnostic Accuracy of Ultrasound and CT in Evaluating Acute Cholecystitis. American Journal of Roentgenology. agosto de 2018;211(2):W92-7.
+23. Bryant H, Huang D, Pinsky M. Vigilancia hemodinámica | Tintinalli. Medicina de urgencias, 8e | AccessMedicina | McGraw Hill Medical [Internet]. Capítulo 32: Vigilancia hemodinámica. [citado 7 de marzo de 2022]. Disponible en: https://accessmedicina.mhmedical.com/content.aspx?bookid=2329&sectionid=187779 117
+24. Alonso MÁM, Montalván LFJ, García AP, Antonio GB, Luque AG. FLUIDOTERAPIA INTRAVENOSA EN URGENCIAS Y EMERGENCIAS. :30.
+25. Abraham S, Rivero HG, Erlikh IV, Griffith LF, Kondamudi VK. Surgical and nonsurgical management of gallstones. Am Fam Physician. 15 de mayo de 2014;89(10):795-802.
+26. Equipo de redacción de IQB (Centro colaborador de La Administración Nacional de Medicamentos, alimentos y Tecnología Médica -ANMAT - Argentina. AMPICILINA EN VADEMECUM [Internet]. [citado 7 de marzo de 2022]. Disponible en: https://www.iqb.es/cbasicas/farma/farma04/a052.htm
+27. Maple JT, Ben-Menachem T, Anderson MA, Appalaneni V, Banerjee S, Cash BD, et al. The role of endoscopy in the evaluation of suspected choledocholithiasis. Gastrointestinal Endoscopy. 2010;71(1):1-9.
+28. Buxbaum JL, Abbas Fehmi SM, Sultan S, Fishman DS, Qumseya BJ, Cortessis VK, et al. ASGE guideline on the role of endoscopy in the evaluation and management of choledocholithiasis. Gastrointestinal Endoscopy. junio de 2019;89(6):1075-1105.e15.
+
+Conclusiones
+
+41
+
+29. Ledro-Cano D. Suspected choledocholithiasis: Endoscopic ultrasound or magnetic resonance cholangio-pancreatography? A systematic review. European Journal of Gastroenterology and Hepatology. 2007;19(11):1007-11.
+30. Hope WW, Fanelli R, Walsh DS, Narula VK, Price R, Stefanidis D, et al. SAGES clinical spotlight review: intraoperative cholangiography. Surg Endosc. mayo de 2017;31(5):200716.
+31. Collins C, Maguire D, Ireland A, Fitzgerald E, O’Sullivan GC. A prospective study of common bile duct calculi in patients undergoing laparoscopic cholecystectomy: natural history of choledocholithiasis revisited. Ann Surg. enero de 2004;239(1):28- 33.
+32. ASGE Standards of Practice Committee, Maple JT, Ben-Menachem T, Anderson MA, Appalaneni V, Banerjee S, et al. The role of endoscopy in the evaluation of suspected choledocholithiasis. Gastrointest Endosc. enero de 2010;71(1):1-9.
+33. NIH state-of-the-science statement on endoscopic retrograde cholangiopancreatography (ERCP) for diagnosis and therapy. NIH Consens State Sci Statements. 14 de enero de 2002;19(1):1-26.
+34. Williams E, Beckingham I, El Sayed G, Gurusamy K, Sturgess R, Webster G, et al. Updated guideline on the management of common bile duct stones (CBDS). Gut. mayo de 2017;66(5):765-82.
+35. Hunter JG, Soper NJ. Laparoscopic management of bile duct stones. Surg Clin North Am. octubre de 1992;72(5):1077-97.
+36. Ford JA, Soop M, Du J, Loveday BPT, Rodgers M. Systematic review of intraoperative cholangiography in cholecystectomy. British Journal of Surgery. 2012;99(2):160-7.
+37. Borzellino G, Saladino E, Lombardo F, Cordiano C. Rendez-vous Technique. En: Borzellino G, Cordiano C, editores. Biliary Lithiasis: Basic Science, Current Diagnosis and Management [Internet]. Milano: Springer Milan; 2008 [citado 14 de marzo de 2022]. p. 3516. Disponible en: https://doi.org/10.1007/978-88-470-0763- 5_26
+
+42
+
+Estándar Clínico Basado en la Evidencia: Diagnóstico y tratamiento del
+
+paciente con colecistitis aguda calculosa en el Hospital Universitario Nacional
+
+38. Winbladh A, Gullstrand P, Svanvik J, Sandström P. Systematic review of cholecystostomy as a treatment option in acute cholecystitis. Hpb. 2009;11(3):183-93.
+39. Barak O, Elazary R, Appelbaum L, Rivkind A, Almogy G. Conservative treatment for acute cholecystitis: clinical and radiographic predictors of failure. The Israel Medical Association journal : IMAJ. diciembre de 2009;11(12):739-43.
+40. Ge N, Sun S, Sun S, Wang S, Liu X, Wang G. Endoscopic ultrasound-assisted transmural cholecystoduodenostomy or cholecystogastrostomy as a bridge for per-oral cholecystoscopy therapy using double-flanged fully covered metal stent. BMC Gastroenterology. 19 de enero de 2016;16(1):9.
+41. Teefey SA, Dahiya N, Middleton WD, Bajaj S, Dahiya N, Ylagan L, et al. Acute cholecystitis: do sonographic findings and WBC count predict gangrenous changes? AJR Am J Roentgenol. febrero de 2013;200(2):363-9.
+42. Bourikian S, Anand RJ, Aboutanos M, Wolfe LG, Ferrada P. Risk factors for acute gangrenous cholecystitis in emergency general surgery patients. Am J Surg. octubre de 2015;210(4):730-3.
+43. Nikfarjam M, Niumsawatt V, Sethu A, Fink MA, Muralidharan V, Starkey G, et al. Outcomes of contemporary management of gangrenous and non-gangrenous acute cholecystitis. HPB (Oxford). agosto de 2011;13(8):551-8.
+44. Wu B, Buddensick TJ, Ferdosi H, Narducci DM, Sautter A, Setiawan L, et al. Predicting gangrenous cholecystitis. HPB (Oxford). septiembre de 2014;16(9):801-6

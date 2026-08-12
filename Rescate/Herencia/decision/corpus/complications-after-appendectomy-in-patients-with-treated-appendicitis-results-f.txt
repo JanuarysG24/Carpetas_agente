@@ -1,0 +1,475 @@
+Original Article
+Complications after appendectomy in patients with treated appendicitis: results from a retrospective study
+Tie Wu1, Yinxi Yang2, Yifeng Wu2, Lijun Lu2, Sheng Dong1
+1Department of Emergency Surgery, Wuxi No. 9 People’s Hospital Affiliated to Soochow University, Wuxi, China; 2Department of General Surgery, Wuxi No. 9 People’s Hospital Affiliated to Soochow University, Wuxi, China Contributions: (I) Conception and design: S Dong; (II) Administrative support: T Wu; (III) Provision of study materials or patients: Y Yang, Y Wu; (IV) Collection and assembly of data: L Lu; (V) Data analysis and interpretation: T Wu; (VI) Manuscript writing: All authors; (VII) Final approval of manuscript: All authors. Correspondence to: Sheng Dong, MD. Department of Emergency Surgery, Wuxi No.9 People’s Hospital Affiliated to Soochow University, 999 Liangxi Road, Wuxi, China. Email: dongsheng2949@yeah.net.
+Background: This study was designed to provide additional insights into the incidence of appendectomy complications in patients with appendicitis. Methods: A total of 619 patients who underwent appendectomy for appendicitis between 2014 and 2020 were recruited. Preoperative patient data and details of postoperative complications were collected. Comparisons between simple and complex appendicitis were obtained via univariate and multivariate analyses of the outcomes. Results: Simple and complex appendicitis was diagnosed in 192 and 427 patients, respectively. Twentyeight patients with simple appendicitis developed complications, and 14 of these were infectious complications. In patients with complex appendicitis, 65 patients developed complications, and 55 of these were infectious complications. Infectious complications were identified as the largest proportion of complications. The significant risk factor for infectious complications in simple appendicitis was American Society of Anesthesiologists (ASA) grade [odds ratio (OR) =7.843, 95% confidence interval (CI): 1.987– 30.955, P=0.003]. ASA grade (OR =1.992, P=0.032) and positive bacterial culture (OR =4.019, 95% CI: 1.809–8.933, P=0.001) were significantly related to infectious complication in complex appendicitis. Conclusions: This study showed that appendectomy is not always a routine operation with few complications. There was a relatively high rate of complications in patients with appendicitis, which were mostly infectious complications. A higher ASA grade correlated with infectious complication. In some cases of complex appendicitis, patients with positive bacterial culture may have had a greater risk of infectious complications.
+Keywords: Appendectomy; appendicitis; complications; infectious complications
+Submitted Oct 21, 2021. Accepted for publication Nov 25, 2021. doi: 10.21037/apm-21-3295 View this article at: https://dx.doi.org/10.21037/apm-21-3295
+
+Introduction
+Appendicitis, which has an estimated lifetime risk of morbidity of 7–8%, is one of the most common gastrointestinal diseases worldwide (1). As a result, appendectomy has become one of the most frequently performed operations, causing a significant burden on the modern health system (2).
+
+Many studies have shown that, in patients with appendicitis, the presence of complications is an important risk factor can influence the prognosis of patients following after appendectomy (3,4). Currently, the diagnosis-related group (DRG)-based payment system for appendicitis, including complex cases, is widely used to cost containment (5). In order to both optimize and
+
+© Annals of Palliative Medicine. All rights reserved.
+
+Ann Palliat Med 2021;10(12):12546-12553 | https://dx.doi.org/10.21037/apm-21-3295
+
+Annals of Palliative Medicine, Vol 10, No 12 December 2021
+reduce the cost of treatment for appendicitis, more information about the incidence of complications after appendectomy is needed. In recent years, the classification of acute appendicitis into two types has become well established: simple appendicitis (uncomplicated/nonperforating) and complex appendicitis (perforating or necrotizing) (6). However, existing studies show uneven quality and high variance in two types of appendicitis, with reported complication rates ranging from 5–20% and even up to 31.4% (7-9). Complications were defined as any deviation from the stable postoperative course during hospitalization. The most common complications after appendectomy included: surgical site infection (SSI), ileus, and intra-abdominal abscess (IAA). Other complications included fever, urethral infection, urine retention, and other rare circumstances. While the results of an ongoing randomized-controlled trial are not yet available, we are now able to benefit from the appendicitis data that have been generated thus far.
+Therefore, the aim of this retrospective study was to provide additional insight into complications after appendectomy in order to improve treatment and care in patients with appendicitis. We present the following article in accordance with the STROBE reporting checklist (available at https://dx.doi.org/10.21037/apm-21-3295).
+Methods
+Patients
+Patients who underwent appendectomy at our surgical center for appendicitis between 2014 and 2020 were enrolled in the study. We collected perioperative data and details of postoperative complications from electronic patient files. Non-surgical treatment of patients with suspected appendicitis were excluded. Clinical features, including sex, age, and American Society of Anesthesiologists (ASA) score were collected, and postoperative complications and perioperative files were retrospectively reviewed. Ethical approval was waived by the local Ethics Committee as the observational nature of the study and all the procedures being performed were part of the routine care. Individual consent for this retrospective analysis was waived. This study was conducted in accordance with the ethical standards of our hospital academic committee and with the Declaration of Helsinki (as revised in 2013).
+
+12547
+Perioperative management
+Both open and laparoscopic surgical approaches for appendectomy were performed. Open abdominal appendectomy was performed using a McBurney incision, and the conventional three-port method was used for laparoscopic appendectomy. We considered the conversion from laparoscopic to open abdominal appendectomy as a laparoscopic appendectomy. Routine standardized bacterial cultures were taken: (I) following surgery, the contents of the appendix cavity were wiped; and (II) bacterial culture specimens were taken from abscess fluid in patients with periappendicular abscess (10). Empirical antibiotics were administered to every patient preoperatively. When a patient was suspected of appendicitis by physical examination and abdominal computed tomography (CT) scan, third-generation cephalosporins (cephamycins) with or without ornidazole (metronidazole, morinidazole) were given intravenously. For patients who were suspected of having more severe infection, wide-spectrum antibiotics were selected, including quinolones, aminoglycosides, or meropenem.
+Outcomes
+Patients were divided into 2 groups based on perioperative diagnosis and postoperative histopathological examination in accordance with the classification system devised by Bhangu et al. (6). The first group comprised patients with simple, non-perforated appendicitis, and the second group included patients with complex appendicitis, either gangrenous, perforated, or IAA. The mainstay of this study was complications after appendectomy. Complications were defined as any deviation from the stable postoperative course during hospitalization. Complication severity was graded in accordance with the Clavien-Dindo classification system (11). Complications were also categorized as less severe (Clavien-Dindo I–II) or severe (Clavien-Dindo III–IV) (12). The most common complications after appendectomy included: surgical site infection (SSI), which was divided into superficial (inflammation in the skin or the subcutaneous tissue) or deep (inflammation in deep soft tissues of the incision, such as the muscles, fascia and tissue around it); ileus, which was defined as not resuming bowel movements within 5 days of the intervention; and IAA confirmed by CT scan or collection of pus in the abdomen. Only complications
+
+© Annals of Palliative Medicine. All rights reserved.
+
+Ann Palliat Med 2021;10(12):12546-12553 | https://dx.doi.org/10.21037/apm-21-3295
+
+12548
+that occurred during a patient’s hospital stay were included in this study.
+Statistical analysis
+Descriptive statistics were carried out using IBM SPSS version 24.0 (SPSS Inc., Chicago, IL, USA). We used medians with interquartile ranges (IQR) for non-normally distributed continuous data. To discover predictive factors for infectious complications, differences in clinicopathologic characteristics were assessed using the Student’s test, χ2 test, or Fisher’s exact test. A multivariate logistic regression was carried out for all useful variables in the univariate analysis. The level of statistical significance was P<0.05 (two-tailed) for each test.
+Results
+Patients’ general and perioperative characteristics
+A total of 619 patients who primarily presented at our center with appendicitis and subsequently underwent appendectomy were included in the study. The average age was 40.7 years (range, 7–93 years). There were 307 (49.6%) female and 312 (50.4%) male patients. The ASA grade was ≥2 in 124 (20.0%) patients. Appendectomy was performed laparoscopically in 479 (77.4%) of the patients. Of the 558 (90.1%) patients who had standardized bacterial cultures, 274 (44.3%) had positive culture results. The median length of hospital stay was 7 days [interquartile range (IQR), 6–9 days]. There was no 30-day postoperative mortality in this study. Simple appendicitis was diagnosed in 192 (31.0%) patients, while complex appendicitis was diagnosed in 427 (69.0%) patients.
+In the simple appendicitis group, the proportion of women was significantly higher, with 55.7% (n=107). The complex appendicitis group comprised significantly more male patients (53.2%, n=227, P=0.041). There was no significant difference in ASA grade between the two groups (P=0.902). Type of surgery (P=0.080) and hospital stay (P=0.259) were not significantly different in the simple and complex appendicitis groups. There was also no significant difference between the simple and complex appendicitis groups in the total swabbed rate (P=0.076). Positive bacterial culture rate showed significantly more severe inflammation in the complex appendicitis group (P=0.026). General and perioperative characteristics are shown in
+
+Wu et al. Complications in patients with appendicitis
+Table 1.
+Complications
+Of the 619 patients, 93 (15.0%) developed postoperative complications. The number of Clavien-Dindo grade I, II, III, IV, and V complications were 34 (36.6%), 51 (54.8%), 4 (4.3%), 4 (4.3%), and 0 (0%), respectively (Figure 1). In patients with simple appendicitis, complications occurred in 28 out of 192 (14.6%) patients, of which 23 were severe (Clavien-Dindo III–IV). In patients with complex appendicitis, 65 out of 427 (15.2%) patients experienced complications, and 36 of those were severe (Clavien-Dindo III–IV) (P=0.014). Among patients with common postoperative complications, 69 patients developed infectious complications, which were identified as the largest proportion of complications, with 14 cases in the simple appendicitis group and 55 in the complex appendicitis group (P=0.041). Complex appendicitis was a risk factor for infectious complication. Details of the postoperative complications are listed in Table 2.
+In total, we identified more than 10 types of different postoperative complications that occurred within 30 days of the operation, with infectious complication the most common. Statistical analysis conducted after patients were stratified by type of appendicitis (simple and complex) and type of postoperative complication (infectious complication and without infectious complication) yielded potentially important findings. The factors linked to infectious complications are presented in Tables 3,4. In the simple appendicitis group, ASA grade was associated with infectious complications after univariable analysis. In the complex appendicitis group, ASA grade, age, and positive bacterial culture were associated with infectious complications after univariable analysis. To appraise the variable with the greatest force on the development of an infectious complication, logistic regression analysis was carried out. All useful variables were included (age, gender, ASA grade, type of surgery, and bacterial culture). In multivariable analysis, ASA grade was also significantly associated with infectious complications in the simple appendicitis group [odds ratio (OR) =7.843, 95% confidence interval (CI): 1.987–30.955, P=0.003]. In the complex appendicitis group, multivariable analysis revealed that ASA grade (OR =7.042, 95% CI: 3.342–14.838, P=0.000) and positive bacterial culture (OR =4.019, 95% CI: 1.809–8.933, P=0.001) were significantly related to infectious complications.
+
+© Annals of Palliative Medicine. All rights reserved.
+
+Ann Palliat Med 2021;10(12):12546-12553 | https://dx.doi.org/10.21037/apm-21-3295
+
+Annals of Palliative Medicine, Vol 10, No 12 December 2021
+
+Table 1 Patient demographic and perioperative data Characteristics
+
+All (n=619)
+
+Age, mean [range], years
+
+40.7 [7–93]
+
+Sex, n (%)
+
+Female
+
+307 (49.6)
+
+Male
+
+312 (50.4)
+
+ASA grade, n (%)
+
+I
+
+495 (80.0)
+
+II
+
+94 (15.2)
+
+III
+
+30 (4.8)
+
+Type of surgery, n (%)
+
+Laparoscopy
+
+479 (77.4)
+
+Open
+
+140 (22.6)
+
+Total swabbed, n (%)
+
+558 (90.1)
+
+Positive culture, n (%)
+
+274 (44.3)
+
+Hospital stay, median [IQR], days
+
+7 [6–9]
+
+Complication present, n (%)
+
+93 (15.0)
+
+Severity of complications
+
+Less severe complications (Clavien-Dindo I–II), n (%)
+
+34 (5.5)
+
+Severe complications (Clavien-Dindo III–IV), n (%)
+
+59 (9.5)
+
+Infectious complications, n (%)
+
+69 (11.1)
+
+ASA, American Society of Anesthesiologists, IQR, interquartile range.
+
+Complex (n=427) 41.4 [7–93]
+
+Simple (n=192) 39.0 [8–85]
+
+200 (46.8) 227 (53.2)
+
+107 (55.7) 85 (44.3)
+
+343 (80.3) 63 (14.8) 21 (4.9)
+
+152 (79.2) 31 (16.1)
+9 (4.7)
+
+322 (75.4) 105 (24.6) 391 (91.6) 204 (47.8)
+8 [6–9] 65 (15.2)
+
+157 (81.8) 35 (18.2) 167 (87.0) 70 (36.5) 7 [6–8] 28 (14.6)
+
+29 (6.8) 36 (8.4) 55 (12.9)
+
+5 (2.6) 23 (12.0) 14 (7.3)
+
+12549
+P 0.124 0.041
+0.902
+0.080
+0.076 0.026 0.259 0.837 0.014
+0.041
+
+85%
+
+15%
+
+4.3% 4.3%
+
+54.8%
+
+36.6%
+
+Without complications
+
+Complications (Clavien-Dindo classification)
+
+I°
+
+II°
+
+III°
+
+IV°
+
+Figure 1 Details of postoperative complications, including Clavien-Dindo grade I, II, III, IV.
+
+© Annals of Palliative Medicine. All rights reserved.
+
+Ann Palliat Med 2021;10(12):12546-12553 | https://dx.doi.org/10.21037/apm-21-3295
+
+12550
+
+Table 2 Complications in simple appendicitis versus complex appendicitis
+
+Characteristics
+
+All (n=619)
+
+Complication present, n (%)
+
+93 (15.0)
+
+Severity of complications, n (%)
+
+Less severe complications (Clavien-Dindo I–II)
+
+34 (5.5)
+
+Severe complications (Clavien-Dindo III–IV)
+
+59 (9.5)
+
+Infectious complications, n (%)
+
+69 (11.1)
+
+Wu et al. Complications in patients with appendicitis
+
+Complex (n=427) 65 (15.2)
+
+Simple (n=192) 28 (14.6)
+
+29 (6.8) 36 (8.4) 55 (12.9)
+
+5 (2.6) 23 (12.0) 14 (7.3)
+
+P 0.837 0.014
+0.041
+
+Table 3 Predictive factors associated with infectious complications in appendicitis Simple
+
+Characteristics
+
+Patients with
+
+Patients without
+
+infectious
+
+infectious
+
+P
+
+complications (n=14) complications (n=178)
+
+Age, mean [range], years 47.1 [21–80]
+
+38.4 [8–85]
+
+0.074
+
+Sex, n (%)
+
+0.654
+
+Female
+
+7 (50.0)
+
+100 (56.2)
+
+Male
+
+7 (50.0)
+
+78 (43.8)
+
+ASA grade, n (%)
+
+0.000
+
+I
+
+4 (28.6)
+
+148 (83.1)
+
+II
+
+9 (64.3)
+
+22 (12.4)
+
+III
+
+1 (7.1)
+
+8 (4.5)
+
+Type of surgery, n (%)
+
+0.691
+
+Open
+
+2 (14.3)
+
+33 (18.5)
+
+Laparoscopy
+
+12 (85.7)
+
+145 (81.5)
+
+Total swabbed, n (%)
+
+12 (85.7)
+
+155 (87.1)
+
+1.000
+
+Positive culture, n (%)
+
+5 (41.7)
+
+65 (41.9)
+
+0.985
+
+ASA, American Society of Anesthesiologists.
+
+Complex
+
+Patients with infectious Patients without
+
+complications
+
+infectious
+
+P
+
+(n=55)
+
+complications (n=372)
+
+50.9 [11–93]
+
+40.1 [7–87]
+
+0.000
+
+0.168
+
+21 (38.2)
+
+179 (48.1)
+
+34 (61.8)
+
+193 (51.9)
+
+0.000
+
+20 (36.4)
+
+328 (86.8)
+
+24 (43.6)
+
+36 (10.5)
+
+11 (20.0)
+
+8 (2.7)
+
+0.244
+
+17 (30.9)
+
+88 (23.7)
+
+38 (69.1)
+
+284 (76.3)
+
+50 (90.9)
+
+341 (91.7)
+
+0.850
+
+38 (69.1)
+
+166 (44.6)
+
+0.000
+
+Table 4 Logistic regression for infectious complications in simple and complex appendicitis
+
+Classification
+
+Characteristics
+
+Odds ratio
+
+Simple
+
+ASA grade
+
+7.843
+
+Complex
+
+ASA grade
+
+7.042
+
+Positive culture
+
+4.019
+
+ASA, American Society of Anesthesiologists.
+
+95% CI 1.987–30.955 3.342–14.838 1.809–8.933
+
+P 0.003 0.000 0.001
+
+© Annals of Palliative Medicine. All rights reserved.
+
+Ann Palliat Med 2021;10(12):12546-12553 | https://dx.doi.org/10.21037/apm-21-3295
+
+Annals of Palliative Medicine, Vol 10, No 12 December 2021
+Discussion
+Appendicectomy is one of the most common emergency surgeries (13). Even though surgical techniques and asepsis have improved, postoperative complications are responsible for a significant morbidity. Complications after appendectomy can result in prolonged hospitalization, increased medical expenses, and compromised overall prognosis. In the current literature, the overall incidence of complications after appendectomy vary. Postoperative complication events depend on disease severity, specific degree of complications, detection methods, and national geographical location. The overall postoperative complication rate of 15% in our study was relatively high compared with the current literature. The higher incidence of complications in this study compared to the literature can be explained by the use of strict definitions for postoperative complications after appendectomy. While many other studies have reported only the most common complications (i.e., SSI, IAA, ileus, and postoperative pyrexia) (14,15), we reported complications of any kind that required a form of treatment. To evaluate the severity of the complications, we used Clavien-Dindo classification, which is the most commonly used system for categorizing the severity of complications (16,17). The use of standardized reporting for the type of appendicitis (simple or complex) and complications, including explicit definitions for these complications and their severity, are key factors in improving the comparability of future studies.
+As patients with complex appendicitis had a higher risk of complications in our study, the reporting of appendicitis type and use of subgroup analysis were important for explaining the incidence of complications. Existing studies frequently lack a definition of simple and complex appendicitis and also the incidence of each appendicitis type. We chose to follow the most widely accepted definition of complex and simple appendicitis. The results of this study suggested that for some patients, appendectomy is not always without complications, and more work needs to be done to minimize complications after appendectomy.
+Infectious complications, at 11.1%, were the most common type of complication, and this is comparable to results reported by other studies (18-20). Statistical analysis after stratification of patients by type of appendicitis (simple and complex) and by type of infectious complication yielded important findings. Although the ASA classification was developed in 1941 by Saklad et al. for statistical data management, it has become the most widely used
+
+12551
+patient risk assessment protocol in anesthesiology (21). The ASA classification represents a simple estimate of physiological status without the need for many additional clinical resources and can be used with every patient prior to surgery. Univariate analysis and logistic regression analysis were carried out for infectious complications. In the logistic regression analysis, ASA grade was a significant influencing factor. With each further level in ASA grade, the risk for an infectious complication increased about 7 times in both appendicitis groups. ASA classification proved to be a predictor of postoperative complications (22). This result was expected as ASA evaluated the preoperative condition of the patient and provided a score that predicted morbimortality, which is a risk factor for infectious complication (23).
+Subgroup analysis also showed that in some cases of complex appendicitis, patients with positive bacterial culture may have had a greater risk of an infectious complication. The bacterial growth in an inflamed appendix is formed from a mixture of aerobic and anaerobic bacteria, often dominated by E. coli and Bacteroides genera (24). Notably, in line with Schlottmann et al., the higher the grade of intraperitoneal bacterial contamination, the higher the risk of infectious complications (25). Complex appendicitis proved to be an important predictor of risk for postoperative complications (26). We hypothesized that there was a relationship between infectious complications and bacterial translocation in patients with complex appendicitis. Based on the physiopathology of appendicitis, the number of luminal microbes, including E. coli, Klebsiella, Bacteroides, Streptococcus and Pseudomonas, increases (27). Bacterial overgrowth aggravates mucosal damage, allowing microorganisms to easily enter the appendix cavity, the peritoneum, mesenteric lymph nodes, and even parenteral organs, causing infectious complications. This is easily detected as positive bacterial culture. Further research on the relationship between infectious complications and bacterial translocation in patients with complex appendicitis will need to be carried out in the future.
+The current study had some limitations. First, as a retrospective study, it was inherently prone to bias. Second, the study involved a very complex, heterogeneous population of patients, scattered over a considerable period of time. Third, as we retrospectively collected the data from the electronic medical record system, not all variables of interest could be retrieved, which may have affected multivariate logistic regression analysis. Lastly, patients did not undergo longer follow-up once symptoms had
+
+© Annals of Palliative Medicine. All rights reserved.
+
+Ann Palliat Med 2021;10(12):12546-12553 | https://dx.doi.org/10.21037/apm-21-3295
+
+12552
+disappeared following medical intervention.
+Conclusions
+Our study found a relatively high rate of complications in patients with appendicitis. The most common were infectious complications. A higher ASA grade correlated with infectious complications. In some cases of complex appendicitis, patients with positive bacterial culture may have had a greater risk of infectious complications. Patients at high risk should be carefully followed up for early detection and treatment. An adequate perioperative care should take immediate action in order to prevent complications due to possible comorbidities.
+Acknowledgments
+Funding: This study was supported by hospital-level funding (Wuxi No.9 People’s Hospital) to Tie Wu (JY2021-07-10).
+Footnote
+Reporting Checklist: The authors have completed the STROBE reporting checklist. Available at https://dx.doi. org/10.21037/apm-21-3295
+Data Sharing Statement: Available at https://dx.doi. org/10.21037/apm-21-3295
+Conflicts of Interest: All authors have completed the ICMJE uniform disclosure form (available at https://dx.doi. org/10.21037/apm-21-3295). Tie Wu reports this study was supported by hospital-level funding (Wuxi No.9 People’s Hospital) to Tie Wu (JY2021-07-10). The other authors have no conflicts of interest to declare.
+Ethical Statement: The authors are accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. Ethical approval was waived by the local Ethics Committee as the observational nature of the study and all the procedures being performed were part of the routine care. Individual consent for this retrospective analysis was waived. This study was conducted in accordance with the ethical standards of the hospital research committee and with the Declaration of Helsinki (as revised in 2013).
+
+Wu et al. Complications in patients with appendicitis
+Open Access Statement: This is an Open Access article distributed in accordance with the Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License (CC BY-NC-ND 4.0), which permits the noncommercial replication and distribution of the article with the strict proviso that no changes or edits are made and the original work is properly cited (including links to both the formal publication through the relevant DOI and the license). See: https://creativecommons.org/licenses/by-nc-nd/4.0/.
+References
+1. Stewart B, Khanduri P, McCord C, et al. Global disease burden of conditions requiring emergency surgery. Br J Surg 2014;101:e9-22.
+2. Rickard J, Beilman G, Forrester J, et al. Surgical Infections in Low- and Middle-Income Countries: A Global Assessment of the Burden and Management Needs. Surg Infect (Larchmt) 2020;21:478-94.
+3. Fujishiro J, Watanabe E, Hirahara N, et al. Laparoscopic Versus Open Appendectomy for Acute Appendicitis in Children: a Nationwide Retrospective Study on Postoperative Outcomes. J Gastrointest Surg 2021;25:1036-44.
+4. Siribumrungwong B, Chantip A, Noorit P, et al. Comparison of Superficial Surgical Site Infection Between Delayed Primary Versus Primary Wound Closure in Complicated Appendicitis: A Randomized Controlled Trial. Ann Surg 2018;267:631-7.
+5. Zhao C, Wang C, Shen C, et al. Diagnosis-related group (DRG)-based case-mix funding system, a promising alternative for fee for service payment in China. Biosci Trends 2018;12:109-15.
+6. Bhangu A, Søreide K, Di Saverio S, et al. Acute appendicitis: modern understanding of pathogenesis, diagnosis, and management. Lancet 2015;386:1278-87.
+7. Sauerland S, Jaschinski T, Neugebauer EA. Laparoscopic versus open surgery for suspected appendicitis. Cochrane Database Syst Rev 2010;11:CD001546.
+8. National Surgical Research Collaborative. Multicentre observational study of performance variation in provision and outcome of emergency appendicectomy. Br J Surg 2013;100:1240-52.
+9. Andert A, Alizai HP, Klink CD, et al. Risk factors for morbidity after appendectomy. Langenbecks Arch Surg 2017;402:987-93.
+10. Song DW, Park BK, Suh SW, et al. Bacterial culture and
+
+© Annals of Palliative Medicine. All rights reserved.
+
+Ann Palliat Med 2021;10(12):12546-12553 | https://dx.doi.org/10.21037/apm-21-3295
+
+Annals of Palliative Medicine, Vol 10, No 12 December 2021
+antibiotic susceptibility in patients with acute appendicitis. Int J Colorectal Dis 2018;33:441-7. 11. Clavien PA, Barkun J, de Oliveira ML, et al. The ClavienDindo classification of surgical complications: five-year experience. Ann Surg 2009;250:187-96. 12. Knaapen M, van Amstel P, van Amstel T, et al. Outcomes after appendectomy in children with acute appendicitis treated at a tertiary paediatric centre: results from a retrospective cohort study. Langenbecks Arch Surg 2021;406:163-9. 13. Tartaglia D, Fatucchi LM, Mazzoni A, et al. Risk factors for intra-abdominal abscess following laparoscopic appendectomy for acute appendicitis: a retrospective cohort study on 2076 patients. Updates Surg 2020;72:1175-80. 14. Werkgartner G, Cerwenka H, El Shabrawi A, et al. Laparoscopic versus open appendectomy for complicated appendicitis in high risk patients. Int J Colorectal Dis 2015;30:397-401. 15. Sohn M, Hoffmann M, Hochrein A, et al. Laparoscopic Appendectomy Is Safe: Influence of Appendectomy Technique on Surgical-site Infections and Intra-abdominal Abscesses. Surg Laparosc Endosc Percutan Tech 2015;25:e90-4. 16. Thompson H, Jones C, Pardy C, et al. Application of the Clavien-Dindo classification to a pediatric surgical network. J Pediatr Surg 2020;55:312-5. 17. Bruno L, Barni L, Pacciani S, et al. Complications Following Surgery for Gastric Cancer: Analysis of Prospectively Collected Data. Journal of Cancer Therapy 2014:1454-66. 18. Bou Zein Eddine S, Dodgion CM, Qian S, et al. Complicated Appendicitis: Are Extended Antibiotics
+
+12553
+Necessary? A Post Hoc Analysis of the EAST Appendicitis "MUSTANG" Study. J Surg Res 2020;247:508-13. 19. Giesen LJ, van den Boom AL, van Rossem CC, et al. Retrospective Multicenter Study on Risk Factors for Surgical Site Infections after Appendectomy for Acute Appendicitis. Dig Surg 2017;34:103-7. 20. Panshin MS, Alnachoukati OK, Schroeppel TJ, et al. Optimal Duration of Antibiotics Following Appendectomy for Patients With Complicated Appendicitis. Am Surg 2021;87:480-5. 21. Saklad M. Grading of patients for surgical procedures. Anesthesiology 1941;2:281-4. 22. Moreira LF, Garbin HI, Da-Natividade GR, et al. Predicting factors of postoperative complications in appendectomies. Rev Col Bras Cir 2018;45:e19. 23. Wolters U, Wolf T, Stützer H, et al. ASA classification and perioperative variables as predictors of postoperative outcome. Br J Anaesth 1996;77:217-22. 24. Swidsinski A, Dörffel Y, Loening-Baucke V, et al. Acute appendicitis is characterised by local invasion with Fusobacterium nucleatum/necrophorum. Gut 2011;60:34-40. 25. Schlottmann F, Reino R, Sadava EE, et al. Could an abdominal drainage be avoided in complicated acute appendicitis? Lessons learned after 1300 laparoscopic appendectomies. Int J Surg 2016;36:40-3. 26. Aslan A, Karaveli C, Ogunc D, et al. Does noncomplicated acute appendicitis cause bacterial translocation? Pediatr Surg Int 2007;23:555-8. 27. Moawad MR, Dasmohapatra S, Justin T, et al. Value of intraoperative abdominal cavity culture in appendicectomy: a retrospective study. Int J Clin Pract 2006;60:1588-90.
+
+Cite this article as: Wu T, Yang Y, Wu Y, Lu L, Dong S. Complications after appendectomy in patients with treated appendicitis: results from a retrospective study. Ann Palliat Med 2021;10(12):12546-12553. doi: 10.21037/apm-21-3295
+
+© Annals of Palliative Medicine. All rights reserved.
+
+Ann Palliat Med 2021;10(12):12546-12553 | https://dx.doi.org/10.21037/apm-21-3295

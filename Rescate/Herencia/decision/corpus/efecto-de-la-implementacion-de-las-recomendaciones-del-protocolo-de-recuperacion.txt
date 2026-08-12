@@ -1,0 +1,493 @@
+ARTÍCULO ORIGINAL
+
+Rev Colomb Cir. 2024;39:556-67 https://doi.org/10.30944/20117582.2528
+
+Efecto de la implementación de las recomendaciones del protocolo de recuperación mejorada después de cirugía
+(ERAS) en cirugía colorrectal en un hospital de referencia del suroccidente colombiano
+Effect of the implementation of Enhanced Recovery After Surgery (ERAS) protocol recommendations in colorectal surgery at a reference hospital
+in Southwestern Colombia
+Jessica Capre-Pereira, MD1 , Helber Fabián Pérez-Imbachí, MD2 , Andrés Gempeler, MD2,3 , Juan Guillermo Holguín, MD4 , Alexander Obando, MD4 , Yaset Caicedo, MD5 , Einar Sten Billefals, MD6 , María Astudillo, MD7 , Mónica Bejarano, MD, MSc8 , Abraham Kestenberg, MD4
+1 Programa de Subespecialización en Cirugía de Colon y Recto, Facultad de Ciencias de la Salud, Universidad ICESI, Cali, Colombia. 2 Centro de Investigaciones Clínicas, Hospital Universitario Fundación Valle del Lili, Cali, Colombia. 3 Cátedra de Epidemiología, Universidad ICESI, Cali, Colombia. 4 División de Cirugía de Colon y Recto, Hospital Universitario Fundación Valle del Lili; Cátedra en Cirugía de Colon y Recto,
+Universidad ICESI, Cali, Colombia. 5 Programa de Especialización en Cirugía General, Facultad de Ciencias de la Salud, Universidad ICESI, Cali, Colombia. 6 Salas de Cirugía y Anestesia, Hospital Universitario Fundación Valle del Lili, Cali, Colombia. 7 Programa de Medicina, Facultad de Ciencias de la Salud, Universidad ICESI, Cali, Colombia. 8 Servicio de Cirugía General, Hospital Universitario Fundación Valle del Lili; Cátedra de Cirugía, Universidad ICESI, Cali, Colombia.
+Resumen
+Introducción. La implementación del protocolo de recuperación mejorada después de cirugía (ERAS) ha demostrado mejorar los desenlaces en cirugía colorrectal. En Colombia su implementación es escasa y se tiene poca evidencia de sus beneficios. Por esa razón, el objetivo de este estudio fue evaluar el efecto de la implementación del protocolo ERAS en los pacientes sometidos a cirugía colorrectal en un hospital de referencia en el suroccidente colombiano.
+Métodos. Estudio observacional con abordaje de emulación de experimento clínico ideal. Se incluyeron pacientes adultos sometidos a cirugía colorrectal mayor entre los años 2021 y 2023. Se midió días de estancia hospitalaria, ingreso a unidad de cuidado intensivo (UCI) y la presencia de complicaciones globales, reintervenciones o reingreso hospitalario a 30 días. Se realizó un análisis univariado y multivariado para medir el efecto de la implementación del protocolo ERAS en los desenlaces.
+Fecha de recibido: 29/12/2023 - Fecha de aceptación: 29/02/2024 - Publicación en línea: 30/05/2024
+Correspondencia: Jessica Capre-Pereira, Servicio de Cirugía de Colon y Recto, Hospital Universitario Fundación Valle del Lili, Carrera 98 # 18-49, Cali, Colombia. Teléfono: +57 3285483800. Dirección electrónica: jessica.capre@fvl.org.co Citar como: Capre-Pereira J, Pérez-Imbachí HF, Gempeler A, Holguín JG, Obando A, Caicedo Y, et al. Efecto de la implementación de las recomendaciones del protocolo de recuperación mejorada después de cirugía (ERAS) en cirugía colorrectal en un hospital de referencia del suroccidente colombiano. Rev Colomb Cir. 2024;39:556-67. Este es un artículo de acceso abierto bajo una Licencia Creative Commons - BY-NC-ND https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+
+556
+
+Rev Colomb Cir. 2024;39:556-67
+
+Implementación del protocolo ERAS en cirugía colorrectal
+
+Resultados. En total, 132 pacientes cumplieron los criterios de inclusión, 79 pacientes en el período previo a la implementación de ERAS y 53 pacientes con el protocolo ERAS. En el análisis multivariado, se encontró una reducción relativa del 77 % para ingreso a UCI, del 57 % de complicaciones globales, del 67 % en el reingreso hospitalario y del 92 % para reintervenciones quirúrgicas tras el alta en los pacientes ERAS.
+Conclusiones. La implementación de las recomendaciones ERAS en nuestra institución demostró mejorar los resultados clínicos en pacientes sometidos a cirugía colorrectal mayor. En Colombia, se necesita de estudios multicéntricos que permitan evidenciar la plausibilidad y beneficios de estas recomendaciones en otras instituciones.
+Palabras clave: neoplasias colorrectales; cirugía colorrectal; recuperación mejorada después de la cirugía; tiempo de internación; complicaciones posoperatorias; reoperación.
+Abstract
+Introduction. Implementation of the Enhanced Recovery After Surgery (ERAS) protocol has been shown to improve outcomes in colorectal surgery. In Colombia, its implementation is scarce and there is limited evidence of its benefits. For this reason, the objective of this study was to evaluate the effect of ERAS protocol implementation in patients undergoing colorectal surgery in a reference hospital in Southwestern Colombia.
+Methods. Observational study with ideal clinical experiment emulation approach. Adult patients undergoing major colorectal surgery between 2021 and 2023 were included. Days of hospital stay, admission to the intensive care unit (ICU), and the presence of overall complications, reinterventions, or hospital readmission within 30 days were measured. A univariate and multivariate analysis was performed to measure the effect of the implementation of the ERAS protocol on the outcomes.
+Results. A total of 132 patients met the inclusion criteria, 79 patients in the period prior to ERAS implementation and 53 patients with the ERAS protocol. In the multivariate analysis, a relative reduction of 77% for ICU admissions, 57% for overall complications, 67% for hospital readmission, and 92% for surgical reinterventions after discharge in ERAS patients was found.
+Conclusions. Implementation of ERAS recommendations at our institution was shown to improve clinical outcomes in patients undergoing major colorectal surgery, In Colombia, multicenter studies are needed to demonstrate the plausibility and benefits of these recommendations in other institutions.
+Keywords: colorectal neoplasms; colorectal surgery; enhanced recovery after surgery; length of stay; postoperative complications; reoperation.
+
+Introducción
+La optimización de los resultados perioperatorios en cirugías colorrectales, especialmente en el tratamiento de patologías malignas como el cáncer de colon y recto, es de gran interés debido a la preocupación por los desenlaces indeseados, entre los que se incluyen las complicaciones intra y postoperatorias. En la década de 1960, se registró una frecuencia de complicaciones no fatales en casos de cáncer colorrectal del 30 %, 26 % y 30 % para la colectomía derecha, colectomía izquierda y
+
+resección de sigmoide respectivamente 1,2. En 1984, se reportó que la incidencia de sepsis abdominal y mortalidad intraoperatoria de la enfermedad colorrectal oscilaba entre 20 % y 28 % en procedimientos relacionados con enfermedad diverticular, cáncer y otros procesos benignos 3. Con la introducción de nuevas técnicas quirúrgicas, en pacientes sometidos a proctocolectomía restaurativa con
+anastomosis mediante bolsa ileal se reportó una
+incidencia de complicaciones posteriores al procedimiento del 62,7 % 4.
+
+557
+
+Capre-Pereira J, Pérez-Imbachí HF, Gempeler A, Holguín JG, et al.
+
+Rev Colomb Cir. 2024;39:556-67
+
+Según estudios de la European Quality of Life 5 Dimensions 5 Levels (EQ-5D-5L), el 74 % de los pacientes sometidos a cirugía colorrectal experimentan alteraciones emocionales, como ansiedad y depresión, y el 88 % de ellos manifiestan limitaciones para su autocuidado 5. La presencia de
+comorbilidades previas (cardiovasculares, pulmonares, renales o neurológicas) y tener una edad mayor de 70 años suponen un riesgo quirúrgico alto y favorecen la aparición de complicaciones 6. El ambiente quirúrgico, el tipo de procedimiento (en especial cirugías extensas para resección de
+neoplasias), la técnica y el cuidado posquirúrgico influyen de igual forma en los resultados postoperatorios 7.
+Al considerar la naturaleza multifactorial de los resultados perioperatorios y con el objetivo
+de mejorar los desenlaces en cirugía colorrectal
+e incrementar la calidad del cuidado quirúrgico, se desarrollaron las recomendaciones de recuperación mejorada después de la cirugía (Enhanced Recovery After Surgery, ERAS) 8. Estas consisten en una serie de acciones basadas en la evidencia
+que tienen como objetivo promover resultados quirúrgicos satisfactorios desde una perspectiva multidisciplinar e integral del paciente quirúrgico 8-11. Su implementación en cirugía de colon
+y recto ha llevado a una reducción del 41 % de las complicaciones, además de menores tiempos hospitalarios, restablecimiento temprano de la función intestinal, y alivio del dolor, náuseas y vómito 12-14.
+Sin embargo, los estudios que muestran los beneficios de la implementación de estas recomendaciones han sido hechos principalmente en
+países de altos recursos en Europa o Estados Unidos. En otros lugares, su implementación es más reciente y pocas instituciones han reportado su experiencia a través de artículos científicos 15,16. En Colombia, un país de medianos ingresos, con una incidencia considerable de cáncer colorrectal, la implementación de esta estrategia podría tener
+efectos positivos en el pronóstico de los pacientes sometidos a cirugía 17.
+Las barreras como la oportunidad de acceso a
+servicios quirúrgicos electivos, el acceso a cirujanos
+
+subespecialistas y una relación distante entre el personal de la salud y las gestiones administrativas necesarias para la programación de procedimientos, podrían explicar la implementación limitada de las recomendaciones ERAS en el ámbito local colombiano 18-20. Al momento de la redacción de este artículo, encontramos que solo una institución colombiana, en Bogotá, ha reportado implementación de recomendaciones ERAS 21.
+Con el propósito de mejorar los resultados perioperatorios en el Servicio de Cirugía de Colon y recto del Hospital Universitario Fundación Valle del Lili, en Cali, Colombia, en 2022 se diseñó un protocolo de implementación y tras la realización de controles de calidad y la capacitación por parte de miembros de la sociedad ERAS, se aprobó su implementación en julio de 2022 (protocolo institucional PM-CIR-114). Se inició su aplicación para todos los procedimientos quirúrgicos colorrectales en octubre del mismo año.
+Estas implican acciones por los diferentes actores, de forma coordinada, en diferentes fases del proceso, que dan lugar a acciones preventivas integrales y de tratamiento óptimo para la recuperación rápida y favorable de los pacientes quirúrgicos. El equipo multidisciplinario para la implementación de las recomendaciones involucró a los servicios de Cirugía de Colon y recto, Anestesiología, enfermería, terapia física, terapia respiratoria y nutrición. El objetivo de este estudio fue evaluar el efecto de la implementación del protocolo de recomendaciones ERAS sobre la incidencia de complicaciones durante el cuidado preoperatorio, intraoperatorio y postoperatorio de los pacientes sometidos a cirugía colorrectal en un hospital de alta complejidad.
+Métodos
+Diseño y población de estudio
+Se hizo un estudio de tipo observacional cuasiexperimental con controles históricos, basado en la revisión de las historias clínicas, que incluyó los pacientes adultos con patología colorrectal sometidos a cirugía mayor, previo y luego de la
+
+558
+
+Rev Colomb Cir. 2024;39:556-67
+
+Implementación del protocolo ERAS en cirugía colorrectal
+
+implementación de las recomendaciones ERAS para el cuidado perioperatorio, en un hospital universitario de cuarto nivel de complejidad en Cali, Colombia, entre diciembre de 2021 y septiembre de 2023.
+Aquellos pacientes tratados previo a la implementación ERAS (en octubre de 2022) conformaron el grupo de control histórico, y aquellos del período más reciente conformaron el grupo de implementación ERAS 22,23. Se excluyeron los pacientes con resección sincrónica de metástasis hepáticas, con indicación quirúrgica urgente o emergente, y los pacientes con limitación funcional severa previa a la cirugía, definida con un puntaje del WHO Performance Score igual o superior a 4 24, una escala que ha sido usada previamente para medir la capacidad funcional de pacientes con cáncer colorrectal 25.
+La información para análisis fue tomada a partir de las historias clínicas de los pacientes incluidos, sin embargo, para el grupo del periodo de implementación, la información se consignó previamente en el registro del programa ENCARE del grupo ERAS®, una plataforma que, además de facilitar la implementación, se utiliza como herramienta logística.
+Manejo perioperatorio en la institución
+Durante ambos períodos, el servicio de cirugía de colon y recto contó con tres cirujanos colorrectales y con cirujanos generales en formación especializada que participaron de la implementación.
+En el período de control histórico (de diciembre de 2020 a octubre de 2022) los pacientes eran valorados por el cirujano de colon y recto tratante, quien expedía las órdenes quirúrgicas y de valoración preanestésica. Para el procedimiento, no recibían carga de carbohidratos, se hacía preparación intestinal y ayuno desde el día anterior a la cirugía. Durante el procedimiento, el anestesiólogo se encargaba de la monitoria de signos vitales, administración de líquidos y el régimen anestésico definido previamente; no se hacía profilaxis antiemética o para control del dolor, las sondas nasogástricas y uretrales eran retiradas a criterio médico en los días siguientes y la monitorización
+
+del dolor se hacía durante las rondas médicas
+del servicio médico tratante. La movilización y la tolerancia de la vía oral se indicaba según criterio médico por evolución clínica del paciente, al igual que el alta hospitalaria. Se hacía seguimiento clínico en consulta externa en las dos semanas
+posteriores al procedimiento.
+Durante el periodo de implementación ERAS, se adicionaron actores y acciones al proceso y se
+definieron las responsabilidades de cada servicio. El equipo de Cirugía de colon y recto en la etapa preoperatoria lleva a cabo la evaluación
+médica, propone intervenciones seguras, solicita paraclínicos y formula órdenes para valoración multidisciplinaria. Durante la cirugía, ejecuta el procedimiento quirúrgico siguiendo los protocolos y utilizando métodos menos invasivos; se coloca la sonda vesical luego de la inducción anestésica y la sonda nasogástrica según la necesidad. En la fase postoperatoria, se encarga de la prescripción de los medicamentos, evalúa el estado clínico del paciente y toma decisiones sobre la
+continuidad de la vía oral, el retiro de sondas y drenajes, y autoriza el alta hospitalaria cuando el dolor está controlado, tolera la vía oral y los resultados paraclínicos son adecuados; también
+define el cierre del seguimiento en el control postoperatorio.
+Anestesiología evalúa la escala P-POSSUM, aborda activamente la anemia y su tratamiento, explica el tipo de anestesia con sus riesgos y beneficios, premedica con acetaminofén dos horas antes de la cirugía, junto con la profilaxis antiemética, administra anestesia epidural de forma selectiva y proporciona líquidos y soporte hemodinámico durante la cirugía. En la fase postoperatoria, se centra en el control del dolor postquirúrgico, incluido el uso de analgesia epidural en caso de
+ser necesaria.
+Enfermería es responsable de las recomendaciones relacionadas con asepsia, antisepsia, medicamentos y el cese de tóxicos, la verificación de documentos administrativos y el ayuno preoperatorio hasta dos horas antes del procedimiento, comunicándose con el paciente 48 horas antes de la cirugía. Al ingreso, verifica el acompañamiento
+
+559
+
+Capre-Pereira J, Pérez-Imbachí HF, Gempeler A, Holguín JG, et al.
+
+Rev Colomb Cir. 2024;39:556-67
+
+del paciente y recepciona los documentos. Se encarga de la preparación del colon, según el procedimiento, la administración del antibiótico profiláctico y las bebidas ricas en maltodextrinas. Durante la estancia, gestiona la administración de la dieta, aplica la escala de dolor y evalúa la función respiratoria, el estado de la piel, las mucosas y las vías venosas periféricas. En la fase postoperatoria, se comunica con el paciente a los 15 días y a los 30 días, indagando sobre la tolerancia a la dieta, la función gastrointestinal y el nivel de dolor. Luego de completar los 30 días de seguimiento postquirúrgico, se encarga de diligenciar el programa con los datos de la atención clínica.
+Nutrición valora el estado nutricional preoperatorio, entrega el plan nutricional individualizado y, si es necesario, ordena suplementación nutricional. En la fase postoperatoria, lleva a cabo una nueva valoración según el protocolo de atención nutricional individualizada y se encarga de la monitorización de los requerimientos nutricionales, implementando la suplementación con nutrición enteral o parenteral, si es necesario.
+Terapia física en la etapa preoperatoria, establece el esquema de terapia para mejorar la condición cardiovascular y musculoesquelética antes de la cirugía. Durante la estancia hospitalaria, inicia transiciones en cama el mismo día del procedimiento, acompañadas de un incentivo respiratorio guiado por metas. En los días siguientes, lleva a cabo la vigilancia del peso, la ejecución del plan de fisioterapia y educa al paciente sobre los cuidados y la movilización. Durante los primeros dos días, se encarga de fomentar la deambulación en periodos de dos horas al día, con el objetivo de completar seis horas en cama y un incentivo respiratorio tres veces al día.
+Exposiciones y desenlaces
+Se recolectaron las características clínicas preoperatorias como edad, sexo, antecedentes médicos y toxicológicos, indicación quirúrgica, clasificación del estado físico según la American Society of Anesthesiologists (ASA) y el estado nutricional. En cuanto a las características intraoperatorias, se registraron el tipo de abordaje y los hallazgos
+
+quirúrgicos, el tipo de anastomosis primaria o estoma, el volumen de sangre perdida y la necesidad de medidas de soporte, como el uso de vasoactivos o de transfusiones durante el procedimiento.
+Los desenlaces principales del estudio fueron la incidencia de complicaciones postoperatorias y la frecuencia de ingreso a la unidad de cuidados intensivos (UCI), ambas en los primeros 30 días después del procedimiento. Se incluyeron las complicaciones médicas por sistemas (renales, respiratorias, infecciosas, cardiovasculares, hepáticas, gastrointestinales, relacionadas con la anestesia y psiquiátricas) y las quirúrgicas (dehiscencia de anastomosis, lesión de vías urinarias, obstrucción mecánica del intestino, íleo paralítico, dehiscencia profunda de la herida o hematomas). Como desenlaces secundarios se consideraron la severidad de complicaciones según la escala Clavien-Dindo 26, el número de readmisiones y de reintervenciones quirúrgicas, la estancia hospitalaria y en UCI, el tiempo de tolerancia a alimentos sólidos y el tiempo de recuperación intestinal (medido a través del primer paso de flatos y deposición en el periodo postquirúrgico). Todos los desenlaces fueron medidos en los 30 días siguientes a la intervención quirúrgica. También se registró el diagnóstico final según el reporte de patología de la pieza quirúrgica.
+Para medir la adherencia a las recomendaciones ERAS en el preoperatorio, intraoperatorio y post quirúrgico se obtuvo el porcentaje de cumplimiento calculado por el programa de implementación. De acuerdo con el principio de intención a tratar, la falta de adherencia o cumplimiento de una o más recomendaciones no llevó a la exclusión de los pacientes del análisis. Así, todos los pacientes que cumplieron los criterios de selección en el periodo descrito fueron incluidos para descripción y comparación.
+Análisis estadístico
+Las variables cuantitativas se presentaron como mediana y rango intercuartílico (RIQ) por tener distribución asimétrica y se usó la prueba U de Mann-Whitney para su comparación. Las variables cualitativas fueron presentadas como frecuencias
+
+560
+
+Rev Colomb Cir. 2024;39:556-67
+
+Implementación del protocolo ERAS en cirugía colorrectal
+
+relativas y absolutas y se compararon con la prueba de Chi cuadrado o con la prueba exacta de Fisher. Se calcularon razones de riesgos (RR) para la evaluación del efecto de la implementación ERAS; esta medida se ajustó por las diferencias de base entre los grupos mediante modelos de regresión logística o de regresión robusta de Poisson, según fuera adecuado. La selección de covariables para estos modelos siguió la aproximación de selección con propósito para control de confusión descrita por Bursac S, et al. 27. Se evaluó el potencial de una asociación confundida para los desenlaces de complicaciones postquirúrgicas, ingreso a UCI, readmisiones y reintervenciones. Las medidas de asociación calculadas se acompañaron de intervalos de confianza del 95 %; se consideró
+
+un valor alpha igual a 0,05 con pruebas de dos colas. El análisis estadístico fue realizado con los programas RStudio (RStudio Team, Boston, Estados Unidos) versión 4.3.1 y STATA (StataCorp LLC, College Station, Estados Unidos) versión 15.
+Resultados
+Características de los pacientes
+Se identificaron 132 pacientes que cumplieron los criterios de selección y fueron incluidos para los análisis: 53 pacientes del grupo ERAS y 79 pacientes del grupo control histórico (Pre-ERAS) (Tabla 1). El 55,3 % (73/132) de los pacientes fueron mujeres y la mediana de la edad fue de 63 años (RIQ 53,0 – 71,0). El 65,9 % (87/132) fueron clasificados como ASA 2 y el 29,5 % (39/132) como ASA 3.
+
+Tabla 1. Características sociodemográficas e intraoperatorias de los pacientes por grupo de atención
+
+Edad (años), mediana (RIQ) Índice de masa corporal Kg/m2, mediana (RIQ) Sexo, (%)
+Masculino Femenino Estado nutricional, (%) Estado nutricional normal Riesgo de desnutrición y desnutrido Fumador, (%) Antecedentes patológicos, (%) Diabetes mellitus Enfermedades cardíacas Enfermedades pulmonares Quimioterapia preoperatoria Radioterapia preoperatoria Clasificación ASA, (%) ASA I y II ASA III Diagnostico final, (%) Adenocarcinoma primario y otras neoplasias primarias Tumores benignos, incluidos pólipos Enteropatía inflamatoria Enfermedad diverticular no complicada Enfermedad diverticular complicada Otros trastornos o neoplasias benignas
+
+Pre-ERAS (n = 79)
+60 (50 - 69) 21,9 (20,9 - 25,3)
+31 (39,2) 48 (60,8)
+17 (21,5) 7 (8,9) 9 (11,7)
+12 (15,4) 4 (5,1) 0 (0,0)
+12 (15,2) 11 (14,1)
+51 (64,5) 28 (35,4)
+52 (65,9)
+4 (5,1) 3 (3,8) 2 (2,5) 3 (3,8) 15 (19,0)
+
+ERAS (n = 53) 65 (57 - 75) 21,0 (20,6 - 24,2)
+28 (52,8) 25 (47,2)
+42 (79,2) 11 (20,7)
+0 (0,0)
+10 (18,9) 6 (11,3) 6 (11,3) 19 (35,8) 14 (26,4)
+42 (79,3) 11 (20,8)
+36 (68,0)
+2 (3,8) 0 (0,0) 2 (3,8) 3 (5,7) 10 (18,9)
+
+* RIQ: rango intercuartílico; ASA: American Society of Anesthesiologists. Fuente: elaborada por los autores.
+
+561
+
+Capre-Pereira J, Pérez-Imbachí HF, Gempeler A, Holguín JG, et al.
+
+Rev Colomb Cir. 2024;39:556-67
+
+El procedimiento más común fue la resección anterior de recto, realizado en el 44,7 % (59/132) de los pacientes, seguido de la hemicolectomía derecha en un 18,9 % (25/132); en el 84,1 % de los pacientes se realizó anastomosis primaria. Los procedimientos quirúrgicos fueron realizados principalmente de forma laparoscópica, aunque este pudo variar dadas las características clínicas del paciente o la necesidad de conversión de cirugía laparoscópica a cirugía abierta.
+Se presentaron complicaciones en el 26,5 % (35/132) de los pacientes, siendo el íleo paralítico y la fuga anastomótica las más comunes, presentándose en el 8,3 % (11/132) y 5,3 % (7/132), respectivamente. El diagnóstico más común obtenido a través del reporte institucional de patología a partir de las piezas quirúrgicas fue adenocarcinoma primario, en el 64,4% (85/132).
+Adherencia a las recomendaciones ERAS
+A partir de la implementación del protocolo, el cumplimiento de las fases perioperatoria, preoperatoria e
+
+intraoperatoria se encontró cercana al 100 % (Tabla 2). En estos apartados, la evaluación del estado nutricional, la administración de maltodextrina, la profilaxis para náuseas o vómito y la tromboprofilaxis tuvieron un cumplimiento del 100 %. Sin embargo, la fase postoperatoria presentó un cumplimiento del 59 %, con un 41,6 % de adherencia a la movilización postoperatoria temprana.
+Desenlaces clínicos por grupo medidos a 30 días
+En la Tabla 3 se observa una reducción significativa en las complicaciones hospitalarias y generales entre los pacientes del grupo ERAS, que supone una reducción relativa del 60 % en las complicaciones generales. En la tabla 4 se presentan los riesgos relativos calculados crudos y con ajuste por diferencias en las características de base. Los pacientes del grupo ERAS tuvieron tolerancia a alimentos sólidos más rápida, así como recuperación intestinal, sugerido por la expulsión de gases y las deposiciones más tempranas.
+
+Tabla 2. Adherencia al protocolo ERAS según fases del cuidado
+
+Perioperatorio, (%) Evaluación del estado nutricional Educación previa a la admisión clínica
+Preoperatorio, (%) Administración oral de Maltodextrina Preparación intestinal Administración de tromboprofilaxis Administración de profilaxis para náuseas y vómito
+Intraoperatorio, (%) Uso de opioides sistémicos Anestesia epidural o espinal Uso de manta térmica Uso postoperatorio de sonda nasogástrica
+Postoperatorio, (%) Disminución postquirúrgica de líquidos endovenosos Retiro temprano de sonda vesical (hasta 3 días posoperatorios) Movilización postoperatoria temprana
+
+Pre-ERAS (n = 79) 15,6 4 (4,8) 4 (4,8) 53,6 0 (0) 13 (16,3) 30 (37,9) 55 (69,8) 77,0 59 (74,7) 72 (91,1) 64 (80,5) 75 (95,1) 28,7 12 (15,1) 28 (35,7) 0 (0)
+
+Fuente: elaborada por los autores.
+
+ERAS (n = 53)
+97,3 53 (100) 52 (98,1)
+98,2 53 (100) 47 (88,7) 53 (100) 53 (100)
+97,6 49 (92,5) 50 (94,3) 53 (100) 53 (100)
+59,0 15 (28,3) 46 (86,7) 22 (41,5)
+
+562
+
+Rev Colomb Cir. 2024;39:556-67
+
+Implementación del protocolo ERAS en cirugía colorrectal
+
+Tabla 3. Desenlaces por grupo en los primeros 30 días posoperatorios
+
+Pre-ERAS (n = 79)
+
+Complicaciones, (%)
+
+41 (51,9)
+
+Complicaciones hospitalarias, (%)
+
+29 (36,7)
+
+Clasificación de Clavien-Dindo de complicaciones hospitalarias, (%)
+
+Grado I
+
+5 (13,5)
+
+Grado II
+
+10 (27,0)
+
+Grado IIIa
+
+1 (2,7)
+
+Grado IIIb
+
+4 (10,8)
+
+Grado IVa
+
+10 (27,0)
+
+Grado IVb
+
+7 (18,9)
+
+Ingreso a UCI, (%)
+
+24 (30,4)
+
+Estancia en UCI (días), mediana (RIQ)
+
+8 (7-12)
+
+Primer paso de flatos en el postoperatorio (días), mediana (RIQ) 2,50 (2-3)
+
+Primera deposición postoperatoria (días), mediana (RIQ)
+
+3 (2-4)
+
+Tolerancia a alimentos sólidos (días), mediana (RIQ)
+
+3 (2-4)
+
+Reintervenciones quirúrgicas, (%)
+
+27 (34,2)
+
+Reintervenciones quirúrgicas hospitalarias, (%)
+
+21 (26,5)
+
+Causa de reintervención quirúrgicas, (%)
+
+Fuga anastomótica
+
+9 (19,1)
+
+Absceso intraabdominal
+
+2 (4,3)
+
+Hemorragia
+
+0 (0,0)
+
+Obstrucción
+
+1 (2,1)
+
+Otro motivo
+
+9 (19,1)
+
+Reingreso hospitalario, (%)
+
+21 (26,6)
+
+Duración de estancia hospitalaria total (días), mediana (RIQ)
+
+5 (3-14)
+
+ERAS (n = 53)
+11 (20,8)
+6 (11,3)
+
+p*
+0,002 0,001
+
+1 (16,7) 2 (33,3) 2 (33,3) 1 (16,7) 0 (0,0) 0 (0,0) 5 (9,4) 7 (5-8) 2 (1-2) 2 (2-3) 2 (1-2) 5 (9,4) 1 (1,89)
+
+N/A
+0,008 0,003 <0,001 0,031 <0,001 <0,001 < 0,001
+
+0 (0,0) 0 (0,0) 1 (NA) 0 (0,0) 0 (0,0) 6 (11,3) 4 (3-6)
+
+NA
+0,04 0,174
+
+*Prueba de Chi cuadrado, Prueba U de Mann-Whitney; NA: no aplica; UCI: Unidad de Cuidados Intensivos; RIQ: rango intercuartílico.
+Fuente: elaborada por los autores.
+
+Tabla 4. Estimación del efecto de la implementación de recomendaciones ERAS sobre desenlaces primarios y secundarios
+
+Desenlaces
+
+Crudo
+
+RR
+
+IC95%
+
+Ajustado*
+
+RR
+
+IC95%
+
+Complicaciones
+
+0,40
+
+0,23 - 0,71
+
+0,43
+
+0,24 - 0,78
+
+Ingreso a la Unidad de Cuidados Intensivos 0,31
+
+0,12 - 0,76
+
+0,23
+
+0,08 - 0,63
+
+Reintervenciones
+
+0,28
+
+0,11 - 0,67
+
+0,24
+
+0,09 - 0,66
+
+Reingreso hospitalario
+
+0,40
+
+0,18 - 0,93
+
+0,33
+
+0,13 - 0,81
+
+Reintervenciones tras el alta
+
+0,07
+
+0,01 - 0,5
+
+0,08
+
+0,01 - 0,60
+
+*Estimados obtenidos de modelo individuales para cada desenlace que evaluaron efecto de confusión de las variables: edad, sexo, clasificación ASA, enfermedades cardiacas, enfermedades pulmonares, tabaquismo y quimioterapia preoperatoria. Fuente: elaborada por los autores.
+
+563
+
+Capre-Pereira J, Pérez-Imbachí HF, Gempeler A, Holguín JG, et al.
+
+Rev Colomb Cir. 2024;39:556-67
+
+Al analizar otros desenlaces, encontramos una reducción relativa del 60 % en el reingreso hospitalario, del 69 % para ingreso a UCI, de 72 % para reintervenciones quirúrgicas totales y del 93 % para reintervenciones posteriores al alta. Estos efectos fueron consistentes luego del ajuste mediante análisis multivariables, que sugirieron un efecto beneficioso mayor de la implementación, dado que el grupo ERAS tenía menor proporción de mujeres y mayor proporción de pacientes mayores, con enfermedades cardiacas y pulmonares, y con quimioterapia preoperatoria.
+Discusión
+En este estudio se encontró que la implementación de las recomendaciones ERAS en cirugía electiva colorrectal mayor, en un entorno de alta complejidad en un país de ingresos intermedios, disminuyó la incidencia de complicaciones en los 30 días posteriores a la cirugía, así como el riesgo de ingreso a la unidad de cuidados intensivos (UCI), el reingreso hospitalario y la necesidad de reintervenciones quirúrgicas, además de asociarse con una recuperación postoperatoria más rápida.
+Al revisar otros estudios observacionales, nuestros resultados concuerdan con la literatura disponible, aunque se identificaron ciertas diferencias. El artículo publicado por Targa S, et al. 22, sobre un estudio observacional con enfoque de experimento clínico ideal encontró que, al comparar 100 pacientes ERAS contra 100 no ERAS, hubo una reducción de la estancia hospitalaria total estadísticamente significativa (4 días vs 7 días, p <0,001), algo que no se encontró en nuestro estudio. Así mismo, en la revisión sistemática y metaanálisis de estudios cohortes de Lohsiriwat V, et al. 28, que incluyó 818 pacientes de los cuales 418 recibieron cuidado con ERAS, no se encontró una relación entre ERAS y el tipo de complicaciones, y tampoco hubo asociación con reintervención quirúrgica o reingreso hospitalario.
+En algunos casos se ha analizado si existe un punto de corte en el cumplimiento de las recomendaciones ERAS que se asocie a mejores resultados clínicos. Los estudios observacionales de Barbieux J, et al. 29 y Arrick L, et al. 30 mostraron que una
+
+mayor adherencia a las recomendaciones ERAS
+(> 75-85 %) se asociaba a una menor aparición de complicaciones, principalmente de íleo postoperatorio (OR=0,35; IC95%=0,15-0,83; p=0,02), y menor estancia hospitalaria.
+También se han publicado ensayos clínicos
+mostrando los beneficios de las recomendaciones ERAS 13,31. En países de altos ingresos, los ensayos clínicos controlados aleatorizados más recientes han encontrado que las recomendaciones ERAS en conjunto con una educación prehospitalaria
+extendida, logran disminuir aún más la estancia hospitalaria que el ERAS convencional, aunque su impacto en la morbilidad, en la tasa de reoperaciones o readmisiones y en la mortalidad a 30 días, ha sido variable dependiendo del estudio 32-34.
+La viabilidad del protocolo ERAS ha sido puesta
+a prueba en distintos tipos de pacientes y contextos, demostrando su efectividad y validez. La serie de pacientes de Fagard K, et al. 35, mostró que la población de mayores de 70 años puede presentar una mayor estancia hospitalaria y complicaciones
+con ERAS, aunque esto es menos probable a mayor adherencia a las guías. Posteriormente, Liu JY, et al. 36 demostraron que la implementación de las recomendaciones en esta población presentaba
+resultados similares a la población más joven en cuanto a readmisión, recuperación de la función intestinal y manejo del dolor postoperatorio, sin tener diferencias en las complicaciones.
+La evidencia de la implementación de las
+recomendaciones ERAS en entornos de recursos
+limitados es escasa. En Colombia, el costo de atención en salud del cáncer de colon y recto puede alcanzar un valor máximo de COP $107.024.280, por lo que la implementación del protocolo ERAS, dado sus requerimientos, puede parecer poco plausible en entornos de limitados recursos 37.
+Sin embargo, en centros de salud de Latinoamérica, como el Hospital Italiano de Buenos Aires, una institución con certificación internacional en ERAS en un entorno nacional de pocos recursos, la implementación de ERAS demostró que a los pacientes se les podía dar de alta dos días después de una resección
+colorrectal laparoscópica, con menor tasa de complicaciones relacionadas con la cirugía (p=0,001)
+
+564
+
+Rev Colomb Cir. 2024;39:556-67
+
+Implementación del protocolo ERAS en cirugía colorrectal
+
+y menor morbilidad (p=0,004) 38. La reducción en desenlaces desfavorables que se identificó en este estudio invita a la realización de estudios de reducción de costos y de costo efectividad para el contexto colombiano, debido a que el costo de implementación puede resultar menor al costo de
+las complicaciones, reintervenciones e ingresos a UCI que se evitan.
+En el 2020, el grupo quirúrgico de la Clínica Reina Sofía, en Bogotá, D.C., Colombia, participó de un estudio multicéntrico con el objetivo de evaluar
+la asociación entre la tasa de adherencia de las
+recomendaciones ERAS con los resultados quirúrgicos 39. En este estudio de cohorte retrospectivo, se incluyeron 648 pacientes sometidos a cirugía colorrectal en cinco hospitales con certificación en ERAS en Latinoamérica. El 23,8 % de los pacientes analizados tuvo una adherencia a las recomendaciones ERAS mayor al 80 %. Este grupo presentó una menor tasa de complicaciones quirúrgicas y por sistemas, además de un menor ingreso a UCI; pero no se encontraron diferencias en el reingreso hospitalario ni en el número de días en UCI, a diferencia de nuestro estudio. Con estos resultados se
+muestra que una alta adherencia a las recomendaciones ERAS en nuestro medio también impacta
+en diversos resultados clínicos, aunque lograrla continúa siendo un desafío, incluso para instituciones certificadas.
+En nuestra institución, la implementación de las recomendaciones ERAS ha supuesto un reto
+en diferentes aspectos, a pesar de haber generado resultados que muestran su beneficio clínico a nivel de complicaciones, reintervenciones, readmisiones hospitalarias, ingreso y estancia en UCI. En nuestro análisis, la tasa de adherencia más baja está relacionada con las recomendaciones postoperatorias, dado que ha sido un reto lograr una comunicación efectiva entre los enfermeros, los médicos hospitalarios y los especialistas en
+cuidado intensivo, quienes hacen la vigilancia clínica de los pacientes en hospitalización general y en UCI. Para ello, se han hecho reuniones periódicas con el personal, tratando de llegar a consensos sobre el manejo de los pacientes, que logre aumentar la adherencia a las recomendaciones sin afectar la atención clínica.
+
+Una de las limitaciones para tener en cuenta en el análisis es que en nuestra institución uno de los cirujanos del servicio de Colon y Recto ya realizaba en un grupo selecto de pacientes un protocolo de cirugía colorrectal ambulatoria previo al uso de ERAS, por lo que muchos pacientes tenían una estancia hospitalaria más corta desde los años previos, con resultados clínicos aceptables según estadísticas del departamento institucional de Gestión Clínica. Sin embargo, la cirugía colorrectal ambulatoria solo podía aplicarse a unos pocos pacientes por varias limitantes, entre las cuales se encontraba la dificultad en el acceso a los servicios de urgencias en caso de presentar complicaciones, aspecto que ha sido previamente mencionado en la literatura disponible 40.
+Conclusión
+La implementación de las recomendaciones ERAS logró disminuir las complicaciones, los reingresos hospitalarios, las reintervenciones, el ingreso y los días de estancia en las Unidades de Cuidado Intensivo. En Colombia, el protocolo ERAS puede ser aplicado mediante una educación exhaustiva del personal de salud y la realización de protocolos institucionales que impliquen a las áreas administrativas y clínicas de la institución.
+Cumplimiento de normas éticas
+Consentimiento informado: La metodología y el diseño del presente estudio fueron aprobados por el Comité de Ética de investigación del Hospital Universitario Fundación Valle del Lili, bajo el protocolo de investigación #2023.23. Este estudio fue catalogado como “sin riesgo”, según los parámetros establecidos en la Resolución de 008430 de 1993 del Ministerio de Salud de Colombia, por lo que no se requirió el diligenciamiento de consentimiento informado.
+Conflictos de intereses: Los autores del presente escrito declararon no tener ningún tipo de conflictos de intereses con el presente artículo de investigación.
+Uso de inteligencia artificial: Los autores del presente trabajo de investigación declararon no haber utilizado herramientas relacionadas con tecnologías asistidas por inteligencia artificial para alguna actividad relacionada con el presente artículo de investigación.
+
+565
+
+Capre-Pereira J, Pérez-Imbachí HF, Gempeler A, Holguín JG, et al.
+
+Rev Colomb Cir. 2024;39:556-67
+
+Fuentes de financiación: Centro de Investigaciones Clínicas (CIC), Hospital Universitario Fundación Valle del Lili, Cali, Colombia. Facultad de Ciencias de la Salud, Universidad ICESI, Cali, Colombia.
+Contribución de los autores
+- Concepción y diseño del estudio: Jessica Capre-Pereira, Helber-Fabián Pérez-Imbachi, Juan Guillermo Holguín, Andrés Gempeler, Alexander Obando, Yaset Caicedo, Einar Sten Billefals, María Astudillo, Mónica Bejarano, Abraham Kestenberg.
+- Adquisición de datos: Jessica Capre-Pereira, Helber-Fabián Pérez-Imbachi, Andrés Gempeler, Yaset Caicedo, María Astudillo.
+- Análisis e interpretación de datos: Jessica Capre-Pereira, Helber-Fabián Pérez-Imbachi, Andrés Gempeler, Yaset Caicedo, María Astudillo.
+- Redacción del manuscrito: Jessica Capre-Pereira, Helber-Fabián Pérez-Imbachi, Andrés Gempeler, Yaset Caicedo, María Astudillo, Einar Sten Billefals, Mónica Bejarano, Juan Guillermo Holguín, Alexander Obando, Abraham Kestenberg.
+- Revisión crítica: Jessica Capre-Pereira, Helber-Fabián Pérez-Imbachi, Andrés Gempeler, Yaset Caicedo, Juan Guillermo Holguín, Alexander Obando, Einar Sten Billefals, Mónica Bejarano, Abraham Kestenberg.
+Referencias
+1 Hedberg SE, Welch CE. Complications following surgery of the colon. Surg Clin North Am. 1963;43:775-88. https://doi.org/10.1016/S0039-6109(16)36992-4
+2 Daly JM, DeCosse JJ. Complications in surgery of the colon and rectum. Surg Clin North Am. 1983;63:121531. https://doi.org/10.1016/S0039-6109(16)43184-1
+3 Irvin GL, Horsley JS, Caruana JA. The morbidity and mortality of emergent operations for colorectal disease. Ann Surg. 1984;199:598-603. https://doi.org/10.1097/00000658-198405000-00015
+4 Fazio VW, Ziv Y, Church JM, Oakley JR, Lavery IC, Milsom JW, et al. Ileal pouch-anal anastomoses complications and function in 1005 patients. Ann Surg. 1995;222:1207. https://doi.org/10.1097/00000658-199508000-00003
+5 Mulder FECM, van Roekel EH, Bours MJL, Weijenberg MP, Evers SMAA. The burden of colorectal cancer survivors in the Netherlands: costs, utilities, and associated patient characteristics. J Cancer Surviv. 2022;16:105564. https://doi.org/10.1007/S11764-021-01096-6
+6 Aseni P, Orsenigo S, Storti E, Pulici M, Arlati S. Current concepts of perioperative monitoring in high-risk surgical patients: A review. Patient Saf Surg. 2019;13:32. https://doi.org/10.1186/s13037-019-0213-5
+
+7 Gillis C, Ljungqvist O, Carli F. Prehabilitation, enhanced recovery after surgery, or both? A narrative review. Br J Anaesth. 2022;128:434-48. https://doi.org/10.1016/j.bja.2021.12.007
+8 Ljungqvist O, Scott M, Fearon KC. Enhanced recovery after surgery. A review. JAMA Surg. 2017;152:292-8. https://doi.org/10.1001/jamasurg.2016.4952
+9 Bardram L, Funch-Jensen P, Jensen P, Crawford ME, Kehlet H. Recovery after laparoscopic colonic surgery with epidural analgesia, and early oral nutrition and mobilisation. Lancet. 1995;345:763-4. https://doi.org/10.1016/S0140-6736(95)90643-6
+10 Kehlet H, Mogensen T. Hospital stay of 2 days after open sigmoidectomy with a multimodal rehabilitation programme. Br J Surg. 1999;86:227-30. https://doi.org/10.1046/J.1365-2168.1999.01023.X
+11 Gustafsson UO, Scott MJ, Schwenk W, Demartines N, Roulin D, Francis N, et al. Guidelines for perioperative care in elective colonic surgery: Enhanced Recovery After Surgery (ERAS®) Society recommendations. World J Surg. 2013;37:259-84. https://doi.org/10.1007/S00268-012-1772-0
+12 Hughes M, Coolsen MME, Aahlin EK, Harrison EM, McNally SJ, Dejong CHC, et al. Attitudes of patients and care providers to enhanced recovery after surgery programs after major abdominal surgery. J Surg Res. 2015;193:102-10. https://doi.org/10.1016/J.JSS.2014.06.032
+13 Ni X, Jia D, Chen Y, Wang L, Suo J. Is the Enhanced Recovery After Surgery (ERAS) program effective and safe in laparoscopic colorectal cancer surgery? A meta-analysis of randomized controlled trials. J Gastrointest Surg. 2019;23: 1502-12. https://doi.org/10.1007/S11605-019-04170-8
+14 Greco M, Capretti G, Beretta L, Gemma M, Pecorelli N, Braga M. Enhanced recovery program in colorectal surgery: a meta-analysis of randomized controlled trials. World J Surg. 2014;38:1531-41. https://doi.org/10.1007/S00268-013-2416-8
+15 Oodit R, Biccard B, Nelson G, Ljungqvist O, Brindle ME. ERAS Society recommendations for improving perioperative care in low- and middle-income countries through implementation of existing tools and programs: An urgent need for the surgical safety checklist and Enhanced Recovery After Surgery. World J Surg. 2021;45:3246-8. https://doi.org/10.1007/S00268-021-06279-X
+16 McQueen K, Oodit R, Derbew M, Banguti P, Ljungqvist O. Enhanced recovery after surgery for low- and middle-income countries. World J Surg. 2018;42:950-2. https://doi.org/10.1007/S00268-018-4481-5
+17 Marquez-Ustáriz A, Guerrero-Macías S, Burgos-Sánchez R, Campillo-Pardo J, Bustos-Guerrero A, García-Mora M, et al. Actualización en la tamización del cáncer colorrectal. Rev Colomb Cancerol. 2023;27(Suppl 3):291-300. https://doi.org/10.35509/01239015.931
+
+566
+
+Rev Colomb Cir. 2024;39:556-67
+
+Implementación del protocolo ERAS en cirugía colorrectal
+
+18 Castro A. Necesidad de evaluar los programas de formación de cirugía en Colombia. Rev Colomb Cir. 2016;31:161-4. https://doi.org/10.30944/20117582.287
+19 Gaviria-García G, Lastre-Amell G, Suárez-Villa M. Causas que inciden en cancelación de cirugías desde la percepción del personal de salud. Enferm Univ. 2014;11:47-51.
+20 Moros-Portilla S, Jimenez-Peña OM. Deficiencias en la oportunidad de la atención a pacientes en los servicios
+de urgencias [Tesis]. Repositorio Institucional de la
+Universidad del Rosario; 2017. https://doi.org/https://doi.org/10.48713/10336_13715
+21 Mayo-Patiño DA, Acosta-Navas G, Isaza-Restrepo A, Navas-Camacho ÁM, Buitrago DA. Estancia hospitalaria y complicaciones en pacientes de cirugía colo-rectal tras
+la implementación del protocolo ERAS. Clínica Reina
+Sofía, Bogotá. 2015 - 2018 [Tesis]. Repositorio Institucional de la Universidad del Rosario; 2019. https://doi.org/10.48713/10336_18960
+22 Targa S, Portinari M, Ascanelli S, Camerani S, Verri M, Volta CA, et al. Enhanced recovery program in laparoscopic colorectal surgery: An observational controlled trial. J Laparoendosc Adv Surg Tech A. 2021;31:363-70. https://doi.org/10.1089/lap.2020.0716
+23 Matthews AA, Danaei G, Islam N, Kurth T. Target trial emulation: applying principles of randomised trials to observational studies. BMJ. 2022;378:e071108. https://doi.org/10.1136/BMJ-2022-071108
+24 Timmermann C. ‘Just give me the best quality of life questionnaire’: the Karnofsky scale and the history of quality of life measurements in cancer trials. Chronic Illn. 2013;9:179-90. https://doi.org/10.1177/1742395312466903
+25 Mol L, Ottevanger PB, Koopman M, Punt CJA. The prognostic value of WHO performance status in relation to quality of life in advanced colorectal cancer patients. Eur J Cancer. 2016;66:138-43. https://doi.org/10.1016/J.EJCA.2016.07.013
+26 Dindo D, Demartines N, Clavien PA. Classification of surgical complications: A new proposal with evaluation in a cohort of 6336 patients and results of a survey. Ann Surg. 2004;240:205-13. https://doi.org/10.1097/01.sla.0000133083.54934.ae
+27 Bursac Z, Gauss CH, Williams DK, Hosmer DW. Purposeful selection of variables in logistic regression. Source Code Biol Med. 2008;3:17. https://doi.org/10.1186/1751-0473-3-17
+28 Lohsiriwat V, Jitmungngan R, Chadbunchachai W, Ungprasert P. Enhanced recovery after surgery in emergency resection for obstructive colorectal cancer: a systematic review and meta-analysis. Int J Colorectal Dis. 2020;35:1453-61. https://doi.org/10.1007/s00384-020-03652-5
+29 Barbieux J, Hamy A, Talbot MF, Casa C, Mucci S, Lermite E, et al. Does enhanced recovery reduce postoperative ileus after colorectal surgery? J Visc Surg. 2017;154:7985. https://doi.org/10.1016/j.jviscsurg.2016.08.003
+30 Arrick L, Mayson K, Hong T, Warnock G. Enhanced recovery after surgery in colorectal surgery: Impact of
+
+protocol adherence on patient outcomes. J Clin Anesth.
+2019;55:7-12. https://doi.org/10.1016/j.jclinane.2018.12.034
+31 Ren L, Zhu D, Wei Y, Pan X, Liang L, Xu J, et al. Enhanced Recovery After Surgery (ERAS) program attenuates stress and accelerates recovery in patients after radical resection for colorectal cancer: A prospective randomized controlled trial. World J Surg. 2012;36:407-14. https://doi.org/10.1007/s00268-011-1348-4
+32 López-Rodríguez-Arias F, Sánchez-Guillén L, Aranaz-Ostáriz V, Triguero-Cánovas D, Lario-Pérez S, Barber-Valles X, et al. Effect of home-based prehabilitation in an enhanced recovery after surgery program for patients undergoing colorectal cancer surgery during the CO-
+VID-19 pandemic. Support Care Cancer. 2021;29:778591. https://doi.org/10.1007/s00520-021-06343-1
+33 Forsmo HM, Pfeffer F, Rasdal A, Sintonen H, Körner H, Erichsen C. Pre- and postoperative stoma education and guidance within an enhanced recovery after surgery (ERAS) programme reduces length of hospital stay in colorectal surgery. Int J Surg. 2016;36:121-6. https://doi.org/10.1016/j.ijsu.2016.10.031
+34 Forsmo HM, Erichsen C, Rasdal A, Tvinnereim JM, Körner H, Pfeffer F. Randomized controlled trial of extended perioperative counseling in enhanced recovery after colorectal surgery. Dis Colon Rectum. 2018;61:724-32. https://doi.org/10.1097/DCR.0000000000001007
+35 Fagard K, Wolthuis A, Verhaegen M, Flamaing J, Deschodt M. A retrospective observational study of enhanced recovery after surgery in older patients undergoing elective colorectal surgery. PLoS One. 2020;15:e0232857. https://doi.org/10.1371/journal.pone.0232857
+36 Liu JY, Perez SD, Balch GG, Sullivan PS, Srinivasan JK, Staley CA, et al. Elderly patients benefit from enhanced recovery protocols after colorectal surgery. J Surg Res. 2021;266:54-61. https://doi.org/10.1016/j.jss.2021.01.050
+37 León E, Gamboa Ó, Lozano T, Gamboa C, Gil M, Fuentes J. Estudio de costo de la enfermedad en pacientes con cáncer de colon y recto en Colombia. Rev Colomb Cancerol. 2013;17:184. https://doi.org/10.1016/S0123-9015(13)70209-9
+38 Rossi G, Vaccarezza H, Vaccaro CA, Mentz RE, Im V, Alvarez A, et al. Two-day hospital stay after laparoscopic colorectal surgery under an enhanced recovery after surgery (ERAS) pathway. World J Surg. 2013;37:2483-9. https://doi.org/10.1007/s00268-013-2155-x
+39 Mendivelso FO, Barrios-Parra AJ, Zárate-López E, Navas-Camacho ÁM, Álvarez AO, McLoughlin S, et al. Asociación entre desenlaces clínicos y cumplimiento
+del protocolo de recuperación mejorada después de
+la cirugía (ERAS) en procedimientos colorrectales: estudio multicéntrico. Rev Colomb Cir. 2020;35:601-13. https://doi.org/10.30944/20117582.662
+40 Atallah SB, Larach SW. Same-day colectomy: are we throwing caution to the wind? Tech Coloproctol. 2023;27:1137-8. https://doi.org/10.1007/S10151-023-02861-8
+
+567

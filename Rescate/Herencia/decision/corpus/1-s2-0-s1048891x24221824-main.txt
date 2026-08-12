@@ -1,0 +1,1192 @@
+Review
+INTERNATIONAL JOURNAL OF
+GYNECOLOGICAL CANCER
+Original research Editorials Joint statement Society statement Meeting summary Review articles Consensus statement Clinical trial Tumor board Video articles Images Pathology archives Corners of the world Commentary Letters ijgc.bmj.com
+
+Cervical cancer: a new era
+Giuseppe Caruso  ‍ ‍,1,2,3 Matthew K Wagar  ‍ ‍,4 Heng-­Cheng Hsu  ‍ ‍,5,6,7 Jorge Hoegl  ‍ ‍,8 Guido Martin Rey Valzacchi  ‍ ‍,9 Andreina Fernandes  ‍ ‍,10 Giuseppe Cucinella  ‍ ‍,11 Seda Sahin Aker  ‍ ‍,12,13 Aarthi S Jayraj  ‍ ‍,14 Jessica Mauro,15 Rene Pareja  ‍ ‍,16 Pedro T Ramirez  ‍ ‍17
+
+For numbered affiliations see end of article. Correspondence to Dr Heng-C­ heng Hsu; ​ b101092037@​gmail.​com Received 4 April 2024 Accepted 11 July 2024 Published Online First 7 August 2024
+© IGCS and ESGO 2024. No commercial re-u­ se. See rights and permissions. Published by BMJ. To cite: Caruso G, Wagar MK, Hsu H-­C, et al. Int J Gynecol Cancer 2024;34:1946–1970.
+
+ABSTRACT
+Cervical cancer is a major global health issue, ranking as the fourth most common cancer in women worldwide. Depending on stage, histology, and patient factors, the standard management of cervical cancer is a combination of treatment approaches, including (fertility- or non-fertility-­sparing) surgery, radiotherapy, platinum-­based chemotherapy, and novel systemic therapies such as bevacizumab, immune checkpoint inhibitors, and antibody-drug conjugates. While ambitious global initiatives seek to eliminate cervical cancer as a public health problem, the management of cervical cancer continues to evolve with major advances in imaging modalities, surgical approaches, identification of histopathological risk factors, radiotherapy techniques, and biomarker-­driven personalized therapies. In particular, the introduction of immune checkpoint inhibitors has dramatically altered the treatment of cervical cancer, leading to significant survival benefits in both locally advanced and metastatic/recurrent settings. As the landscape of cervical cancer therapies continues to evolve, the aim of the present review is to provide a comprehensive discussion of the current state and the latest practice-­changing updates in cervical cancer.
+INTRODUCTION
+Cervical cancer is the fourth most common cancer in women worldwide and the most common gynecological cancer globally.1 Despite the effectiveness of the human papillomavirus (HPV) vaccination and screening,2 3 cervical cancer remains a major global health issue, with a particularly high burden in lowand middle-­income countries due to wide disparities in HPV vaccination coverage, access to preventive interventions, and socioeconomic factors.4 5 The 5-­year overall survival rate for all stages combined is 67%: 91% for early stage, 60% for locally advanced disease, and 19% for metastatic disease.6 Almost all cases of cervical cancer (~95%) are caused by persistent infection with high-r­isk HPV. The most common histologies are squamous cell carcinoma (~80%) and adenocarcinoma (~20%), while other histologic subtypes remain rare.7 8
+Cervical cancer is generally curable if diagnosed and treated at an early stage. The recommended treatment for early-s­tage cervical cancer (International Federation of Gynecology and Obstetrics (FIGO) 2018 stages IA–IB2, and IIA1) is surgery followed by
+
+observation or adjuvant therapy (radiotherapy±concurrent chemotherapy) based on histopathologic risk factors on definitive pathology. Conservative and fertility-­sparing approaches may be considered in carefully selected patients. Standard of care for locally advanced cervical cancer (FIGO 2018 stages IB3, IIA2–IVA) is definitive concurrent chemoradiotherapy.9–11 However, recent findings have the potential to improve the standard of care of patients with locally advanced cervical cancer. Based on results of the KEYNOTE-­A18 trial, the US Food and Drug Administration (FDA) recently approved pembrolizumab in addition to concurrent chemoradiotherapy for patients with high-­risk locally advanced cervical cancer.12 Moreover, results from the INTERLACE trial presented at the 2023 European Society for Medical Oncology (ESMO) congress demonstrated that induction chemotherapy before standard concurrent chemoradiotherapy provides a significant improvement in overall survival.13 Patients with metastatic (FIGO 2018 stage IVB), persistent, or recurrent cervical cancer should be treated at tertiary referral centers in a multidisciplinary setting. The management of these patients poses a major clinical challenge and relies on combined treatment modalities, including platinum-­based chemotherapy±bevacizumab±pembrolizumab, locoregional treatments (surgery, radiotherapy), enrollment in clinical trials, and/or palliative care.9–11
+The WHO Global Initiative was launched to accelerate the elimination of cervical cancer as a public health problem by using three main pillars: HPV vaccination, effective screening (Pap test, HPV test, colposcopy), and treatment of precancerous lesions. Meanwhile, there have been continuous and significant improvements in imaging modalities, surgical approaches (tailored parametrectomy, less radical surgery, sentinel lymph node (SLN) biopsy), pathological diagnosis, radiotherapy techniques (image-guided, intensity-­modulated radiation), and novel treatment options with targeted agents, including immune checkpoint inhibitors and antibody-­drug conjugates.
+Given recent practice-c­hanging advances in the management of cervical cancer, this narrative review aimed to summarize the contemporary state and latest updates in the management of cervical cancer.
+
+1946
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+METHODS
+A formal systematic review was not performed, but relevant literature in cervical cancer was identified by searching PubMed for English-­language articles from inception to March 2024. Priority was given to the selection of randomized controlled trials, systematic reviews, meta-­analyses, and practice guidelines. The references of identified articles were also reviewed. Selected articles were mutually agreed by the authors. Details of the study design and results of the pivotal studies underpinning treatment recommendations in cervical cancer are reported in Table 1.
+Epidemiology Cervical cancer is the fourth leading cause of cancer incidence and mortality in women worldwide, with more than 85% of cases occurring in low-­resource settings.14 In 2022, there were an estimated 661 021 cervical cancer cases and 348 189 deaths globally.1 The cumulative lifetime risk of developing and dying from cervical cancer are 1.50% and 0.79%, respectively.1 The burden of cervical cancer incidence is not equal worldwide, with a clear socioeconomic gradient. In countries with a low human development index, cervical cancer incidence and mortality rates are three and six times higher, respectively, than in countries with a high human development index.15 Specific regions of the world with particularly high incidence and mortality rates include East and Southeast Asia (57.3% of global cases, 57.6% of deaths), sub-­Saharan Africa (16.6% of cases, 19.3% of deaths), and Latin America (9.2% of cases, 8.5% of deaths).15
+The incidence of cervical cancer by stage varies internationally as well, with patients in low human development index countries more likely to be diagnosed at a later stage. Worldwide, around 40–50% of cervical cancers are diagnosed at an early stage, 35–40% at locally advanced stage, and 10–25% at metastatic stage.16 Geographic and socioeconomic disparities in the incidence and global burden of cervical cancer reflect inequalities in the availability of the HPV vaccine and accessibility to adequate screening and treatment of precancerous lesions. The main risk factor for cervical cancer is persistent HPV infection, with HPV 16 and 18 being the most common high-­risk genotypes.17 More than 70% of cervical cancer diagnoses are attributed to HPV 16/18 genotypes, while other known risk factors include smoking, higher number of sexual partners, and HIV infection, highlighting the importance of risk reduction strategies aimed at smoking cessation and HIV prevention.18
+Pathophysiology High-­risk HPV is a sexually transmitted virus capable of establishing persistent infections leading to precancerous lesions and cervical cancer. HPV is a non-e­nveloped, double-s­tranded DNA virus of 8 kilobase pairs containing eight open reading frames, including two structural genes (L1, L2) and six early genes involved in viral replication (E1, E2, E4, E5, E6, E7).19 20 After HPV infection, distinct mRNA splicing patterns and multiple promoters control the expression of viral genes, allowing expression of gene products at different stages of the viral life cycle.
+E6 and E7 have an essential function during the viral life cycle, increasing viral fitness and virion production.19 The E6 protein is able to directly interact with p53, a tumor suppressor protein, and induce ubiquitin-d­ ependent proteolysis. The E7 protein binds to pRb
+
+Review
+suppressor protein to facilitate the release of transcription factors such as E2F and induce gene transcription, resulting in disruption of cell cycle regulatory pathways, resistance to apoptosis, and dysregulated cell proliferation.21 22 Persistent HPV infection leads to integration of the viral genome into the cellular genome, promoting sustained expression of E6 and E7, and loss of the E2 gene, a repressor of the expression of these oncoproteins (Figure 1). Additionally, HPV integration induces genetic alterations, amplification of oncogenes, chromosomal rearrangements, and instability.22 Most cervical cancer cases demonstrate integrated HPV genomes. In cases where the genome is in an episomal form, dysregulation occurs by epigenetic modifications such as DNA methylation, histone modifications, non-­coding RNA regulation and chromatin regulation.23
+Prevention and Screening In 2020, WHO launched a global strategy to eliminate cervical cancer as a public health problem by 2130, with the goal of a global incidence of less than 4 per 100 000 women per year. The strategy focuses on three key pillars: (1) prevention through HPV vaccination; (2) screening and treatment of precancerous lesions; and (3) adequate treatment of invasive cervical cancer. WHO countries are expected to achieve the following three main targets by 2030 to reduce the median cervical cancer incidence by 10%: (1) 90% of girls fully vaccinated against HPV by 15 years of age; (2) 70% of women screened with high-p­erformance tests for HPV detection by 35 years of age and again by 45 years of age; and (3) 90% of women adequately treated for precancerous lesions.24
+Prophylactic HPV vaccination has been shown to decrease the burden of HPV-­associated disease. Currently, there are five commercial prophylactic HPV vaccines: two bivalent vaccines (HPV 16 and 18), two tetravalent vaccines (HPV 6, 11, 16, and 18), and one nonavalent vaccine (HPV 6, 11, 16, 18, 31, 33, 45, 52, and 58). In addition, there is emerging evidence on the safety and immunogenicity of a new nonavalent vaccine produced in Escherichia coli, a simple and cost-­effective system for the production of L1 virus-­like particles, with potential to alleviate supply constraints and affordability of HPV vaccine.20 25 26 WHO recommends either a single or two-­dose schedule in women under 20 years of age to improve vaccination coverage.27 28 The primary target of vaccination is girls aged 9–14 years, prior to the start of sexual activity. Vaccination of secondary targets, such as males and older females, is also recommended where feasible and affordable.
+Primary screening strategies are a critical component of cervical cancer prevention and include cervical cytology (Pap smear), HPV co-­testing, and colposcopy (with biopsy). The main objective of screening programs is to detect precancerous lesions to provide prompt treatment and appropriate follow-­up before cancer develops.20 About 50% of cervical cancers occur in women with inadequate screening.29 In a recent estimate of screening coverage across 202 countries, 1.6 billion (67%) of 2.3 billion women aged 20–70 years had never been screened for cervical cancer. According to Bruni et al, 69% of countries surveyed have official recommendations for primary cervical cancer screening, with only 29% sending individual reminders to women.30
+The use of polymerase chain reaction (PCR)-b­ ased tests for HPV genome detection has proven to be cost-­effective while increasing sensitivity for detecting high-g­ rade lesions.20 31 32 Several countries
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+1947
+
+Review
+
+Table 1  Pivotal prospective studies underpinning treatment recommendations in cervical cancer
+
+Study
+
+Design
+
+Setting
+
+N
+
+Treatment
+
+Results
+
+Conclusion
+
+Early-­stage disease and LACC
+
+SHAPE67
+
+Phase III, multicenter, non-inferiority RCT
+
+FIGO 2009 stage IA2–IB1 700 squamous cell carcinoma, adenocarcinoma, or adenosquamous carcinoma, with stromal invasion <10 mm on LEEP/ cone biopsy or <50% invasion on preoperative MRI. LVSI+ allowed
+
+SENTIX/
+
+Multicenter,
+
+FIGO 2009 stage IA1
+
+647
+
+CEEGOG-­cx01/ ENGOT-­cx269
+
+prospective cohort LVSI+ to
+
+study
+
+IB2 (<4 cm) squamous
+
+cell carcinoma,
+
+adenocarcinoma,
+
+or adenosquamous
+
+carcinoma, with no
+
+suspicious lymph nodes
+
+on imaging
+
+LACC60
+
+Phase III,
+
+FIGO 2009 stages IA1
+
+631
+
+multicenter RCT LVSI+ to IB1 squamous
+
+cell carcinoma,
+
+adenocarcinoma,
+
+or adenosquamous
+
+carcinoma
+
+Arm 1 (n=350): simple hysterectomy with LND Arm 2 (n=350): radical hysterectomy with LND
+
+Incidence of pelvic recurrence at 3 years was 2.17% in the radical hysterectomy group and 2.52% in the simple hysterectomy group (an absolute difference of 0.35 percentage points; 90% CI −1.62 to 2.32). The incidence of urinary incontinence was lower in the simple hysterectomy group than in the radical hysterectomy group within 4 weeks after surgery (2.4% vs 5.5%; p=0.048) and beyond 4 weeks (4.7% vs 11.0%; p=0.003). The incidence of urinary retention in the simple hysterectomy group was also lower than that in the radical hysterectomy group within 4 weeks after surgery (0.6% vs 11.0%; p<0.001) and beyond 4 weeks (0.6% vs 9.9%; p<0.001)
+
+In patients with low-risk cervical cancer, simple hysterectomy is not inferior to radical hysterectomy with respect to the 3-­year incidence of pelvic recurrence and is associated with a lower risk of urinary incontinence or retention
+
+All patients underwent SLN biopsy with ultrastaging
+
+The 2-­year recurrence rate was 6%. SLN biopsy showed a bilateral detection rate of 92.3% and was able to detect lymph node involvement in >56% of cases by frozen section and >90% after ultrastaging
+
+The study validated the hypothesis that the 2-y­ ear recurrence rate post-S­ LN biopsy was non-­inferior to the reference recurrence rate in historical cohorts following pelvic lymph node dissection
+
+Arm 1 (n=319): MIS radical hysterectomy Arm 2 (n=312): open radical hysterectomy
+
+Disease-­free survival at 4.5 years was 86.0% with MIS and 96.5% with open surgery (95% CI −16.4 to −4.7). MIS was associated with a lower rate of disease-­free survival than open (3-y­ ear rate 91.2% vs 97.1%; HR 3.74; 95% CI 1.63 to 8.58). MIS was also associated with a lower rate of 3-y­ ear overall survival (93.8% vs 99.0%; HR 6.00; 95% CI 1.77 to 20.30)
+
+MIS radical hysterectomy is associated with lower rates of disease-­free survival and overall survival than open radical hysterectomy in early-stage cervical cancer
+
+Continued
+
+1948
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+Table 1  Continued
+
+Study
+
+Design
+
+ConCerv66
+
+Multicenter, prospective, single-­arm study
+
+Setting
+
+N
+
+FIGO 2009 stage
+
+100
+
+IA2–IB1 squamous cell
+
+carcinoma (any grade), or
+
+adenocarcinoma (grade
+
+1 or 2), with tumor size
+
+<2 cm, no LVSI, depth of
+
+stromal invasion <10 mm,
+
+negative imaging for
+
+metastatic disease,
+
+and negative conization
+
+margins
+
+GOG 27868
+
+Phase I/II,
+
+FIGO 2009 stage IA1
+
+224
+
+multicenter,
+
+(LVSI+) and IA2–IB1
+
+prospective study (≤2 cm); squamous
+
+cell carcinoma,
+
+adenocarcinoma,
+
+or adenosquamous
+
+carcinoma
+
+GOG 92 (Sedlis criteria)96
+
+Multicenter RCT
+
+Stage IB squamous
+
+277
+
+cell carcinoma,
+
+adenocarcinoma,
+
+or adenosquamous
+
+carcinoma, with LVSI+,
+
+>1/3 stromal invasion
+
+and large tumor diameter
+
+following radical
+
+hysterectomy with LND
+
+GOG 109/SWOG
+8797/RTOG 9112 (Peters criteria)94
+
+Multicenter RCT
+
+Stage IA2, IB, and IIA
+
+243
+
+cervical cancer, treated
+
+with radical hysterectomy
+
+and pelvic LND, and with
+
+positive pelvic lymph
+
+nodes, positive margins,
+
+and/or microscopic
+
+involvement of the
+
+parametrium
+
+Review
+
+Treatment
+
+Results
+
+Conclusion
+
+Patients underwent conservative surgery with either conization (if fertility desired) and LND (n=44), conization followed by simple hysterectomy and LND (n=40), or inadvertent simple hysterectomy followed by LND (n=16). One additional conization was allowed
+
+Five patients (5%) were found to have positive lymph nodes. In one out of 40 patients, residual disease was observed in the post-­conization hysterectomy specimen, indicating an immediate failure rate of 2.5%. The median follow-u­ p period was 36.3 months, ranging from 0.0 to 68.3 months. Within 2 years post-surgery, three patients experienced recurrent disease, corresponding to a cumulative incidence of 3.5% (95% CI 0.9% to 9.0%) There was a term delivery rate of 92.9% among the 14 pregnancies of 11 patients who underwent cervical conization for fertility preservation and remained in the study
+
+Patients diagnosed with early-­stage low-­risk cervical carcinoma may be considered as candidates for conservative surgical interventions
+
+Cone biopsy (n=72) or simple hysterectomy (n=152) plus pelvic LND
+
+Of the 201 patients eligible for survival analysis, only three experienced a recurrence after a median follow-­up of 37 months. Among the 68 patients who underwent cone biopsy and were eligible for analysis, 31 patients attempted to conceive and 16 pregnancies (15 patients) were obtained, including nine full-­term pregnancies
+
+Non-­radical surgery for early-s­ tage cervical cancer appears safe. Patients treated by cone biopsy and pelvic LND can achieve successful fertility outcomes
+
+Arm 1 (n=137): pelvic RT Arm 2 (n=140): no further treatment (NFT)
+
+47% reduction in risk of recurrence (RR 0.53; p=0.008, one-­tail) among the RT group, with recurrence-f­ree rates at 2 years of 88% vs 79% for the RT and NFT groups, respectively 6% grade 3–4 AEs in RT vs 2.1% in the NFT group
+
+Adjuvant pelvic RT following radical surgery reduces the number of recurrences in patients meeting Sedlis criteria after radical hysterectomy There was no statistically significant difference in overall survival at a median follow-­up of 10 years
+
+Arm 1 (n=127): RT + cisplatin/5-­FU chemotherapy Arm 2 (n=116): RT alone
+
+HRs for progression-free survival and overall survival in the RT only arm vs the CRT arm are 2.01 (p=0.003) and 1.96 (p=0.007)
+
+Concurrent cisplatin-based CRT significantly improves progression-free survival and overall survival for patients with high-­risk, early-­stage disease who undergo radical hysterectomy and pelvic LND
+
+Continued
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+1949
+
+Review
+
+Table 1  Continued
+
+Study
+
+Design
+
+NRG oncology/ Phase III,
+RTOG 0724/GOG-­ multicenter RCT 072495
+
+Setting
+
+N
+
+Stage IA2, IB, or IIA
+
+212
+
+cervical carcinoma with
+
+at least one of the high-­
+
+risk features after radical
+
+hysterectomy: positive
+
+pelvic nodes, positive
+
+parametrium, and/or
+
+positive para-­aortic nodes
+
+EMBRACE I161
+
+Multicenter, prospective cohort study
+
+FIGO 2009 stage IB–IVB squamous cell carcinoma or adenocarcinoma undergoing CRT with curative intent
+
+1341
+
+STARS162
+
+RCT
+
+Stage IB to IIA, with adverse pathological factors following radical hysterectomy.
+
+1048
+
+Landoni et al163 RCT
+
+Stage IB and IIA
+
+343
+
+squamous cell carcinoma
+
+or adenocarcinoma
+
+Treatment
+
+Results
+
+Conclusion
+
+Arm 1 (n=109): CRT Arm 2 (n=103): CRT followed by four cycles of adjuvant chemotherapy with paclitaxel and carboplatin (CRT + chemo)
+
+4 year disease-f­ree survival estimates of 76% (90% CI 69% to 83%) and 77% (90% CI 70% to 84%) for the CRT and CRT+chemo arms, respectively (HR 1.05; 90% CI 0.65 to 1.68; p=0.56) 4-­years overall survival is 87% (90% CI 82% to 93%) and 89% (90% CI 84% to 94%) for the CRT and CRT+chemo arms, respectively (HR 0.91; 90% CI 0.49 to 1.69; one-sided log-r­ank p=0.40)
+
+The addition of systemic chemotherapy following CRT did not improve disease-­free or overall survival in patients with cervical cancer and high-risk factors after radical hysterectomy
+
+CRT (weekly cisplatin + external beam RT) followed by MRI-b­ ased IGABT
+
+Actuarial overall 5- year local control was 92% (95% CI 90% to 93%). Actuarial cumulative 5-year incidence of grade 3–5 morbidity was 6.8% (95% CI 5.4% to 8.6%) for genitourinary events, 8.5% (95% CI 6.9% to 10.6%) for gastrointestinal events, 5.7% (95% CI 4.3% to 7.6%) for vaginal events, and 3.2% (95% CI 2.2% to 4.5%) for fistulae
+
+CRT and MRI-­based IGABT result in effective and stable long-t­erm local control across all stages of locally advanced cervical cancer, with a limited severe morbidity per organ
+
+Arm1 (n=350): RT Arm 2 (n=345): CCRT with weekly cisplatin Arm 3 (n=353): SCRT with cisplatin+paclitaxel in a 21-­day cycle, given two cycles before and two cycles after RT
+
+SCRT was associated with a higher rate of 3-y­ ear disease-f­ree survival than RT (90.0% vs 82.0%; HR 0.52; 95% CI 0.35 to 0.76) and CCRT (90.0% vs 85.0%; HR 0.65; 95% CI 0.44 to 0.96). Treatment with SCRT decreased cancer death risk compared with RT (5- year rate 92.0% vs 88.0%; HR 0.58; 95% CI 0.35 to 0.95) after adjustment for lymph node involvement. However, neither disease-free survival nor cancer death risk was different among patients treated with CCRT or RT
+
+SCRT, rather than CCRT, resulted in a higher disease-f­ree survival and lower risk of cancer death than RT among women with early-­stage cervical cancer
+
+Arm 1 (n=172): radical surgery Arm 2 (n=171): RT
+
+5- year overall survival and disease-f­ree survival were identical in the surgery and RT groups (83% and 74%, respectively, for both groups). 86 women developed recurrent disease: 42 (25%) in the surgery group and 44 (26%) in the RT group
+
+There is no treatment of choice for early-s­ tage cervical carcinoma in terms of overall survival or disease-f­ree survival. The combination of surgery and RT has the worst morbidity, especially urological complications. The optimum therapy for each patient should take account of clinical factors
+
+Continued
+
+1950
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+Table 1  Continued
+
+Study
+
+Design
+
+GOG 123164
+
+Phase III RCT
+
+Setting
+
+N
+
+Stage IB bulky cervical
+
+369
+
+tumor (>4 cm)
+
+RTOG 9001106
+
+Phase III RCT
+
+Stage IIB, III, IVA, and
+
+386
+
+stage IB-­IIA with tumor
+
+>5 cm and positive lymph
+
+nodes
+
+GOG 165165
+
+Phase III, open-­ Stage IIB, IIIB, and IVA
+
+316
+
+label RCT
+
+cervical cancer with
+
+clinically negative aortic
+
+nodes
+
+Review
+
+Treatment
+
+Results
+
+Conclusion
+
+Arm 1 (n=186): RT followed by hysterectomy Arm 2 (n=183): RT + weekly cisplatin (CRT) followed by hysterectomy
+
+RRs of disease progression and death in CRT compared with RT alone were 0.51 (95% CI 0.34 to 0.75) and 0.54 (95% CI 0.34 to 0.86), respectively. The rates of progression-­free survival (p<0.001) and overall survival (p=0.008) were significantly higher in the CRT group at 4 years. Pathologically, no residual disease in the uterus at hysterectomy in 41% of RT group compared with 52% of CRT group
+
+Adding weekly infusions of cisplatin to pelvic RT followed by hysterectomy significantly reduced the risk of disease recurrence and death in women with stage IB bulky cervical cancers. The value of hysterectomy in this setting is unclear
+
+Arm 1 (n=193): cisplatin + 5-­FU weekly with radiotherapy (CRT) Arm 2 (n=193): RT (with extended para-a­ ortic field)
+
+Cumulative rates of 5-year overall survival were 73% among patients treated with CRT and 58% among patients treated with RT alone (p=0.004). Cumulative rates of 5-year disease-f­ree survival were 67% among patients in the CRT group and 40% in the RT group (p<0.001). The rates of both distant metastases (p<0.001) and locoregional recurrences (p<0.001) were significantly higher among patients treated with RT alone
+
+The addition of chemotherapy with cisplatin and 5-­FU to treatment with external-beam and intracavitary RT significantly improved survival among women with locally advanced cervical cancer
+
+Arm 1 (n=159): weekly cisplatin + RT (cisplatin/ RT) Arm 2 (n=157): 5 - FU + RT (5-­FU/RT)
+
+Closed prematurely when a planned interim futility analysis indicated that 5-­FU/RT had a higher treatment failure rate (35% higher) and most likely would not result in an improvement in progression-­free survival compared with weekly cisplatin/RT. The 5-­FU/ RT arm showed a higher risk of treatment failure (unadjusted RR 1.29) and a higher mortality rate (unadjusted RR 1.37). There was no difference in pelvic treatment failure between regimens, but there was an increase in the failure rate at distant sites in the 5-­FU arm
+
+5-­FU showed no improvement over weekly cisplatin
+
+Continued
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+1951
+
+Review
+
+Table 1  Continued
+
+Study
+
+Design
+
+EORTC 55994125 Phase III RCT
+
+Setting
+
+N
+
+FIGO 2009 stage IB2–IIB 626 cervical cancer
+
+Gupta et al124
+
+Phase III, single-­ FIGO 1994 stage IB2, IIA, 633
+
+center RCT
+
+or IIB cervical cancer.
+
+Uterus-­11114
+
+RCT
+
+FIGO 2009 stage IIB–IVA 255 squamous cell carcinoma, adenocarcinoma, adenosquamous carcinoma
+
+CALLA128
+
+Phase III, double FIGO 2009 stage IB2–IIB 770
+
+blind RCT
+
+lymph node positive,
+
+or stage ≥III any lymph
+
+node status; squamous
+
+cell carcinoma,
+
+adenocarcinoma,
+
+adenosquamous
+
+carcinoma
+
+ENGOT-­cx11/
+GOG-­3047/ KEYNOTE-­A1812
+
+Phase III, double-blind, placebo-controlled RCT
+
+High-­risk locally advanced cervical cancer: FIGO 2014 stage IB2–IIB with node-­positive disease or stage III–IVA regardless of nodal status; squamous cell carcinoma, adenocarcinoma, or adenosquamous carcinoma
+
+1060
+
+Treatment Arm 1 (n=314): NACT followed by surgery (NACT-­S) Arm 2 (n=312): CCRT
+Arm 1 (n=316): NACT-­S Arm 2 (n=317): RT
+Arm 1 (n=130): surgical staging Arm 2 (n=125): clinical staging
+Arm 1 (n=385): CRT + placebo Arm 2 (n=385): CRT + durvalumab up to 24 cycles
+Arm 1 (n=529): pembrolizumab-­CRT Arm 2 (n=531): placebo-CRT
+
+Results
+
+Conclusion
+
+The 5-­year overall survival was not significantly different between NACT-­S (72%; 95% CI 66% to 77%) and CCRT (76%; 95% CI 70% to 80%) Short-­term AEs ≥grade 3 occurred more frequently with NACT-­S (41% vs 23%) and long-­term AEs ≥grade 3 more often with CCRT (21% vs 15%). Additional RT after completed NACT-­S was given to 107 patients (48%), and additional surgery to 20 patients (8%) after completed CCRT
+
+NACT-­S is not superior to CCRT. Additional RT was used for a substantial proportion of patients with stage IB2–IIB cervical cancer who were assigned to NACT-­S. CCRT remains the standard of care in this setting
+
+The 5-­year disease-­free survival rate was 69.3% in the NACT-­S cohort and 76.7% in the CCRT group (HR, 1.38; 95% CI 1.02 to 1.87; p=0.038)
+
+Cisplatin-­based CCRT showed superior disease-free survival compared with NACT-­S for patients with locally advanced cervical cancer
+
+Laparoscopic staging led to upstaging in 39 of 120 (33%) patients. However, after a median follow-­up of 90 months (range 1–123) in both arms, there was no difference in disease-free survival between the groups (p=0.084)
+
+No difference in disease-free survival between surgical and clinical staging in patients with locally advanced cervical cancer
+
+12-­month progression-­free survival was 76.0% (95% CI 71.3% to 80.0%) with durvalumab and 73.3% (95% CI 68.4% to 77.5%) with placebo. Serious AEs occurred for 106 (28%) patients who received durvalumab and 89 (23%) patients who received placebo
+
+Durvalumab concurrent with CRT was well tolerated in participants with locally advanced cervical cancer; however, it did not significantly improve progression-­free survival in a biomarker unselected, all comers population
+
+Median 24- month progression-­free survival was 68% for pembrolizumab-­CRT and 57% for placebo-CRT. The HR for disease progression or death was 0.70 (95% CI 0.55 to 0.89; p=0.0020). At 24 months, overall survival was 87% and 81%, respectively (information fraction 42.9%). The HR for death was 0.73 (95% CI 0.49 to 1.07), not reaching statistical significance
+
+The combination of pembrolizumab and CRT demonstrated statistically significant enhancement in progression-­free survival among individuals diagnosed with high-r­isk, locally advanced cervical cancer
+
+Continued
+
+1952
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+Table 1  Continued
+
+Study
+
+Design
+
+OUTBACK131
+
+Phase III, open-label RCT
+
+Setting
+
+N
+
+FIGO 2009 stage IB1
+
+926
+
+disease with nodal
+
+involvement, or stage
+
+IB2, II, IIIB, or IVA
+
+squamous cell carcinoma,
+
+adenocarcinoma,
+
+or adenosquamous
+
+carcinoma
+
+INTERLACE13
+
+Phase III RCT
+
+FIGO 2009 stage IB1 node 500 positive, IB2, II, IIIB, IVA squamous cell carcinoma, adenocarcinoma, adenosquamous carcinoma
+
+Metastatic/recurrent disease
+
+First-­line systemic therapy
+
+GOG 169166
+
+Phase III RCT
+
+Metastatic, recurrent or 264 persistent squamous cell carcinoma of the cervix with measurable disease
+
+GOG 204167
+
+Multicenter, phase Metastatic, recurrent,
+
+434
+
+III RCT
+
+or persistent squamous
+
+cell carcinoma,
+
+adenocarcinoma,
+
+or adenosquamous
+
+carcinoma with
+
+measurable disease
+
+Review
+
+Treatment
+
+Results
+
+Conclusion
+
+Arm 1 (n=461): CRT Arm 2 (n=465): CRT + adjuvant chemotherapy (four cycles of carboplatin/ paclitaxel after completion of CRT)
+
+5-­year overall survival was 72% (95% CI 67% to 76%) in the adjuvant chemotherapy group (105 deaths) and 71% (95% CI 66% to 75%) in the CRT only group (116 deaths; difference 1%(95% CI% −6 to 7%); HR 0.90 (95% CI 0.70 to 1.17; p=0.81). Serious AEs occurred in 107 (30%) in the adjuvant chemotherapy group vs 98 (22%) in the CRT only group, most commonly due to infectious complications
+
+Arm 1 (n=250): CRT Arm 2 (n=250): weekly carboplatin (AUC 2)/ paclitaxel (80 mg/m2) for 6 weeks followed by CRT
+
+5year progression-free survival rate -was 73% with induction chemotherapy and CRT and 64% with CRT alone (HR 0.65; 95% CI 0.46 to 0.91; p=0.013) The corresponding 5-­year overall survival rates are 80% and 72% (HR 0.61; 95% CI 0.40 to 0.91; p=0.04)
+
+Adjuvant carboplatin/ paclitaxel chemotherapy given after standard cisplatin-­based CRT for unselected locally advanced cervical cancer increased short-­term toxicity and did not improve overall survival; therefore, it should not be given in this setting
+Induction chemotherapy followed by CRT significantly improves progression-­free and overall survival in locally advanced cervical cancer
+
+Arm 1 (n=134): cisplatin 50 mg/m2 Arm 2 (n=130): cisplatin 50 mg/m2 + paclitaxel 135 mg/m2 (C+P) every 3 weeks for six cycles
+Arm 1 (n=103): paclitaxel 135 mg/m2 over 24 hours plus cisplatin 50 mg/m2 day 2 every 3 weeks (PC, reference arm) Arm 2 (n=108): vinorelbine 30 mg/m2 days 1 and 8 plus cisplatin 50 mg/m2 day 1 every 3 weeks (VC) Arm 3 (n=112): gemcitabine 1000 mg/m2 day 1 and 8 plus cisplatin 50 mg/m2 day 1 every 3 weeks (GC) Arm 4 (n=111): topotecan 0.75 mg/m2 days 1, 2, and 3 plus cisplatin 50 mg/m2 day 1 every 3 weeks (TC)
+
+The majority of all patients had prior RT (cisplatin 92%; C+P 91%). ORR was in 19% (6% complete plus 13% partial) of patients receiving cisplatin vs 36% (15% complete plus 21% partial) receiving C+P (p=0.002). The median progression-­free survival was 2.8 months and 4.8 months, respectively for cisplatin vs C+P (p<0.001). There was no difference in median survival (8.8 months vs 9.7 months). Grade 3–4 anemia and neutropenia were more common in the combination arm
+
+C+P is superior to cisplatin alone with respect to ORR and progression-­free survival
+
+The experimental-­to-­PC HR of death were 1.15 (95% CI0.79 to 1.67) for VC, 1.32 (95% CI 0.91 to 1.92) for GC, and 1.26 (95% CI 0.86 to 1.82) for TC. The HRs for progression-­free survival were 1.36 (95% CI 0.97 to 1.90) for VC, 1.39 (95% CI 0.99 to 1.96) for GC, and 1.27 (95% CI 0.90 to 1.78) for TC. Response rates for PC, VC, GC, and TC were 29.1%, 25.9%, 22.3%, and 23.4%, respectively
+
+VC, GC, and TC are not superior to PC in terms of overall survival. However, the trend in response rates, progression-­free survival, and overall survival favors PC
+
+Continued
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+1953
+
+Review
+
+Table 1  Continued
+
+Study
+
+Design
+
+Setting
+
+N
+
+JCOG0505168
+
+Multicenter, open-­ Metastatic, recurrent or 253
+
+label, phase III
+
+persistent squamous
+
+RCT
+
+cell carcinoma,
+
+adenocarcinoma,
+
+or adenosquamous
+
+carcinoma. Allowed up to
+
+one prior platinum-­based
+
+regimen
+
+GOG 240132
+
+Multicenter, phase III RCT
+
+Metastatic, recurrent, or 452 persistent with measurable disease
+
+KEYNOTE-­826133
+
+Multicenter, double-­blind, phase III RCT
+
+Metastatic, recurrent or 617 persistent squamous cell carcinoma, adenocarcinoma, or adenosquamous carcinoma
+
+BEATcc/ ENGOT-­ International,
+
+Metastatic, persistent,
+
+410
+
+cx10135
+
+open-­label, phase or recurrent squamous
+
+III RCT
+
+cell carcinoma,
+
+adenocarcinoma,
+
+adenosquamous
+
+carcinoma
+
+Treatment
+
+Results
+
+Conclusion
+
+Arm 1 (n=127): cisplatin/ paclitaxel (TP) Arm 2 (n=126): carboplatin/paclitaxel (TC)
+
+The HR of overall survival was 0.994 (90% CI 0.79 to 1.25; non-i­nferiority p=0.032 by stratified Cox regression). Median overall survival was 18.3 months with TP vs 17.5 months with TC. Among patients who had not received prior cisplatin, overall survival was shorter with TC (13.0 vs 23.2 months; HR 1.571; 95% CI 1.06 to 2.32)
+
+TC was non-i­nferior to TP and should be a standard treatment option for metastatic or recurrent cervical cancer. However, cisplatin remains a key drug for patients who have not received platinum agents
+
+Arm 1 (n=114): cisplatin/ paclitaxel Arm 2 (n=115): cisplatin/ paclitaxel + bevacizumab Arm 3 (n=111): topotecan/ paclitaxel Arm 4 (n=112): topotecan / paclitaxel + bevacizumab
+
+Topotecan-­paclitaxel was not superior to cisplatin-paclitaxel (HR for death 1.20). With the data for the two chemotherapy regimens combined, the addition of bevacizumab to chemotherapy was associated with increased overall survival (17.0 vs 13.3 months; HR 0.71; 98% CI 0.54 to 0.95; p=0.004 in a one-s­ ided test) and higher response rates (48% vs 36%; p=0.008)
+
+The addition of bevacizumab to combined chemotherapy in patients with recurrent, persistent, or metastatic cervical cancer was associated with an improvement of 3.7 months in median overall survival
+
+Arm 1 (n=309): paclitaxel + cisplatin (or carboplatin) with or without bevacizumab + placebo Arm 2 (n=308): paclitaxel + cisplatin (or carboplatin) with or without bevacizumab + pembrolizumab 200 mg every 3 weeks
+
+In patients with a PD-L1 combined positive score≥1, median progression-­free survival was 10.4 months in the pembrolizumab group vs 8.2 months in the placebo group (HR 0.62; 95% CI 0.50 to 0.77; p<0.001). In the intention-­to-­treat population, median progression-­free survival was 10.4 months vs 8.2 months, respectively (HR 0.65; 95% CI 0.53 to 0.79; p<0.001) In patients with a PD-L1 combined positive score≥1, overall survival at 24 months was 53.0% in the pembrolizumab group vs 41.7% in the placebo group (HR 0.64; 95% CI 0.50 to 0.81; p<0.001). In the intention-to-­treat population, overall survival at 24 months was 50.4% vs 40.4% (HR 0.67; 95% CI 0.54 to 0.84; p<0.001)
+
+Progression-­free and overall survival were significantly longer with pembrolizumab than with placebo among patients with persistent, recurrent, or metastatic cervical cancer who were also receiving chemotherapy with or without bevacizumab
+
+Arm 1 (n=204): cisplatin (or carboplatin) + paclitaxel + bevacizumab every 3 weeks Arm 2 (n=206): cisplatin (or carboplatin) + paclitaxel +bevacizumab + atezolizumab 1200 mg every 3 weeks
+
+Median progression-­free survival was 13.7 months (95% CI 12.3 to 16.6) with atezolizumab and 10.4 months (95% CI 9.7 to 11.7) with standard therapy (HR 0.62; 95% CI 0.49 to 0.78; p<0.0001). At the interim overall survival analysis, median overall survival was 32.1 months (95% CI 25.3 to 36.8) vs 22.8 months (95% CI 20.3 to 28.0), respectively (HR 0.68; 95% CI 0.52 to 0.88; p=0.0046)
+
+Adding atezolizumab to a standard bevacizumab plus platinum regimen for metastatic, persistent, or recurrent cervical cancer significantly improves progression-­free and overall survival
+
+Continued
+
+1954
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+Table 1  Continued
+
+Study
+
+Design
+
+Setting
+
+N
+
+Subsequent line of systemic therapy
+
+EMPOWER-­
+
+Multicenter, open-­ Recurrent or metastatic 608
+
+Cervical 1/GOG-­ label, phase III
+
+cervical cancer
+
+3016/ENGOT-cx9137
+
+RCT
+
+progressing after platinum-­containing
+
+chemotherapy. Patients
+
+must have received
+
+taxane and bevacizumab.
+
+It was required to have
+
+measurable disease
+
+KEYNOTE-­158138 Phase II, open-­ Previously treated
+
+98
+
+label basket trial advanced cervical cancer
+
+investigating the
+
+antitumor activity
+
+and safety of
+
+pembrolizumab
+
+in multiple cancer
+
+types
+
+GOG 324/ENGOT-­ Phase Ib/2, open-­ Recurrent or metastatic 142
+
+cx8/innovaTv 205144
+
+label, multicenter study
+
+cervical cancer
+
+GOG 3023/
+ENGOT-­cx6/ innovaTV 204142
+
+Multicenter, open-­ Recurrent or metastatic 102
+
+label, single-­arm, squamous cell carcinoma,
+
+phase II study
+
+adenocarcinoma,
+
+or adenosquamous
+
+carcinoma previously
+
+treated with platinum
+
+doublet chemotherapy
+
+with bevacizumab (two or
+
+fewer systemic regimens),
+
+with measurable disease
+
+Review
+
+Treatment
+
+Results
+
+Conclusion
+
+Arm 1 (n=304): investigator’s choice single agent chemotherapy Arm 2 (n=304): cemiplimab (350 mg every 3 weeks)
+
+Median overall survival was longer in the cemiplimab group than in the chemotherapy group (12.0 vs 8.5 months; HR for death 0.69; 95% CI 0.56 to 0.84; two-­sided p<0.001). In the overall population, ORR occurred in 16.4% (95% CI 12.5 to 21.1) of the patients in the cemiplimab group compared with 6.3% (95% CI 3.8 to 9.6) in the chemotherapy group. ORR occurred in 18% (95% CI 11 to 28) of the cemiplimab-­treated patients with PD-­L1 expression ≥1% and in 11% (95% CI 4 to 25) of those with PD-­L1 expression <1%
+
+Survival was significantly longer with cemiplimab than with single-­agent chemotherapy among patients with recurrent cervical cancer after first-line platinum-­containing chemotherapy
+
+Pembrolizumab 200 mg every 3 weeks for 2 years or until progression, intolerable toxicity, or physician or patient decision
+
+82 patients (83.7%) had PD-­L1-­positive tumors (combined positive score ≥1). ORR was 12.2%, with 3 complete and 9 partial responses. All 12 responses were in patients with PD-­L1-­positive tumors, for an ORR of 14.6%. Treatment-­related grade 3 to 4 AEs occurred in 12.2% of patients
+
+Pembrolizumab monotherapy demonstrated durable antitumor activity and manageable safety in patients with advanced PD-­L1–positive cervical cancer who experienced progression during or after chemotherapy
+
+Dose-­escalation arms (n=41): tisotumab vedotin-tftv (TV) 2 mg/kg plus bevacizumab 15 mg/kg every 3 weeks (arm A), pembrolizumab 200 mg every 3 weeks (arm B), or carboplatin AUC 5 every 3 weeks (arm C) Arm D (n=33): 1L TV + carboplatin Arm E (n=33): 1L TV + pembrolizumab Arm F (n=35): 2L/3L TV + pembrolizumab
+
+In dose escalation (n=41), no drug-l­imiting toxicities were observed. In dose expansion, the ORR was 54.5% (n/N, 18/33; 95% CI 36.4% to 71.9%) with first-­line TV+carboplatin, 40.6% (n/N, 13/32; 95% CI 23.7% to 59.4%) with first-line TV+pembrolizumab, and 35.3% (n/N, 12/34; 95% CI 19.7% to 53.5%) with second-­line/third-line TV+pembrolizumab. The median DOR was 8.6 months, not reached, and 14.1 months in arms 1, 2, and 3, respectively. Grade ≥3 AEs (≥15%) were anemia, diarrhea, nausea, and thrombocytopenia in arm 1 and anemia in arm 3 (none ≥15%, arm 2)
+
+TV in combination with bevacizumab, carboplatin, or pembrolizumab demonstrated manageable safety and encouraging anti-­tumor activity in treatment-­naïve and previously treated recurrent or metastatic cervical cancer
+
+TV 2 mg/kg every 3 weeks until disease progression or unacceptable toxicity
+
+The confirmed ORR was 24% (95% CI 16% to 33%), with 7 (7%) complete responses and 17 (17%) partial responses. Serious treatment-­related AEs occurred in 13 (13%) patients, the most common of which included peripheral sensorimotor neuropathy (2%) and fever (2%)
+
+TV showed clinically meaningful and durable anti-­tumour activity with a manageable and tolerable safety profile in women with previously treated recurrent or metastatic cervical cancer
+
+Continued
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+1955
+
+Review
+
+Table 1  Continued
+
+Study
+
+Design
+
+Setting
+
+N
+
+GOG 3057/
+ENGOT-­cx12/ innovaTV 301143
+
+International, open-­label, phase III RCT
+
+Recurrent or metastatic 502 disease following platinum doublet therapy with or without bevacizumab and with or without anti-P­ D-­L1 therapy. Measurable disease required
+
+DESTINY-PanTumor02145
+
+Open-­label, phase HER2-­expressing (IHC
+
+267
+
+II study
+
+2+/3+) locally advanced or
+
+metastatic disease after
+
+≥1 systemic treatment
+
+or without alternative
+
+treatments
+
+Treatment
+
+Results
+
+Conclusion
+
+Arm 1 (n=253): TV Arm 2 (n=249): investigator’s choice single agent chemotherapy
+
+TV arm had a 30% reduction in risk of death vs chemotherapy (HR 0.70; 95% CI 0.54 to 0.89; p=0.004), with significantly longer median overall survival (11.5 vs 9.5 months). Progression-­free survival was superior in tTV vs chemotherapy arm (median 4.2 vs 2.9 months; HR 0.67; 95% CI 0.54 to 0.82; p<0.001). Confirmed ORR was 17.8% and 5.2% in the TV and chemotherapy arms, respectively (OR 4.0; 95% CI 2.1 to 7.6; p<0.001)
+
+TV showed a statistically significant and clinically meaningful improvement in overall survival, progression-­free survival, and ORR compared with chemotherapy, with a manageable and tolerable safety profile in previously treated patients with recurrent or metastatic cervical cancer
+
+Trastuzumab deruxtecan 5.4 mg/kg every 3 weeks
+
+In all patients, the ORR was 37.1% (n=99; 95% CI 31.3% to 43.2%), with responses in all cohorts. Median DOR was 11.3 months (95% CI 9.6 to 17.8); the median progression-­free survival was 6.9 months (95% CI 5.6 to 8.0); the median overall survival was 13.4 months (95% CI 11.9 to 15.5) In patients with central HER2 IHC 3+ expression (n=75), ORR was 61.3% (95% CI 49.4% to 72.4%). Median DOR was 22.1 months (95% CI 9.6 to not reached); the median progression-­free survival was 11.9 months (95% CI 8.2 to 13.0); the median overall survival was 21.1 months (95% CI 15.3 to 29.6)
+
+HER2-­expressing solid tumors demonstrate durable clinical benefit and meaningful survival outcomes with trastuzumab deruxtecan with the greatest benefit observed in the IHC 3+ population
+
+AE, adverse event; AUC, area under the curve; CCRT, concurrent chemoradiotherapy; CRT, chemoradiotherapy; dMMR, mismatch repair deficient; DOR, duration of response; FIGO, International Federation of Gynecology and Obstetrics; 5-F­ U, 5-­fluorouracil; IGABT, imaging guided adaptive brachytherapy; IHC, immunohistochemistry; LACC, Laparoscopic Approach to Cervical Cancer; LEEP, loop electrosurgical excision procedure; LND, lymphadenectomy; LVSI, lymphvascular space invasion; MIS, minimally invasive surgery; MRI, magnetic resonance imaging; MSI-H­ , microsatellite instability-h­ igh; NACT, neoadjuvant chemotherapy; NFT, no further treatment; ORR, objective response rate; PD-L­ 1, programmed cell death ligand 1; RCT, randomized clinical trial; RR, relative risk; RT, radiotherapy; SCRT, sequential chemoradiotherapy; SLN, sentinel lymph node; TV, tisotumab vedotin-t­ftv.
+
+have implemented primary cervical cancer screening with HPV testing,33 34 coupled with triage testing (reflex cytology, HPV genotyping, p16 immunostaining, and DNA methylation) to decrease the follow-u­ p of transient infections.20 However, there are many barriers to universal adoption of HPV-b­ased screening, which has made primary screening coverage challenging, particularly in low-­income and middle-i­ncome countries.35 Approximately 35% of countries have implemented HPV testing-­based programs and at least 21 countries are in transition from cytology to HPV testing.30 The utilization of HPV testing in screening has the potential to improve the identification of adenocarcinoma.36 In resource-l­imited countries, screening still relies on direct visual inspection using acetic acid. Interestingly, the FDA recently approved the first self-t­est collection kit for HPV, a move that could expand access to screening and reduce barriers.37
+Clinical Presentation The most frequent clinical presentation of cervical cancer is vaginal discharge/bleeding, postcoital bleeding, or intermittent spotting.
+
+Early-­stage cervical cancer is often asymptomatic or associated with vague and nonspecific symptoms that are typically identified during screening programs.38 39 Cervical cancer spreads locally into the vagina, parametrium, uterine corpus, and nearby organs, as well as through lymphatic channels to regional and distant lymph nodes. Metastasis can also occur via hematogenous routes to the lungs, liver, and skeleton.40 Advanced stages may present with a wide range of signs and symptoms, including hematuria, malodorous vaginal discharge, dyspareunia, and pelvic or back pain. Pelvic sidewall involvement may lead to a triad of lower limb edema, flank pain, and sciatica. Rarely, vesicovaginal or rectovaginal fistulas are encountered during initial presentations.41
+Diagnosis Workup for patients with suspicious symptoms includes history, pelvic examination, cervical biopsy/conization biopsy, laboratory tests, and imaging. If a clear lesion is visible or the cervix appears irregular or enlarged during speculum examination, direct biopsy is
+
+1956
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+Review
+
+Figure 1  Pathophysiology of the HPV infection. HPV, human papillomavirus; p53, tumor protein P53; pRB, retinoblastoma protein.
+
+sufficient for diagnosis. Colposcopy with biopsy or conization are performed in cases where a lesion is not macroscopically visible. Cervical conization should not be performed in the setting of a grossly visible lesion.
+Staging Patients with cervical cancer should be staged according to the TNM classification and the revised FIGO 2018 staging system.42 Imaging techniques that may be considered for clinical staging include pelvic ultrasound (performed by a trained sonographer), CT chest-abdomen-­pelvis, abdominal/pelvic MRI, 18-f­luorodeoxyglucose (18FDG) positron emission tomography (PET)/CT, and/or chest radiograph, as indicated and depending on resource availability. Cystoscopy and proctoscopy are recommended only when bladder or rectal extension is suspected (≥FIGO 2018 stage IB3).9–11
+CT has high sensitivity in detecting lymph node and distant metastases and 18FDG-P­ET/CT may add value if CT results are indeterminate.43 MRI has better sensitivity than CT for assessing local tumor extent44; pelvic ultrasound can be a valid alternative if performed by highly experienced sonographers.45 All CT/MRI should be performed with contrast unless contraindicated.46–48 Ongoing research is exploring innovative imaging techniques such as diffusion-w­ eighted imaging MRI,49 50 dynamic contrast-enhanced MRI,51 52 contrast-e­nhanced ultrasound, and hybrid imaging with PET-­MRI.53 54 With the progressive integration of artificial intelligence, these techniques may have the potential to assist clinicians in diagnostic and prognostic assessment at diagnosis, refining risk stratification, guiding decision making and personalized treatments.55
+Treatment Treatment planning should be made in specialized referral centers within a multidisciplinary setting and be tailored to each patient. Patients should be carefully selected and counseled on the standard
+
+treatment and potential alternatives, aligning expectations. Treatment depends on several factors: (a) disease-­related factors (stage at diagnosis, histology, tumor size, parametrial invasion, lymph node involvement); (b) patient-­related factors (age, performance status, desire for fertility, medical comorbidities); (c) resources available at the treating facility (multidisciplinary team, experience, financial resources). Treatment options may vary across countries depending on national guidelines, resources, and reimbursement policies.10 56 Squamous cell carcinomas and usual-­type (HPV-associated) adenocarcinomas are typically treated in a similar manner.57–59
+Early-stage Cervical Cancer The standard primary treatment of early-s­tage (FIGO 2018 stages IA–IB2, IIA1) cervical cancer is surgery followed by observation or adjuvant therapy based on histopathological risk factors on final pathology (Figure 2). Conservative surgical approaches should be considered after careful patient selection. Fertility-­sparing approaches should be reserved for patients with a desire for childbearing and low-r­isk disease (Figure 3). Conservative and fertility-s­paring approaches should be considered only within a multidisciplinary setting with expert gynecological oncologists, pathologists, and radiologists to identify appropriate candidates. Definitive radiotherapy (±concurrent platinum-c­ontaining chemotherapy) may be a valid alternative to surgery in patients deemed to have inoperable cancer due to poor performance status.9–11
+Surgery Three major concepts in the treatment of early-­stage cervical cancer have been examined and have evolved in recent years aiming to optimize oncologic outcomes and tailor less radical surgery to specific patients: (1) surgical approach; (2) criteria
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+1957
+
+Review
+
+Figure 2  Primary non-­fertility-­sparing treatment algorithm for early-­stage cervical cancer. All staging is based on updated FIGO 2018 staging. Treatment planning should be multidisciplinary and individualized. Treatment options may vary across countries depending on national guidelines and socioeconomic factors. *Negative (at least 1 mm) for invasive disease or histologic high-g­ rade squamous intraepithelial lesion (HSIL). If positive margins, repeat cone biopsy or perform simple hysterectomy. Cold-­knife conization is preferable to LEEP or laser conization. Endocervical curettage should be performed as clinically indicated. †Ovarian preservation may be considered in premenopausal women (<45 years of age) with SCC or HPV-a­ ssociated ADC/ADS. °Risk factors may not be limited to the traditional Sedlis criteria. ADC, adenocarcinoma; ADS, adenosquamous carcinoma; BRT, brachytherapy; CCRT, concurrent chemoradiotherapy; CHT, chemotherapy; EBRT, external beam radiotherapy; FIGO, International Federation of Gynecology and Obstetrics; HPV, human papillomavirus; LEEP, loop electrosurgical excision procedure; LVSI, lymphovascular space invasion; PALND, para-a­ ortic lymph node dissection; PLND, pelvic lymph node dissection; SCC, squamous cell carcinoma; SLN, sentinel lymph node.
+
+for conservative surgical approaches; and (3) the role of pelvic SLN biopsy (Figure 2).
+Surgical Approach In 2018, a phase III, multicenter, randomized trial (Laparoscopic Approach to Cervical Cancer—LACC) reported higher recurrence rate and worse overall survival with minimally invasive surgery for early-­stage cervical cancer, establishing the open approach as the standard of care (Table 1).60 The rate of disease-f­ree survival at 4.5 years was 86.0% with minimally invasive surgery and 96.5% with open surgery, a difference of −10.6 percentage points (95% CI −16.4 to −4.7). The final overall survival analysis has recently been published and showed that the overall survival rate at 4.5 years was 90.6% versus 96.2% for the minimally invasive and open surgery groups, respectively (HR for death of any cause 2.71; 95% CI 1.32 to 5.59; p=0.007).61
+Potential theories for these findings have been proposed, including: (1) the impact of CO2 pneumoperitoneum; (2) the lack
+
+of use of peritoneal protective maneuvers to avoid tumor exposure; and (3) the use of a uterine manipulator.62 63 To further clarify this topic, two ongoing randomized controlled trials, RACC64 and ROCC (NCT04831580), are investigating the oncological safety of a robotic versus an open approach. These studies do not allow the use of an intrauterine manipulator and require documentation of standardized surgical techniques for tumor containment.
+Conservative Approaches The type of hysterectomy and extent of parametrectomy (type A-­C2 according to the 2017 revised Querleu-M­ orrow classification) have traditionally been based on preoperative prognostic risk factors (tumor size, maximum stromal invasion, and lymphovascular space invasion), which are used to categorize tumors at low, intermediate, and high risk of recurrence.65 Recent advances in the surgical management of cervical cancer have identified selected patients who may benefit from less radical surgery for early-s­ tage cervical cancer.
+
+1958
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+Review
+
+Figure 3  Primary fertility-­sparing management of early-­stage cervical cancer. All staging is based on updated FIGO 2018 staging. Treatment planning should be multidisciplinary and individualized. Treatment options may vary across countries depending on national guidelines and socioeconomic factors. *Negative (at least 1 mm) for invasive disease or histologic high-­grade squamous intraepithelial lesion (HSIL). If positive margins, repeat cone biopsy or perform simple trachelectomy. Loop electrosurgical excision procedure (LEEP) or laser conization is preferable to cold-k­ nife conization in women wanting to preserve fertility. Endocervical curettage should be performed as clinically indicated. †Radical trachelectomy should be considered if conservative surgery criteria are not met (stromal invasion ≥10 mm on LEEP/cone or ≥50% on MRI). ADC, adenocarcinoma; ADS, adenosquamous carcinoma; FIGO, International Federation of Gynecology and Obstetrics; HPV, human papillomavirus; LVSI, lymphovascular space invasion; NACT, neoadjuvant chemotherapy; PALND, para-a­ ortic lymph node dissection; PLND, pelvic lymph node dissection; SCC, squamous cell carcinoma; SLN, sentinel lymph node; US, ultrasound.
+
+The ConCerv trial, a prospective, single-­arm, multicenter study, examined the feasibility of conservative surgery to reduce surgical complications and morbidity in low-­risk, early-s­tage cervical cancer (Table 1).66 Eligibility criteria included: (1) FIGO 2009 stage IA2–IB1 cervical cancer; (2) squamous cell (any grade) or adenocarcinoma (grade 1 or 2 only) histology; (3) tumor size <2 cm; (4) no lymphovascular space invasion; (5) depth of invasion <10 mm; (6) negative imaging for metastatic disease; and (7) negative conization margins. Cervical conization was performed to determine eligibility, with one repeat cone permitted. Patients who met these inclusion criteria underwent a second surgery with pelvic lymph node assessment (if fertility preservation was desired) or a simple hysterectomy with lymph node assessment. The 2-y­ ear cumulative recurrence rate in the study population was 3.5% (95% CI 0.9% to 9.0%).66
+The randomized phase III SHAPE trial recently evaluated simple hysterectomy compared with radical hysterectomy in a non-inferiority design (Table 1).67 This study included patients with squamous cell carcinoma, adenocarcinoma, or adenosquamous carcinoma of any histologic grade, with or without lymphovascular space involvement, FIGO 2009 stage IA2 or IB1 with tumors measuring no more than 2 cm, and with limited depth of cervical stromal invasion (invasion of <50% of stromal tissue or to a depth of <10 mm, or both). Notably, 80.2% of patients had undergone diagnostic loop electrosurgical excision procedure or conization before surgery. Findings demonstrated simple hysterectomy was not inferior to radical hysterectomy with respect to the 3-­year incidence of
+
+pelvic recurrence (absolute difference of 0.35 percentage points; 90% CI −1.62 to 2.32).67
+Results from the GOG 278 trial were presented at the 2024 Society of Gynecologic Oncology (SGO) annual meeting (Table 1).68 This phase I/II multicenter prospective trial aimed to evaluate the impact of non-r­adical surgical treatment, either simple hysterectomy or cone biopsy (for fertility preservation) and pelvic lymphadenectomy, on functional outcomes of bladder, bowel, and sexual function and on the incidence and severity of lymphedema in patients with FIGO 2009 stage IA1 (lymphovascular space invasion present) and IA2–IB1 (≤ 2 cm) cervical cancer with depth of stromal invasion ≤10 mm and no evidence of metastasis on radiologic staging. Of the 201 patients eligible for survival analysis, only three experienced a recurrence, suggesting that non-­radical surgery for early-­stage cancer appears safe and is associated with low perioperative morbidity.
+Sentinel Lymph Node Biopsy While there is no doubt that lymph node assessment is a crucial part of surgical staging in cervical cancer, there is no consensus on the appropriate modality: pelvic (±para-a­ortic) systematic lymphadenectomy and/or SLN biopsy. Systematic lymphadenectomy has traditionally been considered the standard of care. However, SLN biopsy without systematic pelvic lymphadenectomy has recently emerged as a reasonable strategy in early-stage cervical tumors <4 cm that is associated with less morbidity than pelvic lymphadenectomy. The SENTIX/ENGOT-­cx2 trial was
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+1959
+
+Review
+a single-­arm, multicenter, prospective cohort study to evaluate whether SLN biopsy is non-i­nferior to systematic pelvic lymphadenectomy in terms of recurrence rate in early-s­tage cervical cancer (Table 1).69 Eligible patients had FIGO 2009 stage IA1 with lymphovascular space invasion, IA2, and IB1 (<2 cm for fertility sparing) with negative lymph nodes on preoperative imaging. In the SENTIX trial, the recurrence rate after SLN biopsy was 6%, which is non-­inferior to the reference recurrence rate of 7% after pelvic lymphadenectomy in historical cohorts. SLN biopsy showed a bilateral detection rate of 92.3% and was able to detect lymph node involvement in more than 56% of cases by frozen section and over 90% after ultrastaging. These recent findings are consistent with meta-­analyses of pooled data from SLN mapping studies reporting SLN detection rates of 89–92%, sensitivity of ~90%, and negative predictive value >98%.70–72 All suspicious or grossly enlarged nodes should be removed at the time of surgical staging regardless of SLN mapping. An ancillary analysis of two prospective multicentric trials (SENTICOL I and II) on SLN biopsy for cervical cancer also suggested that omitting systematic pelvic lymphadenectomy for patients with bilateral negative SLN was not associated with an increased risk of recurrence.73 The results of the ongoing SENTICOL III validation study of SLN biopsy in early cervical cancer are eagerly awaited.74
+Another area of controversy is whether to routinely perform SLN frozen section evaluation. While the European Society of Gynecological Oncology (ESGO) 2023 guidelines11 recommend intraoperative assessment of lymph node status by frozen section, other guidelines such as the National Comprehensive Cancer Network (NCCN),9 the Japanese Society of Gynecologic Oncology,75 and the Korean Society of Gynecologic Oncology (KSGO)76 do not comment on intraoperative lymph node assessment. A recent meta-a­ nalysis showed the pooled sensitivity of intraoperative frozen section analysis was 65% for macrometastases, micrometastases, and isolated tumor cells, and 72% when patients with isolated tumor cells were excluded.77 The rationale for SLN frozen section is that it may prevent unnecessary surgery in patients with positive SLN on frozen section who should be referred to definitive concurrent chemoradiation, avoiding the increased toxicity associated with combined modalities.78 79
+If no SLNs are detected on either side, systematic dissection should be performed on the ipsilateral no-­mapping side. All sentinel nodes should be processed with ultrastaging. Para-­aortic lymphadenectomy (at least to the inferior mesenteric artery) may be considered in patients with FIGO 2018 stage ≥IB1, even though there is limited and controversial evidence to suggest either a therapeutic benefit or a diagnostic role due to the low risk of isolated para-­aortic metastasis.80
+Fertility-sparing Approaches Cervical cancer is frequently diagnosed in women of reproductive age, with one third of patients younger than 45 years, and 40% nulliparous or with only one child at diagnosis.81 Thus, there is a growing need for fertility-­sparing strategies for women with cervical cancer who have not yet completed childbearing. Fertility-sparing approaches may be considered in highly selected patients who have been thoroughly counseled regarding oncologic and obstetric risks (Figure 3). Consultation at a center with experience in oncofertility and discussion of each case in a multidisciplinary
+
+team are essential before offering fertility-s­paring treatment. The specific goal of fertility-­sparing surgery is complete resection of the tumor with adequate free margins and preservation of the upper cervix.
+Fertility-­sparing surgical options include cervical conization, simple trachelectomy, vaginal radical trachelectomy, and radical abdominal trachelectomy. Neoadjuvant chemotherapy followed by conservative surgery is considered an alternative approach, although without any prospective evidence to confirm its oncologic safety. Negative lymph node status is required for fertility-sparing approaches and preoperative imaging has a crucial role to rule out nodal involvement. Surgical lymph node staging follows the same principles of non-­fertility-­sparing management and can be performed through a minimally invasive approach. Surgical lymph node staging can be performed using different approaches based on national guidelines and availability of resources: (1) SLN biopsy (with or without frozen section) and fertility-­sparing procedure in the same surgery; (2) systematic pelvic lymphadenectomy and fertility-­sparing procedure in the same surgery; (3) two-s­tep approach first performing lymph node assessment (either SLN or systematic pelvic lymphadenectomy) and then fertility-s­paring surgery only in patients with negative lymph nodes on definitive pathology.9–11 Intraoperative placement of permanent cerclage should be performed after trachelectomy. Routine hysterectomy after completion of childbearing is not mandatory.
+Vaginal radical trachelectomy has traditionally been the most widely used fertility-­sparing procedure since its development in the early 1990s,82 with recurrence, pregnancy, and live birth rates for tumors <2 cm of 4.7%, 58.7%, and 71%, respectively.83 Patients with favorable tumor features (tumor size ≤2 cm, absence of lymphovascular space invasion, depth of invasion <10 mm, and negative lymph nodes) have a risk of parametrial involvement <1%84 85 and can be excellent candidates for more conservative procedures (conization or simple trachelectomy).86 87 The ConCerv66 and GOG 278 trials68 reported on fertility outcomes of patients with cervical cancer treated with conization and pelvic node assessment and suggested that this conservative strategy is safe and can lead to successful fertility outcomes in selected patients with low-risk early-­stage cervical cancer (Table 1). In the ConCerv trial, 14 pregnancies have been reported among 11 of 40 women (27.5%) who underwent fertility-­sparing surgery and remained in the study. Of these 14 pregnancies, 13 (92.9%) delivered at term.66 Among the 68 patients who underwent fertility-­sparing surgery and were eligible for analysis in the GOG 278 trial, 31 patients attempted to conceive and 16 pregnancies (15 patients) were obtained, including nine full-­term pregnancies.68
+Fertility-­sparing approaches are contraindicated in tumors >2 cm and should be considered experimental for selected FIGO 2018 stages IB2–IB3.88 Low recurrence rates have been observed after radical trachelectomy using an abdominal laparotomic approach (4.8%); however, laparotomy has been associated with poor fertility outcomes (pregnancy rate: 36%; live birth rate: 66.6%).83 Platinum-based neoadjuvant chemotherapy before fertility-s­paring surgery has been explored to shrink tumors that would not be amenable to upfront fertility-­sparing approaches.89 90 This multimodal approach is associated with better obstetric outcomes, with a pregnancy rate of 74.5% and a live birth rate of 78.7%83; however, oncologic outcomes remain controversial (recurrence rates between
+
+1960
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+0 and 22.2%).91 92 Although there are no clear recommendations on the safety and standardization of neoadjuvant chemotherapy schemes, an ongoing phase II trial will clarify the oncologic and fertility outcomes in women with FIGO 2018 stage IB2 cervical cancer treated with three cycles of neoadjuvant chemotherapy and conservative surgery (CoNteSSA trial).93 The primary outcome is to evaluate the rate of functional uterus defined as successful fertility-sparing surgery and no need for postoperative adjuvant therapy.
+Adjuvant Therapy Adjuvant management after surgery for early-s­ tage cervical cancer is still largely debated and should be individualized based on histopathological risk factors on definitive pathology (Figure 2). Patients with at least one of three high-­risk GOG-­109 criteria (Peters criteria), such as positive margins, lymph nodes, or parametria, have a high risk of recurrence (25–30%) and adjuvant platinum-­based chemoradiotherapy with or without vaginal brachytherapy boost is accepted as standard of care (Table 1).94 Notably, recent results of the NRG oncology/RTOG 0724/GOG-0­ 724 study presented at the 2024 American Society of Clinical Oncology (ASCO) Annual Meeting showed no survival benefit for the addition of systemic chemotherapy following chemoradiotherapy in patients with cervical cancer and high-r­isk factors after radical hysterectomy (Table 1).95 In the absence of high-r­isk criteria, patients meeting at least two of intermediate-­risk GOG-­92 criteria (Sedlis criteria), such as lymph vascular space invasion, >1/3 stromal invasion, and bulky tumor (largest dimension ≥4 cm), have historically been considered at intermediate risk of recurrence (15–20%) and receive adjuvant external pelvic radiotherapy±concurrent chemotherapy±vaginal brachytherapy boost (Table 1).96–98 Patients who do not meet either criterion have generally been considered at low risk of recurrence.
+However, the Sedlis criteria were established 25 years ago, and since then there have been tremendous advances in imaging modalities, surgical approaches, radiotherapy techniques, and diagnostic and molecular pathology. The population analyzed by Sedlis et al in 1999 is likely to be different from patients with cervical cancer undergoing hysterectomy today. There is currently wide heterogeneity in the definition of intermediate-­risk and low-­risk early-­stage cervical cancer across centers. Several alternative criteria, such as modified Sedlis criteria or the GOG score, have been developed over time to guide postoperative decision making in clinical practice.99 100 The best management for patients meeting only one of the Sedlis criteria and/or having other potentially important risk factors (high grade, age<50 years, non-s­ quamous histology, Silva pattern of stromal invasion, pathological tumor-­free distance, close surgical margins) remains controversial.
+Postoperative management in the intermediate-­risk population is still largely debated and heterogeneous. The benefit of adding chemotherapy to radiotherapy seems to be minimal.101 Moreover, the need for adjuvant therapy has recently been questioned. A recent sub-­analysis of the SCCAN study evaluating 692 patients (274 observed after surgery and 418 who received radiotherapy or chemoradiotherapy) suggested that patients with intermediate-r­isk early-­stage cervical cancer who are treated with adequate radical surgery alone achieve similar survival rates compared with those who receive adjuvant therapy.102 The 5- year disease-­free survival (83.2% vs 80.3%; p=0.365) and overall survival (88.7% vs 89.0%; p=0.281) were not significantly different between the two groups. A
+
+Review
+recent meta-­analysis by Gómez-­Hidalgo et al also reported similar recurrence and mortality rates for patients undergoing observation versus adjuvant treatment.103
+Reaching an evidence-­based consensus for the definition and management of intermediate-r­isk early-s­tage cervical cancer has important practical implications. Avoiding unnecessary combined regimens with surgery and radiotherapy whenever possible should be part of the therapeutic goals to preserve quality of life and sexual function. Several ongoing trials (CERVANTES/ ENGOT-­cx16 (NCT04989647),104 ACCEPT (NCT05277688), GOG 263 (NCT01101451, NCT04723875)) are currently investigating the role of different types of adjuvant therapy after surgery for early-stage cervical cancer.
+Locally Advanced Cervical Cancer Standard Treatment Concurrent cisplatin-­containing chemoradiation plus brachytherapy is the standard of care for patients with locally advanced cervical cancer or patients who are not candidates for surgery. In 1999, five clinical trials demonstrated that concurrent chemoradiation reduced the risk of death by 30–50% compared with radiotherapy alone.94 105–108 A subsequent Cochrane meta-­analysis reported a 19% relative reduction in the risk of death with chemoradiotherapy compared with radiotherapy (HR 0.81; 95% CI 0.71 to 0.91; p<0.001), which translates into an absolute survival benefit of 6% (from 60% to 66%) at 5 years.109 Figure 4 shows the primary treatment algorithm for locally advanced cervical cancer (FIGO 2018 stages IB3, IIA2–IVA).
+Fertility preservation options such as oocyte, embryo or ovarian tissue preservation, and oocyte donation should be discussed with patients. Ovarian transposition may be considered before pelvic radiotherapy to preserve endocrine function for selected patients <45 years of age with squamous cell cancer or usual-t­ype (HPV-­associated) adenocarcinoma, except in the case of positive nodes.110–113
+Para-aortic Lymph Node Staging Historically, it has been widely debated whether para-­aortic lymphadenectomy provides a therapeutic benefit or has a diagnostic role to avoid extended-­field radiotherapy in patients with clinically negative para-­aortic lymph nodes.80 Routine adoption of this approach into clinical practice is highly heterogeneous among institutions worldwide.
+However, the role of lymphadenectomy has been strongly challenged by recent evidence. The prospective multicenter randomized Uterus-­11 trial compared surgical (pelvic and para-a­ortic lymphadenectomy) versus imaging (abdominal CT and/or MRI and chest radiograph, CT or PET-­CT) staging prior to primary chemoradiation for locally advanced cervical cancer and demonstrated no statistically significant difference in disease-f­ree survival between the two groups after a median follow-­up of 90 months (Table 1).114 Therefore, systematic para-­aortic lymphadenectomy should not be recommended. Extended-­field para-­aortic radiation can be considered based on the presence and number of positive pelvic nodes (more than two level I nodes or at least one level II (common iliac) nodes) or tumor size (>2 cm).115–117
+Routine preoperative PET/CT imaging as an advanced diagnostic tool has the potential to further improve the reliability of preoperative
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+1961
+
+Review
+
+Figure 4  Primary treatment for locally advanced cervical cancer. All staging is based on updated FIGO 2018 staging. Treatment planning should be multidisciplinary and individualized. Treatment options may vary across countries depending on national guidelines and socioeconomic factors. *Pelvic exenteration is generally indicated as the last therapeutic option for patients with advanced, persistent, or recurrent cervical cancer and should be considered an individualized approach after careful patient selection and counseling by a multidisciplinary team in specialized centers. †Ovarian preservation may be considered in premenopausal women (<45 years of age) with squamous cell carcinoma or HPV-a­ ssociated adenocarcinoma. BRT, brachytherapy; CCRT, concurrent chemoradiotherapy; CHT, chemotherapy; EBRT, external beam radiotherapy; FIGO, International Federation of Gynecology and Obstetrics; HPV, human papillomavirus; LACC, locally advanced cervical cancer; NACT, neoadjuvant chemotherapy; PALND, para-­aortic lymph node dissection; PLND, pelvic lymph node dissection.
+
+radiologic staging, with a sensitivity of 75% and specificity of 92% for detecting lymph node metastases in the para-a­ ortic region.118 Patients in the Uterus-1­ 1 trial did not routinely undergo preoperative PET-­CT. The PAROLA trial is assessing whether para-­aortic surgical staging followed by tailored chemoradiation improves disease-f­ree survival while avoiding unnecessary extended-­field chemoradiation compared with radiologic PET/CT staging alone in patients with stage IIIC1 cervical cancer, the subset at higher risk of positive para-­aortic lymph nodes.119 However, it should be noted that requiring preoperative PET/CT staging for every patient may limit applicability to the real-­world setting due to disparities in the availability of diagnostic resources. PET/CT imaging is not available in 95% of low-­income countries and 92% of lower-­middle-­income countries; therefore, treatment standards may vary across countries depending on available resources.120
+Radical Surgery versus Chemoradiotherapy Radical surgery (with or without neoadjuvant chemotherapy) as a potential alternative to standard concurrent chemoradiotherapy for locally advanced cervical cancer remains controversial.121–123 Two recent randomized clinical trials (Gupta et al124 and EORTC 55994124) failed to demonstrate superiority of the neoadjuvant chemotherapy-surgery approach compared with concomitant chemoradiotherapy; therefore, concomitant chemoradiotherapy remains the standard of care for locally advanced cervical cancer (Table 1).
+Nonetheless, radical surgery after neoadjuvant chemotherapy may yield non-i­nferior overall survival outcomes with acceptable toxicity and health-­related quality of life in selected patients with FIGO 2018 stage IB3/IIA2 cervical cancer.124 125 In particular, radical
+
+surgery may be considered an alternative approach to radiotherapy for patients with FIGO 2018 stage IB3/IIA2 disease in the following scenarios: (1) young patients who decline radiotherapy for concerns about possible radiotherapy-­induced toxicity and want to preserve overall quality of life and sexual function; (2) poor availability and/or accessibility to adequate radiotherapy facilities, especially in low-i­ncome countries; (3) contraindications to radiotherapy (active inflammatory bowel disease, inability to maintain patient positioning, prior radiotherapy).10 126 127 Patients should be discussed by a multidisciplinary team and counseled about the advantages and disadvantages of both treatment options (surgery vs radiotherapy). To avoid the combination of radical surgery and postoperative radiotherapy, decision making regarding adjuvant management after radical surgery should not be rigorously based on traditional selection criteria for adjuvant treatment, but should be individualized.11
+Novel Approaches Immunotherapy has demonstrated activity not only in the management of metastatic, persistent, and recurrent cervical cancer but more recently in locally advanced cases. While the addition of durvalumab (anti-­programmed cell death ligand 1 (PD-­L1) immune checkpoint inhibitor) to chemoradiation therapy for locally advanced cervical cancer did not provide a survival benefit in the randomized phase III CALLA trial,128 the results of the randomized phase III KEYNOTE-­A18/ENGOT-­cx11 trial demonstrated the efficacy and safety of pembrolizumab (anti-P­ D-­1 immune checkpoint inhibitor) versus placebo in combination with concurrent chemoradiotherapy (Table 1).12 Key differences between the CALLA and KEYNOTE-A­ 18
+
+1962
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+trials include the different type of immune checkpoint inhibitor (anti-­PD-­L1 vs anti-P­ D-­1, respectively) and patient risk factors. The CALLA study enrolled lower risk patients with approximately 10% positive para-a­ ortic lymph nodes versus 22% in the KEYNOTE-A­ 18.
+The KEYNOTE-­A18 study included patients with high-­risk locally advanced cervical cancer: FIGO 2014 stage IB2–IIB with node-positive disease or FIGO 2014 stage III–IVA disease.12 Patients in the experimental arm received pembrolizumab 200 mg via intravenous infusion every 3 weeks for five cycles in combination with chemoradiotherapy (with single-a­gent cisplatin), followed by 400 mg of pembrolizumab intravenously every 6 weeks until disease progression, unacceptable toxicity, or for up to 24 months (further 15 cycles). The primary endpoints were progression-f­ree survival and overall survival. Compared with chemoradiation alone, the addition of pembrolizumab demonstrated a statistically significant improvement in 24-m­ onth progression-f­ree survival in the overall population (68% vs 57%; HR 0.70; 95% CI 0.55 to 0.89; p=0.002). Exploratory subgroup analyses showed that the benefit was primarily attributed to patients with FIGO 2014 stage III–IVA disease. As a result, the FDA approved pembrolizumab with chemoradiotherapy only for patients with FIGO 2014 stage III–IVA cervical cancer. In a recent press release, it was anticipated that a pre-specified interim analysis also demonstrated a statistically significant improvement in overall survival.129
+Immunotherapy may have a promising role earlier in the treatment paradigm of cervical cancer. The combination of neoadjuvant chemo-­immunotherapy with surgery holds potential as a novel therapeutic approach for locally advanced cervical cancer. The single-­arm, phase 2 NACI study showed promising antitumour activity (objective response rate: 98%) and a manageable toxicity profile for the combination of camrelizumab (anti-­PD-­1) with neoadjuvant chemotherapy in patients with FIGO 2018 stage IB3, IIA2, or IIB/IIIC1r with a tumor diameter ≥4 cm.130 The ongoing single-a­ rm, phase 2 MITO CERV 3 trial (NCT04238988) is evaluating the role of pembrolizumab combined with three cycles of platinum-­based chemotherapy as neoadjuvant treatment before radical surgery for patients with FIGO 2009 stage IB2–IIB disease.
+Furthermore, while the multicenter randomized OUTBACK trial failed to demonstrate a survival benefit for patients who received adjuvant carboplatin/paclitaxel-­based chemotherapy after concurrent chemoradiotherapy at the expense of a higher toxicity,131 results from the INTERLACE trial presented at the 2023 ESMO congress might be practice changing (Table 1).13 This randomized multicenter study involving 500 patients evaluated short-course weekly induction with six cycles of carboplatin AUC2 plus paclitaxel 80 mg/m2 administered before concurrent chemoradiotherapy. Even though methodological concerns have been raised about the type of radiation therapy and the enrollment timeline, induction chemotherapy was shown to significantly improve 5-­year progression-­free (73% vs 64%; HR 0.65; 95% CI 0.46 to 0.91; p=0.013) and overall survival (80% vs 72%; HR 0.61; 95% CI 0.40 to 0.91; p=0.04) and was feasible in diverse healthcare settings and countries, which adds value considering that most cases are diagnosed in low-­income countries with limited resources.13
+Metastatic, Persistent, or Recurrent Cervical Cancer The management of metastatic, persistent or recurrent cervical cancer poses a significant clinical challenge and depends on
+
+Review
+multidisciplinary assessment of clinical factors and patient goals, including age, performance status, location and extent of disease, prior treatment modalities, treatment-­free interval, and patient preferences. The standard of care is based primarily on systemic therapies and enrollment in clinical trials is strongly encouraged. For recurrent cervical cancer, repeat biopsy could be considered to perform molecular/genetic analysis and identify targetable biomarkers, including PD-­L1, MMR, HER2, tumor mutational burden, NTRK and RET gene fusion testing. Early involvement of a palliative care specialist is advised. Best supportive care should be provided in patients unfit to receive further treatments.9 11
+Disease Not Amenable to Local Treatment The management of metastatic, persistent, or distant recurrent cervical cancer not amenable to local treatment is outlined in Figure 5. Based on the practice-­changing results from the GOG 240132 and KEYNOTE-­826 trials,133 platinum-­based chemotherapy±bevacizumab±(anti-­PD-­1) pembrolizumab (in patients with PD-­L1 positive tumors, assessed as combined positive score ≥1) is the current first-l­ine treatment of choice (Table 1). The phase III, randomized GOG 240 trial demonstrated that the addition of bevacizumab (15 mg/m2 every 3 weeks until disease progression or unacceptable toxicity) to combination chemotherapy (cisplatin 50 mg/m2 plus paclitaxel 135–175 mg/m2) in patients with recurrent, persistent, or metastatic cervical cancer was associated with an improvement of 3.7 months in median overall survival.132 It should be noted that bevacizumab has been associated with an increased risk of hypertension, thromboembolic events, gastrointestinal fistulas and perforations, and delayed wound healing; therefore, caution should be exercised to exclude any individual contraindications. In the phase III, randomized KEYNOTE-8­ 26 trial, progression-­free and overall survival were significantly longer with pembrolizumab (200 mg every 3 weeks until disease progression, unacceptable toxicity, or for up to 35 cycles) than with placebo among patients with persistent, recurrent, or metastatic cervical cancer who were also receiving chemotherapy with or without bevacizumab.133 Since no benefit was found for tumors not expressing PD-L­ 1 (combined positive score <1), the FDA approved the addition of pembrolizumab for tumors with PD-L­1 combined positive score ≥1. Locoregional therapies may be combined with systemic treatment, such as (1) pelvic radiotherapy in the case of complete response of distant metastases with response or stability of pelvic disease; or (2) surgical resection or radiotherapy for residual extrapelvic oligometastatic disease.134
+The BEATcc trial showed that the anti-­PD-­L1 immune checkpoint inhibitor atezolizumab (1200 mg every 3 weeks until disease progression or unacceptable toxicity) significantly improved progression-­free and overall survival when combined with standard platinum-b­ ased chemotherapy plus bevacizumab, paving the way for another practice-c­ hanging strategy in this setting (Table 1).135 Moreover, chemotherapy-­free immunotherapy with nivolumab alone or in combination with ipilimumab provided encouraging durable responses with manageable toxicity in recurrent or metastatic HPV-­associated cervical cancer, regardless of tumor PD-L­ 1 expression, according to updated findings from the phase I/II CheckMate-­358 trial.136
+Second-­line treatment should include immunotherapy if not previously administered. The phase III, randomized EMPOWER-­Cervical
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+1963
+
+Review
+
+Figure 5  Management of metastatic, persistent, or distant recurrent cervical cancer. Treatment planning should be multidisciplinary and individualized. Treatment options may vary across countries depending on national guidelines and socioeconomic factors. CHT, chemotherapy; CR, complete response; PD-L­ 1 CPS, programmed cell death ligand 1 combined positive score; PR, partial response; RT, radiotherapy.
+
+1/GOG-­3016/ENGOT-­cx9 trial demonstrated that cemiplimab (anti-PD-1­ immune checkpoint inhibitor; 350 mg every 3 weeks until disease progression, unacceptable toxicity, or for up to 96 weeks) significantly improves overall survival compared with single-a­ gent chemotherapy in patients with recurrent cervical cancer after first-­line platinum-­containing chemotherapy, regardless of PD-L­1 status (Table 1).137 In addition, the phase II KEYNOTE-­158 basket study showed that pembrolizumab monotherapy (200 mg every 3 weeks until progression, unacceptable toxicity, or for up to 2 years) provides durable anti-t­umor activity and manageable safety in patients with advanced PD-L­ 1-p­ ositive cervical cancer who experienced progression during or after chemotherapy (Table 1).138 Estimates of PD-­L1 expression in cervical cancer are 71% in squamous cell carcinoma and 33% in adenocarcinoma.137 Pembrolizumab has additional FDA-a­pproved biomarkers, such as microsatellite instability-h­igh (MSI-­H)/mismatch repair deficiency (MMRd) and tumor mutational burden-­high (≥10 mutations/megabase), which have prevalence rates of 2.6–11.3% and 21.3%, respectively, in cervical cancer.139–141
+Standard chemotherapy can be considered in patients who had already received immunotherapy.9 11 In addition, based on the
+
+results from the phase II ENGOT-­cx6/InnovaTV 204 trial142 and the phase III ENGOT-­cx12/InnovaTV 301 trial,143 tisotumab vedotin-­tftv has recently been approved for patients with disease progression on or after standard chemotherapy±bevacizumab±anti-P­D-­(L)1 therapy. Tisotumab vedotin-t­ftv is an antibody-­drug conjugate and acts by combining the targeting properties of tissue factor directed monoclonal antibodies with the anti-­cancer activity of a microtubule inhibitor payload. The target is the tissue factor, which is highly expressed on many solid tumors, but it is not used as a biomarker for patient selection. In the phase III innovaTV 301 study, tisotumab vedotin-­tftv showed a statistically significant and clinically meaningful improvement in overall survival, progression-f­ree survival, and objective response rate versus chemotherapy, with a manageable and tolerable safety profile, although particular attention should be paid to potential ocular toxicity (Table 1).143 Interestingly, the phase Ib/II ENGOT-c­ x8/InnovaTV205 trial suggested that tisotumab vedotin-­tftv may have a promising role when combined with carboplatin or pembrolizumab in the first-­line setting and with pembrolizumab in the recurrent setting.144
+The pipeline of novel biomarker-d­riven targeted treatments is constantly evolving, and more treatment options are expected
+
+1964
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+Review
+
+Figure 6  Treatment algorithm for locoregional and oligometastatic recurrent cervical cancer. Treatment planning should be multidisciplinary and individualized. Treatment options may vary across countries depending on national guidelines and socioeconomic factors. BRT, brachytherapy; CHT, chemotherapy; EBRT, external beam radiotherapy; IORT, intraoperative radiotherapy; LEER, laterally extended endopelvic resection; RT, radiotherapy.
+
+to be available in the near future. Immune checkpoint inhibitors and antibody-­drug conjugates are the cornerstone of this new era of precision oncology in cervical cancer. The FDA recently granted accelerated approval to fam-­trastuzumab deruxtecan-nxki (antibody-d­rug conjugate targeting HER2) for adult patients with unresectable or metastatic HER2-e­xpressing (immunohistochemistry 3+) solid tumors who have received prior systemic treatment and have no satisfactory alternative treatment options. Positive results from the primary analysis of the phase II DESTINY-PanTumor02 trial showed that fam-­trastuzumab deruxtecan-­nxki provided durable responses and clinically meaningful survival benefit in multiple HER2-e­xpressing advanced solid tumors, including cervical cancer (Table 1).145 Single-­agent larotrectinib and entrectinib are indicated for NTRK gene fusion tumors, with cervical cancer showing a 1.5% NTRK gene fusion positivity rate.146 Selpercatinib is designated for RET gene fusion tumors, and cervical cancer has a 1.52% occurrence of altered RET.147
+Disease Amenable to Local Treatment The treatment algorithm for recurrent cervical cancer amenable to local therapy, including locoregional and oligometastatic disease, is outlined in Figure 6. Multifocal local relapse or multiple/distant metastases (non-o­ligometastatic disease) not amenable to local therapies should be treated like metastatic disease. Locoregional pelvic recurrences are classified into central (if the tumor is confined to the vagina, bladder, rectum, and/or parametrium) or non-­central/lateral (if the tumor involves the muscles and vasculature of the lateral pelvic wall). Oligometastatic disease refers to cases with one to five metastatic or recurrent lesions.9 148 149 In the case of suspected tumor persistence or recurrence, histological verification by biopsy is strongly recommended if feasible before treatment planning.
+
+The treatment for locoregional relapse depends on whether the patient has had previous radiotherapy. Previously irradiated patients should be considered for surgery. Pelvic exenteration is generally indicated as the last therapeutic option for patients with advanced, persistent, or recurrent cervical cancer and should be considered an individualized approach after careful patient selection and counseling by a multidisciplinary team in specialized centers.9–11 150 It is generally recommended for central pelvic recurrence (<2 cm) in the absence of pelvic sidewall involvement, extrapelvic nodes, or peritoneal disease. Extended pelvic surgery (laterally extended endopelvic resection)±intraoperative radiotherapy can also be considered in carefully selected cases with pelvic sidewall involvement. In the era of targeted therapies, systemic therapy could be considered before and/or after surgery for locoregional recurrence. For patients who wish to avoid pelvic exenteration, systemic treatment alone remains a viable option, especially in the bevacizumab/ immunotherapy-­naïve setting. Individualized re-i­rradiation with external beam radiotherapy±chemotherapy can be also considered an alternative to surgical resection for locoregional relapse after primary radiotherapy.
+Radiotherapy-­naïve patients and those with outside-f­ ield relapses should be treated with external beam radiotherapy±chemotherapy±brachytherapy. Surgical resection±intraoperative chemotherapy is another option. Brachytherapy alone might be considered for small superficial vaginal relapses (<5 mm thickness). For highly selected patients with isolated distant metastases (nodal, lung, liver, bone), either at initial diagnosis or at relapse, amenable to local therapy, combined locoregional treatment modalities including surgery, external beam radiotherapy±concurrent chemotherapy, and/or local ablative therapies might be considered, possibly followed by adjuvant systemic therapy.9–11
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+1965
+
+Review
+Prognosis and Surveillance For all comers with cervical cancer, 5-y­ ear overall survival is around 67%. The prognosis of early-­stage disease is significantly better than later stages, with 5-y­ear overall survival rates of >80–90% for early stages, ~60% for locally advanced cervical cancer, 30–35% in cases of positive locoregional lymph nodes, and<20% for distant metastatic disease. Approximately one-t­hird of women with cervical cancer experience a recurrence during follow-­up, with most relapses (>75%) occurring within the first 2–3 years after treatment.9–11
+Oncologic follow-­up aims to detect recurrence and/or secondary cancers, monitor quality of life, manage long-­term sequelae, and provide holistic supportive care. There is no standard protocol for post-­treatment follow-­up, which should be individualized based on individual prognostic factors, treatment modalities (fertility-sparing approaches), symptoms, and personal preferences.151 Only 26–36% of recurrences are diagnosed during routine follow-­up,152 while the majority of recurrences are symptomatic.153 A reasonable approach for patients with cervical cancer who have had complete response after primary treatment includes: (a) clinical re-e­valuation every 3–6 months for the first 2 years, every 6–12 months for another 3–5 years, then annually; (b) imaging assessment (US, CT, MRI, PET-C­ T) every 6–12 months for the first 2 years, then annually at least for other 3 years.152 154 Up to 45–50% of relapses are localized within the pelvis, while locoregional extrapelvic and distant metastases are less frequent. Therefore, physical examination is crucial for cervical cancer surveillance and can lead to the diagnosis of asymptomatic recurrence in 29–75% of cases.155 Cervical/vaginal cytology tests are not recommended because of low recurrence detection rates (0–17%)153 and the risk of false-positive results after radiotherapy.156 157
+Recently, the annual recurrence risk model (ARRM) has been proposed for tailored surveillance in patients with early-­stage cervical cancer based on the patient’s risk status and respective annual recurrence risk.158 Hormonal therapy with estrogen can be considered in survivors with postmenopausal symptoms.159 160
+CONCLUSIONS
+While international efforts aim to eliminate cervical cancer as a global health problem by promoting widespread access to prevention and screening, recent years have seen major advances in the treatment of cervical cancer, including sophisticated imaging modalities, less radical surgical approaches, improved molecular diagnostics, modern radiotherapy techniques, and biomarker-driven personalized therapies. These achievements have led to a new era in the management of cervical cancer. Tailoring surgical and radiation approaches to early-­stage cervical cancer allows for optimization of oncologic outcomes while reducing morbidity and toxicity in patients who are often young and for whom preserving quality of life and desire for childbearing is essential. The advent of immunotherapy has dramatically improved the prognosis of patients with advanced and recurrent cervical cancer, and additional novel agents, such as antibody-d­ rug conjugates, are expected to further enrich treatment options.
+
+2Department of Experimental Medicine, Sapienza University of Rome, Rome, Italy 3Department of Obstetrics and Gynecology, Division of Gynecologic Oncology, Mayo Clinic, Rochester, Minnesota, USA 4Division of Gynecologic Oncology, Department of Obstetrics and Gynecology, University of Wisconsin-­Madison School of Medicine and Public Health, Madison, Wisconsin, USA 5Department of Obstetrics and Gynecology, National Taiwan University Hospital, Taipei, Taiwan 6Department of Surgery, National Taiwan University Cancer Center, Taipei, Taiwan 7Graduate Institute of Clinical Medicine, College of Medicine, National Taiwan University, Taipei, Taiwan 8Obstetrics and Gynecology, Division of Gynecological Oncology, Clínica Maternidad Santa Ana, IVSS, Caracas, Venezuela, Bolivarian Republic of 9Division of Gynecologic Oncology, Hospital Italiano de Buenos Aires, Buenos Aires, Argentina 10Laboratorio de Genética Molecular, Instituto de Oncología y Hematología, Caracas, Venezuela, Bolivarian Republic of 11Gynecologic Oncology Unit, Istituto Nazionale Tumori IRCCS "Fondazione G. Pascale", Naples, Italy 12Gynecologic Oncology, Kayseri City Education and Research Hospital, Kayseri, Turkey 13Clinical Anatomy, Ankara University, Ankara, Turkey 14South Tees NHS Foundation Trust, James Cook University, Middlesbrough, UK 15Department of Gynecologic Oncology, Ospedale Michele e Pietro Ferrero, Verduno, Italy 16Gynecology, Gynecologic Oncology, Clinica ASTORGA, Medellin, and Instituto Nacional de Cancerología, Bogotá, Colombia 17Department of Obstetrics and Gynecology, Houston Methodist Hospital, Houston, Texas, USA
+X Giuseppe Caruso @gcarusomd, Matthew K Wagar @mattkwagar, Heng-C­ heng Hsu @HsuMd, Jorge Hoegl @oncohoegl, Guido Martin Rey Valzacchi @guidoreyv, Andreina Fernandes @AndreFernandes2, Giuseppe Cucinella @Cucinella_G, Seda Sahin Aker @seda2211, Rene Pareja @RParejaGineOnco and Pedro T Ramirez @pedroramirezMD
+Acknowledgements  Giuseppe Caruso is a fellow of the PhD in 'Network Oncology and Precision Medicine', Department of Experimental Medicine, Sapienza University of Rome (Italy).
+Contributors  GCa: conceptualization, data curation, methodology, resources, validation, visualization, writing - original draft, writing - review and editing. MKW, H-­CH, JH, GMRV, AF, GCu, SŞA, ASJ, JM: data curation, visualization, writing - original draft, writing - review and editing. RP, PTR: data curation, project administration, validation, supervision, writing - review and editing. All authors have read and agreed to the published version of the manuscript.
+Funding  The authors have not declared a specific grant for this research from any funding agency in the public, commercial or not-­for-­profit sectors.
+Competing interests  None declared.
+Patient consent for publication  Not applicable.
+Ethics approval  Not applicable.
+Provenance and peer review  Not commissioned; externally peer reviewed.
+ORCID iDs Giuseppe Caruso http://orcid.org/0000-0001-5501-1936 Matthew K Wagar http://orcid.org/0000-0003-2300-404X Heng-­Cheng Hsu http://orcid.org/0000-0002-6817-0693 Jorge Hoegl http://orcid.org/0000-0003-0063-3871 Guido Martin Rey Valzacchi http://orcid.org/0000-0002-6384-2091 Andreina Fernandes http://orcid.org/0000-0003-0589-2696 Giuseppe Cucinella http://orcid.org/0000-0001-8574-7346 Seda Sahin Aker http://orcid.org/0000-0001-6192-5726 Aarthi S Jayraj http://orcid.org/0000-0002-6913-6876 Rene Pareja http://orcid.org/0000-0003-0093-0438 Pedro T Ramirez http://orcid.org/0000-0002-6370-8052
+
+Author affiliations 1Division of Gynecologic Oncology, European Institute of Oncology (IEO), IRCCS,
+Milan, Italy
+
+REFERENCES
+1 Bray F, Laversanne M, Sung H, et al. Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality
+
+1966
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+worldwide for 36 cancers in 185 countries. CA Cancer J Clin 2024;74:229–63. 2 Lei J, Ploner A, Elfström KM, et al. HPV vaccination and the risk of invasive cervical cancer. N Engl J Med 2020;383:1340–8. 3 Falcaro M, Castañon A, Ndlela B, et al. The effects of the national HPV vaccination programme in England, UK, on cervical cancer and grade 3 cervical intraepithelial neoplasia incidence: a register-based observational study. Lancet 2021;398:2084–92. 4 Schiller JT, Kreimer AR. An HPV vaccine from India: broadening possibilities for cervical cancer control. Lancet Oncol 2023;24:1288–9. 5 Nogueira-R­ odrigues A. HPV vaccination in Latin America: global challenges and feasible solutions. Am Soc Clin Oncol Educ Book 2019;39:e45–52. 6 Siegel RL, Giaquinto AN, Jemal A. Cancer statistics, 2024. CA Cancer J Clinicians 2024;74:12–49. 7 Cree IA, White VA, Indave BI, et al. Revising the WHO classification: female genital tract tumours. Histopathol 2020;76:151–6. 8 Höhn AK, Brambs CE, Hiller GGR, et al. 2020 WHO classification of female genital tumors. Geburtshilfe Frauenheilkd 2021;81:1145–53. 9 Abu-R­ ustum NR, Yashar CM, Arend R, et al. NCCN guidelines® insights: cervical cancer, version 1.2024. J Natl Compr Canc Netw 2023;21:1224–33. 10 Chuang LT, Temin S, Camacho R, et al. Management and care of women with invasive cervical cancer: American society of clinical oncology resource-s­ tratified clinical practice guideline. J Glob Oncol 2016;2:311–40. 11 Cibula D, Raspollini MR, Planchamp F, et al. ESGO/ESTRO/ESP guidelines for the management of patients with cervical cancer update 2023. Int J Gynecol Cancer 2023;33:649–66. 12 Lorusso D, Xiang Y, Hasegawa K, et al. Pembrolizumab or placebo with chemoradiotherapy followed by pembrolizumab or placebo for newly diagnosed, high-r­isk, locally advanced cervical cancer (ENGOT-­cx11/GOG-­3047/KEYNOTE-­A18): a randomised, double-blind, phase 3 clinical trial. Lancet 2024;403:1341–50. 13 McCormack M, Gallardo Rincón D, Eminowicz G, et al. LBA8 a randomised phase III trial of induction chemotherapy followed by chemoradiation compared with chemoradiation alone in locally advanced cervical cancer: the GCIG INTERLACE trial. Ann Oncol 2023;34:S1276. 14 Wan Z, Zhao J, Xu L, et al. Global and regional estimates of cervical cancer burden associated with human immunodeficiency virus infection from 1990 to 2019. J Med Virol 2023;95:e28891. 15 Singh D, Vignat J, Lorenzoni V, et al. Global estimates of incidence and mortality of cervical cancer in 2020: a baseline analysis of the WHO global cervical cancer elimination initiative. Lancet Glob Health 2023;11:e197–206. 16 Monk BJ, Tan DSP, Hernández Chagüi JD, et al. Proportions and incidence of locally advanced cervical cancer: a global systematic literature review. Int J Gynecol Cancer 2022;32:1531–9. 17 He WQ, Li C. Recent global burden of cervical cancer incidence and mortality, predictors, and temporal trends. Gynecol Oncol 2021;163:583–92. 18 Stelzle D, Tanaka LF, Lee KK, et al. Estimates of the global burden of cervical cancer associated with HIV. Lancet Glob Health 2021;9:e161–9. 19 Schiffman M, Doorbar J, Wentzensen N, et al. Carcinogenic human papillomavirus infection. Nat Rev Dis Primers 2016;2:16086. 20 Viveros-C­ arreño D, Fernandes A, Pareja R. Updates on cervical cancer prevention. Int J Gynecol Cancer 2023;33:394–402. 21 Egawa N. Papillomaviruses and cancer: commonalities and differences in HPV carcinogenesis at different sites of the body. Int J Clin Oncol 2023;28:956–64. 22 Kusakabe M, Taguchi A, Sone K, et al. Carcinogenesis and management of human papillomavirus-­associated cervical cancer. Int J Clin Oncol 2023;28:965–74. 23 Liu H, Ma H, Li Y, et al. Advances in epigenetic modifications and cervical cancer research. Biochim Biophys Acta Rev Cancer 2023;1878:188894. 24 World Health Organization. Global strategy to accelerate the elimination of cervical cancer as a public health problem. 2020. Available: https://www.who.int/publications/i/item/9789240014107 [Accessed 21 Jan 2024]. 25 Sharma H, Parekh S, Pujari P, et al. Immunogenicity and safety of a new quadrivalent HPV vaccine in girls and boys aged 9-­14 years versus an established quadrivalent HPV vaccine in women aged 15-­26 years in India: a randomised, active-c­ ontrolled, multicentre, phase 2/3 trial. Lancet Oncol 2023;24:1321–33. 26 Chu K, Bi Z-­F, Huang W-­J, et al. Safety and immunogenicity of an escherichia coli-p­ roduced 9-­valent human papillomavirus L1 virus-like particle vaccine (types 6/11/16/18/31/33/45/52/58) in healthy
+
+Review
+adults: an open-­label, dose-­escalation phase 1 clinical trial. Lancet Reg Health West Pac 2023;34:100731. 27 Trimble CL, Trimble EL. HPV vaccines: when one plus one equals three. Lancet Glob Health 2022;10:e1373–4. 28 Kamani MO, Kyrgiou M, Joura E, et al. ESGO prevention committee opinion: is a single dose of HPV vaccine good enough? Int J Gynecol Cancer 2023;33:462–4. 29 Perkins RB, Wentzensen N, Guido RS, et al. Cervical cancer screening: a review. JAMA 2023;330:547–58. 30 Bruni L, Serrano B, Roura E, et al. Cervical cancer screening programmes and age-­specific coverage estimates for 202 countries and territories worldwide: a review and synthetic analysis. Lancet Glob Health 2022;10:e1115–27. 31 Wright TC, Stoler MH, Behrens CM, et al. Primary cervical cancer screening with human papillomavirus: end of study results from the ATHENA study using HPV as the first-l­ine screening test. Gynecol Oncol 2015;136:189–97. 32 Huh WK, Ault KA, Chelmow D, et al. Use of primary high-­risk human papillomavirus testing for cervical cancer screening: interim clinical guidance. Obstet Gynecol 2015;125:330–7. 33 de Kok IMCM, van der Aa MA, van Ballegooijen M, et al. Trends in cervical cancer in the Netherlands until 2007: has the bottom been reached? Int J Cancer 2011;128:2174–81. 34 Bouvard V, Wentzensen N, Mackie A, et al. The IARC perspective on cervical cancer screening. N Engl J Med 2021;385:1908–18. 35 Shastri SS, Temin S, Almonte M, et al. Secondary prevention of cervical cancer: ASCO resource-­stratified guideline update. JCO Glob Oncol 2022;8:e2200217. 36 Castellsague X, Diaz M, Sanjose S, et al. Worldwide human papillomavirus etiology of cervical adenocarcinoma and its cofactors: implications for screening and prevention. J Natl Cancer Inst 2006;98:303–15. 37 Bilir E, Saçıntı KG, Kacperczyk-­Bartnik J, et al. FDA approves the first HPV self-­collection solutions. Int J Gynecol Cancer 2024;34:1833. 38 Stapley S, Hamilton W. Gynaecological symptoms reported by young women: examining the potential for earlier diagnosis of cervical cancer. Fam Pract 2011;28:592–8. 39 Lim AW, Ramirez AJ, Hamilton W, et al. Delays in diagnosis of young females with symptomatic cervical cancer in England: an interview-­based study. Br J Gen Pract 2014;64:e602–10. 40 Mathevet P, Lecuru F, Uzan C, et al. Sentinel lymph node biopsy and morbidity outcomes in early cervical cancer: results of a multicentre randomised trial (SENTICOL-­2). Eur J Cancer 2021;148:307–15. 41 Franco I, Viswanathan AN. Radiation oncology management of stage III and IVA cervical carcinoma. Int J Gynecol Cancer 2022;32:231–8. 42 Bhatla N, Aoki D, Sharma DN, et al. Cancer of the cervix uteri: 2021 update. Int J Gynaecol Obstet 2021;155 Suppl 1:28–44. 43 Gee MS, Atri M, Bandos AI, et al. Identification of distant metastatic disease in uterine cervical and endometrial cancers with FDG PET/ CT: analysis from the ACRIN 6671/GOG 0233 multicenter trial. Radiology 2018;287:176–84. 44 Balleyguier C, Sala E, Da Cunha T, et al. Staging of uterine cervical cancer with MRI: guidelines of the European society of urogenital radiology. Eur Radiol 2011;21:1102–10. 45 Fischerova D, Smet C, Scovazzi U, et al. Staging by imaging in gynecologic cancer and the role of ultrasound: an update of European joint consensus statements. Int J Gynecol Cancer 2024;34:363–78. 46 Reinhardt MJ, Ehritt-B­ raun C, Vogelgesang D, et al. Metastatic lymph nodes in patients with cervical cancer: detection with MR imaging and FDG PET. Radiology 2001;218:776–82. 47 Grigsby PW, Siegel BA, Dehdashti F. Lymph node staging by positron emission tomography in patients with carcinoma of the cervix. J Clin Oncol 2001;19:3745–9. 48 Choi HJ, Ju W, Myung SK, et al. Diagnostic performance of computer tomography, magnetic resonance imaging, and positron emission tomography or positron emission tomography/computer tomography for detection of metastatic lymph nodes in patients with cervical cancer: meta-­analysis. Cancer Sci 2010;101:1471–9. 49 Qian W, Li Z, Chen W, et al. RESOLVE-­DWI-­based deep learning nomogram for prediction of normal-­sized lymph node metastasis in cervical cancer: a preliminary study. BMC Med Imaging 2022;22:221. 50 Okuchi S, Fushimi Y, Yoshida K, et al. Comparison of TGSE-­BLADE DWI, RESOLVE DWI, and SS-­EPI DWI in healthy volunteers and patients after cerebral aneurysm clipping. Sci Rep 2022;12:17689. 51 Mayr NA, Wang JZ, Zhang D, et al. Longitudinal changes in tumor perfusion pattern during the radiation therapy course and
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+1967
+
+Review
+its clinical impact in cervical cancer. Int J Radiat Oncol Biol Phys 2010;77:502–8. 52 Lund KV, Simonsen TG, Hompland T, et al. Short-t­erm pretreatment DCE-M­ RI in prediction of outcome in locally advanced cervical cancer. Radiother Oncol 2015;115:379–85. 53 Sarabhai T, Schaarschmidt BM, Wetter A, et al. Comparison of (18)F-F­ DG PET/MRI and MRI for pre-­therapeutic tumor staging of patients with primary cancer of the uterine cervix. Eur J Nucl Med Mol Imaging 2018;45:67–76. 54 Grueneisen J, Schaarschmidt BM, Heubner M, et al. Integrated PET/MRI for whole-b­ ody staging of patients with primary cervical cancer: preliminary results. Eur J Nucl Med Mol Imaging 2015;42:1814–24. 55 Ou Z, Mao W, Tan L, et al. Prediction of postoperative pathologic risk factors in cervical cancer patients treated with radical hysterectomy by machine learning. Curr Oncol 2022;29:9613–29. 56 Pujade-L­ auraine E, Tan DSP, Leary A, et al. Comparison of global treatment guidelines for locally advanced cervical cancer to optimize best care practices: a systematic and scoping review. Gynecol Oncol 2022;167:360–72. 57 Baalbergen A, Veenstra Y, Stalpers LL, et al. Primary surgery versus primary radiation therapy with or without chemotherapy for early adenocarcinoma of the uterine cervix. Cochrane Database Syst Rev 2013;2013. 58 Gien LT, Beauchemin MC, Thomas G. Adenocarcinoma: a unique cervical cancer. Gynecol Oncol 2010;116:140–6. 59 Park J-­Y, Kim D-­Y, Kim J-­H, et al. Outcomes after radical hysterectomy in patients with early-­stage adenocarcinoma of uterine cervix. Br J Cancer 2010;102:1692–8. 60 Ramirez PT, Frumovitz M, Pareja R, et al. Minimally invasive versus abdominal radical hysterectomy for cervical cancer. N Engl J Med 2018;379:1895–904. 61 Ramirez PT, Robledo KP, Frumovitz M, et al. LACC trial: final analysis on overall survival comparing open versus minimally invasive radical hysterectomy for early-s­ tage cervical cancer. J Clin Oncol 2024. 62 Bogani G, Di Donato V, Muzii L, et al. Assessing the role of minimally invasive radical hysterectomy for early-­stage cervical cancer. Eur J Obstet Gynecol Reprod Biol 2022;275:64–9. 63 Touhami O, Plante M. Minimally invasive surgery for cervical cancer in light of the LACC trial: what have we learned? Curr Oncol 2022;29:1093–106. 64 Falconer H, Palsdottir K, Stalberg K, et al. Robot-­assisted approach to cervical cancer (RACC): an international multi-c­ enter, open-­label randomized controlled trial. Int J Gynecol Cancer 2019;29:1072–6. 65 Querleu D, Cibula D, Abu-­Rustum NR. 2017 update on the querleu-morrow classification of radical hysterectomy. Ann Surg Oncol 2017;24:3406–12. 66 Schmeler KM, Pareja R, Lopez Blanco A, et al. ConCerv: a prospective trial of conservative surgery for low-r­isk early-­stage cervical cancer. Int J Gynecol Cancer 2021;31:1317–25. 67 Plante M, Kwon JS, Ferguson S, et al. Simple versus radical hysterectomy in women with low-­risk cervical cancer. N Engl J Med 2024;390:819–29. 68 Evaluation of physical function and quality of life before and after non-r­adical surgical therapy (extra fascial hysterectomy or cone biopsy with pelvic lymphadenectomy) for stage IA1 (LVSI+) and IA2-I­B1 cervical cancer (GOG-­278). SGO 2024 Annual Meeting on Women’s Cancer; San Diego (CA, USA), 2024:16–8. 69 Cibula D, Dusek J, Jarkovsky J, et al. A prospective multicenter trial on sentinel lymph node biopsy in patients with early-­stage cervical cancer (SENTIX). Int J Gynecol Cancer 2019;29:212–5. 70 Favre G, Guani B, Balaya V, et al. Sentinel lymph-n­ ode biopsy in early-s­ tage cervical cancer: the 4-y­ ear follow-u­ p results of the senticol 2 trial. Front Oncol 2020;10:621518. 71 Kadkhodayan S, Hasanzadeh M, Treglia G, et al. Sentinel node biopsy for lymph nodal staging of uterine cervix cancer: a systematic review and meta-­analysis of the pertinent literature. Eur J Surg Oncol 2015;41:1–20. 72 Wu Y, Li Z, Wu H, et al. Sentinel lymph node biopsy in cervical cancer: a meta-­analysis. Mol Clin Oncol 2013;1:1025–30. 73 Balaya V, Guani B, Morice P, et al. Long-­term oncological safety of sentinel lymph node biopsy in early-­stage cervical cancer: a post-hoc analysis of SENTICOL I and SENTICOL II cohorts. Gynecol Oncol 2022;164:53–61. 74 Lecuru FR, McCormack M, Hillemanns P, et al. SENTICOL III: an international validation study of sentinel node biopsy in early cervical cancer. A GINECO, ENGOT, GCIG and multicenter study. Int J Gynecol Cancer 2019;29:829–34.
+
+75 Seino M, Nagase S, Tokunaga H, et al. Japan society of gynecologic oncology 2022 guidelines for uterine cervical neoplasm treatment. J Gynecol Oncol 2024;35:e15.
+76 Yoo JG, Lee SJ, Nam EJ, et al. Clinical practice guidelines for cervical cancer: the Korean society of gynecologic oncology guidelines. J Gynecol Oncol 2024;35:e44.
+77 Agustí N, Viveros-C­ arreño D, Mora-­Soto N, et al. Diagnostic accuracy of sentinel lymph node frozen section analysis in patients with early-­stage cervical cancer: a systematic review and meta-analysis. Gynecol Oncol 2023;177:157–64.
+78 Sandadi S, Tanner EJ, Khoury-­Collado F, et al. Radical surgery with individualized postoperative radiation for stage IB cervical cancer: oncologic outcomes and severe complications. Int J Gynecol Cancer 2013;23:553–8.
+79 van den Akker MJE, Horeweg N, Beltman JJ, et al. Efficacy and toxicity of postoperative external beam radiotherapy or chemoradiation for early-­stage cervical cancer. Int J Gynecol Cancer 2020;30:1878–86.
+80 Gold MA, Tian C, Whitney CW, et al. Surgical versus radiographic determination of para-­aortic lymph node metastases before chemoradiation for locally advanced cervical carcinoma: a gynecologic oncology group study. Cancer 2008;112:1954–63.
+81 Benard VB, Watson M, Castle PE, et al. Cervical carcinoma rates among young females in the United States. Obstet Gynecol 2012;120:1117–23.
+82 Dargent D, Martin X, Sacchetoni A, et al. Laparoscopic vaginal radical trachelectomy: a treatment to preserve the fertility of cervical carcinoma patients. Cancer 2000;88:1877–82.
+83 Morice P, Maulard A, Scherier S, et al. Oncologic results of fertility sparing surgery of cervical cancer: an updated systematic review. Gynecol Oncol 2022;165:169–83.
+84 Wright JD, Grigsby PW, Brooks R, et al. Utility of parametrectomy for early stage cervical cancer treated with radical hysterectomy. Cancer 2007;110:1281–6.
+85 Frumovitz M, Sun CC, Schmeler KM, et al. Parametrial involvement in radical hysterectomy specimens for women with early-­stage cervical cancer. Obstet Gynecol 2009;114:93–9.
+86 Ramirez PT, Pareja R, Rendón GJ, et al. Management of low-risk early-­stage cervical cancer: should conization, simple trachelectomy, or simple hysterectomy replace radical surgery as the new standard of care? Gynecol Oncol 2014;132:254–9.
+87 Batman SH, Schmeler KM. Fertility-­sparing and less radical surgery for cervical cancer. Curr Oncol Rep 2022;24:1541–8.
+88 Di Donato V, Caruso G, Sassu CM, et al. Fertility-­sparing surgery for women with stage I cervical cancer of 4 cm or larger: a systematic review. J Gynecol Oncol 2021;32:e83.
+89 Buda A, Borghese M, Puppo A, et al. Neoadjuvant chemotherapy prior fertility-­sparing surgery in women with FIGO 2018 stage IB2 cervical cancer: a systematic review. Cancers (Basel) 2022;14:797.
+90 Pareja R, Rendón GJ, Vasquez M, et al. Immediate radical trachelectomy versus neoadjuvant chemotherapy followed by conservative surgery for patients with stage IB1 cervical cancer with tumors 2cm or larger: a literature review and analysis of oncological and obstetrical outcomes. Gynecol Oncol 2015;137:574–80.
+91 Burbano J, Heredia F, Sanabria D, et al. Neoadjuvant chemotherapy prior to fertility-s­ paring surgery in cervical tumors larger than 2 cm: a systematic review on fertility and oncologic outcomes. Int J Gynecol Cancer 2021;31:387–98.
+92 Ronsini C, Solazzo MC, Bizzarri N, et al. Fertility-s­ paring treatment for early-­stage cervical cancer≥2cm: a problem with a thousand nuances-­a systematic review of oncological outcomes. Ann Surg Oncol 2022;29:8346–58.
+93 Plante M, van Trommel N, Lheureux S, et al. FIGO 2018 stage IB2 (2-­4 cm) cervical cancer treated with neo-­adjuvant chemotherapy followed by fertility sparing surgery (CONTESSA); neo-a­ djuvant chemotherapy and conservative surgery in cervical cancer to preserve fertility (NEOCON-­F). A PMHC, DGOG, GCIG/CCRN and multicenter study. Int J Gynecol Cancer 2019;29:969–75.
+94 Peters WA III, Liu PY, Barrett RJ II, et al. Concurrent chemotherapy and pelvic radiation therapy compared with pelvic radiation therapy alone as adjuvant therapy after radical surgery in high-­risk early-stage cancer of the cervix. JCO 2000;18:1606–13.
+95 Adjuvant chemotherapy following concurrent chemoradiation (CRT) in patients with high-r­isk early-­stage cervical carcinoma following radical hysterectomy: results of NRG oncology/RTOG 0724/ GOG0724. ASCO Annual Meeting; 2024
+96 Sedlis A, Bundy BN, Rotman MZ, et al. A randomized trial of pelvic radiation therapy versus no further therapy in selected patients with stage IB carcinoma of the cervix after radical hysterectomy and
+
+1968
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+pelvic lymphadenectomy: a gynecologic oncology group study. Gynecol Oncol 1999;73:177–83. 97 Rotman M, Sedlis A, Piedmonte MR, et al. A phase III randomized trial of postoperative pelvic irradiation in stage IB cervical carcinoma with poor prognostic features: follow-u­ p of a gynecologic oncology group study. Int J Radiat Oncol Biol Phys 2006;65:169–76. 98 Rogers L, Siu SSN, Luesley D, et al. Radiotherapy and chemoradiation after surgery for early cervical cancer. Cochrane Database Syst Rev 2012;2012. 99 Levinson K, Beavis AL, Purdy C, et al. Beyond sedlis—a novel histology-s­ pecific nomogram for predicting cervical cancer recurrence risk: an NRG/GOG ancillary analysis. Gynecol Oncol 2021;162:532–8. 100 Kinjo Y, Matsuura Y, Ohguri T, et al. Retrospective analysis of prognosis using the gynecology oncology group score of stage IB-IIA node negative uterine cervical cancer after radical hysterectomy and trachelectomy. Mol Clin Oncol 2022;16:105. 101 Rodriguez J, Viveros-­Carreño D, Pareja R. Adjuvant treatment after radical surgery for cervical cancer with intermediate risk factors: is it time for an update? Int J Gynecol Cancer 2022;32:1219–26. 102 Cibula D, Akilli H, Jarkovsky J, et al. Role of adjuvant therapy in intermediate-r­isk cervical cancer patients - subanalyses of the SCCAN study. Gynecol Oncol 2023;170:195–202. 103 Gómez-­Hidalgo NR, Acosta Ú, Rodríguez TG, et al. Adjuvant therapy in early-s­ tage cervical cancer after radical hysterectomy: are we overtreating our patients? A meta-a­ nalysis. Clin Transl Oncol 2022;24:1605–14. 104 Cibula D, Borčinová M, Kocian R, et al. CERVANTES: an international randomized trial of radical surgery followed by adjuvant (chemo) radiation versus no further treatment in patients with early-s­ tage, intermediate-­risk cervical cancer (CEEGOG-CX-­05; ENGOT-­CX16). Int J Gynecol Cancer 2022;32:1327–31. 105 Keys HM, Bundy BN, Stehman FB, et al. Cisplatin, radiation, and adjuvant hysterectomy compared with radiation and adjuvant hysterectomy for bulky stage IB cervical carcinoma. N Engl J Med 1999;340:1154–61. 106 Morris M, Eifel PJ, Lu J, et al. Pelvic radiation with concurrent chemotherapy compared with pelvic and para-­aortic radiation for high-r­isk cervical cancer. N Engl J Med 1999;340:1137–43. 107 Rose PG, Bundy BN, Watkins EB, et al. Concurrent cisplatin-b­ ased radiotherapy and chemotherapy for locally advanced cervical cancer. N Engl J Med 1999;340:1144–53. 108 Whitney CW, Sause W, Bundy BN, et al. Randomized comparison of fluorouracil plus cisplatin versus hydroxyurea as an adjunct to radiation therapy in stage IIB-I­VA carcinoma of the cervix with negative para-a­ ortic lymph nodes: a gynecologic oncology group and southwest oncology group study. J Clin Oncol 1999;17:1339–48. 109 Chemoradiotherapy for Cervical Cancer Meta-­analysis Collaboration (CCCMAC). Reducing uncertainties about the effects of chemoradiotherapy for cervical cancer: individual patient data meta-a­ nalysis. Cochrane Database Syst Rev 2010;2010. 110 Hoekman EJ, Broeders E, Louwe LA, et al. Ovarian function after ovarian transposition and additional pelvic radiotherapy: a systematic review. Eur J Surg Oncol 2019;45:1328–40. 111 Morice P, Juncker L, Rey A, et al. Ovarian transposition for patients with cervical carcinoma treated by radiosurgical combination. Fertil Steril 2000;74:743–8. 112 Pahisa J, Martínez-­Román S, Martínez-Z­ amora MA, et al. Laparoscopic ovarian transposition in patients with early cervical cancer. Int J Gynecol Cancer 2008;18:584–9. 113 Wo JY, Viswanathan AN. Impact of radiotherapy on fertility, pregnancy, and neonatal outcomes in female cancer patients. Int J Radiat Oncol Biol Phys 2009;73:1304–12. 114 Marnitz S, Tsunoda AT, Martus P, et al. Surgical versus clinical staging prior to primary chemoradiation in patients with cervical cancer FIGO stages IIB-­IVA: oncologic results of a prospective randomized international multicenter (Uterus-­11) intergroup study. Int J Gynecol Cancer 2020;30:1855–61. 115 Gouy S, Morice P, Narducci F, et al. Prospective multicenter study evaluating the survival of patients with locally advanced cervical cancer undergoing laparoscopic para-­aortic lymphadenectomy before chemoradiotherapy in the era of positron emission tomography imaging. J Clin Oncol 2013;31:3026–33. 116 Huang H, Liu J, Li Y, et al. Metastasis to deep obturator and para-aortic lymph nodes in 649 patients with cervical carcinoma. Eur J Surg Oncol 2011;37:978–83. 117 Sakuragi N, Satoh C, Takeda N, et al. Incidence and distribution pattern of pelvic and paraaortic lymph node metastasis in patients
+
+Review
+with stages IB, IIA, and IIB cervical carcinoma treated with radical hysterectomy. Cancer 1999;85:1547–54. 118 Rose PG, Adler LP, Rodriguez M, et al. Positron emission tomography for evaluating para-­aortic nodal metastasis in locally advanced cervical cancer before surgical staging: a surgicopathologic study. J Clin Oncol 1999;17:41–5. 119 Martinez A, Lecuru F, Bizzarri N, et al. PARa-­aortic lymphadenectomy in locally advanced cervical cancer (PAROLA trial): a GINECO, ENGOT, and GCIG study. Int J Gynecol Cancer 2023;33:293–8. 120 Verduzco-­Aguirre HC, Lopes G, Soto-­Perez-D­ e-­Celis E. Implementation of diagnostic resources for cancer in developing countries: a focus on PET/CT. Ecancermedicalscience 2019;13:ed87. 121 Benedetti-­Panici P, Greggi S, Colombo A, et al. Neoadjuvant chemotherapy and radical surgery versus exclusive radiotherapy in locally advanced squamous cell cervical cancer: results from the Italian multicenter randomized study. J Clin Oncol 2002;20:179–88. 122 Friedlander M, Kaye SB, Sullivan A, et al. Cervical carcinoma: a drug-­responsive tumor—experience with combined cisplatin, vinblastine, and bleomycin therapy. Gynecol Oncol 1983;16:275–81. 123 Kirsten F, Atkinson KH, Coppleson JVM, et al. Combination chemotherapy followed by surgery or radiotherapy in patients with locally advanced cervical cancer. BJOG 1987;94:583–8. 124 Gupta S, Maheshwari A, Parab P, et al. Neoadjuvant chemotherapy followed by radical surgery versus concomitant chemotherapy and radiotherapy in patients with stage IB2, IIA, or IIB squamous cervical cancer: a randomized controlled trial. J Clin Oncol 2018;36:1548–55. 125 Kenter GG, Greggi S, Vergote I, et al. Randomized phase III study comparing neoadjuvant chemotherapy followed by surgery versus chemoradiation in stage IB2-­IIB cervical cancer: EORTC-­55994. J Clin Oncol 2023;41:5035–43. 126 Caruso G, Bruni S, Lapresa M, et al. Dose-­dense neoadjuvant chemotherapy before radical surgery in cervical cancer: a retrospective cohort study and systematic literature review. Int J Gynecol Cancer 2024;34:47–57. 127 Caruso G, Palaia I, DI Donato V, et al. Radical surgery after neoadjuvant chemotherapy for locally advanced neuroendocrine cancer of the cervix. Anticancer Res 2021;41:4431–8. 128 Monk BJ, Toita T, Wu X, et al. Durvalumab versus placebo with chemoradiotherapy for locally advanced cervical cancer (CALLA): a randomised, double-­blind, phase 3 trial. Lancet Oncol 2023;24:1334–48. 129 Merck’s Keytruda (pembrolizumab) plus chemoradiotherapy (CRT) significantly improved overall survival (OS) versus CRT alone in patients with newly diagnosed high-­risk locally advanced cervical cancer. N R Merck 2024. Available: https://tinyurl.com/4n4mfs9a 130 Li K, Chen J, Hu Y, et al. Neoadjuvant chemotherapy plus camrelizumab for locally advanced cervical cancer (NACI study): a multicentre, single-­arm, phase 2 trial. Lancet Oncol 2024;25:76–85. 131 Mileshkin LR, Moore KN, Barnes EH, et al. Adjuvant chemotherapy following chemoradiotherapy as primary treatment for locally advanced cervical cancer versus chemoradiotherapy alone (OUTBACK): an international, open-­label, randomised, phase 3 trial. Lancet Oncol 2023;24:468–82. 132 Tewari KS, Sill MW, Long HJ III, et al. Improved survival with bevacizumab in advanced cervical cancer. N Engl J Med 2014;370:734–43. 133 Colombo N, Dubot C, Lorusso D, et al. Pembrolizumab for persistent, recurrent, or metastatic cervical cancer. N Engl J Med 2021;385:1856–67. 134 Macchia G, Nardangeli A, Laliscia C, et al. Stereotactic body radiotherapy in oligometastatic cervical cancer (MITO-R­ T2/RAD study): a collaboration of MITO, AIRO GYN, and MaNGO groups. Int J Gynecol Cancer 2022;32:732–9. 135 Oaknin A, Gladieff L, Martínez-G­ arcía J, et al. Atezolizumab plus bevacizumab and chemotherapy for metastatic, persistent, or recurrent cervical cancer (BEATcc): a randomised, open-­label, phase 3 trial. The Lancet 2024;403:31–43. 136 Oaknin A, Moore K, Meyer T, et al. Nivolumab with or without ipilimumab in patients with recurrent or metastatic cervical cancer (CheckMate 358): a phase 1-­2, open-­label, multicohort trial. Lancet Oncol 2024;25:588–602. 137 Tewari KS, Monk BJ, Vergote I, et al. Survival with cemiplimab in recurrent cervical cancer. N Engl J Med 2022;386:544–55. 138 Chung HC, Ros W, Delord J-­P, et al. Efficacy and safety of pembrolizumab in previously treated advanced cervical cancer: results from the phase II KEYNOTE-­158 study. J Clin Oncol 2019;37:1470–8.
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579
+
+1969
+
+Review
+139 Bonneville R, Paruchuri A, Wing MR, et al. Characterization of clonal evolution in microsatellite unstable metastatic cancers through multiregional tumor sequencing. Mol Cancer Res 2021;19:465–74.
+140 Marabelle A, Fakih M, Lopez J, et al. Association of tumour mutational burden with outcomes in patients with advanced solid tumours treated with pembrolizumab: prospective biomarker analysis of the multicohort, open-l­abel, phase 2 KEYNOTE-­158 study. Lancet Oncol 2020;21:1353–65.
+141 Noh JJ, Kim MK, Choi MC, et al. Frequency of mismatch repair deficiency/high microsatellite instability and its role as a predictive biomarker of response to immune checkpoint inhibitors in gynecologic cancers. Cancer Res Treat 2022;54:1200–8.
+142 Coleman RL, Lorusso D, Gennigens C, et al. Efficacy and safety of tisotumab vedotin in previously treated recurrent or metastatic cervical cancer (innovaTV 204/GOG-­3023/ENGOT-­cx6): a multicentre, open-l­abel, single-­arm, phase 2 study. Lancet Oncol 2021;22:609–19.
+143 Vergote I, González-­Martín A, Fujiwara K, et al. Tisotumab Vedotin as Second- or Third-L­ ine Therapy for Recurrent Cervical Cancer. N E J Med 2024;391:44–55.
+144 Vergote I, Van Nieuwenhuysen E, O’Cearbhaill RE, et al. Tisotumab vedotin in combination with carboplatin, pembrolizumab, or bevacizumab in recurrent or metastatic cervical cancer: results from the innovaTV 205/GOG-­3024/ENGOT-­cx8 study. J Clin Oncol 2023;41:5536–49.
+145 Meric-B­ ernstam F, Makker V, Oaknin A, et al. Efficacy and safety of trastuzumab deruxtecan in patients with HER2-­expressing solid tumors: primary results from the DESTINY-­PanTumor02 phase II trial. J Clin Oncol 2024;42:47–58.
+146 Gatalica Z, Xiu J, Swensen J, et al. Molecular characterization of cancers with NTRK gene fusions. Mod Pathol 2019;32:147–53.
+147 Consortium APG. AACR project GENIE: powering precision medicine through an international consortium. Cancer Discov 2017;7:818–31.
+148 Hong J-H­ , Tsai C-S­ , Lai C-­H, et al. Recurrent squamous cell carcinoma of cervix after definitive radiotherapy. Int J Radiat Oncol Biol Phys 2004;60:249–57.
+149 Kobayashi K, Murakami N, Takahashi K, et al. Local radiotherapy or chemotherapy for oligo-r­ecurrent cervical cancer in patients with prior pelvic irradiation. In Vivo 2019;33:1659–65.
+150 Sardain H, Lavoue V, Redpath M, et al. Curative pelvic exenteration for recurrent cervical carcinoma in the era of concurrent chemotherapy and radiation therapy. a systematic review. Eur J Surg Oncol 2015;41:975–85.
+151 Zola P, Macchi C, Cibula D, et al. Follow-u­ p in gynecological malignancies: a state of art. Int J Gynecol Cancer 2015;25:1151–64.
+152 Brooks RA, Rader JS, Dehdashti F, et al. Surveillance FDG-P­ ET detection of asymptomatic recurrences in patients with cervical cancer. Gynecol Oncol 2009;112:104–9.
+153 Elit L, Fyles AW, Oliver TK, et al. Follow-u­ p for women after treatment for cervical cancer. Curr Oncol 2010;17:65–9.
+154 Salani R, Khanna N, Frimer M, et al. An update on post-t­reatment surveillance and diagnosis of recurrence in women with
+
+gynecologic malignancies: society of gynecologic oncology (SGO) recommendations. Gynecol Oncol 2017;146:3–10. 155 Sartori E, Pasinetti B, Carrara L, et al. Pattern of failure and value of follow-u­ p procedures in endometrial and cervical cancer patients. Gynecol Oncol 2007;107:S241–7. 156 Brown AJ, Shah JS, Fleming ND, et al. Role of cervical cytology in surveillance after radical trachelectomy for cervical cancer. Gynecol Oncol 2016;142:283–5. 157 Orr JM, Barnett JC, Leath CA. Incidence of subsequent abnormal cytology in cervical cancer patients completing five-­years of post treatment surveillance without evidence of recurrence. Gynecol Oncol 2011;122:501–4. 158 Cibula D, Dostálek L, Jarkovsky J, et al. The annual recurrence risk model for tailored surveillance strategy inpatients with cervical cancer. Eur J Cancer 2021;158:111–22. 159 Suzuki Y, Huang Y, Ferris J, et al. Prescription of hormone replacement therapy among cervical cancer patients with treatment-­induced premature menopause. Int J Gynecol Cancer 2023;33:26–34. 160 Hickey M, Basu P, Sassarini J, et al. Managing menopause after cancer. Lancet 2024;403:984–96. 161 Pötter R, Tanderup K, Schmid MP, et al. MRI-­guided adaptive brachytherapy in locally advanced cervical cancer (EMBRACE-I­): a multicentre prospective cohort study. Lancet Oncol 2021;22:538–47. 162 Huang H, Feng Y-L­ , Wan T, et al. Effectiveness of sequential chemoradiation vs concurrent chemoradiation or radiation alone in adjuvant treatment after hysterectomy for cervical cancer: the STARS phase 3 randomized clinical trial. JAMA Oncol 2021;7:361–9. 163 Landoni F, Maneo A, Colombo A, et al. Randomised study of radical surgery versus radiotherapy for stage Ib-­IIa cervical cancer. Lancet 1997;350:535–40. 164 Stehman FB, Ali S, Keys HM, et al. Radiation therapy with or without weekly cisplatin for bulky stage 1B cervical carcinoma: follow-u­ p of a gynecologic oncology group trial. Am J Obstet Gynecol 2007;197:503. 165 Lanciano R, Calkins A, Bundy BN, et al. Randomized comparison of weekly cisplatin or protracted venous infusion of fluorouracil in combination with pelvic radiation in advanced cervix cancer: a gynecologic oncology group study. J Clin Oncol 2005;23:8289–95. 166 Moore DH, Blessing JA, McQuellon RP, et al. Phase III study of cisplatin with or without paclitaxel in stage IVB, recurrent, or persistent squamous cell carcinoma of the cervix: a gynecologic oncology group study. J Clin Oncol 2004;22:3113–9. 167 Monk BJ, Sill MW, McMeekin DS, et al. Phase III trial of four cisplatin-­containing doublet combinations in stage IVB, recurrent, or persistent cervical carcinoma: a gynecologic oncology group study. J Clin Oncol 2009;27:4649–55. 168 Kitagawa R, Katsumata N, Shibata T, et al. Paclitaxel plus carboplatin versus paclitaxel plus cisplatin in metastatic or recurrent cervical cancer: the open-­label randomized phase III trial JCOG0505. J Clin Oncol 2015;33:2129–35.
+
+1970
+
+Caruso G, et al. Int J Gynecol Cancer 2024;34:1946–1970. doi:10.1136/ijgc-2024-005579

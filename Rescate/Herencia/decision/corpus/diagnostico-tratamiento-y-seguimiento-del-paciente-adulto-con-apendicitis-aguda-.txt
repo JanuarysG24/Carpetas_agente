@@ -1,0 +1,1863 @@
+Código: IN-EC-30 • Vigencia: 24-07-2024 • V001
+Estándar Clínico Basado en la Evidencia:
+diagnóstico, tratamiento y seguimiento del paciente adulto con apendicitis aguda en el Hospital Universitario Nacional de Colombia
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Estándar clínico basado en la evidencia: diagnóstico, tratamiento y seguimiento del paciente adulto con apendicitis aguda en el Hospital Universitario Nacional de Colombia
+
+Hospital Universitario Nacional de Colombia Universidad Nacional de Colombia
+
+Bogotá, Colombia 2024
+
+Página 1 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Estándar clínico basado en la evidencia: diagnóstico, tratamiento y seguimiento del paciente adulto con apendicitis aguda en el Hospital Universitario Nacional de Colombia
+
+Hospital Universitario Nacional de Colombia
+Dirección de Investigación e Innovación Proceso de Atención en Cirugía Proceso de Atención en Cuidado Crítico Proceso de Atención en Hospitalización Proceso de Atención en Patología y Laboratorio Clínico Proceso de Atención en Radiología e Imágenes Diagnósticas Proceso de Atención en Rehabilitación y Desarrollo Humano Proceso de Atención en Servicio Farmacéutico Proceso de Experiencia al Usuario Proceso de Gestión Administrativa Proceso de Gestión Comercial y Mercadeo Proceso de Gestión de la Calidad y Seguridad en Gestión del Riesgo en Salud
+Universidad Nacional de Colombia
+Facultad de Medicina Instituto de Investigaciones Clínicas Departamento Cirugía General Departamento de Medicina Interna Departamento del Movimiento Corporal Humano Departamento de la Nutrición Humana
+Facultad de Enfermería Departamento de Enfermería
+
+Página 2 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Carlos Manuel Zapata Acevedo
+
+AUTORES
+
+Médico general de la Escuela de medicina Juan N. Corpas, especialista en cirugía general de la Universidad Javeriana, profesor asociado del departamento de cirugía de la Universidad Nacional de Colombia, coordinador del posgrado de cirugía general de la Universidad Nacional de Colombia. Se desempeña como cirujano general en el Hospital Universitario de la Samaritana, Hospital Universitario Clínica San Rafael y en el Proceso de Atención en Cirugía del Hospital Universitario Nacional de Colombia.
+
+Tatiana Camacho Franco
+
+Médica cirujana, estudiante de tercer año de la especialidad en cirugía general de la Universidad Nacional de Colombia
+
+Jorge Daniel Agudelo Quevedo
+
+Estudiante noveno semestre de medicina de la Universidad Nacional de Colombia
+
+- Participantes clínicos
+
+Wilmer Orlando Aponte Barrios
+
+Médico cirujano, especialista en radiología e imágenes diagnósticas, especialista en radiología pediátrica y especialista en administración en salud pública. Se desempeña como profesor asociado y director del Departamento de Imágenes Diagnósticas de la Facultad de Medicina de la Universidad Nacional de Colombia, radiólogo y director del Proceso de Atención en Radiología e Imágenes Diagnósticas del Hospital Universitario Nacional de Colombia y radiólogo pediatra del Hospital de la Misericordia.
+
+Ruth Katherine Álvarez Leaño
+
+Enfermera, especialista integral de Servicios de Salud. Se desempeña como líder del área de Atención Segura en el Proceso de Gestión de la Calidad y Seguridad en Gestión del Riesgo en Salud del Hospital Universitario Nacional de Colombia.
+
+Página 3 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Sandra Milena Castellar Leones
+Médica, especialista en medicina física y rehabilitación. Se desempeña como docente adjunta del Departamento de Medicina Física y Rehabilitación de la Universidad Nacional de Colombia, como médica especialista en Medicina Física y Rehabilitación del proceso de Atención en Rehabilitación y Desarrollo Humano del Hospital Universitario Nacional de Colombia y del Instituto Roosevelt.
+María Esther Chaves Páez
+Terapeuta ocupacional, estudiante de maestría en ingeniería biomédica de la Universidad Nacional de Colombia. Se desempeña como terapeuta ocupacional del proceso de atención en Rehabilitación y Desarrollo Humano en el Hospital Universitario Nacional de Colombia.
+Natalia Corredor Parra
+Trabajadora social, especialista en alta gerencia. Se desempeña como jefe del área de experiencia al usuario en el Proceso de Experiencia al Usuario del Hospital Universitario Nacional de Colombia.
+Luz Myriam Díaz Londoño
+Ingeniera biomédica, se desempeña como coordinadora de ingeniería biomédica del Proceso de Gestión Administrativa en el Hospital Universitario Nacional de Colombia.
+Viviana Maritza Estrella Portillo
+Enfermera, especialista en cuidado crítico y en auditoria y calidad de la salud. Se desempeña como enfermera en el Proceso de Atención en Cuidado Crítico del Hospital Universitario Nacional de Colombia.
+Andrea Lizeth Ibáñez Triana
+Química farmacéutica. Se desempeña como química farmacéutica asistencial del Proceso de Atención en Servicio Farmacéutico del Hospital Universitario Nacional de Colombia.
+Fricsy Jazmín Suárez
+Enfermera, especialista en auditoría y garantía de calidad con énfasis en epidemiología. Se desempeña como auditora de cuentas médicas en el Proceso de Gestión Comercial y Mercadeo en el Hospital Universitario Nacional de Colombia.
+
+Página 4 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Nataly Vanessa Jiménez Ávila
+Médica cirujana, especialista en gerencia en servicios de salud. Se desempeña como médica hospitalaria en el Proceso de Atención en Hospitalización del Hospital Universitario Nacional de Colombia.
+Jorge Alberto Martínez Martínez
+Médico cirujano, especialista en cirugía general. Se desempeña como cirujano general en el Proceso de Atención en Cirugía del Hospital Universitario Nacional de Colombia.
+Jairo Antonio Pérez Cely
+Médico cirujano, especialista en anestesiología, especialista en medicina crítica y cuidado crítico, estudiante del doctorado en bioética en la Universidad del Bosque. Se desempeña como director del proceso de Atención en Cuidado Crítico en el Hospital Universitario Nacional de Colombia y director del departamento de Medicina Interna en la Universidad Nacional de Colombia.
+Johanna Andrea Prieto Ramírez
+Fisioterapeuta, estudiante de la maestría en dirección y gestión sanitaria en la Universidad Internacional de la Rioja. Se desempeña como fisioterapeuta en el Proceso de Atención en Rehabilitación y Desarrollo Humano del Hospital Universitario Nacional de Colombia.
+Angélica Viviana Rico Barrera
+Fisioterapeuta, magíster en fisioterapia del deporte y la actividad física. Se desempeña como fisioterapeuta en el Proceso de Atención en Cuidado Crítico del Hospital Universitario Nacional de Colombia.
+Rosa Lucia Rodríguez Díaz
+Nutricionista dietista, se desempeña como nutricionista clínica en el Proceso de Atención en Hospitalización del Hospital Universitario Nacional de Colombia.
+Álvaro Andrés Roncancio Fernández
+Médico, especialista en anestesiología y reanimación. Se desempeña como anestesiólogo en el Proceso de Atención en Cirugía del Hospital Universitario Nacional de Colombia.
+
+Página 5 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Carlos Humberto Saavedra Trujillo
+Médico cirujano, especialista en medicina interna y en patología infecciosa, y magíster en epidemiología clínica. Es profesor titular del Departamento de Medicina Interna en la Facultad de Medicina de la Universidad Nacional de Colombia. Además, es médico infectólogo en el Proceso de Atención en Hospitalización del Hospital Universitario Nacional de Colombia.
+Ángel Yobany Sánchez Merchán
+Médico cirujano, especialista en patología anatómica y clínica, y magíster en gestión de organizaciones. Se desempeña como médico patólogo en el Proceso de Atención en Patología y Laboratorio Clínico del Hospital Universitario Nacional de Colombia y como profesor asociado al Departamento de Patología de la Facultad de Medicina en la Universidad Nacional de Colombia.
+Sandra Liliana Sosa Sabogal
+Fonoaudióloga, estudiante de la maestría en Fisiología de la Universidad Nacional de Colombia. Se desempeña como fonoaudióloga en el Proceso de Atención en Rehabilitación y Desarrollo Humano del Hospital Universitario Nacional de Colombia.
+Daniela Sánchez Santiesteban
+Médica cirujana, estudiante de la maestría en Epidemiología clínica de la Universidad Nacional de Colombia. Se desempeña como metodóloga de investigación de la Dirección de Investigación e Innovación del Hospital Universitario Nacional de Colombia.
+Giancarlo Buitrago
+Médico cirujano, magíster en Economía y en Epidemiología Clínica, y doctor en Economía. Es profesor asociado y Vicedecano de Investigación y Extensión de la Facultad de Medicina de la Universidad Nacional de Colombia, y director de Investigación e Innovación del Hospital Universitario Nacional de Colombia.
+- Seguimiento del proceso
+Comité de estándares clínicos
+Hospital Universitario Nacional de Colombia, Universidad Nacional de Colombia.
+
+Página 6 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Agradecimientos
+
+Agradecemos a la comunidad del Hospital Universitario Nacional de Colombia y a la Universidad Nacional de Colombia por su acogida en el desarrollo de estándares clínicos basados en la evidencia (ECBE). Agradecemos su apoyo al proceso, su disponibilidad para el desarrollo de la propuesta y su interés en brindar el mayor beneficio a los pacientes, teniendo en cuenta la mejor evidencia y el aprovechamiento de los recursos disponibles.
+
+Este documento ha recibido apoyo durante su desarrollo, aportes de diferentes profesionales, por lo que hace mención especial a:
+
+-
+
+Profesionales de investigación
+
+Paula González-Caicedo
+
+Fisioterapeuta, estudiante de la maestría en epidemiología clínica de la Universidad Nacional de Colombia. Se desempeña como metodóloga de investigación de la Dirección de Investigación e Innovación del Hospital Universitario Nacional de Colombia.
+
+Andrés Felipe Patiño Benavidez
+
+Médico cirujano, magíster en epidemiología clínica. Se desempeña como metodólogo de investigación de la Dirección de Investigación e Innovación del Hospital Universitario Nacional de Colombia.
+
+Natalia Losada-Trujillo
+
+Médica cirujana, especialista en epidemiología, estudiante de la maestría en epidemiología clínica de la Universidad Nacional de Colombia. Se desempeña como metodóloga de investigación de la Dirección de Investigación e Innovación del Hospital Universitario Nacional de Colombia.
+
+Natalia Garzón Barbosa
+
+Psicóloga, profesional de apoyo administrativo, Dirección de Investigación e Innovación del Hospital Universitario Nacional de Colombia.
+
+Página 7 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+María José Hoyos Bedoya
+Médica cirujana, estudiante de la maestría en epidemiología clínica de la Universidad Nacional de Colombia. Se desempeña como metodóloga de investigación de la Dirección de Investigación e Innovación del Hospital Universitario Nacional de Colombia
+- Junta de cirugía general del Hospital Universitario Nacional
+Ruben Caycedo Beltrán
+Médico cirujano Universidad Nacional de Colombia. Cirujano General Universidad Nacional de Colombia
+Harold Enrique Betancourt Médico cirujano Universidad Nacional de Colombia. Cirujano General Universidad Nacional de Colombia. Se desempeña como cirujano general en Hospital Universitario Nacional de Colombia, Hospital de Meissen y Engativá.
+Cindy Julieth Bohórquez Garzón Médico cirujano Universidad Nacional de Colombia. Cirujano General Universidad Nacional de Colombia. Se desempeña como cirujana general en el Proceso de Atención en Cirugía del Hospital Universitario Nacional de Colombia y cirujana general en Hospital de la Policía
+Diego Alexander Cardona
+Médico cirujano Universidad Nacional de Colombia. Cirujano General Universidad Nacional de Colombia. Se desempeña como coordinador del servicio de cirugía general, Proceso de Atención en Cirugía, Hospital Universitario Nacional de Colombia
+Edgar Alberto Carmona Médico cirujano Universidad Nacional de Colombia. Cirujano General Universidad Nacional de Colombia. Cirujano de Tórax Universidad El Bosque. Se desempeña como cirujano de tórax en Hospital Universitario Nacional de Colombia y cirujano general en Hospital de la Policía
+Fabio Cortés Diaz
+Médico cirujano Universidad Nacional de Colombia y especialista en cirugía general de la Universidad Nacional de Colombia. Profesor asociado del departamento de cirugía de la Universidad Nacional de Colombia.
+
+Página 8 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Oscar Guevara Cruz
+
+Médica cirujano Universidad El Bosque, Cirujano general Universidad Nacional de Colombia. Cirujano Hepatobiliar en Hospital Beaujon, Université Paris VII. Se desempeña como cirujano hepatobiliar en Hospital Universitario Nacional de Colombia e instituto Nacional de cancerología
+
+Edgar German Junca Burgos
+
+Médico cirujano Universidad Nacional de Colombia. Cirujano General Universidad Nacional de Colombia. Cirujano Gastrointestinal Pontificia Universidad Javeriana. Se desempeña como cirujano gastroenterólogo Hospital Universitario Nacional de Colombia y gastroenterólogo en Hospital de Mederi.
+
+- Personal de apoyo
+
+Junior Jorge Huertas Chaves
+
+Auxiliar de enfermería, Dirección de Investigación e Innovación del Hospital Universitario Nacional de Colombia.
+
+-
+
+Expertos metodológicos asesores del proceso
+
+Rodrigo Pardo Turriago
+
+Médico y cirujano, especialista en neurología clínica, magíster en Epidemiología Clínica, se desempeña como profesor titular del Departamento de Medicina Interna e Instituto de Investigaciones Clínicas de la Facultad de Medicina de la Universidad Nacional de Colombia.
+
+Hernando Guillermo Gaitán Duarte
+
+Médico cirujano, especialista en obstetricia y ginecología, magíster en Epidemiología Clínica, se desempeña como profesor titular del Departamento de Obstetricia y Ginecología e Instituto de Investigaciones Clínicas de la Facultad de Medicina de la Universidad Nacional de Colombia.
+
+Página 9 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Anamaría Vargas Cáceres
+Ingeniera industrial, estudiante de la maestría en ingeniería industrial de la Universidad Nacional de Colombia. Se desempeña como analista sénior de investigación de la Dirección de Investigación e Innovación del Hospital Universitario Nacional de Colombia.
+
+Página 10 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+CONTRIBUCIONES DE LOS AUTORES Contribuciones de los autores
+- Coordinación clínica: Carlos Manuel Zapata, Tatiana Camacho Franco, Marcia Santafé Guerrero y Sebastián Navarro Téllez.
+- Coordinación metodológica: Giancarlo Buitrago Gutiérrez y Daniela Sánchez Santiesteban.
+- Definición de alcance y objetivos: Carlos Manuel Zapata, Tatiana Camacho Franco, Marcia Santafé Guerrero, Sebastián Navarro Téllez y Daniela Sánchez Santiesteban.
+- Revisión sistemática de guías de práctica clínica: Tatiana Camacho Franco, Marcia Santafé Guerrero, Sebastián Navarro Téllez y Daniela Sánchez Santiesteban.
+- Algoritmo clínico preliminar: Carlos Manuel Zapata, Tatiana Camacho Franco y Daniela Sánchez Santiesteban.
+- Acuerdo interdisciplinario: Carlos Manuel Zapata, Tatiana Camacho Franco, Wilmer Orlando Aponte Barrios, Ruth Katherine Álvarez Leaño, Sandra Milena Castellar Leones, María Esther Cháves Páez, Natalia Corredor Parra, Luz Myriam Díaz Londoño, Viviana Maritza Estrella Portillo, Andrea Lizeth Ibáñez Triana, Fricsy Jazmín Suárez, Nataly Vanesa Jiménez Ávila, Jorge Alberto Martínez Martínez, Jairo Antonio Pérez Cely, Johanna Andrea Prieto Ramírez, Angélica Viviana Rico Barrera, Rosa Lucia Rodríguez Díaz, Álvaro Andrés Roncancio Fernández, Carlos Humberto Saavedra Trujillo, Ángel Yobany Sánchez Merchán y Sandra Liliana Sosa Sabogal.
+- Algoritmo clínico final: Carlos Manuel Zapata, Tatiana Camacho Franco y Maria José Hoyos Bedoya.
+- Revisión y edición: Tatiana Camacho Franco, Paula Andrea González-Caicedo y María José Hoyos Bedoya.
+- Seguimiento del proceso: Comité de Estándares Clínicos.
+
+Página 11 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Contenido
+Introducción.................................................................................................................. 16 Alcance ........................................................................................................................ 18 Objetivos ...................................................................................................................... 19 Metodología ................................................................................................................. 20 Diagramas de flujo y puntos de control......................................................................... 25 Implementación del estándar clínico basado en la evidencia y evaluación de la adherencia ................................................................................................................... 44 Impacto esperado del ECBE ........................................................................................ 45 Actualización del ECBE................................................................................................ 46 Glosario........................................................................................................................ 47 Referencias .................................................................................................................. 49 Anexos ............................................................................................................................ 52
+
+Página 12 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Índice de tablas Tabla 1. Guías de práctica clínica identificadas en la búsqueda de la literatura que cumplieron con los criterios de elegibilidad para el desarrollo del estándar clínico basado en la evidencia................................................................................................................. 22 Tabla 2. Indicadores propuestos para evaluar puntos de control ..................................... 42
+
+Página 13 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Índice de figuras
+Figura 1. Metodología del proceso secuencial de desarrollo del estándar clínico basado en la evidencia para el diagnóstico, tratamiento y seguimiento del paciente adulto con apendicitis aguda en el Hospital Universitario Nacional de Colombia. ............................. 20 Figura 2. Diagrama de flujo para el diagnóstico, tratamiento y seguimiento del paciente adulto con apendicitis aguda en el Hospital Universitario Nacional de Colombia ............. 25 Figura 3. Sección 1 del diagrama de flujo: Diagnóstico del paciente con apendicitis....... 26 Figura 4. Sección 2 del diagrama de flujo: Clasificación y tratamiento no quirúrgico del paciente con diagnóstico de apendicitis aguda. ............................................................... 30 Figura 5. Sección 3 del diagrama de flujo: Tratamiento quirúrgico del paciente con apendicitis aguda. ............................................................................................................ 34 Figura 6. Sección 4 del diagrama de flujo: vigilancia postoperatoria del paciente con apendicitis aguda. ............................................................................................................ 38
+
+Página 14 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+AGREE AINES AIR BHCG BUN CIE-10 ECBE GPC GRADE
+HUN IV OR PCR POP PROA RMN TAC UCI US WSES
+
+Abreviaturas
+Appraisal of Guidelines for Research & Evaluation Antiinflamatorios no esteroideos Appendicitis inflammatory response Subunidad beta de la gonadotropina coriónica humana Nitrógeno ureico en sangre Clasificación Internacional de Enfermedades, décima revisión Estándares Clínicos Basados en la Evidencia Guías de Práctica clínica Grade of Recommendation, Assessment, Development, and Evaluation. Metodología que permite evaluar calidad de la evidencia Hospital Universitario Nacional de Colombia Intravenoso Odds ratio Proteína C reactiva Postoperatorio Programa de optimización de antimicrobianos Resonancia magnética nuclear Tomografía de abdomen contrastado Unidad de Cuidado Intensivo Ultrasonografía World surgery emergency society
+
+Página 15 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Introducción
+La apendicitis aguda es la inflamación del apéndice cecal y constituye la enfermedad gastrointestinal con requerimiento quirúrgico más frecuente en el mundo, llegando a afectar entre 5.7 - 57 personas por cada 100.000 individuos año (1), con un riesgo de 7 – 8 % de presentar apendicitis aguda a los largo de la vida (2). Se presenta de predominio en el género masculino, con pico de presentación entre la segunda y tercera década de la vida (2) con tasas de mortalidad menor de 0.3 % en apendicitis aguda no complicada y hasta 1.7 % en apendicitis aguda complicada (3).
+Las causas potenciales incluyen la obstrucción de la luz apendicular por hiperplasia linfoide (60 %), presencia de fecalitos (30 %) o carcinoma (0.5 - 1%), que producen distensión progresiva del apéndice cecal con posterior compromiso vascular y crecimiento de microorganismos patógenos que, sin tratamiento, pueden progresar a perforación y peritonitis (4). El cuadro clínico de esta enfermedad suele presentarse con dolor periumbilical mal definido, tipo cólico, anorexia, náuseas, vómito, fiebre y posteriormente migración del dolor a la fosa iliaca derecha; sin embargo, la presentación clínica puede variar de acuerdo con la ubicación del apéndice: retrocecal, preileal, postileal o pélvica (4).
+Para el diagnóstico de esta enfermedad se han descrito diferentes puntajes predictores como la Escala de Alvarado (Sensibilidad 96 % y Especificidad 91%) (1) o el Air Score, que usan variables clínicas y bioquímicas para clasificar los pacientes en bajo, moderado o alto riesgo, y así determinar la necesidad de estudios imagenológicos adicionales como la ecografía abdominal (Sensibilidad 85 % y Especificidad 81 %), la tomografía de abdomen contrastado (TAC) y resonancia magnética de abdomen (RMN) (1).
+La apendicitis aguda se clasifica como complicada y no complicada. La primera incluye la perforación con peritonitis, plastrón o absceso (del 2 - 10 % de los casos); y la segunda, se define en ausencia de los criterios anteriormente mencionados. El tratamiento convencional de los pacientes con esta condición es quirúrgico, ya sea por vía abierta o laparoscópica (2,5). También se ha descrito el tratamiento no quirúrgico basado en el tratamiento antibiótico con cubrimiento de gérmenes aerobios y anaerobios; sin embargo, se han descrito tasas de recurrencia del 25 - 30 % en primer año (2,5).
+
+Página 16 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+El abordaje preoperatorio de los pacientes con apendicitis no complicada consiste en la hidratación, corrección de trastornos hidroelectrolíticos, tratamiento del dolor y tratamiento antibiótico que permita disminuir las tasas de infección del sitio operatorio y el riesgo de absceso intraabdominal posquirúrgico (6). Retrasos en el procedimiento mayores a 48 horas pueden aumentar el riesgo de infección del sitio operatorio, mientras que el abordaje quirúrgico entre 12 a 24 horas de la admisión y diagnóstico, no está asociado con aumento en el riesgo de perforación ni otras complicaciones (Odds Ratio [OR] 0.97, 95% CI 0.781.19) (7). Teniendo en cuenta la frecuencia de presentación de esta patología, se considera de vital importancia debe establecerse un equipo multidisciplinario para el abordaje integral de esta patología y se propone la generación de recomendaciones basadas en la evidencia para estandarizar el proceso de diagnóstico, tratamiento y seguimiento de los pacientes con diagnóstico de apendicitis aguda mayores de 18 años que son atendidos en el HUN, mediante el desarrollo de un ECBE.
+
+Página 17 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Alcance
+Este ECBE busca, con base en la mejor evidencia disponible, elaborar un algoritmo clínico para establecer el diagnóstico, tratamiento y seguimiento de pacientes adultos con apendicitis aguda atendidos en consulta externa, hospitalización y cuidado crítico del HUN.
+Las recomendaciones aquí contenidas están dirigidas a diferentes profesionales de la salud (anestesiólogos, cirujanos generales, médicos intensivistas, enfermeros, químicos farmacéuticos, fisioterapeutas, fonoaudiólogos, infectólogos, ingenieros biomédicos, bacteriólogos, patólogos, fisiatras, médicos generales, nutricionistas, psicólogos, radiólogos, terapeutas ocupacionales, trabajadores sociales), así como a otros técnicos o auxiliares involucrados en la atención de pacientes adultos con apendicitis aguda. Este ECBE además podrá ser usado tanto por docentes como por estudiantes de ciencias de la salud (pregrado y posgrado) de la Universidad Nacional de Colombia, que se encuentren realizando sus prácticas clínicas en el HUN, así como por personal asistencial y administrativo de la institución responsable de tomar decisiones relativas al abordaje integral de estos pacientes, con el fin de facilitar el proceso de implementación del ECBE en el hospital.
+Es importante mencionar que este documento no incluye recomendaciones de técnicas quirúrgicas, complicaciones quirúrgicas o apendicitis en gestantes, ni en población pediátrica.
+
+Página 18 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Objetivos
+Estos se dividen en general y específicos, como se detalla a continuación.
+Objetivo general
+Identificar las indicaciones para el diagnóstico, tratamiento y seguimiento de pacientes adultos con apendicitis aguda atendidos en el HUN, mediante el desarrollo de un ECBE.
+Objetivos específicos
+● Identificar las áreas/servicios asistenciales del HUN involucrados en el diagnóstico, tratamiento y seguimiento de pacientes adultos con apendicitis aguda.
+● Identificar recomendaciones basadas en la evidencia para el diagnóstico, tratamiento y seguimiento de pacientes adultos con apendicitis aguda en el HUN.
+● Generar un consenso entre las diferentes áreas/servicios asistenciales involucrados con el diagnóstico, tratamiento y seguimiento de pacientes adultos con apendicitis aguda atendidos en consulta externa, hospitalización y unidad de cuidado intensivo (UCI) del HUN.
+● Elaborar un algoritmo clínico para el diagnóstico, tratamiento y seguimiento de pacientes atendidos en el HUN con diagnóstico de apendicitis aguda.
+● Identificar puntos de control para la implementación y evaluación del ECBE.
+● Presentar los lineamientos para la difusión, actualización e implementación del ECBE.
+
+Página 19 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Metodología
+El ECBE se desarrolló mediante un proceso secuencial de siete componentes: i) conformación del equipo desarrollador; ii) definición del alcance y los objetivos del ECBE; iii) revisión sistemática de guías de práctica clínica (GPC); iv) elaboración del algoritmo preliminar; v) desarrollo de un acuerdo interdisciplinario; vi) elaboración del algoritmo final,
+Figura 1. Metodología del proceso secuencial de desarrollo del estándar clínico basado en la evidencia para el diagnóstico, tratamiento y seguimiento del paciente adulto con apendicitis aguda en el Hospital Universitario Nacional de Colombia.
+
+Fuente: elaboración propia. El grupo desarrollador del ECBE estuvo conformado por expertos en cirugía general y en epidemiología clínica. Todos los miembros diligenciaron los formatos de divulgación de conflictos de intereses. Una vez constituido, el grupo interdisciplinario estableció los objetivos y el alcance del ECBE. En la etapa de revisión de la literatura, se realizaron búsquedas sistemáticas en diferentes bases de datos (MEDLINE, Embase y LILACS) y organismos desarrolladores y compiladores de GPC, usando lenguaje controlado para identificar las GPC que respondieran al objetivo y alcance planteados (ver anexo 1 para más información sobre las estrategias de búsqueda) El proceso de tamización y selección de la evidencia se realizó teniendo en cuenta los siguientes criterios de elegibilidad establecidos por el equipo desarrollador:
+Página 20 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+1. Criterios de inclusión
+- GPC sobre el diagnóstico, tratamiento y seguimiento del paciente adulto con apendicitis aguda.
+- GPC publicadas en inglés o español y con acceso a texto completo. - GPC publicadas en los últimos 10 años (2013-2023)
+2. Criterios de exclusión
+- GPC con evaluación de la calidad global menor a seis según el instrumento AGREE II o con un puntaje menor a 60 % en los dominios de rigor metodológico e independencia editorial.
+- GPC sobre el diagnóstico, tratamiento y seguimiento de pacientes con apendicitis aguda en población pediátrica (menores de 18 años).
+- GPC sobre diagnóstico, tratamiento y seguimiento de pacientes con apendicitis aguda en población gestante.
+La tamización de la evidencia se realizó mediante la revisión del título, resumen y texto completo de los documentos identificados en las búsquedas sistemáticas. Este proceso se hizo de manera independiente por dos miembros del grupo desarrollador; las discrepancias las resolvió un tercer integrante. La calidad de las GPC seleccionadas la evaluaron de manera independiente dos integrantes del grupo desarrollador (un experto clínico y un experto metodológico), para lo cual se utilizó el instrumento AGREE-II (8).
+El proceso de tamización y selección de las GPC se resume en el diagrama PRISMA (anexo 2). Finalmente, después de aplicar los criterios de elegibilidad se incluyeron los documentos presentados en la tabla 1. Para más información sobre las búsquedas sistemáticas de la literatura, ver el anexo 1.
+
+Página 21 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Tabla 1. Guías de práctica clínica identificadas en la búsqueda de la literatura que cumplieron con los criterios de elegibilidad para el desarrollo del estándar clínico basado en la evidencia.
+
+Reporte AGREE-II
+
+Nombre de Grupo de Paí Idio Añ Rigor Indepen Calid
+
+Id la GPC desarroll s ma o metodoló dencia ad
+
+ador
+
+gico
+
+editorial glob
+
+al
+
+EAES Rapid European
+
+GP guideline:
+
+associatio Ale Inglé 20
+
+C1 appendicitis n for
+
+ma s 21 66.7% 100% 5
+
+in the elderly endoscopi nia
+
+c surgery
+
+Italian
+
+The society of
+
+SIFIPAC/WS geriatric
+
+ES/SICG/SIM surgery
+
+EU guidelines World
+
+GP for diagnosis society of Itali Ingle 20
+
+C2 and treatment emergenc a s 19 64.6% 75% 5
+
+of acute
+
+y surgery
+
+appendicitis Italian
+
+in the elderly society of
+
+(2019 edition) emergenc
+
+y
+
+medicine
+
+WSES
+
+Jerusalem
+
+World
+
+guidelines for Journal of Ing
+
+GP diagnosis Emergen lat Inglé 20 70%
+
+C3 and
+
+err s
+
+16
+
+cy
+
+treatment of Surgery a
+
+acute
+
+appendicitis
+
+96%
+
+5
+
+Página 22 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Diagnosis
+
+and
+
+treatment of World
+
+acute
+
+Journal of
+
+GP appendicitis: Emergen Itali Inglé 20 60%
+
+C4
+
+a s
+
+20
+
+2020 update cy
+
+of the WSES Surgery
+
+Jerusalem
+
+guidelines
+
+GPC: guía de práctica clínica. Fuente: elaboración propia.
+
+88%
+
+5
+
+En cuanto a la elaboración de la propuesta preliminar del ECBE: en primer lugar, se elaboró una tabla de extracción de información utilizando un sistema de dominios (explicado en el anexo 1); en segundo, se extrajo la evidencia contenida en las 4 GPC seleccionadas (los niveles de evidencia y grados de recomendación utilizados por cada una de las GPC se encuentran en el anexo 4), y, finalmente, se identificaron las áreas asistenciales del HUN involucradas en el proceso de atención de pacientes adultos con apendicitis aguda, para elaborar el algoritmo clínico para el diagnóstico, tratamiento y seguimiento del paciente adulto con apendicitis aguda, atendidos en la institución.
+En la fase del acuerdo interdisciplinario, se designaron representantes de las áreas asistenciales involucradas en la atención de estos pacientes, a quienes se les envió la versión preliminar del algoritmo con el fin de que lo evaluaran antes de asistir a la reunión de consenso. En esta reunión, participaron los representantes de los siguientes servicios/áreas asistenciales: anestesiología, cirugía general, cuidado crítico, enfermería, farmacia, fisioterapia, fonoaudiología, infectología, ingeniería biomédica, laboratorio clínico y patología, medicina física y rehabilitación, medicina hospitalaria, nutrición clínica, psicología, radiología, seguridad del paciente, terapia ocupacional, trabajo social. El líder clínico del ECBE estuvieron a cargo de la presentación de los algoritmos y la reunión fue moderada por un representante de la Dirección de Investigación e Innovación.
+Se presentaron 4 secciones del ECBE, así como una sección adicional sobre los puntos de control, y se realizaron las votaciones correspondientes para cada una. El resultado de las 5 votaciones permitió confirmar la existencia de consenso total a favor de usar las recomendaciones para el diagnóstico, tratamiento y seguimiento del paciente adulto con apendicitis aguda, contenidas en los diagramas de flujo presentados (los resultados adicionales de este ejercicio se pueden consultar en el anexo 1).
+
+Página 23 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Luego, el equipo desarrollador unificó las sugerencias realizadas en la reunión de consenso interdisciplinario y, con base en estas, elaboró la versión final del ECBE. Por último, se realizó la revisión de estilo y diagramación del documento y, de esta forma, se obtuvo la versión final.
+
+Página 24 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Diagramas de flujo y puntos de control
+Figura 2. Diagrama de flujo para el diagnóstico, tratamiento y seguimiento del paciente adulto con apendicitis aguda en el Hospital Universitario Nacional de Colombia
+
+Fuente: elaboración propia
+
+Página 25 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Sección 1: Diagnóstico del paciente con apendicitis Figura 3. Sección 1 del diagrama de flujo: Diagnóstico del paciente con apendicitis
+
+Fuente: elaboración propia
+
+Página 26 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Información adicional
+A. Paciente con sospecha de apendicitis aguda: se considera paciente con sospecha clínica de apendicitis aguda aquel que cursa con cuadro clínico de dolor abdominal de inicio en epigastrio o periumbilical con migración a fosa ilíaca derecha (60 %), asociado a náuseas, emesis o fiebre (9); sin embargo, la presentación típica de síntomas solo la presenta el 50 % de los pacientes (10). Deben tenerse en cuenta las presentaciones atípicas asociadas a la ubicación del apéndice, como la diarrea, dolor suprapúbico, dolor en el hemiescroto ipsilateral o sintomatología urinaria (11).
+B. Anamnesis, examen físico, paraclínicos y definir voluntades anticipadas en el paciente con sospecha de apendicitis aguda: el abordaje del paciente con sospecha de apendicitis aguda incluye la anamnesis, examen físico y resultados de paraclínicos (Recomendación de expertos). Se debe indagar sobre el tiempo de evolución y el orden aparición de los síntomas, así como evaluar la presencia de taquicardia, fiebre, dolor en cuadrante abdominal inferior derecho, defensa abdominal, signo de Blumberg u otros signos de irritación peritoneal (Recomendación de expertos)
+Ante la sospecha, se debe solicitar hemograma (CUPS: 902210), proteína C reactiva (PCR; CUPS: 906913), uroanálisis (CUPS: 907106), nitrógeno ureico (BUN; CUPS: 903856), creatinina sérica (CUPS: 903895) y subunidad beta de la hemoglobina coriónica humana (BHCG; CUPS: 904508) en mujeres en edad fértil (recomendación de expertos). Además, debe definirse desde el ingreso, las voluntades anticipadas del paciente respecto a procedimientos invasivos, y considerar el enfoque diferencial en caso de pertenecer a grupo étnico específico, tener alguna discapacidad, entre otros (recomendación de expertos).
+C. Escalas para evaluación de riesgo de apendicitis: se han planteado diferentes escalas con el fin de evaluar el riesgo presentar apendicitis aguda; sin embargo, se recomienda uso del Appendicitis inflammatory response (AIR score, por sus siglas en inglés), como herramienta de apoyo al diagnóstico (Nivel de evidencia [NE]: alto, Grado de recomendación [GR]: fuerte, GRADE ) (12). Para puntajes mayores o iguales a 5, tiene una S de 98% y especificidad 97 %) (13) Esta escala incluye 7 variables que evalúan sintomatología, examen físico y paraclínicos (sensibilidad reportada de hasta 92 % y especificidad de 63%) (12) (Ver anexo 5). De acuerdo al puntaje, se puede clasificar el riesgo de tener apendicitis aguda en:
+● Riesgo bajo: 0-4 puntos ● Riesgo intermedio: 5-7 puntos ● Riesgo alto: 8 o más puntos
+En todos los casos, la clasificación en la que se consideró que se encuentra el paciente, debe ser consignada en la historia clínica (Recomendación de expertos).
+Página 27 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+D. Hospitalización y tratamiento general en el paciente con riesgo bajo/intermedio de apendicitis aguda: el paciente con riesgo identificado como bajo de apendicitis aguda, debe ser hospitalizado por cirugía general; después de esto, se debe definir inicio y tipo de dieta, evaluar grado de deshidratación para definir reposición de líquidos y definir analgesia. En el paciente con riesgo identificado como intermedio de apendicitis aguda, se debe hospitalizar por cirugía general, indicar nada vía oral, evaluar grado de deshidratación, iniciar líquidos endovenosos y analgesia con opioides ya que se ha demostrado que el uso de opioides no aumenta el riesgo de error diagnóstico ni influye en la toma de decisiones (recomendación de expertos) (14).
+E. Estudio causas de dolor abdominal de origen no apendicular: en el paciente con bajo riesgo de cursar con apendicitis (según AIR score), deben estudiarse otras causas de dolor abdominal de origen no apendicular como enfermedad diverticular complicada, adenitis mesentérica, volvulus, enfermedad pélvica inflamatoria, absceso tubo ovárico, torsión ovárica, embarazo ectópico, urolitiasis, etc. De acuerdo a criterio clínico se debe solicitar estudios adicionales e interconsultas pertinentes (recomendación de expertos) (16).
+F. Realización TAC abdomen contrastado: en el paciente con 65 años o más, o en el paciente obeso (índice de masa corporal >= 30), se recomienda la realización de tomografía de abdomen y pelvis contrastado (contraste oral e intravenoso [IV]; CUPS: 879420) (sensibilidad de hasta 99% y especificidad de 84%) (12) (NE: baja, GR: fuerte, GRADE) (20). En caso de estar contraindicada la administración de contraste IV puede optarse por realización de ultrasonido (US) de abdomen total (CUPS: 881302) o tomografía computada de vías urinarias (UROTAC; CUPS: 879430). Para el paciente que cuenta con imágenes extrainstitucionales que puedan ser revisadas, que cuenten con reporte oficial de la tomografía de abdomen o US, no es necesario repetir el estudio imagenológico (recomendación de expertos).
+G. Ultrasonido de abdomen total en el paciente menor de 65 años no obeso: en el paciente con riesgo intermedio de apendicitis aguda, menor de 65 años, no obeso, debe realizarse una US de abdomen total (CUPS: 881302) como primera opción de acuerdo a disponibilidad (S 76 %, E 95 %) (NE: baja, GR: Fuerte, GRADE) (11). En caso de no estar disponible, realizar una TAC de abdomen contrastada (CUPS: 879420) (recomendación de expertos). Para el paciente que cuenta con imágenes extrainstitucionales que puedan ser revisadas, que cuenten con reporte oficial de la tomografía de abdomen o US, no es necesario repetir el estudio imagenológico (recomendación de expertos).
+
+Página 28 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+H. Apendicitis aguda confirmada por imagen: los hallazgos tomográficos de apendicitis aguda incluyen aumento tamaño apendicular > 6 mm, aumento espesor de pared > 2 mm, fecalito, estriación grasa periapendicular y realce de pared apendicular (5,8). Los hallazgos ecográficos sugestivos de apendicitis aguda incluyen no compresibilidad de apéndice cecal, diámetro mayor de 6 mm (S 98%), estriación de grasa periapendicular, dolor a la compresión en fosa iliaca derecha, liquido libre en cuadrante inferior derecho, colección líquida consistente con absceso y fecalito.
+I. Laparoscopia diagnóstica en el paciente con sospecha de apendicitis aguda que no presenta mejoría de síntomas: en el paciente con sospecha clínica de apendicitis aguda que no ha tenido hallazgos conclusivos en imágenes, se debe programar realización de laparoscopia diagnóstica (CUPS: 542101) (NE: alto, GR: fuerte, GRADE) (12).
+
+Página 29 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Sección 2: Clasificación y tratamiento no quirúrgico del paciente con diagnóstico de apendicitis aguda
+Figura 4. Sección 2 del diagrama de flujo: Clasificación y tratamiento no quirúrgico del paciente con diagnóstico de apendicitis aguda.
+
+Fuente: elaboración propia
+
+Página 30 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Información adicional
+J. Tratamiento inicial del paciente con diagnóstico de apendicitis aguda: en el paciente con diagnóstico de apendicitis aguda, debe iniciarse tratamiento antibiótico con ampicilina sulbactam 3 gr IV cada 6 horas para administración inmediata (Recomendación de expertos). Para este momento, el paciente debe continuar nada vía oral, infusión con líquidos endovenosos, analgesia y omeprazol 40 mg IV al día. En caso de transcurrir más de 3 horas sin realización de apendicectomía, debe administrase una segunda dosis del mismo antibiótico; esto NO implica que se deba continuar cada 3horas, solamente hace referencia a la administración del antibiótico inmediatamente antes del procedimiento quirúrgico (recomendación de expertos).
+K. Hallazgos clínicos e imagenológicos de apendicitis aguda complicada: la apendicitis aguda complicada se define como la presencia de apendicitis aguda perforada, presencia de absceso o plastrón apendicular (12), que puede sospecharse clínicamente ante la presencia de masa en fosa iliaca derecha (14), o tiempo de evolución mayor de 72 horas. En los estudios tomográficos se define la presencia de apendicitis aguda complicada en caso de presentar apendicolito extraluminal (E 100 % y S 32%), absceso (pared periférica realzada), aire extraluminal (E 98% y S 22-35%), defecto en pared de apéndice o estriación grasa appendicular (18).
+L. Criterios para considerar tratamiento no quirúrgico: se considera que un paciente es potencialmente candidato a tratamiento no quirúrgico, cuando cumpla con los siguientes criterios (todos): ser menor de 65 años; no contar con comorbilidades o presentarlas; pero estas deben estar compensadas; tener un cuadro clínico menor de 24 horas; contar con tomografía de abdomen que descarte complicación; contar con una buena red de apoyo y posibilidad de seguimiento clínico presencial en máximo 48 horas (NE: moderada, GR: fuerte, GRADE) (12).
+M. Tratamiento manejo no quirúrgico en el paciente con apendicitis aguda: según criterio médico de cirujano tratante se puede ofrecer tratamiento no quirúrgico al paciente que cumpla con los criterios anteriormente mencionados (recomendación de expertos). Al paciente que se defina como candidato, el tratamiento consiste en antibiótico IV de amplio espectro por 2 días y posteriormente cambio a vía oral con el fin de completar 7 – 10 días (NE: moderada, GR: fuerte, GRADE) (12), (NE: baja, GR: fuerte, Oxford) (16).
+
+Página 31 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Por otro lado, de acuerdo con evaluación del paciente, debe solicitarse valoración por terapia física (CUPS: 890411), terapia respiratoria (CUPS: 890412), fonoaudiología (CUPS: 890410), trabajo social (CUPS: 890409), psicología (CUPS: 890408), psiquiatría (CUPS: 890484) y terapia ocupacional (intervención de paciente y familiar realizando evaluación del desempeño de los componentes: sensorio-motor, cognitivo-perceptual, socio-emocional, CUPS: 890413), según requerimiento del paciente (recomendación de expertos).
+N. Paciente con mejoría clínica: en el paciente a quien se realizó tratamiento no quirúrgico, o se realizó manejo antibiótico y /o drenaje percutáneo se debe hacer seguimiento clínico estricto con revaloración por turno, para definir si ha tenido mejoría de los síntomas, es decir, si ha disminuido la intensidad de dolor abdominal, si tolera la dieta, no presenta episodios eméticos, no presenta fiebre, taquicardia, hipotensión, signos de irritación peritoneal, y si presenta diuresis espontánea (recomendación de expertos) (14).
+O. Recomendaciones para egreso del paciente con mejoría de síntomas: en el paciente con diagnóstico de apendicitis aguda, que ha presentado mejoría de síntomas, se recomienda, según criterio clínico, egreso con analgesia, recomendaciones interdisciplinarias y signos de alarma para consultar por urgencias (reaparición y/o aumento de dolor abdominal, vómito, fiebre con temperatura > 38 ° C). En caso de tratarse de paciente con absceso o plastrón apendicular, debe entregarse orden de colonoscopia ambulatoria (recomendación de expertos) (14).
+P. Tratamiento quirúrgico de urgencia: en el paciente con apendicitis aguda en quien se inició tratamiento no quirúrgico, o drenaje percutáneo, pero no presenta mejoría clínica (aumento de dolor abdominal, signos de respuesta inflamatoria persistentes o signos de irritación peritoneal), debe considerarse tratamiento quirúrgico de urgencia (recomendación de expertos).
+Q. Presencia de plastrón apendicular: el plastrón apendicular se presenta en 10 % de los casos de apendicitis aguda y se trata de una masa formada por tejido inflamatorio adyacente al apéndice perforado, delimitando el proceso infeccioso (se puede asociar a asas de intestino delgado, epiplón y otros órganos). Debe sospecharse ante la presencia de masa palpable en fosa iliaca derecha, tiempo de duración mayor a 72 horas y/o hallazgo radiológico de plastrón (10).
+
+Página 32 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+R. Tratamiento del paciente con plastrón apendicular: teniendo en cuenta el alto riesgo de complicación por la inflamación de tejidos, no se recomienda tratamiento quirúrgico del paciente con plastrón apendicular, sino considerar la administración de antibiótico de amplio espectro. En caso de presentar absceso asociado, se recomienda tratamiento conservador con antibiótico de amplio espectro, drenaje percutáneo del mismo y vigilancia clínica estricta (NE: alta, GR: Fuerte, GRADE) (1), (NE: Baja, GR: Condicional, GRADE) (16). En caso de presentar obstrucción intestinal asociado a la presencia de plastrón apendicular, se debe programar tratamiento quirúrgico (de preferencia el laparoscópico), si se cuenta con un cirujano experto (NE: moderada, GR: Débil, GRADE) (12).
+
+Página 33 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Sección 3: Tratamiento quirúrgico del paciente con apendicitis aguda
+Figura 5. Sección 3 del diagrama de flujo: Tratamiento quirúrgico del paciente con apendicitis aguda.
+
+Fuente: elaboración propia
+
+Página 34 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Información adicional
+S. Tratamiento antibiótico en el paciente con sospecha de apendicitis aguda: para el paciente con sospecha de apendicitis aguda, en plan de laparoscopia diagnóstica, debe administrarse antibiótico: ampicilina sulbactam 3 gr IV previo a la realización de procedimiento o aztreonam en caso de alergia a betalactámicos (recomendación de expertos). Si han transcurrido más de 3 horas desde la aplicación de la última dosis y el inicio de la cirugía, se debe administrar una dosis adicional preoperatoria (recomendación de expertos)
+T. Paciente con sospecha de sepsis/choque séptico en el paciente con diagnóstico de apendicitis aguda: para el paciente en quien se sospeche sepsis o choque séptico debe realizarse anamnesis y examen físico completo, incluyendo la medición de la temperatura corporal, frecuencia cardiaca, frecuencia respiratoria, presión arterial sistólica, nivel de conciencia y nivel de saturación periférica arterial de oxígeno. Se debe examinar la piel en búsqueda de piel moteada, cianosis (piel, labios o lengua), u otro tipo de compromiso sugestivo de potencial infección.
+En el paciente que se sospecha, se puede evidenciar dentro de los paraclínicos, leucocitosis (recuento de glóbulos blancos > 12 000 microL), leucopenia (recuento de glóbulos blancos < 4 000 microL) o recuento normal de glóbulos blancos con más del 10 % de formas inmaduras (en banda), trombocitopenia (recuento de plaquetas < 100 000 microL), hiperglucemia (glucosa en plasma > 140 mg/dl o 7.7 mmol/l), en ausencia de diabetes y niveles de PCR en plasma más de dos desviaciones estándar por encima del valor normal (28).
+U. Tratamiento antibiótico en el paciente con diagnóstico de apendicitis aguda en plan de tratamiento quirúrgico: Se indica iniciar terapia antimicrobiana de amplio espectro con ampicilina/sulbactam 3 g intravenosos cada seis horas o en caso de alergia a betalactámicos aztreonam 2 g intravenosos cada ocho horas más metronidazol 500 mg intravenosos cada ocho horas, los cuales deben ser confirmados hasta que se realice el procedimiento quirúrgico y la duración ajustada de acuerdo a los hallazgos intraoperatorios según se describe en párrafos posteriores preoperatoria (Recomendación de expertos)
+
+Página 35 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+V. Elección del abordaje para el tratamiento quirúrgico del paciente con apendicitis aguda: el tratamiento quirúrgico se debe hacer dentro de las primeras 24 horas en el paciente con apendicitis aguda no complicada (NE: moderada, GR: fuerte, GRADE) (4), o en primeras 8 horas en casos de apendicitis aguda complicada (Recomendación de expertos). Si el paciente es mayor de 65 años se debe realizar la apendicectomía tan pronto como sea posible (NE: muy baja, GR: condicional, GRADE) (5). El tipo de abordaje para la realización de la apendicectomía (CUPS: 471102 o 471110) debe ser elegido de acuerdo a experiencia del cirujano y la disponibilidad de insumos institucionales; sin embargo, el abordaje de preferencia que es sugerido en todas las edades es el abordaje laparoscópico (CUPS: 471110) (NE: alta, GR: fuerte, Escala GRADE) (12).
+W. Abordaje laparoscópico en el paciente con apendicitis aguda: para el paciente con apendicitis aguda en quien se decide abordaje laparoscópico (CUPS: 471110), se recomienda realizar el abordaje por 3 puertos respecto a monopuerto (NE: alta, GR: fuerte, GRADE) (12), ya que se disminuye el dolor, la probabilidad de infección de sitio operatorio, la estancia hospitalaria y el tiempo de reintegro al trabajo (5) . Para el procedimiento, deben solicitarse trocares de laparoscopia de 10 mm, 5 mm (no.2), pinzas grasper, Maryland, electrocoagulación, tijera laparoscópica, sistema de succión, electrodo hook, clips metálicos, harmonic, hemlocks morados o dorados, endoloop, sutura mecánica lineal cortante (recomendación de expertos). En caso de ser necesario, puede optarse por la inserción de 1 o más puertos adicionales (recomendación de expertos).
+X. Hallazgos intraoperatorios que confirman el diagnóstico de apendicitis aguda: los hallazgos intraoperatorios pueden variar desde la congestión y edema del apéndice cecal, hasta fase fibrinoide, necrosis y gangrena, microperforaciones / perforación, absceso o plastrón apendicular, peritonitis localizada o peritonitis generalizada (16).
+Y. Abordaje abierto de apendicectomía con incisión local: en el paciente llevado a apendicectomía por abordaje abierto (CUPS: 471102) se puede realizar incisión local por Rocky Davis o McBurney, de acuerdo a criterio médico (recomendación de expertos).
+Z. Resección de apéndice cecal: la resección del apéndice cecal está indicada para el paciente con hallazgos intraoperatorios de apendicitis aguda independientemente del tipo de abordaje; sin embargo, en el paciente con abordaje laparoscópico que no presente hallazgos intraoperatorios de apendicitis aguda y que no tenga hallazgos de otra patología diferencial (enfermedad diverticular complicada, absceso tubo ovárico, torsión ovárica, enfermedad pélvica inflamatoria, divertículo de Meckel), debe realizarse apendicectomía (NE: moderada, GR: débil, Escala GRADE) (12).
+
+Página 36 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+En el paciente con incisión local debe realizarse siempre resección de la apéndice cecal independientemente de los hallazgos intraoperatorios, y deben descartarse otros diagnósticos diferenciales (enfermedad diverticular complicada, absceso tubo ovárico, torsión ovárica, enfermedad pélvica inflamatoria, divertículo de Meckel) (3) (recomendación de expertos).
+No hay diferencias entre ligadura, endoloops o clips en casos de apendicitis no complicada (12). Se recomienda realizar sutura mecánica en caso de apendicitis aguda complicada. Para la resección de apéndice cecal, se recomienda realizar disección con monopolar o bipolar por costo efectividad (NE: moderada, GR: débil, GRADE) (12), y realizar ligadura simple de base apendicular en vez de jareta (NE: alta, GR: fuerte, GRADE) (12). No se recomienda uso de dren en casos de apendicitis aguda complicada (NE: moderada, GR: fuerte, GRADE) (12), y el cierre de la piel debe realizarse con sutura intradérmica (NE: moderada, GR: débil, GRADE) (12). Se debe tener en cuenta la posibilidad de realizar otros procedimientos de acuerdo a compromiso de base apendicular, ciego, y asas intestinales (recomendación de expertos).
+AA. Hallazgos de otra condición que explique sintomatología: en el paciente llevado a procedimiento quirúrgico en el que no se encuentran hallazgos de apendicitis aguda, deben valorarse otras posibilidades diagnósticas (enfermedad diverticular complicada, absceso tubo ovárico, torsión ovárica, enfermedad pélvica inflamatoria, divertículo de Meckel), durante el procedimiento (recomendación de expertos).
+
+Página 37 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Sección 4: Vigilancia Postoperatoria del paciente con apendicitis aguda
+Figura 6. Sección 4 del diagrama de flujo: vigilancia postoperatoria del paciente con apendicitis aguda.
+
+Fuente: elaboración propia
+
+Página 38 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Información adicional
+AB. Hallazgos intraoperatorios de apendicitis aguda complicada: durante la cirugía es posible determinar apendicitis aguda complicada en caso de encontrar perforación de apéndice cecal, presencia de peritonitis localizada o generalizada, presencia de fecalito, plastrón o absceso. En este caso debe considerar duración del manejo antibiótico de hasta 5 días de acuerdo a evolución clínica del paciente, resolución de SIRS y adecuado control del foco. (recomendación de expertos)
+AC. Criterios de ingreso y egreso de unidad de cuidado crítico: Para considerar si el paciente es candidato a ingreso o egreso de la unidad de cuidados intensivos, se debe tener en cuenta el protocolo institucional de criterios institucionales de ingreso a cuidado crítico, que se encuentra en el sistema de información de la institución bajo el código ACAP-10 (Recomendación de expertos).
+AD. Tratamiento integral en cuidado crítico: todo paciente que requiera vigilancia continua y no presente disentimiento para esto, debe ser trasladado e iniciar tratamiento integral en cuidado crítico, según lineamientos institucionales (recomendación de expertos). Se recomienda el inicio temprano de rehabilitación para disminuir las complicaciones asociadas a la estancia prolongada en cama (recomendación de expertos).
+AE. Paciente en vigilancia postoperatoria de apendicectomía: para el paciente en postoperatorio de apendicectomía, debe realizarse vigilancia clínica (dolor abdominal, sangrado, signos de irritación peritoneal, tolerancia a vía oral) durante primeras 6 horas (recomendación de expertos). Una vez observada adecuada evolución, se recomienda iniciar protocolo de movilización temprana a cargo del servicio de fisioterapia. Para el caso en que el paciente NO presente apendicitis aguda complicada, no dosis adicionales de antimicrobiano ni manejo antibiótico postoperatorio (recomendación de expertos).
+AF. Paciente con adecuada evolución postoperatoria: se considera adecuada evolución clínica postoperatoria si existe disminución del nivel dolor abdominal con analgesia oral, presenta estabilidad hemodinámica, no se evidencia sensación de náuseas o episodios de emesis, tolerancia vía oral, se evidencia tránsito intestinal y diuresis presente, ausencia de fiebre, se evidencian heridas quirúrgicas en buen estado y no cuenta con signos de irritación peritoneal (29)
+
+Página 39 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+AG. Tratamiento integral en sala de hospitalización general: los cuidados postoperatorios del paciente con apendicitis aguda incluyen la hospitalización por cirugía general, definir analgesia de acuerdo con evolución clínica, definir inicio de vía oral, completar tratamiento antibiótico de acuerdo a hallazgos intraoperatorios (NE: alta, GR: fuerte, GRADE) (12) e iniciar movilización temprana a cargo del servicio de fisioterapia (recomendación de expertos). Debe solicitarse además valoración por nutrición, terapia respiratoria (CUPS: 890412), fonoaudiología (CUPS: 890410), trabajo social (CUPS: 890409), psicología (CUPS: 890408), psiquiatría (CUPS: 890484) y terapia ocupacional (CUPS: 890413), cuando estos se encuentren indicados (recomendación de expertos).
+AH. Consideraciones para el egreso del paciente: en el paciente POP de apendicectomía que presente adecuada evolución, se puede plantear egreso de acuerdo a criterio médico del cirujano, activando plan de egreso hospitalario y de rehabilitación postoperatoria. Para el paciente con hallazgos intraoperatorios de apendicitis aguda no complicada puede plantearse el egreso temprano después de 6 horas de vigilancia. Se deben explicar y entregar recomendaciones interdisciplinarias y signos de alarma (Ver anexo 6), orden de cita de control con cirugía general, analgesia con antiinflamatorios no esteroideos (AINES) y valoración de patología (recomendación de expertos). Se sugiere realizar colonoscopia en el paciente mayor de 65 años (NE: baja, GR: fuerte, GRADE) (16).
+AI. Complicaciones en el paciente en postoperatorio de apendicectomía: en el paciente en POP apendicectomía con evolución clínica tórpida, debe considerarse la presencia de colecciones intraabdominales, pexia, perforación intestinal, obstrucción intestinal, íleo POP, infección de sitio operatorio superficial, lesión inadvertida, hemoperitoneo, apendicitis del muñón (recomendación de expertos) (20). De igual manera, se debe considerar sospecha de sepsis o choque séptico, para lo cual se recomienda el abordaje de acuerdo con el ECBE Tratamiento del paciente con sepsis y/o choque séptico en el HUN (29).
+
+Página 40 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+PUNTOS DE CONTROL
+Los puntos de control para el ECBE se definieron teniendo en cuenta momentos clave en diagnóstico, tratamiento y seguimiento del paciente con apendicitis aguda en el HUN. Estos puntos de control fueron elegidos de forma conjunta por los miembros del equipo desarrollador y se presentan a continuación:
+1. Realización de escala de riesgo de apendicitis aguda (Sección 1: Diagnóstico del paciente con apendicitis aguda): se evaluará la consignación de la escala AIR score en la historia clínica. La realización de la escala AIR score permite clasificar el riesgo de apendicitis y definir la conducta a seguir.
+2. Administración de manejo antibiótico (Sección 3: tratamiento quirúrgico): Se evaluará la administración de terapia antibiótica hasta 3 horas antes del inicio del procedimiento quirúrgico lo que permite el adecuado cubrimiento antibiótico preoperatorio que disminuya complicaciones infecciosas.
+3. Tiempo de manejo quirúrgico (Sección 3: tratamiento quirúrgico): el paciente con indicación quirúrgica debe recibir el manejo en un tiempo máximo de 24 horas, y en pacientes con diagnóstico de apendicitis complicada en un tiempo máximo de 8 horas para disminuir complicaciones como perforación, peritonitis generalizada, plastrón apendicular, choque séptico, etc
+4. Seguimiento ambulatorio en el postoperatorio con reporte de patología (Sección 4: vigilancia postoperatoria): Se evaluará la atención por consulta externa en el postoperatorio de todos los pacientes con apendicitis aguda con reporte de resultado patología en la historia clínica con el fin de identificar tempranamente lesiones neoplásicas.
+5. Recomendaciones de egreso de forma interdisciplinaria y signos de alarma (Sección 4: vigilancia postoperatoria): Se evaluará consignación en historia clínica de entrega de recomendaciones interdisciplinarias a los pacientes con egreso hospitalario que permitan una recuperación integral temprana en casa.
+
+Página 41 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Indicadores para evaluación de los puntos de control
+
+En la tabla 2 se presentan los indicadores propuestos para desarrollar procesos de implementación y vigilancia de los puntos de control definidos en la sección Definición de puntos de control.
+
+Tabla 2. Indicadores propuestos para evaluar puntos de control
+
+Nombre
+1. Escala de riesgo
+2. Tratamiento antibiótico
+
+Definición
+Proporción de pacientes con sospecha de apendicitis aguda con registro del AIR score.
+Proporción de pacientes con diagnóstico de apendicitis aguda e indicación de tratamiento quirúrgico, en quienes se administró terapia antibiótica hasta 3 horas antes del inicio del procedimiento.
+
+Fórmula
+Número de pacientes con sospecha de apendicitis aguda y reporte del AIR score
+Número de pacientes con sospecha de apendicitis aguda
+Número de pacientes con diagnóstico de apendicitis aguda, indicación de tratamiento quirurgico y administración de antibiotico hasta 3 horas antes del procedimiento Número de pacientes con diagnóstico de apendicitis aguda e indicación de tratamiento quirugico
+
+Página 42 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+3. Tiempo de manejo Proporción de pacientes con Número de pacientes con diagnóstico de apendicitis aguda, indicación de tratamiento
+
+quirúrgico
+
+diagnóstico de apendicitis
+
+quirurgico y realización del procedimiento en un tiempo máximo de 24 horas
+
+aguda e indicación de tratamiento quirúrgico con realización de la intervención en un tiempo máximo de 24
+
+Número de pacientes con diagnóstico de apendicitis aguda
+Número de pacientes con diagnóstico de apendicitis aguda complicada, indicación de tratamiento quirúrgico y realización del procedimiento en un tiempo máximo de 8 horas
+
+horas (o máximo de 8 horas
+
+Número de pacientes con diagnóstico de apendicitis aguda complicada
+
+en caso de apendicitis
+
+complicada).
+
+4. Control postoperatorio
+
+Proporción de pacientes en
+
+quienes
+
+se
+
+realizó
+
+apendicetomía con control
+
+postoperatorio.
+
+Número pacientes en quienes se realizo apendicectomia con control postoperatorio Número de pacientes en quienes se realizo apendicectomia
+
+5. Recomendaciones al egreso
+
+Proporción de pacientes con
+
+diagnóstico apendicitis aguda
+
+y registro en la historia clínica
+
+de
+
+recomendaciones
+
+interdisciplinarias y signos de
+
+alarma al egreso.
+
+Número pacientes con diagnóstico de apendicitis agua y registro en la historia clínica de recomendaciones y signos de alarma
+Número de pacientes con diagnóstico de apendicitis aguda
+
+Página 43 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Implementación del estándar clínico basado en la evidencia y evaluación de la adherencia
+Para el proceso de implementación del ECBE y evaluación de la adherencia se desarrollarán diferentes actividades que se describen de forma general en este apartado. La primera actividad será la creación de un equipo interdisciplinario, conformado por los miembros del grupo desarrollador y representantes de las áreas administrativas y clínicas del HUN, que puedan apoyar el proceso de implementación. Es importante mencionar que se dará prioridad al personal del área de tecnologías de la información del HUN en la constitución del equipo encargado de la implementación. Una vez conformado el equipo de implementación del estándar, se realizarán reuniones que permitan identificar las barreras y facilitadores del proceso de implementación en la institución.
+Posteriormente, se utilizarán dos enfoques para abordar las posibles acciones de implementación del ECBE. El primero tendrá como objetivo la difusión del diagrama de flujo del ECBE y sus puntos de control. Algunas de las actividades contempladas para poner en práctica este enfoque incluyen charlas educativas presenciales y pregrabadas por los líderes clínicos del ECBE y la difusión de información sobre este mismo, mediante las redes sociales del HUN y las carteleras ubicadas en sus diferentes servicios. El objetivo del segundo enfoque será desarrollar estrategias administrativas utilizando tecnologías de la información y el software de historia clínica, para generar avisos interactivos o mensajes de recordatorio que refuercen las actividades educativas arriba planteadas.
+Finalmente, el proceso de evaluación de la adherencia al estándar tendrá tres componentes: i) evaluación de conocimiento sobre el ECBE: donde se contempla el uso de encuestas válidas y transparentes que serán desarrolladas en diferentes ámbitos clínicos para medir el grado de conocimiento del personal acerca del ECBE; ii) evaluaciones de impacto: en el cual se contemplará, según la disponibilidad de recursos destinados a este componente, realizar actividades relacionadas con evaluación del impacto del ecbe sobre desenlaces clínicos, desenlaces reportados por pacientes y desenlaces en términos de costos asociados a su implementación; iii) evaluaciones de adherencia: para este componente se utilizarán principalmente fuentes de información administrativa; no obstante, en algunos casos, de prioridad para el hospital, se utilizarán estudios adicionales que permitan evaluar la adherencia de manera focalizada.
+Se aclara que el proceso de implementación será desarrollado en etapas adicionales a las del proceso de desarrollo que permitan identificar las mejores alternativas de implementación para este ECBE.
+
+Página 44 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Impacto esperado del ECBE
+
+Este ECBE tiene múltiples propósitos a mediano y largo plazo, los cuales se lograrán a medida que se completen las fases de implementación y actualización:
+- Disminuir la variabilidad en el diagnóstico, tratamiento y seguimiento del paciente adulto con apendicitis aguda en el HUN
+- Mejorar los desenlaces en salud de pacientes adultos con apendicitis aguda - Optimizar el uso de recursos en el proceso de atención de pacientes adultos con
+apendicitis aguda en el HUN - Mejorar los desenlaces reportados por los pacientes adultos con apendicitis aguda
+en el HUN. Brindar una herramienta pedagógica basada en la mejor evidencia disponible a los profesores y estudiantes de las facultades de salud de la Universidad Nacional de Colombia en lo que respecto a el diagnóstico, tratamiento y seguimiento del paciente adulto con apendicitis aguda en el hUN - Posicionar al HUN como una institución de salud referente en la región en lo que respecta al tratamiento integral de pacientes con apendicitis aguda
+
+Página 45 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Actualización del ECBE
+
+La actualización del ECBE se realizará según las recomendaciones establecidas en el manual de desarrollo de ECBE del HUN (IN-MN-04. Desarrollo de estándares clínicos basados en la evidencia en el Hospital Universitario Nacional de Colombia). De esta manera, el grupo desarrollador estableció el tiempo máximo de actualización teniendo en cuenta los siguientes aspectos: i) el volumen de la evidencia disponible en la actualidad; ii) la disponibilidad de nueva evidencia relacionada con el tema que pueda influenciar la toma de decisiones en el proceso de atención integral de pacientes con esta enfermedad; iii) la calidad de la evidencia disponible al momento del desarrollo del ECBE, y iv) la disponibilidad de recursos institucionales para la implementación y actualización del ECBE.
+Considerando estos aspectos, el grupo de trabajo decidió que, para el caso de pacientes adultos con apendicitis aguda se espera que en un tiempo aproximado de tres a cinco años se publique nueva evidencia que afecte la manera de llevar a cabo el proceso de diagnóstico, tratamiento y seguimiento y que, por lo tanto, este será el periodo máximo de actualización de este documento.
+De esta forma, el grupo desarrollador determinó que el ECBE para el diagnóstico, tratamiento y seguimiento del paciente adulto con apendicitis aguda en el HUN debe actualizarse máximo entre 3 y 5 años, ya que se espera que en este período se publique nueva evidencia sobre el diagnóstico, tratamiento y seguimiento de estas condiciones y, por tanto, se requiera hacer cambios en el proceso de atención de estos pacientes.
+
+Página 46 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Glosario
+
+Adaptación de recomendaciones: grado en el que una intervención basada en evidencia es modificada por un usuario durante su adopción e implementación para ajustarla a las necesidades de la práctica clínica o para mejorar su desempeño según las condiciones locales.(22)
+Algoritmo: procedimiento expresado como una serie de pasos que permite solucionar un problema específico en un tiempo y espacio determinados. Debe cumplir los siguientes atributos: tener una entrada y una salida, no presentar ambigüedad en los pasos planteados, el procedimiento debe terminar después de un determinado número de pasos y cada instrucción debe estar debidamente explicada de forma que pueda ser ejecutada sin problema.(23)
+Apendicitis: inflamación del apéndice vermiforme (o también llamado cecal) , que es una estructura tubular ciega proveniente del ciego, de 5-9 cm de longitud producida por obstrucción de la luz del mismo y consecutiva dilatación. (2)
+Apendicitis aguda complicada: Inflamación del apéndice cecal por obstrucción de la luz del mismo asociado a perforación de pared , formación de absceso periapendicular y/o peritonitis local o generalizada (12)
+Diagrama de flujo: representación gráfica de un algoritmo. Usualmente es utilizado en el área de la salud para describir el proceso de atención integral de pacientes con determinada condición o enfermedad. Esta herramienta ha sido reconocida como la más útil en el área de la salud; además, es utilizada por instituciones gubernamentales para mejorar los procesos de atención en salud.(24)
+Diagrama PRISMA (Preferred Reporting Items for Systematic Reviews and MetaAnalyses): diagrama que permite describir el flujo de información durante las fases de búsqueda y revisión de la evidencia. Este diagrama facilita identificar el número de registros identificados, aquellos excluidos y los finalmente incluidos, así como las razones para las exclusiones.(25)
+Fecalito: masa dura de heces impactadas a nivel del apéndice cecal y que puede producir obstrucción de su luz y consecuente dilatación (2)
+
+Página 47 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Laparoscopia: es la técnica quirúrgica que permite el acceso a la cavidad abdominal a través de incisiones pequeñas, haciendo uso de equipo especializado y que es usada como herramienta diagnóstica y terapeútica (26)
+Peritonitis: inflamación del peritoneo secundaria a infección, trauma o irritantes (bilis, jugo pancreático o secreción intestinal) y de acuerdo a su forma de presentación puede ser aguda, localizada o difusa. La peritonitis infecciosa es la forma más frecuente y se clasifica en primaria (espontánea, no asociada a foco intrabdominal), secundaria (por complicación intra abdominal como perforación de ap´ndice cecal) o terciaria (no respuesta a manejo de peritonitis secundaria) (27)
+Puntos de control del estándar clínico basado en la evidencia (ECBE): aspectos trazadores de cada uno de los procesos de atención en salud que se abordan en el ECBE, los cuales son de vital importancia para el seguimiento de la adherencia al proceso y permiten diseñar estrategias específicas de implementación
+
+Página 48 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Referencias
+
+1. Gorter, R. R., Eker, H. H., Gorter-Stam, M. A. W., Abis, G. S. A., Acharya, A.,
+
+Ankersmit, M., Bonjer, J. Diagnosis and management of acute appendicitis.
+
+EAES consensus development conference 2015. Surgical Endoscopy, 2016;
+
+30(11), 4668–4690.doi:10.1007/s00464-016-5245-7.
+
+2. Bhangu, A., Søreide, K., Di Saverio, S., Assarsson, J. H., & Drake, F. T. Acute
+
+appendicitis: modern understanding of pathogenesis, diagnosis, and
+
+management. The Lancet.
+
+2015; 386(10000), 1278–1287.
+
+doi:10.1016/s0140-6736(15)00275-5
+
+3. Humes D, Speake WJ, Simpson J. Appendicitis. BMJ Clin Evid. 2007 Jul
+
+1;2007:0408. PMID: 19454096.
+
+4. Álvarez-Blanco M, Fernández-Meré LA, Martínez-Rodríguez E. Enfermedad de Crohn apendicular. Cir Esp. 2005;78(5):333-5. PubMed PMID: 16420853
+5. Teng, T. Z. J., Thong, X. R., Lau, K. Y., Balasubramaniam, S., & Shelat, V. G. Acute appendicitis-advances and controversies. WJGS. 2021; 13(11), 1293–1314. https://doi.org/10.4240/wjgs.v13.i11.1293
+6. Andersen BR, Kallehave FL, Andersen HK. Antibiotics versus placebo for prevention of postoperative infection after appendicectomy. Cochrane Database Syst Rev 2005; :CD001439.
+7. United Kingdom National Surgical Research Collaborative, Bhangu A. Safety of short, in-hospital delays before surgery for acute appendicitis: multicentre cohort study, systematic review, and meta-analysis. Ann Surg 2014; 259:894.
+8. Brouwers MC, Kerkvliet K, Spithoff K; AGREE Next Steps Consortium. The AGREE Reporting Checklist: a tool to improve reporting of clinical practice guidelines. BMJ. 2016;i1152. https://doi.org/ggdjmg
+9. Snyder MJ, Guthrie M, Cagle S. Acute Appendicitis:Efficient Diagnosis and Management. 2018;98(1).
+10. Humes DJ, Simpson J. Acute appendicitis. BMJ. 2006 Sep 9;333(7567):530– 4.
+11. Echevarria† S, Rauf† F, Hussain† N, Zaka H, Farwa U e, Ahsan N, et al. Typical and Atypical Presentations of Appendicitis and Their Implications for Diagnosis and Treatment: A Literature Review. Cureus. 15(4):e37024.
+
+Página 49 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+12. Di Saverio S, Podda M, De Simone B, Ceresoli M, Augustin G, Gori A, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg WJES. 2020 Apr 15;15(1):27.
+13. Jose T, Rajesh PS. Appendicitis Inflammatory Response Score in Comparison to Alvarado Score in Acute Appendicitis. Surg J (N Y). 2021 Jul 19;7(3):e127-e131. doi: 10.1055/s-0041-1731446. PMID: 34295969; PMCID: PMC8289675
+14. Di Saverio S, Birindelli A, Kelly MD, Catena F, Weber DG, Sartelli M, et al. WSES Jerusalem guidelines for diagnosis and treatment of acute appendicitis. World J Emerg Surg. 2016 Jul 18;11(1):34.
+15. Manterola C, Vial M, Moraga J, Astudillo P. Analgesia in patients with acute abdominal pain. Cochrane Colorectal Cancer Group, editor. Cochrane Database Syst Rev [Internet]. 2011 Jan 19 [cited 2024 Mar 31]; Available from: https://doi.wiley.com/10.1002/14651858.CD005660.pub3
+16. Fugazzola P, Ceresoli M, Agnoletti V, Agresta F, Amato B, Carcoforo P, et al. The SIFIPAC/WSES/SICG/SIMEU guidelines for diagnosis and treatment of acute appendicitis in the elderly (2019 edition). World J Emerg Surg. 2020 Mar 10;15(1):19.
+17. Heller MT, Hattoum A. Imaging of acute right lower quadrant abdominal pain: differential diagnoses beyond appendicitis. Emerg Radiol. 2012 Jan;19(1):61–73.
+18. Foley WD. CT Features for Complicated versus Uncomplicated Appendicitis: What Is the Evidence? Radiology. 2018 Apr;287(1):116–8.
+19. Demetrashvili Z, Kenchadze G, Pipia I, Khutsishvili K, Loladze D, Ekaladze E, et al. Comparison of treatment methods of appendiceal mass and abscess: A prospective Cohort Study. Ann Med Surg. 2019 Oct 24;48:48–52.
+20. Casas MA, Laxague F, Schlottmann F, Sadava EE. Re-laparoscopy for the treatment of complications after laparoscopic appendectomy: is it possible to maintain the minimally invasive approach? Updat Surg. 2021 Dec;73(6):2199–204
+21. Antoniou SA, Mavridis D, Kontouli KM, Drakopoulos V, Gorter-Stam M, Eriksson S, Leone M, Pérez-Bocanegra MC, Smart NJ, Milone M, Carrano FM, Antoniou GA, Vandvik PO. EAES rapid guideline: appendicitis in the elderly. Surg Endosc. 2021 Jul;35(7):3233-3243. doi: 10.1007/s00464-02108524-9. Epub 2021 May 17. PMID: 33999255
+
+Página 50 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+22. Ilott I, Rick J, Patterson M, Turgoose C, Lacey A. What is protocol-based care? A concept analysis. J Nurs Manag. 2006;14(7):544-52. https://doi.org/cpgt58
+23. Gulwani S. Programming by examples: Applications, algorithms, and ambiguity resolution. Redmond: Microsoft Corporation; 2016
+24. Ward J, Morris Z, Clarkson J. Health care process modelling: which method when? Int J Qual Health Care. 2009;21(3):214-24. https://doi.org/dn99p3
+25. McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021;372:n71. https://doi.org/gjkq9b
+26. Botchorishvili R, Velemir L, Wattiez A, Tran X, Bolandard F, Rabischong B, et al. Laparoscopia y cirugía laparoscópica: principios generales e instrumental. EMC - Ginecol-Obstet. 2008 Jan;44(3):1–15.
+27. Peritonitis terciaria: tan difícil de definir como de tratar [Internet]. [cited 2024 May 11]. Available from: https://www.elsevier.es/es-revista-cirugia-espanola36-pdf-S0009739X10004483
+28. Estándar clínico basado en la evidencia : diagnóstico y tratamiento del paciente con sepsis y/o choque séptico en el Hospital Universitario Nacional de Colombia / [Sugeich Melendez Rhenals [y otros diecisiete]]. -- Primera edición. -- Bogotá : Universidad Nacional de Colombia. Facultad de Medicina. Instituto de Investigaciones Clínicas, Hospital Universitario Nacional de Colombia, Centro Editorial Facultad de Medicina, 2023
+29. Ruiz-Tovar J, Llavero C, Perez-Lopez M, Garcia-Marin A. Implementation of an Enhanced Recovery After Surgery (ERAS) protocol for acute complicated and uncomplicated appendicitis. Tech Coloproctol. 2021 Sep;25(9):10731078. doi: 10.1007/s10151-021-02484-x. Epub 2021 Jun 26. PMID: 34173925.
+
+Página 51 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Anexos Anexo 1. Versión completa de la metodología del ECBE
+Metodología El ECBE se desarrolló mediante un proceso secuencial de siete fases: i) conformación del grupo desarrollador; ii) definición del alcance y los objetivos del ECBE; iii) revisión sistemática de GPC; iv) elaboración del algoritmo preliminar; v) desarrollo de un acuerdo interdisciplinario; vi) elaboración del algoritmo final, y vii) revisión y edición del ECBE. Cada una de estas etapas se describe a continuación:
+
+i)
+
+Conformación del grupo elaborador
+
+El grupo desarrollador estuvo conformado por expertos en cirugía general y en epidemiología clínica, quienes se reunieron de forma virtual para determinar las directrices metodológicas, técnicas y temáticas respecto al desarrollo de las recomendaciones del ECBE. Todos los miembros del grupo desarrollador aceptaron participar en el proceso de desarrollo del estándar, diligenciaron y firmaron el formato de divulgación de conflictos de interés, de acuerdo con la normatividad vigente para el desarrollo de ECBE.
+
+ii) Definición de alcance y objetivos
+Esta actividad representa el componente principal del ECBE y suele ser objeto de las evaluaciones de calidad de este tipo de documentos (1, 2). En esta etapa, se plantearon tanto el alcance, como los objetivos para el desarrollo del ECBE a partir de preguntas trazadoras como: i) ¿por qué se hace?, ii) ¿para qué se hace?, iii) ¿quiénes la usarán?, iv) ¿a quiénes se dirige?, v) ¿qué problema o condición se quiere delimitar? y vi) ¿qué pregunta de salud específica se quiere abordar? (3).
+
+Página 52 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+En lo que respecta al alcance, el equipo desarrollador estuvo a cargo de su formulación teniendo en cuenta los siguientes componentes: i) población objetivo: población en la que se aplicarán específicamente las recomendaciones del ECBE; ii) poblaciones especiales a las que pueda aplicarse el ECBE (equidad en salud): poblaciones indígenas, comunidad afrodescendiente, poblaciones rurales, etcétera; iii) aspecto de la enfermedad o condición que se piensa abordar: tratamiento, diagnóstico, prevención, seguimiento, etcétera; iv) aspectos de la enfermedad que no serán incluidas: tratamiento, diagnóstico, prevención, seguimiento, etcétera; v) contexto de atención en salud: consulta externa, hospitalización, cirugía, unidad de cuidados intensivos, etcétera; vi) especialidades, áreas o servicios de salud involucrados en la implementación del ECBE: quiénes deberán utilizar las recomendaciones emitidas por el ECBE.
+Los objetivos se establecieron teniendo en cuenta que estos deben describir de forma clara y concreta la finalidad del ECBE. De esta forma, los objetivos se formularon considerando las actividades de revisión de la literatura, las áreas asistenciales involucradas y el consenso interdisciplinario al que se ha de llegarse como producto final del ECBE. En la formulación de los objetivos, también se incluyeron la identificación de puntos de control y los lineamientos para la difusión e implementación del ECBE.
+
+iii) Revisión sistemática de GPC
+Se realizaron búsquedas sistemáticas en diferentes bases de datos para identificar las GPC que respondieran al objetivo y alcance del ECBE. En la revisión de la literatura, solo se consideraron documentos publicados en los últimos 10 años en revistas científicas o documentos técnicos encontrados como literatura gris calificados como GPC basadas en la evidencia que reportaran indicaciones o
+
+Página 53 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+recomendaciones relativas al diagnóstico, tratamiento y seguimiento del paciente adulto con apendicitis aguda en el Hospital Universitario Nacional de Colombia
+Teniendo en cuenta lo anterior, se diseñaron estrategias de búsqueda electrónica altamente sensibles con el fin de identificar documentos que cumplieran con los criterios antes descritos. Las búsquedas se realizaron del 14 marzo al 25 de marzo del 2023, en las siguientes bases de datos:
+1. Desarrolladores: a. Ministerio de Salud y Protección Social (MSPS) - Colombia b. National Institute for Health and Clinical Excellence (NICE) - Reino Unido c. Instituto de Evaluación Tecnológica en Salud (IETS) - Colombia d. Instituto Mexicano del Seguro Social (IMSS) - México e. Scottish Intercollegiate Guidelines Network (SIGN) - Escocia f. Organización Panamericana de la Salud (OPS) g. Sistema de Información de la Biblioteca de la OMS (WHOLIS) h. Australian Clinical Practice Guidelines - GPC Australia i. Organización Mundial de la Salud (OMS) j. Biblioteca Guía Salud - España k. Agency for Healthcare Research and Quality (AHRQ) l. British Association of Plastic Reconstructive and Aesthetic Surgeons (BAPRAS)
+2. Compiladores: a. Guidelines International Network (G-I-N) b. CPG Infobase: Clinical Practice Guidelines (CMA infodatabse)
+3. Bases de datos de revistas científicas: a. Medline b. Embase c. LILACS
+
+Página 54 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+En lo que respecta a la realización de las búsquedas, primero se identificaron los términos clave (lenguaje natural), correspondientes a la condición de salud o área de interés a abordarse en el ECBE. Luego, se construyó una estrategia de búsqueda de base compuesta por vocabulario controlado (términos MeSH, Emtree y DeCS) y lenguaje libre (variaciones ortográficas, plurales, sinónimos, acrónimos y abreviaturas).
+A partir de la estrategia de búsqueda de base, se crearon estrategias de búsqueda para las diferentes bases de datos consultadas, utilizando, cuando fue posible, expansión de términos, identificadores de campo (título y resumen), truncadores y operadores booleanos y de proximidad. Para cada búsqueda, se generó un reporte que garantizara su reproducibilidad y transparencia. Se descargaron todos los archivos con extensión RIS o los documentos en formato PDF para consolidar todos los resultados en una sola base de datos y, de esta forma, realizar los procesos de tamización y selección de los estudios y de evaluación de la calidad de la evidencia. Las tablas de reporte de las estrategias de búsqueda de la evidencia se pueden consultar en el anexo 3.
+Definición de los criterios de elegibilidad Antes de iniciar el proceso de tamización y selección de la evidencia, el grupo desarrollador estableció criterios de elegibilidad. Este proceso estuvo a cargo de los líderes clínicos y del líder metodológico del grupo, con la colaboración del resto de integrantes. La sección de alcance y objetivos fue el insumo principal para definir estos criterios, los cuales se presentan a continuación: Criterios de inclusión
+● GPC sobre el diagnóstico, tratamiento y seguimiento del paciente adulto con apendicitis aguda.
+● GPC publicadas en inglés o español y con acceso a texto completo.
+● GPC publicadas en los últimos 10 años (2013-2023)
+Página 55 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Criterios de exclusión ● GPC con evaluación de la calidad global menor a seis según el instrumento AGREE II o con un puntaje menor a 60 % en los dominios de rigor metodológico e independencia editorial.
+● GPC sobre el diagnóstico, tratamiento y seguimiento de pacientes con apendicitis aguda en población pediátrica (menores de 18 años).
+● GPC sobre diagnóstico, tratamiento y seguimiento de pacientes con apendicitis aguda en población gestante.
+Tamización de las GPC identificadas en la búsqueda de la literatura
+La tamización de la evidencia se realizó mediante la revisión del título, resumen y texto completo de los documentos identificados en las búsquedas sistemáticas. Este proceso fue realizado de manera doble e independiente por los colaboradores del ECBE. En el caso de discrepancias, la decisión se tomó por un tercer integrante, líder clínico del ECBE. El proceso de tamización y selección de la evidencia, así como el número de referencias evaluadas en cada parte del proceso, se presenta en el diagrama prisma (Anexo 2).
+Evaluación de la calidad
+La calidad de las GPC seleccionadas fue evaluada con el instrumento AGREE II, una herramienta diseñada para calificar la calidad metodológica de las GPC que consta de 6 dominios, cada uno con diferentes ítems, en los que se puede obtener una puntuación entre 1 y 7, donde 1 es el nivel más bajo (calificación «muy en desacuerdo») y 7, el más alto (calificación «muy de acuerdo»). Después de evaluar todos los ítems de cada dominio, se calcula el porcentaje obtenido sobre una base de 100 % (4).
+La calidad de la evidencia se evaluó de forma doble e independiente por un representante del equipo desarrollador y el líder metodológico del ECBE.
+
+Página 56 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Decisión sobre la inclusión de GPC para el desarrollo del ECBE
+En las búsquedas iniciales, se recuperaron 792 registros. Luego de remover duplicados (311), se identificaron 476 estudios en total, de los cuales 470 fueron excluidos en la etapa de revisión de títulos y resúmenes. Después, de los 6 documentos en los que se realizó lectura de texto completo, 6 GPC fueron seleccionadas para evaluar su calidad con el instrumento AGREE II (4). Por último, en la etapa de evaluación de la calidad metodológica, 2 GPC fueron excluidas; las 4 GPC que cumplieron los criterios de elegibilidad y fueron finalmente incluidas para la revisión de la evidencia se presentan en la tabla 1.
+
+El proceso de búsqueda, tamización y selección de la evidencia se resume en la figura PRISMA disponible en el anexo 2. Las referencias excluidas en la etapa de evaluación de la calidad, así como los resultados de la evaluación de la calidad metodológica de las 4 GPC, se pueden consultar en el anexo 1.
+
+Tabla 1. Guías de práctica clínica identificadas en la búsqueda de la literatura que
+
+cumplieron los criterios de elegibilidad para el desarrollo del estándar clínico basado
+
+en la evidencia
+
+Id GPC
+1 GPC
+2
+GPC 3
+
+Nombre de la GPC*
+EAES Rapid guideline: appendicitis in the elderly The SIFIPAC/WSES/SICG/SI MEU guidelines for diagnosis and treatment of acute appendicitis in the elderly (2019 edition)
+WSES Jerusalem guidelines for diagnosis
+
+Grupo desarrollador European association for endoscopic surgery Italian society of geriatric surgery World society of emergency surgery Italian society of emergency medicine World Journal of Emergency Surgery
+
+País o continente Alemania
+
+Idioma Ingles
+
+Año
+202 1
+
+Italia
+
+Ingles 201 9
+
+Inglaterra Inglés 201 6
+
+Página 57 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+and treatment of acute appendicitis GPC Diagnosis and treatment 4 of acute appendicitis: 2020 update of the WSES Jerusalem guidelines *GPC: guía de práctica clínica.
+
+World Journal of Emergency Surgery
+
+Italia
+
+Inglés 202 0
+
+Elaboración de las tablas comparativas de la evidencia
+Para esta actividad, los expertos clínicos se reunieron y determinaron de forma conjunta los dominios de la condición de interés para el ECBE y sobre los que se debía obtener información, a partir de las GPC seleccionadas, luego de los procesos de búsqueda, tamización y selección de la evidencia. El término dominio se definió como los aspectos puntuales de la enfermedad que debían ser incluidos en el ECBE, a saber: i) diagnóstico de apendicitis aguda; ii) Clasificación y manejo no quirúrgico de apendicitis aguda, iii) Tratamiento quirúrgico: y iv) Vigilancia postoperatoria. Una vez establecidos los dominios para la elaboración del diagrama de flujo, se creó una tabla comparativa de la evidencia en la cual se definió la información a incluir para cada dominio, a saber: i) puntos de control de posible utilidad; ii) recomendaciones respecto al diagnóstico, tratamiento y seguimiento de pacientes con apendicitis aguda, y iii) áreas/servicios asistenciales involucrados en el proceso de atención integral de la condición. Esta actividad fue realizada por el equipo desarrollador, con el apoyo del líder metodológico, previa capacitación.
+La evaluación de los diferentes grados de evidencia de las recomendaciones reportadas en cada GPC se realizó con la herramienta específica establecida en cada documento. En el anexo 4, se describen los sistemas de calificación de la evidencia utilizados en la evaluación de las GPC incluidas en este ECBE.
+iv) Elaboración del algoritmo preliminar
+
+Página 58 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Para la elaboración del algoritmo preliminar del ECBE, el equipo desarrollador revisó conjuntamente las recomendaciones extraídas de las GPC para cada uno de los dominios de la condición planteados. Además, se realizó una reunión en la que se socializó la calidad de la evidencia y el grado de recomendación para cada una de las recomendaciones descritas por las GPC seleccionadas.
+Posteriormente, se llegó a un acuerdo sobre los especialistas requeridos para complementar el grupo colaborador con el fin de elaborar el algoritmo clínico para el diagnóstico, tratamiento y seguimiento del paciente adulto con apendicitis aguda. En este punto, se solicitó apoyo de expertos clínicos en cirugía general, para lo cual se recurrió a la junta quirúrgica del HUN, realizada el 3 marzo 2024.
+Finalmente, para la construcción del algoritmo clínico se realizaron reuniones virtuales y presenciales, con una duración aproximada de 1 hora cada una, en las que se discutió el curso de atención de los pacientes con la condición a estandarizar. En estas reuniones, participaron los expertos clínicos de las especialidades mencionadas y un experto metodológico con formación en la elaboración de diagramas de flujo.
+
+v) Desarrollo de un acuerdo interdisciplinario
+Para lograr el acuerdo interdisciplinario se realizaron varias actividades. Primero, se identificaron las áreas asistenciales o servicios clínicos involucrados en el proceso de atención integral de los pacientes con apendicitis aguda en el HUN. Luego, la lista de áreas o servicios asistenciales identificados se presentó ante los miembros del Comité de Generación de Estándares Clínicos Basados en la Evidencia (la unidad de gobernanza del proceso), quienes se encargaron de avalar la lista y de complementarla en caso de considerarlo pertinente.
+Posteriormente, se envió una comunicación escrita a los coordinadores o jefes de estas áreas/servicios asistenciales, solicitándoles la designación oficial de un
+Página 59 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+representante encargado de asistir a la reunión de consenso. Una vez designados los representantes, se les envió, mediante correo electrónico, la versión preliminar del ECBE y un formato de sugerencia de cambios, el cual se les solicitó diligenciar y enviarlo en un plazo no mayor a 5 días hábiles. Una vez transcurrido este plazo, se analizaron las sugerencias enviadas y se hicieron los cambios pertinentes.
+En la reunión de consenso, realizada el 16 de abril de 2024, participaron representantes de los siguientes servicios o áreas asistenciales: anestesiología, cirugía general, cuidado crítico, enfermería, farmacia, fisioterapia, fonoaudiología, infectología, ingeniería biomédica, laboratorio clínico y patología, medicina física y rehabilitación, medicina hospitalaria, nutrición, psicología, radiología, seguridad del paciente, terapia ocupacional y trabajo social. La información contenida en los diagramas de flujo del ECBE y los puntos de control fueron presentadas en 5 secciones (4 secciones del ECBE y una sobre los puntos de control) y se utilizó una escala tipo Likert de 1 a 9 para evaluar el grado de acuerdo con cada sección, donde 1 correspondió a «Muy en desacuerdo» con la sección y 9 a «Completamente de acuerdo». Para determinar si había consenso en las respuestas a cada una de las 8 preguntas, la escala se dividió en tres zonas de puntuación: i) de 1 a 3, ii) de 4 a 6 y iii) de 7 a 9.
+Utilizando como referencia el rango de la votación entre 1 y 9, se consideró que hubo «consenso total», cuando la puntuación mayor y la menor se encontraron en una sola zona de la escala, y «consenso parcial», cuando la puntuación mayor y la menor se ubicaron en dos zonas consecutivas de la escala. Por el contrario, se consideró que no hubo consenso («no consenso») cuando el rango de la puntuación obtenida en la ronda de votación se encontró en las tres zonas de la escala (ver figura 1) (5). Para cada una de las preguntas se aceptó un máximo de 3 rondas de votación; sin embargo, es importante mencionar que, como se muestra en la tabla 3, en la primera ronda de votaciones se obtuvo una puntuación unánime de 7-9 («de acuerdo» a «completamente de acuerdo» con la sección presentada) para las 8
+Página 60 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+secciones, es decir, un consenso total a favor de las recomendaciones planteadas para el diagnóstico, tratamiento y seguimiento de los pacientes con obesidad y/o pérdida de peso masiva en el HUN.
+
+Figura 1. Escala tipo Likert utilizada en la reunión de consenso Fuente: tomada y adaptada de (5).
+
+A continuación, se presentan las preguntas realizadas por sección y los resultados obtenidos en la votación realizada en la reunión de consenso (ver tablas 2 y 3).
+
+Tabla 2. Secciones presentadas en la reunión de consenso y preguntas realizadas
+
+para cada sección en la ronda de votación
+
+Sección Sección 1: Diagnóstico
+apendicitis aguda
+
+Pregunta ¿Cuál es su grado de acuerdo frente a la sección 1:
+Diagnóstico apendicitis aguda?
+
+Sección 2: Clasificación y tratamiento no quirúrgico
+
+¿Cuál es su grado de acuerdo frente a la sección 2: Clasificación y tratamiento no quirúrgico?
+
+Sección 3: Tratamiento quirúrgico
+
+¿Cuál es su grado de acuerdo frente a la sección 3: Tratamiento quirúrgico?
+
+Sección 4: Vigilancia POP
+
+¿Cuál es su grado de acuerdo frente a la Sección 4: Vigilancia POP?
+
+Sección 5: puntos de control
+
+¿Cuál es su grado de acuerdo frente a la sección 5: puntos de la sección?
+
+Página 61 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Para cada una de las preguntas se recibieron respuestas correspondientes a los representantes de los servicios anestesiología, cirugía general, cuidado crítico, enfermería, farmacia, fisioterapia, fonoaudiología, infectología, ingeniería biomédica, laboratorio clínico y patología, medicina física y rehabilitación, medicina hospitalaria, nutrición, psicología, radiología, seguridad del paciente, terapia ocupacional, trabajo social. En la tabla 3, se presentan los resultados obtenidos en la votación.
+
+Tabla 3. Resultados de las votaciones realizadas en la reunión de consenso # Votantes 1 a 3 4 a 6 7 a 9 Mediana
+
+1. Pregunta sección 1
+
+18
+
+0 % 0 % 100 %
+
+8.5
+
+2. Pregunta sección 2
+
+18
+
+0 % 0 % 100 %
+
+8
+
+3. Pregunta sección 3
+
+17
+
+0 % 0 % 100 %
+
+8
+
+4. Pregunta sección 4
+
+17
+
+0 % 0 % 100 %
+
+8
+
+8. Pregunta puntos de control
+
+18
+
+0 % 0 % 100 %
+
+8
+
+Rango 7; 9 7; 9 7; 9 7; 9 7; 9
+
+vi) Elaboración del algoritmo final
+Para la elaboración de la versión final del ECBE, el equipo desarrollador se reunió y unificó las sugerencias emitidas en la reunión de consenso, y, con base en estas, modificó el algoritmo preliminar del documento, además de la información adicional referida para cada aspecto del algoritmo por ampliar. El equipo metodológico se encargó de resumir los resultados de las votaciones realizadas en la reunión de consenso y de ajustar la sección de metodología del ECBE.
+
+Página 62 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+vii) Revisión y edición
+Como actividad final del proceso, se envió el documento a los participantes del consenso interdisciplinario para una última revisión y una vez aprobado, se realizó la revisión estilo y diagramación del documento; de esta forma, se obtuvo la versión final del ECBE.
+
+Página 63 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Anexo 2. Diagrama PRISMA
+Registros identificados en las búsquedas electrónicas en bases de datos, compiladores y desarrolladores n= 793
+Medline (n= 282), EMBASE (n= 498), LILACS (n= 5), GIN (n= 0), CMA infodatabase (n= 6), Guía Salud España (n= 0), MSPSS (n= 0), NICE (n= 0), IETS (n= 0), IMSS (n= 0), SIGN (n= 0), OPS (n= 0), WHOLIS (n= 1), AHRQ (n= 0), GPC Australia (n= 1), WHO (n= 0).
+
+Registros identificados en las búsquedas complementarias n= 2
+
+Referencias identificadas n= 795
+Referencias después de remover duplicados n= 476
+Referencias evaluadas en texto completo n= 6
+GPC elegidas para evaluación de la calidad n= 6
+GPC seleccionadas n= 4
+Fuente: tomado y adaptado de (6).
+
+Registros duplicados n= 319
+Referencias excluidas por no cumplir los criterios de selección (revisión título y resumen) n= 470
+Referencias excluidas por no cumplir los criterios de elegibilidad en la lectura de texto completo (n= 0) GPC excluidas por baja calidad metodológica (n= 2)
+Página 64 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Anexo 3. Documentos adicionales Este anexo se encuentra disponible en un archivo adicional y contiene la siguiente información:
+● Lista de términos utilizados en la búsqueda ● Bitácora de búsqueda de GPC ● Evaluaciones de la calidad de las GPC seleccionadas según el instrumento
+AGREE II. ● Tabla comparativa de extracción de la información de las GPC seleccionadas. ● Formatos de revelación de conflictos de intereses.
+
+Consulta el anexo aquí [https://drive.google.com/drive/u/1/folders/17AlFAqA8rS1neMsU4AnPPHec3cWfNpR]
+
+Página 65 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Anexo 4. Sistemas de calificación de la evidencia utilizados en el ECBE
+
+Escala de clasificación de la evidencia del Sistema GRADE (Grading of
+
+Recommendations, Assessment, Development and Evaluation)*
+
+Clasificación de la calidad de la evidencia en el sistema GRADE
+
+Calidad de la
+
+Diseño del
+
+Disminuir la calidad si
+
+Aumentar la
+
+evidencia
+
+estudio
+
+calidad si
+
+científica
+
+Alta
+
+ECA
+
+Limitación en el
+
+Asociación:
+
+Moderada
+
+diseño:
+
+• Evidencia
+
+Baja
+
+Estudios
+
+Importante (-1)
+
+científica de una
+
+observacionales
+
+Muy importante (-2)
+
+asociación fuerte
+
+Muy baja
+
+Otros tipos de estudio
+
+Inconsistencia (-1) Evidencia directa:
+Alguna (-1)
+
+(RR > 2 o < 0.5 basado en estudios observacionales sin
+
+incertidumbre
+
+factores de
+
+Gran (-2) incertidumbre confusión) (+1).
+
+acerca de que la
+
+Evidencia científica
+
+evidencia sea directa de una asociación
+
+Datos imprecisos (-1) muy fuerte (RR > 5
+
+Sesgo de notificación: o < 0.2 basado en
+
+Alta probabilidad de (-1)
+
+estudios sin
+
+posibilidad de
+
+sesgos) (+2)
+
+Gradiente dosis
+
+respuesta (+1)
+
+Todos los posibles
+
+factores de
+
+confusión podrían
+
+haber reducido el
+
+Página 66 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+ECA: ensayo clínico aleatorizado; RR: riesgo relativo.
+
+efecto observado (+1)
+
+Implicaciones de los grados de recomendación del sistema GRADE Implicaciones de una recomendación fuerte
+
+Pacientes
+
+Clínicos
+
+Gestores/planificadores
+
+La inmensa mayoría de las personas estarían de acuerdo con la acción
+recomendada y únicamente una pequeña parte no lo estarían.
+
+La mayoría de los pacientes deberían recibir
+la intervención recomendada.
+
+La recomendación puede ser adoptada como política
+sanitaria en la mayoría de las situaciones.
+
+Implicaciones de una recomendación débil
+
+La mayoría de las personas estarían de acuerdo con la acción recomendada, pero un número importante de
+ellas no.
+
+Reconoce que diferentes opciones serán apropiadas para diferentes pacientes y que el profesional sanitario
+tiene que ayudar a cada paciente a llegar a la
+decisión más consistente con sus valores y preferencias.
+
+Existe necesidad de un debate importante y la participación de
+los grupos de interés.
+
+✓
+
+Recomendación basada en la experiencia clínica y el consenso del grupo
+
+elaborador
+
+En ocasiones, el grupo desarrollador se percata de que existe un aspecto práctico
+
+importante que es necesario destacar y para el cual, probablemente, no hay ningún tipo
+
+Página 67 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+de evidencia científica que lo soporte. En general, estos casos están relacionados con algún aspecto del tratamiento considerado como buena práctica clínica y que nadie
+cuestionaría normalmente y, por tanto, son valorados como puntos de “buena práctica clínica”. Estos puntos no son una alternativa a las recomendaciones basadas en la evidencia científica, sino que deben considerarse solo cuando no haya otra forma de destacar dicho aspecto.
+Fuente: tomado y adaptado de (7). *Herramienta utilizada para la evaluación de la evidencia de las GPC 1 (8), 2 (9) y 4 (11)
+
+Sistemas de calificación de la calidad de la evidencia y fuerza de las recomendaciones del Oxford Centre for Evidence-Based Medicine**
+
+Niveles de evidencia
+
+Interpretación
+
+1
+
+Evidencia obtenida de revisiones sistemáticas, estudios de pruebas
+
+diagnósticas de alta calidad, estudios prospectivos o ECAs
+
+2
+
+Evidencia obtenida de revisiones sistemáticas, estudios de pruebas
+
+diagnósticas de baja calidad, estudios prospectivos o ECAs (p. ej.,
+
+criterios diagnósticos y estándares de referencia más débiles,
+
+aleatorización inapropiada, estudios sin cegamiento, seguimiento
+
+<80%)
+
+3
+
+Estudios de casos y controles o estudios retrospectivos
+
+4
+
+Series de casos
+
+5
+
+Opinión de expertos
+
+ECAs: Ensayos Controlados Aleatorizados.
+
+Grados de recomendación
+
+Interpretación
+
+A
+
+Estudios consistentes de nivel 1.
+
+B
+
+Evidencia de nivel 2 o 3 o extrapolaciones de estudios de nivel 1.
+
+Página 68 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+C
+
+Evidencia de nivel 4 o extrapolaciones de estudios de nivel 2 o 3.
+
+D
+
+Evidencia de nivel 5 o estudios de cualquier nivel preocupantemente
+
+inconsistentes o no concluyentes.
+
+Fuente: tomado y adaptado de (12).
+
+**Herramienta utilizada para la evaluación de la evidencia de la GPC 3 (10).
+
+Página 69 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Anexo 5. AIR Score
+AIR score Variable Vómito Dolor en fosa iliaca derecha Sensibilidad a la descompresión o defensa muscular Leve Media Fuerte Temperatura > 38.5 C Polimorfonucleares (%) 7-84 > o igual 85 Leucocitos (células/mm3) 10.000-14.999 > o igual a 15.000 PCR (mg/L) 10-49 > o igual a 50
+Fuente: tomado y adaptado de (13).
+
+Puntaje 1 1
+1 2 3
+1
+1 2
+1 2
+1 2
+
+Interpretación:  Riesgo bajo: 0-4 puntos  Riesgo intermedio: 5-7 puntos  Riesgo alto: 8 o más puntos
+
+Página 70 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Anexo 6. Recomendaciones egreso pacientes llevados a apendicectomía
+A continuación, se explican las recomendaciones que usted deberá tener en cuenta luego de su apendicectomía (cirugía para la resección del apéndice). Estas recomendaciones son importantes para que su recuperación sea adecuada.
+
+Recomendaciones generales - Incapacidad médica por 15 días. - Solicitar cita de control con cirugía general en primer piso del HUN en 2 semanas - Tomar medicamentos con dosis y frecuencia como se indica en fórmula médica. - Descubrir las heridas en 48 horas posterior al egreso y lavar con agua y jabón normal. No aplicar alcohol ni otras sustancias. - Reclamar patología en primer piso de HUN y llevar reporte a cita de control programada 2 semanas posterior a egreso - Asistir a servicio de urgencias/ consulta prioritaria si presenta alguno de los siguientes síntomas: Náuseas, vomita todo lo que come, dolor abdominal que no mejore con analgésico, fiebre (temperatura mayor de 38 grados) o escalofríos, abdomen inflamado; ausencia de deposiciones o diarrea persistente; dolor torácico o dificultad respiratoria; enrojecimiento, sangrado o secreción a nivel de heridas; que se abran los puntos de las heridas. - Solicitar estudios complementarios (ej: colonoscopia) en caso de ser solicitados por su médico.
+
+Recomendaciones nutricionales
+
+Para mantener un mejor estado de salud, le invitamos a seguir las recomendaciones que se listan a continuación. Consuma preferiblemente las frutas en porción compotas naturales o jugos y aumente el consumo de líquidos.
+
+GRUPOS DE ALIMENTOS
+LECHE
+
+Recomendados No recomendado
+
+No recomendados
+Leche entera o descremada, condensada, kumis, yogurt.
+
+Página 71 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+VEGETALES
+
+Zanahoria. Ahuyama, Calabaza, Calabacín, Guatila, Pepino de guiso.
+
+FRUTAS
+
+Todas
+
+HARINAS
+
+Todas
+
+LEGUMINOSAS Ninguna
+
+PROTEÍNAS
+AZÚCARES GRASAS
+CONDIMENTOS BEBIDAS
+
+Carnes magras de res, pollo, y pescado Todos Ninguna Canela, anís Té, consomé sin grasa
+
+Habichuela, arveja, coliflor, rábano, repollo, lechuga y en general las verduras crudas.
+Melón, banano y en general frutas cítricas y/o acidas. Ninguna Fríjol, lenteja, garbanzo, haba y arveja seca Enlatadas y de salsamentaria, vísceras. Ninguno Todas Todos menos los permitidos Gaseosas, bebidas alcohólicas
+
+Para su recuperación es importante tener en cuenta las siguientes recomendaciones dietarías:
+
+- La inclusión de alimentos diferentes a los mencionados al inicio, debe hacerse de forma gradual. No debe introducirse más de un alimento en un mismo día y se continuará probando con otros, siempre y cuando la tolerancia haya sido adecuada.
+- Cuando inicie el consumo de leche, hágalo de manera lenta y gradual, mezclada con otras bebidas y en poca cantidad (proporción ½ leche y ½ bebida), y utilice únicamente leche deslactosada. Después de ser toleradas las bebidas con leche deslactosada, puede consumir los demás lácteos: quesos tipo mozzarella o tipo pera o campesino descremado; prefiera inicialmente productos deslactosados o dietéticos.
+- No consuma verduras crudas, las verduras se pueden preparar en forma de purés o cocinadas sin grasa, o en sopas y sin agregarles mayonesa, vinagretas o aceites.
+- Incluya en la alimentación por lo menos tres porciones de frutas al día, en porción, jugos o compotas. Si presenta estreñimiento evite consumir frutas como guayaba, manzana, pera o durazno, debido a que éstas pueden acentuar mucho más el cuadro. Prefiera granadilla, papaya, ciruela, pitaya, guanábana o mango.
+
+Página 72 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+- El consumo de harinas no está restringido. Los cereales, tubérculos y plátanos deben ser consumidos en preparaciones cocidas, al vapor, o al horno.
+- Puede consumir carne, pollo o pescado en preparaciones sin mucha grasa. Evite las carnes de salsamentaria (jamón, jamoneta), embutidos (salchicha, salchichón), chicharrón, carnes enlatadas y vísceras. Debe consumir las carnes magras (sin grasa). El huevo debe ser preparado sin grasa, se puede cambiar al desayuno por caldo con pollo o carne.
+- No consuma alimentos en preparaciones fritas o con mucha grasa, mayonesa, mostaza. Prepare los alimentos cocidos, al horno, guisados, al vapor o a la plancha.
+- Mastique muy bien cada bocado, establezca horarios de comida y cúmplalos, evite los ayunos prolongados, procure comer cada 3 horas.
+- Evite el consumo de alimentos, que previamente no tolere o le provoquen alergia.
+- Recuerde continuar con su tratamiento nutricional habitual, si usted es diabético, hipertenso, renal.
+¡¡¡RECUERDE QUE EL ÉXITO DE SU DIETA, DEPENDE DE USTED!!!
+Recomendaciones para su rehabilitación - Fonoaudiológicas
+Si usted presentó alguna alteración relacionada con la ingesta de alimentos y ha recibido recomendaciones en cuanto a modificación de consistencias alimentarias, mantenerlas en su dieta diaria y verifique que no presente los siguientes signos de alarma:
+- Tos asociada con la ingesta - Atoramiento - Sensación de cuerpo extraño en garganta - Cambios voz inmediatos al paso de alimentos Si estos signos de alarma aparecen o se vuelven persistente, consulte a su médico para que pueda ser remitido y valorado por un especialista (Fonoaudiólogo)
+- Fisioterapéuticas
+
+Página 73 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Con el fin de prevenir complicaciones postoperatorias que aumentan el tiempo de estancia hospitalaria o si usted ha egresado del HUN, existe la posibilidad de reingreso, si no sigue las siguientes recomendaciones:
+- Evite el reposo prolongado en cama, ya que puede presentar riesgo de tromboembolismo, neumonía y desacondicionamiento físico.
+- Realice lo más pronto posible cambios de posición a sedente (sentado al borde de la cama o en silla) en compañía de su familiar o cuidador(a), de acuerdo a su tolerancia al dolor.
+- Evite permanecer acostado(a) o sentado(a) por largos periodos de tiempo, cambiar de posición con frecuencia evita espasmos musculares.
+- Inicie con caminatas cortas dentro de la habitación, aumente progresivamente la duración y la distancia de las mismas.
+- Se recomienda realizar actividad física de leve intensidad, como por ejemplo realizar actividades de la vida diaria cada vez más autónomas (cambios de posición, bañarse, comer, vestirse, desplazamientos) y posteriormente aumente el nivel de actividad física a través de caminatas cada vez más rápidas y a mayor distancia en espacios abiertos, ejercicios de movilización articular y flexibilidad.
+- Evite levantar objetos pesados durante las primeras semanas después de la cirugía para prevenir complicaciones y permitir que la incisión quirúrgica cicatrice correctamente.
+- Utilice el incentivo respiratorio (Figura 1) para realizar inspiraciones (tomar aire) más profundas y lentas, adicionalmente lleve el aire hacia el abdomen, inflándolo para facilitar la respiración diafragmática como se evidencia en la Figura 2. Realice 3 series de 10 repeticiones sostenidas 3 segundos, descanse entre cada serie descanse 1 minuto y repita el proceso mínimo 3 veces al día.
+
+Página 74 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Imagen 1. Incentivo respiratorio
+
+Imagen 2. Esquema de respiración diafragmática o abdominal en posición supina (acostada) y en sedente (sentada). Tomada de Ejercicios respiratorios para
+- Participe en programas de rehabilitación supervisado por su fisioterapeuta para optimizar su condición física y cardiopulmonar.
+
+Página 75 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+Referencias 1. Vallejo-Ortega M, Sánchez-Pedraza R, Feliciano-Alfonso J, García-Pérez M, Gutiérrez-Sepúlveda M, Merchán-Chaverra R. Manual Metodológico para la elaboración de protocolos clínicos en el Instituto Nacional de Cancerología. 2018. 2. Harrison MB, Graham ID, Van Den Hoek J, Dogherty EJ, Carley ME, Angus V. Guideline adaptation and implementation planning: a prospective observational study. Implement Sci. diciembre de 2013;8(1):49. 3. Vallejo-Ortega M, Sánchez-Pedraza R, Feliciano-Alfonso J, García-Pérez M, Gutiérrez-Sepúlveda M, Merchán-Chaverra R. Manual Metodológico para la elaboración de protocolos clínicos en el Instituto Nacional de Cancerología. 2018 4. Brouwers MC, Kerkvliet K, Spithoff K, AGREE Next Steps Consortium. The AGREE Reporting Checklist: a tool to improve reporting of clinical practice guidelines. BMJ. 8 de marzo de 2016;i1152 5. Sánchez Pedraza R, Jaramillo González LE. Metodología de calificación y resumen de las opiniones dentro de consensos formales. 2009; Disponible en: https://www.redalyc.org/articulo.oa?id=80615450015 6.Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 29 de marzo de 2021;n71 7.Aguayo-Albasini JL, Flores-Pastor B, Soria-Aledo V. Sistema GRADE: clasificación de la calidad de la evidencia y graduación de la fuerza de la recomendación. Cir Esp. febrero de 2014;92(2):82-8 8. Antoniou SA, Mavridis D, Kontouli KM, Drakopoulos V, Gorter-Stam M, Eriksson S, Leone M, Pérez-Bocanegra MC, Smart NJ, Milone M, Carrano FM, Antoniou GA, Vandvik PO. EAES rapid guideline: appendicitis in the elderly. Surg Endosc. 2021 Jul;35(7):3233-3243. doi: 10.1007/s00464-021-08524-9. Epub 2021 May 17. PMID: 33999255.
+
+Página 76 de 77
+
+DIAGNÓSTICO, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON APENDICITIS AGUDA EN EL HOSPITAL UNIVERSITARIO NACIONAL DE COLOMBIA ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-30
+
+Vigente desde: 24-07-2024
+
+Versión: 001
+
+9. Fugazzola P, Ceresoli M, Agnoletti V, Agresta F, Amato B, Carcoforo P, et al. The SIFIPAC/WSES/SICG/SIMEU guidelines for diagnosis and treatment of acute appendicitis in the elderly (2019 edition). World J Emerg Surg. 2020 Mar 10;15(1):19 10. Di Saverio S, Birindelli A, Kelly MD, Catena F, Weber DG, Sartelli M, et al. WSES Jerusalem guidelines for diagnosis and treatment of acute appendicitis. World J Emerg Surg. 2016 Jul 18;11(1):34. 11. Di Saverio S, Podda M, De Simone B, Ceresoli M, Augustin G, Gori A, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg WJES. 2020 Apr 15;15(1):27 12.Oxford Centre for Evidence-Based Medicine. Oxford Centre for EvidenceBased Medicine: Levels of Evidence (March 2009). Oxford: CBME [citado17 abr 2024]. Disponible en: https://www.cebm.ox.ac.uk/resources/levels-of-evidence/oxfordcentre-for-evidence-based-medicine-levels-of-evidence-march-2009 13.Gupta V, Gupta P, Gill CS, Gupta M. Appendicitis Inflammatory Response Score in Acute Appendicitis: A Study at a Tertiary Care Center in North India. Int J Appl Basic Med Res. 2022 Oct-Dec;12(4):234-238. doi: 10.4103/ijabmr.ijabmr_287_22. Epub 2022 Dec 19. PMID: 36726654; PMCID: PMC9886148.
+
+Página 77 de 77

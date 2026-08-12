@@ -1,0 +1,439 @@
+Artículo original Ginecol Obstet Mex 2022; 90 (6): 486-495.
+https://doi.org/10.24245/gom.v90i6.7600
+Mortalidad por cáncer de cuello uterino en la amazonia de Colombia
+Cervical cancer mortality in the Colombian Amazon.
+Adriana Ardila-Sierra,1 Carol Vásquez-Basallo,2 Paula Ortiz-de Oro,2 Myriam Puertode Amaya3
+
+Resumen
+OBJETIVO: Analizar el pico de mortalidad por cáncer de cuello uterino registrado en 2018 en Guainía, Colombia.
+MATERIALES Y MÉTODOS: Estudio ecológico basado en los datos de todas las instituciones con información de la morbilidad y mortalidad y atenciones relacionadas con el cáncer de cuello uterino en Colombia, entre enero de 2009 y diciembre de 2019. Se incluyeron todos los datos disponibles para Guainía. Se excluyeron las bases sin datos entre 2016 y 2018. Se analizaron la morbilidad y mortalidad, atenciones y procedimientos, y se compararon con el comportamiento en 2018 respecto de los demás años.
+RESULTADOS: Las personas atendidas, las atenciones y los procedimientos relacionados con cáncer de cuello uterino disminuyeron en 2016 y 2017. La concentración de atenciones por persona más baja del periodo se dio en 2017. En 2019, aumentó la cantidad de personas con diagnóstico de infección por papilomavirus.
+CONCLUSIONES: La reducción en el tamiz, las atenciones y los procedimientos relacionados con el cáncer de cuello uterino, en un territorio, puede ocasionar aumentos en la mortalidad por este tipo de cáncer. Es fundamental sostener en el tiempo las acciones de prevención, diagnóstico y tratamiento, para evitar esta mortalidad.
+PALABRAS CLAVE: Neoplasias del cuello uterino; infecciones por Papillomavirus; cuello del útero; mortalidad.
+Abstract
+OBJECTIVE: To analyze the cervical cancer mortality peak, in Guainía, in 2018.
+MATERIALS AND METHODS: Ecological study. Data from all institutions with cervical cancer morbidity, mortality and attention information in Colombia, between January/2009 and December/2019, were analyzed. All available data for Guainía were included. The databases with no data between 2016 and 2018 were excluded. Morbidity, mortality, attention, and procedures were analyzed, comparing the behavior in 2018 to the other years.
+RESULTS: Cervical cancer-related patients, care and procedures decreased in 2016 and 2017. The lowest concentration of care per person in the period was in 2017. In 2019, the number of people diagnosed with papillomavirus infection increased.
+CONCLUSIONS: The reduction in screenings, care and procedures related to cervical cancer, in a territory, can lead to increases in mortality from this type of cancer. It is essential to sustain prevention, diagnosis, and treatment actions over time to avoid this mortality.
+KEYWORDS: Uterine Cervical Neoplasms; Papillomavirus Infections; Cervix Uteri; Mortality.
+
+1 Investigadora en Salud Pública. 2 Estudiante de Citohistología. 3 Bacterióloga y citohistóloga, profesora asociada. Fundación Universitaria de Ciencias de la Salud (FUCS), Bogotá, Colombia.
+ORCID http://orcid.org/0000-0002-4070-0365 http://orcid.org/0000-0001-8956-0490 http://orcid.org/0000-0002-8759-8900 http://orcid.org/0000-0002-8231-6003
+Recibido: febrero 2021 Aceptado: abril 2022
+Correspondencia Adriana Ardila Sierra amardila@fucsalud.edu.co
+Este artículo debe citarse como: Ardila-Sierra A, Vásquez-Basallo C, Ortiz-de Oro P, Puerto-de Amaya M. Mortalidad por cáncer de cuello uterino en la amazonia de Colombia. Ginecol Obstet Mex 2022; 90 (6): 486-495.
+
+486
+
+www.ginecologiayobstetricia.org.mx
+
+Ardila-Sierra A, et al. Cáncer de cuello uterino
+
+ANTECEDENTES
+El cáncer de cuello uterino es una de las principales causas de muerte en todo el mundo.1,2 Este cáncer es susceptible de prevención3,4,5 y, también, es curable si se diagnostica oportunamente,6,7 mediante pruebas de tamizaje.8 Por esto, es inaceptable que sigan muriendo mujeres por esta causa.
+En 2018, en Colombia, fue la tercera causa de muerte por cáncer en mujeres (7.1%), después del cáncer de mama (24.8%) y el colorrectal (8.8%).2 Ese mismo año, Guainía, departamento colombiano, amazónico, 75% indígena, registró la tasa de mortalidad por cáncer de cuello uterino más alta del país (14.21 casos por cada 100,000 mujeres). Esta cifra corresponde a la que tenía Colombia, en promedio, en 1987; en el país se han documentado inequidades en la supervivencia entre territorios.9
+En 2018, en Colombia, la mortalidad promedio por cáncer cuello uterino fue de 9.55 muertes por cada 100,000 mujeres.10 La meta nacional para 2020 fue de menos de 6.9 muertes por cada 100,000 mujeres.11 En 2016 se inició, en Guainía, un nuevo modelo de atención en salud con el objetivo de mejorar el acceso y la calidad de los servicios en ese territorio,12 caracterizado por su dispersión poblacional (44.431 habitantes, en 72.238 km2).13 Llama la atención el aumento concomitante en la mortalidad por cáncer de cuello uterino. Por lo anterior el objetivo de esta investigación fue: analizar el pico de mortalidad por cáncer de cuello uterino registrado en 2018 en Guainía, Colombia.
+MATERIALES Y MÉTODOS
+Estudio ecológico basado en el análisis de datos del Instituto Nacional de Salud, el Observatorio Nacional del Cáncer, el Sistema Integrado de Información de la Protección Social, el portal
+
+“Así vamos en Salud” y la cuenta nacional de alto costo “Hechos Información Gestión Innovación Acción” (HIGIA). Se incluyeron todos los datos disponibles para Guainía y se excluyeron las bases sin datos para los años 2016 a 2018, así como los datos del Sistema de Vigilancia en Salud Pública (SIVIGILA), porque se reporta la suma de casos de cáncer de cuello uterino y de cáncer de mama, y no es posible separarlos. Se analizó el comportamiento de la morbilidad y mortalidad, las atenciones y los procedimientos efectuados a lo largo del tiempo y se comparó el comportamiento en 2018, respecto de los demás años.
+Del Sistema Integrado de Información de la Protección Social (SISPRO) se extrajeron los datos de personas atendidas y atenciones (códigos CIE-10: C530, C531, C538, C539, C54 D060, D061, D067, D069, D260, N87, B97.7), y de procedimientos médicos (códigos de la clasificación única de procedimientos en. salud - CUPS: 671200 al 03, 672001, 673, 674, 7022, 898001, 898005 y 898009, 892904, 898101), desde 2009 hasta 2019. Se consultaron el 17 de julio de 2020.
+RESULTADOS
+El Análisis de la Situación de Salud de Guainía (ASIS) de 2018 ofrece muy poca información.14 Las cifras de morbilidad se reportaron en combinación con las de cáncer de mama y las de mortalidad solo se informan de manera cualitativa (en figuras), con datos hasta 2017.
+En el ASIS de 2018 se evidencia un aumento de casos de más del 100% entre 2016 y 2017 (8.07 casos de cáncer de mama y cuello uterino por cada 100,000 mujeres de 18 años y más en 2016 y 16.96 casos en 2017), pero no es posible dilucidar a expensas de cuál de los dos cánceres. No se informan casos de infección por el virus del papiloma humano, ni relativos a la vacunación. Figura 1
+
+487
+
+Ginecología y Obstetricia de México
+
+2022; 90 (6)
+
+Tasa de mortalidad (x100,000 mujeres)
+
+16
+14 11.93
+12
+10
+
+14.21 9.95
+9.63
+
+8
+
+9.31
+
+5.73 6 5.62 5.24
+
+4
+
+5.06
+
+2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+
+Figura 1. Mortalidad por cáncer de cuello uterino. Guainía, 2005-2019. Fuente: Elaboración propia con datos de https://www.asivamosensalud.org/. Fecha de consulta 22 de julio de 2020.
+
+El Instituto Nacional de Cancerología reporta la mortalidad por cáncer de cuello uterino, según quinquenios; así, cada cifra anual es el promedio entre los dos años anteriores y los dos años posteriores al reportado, como se muestra en la Figura 2, donde la cifra de 2017 incluye el promedio de 2015-2019.
+Según la Figura 2, que abarca datos promediados de 2008 a 2019, tanto el total de muertes como la mortalidad cruda y la mortalidad estandarizada por cáncer de cuello uterino en Guainía han tenido una tendencia sostenida al aumento, lo que indica que el problema actual ya venía dando señales de alerta.
+Morbilidad por cáncer de cuello uterino en Guainía
+Según la cuenta de alto costo del sistema de salud (HIGIA), en 2018 la prevalencia de cáncer de cuello uterino invasivo en el país fue de 58.7 casos por cada 100,000 mujeres. Los departamentos con mayor prevalencia fueron: Córdoba, Casanare, Huila, Nariño, Sucre, Antioquia, Cesar, Bolívar y Caquetá (rango entre 90.9 y 70.6
+
+por cada 100,000 mujeres) y los departamentos con menor prevalencia fueron: Vaupés, San Andrés, Guainía, Vichada, La Guajira, Chocó, Santander, Cundinamarca y Caldas (Rango: 20,3 a 47,3 por cada 100,000 mujeres); no se detalla el dato de Guainía.
+Según los datos del Sistema de Información de la Protección Social (SISPRO), en Guainía la cantidad de personas atendidas y las atenciones por cáncer de cuello uterino disminuyeron considerablemente en 2016 y 2017 (Figuras 3 y 4), años en los que se inició el nuevo modelo. Hubo una recuperación en los dos años siguientes, cuando las cifras volvieron a acercarse a las registradas antes del modelo.
+En cuanto a los diagnósticos principales, predominaron la displasia cervical y el tumor maligno; su detección disminuyó al reducirse las atenciones en 2016 y 2017, que fueron los años previos al pico de mortalidad de 2018. Figura 3
+Los aumentos de 2019 fueron en cantidad de atenciones por persona y para el total de perso-
+
+488
+
+https://doi.org/10.24245/gom.v90i6.7600
+
+Ardila-Sierra A, et al. Cáncer de cuello uterino
+
+50 45 40 35 30 25 20 15 10
+5 0
+2009
+
+2010
+
+2011 2012 2013 2014
+Tumor benigno Lesión de sitios contiguos del cérvix Infección por Papilomavirus
+
+2015
+
+2016 2017
+
+Carcinoma in situ Tumor maligno Displasia cervical
+
+2018
+
+2019
+
+Figura 2. Tasa de mortalidad por 100,000 personas-año en mujeres. Cáncer de cuello uterino. Guainía, 2010-2017. Fuente: Elaboración propia con datos tomados de https://www.infocancer.co/portal/#!/filtro_mortalidad. Fecha de consulta: 17 de julio 2020.
+
+14
+
+12
+
+10.4
+
+10
+
+8 5.4
+6
+
+4
+
+2
+
+1
+
+0 2010
+
+11.5 8.7
+
+5.2
+
+5.2
+
+1
+
+1
+
+2011
+
+2012
+
+Mortalidad cruda
+
+10.5 10.5 11
+
+8.2
+
+6.8
+
+6.8
+
+2
+
+1
+
+1
+
+2013
+
+2014
+
+2015
+
+Mortalidad estandarizada
+
+13.1
+11 9.8
+8.2
+
+2
+
+2
+
+2016 Muertes
+
+2017
+
+Figura 3. Cantidad de personas atendidas y su diagnóstico principal. Guainía, 2009-2019. Fuente: Elaboración propia con datos de Cubos SISPRO - RIPS. Fecha de consulta: 23 de julio 2020.
+
+489
+
+Ginecología y Obstetricia de México
+
+2022; 90 (6)
+
+nas atendidas (Figura 3 y 4). La concentración de atenciones por persona más baja se dio en 2017, un año antes del pico de mortalidad (3.5 atenciones por persona atendida en 2016, 1.6 en 2017, 3.4 en 2018 y 3.1 en 2019). Figura 4
+Además, entre 2016 y 2018 la cantidad de procedimientos diagnósticos o terapéuticos relacionados con el cáncer de cuello uterino disminuyó con respecto a los dos años anteriores (Figura 5). En 2019 hubo un gran aumento, a expensas de las citologías, seguidas por las biopsias, como se muestra en la Figura 5.
+En la Figura 5 también se aprecia que la citología fue el tamiz predominante todo el periodo, mientras que la proporción de colposcopias fue baja (mediana: 3.2 colposcopias por cada 100 biopsias, rango: 0-18.5), lo que fue más evidente a partir del inicio del nuevo modelo, en 2016.
+En el 68% de los casos identificados en SISPRO no se reportó la etnia, en el 25% se reportó “etnia indígena” sin especificar cuál etnia y en
+
+7% se reportó “otra etnia”; las proporciones más altas del reporte de la etnia indígena se dieron en los tumores malignos y en el carcinoma in situ. Figura 6
+Indicadores de calidad
+Según la Resolución 3280 de 2018, en Colombia es obligatoria la colposcopia cuando hay hallazgos anormales en el tamiz (por citología o por inspección visual) y el patrón de referencia para su toma, en caso de hallazgos anormales, es de 30 días. En las fuentes consultadas hay muy pocos datos de calidad discriminados por Departamento. La evaluación más reciente de la detección temprana de cáncer de cuello uterino la hizo el Instituto Nacional de Salud y se remonta al periodo 2005-2010 (incluyó cobertura de tamiz, oferta de servicios, calidad de la citología, seguimiento de las mujeres con lesiones intraepiteliales de alto grado y efectividad de la citología).15
+Según la cuenta de alto costo del sistema de salud (HIGIA), en Colombia las peores medianas
+
+Número de atenciones
+
+180
+160
+140
+120
+100
+80
+60 42
+40
+20
+0 2009
+
+28 2010
+
+36 2011
+
+64 2012
+
+34 2013
+
+169 2014
+
+72 2015
+
+7 2016
+
+11 2017
+
+57 2018
+
+147 2019
+
+Figura 4. Cantidad de atenciones y su diagnóstico principal. Guainía, 2009-2019. Fuente: Elaboración propia con datos de Cubos SISPRO-RIPS. Fecha de consulta: 23 de julio de 2020.
+
+490
+
+https://doi.org/10.24245/gom.v90i6.7600
+
+Ardila-Sierra A, et al. Cáncer de cuello uterino
+
+1400 1200 1000
+800 600 400 200
+0
+
+2009
+
+2010
+
+2011 2012 2013 2014 2015 2016 2017
+
+Escición de pólipo en el cuello del útero Biopsia Conización
+
+Colcoscopia Estudio de coloración Citología
+
+2018 2019
+
+Figura 5. Procedimientos relacionados con el cáncer de cuello uterino. Guainía, 2009-2019. Fuente: Elaboración propia con datos de Cubos SISPRO - RIPS. Fecha de consulta: 23 de julio de 2020.
+
+Displasia
+Tumor benigno
+Carcinoma in situ
+Lesión de sitios contiguos al cuello del útero
+Tumor maligno
+Infección por Papilomavirus 0
+
+15 10
+
+10 30
+
+25
+
+38 11 11
+
+20
+
+40
+
+% Otras etnias
+
+75
+
+60
+
+75
+
+62
+
+78
+
+60
+
+80
+
+% No reportado
+
+100
+
+100
+
+120
+
+% Indígena
+
+Figura 6. Distribución porcentual de los diagnósticos principales según la etnia. Guainía, 2016-2019. Fuente: Elaboración propia con datos de Cubos SISPRO - RIPS. Fecha de consulta: 23 de julio de 2020.
+
+491
+
+Ginecología y Obstetricia de México
+
+2022; 90 (6)
+
+de oportunidad desde el diagnóstico hasta el inicio del tratamiento corresponden al cáncer de cuello uterino. En el país, en 2018, la oportunidad en la atención a este cáncer, desde la sospecha médica hasta el diagnóstico, fue de 43 días y la oportunidad desde el diagnóstico hasta el tratamiento de 69 días.
+Según el Observatorio Nacional del Cáncer, en Guainía la proporción de mujeres con toma de citología cervicouterina aumentó entre 2014 y 2019, mientras que la colposcopia tuvo un comportamiento muy variado.16 Figura 7
+Según el informe de 2018 del Instituto Nacional de Salud referente al cáncer de mama y cuello uterino,17 en Guainía la tasa de incidencia de notificación de cáncer de cuello uterino, ajustada por edad, fue inferior pero cercana a la nacional, que estuvo en 15.3 mujeres notificadas por cada 100,000 mujeres. En esa notificación no se detalla el dato de Guainía.
+
+Por último, según los datos de SISPRO, la cantidad de personas atendidas con diagnóstico de infección por virus del papiloma aumentó en 2019 (11 personas, fecha de consulta 23 de julio de 2020) (Figura 3). En los reportes del Plan Ampliado de Inmunizaciones no se incluye la vacunación contra virus del papiloma humano y no se encontraron otros reportes oficiales. En el ASIS departamental 2018 no se hace mención a esta vacuna porque quizá no se esté aplicando en el Departamento.
+DISCUSIÓN
+Se analizó la situación del cáncer de cuello uterino en un territorio priorizado de Colombia, por haber sido el piloto nacional de un nuevo modelo de salud, que inició en 2016, dirigido a los departamentos con población dispersa. Se tuvieron en cuenta todos los datos disponibles en portales públicos y un primer hallazgo fue la ausencia de datos georreferenciados por Departamento en varias fuentes.
+
+Proporción
+
+30
+
+25
+
+25
+
+20
+
+15
+
+10
+
+5
+0.2 0
+2014
+
+1.4
+0 2015
+
+12.5 2.3 2016
+
+14.3
+2.9 2017
+
+7
+4.2 2018
+
+Proporción de mujeres con toma de CCU Proporción de mujeres que requieren toma de colposcopia
+
+6.7
+1.6 2019
+
+Figura 7. Proporción de mujeres con toma de citología y mujeres que requieren toma de colposcopia. Guainía, 2014-2019. Fuente: Elaboración propia con datos del Observatorio Nacional de Cáncer. Fecha de consulta: 17 de julio de 2020.
+
+492
+
+https://doi.org/10.24245/gom.v90i6.7600
+
+Ardila-Sierra A, et al. Cáncer de cuello uterino
+
+Con la información disponible se identificó que la alta mortalidad del 2018 estuvo antecedida por una reducción en la cantidad de atenciones y de personas atendidas durante los primeros dos años de implementación del nuevo modelo (2016 y 2017), con menor detección de tumores malignos que en los años anteriores, lo que pudo contribuir a la detección tardía de los casos que configuraron el pico de mortalidad de 2018. También hubo una disminución en la concentración de atenciones por persona atendida en 2017, el año inmediatamente anterior al pico.
+La mayor cantidad de personas atendidas y de atenciones en 2019 amerita un seguimiento porque son similares a las que se habían logrado en el Departamento entre 2014 y 2015, que indican que hubo tiempos mejores y que aún se esperarían mejores logros con el paso del modelo.
+Preocupa la baja proporción de colposcopias porque este examen es la prueba confirmatoria de elección, ante hallazgos citológicos anormales, y es necesario para el seguimiento y el tratamiento definitivo oportuno.15 Si bien no se cuenta con comparadores, la mediana de 3.2 colposcopias por cada 100 biopsias se considera muy baja.
+No puede descartarse que los cambios institucionales ligados al inicio del nuevo modelo hayan repercutido negativamente las relaciones entre los servicios de salud y las comunidades, con efectos negativos en la demanda de atención y con menores posibilidades de interacciones interculturales favorables para el acceso cultural.
+Puesto que durante el periodo estudiado en este territorio se estuvo implementando un nuevo modelo de atención en el que hubo cambios frecuentes de instituciones participantes y de personal de salud, el comportamiento de los datos estudiados puede reflejar, al menos par-
+
+cialmente, un efecto de “borrón y cuenta nueva” secundario a los cambios y empalmes.
+Este hallazgo concuerda con otros reportes que han identificado algunos logros en el acceso a la atención de alta complejidad, con el nuevo modelo, pero fallas en el ámbito de la atención preventiva y de primer nivel.18,19
+Esto indicaría que la implementación de nuevos modelos de atención lleva implícito el riesgo de reducir logros previos; entonces, se recomienda que los territorios que incursionen en nuevos modelos prevean estrategias de gestión para que esos cambios y empalmes no impliquen la pérdida de las capacidades territoriales previamente construidas.
+También preocupa la ausencia de reportes de vacunación contra el virus del papiloma humano en este Departamento, que muy seguramente reflejan la ausencia de vacunación. La preocupación es mayor considerando que las atenciones por infección por virus del papiloma humano han aumentado y, teniendo en cuenta que esta infección también se ha asociado recientemente con otros tipos de cáncer, adicionales al cáncer de cuello uterino y en hombres.
+La baja proporción de casos reportados como etnia indígena en SISPRO (25%) contrasta con el 75% de población indígena de este Departamento y sugiere un subregistro de este dato que ha sido identificado en estudios previos.20
+La mayor parte de las limitaciones de este estudio se relacionan con la ausencia de datos o datos incompletos para Guainía en las fuentes nacionales, así como con la calidad de los datos existentes, que depende de la calidad de las notificaciones. Dos faltantes importantes, para comparar con el país, fueron la cobertura de tamiz en mujeres entre 25 y 69 años de edad y la calidad de las citologías tomadas.
+
+493
+
+Ginecología y Obstetricia de México
+
+2022; 90 (6)
+
+CONCLUSIONES
+En Guainía, el pico de mortalidad por cáncer de cuello uterino de 2018 fue posterior a una reducción en los tamices, atenciones y procedimientos relacionados con este tipo de cáncer entre 2016 y 2017. Esto indica que la reducción en los tamices, las atenciones y los procedimientos relacionados con el cáncer de cuello uterino, puede ocasionar un aumento en la mortalidad por este cáncer. Es fundamental sostener las acciones de prevención, diagnóstico y tratamiento a lo largo del tiempo, para evitar la mortalidad por este tipo de cáncer.
+Debido a que este fenómeno se dio durante la implementación de un nuevo modelo de atención en salud, se infiere que no es posible dar por sentado el éxito de los nuevos modelos de atención en los territorios. Si esos modelos no garantizan la continuidad de los esfuerzos que previamente se venían haciendo, el efecto puede ser el contrario, como en este caso.
+En este Departamento es necesario aumentar los servicios para la detección oportuna de los casos y, específicamente, es prioritario incrementar el acceso a la colposcopia.
+Es necesario mejorar la calidad de los datos de la vigilancia en salud pública a nivel departamental y nacional, lo mismo que la captura y el reporte de indicadores de calidad de la atención en cáncer de cuello uterino, discriminados por Departamento.
+Agradecimiento
+Al proyecto de investigación del que se derivó este artículo fue financiado por Minciencias (CT 789-2018).
+
+REFERENCIAS
+1. Barrios E, Garau M. Cáncer: magnitud del problema en el mundo y en Uruguay, aspectos epidemiológicos. Anfamed 2017; 4: 7-161. http://dx.doi.org/10.25184/ anfamed2017.4.1.2
+2. International Agency for Research on Cancer. The Global Cancer Observatory – Globocan, 2018. https://gco.iarc. fr/today/data/factsheets/populations/170-colombiafact-sheets.pdf
+3. Marañón T, Mastrapa K, Flores Y, Vaillant L, Landazuri S. Prevención y control del cáncer de cuello uterino. CCM 2017; 21: 187-203. http://scielo.sld.cu/scielo.php?script=sci_ arttext&pid=S1560-43812017000100015&lng=es
+4. Viroga S, Speranza N. Seguridad de la vacuna VPH: ¿qué sabemos y qué hay de nuevo? Boletín Farmacológico 2016; 7 (1): 6. https://hdl.handle.net/20.500.12008/11070
+5. Zapata A, Borja A, Macías I, Albán C. Medidas asociadas a la reducción del riesgo de cáncer de cuello uterino. RECIAMUC 2019; 3 (1): 127-46. https://doi.org/10.26820/ reciamuc/3.(1).enero.2019.127-146
+6. Correia R, Bonfim C, Ferreira D, Furtado B, Costa H, Feitosa K, et al. Quality of life after treatment for cervical cancer. Esc. Anna Nery 2018; 22 (4). https://doi.org/10.1590/21779465-ean-2018-0130
+7. Arrivillaga M, Ruiz DM, Medina M. Atención en salud de mujeres con lesiones precursoras de cáncer de cuello uterino: evidencia cualitativa de la fragmentación del sistema de salud en Colombia. RGYPS 2019; 18 (37): 1-20. https:// doi.org/10.11144/Javeriana.rgps18-37.asml
+8. García A, Díaz P, Melo U, Parra F, Vera C, Orozco V. Validación de la citología cervicouterina convencional con prueba de referencia histopatológica en la identificación de cáncer escamocelular invasor. Rev chil obstet ginecol 2006; 71: 184-8. http://dx.doi.org/10.4067/S071775262006000300007
+9. Arias N, De Vries E. Inequidades en salud y supervivencia al cáncer en Manizales, Colombia: un estudio de base poblacional. Colombia Médica 2018; 49( 1): 63-73. http:// dx.doi.org/10.25100/cm.v49i1.3629
+10. Así vamos en salud. Mortalidad por cáncer de cérvix, por Departamento - Colombia. 2005-2019. 2020. https://bit. ly/31hrRTr.
+11. Londoño B, Ramírez C, Urquijo L, Ospino M, Londoño C, Ortiz L. Plan Nacional para el control del Cáncer en Colombia 2012-2020. Bogotá, Colombia, 2012. https://bit.ly/3jPNjou
+12. Ministerio de Salud y Protección Social. Modelo Integral de Atención en Salud - MIAS. Piloto de Implementación en los Departamentos con Poblaciones Dispersas. 2015. https://bit.ly/3jVs84w
+
+494
+
+https://doi.org/10.24245/gom.v90i6.7600
+
+Ardila-Sierra A, et al. Cáncer de cuello uterino
+
+13. Departamento Administrativo Nacional de Estadística. Entrega de resultados Censo nacional de población y vivienda (CNPV)- 2018. Comunicado de prensa. Colombia, 2018. https://bit.ly/3eg6mHc
+14. Secretaría Departamental de Salud del Guainía. Análisis de situación en salud, Departamento de Guainía. 2018.
+15. Ministerio de Salud y Protección Social. Guía de práctica clínica para la detección y manejo de lesiones precancerosas de cuello uterino. Colombia, 2014. https://bit.ly/3gJ65vY
+16. Observatorio Nacional de Cáncer, Ministerio de salud. Mortalidad de cánceres priorizados Bogotá, Colombia, 2020. https://bit.ly/2ELFHV5
+17. Instituto Nacional de Salud. Informe de evento cáncer de mama y cuello uterino en Colombia 2018 Ministerio de Salud, 2018. https://bit.ly/3jtUXVH
+
+18. Ardila-Sierra A, Niño Leal L, Sarmiento Medina M, RiveraTriana D, Pachón Lozano A, Martínez Acosta F. Un recorrido por la implementación del MIAS de Guainía. Línea de tiempo. Fundación Universitaria de Ciencias de la Salud, 2020. https://bit.ly/2AucRGO.
+19. Ardila-Sierra A, Niño-Leal L, Rivera-Triana D, SarmientoMedina MI, Alzate JP. Condiciones en la frontera sur entre Colombia y Venezuela ante la pandemia de COVID-19. Revista de Salud Pública 2020; 22 (2): 9. https://doi. org/10.15446/rsap.v22n2.86366
+20. Ardila-Sierra A, Rivera-Triana D, Sarmiento Medina MI, Romero-Piñeres AC, Bayona-Camelo A, Herrera-Bolívar S. Pacientes procedentes de un territorio disperso que fallecieron en un hospital universitario. Serie de casos. Investigaciones en Seguridad Social y Salud 2020; 21 (1): 23-31.
+
+CITACIÓN ACTUAL
+De acuerdo con las principales bases de datos y repositorios internacionales, la nueva forma de citación para publicaciones periódicas, digitales (revistas en línea), libros o cualquier tipo de referencia que incluya número doi (por sus siglas en inglés: Digital Object Identifier) será de la siguiente forma: REFERENCIAS
+1. Yang M, Gou, ZW, Deng CJ, Liang X, et al.* A comparative study of three different forecasting methods for trial of labor after cesarean section. J Obstet Gynaecol Res. 2017;25(11):23942. https://doi.org/10.1016/j.gyobfe.2015.04..0015.**
+* Cuando la referencia contiene hasta tres autores, éstos se colocarán de forma completa. En caso de 5 autores o más, solo se colocan cuatro, seguidos de la palabra en latín “et al”.
+** El registro Doi deberá colocarse con el link completo (como se indica en el ejemplo).
+495

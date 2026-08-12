@@ -1,0 +1,277 @@
+Apendicitis Appendicitis
+
+Apendicitis Appendicitis
+
+Juan Andrés Araque Panesso Estudiante de medicina, miembro del Semillero de Investigación en Cirugía,
+Facultad de Medicina, Universidad de Antioquia.
+Sofía Martínez Restrepo Estudiante de medicina, miembro del Semillero de Investigación en Cirugía,
+Facultad de Medicina, Universidad de Antioquia.
+Juan Carlos Serna Rentería Cirujano general Universidad de Antioquia, docente ocasional departamento de
+cirugía Universidad de Antioquia, Cirujano general HUSVF, clínica león XIII.
+DOI: https://doi.org/10.59473/medudea.pc.2023.51
+¿Qué es importante repasar antes de leer este capítulo?
+
+•
+
+Anatomía apendicular y topográfica de la pared abdominal.
+
+•
+
+Semiología abdominal (hallazgos normales y principales maniobras de
+
+exploración).
+
+Los objetivos de este capítulo serán:
+
+•
+
+Conocer y entender los aspectos básicos sobre la apendicitis para su
+
+diagnóstico y manejo.
+
+Palabras clave: Apéndice, Apendicectomía, Dolor Abdominal, Abdomen Agudo.
+
+Keywords: Appendix, Appendectomy, Abdominal Pain, Acute Abdomen.
+
+Cómo citar este artículo: Araque JA, Martínez S, Serna JC. Apendicitis. [Internet]. Medellín: Perlas Clínicas, Facultad de Medicina, Universidad de Antioquia; 2022 [acceso día de mes de año]. DOI: https://doi.org/10.59473/medudea.pc.2023.51
+
+1. VIÑETA CLÍNICA
+Paciente femenina de 18 años, sin antecedentes de importancia; quien consulta por dolor abdominal intenso, de un día de evolución, de aparición súbita en hipogastrio, acompañado de náuseas y fiebre no cuantificada, que luego migra a fosa ilíaca derecha, con pobre respuesta a antiespasmódicos. Al examen físico, la paciente se encuentra hidratada y estable hemodinámicamente; al examen abdominal, la paciente presenta dolor a la palpación en fosa ilíaca derecha, sin signos de irritación peritoneal. Se le realiza una prueba de embarazo con resultado negativo; un hemoleucograma en el que se evidencia neutrofilia (89 %) y linfocitosis (7,8 x10³/µL); con niveles de proteína C reactiva aumentados (11,7 mg/L).
+2. INTRODUCCIÓN
+La apendicitis aguda es una de las causas más comunes de dolor abdominal que se presenta en los servicios de urgencias, y la apendicectomía es la cirugía de emergencia más frecuentemente realizada en todo el mundo. En los pacientes con dolor abdominal agudo de menos de una semana de duración, la incidencia de apendicitis varía del 12 al 28 %, y aunque la incidencia alcanza su punto máximo en la segunda y tercera décadas de la vida, puede ocurrir a cualquier edad.
+A pesar de su prevalencia, el diagnóstico de apendicitis puede ser difícil de lograr debido a la ausencia de un signo o síntoma patognomónico, el escaso valor predictivo de las pruebas de laboratorio asociadas y su variada presentación.
+La tasa de mortalidad general por apendicitis es inferior al 1 %, pero aumenta al 3 % si se perfora el apéndice, y se acerca al 15 % en los ancianos pues el diagnóstico es más difícil en pacientes extremadamente jóvenes o ancianos, lo que resulta en una mayor incidencia de diagnóstico tardío y peritonitis asociada en estas poblaciones.
+
+Fisiopatología El proceso común en el desarrollo de la apendicitis aguda es la obstrucción luminal del apéndice. La causa de la obstrucción varía con la edad. En los niños, se cree que la causa principal es la hiperplasia linfoide, posiblemente agravada por la infección y la deshidratación. En los adultos, los fecalitos son una causa más frecuente, y las neoplasias pueden causar obstrucción en los ancianos.
+Una vez obstruido, el apéndice se inflama, se vuelve isquémico y necrótico. Se produce un crecimiento excesivo de bacterias y, finalmente esto conduce a una mayor probabilidad de perforación y peritonitis local o generalizada. La mayoría de los pacientes experimentan inflamación solo en las primeras 24 horas, mientras que los pacientes con perforación suelen presentar síntomas durante más de 48 horas sin que exista una relación temporal comprobada para la perforación.
+Riesgo médico legal Debido a su presentación atípica, la apendicitis se ha descrito como un riesgo particular de diagnóstico erróneo y litigios posteriores. La apendicitis es la principal causa de litigio contra los médicos de urgencias, en el caso de pacientes con dolor abdominal. En una revisión de reclamos cerrados por negligencia que involucran diagnósticos erróneos o retrasados, la apendicitis fue el sexto diagnóstico perdido más común.
+Diagnóstico El método de referencia (gold standard) para el diagnóstico de apendicitis es la confirmación patológica después de la apendicectomía. Sin embargo, para equilibrar una tasa de laparotomía aceptable con un mínimo de diagnósticos retrasados o perdidos, el médico debe tener en cuenta todos los hallazgos clínicos, los datos de laboratorio y las imágenes adecuadas. No existe un solo signo, síntoma o prueba de laboratorio para identificar o excluir de manera confiable la apendicitis; y es por lo que para optimizar la precisión diagnóstica en la apendicitis aguda, el médico debe estar familiarizado con las limitaciones y los peligros asociados con cada signo, síntoma y estudio de laboratorio o de imágenes.
+
+No se puede confiar en ningún signo o síntoma individual para diagnosticar o excluir la apendicitis. Más bien, el médico debe confiar en las características acumulativas de la anamnesis y el examen físico para intentar aumentar o disminuir la probabilidad posprueba de una posible apendicitis. Es importante comprender la importancia relativa de los signos y síntomas específicos, mejor expresados como la razón de verosimilitud asociada (LR: likelihood ratio) que representan la mayor probabilidad de que la enfermedad esté presente si el resultado es positivo o, por el contrario, ausente si el resultado es negativo.
+Las razones de verosimilitud (LR) para los principales signos y síntomas de la apendicitis se muestran en las Tablas 1 y 2.
+
+Tabla 1. Razones de verosimilitud (LR) para síntomas específicos en la apendicitis.
+
+Síntoma descrito en LR positivo Aumento
+
+de
+
+la LR negativo
+
+la anamnesis
+
+probabilidad posterior a
+
+la prueba
+
+Dolor en el cuadrante 7,31-8,46
+
+Probabilidad moderada. 0-0,28
+
+inferior derecho.
+
+Migración.
+
+3,18
+
+Pequeño aumento.
+
+0,50
+
+Dolor antes de 2,76
+
+vomitar.
+
+No haber tenido dolor 1,50
+
+similar en el pasado.
+
+Anorexia.
+
+1,27
+
+Pequeño aumento. No es útil. No es útil.
+
+--0,323 0,64
+
+Náuseas.
+
+0,69-1,20
+
+No es útil.
+
+0,70-0,84
+
+Vómito.
+
+0,92
+
+No es útil.
+
+1,12
+
+Tabla 2. Razones de verosimilitud (LR) para signos específicos de apendicitis (2).
+
+Signo encontrado en LR positivo Aumento
+
+de
+
+la LR negativo
+
+el examen físico
+
+probabilidad posterior a
+
+la prueba
+
+Rigidez.
+
+3,76
+
+Pequeño aumento.
+
+0,82
+
+Dolor en el cuadrante 2,30
+
+inferior derecho.
+
+Signo de psoas.
+
+2,38
+
+Pequeño aumento. Pequeño aumento.
+
+0,0-0,1 0,90
+
+Signo de Blumberg. 3,70
+
+Pequeño aumento.
+
+0,43
+
+Fiebre.
+
+1,94
+
+No es útil.
+
+0,58
+
+Postura antiálgica.
+
+1,65-1,78
+
+No es útil.
+
+0,27
+
+Sensibilidad dolorosa 0,83-5,34
+
+No es útil.
+
+0,76
+
+rectal.
+
+Nota: LR de 5 a 10 aumenta moderadamente la probabilidad de enfermedad. LR de 2 a 5 puede aumentar la probabilidad de la enfermedad.
+LR menor a 2 no es probable que cambie la probabilidad de la enfermedad.
+
+Establecer el diagnóstico de apendicitis aguda con base en la presentación clínica y el examen físico puede ser un desafío. Como el valor de las variables clínicas individuales para determinar la probabilidad de apendicitis aguda en un paciente es bajo, se recomienda un enfoque personalizado, según la probabilidad de enfermedad, el sexo y la edad del paciente.
+Las puntuaciones clínicas como la puntuación de Alvarado, la puntuación de AIR (Appendicitis Inflammatory Response) y la nueva puntuación de apendicitis en adultos son lo suficientemente sensibles para excluir la apendicitis aguda, al identificar con precisión a los pacientes de bajo riesgo y disminuir la necesidad de imágenes en dichos pacientes. La puntuación de Alvarado no es suficientemente específica para
+
+diagnosticar la apendicitis aguda en adultos, parece poco fiable para diferenciar la apendicitis aguda complicada de la no complicada en pacientes ancianos y es menos sensible en pacientes con VIH. En la actualidad, la puntuación AIR y la puntuación AAS (Adult Appendicitis Score) son las puntuaciones de predicción clínica con mejor rendimiento y tienen mayor capacidad de distinción en adultos con sospecha de apendicitis aguda. Los puntajes AIR y AAS disminuyen las tasas de apendicectomía negativas en los grupos de bajo riesgo y reducen la necesidad de ayudas diagnósticas como imágenes y hospitalizaciones en los grupos de riesgo bajo e intermedio. En pacientes pediátricos con sospecha de apendicitis aguda, la puntuación de Alvarado y la puntuación de apendicitis pediátrica son útiles para descartar la apendicitis aguda.
+Además, los marcadores bioquímicos representan una herramienta de diagnóstico confiable para la identificación de casos negativos o de apendicitis aguda complicada en adultos. El recuento de leucocitos, el diferencial con el cálculo del recuento absoluto de neutrófilos y la PCR son paraclínicos útiles para el diagnóstico de la apendicitis aguda en niños; además, el nivel de PCR ≥10 mg/L y la leucocitosis ≥16.000/ml son fuertes factores predictivos de apendicitis en pacientes pediátricos.
+La clasificación de riesgo intermedio reconoce a los pacientes que posiblemente obtengan beneficio de las imágenes diagnósticas sistemáticas. Los pacientes con signos y síntomas fuertes y alto riesgo de apendicitis según la puntuación AIR/puntuación de Alvarado/puntuación AAS y menores de 40 años pueden no necesitar imágenes preoperatorias transversales (es decir, tomografía computarizada [TC]).
+POCUS (Point-of-care Ultrasound) es una investigación inicial confiable con altas tasas de sensibilidad y especificidad en el diagnóstico de apendicitis aguda, lo que facilita la rápida toma de decisiones por parte de los médicos en el servicio de urgencias. Siempre que lo realice un experto, POCUS se considera la herramienta de diagnóstico de primera línea más adecuada en adultos y niños.
+Cuando esté indicado, se debe preferir la tomografía computarizada de dosis baja con contraste a la tomografía computarizada de dosis estándar con contraste. La precisión diagnóstica de la TC de dosis baja con contraste no es inferior a la TC estándar para diagnosticar apendicitis aguda o distinguir entre apendicitis aguda
+
+complicada y no complicada, y permite una reducción significativa de la dosis de radiación.
+La resonancia magnética es sensible y altamente específica para el diagnóstico de apendicitis aguda durante el embarazo. Sin embargo, un resultado negativo o no concluyente de este examen imagenológico no descarta la apendicitis y aún se debe pensar en la cirugía si hay alta sospecha clínica.
+El uso de la ecografía en niños es preciso y seguro en cuanto a las tasas de perforación, reingresos en los servicios de urgencias y tasas negativas de apendicectomía. El uso de la tomografía computarizada puede reducirse mediante el uso de un algoritmo clínico y/o estadístico apropiado con ecografía o resonancia magnética. La resonancia magnética tiene al menos la misma sensibilidad y especificidad que la tomografía computarizada y, a pesar de que su costo es más elevado, se prefiere la resonancia como imagen de segunda línea en niños.
+Manejo no quirúrgico de la apendicitis aguda no complicada El uso de antibióticos puede considerarse seguro y eficaz en pacientes seleccionados con apendicitis aguda no complicada. Los pacientes que deseen evitar la cirugía deben ser conscientes de un riesgo de recurrencia de hasta el 39 % a los 5 años. El manejo no quirúrgico para la apendicitis aguda no complicada en niños es seguro y eficaz como tratamiento inicial. Sin embargo, la tasa de fracaso aumenta en presencia de apendicolito y se recomienda la cirugía en tales casos.
+Tratamiento quirúrgico La apendicectomía laparoscópica ofrece ventajas significativas sobre la apendicectomía abierta en términos de menos dolor, menor incidencia de infección del sitio quirúrgico, menor duración de la estancia hospitalaria, regreso más temprano al trabajo, costos generales y mejores puntuaciones de calidad de vida; y en niños se asocia con menor dolor posoperatorio, menor incidencia de infecciones de sitio quirúrgico (ISQ) y mayor calidad de vida.
+
+La apendicectomía laparoscópica de incisión única es básicamente factible, segura y tan efectiva como la apendicectomía laparoscópica convencional de tres puertos, en la que los tiempos operatorios son más largos, requieren dosis más altas de analgesia y se asocia con una mayor incidencia de infección de la herida.
+En niños con apendicitis aguda, la incisión única o extracorpórea asistida por laparoscopia transumbilical es altamente segura, así como la técnica laparoscópica de tres puertos.
+La apendicectomía laparoscópica ambulatoria para la apendicitis aguda no complicada es viable y segura sin ninguna diferencia en las tasas de morbilidad. Se asocia con posibles beneficios de una recuperación más temprana después de la cirugía y menores costos hospitalarios y sociales.
+La apendicectomía laparoscópica parece mostrar ventajas relevantes en comparación con la apendicectomía abierta en pacientes adultos obesos, pacientes mayores y pacientes con comorbilidades, se asocia con una reducción de la mortalidad, una reducción de la morbilidad general, una reducción de las infecciones superficiales de la herida, tiempos quirúrgicos más cortos y una menor estancia hospitalaria postoperatoria en estos pacientes. Durante el embarazo es segura en términos de riesgo de muerte fetal y parto prematuro y es preferible a la cirugía abierta, ya que se asocia a una estancia hospitalaria más corta y una menor incidencia de infección del sitio quirúrgico, aunque algunos de los estudios donde se demuestra este beneficio son controvertidos.
+Manejo de la apendicitis perforada con flemón o absceso El tratamiento no quirúrgico es de primera línea y razonable para la apendicitis con flemón o absceso. El drenaje percutáneo como complemento de los antibióticos, si es accesible, podría ser beneficioso. La cirugía laparoscópica es un tratamiento de primera línea seguro y eficaz para el absceso apendicular, ya que se asocia con menos reingresos y menos intervenciones adicionales que el tratamiento conservador, con una estancia hospitalaria comparable.
+
+El tratamiento quirúrgico de la apendicitis aguda con flemón o absceso es una alternativa segura al tratamiento no operatorio y está asociado con una menor necesidad de reingresos y menos intervenciones adicionales que el tratamiento conservador.
+La tasa de recurrencia después del tratamiento no quirúrgico para apendicitis aguda perforada y flemón oscila entre el 12 y 24 %. La apendicectomía de intervalo y el manejo no quirúrgico repetido en caso de recurrencia del flemón apendicular se asocian con una morbilidad similar. Sin embargo, la apendicectomía electiva de intervalo se relaciona con costos quirúrgicos adicionales para prevenir la recurrencia en solo uno de ocho pacientes, como para no justificar la realización de rutina de la apendicectomía.
+La incidencia de neoplasias apendiculares es alta (3 a 17 %) en pacientes adultos ≥40 años con apendicitis complicada, lo que obliga a estudios posteriores en caso de manejo no operatorio.
+Terapia antibiótica perioperatoria Se ha demostrado que una sola dosis de antibióticos de amplio espectro administrada preoperatoriamente (de 0 a 60 min antes de la incisión cutánea quirúrgica) es eficaz para disminuir la infección de la herida y el absceso intraabdominal posoperatorio, independientemente del grado de inflamación del apéndice extirpado.
+En pacientes con apendicitis aguda complicada se sugieren antibióticos postoperatorios de amplio espectro, especialmente si no se ha logrado un control completo de la fuente. En pacientes con infecciones intraabdominales que habían tenido un control adecuado, los resultados después de la terapia con antibióticos de duración fija (aproximadamente 3 a 5 días) son similares a los de un ciclo más prolongado de antibióticos.
+La administración de antibióticos postoperatorios por vía oral en niños con apendicitis complicada durante períodos inferiores a 7 días después de la operación parece ser segura y no se asocia con un mayor riesgo de complicaciones. La transición temprana a los antibióticos orales es segura, eficaz y rentable en el tratamiento de la apendicitis complicada en el niño.
+
+3. MENSAJES INDISPENSABLES
+
+•
+
+La apendicitis aguda es la primera causa de abdomen agudo quirúrgico, por
+
+lo tanto, es de importancia saber valorar y diagnosticar a tiempo esta
+
+entidad a fin de dar el tratamiento adecuado, ya que el retraso en su
+
+diagnóstico tiene como consecuencia el incremento en la morbimortalidad
+
+del paciente.
+
+•
+
+El diagnóstico es clínico y los exámenes de laboratorio o estudios de
+
+imagen son únicamente de apoyo.
+
+•
+
+El estándar de referencia en el tratamiento de la apendicitis aguda es la
+
+cirugía y la técnica para utilizar variará según el criterio de cada cirujano y
+
+del estadio clínico.
+
+•
+
+El uso de los antibióticos en el pre y postoperatorio está indicado en casos
+
+específicos; sin embargo, pese a las controversias, lo más importante es
+
+cubrir los microorganismos principalmente involucrados en cada fase de
+
+esta condición.
+
+4. VIÑETA CLÍNICA (DESENLACE)
+La paciente ingresa para manejo hospitalario, se le administran líquidos endovenosos, analgesia y se le realiza una tomografía computarizada contrastada de abdomen, en la que se evidencia un aumento del diámetro transverso del apéndice (9,15 mm), sin signos de perforación. La paciente es llevada a apendicectomía laparoscópica en la que se encuentra una apendicitis fibrinopurulenta de localización retroileal, no perforada, con base muy edematizada y friable, sin líquido pericecal. Por último, tuvo una evolución postoperatoria adecuada y fue dada de alta.
+
+5. BIBLIOGRAFÍA
+
+1. Vissers RJ, Lennarz WB. Pitfalls in Appendicitis. Emerg Med Clin North Am
+
+[Internet].
+
+2010
+
+Feb;28(1):103-18.
+
+Available
+
+from:
+
+https://aplicacionesbiblioteca.udea.edu.co:2598/19945601/
+
+2. Di Saverio S, Podda M, De Simone B, Ceresoli M, Augustin G, Gori A, et al.
+
+Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem
+
+guidelines. World J Emerg Surg [Internet]. 2020 Apr 15;15(1):27. Available from:
+
+https://wjes.biomedcentral.com/articles/10.1186/s13017-020-00306-3
+
+3. Krzyzak M, Mulrooney SM. Acute Appendicitis Review: Background, Epidemiology,
+
+Diagnosis, and Treatment. Cureus [Internet]. 2020 Jun 11;12(6):e8562. Available
+
+from: https://aplicacionesbiblioteca.udea.edu.co:2054/pmc/articles/PMC7358958/

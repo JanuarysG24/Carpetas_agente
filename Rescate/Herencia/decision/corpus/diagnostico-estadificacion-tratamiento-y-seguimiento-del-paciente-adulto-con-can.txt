@@ -1,0 +1,2565 @@
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Estándar clínico basado en la evidencia: diagnóstico, estadificación, tratamiento y seguimiento del paciente adulto con cáncer de colon en el Hospital Universitario
+Nacional de Colombia
+
+Hospital Universitario Nacional de Colombia Universidad Nacional de Colombia
+
+Bogotá, Colombia 2024
+
+Página 1 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Versión previa a diagramación
+
+Página 2 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Estándar clínico basado en la evidencia: diagnóstico, estadificación, tratamiento y seguimiento del paciente adulto con cáncer de colon en el Hospital Universitario
+Nacional de Colombia
+
+Hospital Universitario Nacional de Colombia
+Dirección de Investigación e Innovación Proceso de Atención en Cirugía Proceso de Atención en Cuidado Crítico Proceso de Atención en Laboratorio Clínico y Patología Proceso de Atención en Radiología e Imágenes Diagnósticas Proceso de Atención en Rehabilitación y Desarrollo Humano
+Universidad Nacional de Colombia
+Facultad de Medicina Instituto de Investigaciones Clínicas Departamento de Cirugía General Departamento de Imágenes Diagnósticas Departamento de Medicina Interna Departamento de Medicina Física y Rehabilitación Departamento de Nutrición Humana Departamento de Patología Departamento de Psiquiatría
+
+Facultad de Ciencias Departamento de Farmacia
+Facultad de Enfermería Departamento de Enfermería
+
+Página 3 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Autores Grupo desarrollador del estándar clínico basado en la evidencia
+
+- Líderes del proceso
+
+Edgar Germán Junca Burgos
+Médico cirujano, especialista en cirugía general y subespecialista en cirugía gastrointestinal y endoscopia digestiva. Se desempeña como profesor asociado al Departamento de Cirugía de la Facultad de Medicina de la Universidad Nacional de Colombia y como cirujano gastrointestinal en el Proceso de Atención en Cirugía del Hospital Universitario Nacional de Colombia.
+Rafael Enrique Tejada Cabrera
+Médico cirujano, especialista en medicina interna y subespecialista en hemato-oncología. Se desempeña como profesor titular del Departamento de Medicina Interna de la Facultad de Medicina de la Universidad Nacional de Colombia y como jefe del servicio de oncología en el Proceso de Atención en Programas Especiales del Hospital Universitario Nacional de Colombia.
+Juan José Rincón Ramírez
+Médico cirujano, estudiante de tercer año de la especialidad en cirugía general de la Universidad Nacional de Colombia.
+Jorge Andrés Urrutia Gómez
+Médico cirujano, especialista en cirugía general. Se desempeña como cirujano general en la Clínica Cancerológica de Boyacá.
+Alberto Luis Sotomayor Hernández
+Médico cirujano, estudiante de cuarto año de la especialidad en cirugía general de la Universidad Nacional de Colombia.
+- Expertos clínicos participantes
+Ruth Katherine Álvarez Leaño
+Enfermera, especialista integral de Servicios de Salud. Se desempeña como líder del área de Atención Segura Hospital Universitario Nacional de Colombia.
+
+Página 4 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Wilmer Orlando Aponte Barrios
+Médico cirujano, especialista en radiología e imágenes diagnósticas, especialista en radiología pediátrica y especialista en administración en salud pública. Se desempeña como profesor asociado y director del Departamento de Imágenes Diagnósticas de la Facultad de Medicina de la Universidad Nacional de Colombia, radiólogo y director del Proceso de Atención en Radiología e Imágenes Diagnósticas del Hospital Universitario Nacional de Colombia y radiólogo pediatra del Hospital de la Misericordia.
+William David Arregoces Fernández
+Médico y cirujano, especialista en medicina familiar y en educación, estudiante de cuarto año de la especialidad en geriatría de la Universidad Nacional de Colombia.
+Luis Hernán Arenas Vera
+Médico cirujano. Se desempeña como médico general en el Proceso de Atención en Hospitalización en el Hospital Universitario Nacional de Colombia.
+Ángela Carolina Arévalo Molina
+Enfermera, estudiante de la maestría de epidemiología en la Universidad del Bosque. Se desempeña como líder del programa de Clínica de Heridas, Proceso de Atención en Enfermería del Hospital Universitario Nacional de Colombia.
+Álvaro Javier Burgos Cárdenas
+Médico cirujano, especialista en medicina interna y magíster en epidemiología clínica. Se desempeña como médico especialista en el Proceso de Atención en Hospitalización del Hospital Universitario Nacional de Colombia.
+Lida Marcela Caicedo Torres
+Nutricionista dietista, magíster en fisiología. Se desempeña como nutricionista clínica del Proceso de Atención en Hospitalización en el Hospital Universitario Nacional de Colombia.
+Yeinmy Carolina Castañeda López
+Enfermera, magíster en cuidado paliativo oncológico. Se desempeña como coordinadora del servicio de oncohematología en el Proceso de Atención en Programas Especiales del Hospital Universitario Nacional de Colombia.
+
+Página 5 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+María Esther Cháves Páez
+Terapeuta ocupacional, estudiante de maestría en ingeniería biomédica de la Universidad Nacional de Colombia. Se desempeña como terapeuta ocupacional del proceso de atención en Rehabilitación y Desarrollo Humano en el Hospital Universitario Nacional de Colombia.
+Mariana Díaz Amaya
+Psicóloga, especialista y magíster en psicología médica y de la salud. Se desempeña como psicóloga en el proceso de Atención en Hospitalización y el Proceso de Atención Ambulatoria del Hospital Universitario Nacional de Colombia.
+Arturo Iván Duarte Osorio
+Médico cirujano, especialista en cirugía general. Se desempeña como cirujano general en el Hospital Central de la Policía, en la Clínica Nueva y en el Proceso de Atención en Cirugía del Hospital Universitario Nacional de Colombia.
+Cristian Gualdrón Colmenares
+Médico, especialista en medicina interna, estudiante de primer año de la especialidad en gastroenterología de la Universidad Nacional de Colombia.
+Andrea Lizeth Ibáñez Triana
+Química farmacéutica. Se desempeña como química farmacéutica asistencial del Proceso de Atención en Servicio Farmacéutico del Hospital Universitario Nacional de Colombia.
+Fricsy Jazmín Suarez
+Enfermera, especialista en auditoría y garantía de calidad con énfasis en epidemiología. Se desempeña como auditora de cuentas médicas en el Proceso de Gestión Comercial y Mercadeo en el Hospital Universitario Nacional de Colombia.
+Sebastián Felipe Navarro Tellez
+Médico cirujano, estudiante de segundo año de la especialidad en cirugía general de la Universidad Nacional de Colombia.
+Guillermo Enrique Ospino Rodríguez
+Médico cirujano, especialista en anestesiología y reanimación, magíster en medicina alternativa y terapia neural. Se desempeña como Profesor Auxiliar en el Departamento de Cirugía de la Facultad de Medicina de la Universidad Nacional de Colombia y es director del Proceso de Atención en Cirugía en el Hospital Universitario Nacional de Colombia.
+Página 6 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Ana Lucia Pedroza Núñez
+Enfermera, se desempeña como tal en el proceso de Atención en Hospitalización en el Hospital Universitario Nacional de Colombia.
+Sara Patricia Reyes Muñoz
+Médica general, especialista en dolor y cuidados paliativos. Se desempeña como médico especialista del servicio de dolor y cuidado paliativo del Proceso de Atención Ambulatoria del Hospital Universitario Nacional de Colombia.
+Erika Geraldin Rodríguez Simbaqueva
+Enfermera, estudiante de la especialidad en oncología de la Fundación Universitaria Sanitas. Se desempeña como enfermera en el Proceso de Atención en Cuidado Crítico del Hospital Universitario Nacional de Colombia.
+Ángel Yobany Sánchez Merchán
+Médico cirujano, especialista en patología anatómica y clínica, y magíster en gestión de organizaciones. Se desempeña como médico patólogo en el Hospital Universitario Nacional de Colombia y como profesor asociado al Departamento de Patología de la Facultad de Medicina en la Universidad Nacional de Colombia.
+María Carolina Sánchez Porras
+Enfermera. Se desempeña como coordinadora de enfermería en el Proceso de Atención en Cirugía del Hospital Universitario Nacional de Colombia.
+Diego Alejandro Tibavizco Palacios
+Médico especialista en medicina interna y especialista en medicina crítica y cuidado intensivo. Se desempeña como médico intensivista en el Proceso de Atención en Cuidado Crítico del Hospital Universitario Nacional de Colombia.
+María Fernanda Vanegas Pedraza
+Fisioterapeuta, especialista en cuidado crítico. Se desempeña como tal en el Proceso de Atención en Cuidado Crítico del Hospital Universitario Nacional de Colombia.
+Martha Cecilia Zuluaga Arcila
+Fisioterapeuta, especialista en terapia neural, entrenamiento y nutrición bajo patología. Se desempeña como tal en el Proceso de Atención en Rehabilitación y Desarrollo Humano del Hospital Universitario Nacional de Colombia.
+Página 7 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+-
+
+Coordinadores metodológicos
+
+Paula González-Caicedo
+
+Fisioterapeuta, estudiante de la maestría en epidemiología clínica de la Universidad Nacional de Colombia. Se desempeña como metodóloga de investigación en la Dirección de Investigación e Innovación del Hospital Universitario Nacional de Colombia.
+
+Giancarlo Buitrago
+
+Médico cirujano, magíster en Economía y en Epidemiología Clínica, y doctor en Economía. Es profesor asociado y Vicedecano de Investigación y Extensión de la Facultad de Medicina de la Universidad Nacional de Colombia, y director de Investigación e Innovación del Hospital Universitario Nacional de Colombia.
+
+-
+
+Seguimiento del proceso
+
+Comité de Estándares Clínicos
+
+Universidad Nacional de Colombia, Hospital Universitario Nacional de Colombia. Agradecimientos
+
+Agradecemos a la comunidad del Hospital Universitario Nacional de Colombia y a la Universidad Nacional de Colombia por su acogida en el desarrollo de estándares clínicos basados en la evidencia (ECBE). Agradecemos su apoyo al proceso, su disponibilidad para el desarrollo de la propuesta y su interés en brindar el mayor beneficio a los pacientes, teniendo en cuenta la mejor evidencia y el aprovechamiento de los recursos disponibles.
+
+Este documento ha recibido apoyo durante su desarrollo, aportes de diferentes profesionales, por lo que hace mención especial a:
+- Profesionales clínicos
+
+Juan Sebastián Martinez Buitrago
+
+Médico cirujano, especialista en cirugía general. Se desempeña como cirujano general en el Hospital de Kennedy.
+- Profesionales de investigación
+
+Natalia Garzón Barbosa
+
+Psicóloga, profesional de apoyo administrativo, Dirección de Investigación e Innovación del Hospital Universitario Nacional de Colombia.
+
+Página 8 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+CONTRIBUCIONES DE LOS AUTORES
+Contribuciones de los autores
+● Coordinación clínica: Edgar Germán Junca Burgos, Rafael Enrique Tejada Cabrera, Jorge Andrés Urrutia Gómez, Alberto Sotomayor y Juan José Rincón Ramírez.
+● Coordinación metodológica: Giancarlo Buitrago Gutiérrez y Paula GonzálezCaicedo.
+● Definición de alcance y objetivos: Juan Sebastián Martínez Buitrago, Juan José Rincón Ramírez y Paula González-Caicedo.
+● Revisión sistemática de guías de práctica clínica: Juan José Rincón Ramírez, Jorge Andrés Urrutia Gómez, Juan Sebastián Martínez Buitrago y Paula GonzálezCaicedo.
+● Algoritmo clínico preliminar: Edgar Germán Junca Burgos, Rafael Enrique Tejada Cabrera, Juan José Rincón Ramírez, Jorge Andrés Urrutia Gómez y Paula González-Caicedo.
+● Acuerdo interdisciplinario: Edgar Germán Junca Burgos, Rafael Enrique Tejada Cabrera, Juan José Rincón Ramírez, Alberto Sotomayor, Ruth Katherine Álvarez Leaño, Wilmer Orlando Aponte Barrios, William David Arregoces Fernández, Luis Hernán Arenas Vera, Ángela Carolina Arévalo Molina, Álvaro Javier Burgos Cárdenas, Lida Marcela Caicedo Torres, Yeinmy Carolina Castañeda López, María Esther Cháves Páez, Mariana Díaz Amaya, Arturo Iván Duarte Osorio, Cristian Gualdrón Colmenares, Andrea Lizeth Ibáñez Triana, Fricsy Jazmín Suarez, Sebastián Felipe Navarro Tellez, Guillermo Enrique Ospino Rodríguez, Ana Lucia Pedroza Núñez, Sara Patricia Reyes Muñoz, Erika Geraldin Rodríguez Simbaqueva, Ángel Yobany Sánchez Merchán, María Carolina Sánchez Porras, Diego Alejandro Tibavizco Palacios, María Fernanda Vanegas Pedraza, Martha Cecilia Zuluaga Arcila.
+● Algoritmo clínico final: Edgar Germán Junca Burgos, Rafael Enrique Tejada Cabrera, Juan José Rincón Ramírez y Paula Andrea González Caicedo.
+
+Página 9 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+● Revisión y edición: Edgar Germán Junca Burgos, Rafael Enrique Tejada Cabrera, Juan José Rincón Ramírez y Paula Andrea González Caicedo.
+● Seguimiento del proceso: Comité de Estándares Clínicos.
+
+Página 10 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Contenido
+Introducción ................................................................................................................... 15 Alcance........................................................................................................................... 17 Objetivos ........................................................................................................................ 18 Metodología ................................................................................................................... 19 Diagramas de flujo y puntos de control ....................................................................... 24 Implementación del estándar clínico basado en la evidencia y evaluación de la adherencia...................................................................................................................... 59 Impacto esperado del ECBE ......................................................................................... 60 Actualización del ECBE................................................................................................. 61 Glosario .......................................................................................................................... 62 Referencias .................................................................................................................... 65 Anexos............................................................................................................................ 68
+
+Página 11 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Índice de tablas
+Tabla 1. Guías de práctica clínica identificadas en la búsqueda de la literatura que cumplieron con los criterios de elegibilidad para el desarrollo del estándar clínico basado en la evidencia................................................................................................................. 21 Tabla 2. Indicadores propuestos para evaluar puntos de control. .................................... 57
+
+Página 12 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Índice de figuras
+Figura 1. Metodología del proceso secuencial de desarrollo del estándar clínico basado en la evidencia para el diagnóstico, estadificación, tratamiento y seguimiento del paciente adulto con cáncer de colon en el Hospital Universitario Nacional de Colombia................ 19 Figura 2. Diagrama de flujo para el diagnóstico, estadificación, tratamiento y seguimiento del paciente adulto con cáncer de colon. ......................................................................... 24 Figura 3. Sección 1 del diagrama de flujo: diagnóstico del paciente con cáncer de colon. ........................................................................................................................................ 25 Figura 4. Sección 2 del diagrama de flujo: estadificación del paciente con cáncer de colon. ............................................................................................................................... 28 Figura 5. Sección 3 del diagrama de flujo: tratamiento del paciente con cáncer de colon estadio local o loco-regional............................................................................................. 32 Figura 6. Sección 4 del diagrama de flujo: tratamiento del paciente con cáncer de colon estadio avanzado............................................................................................................. 44 Figura 7.Sección 5 del diagrama de flujo: tratamiento oncológico del paciente con cáncer de colon. .......................................................................................................................... 47 Figura 8. Sección 6 del diagrama de flujo: seguimiento del paciente con cáncer de colon. ........................................................................................................................................ 52
+
+Página 13 de 84
+
+Abreviaturas
+ACE AGREE AJCC CA 19-9 CAPOX CIE - 10 CUPS ECBE FOLFOX GLOBOCAN GPC HUN MMR MSI NE PET RNM TAC TSH TNM UCI
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Antígeno carcinoembrionario Appraisal of Guidelines for Research & Evaluation American Joint Committee on Cáncer Antígeno carbohidrato 19-9 Capecitabina + oxaliplatino Clasificación internacional de enfermedades, décima revisión. Clasificación Única de Procedimientos en Salud Estándares Clínicos Basados en Evidencia 5-fluorouracilo + oxaliplatino Observatorio global del cáncer Guías de Práctica clínica Hospital Universitario Nacional de Colombia Complejo mismatch repair Inestabilidad microsatelital Nivel de evidencia Tomografía por emisión de positrones Resonancia nuclear magnética Tomografía axial computarizada Hormona estimulante de la tiroides Sistema de clasificación de tumores malignos Unidad de cuidados intensivos
+
+Página 14 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Introducción
+El cáncer colorrectal es el tercer cáncer más frecuente en hombres y el segundo más frecuente en mujeres a nivel mundial, según las estadísticas del Observatorio Global del Cáncer (GLOBOCAN) 2020 (1), y se estima que se presentan anualmente alrededor de 900 000 muertes; esto lo constituye como el segundo cáncer con mayor mortalidad (1). Las tasas de incidencia más altas se encuentran en Australia y Europa del Este, mientras que las más bajas se reportan en África y Asia central; en Latinoamérica se presentan tasas intermedias (2).
+En Colombia, para el 2020 se estimó una incidencia de 13.7 casos por cada 100 000 habitantes, y una mortalidad de 6.3 casos por cada 100 000 habitantes (3). A nivel global, la incidencia y la mortalidad han disminuido en las últimas décadas gracias a la prevención, el diagnóstico temprano con estrategias de tamización, y mejores modalidades interdisciplinarias de tratamiento (4). Sin embargo, en los últimos años ha habido un incremento anual del 2% en los casos en menores de 50 años, y se espera que esta tendencia siga aumentando en los próximos años (4).
+El principal factor pronóstico es el estadio de clasificación al momento del diagnóstico, se estima una sobrevida a 5 años en población europea entre 28.5 – 57.0 % en hombres y 30.9 – 60.0 % en mujeres (5).
+El cáncer colorrectal se puede presentar de manera esporádica (que ocurre en un 80 – 90 % de los casos), o de manera hereditaria (6). El primero se presenta principalmente en mayores de 65 años y es infrecuente en menores de 40 años (aunque en los últimos años ha aumentado la incidencia en edades tempranas), mientras que el segundo se manifiesta a edades más tempranas y puede presentarse con tumores múltiples (5). Los factores de riesgo para esta entidad patológica incluyen la edad avanzada, los antecedentes familiares o síndromes genéticos (principalmente síndromes como la polipomatosis adenomatosa familiar y el síndrome de Lynch), las enfermedades inflamatorias intestinales, así como otros factores dietarios y del estilo de vida (7).
+Dentro de las herramientas que han impactado en la sobrevida del cáncer de colon están las estrategias de tamizaje, cuyo objetivo es identificar lesiones premalignas o tumores en estadio temprano que permitan un tratamiento curativo (6). En estadios avanzados, lo más frecuente es encontrar lesiones secundarias en hígado, pulmones o peritoneo, respectivamente, y su tratamiento dependerá de la localización y del número de lesiones (7).
+
+Página 15 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+El cáncer de colon es una enfermedad con gran impacto económico a nivel mundial, por ejemplo, en Estados Unidos representa el segundo mayor costo por cáncer, en 2020 se reportó un gasto directo e indirecto de $24.3 mil millones de dólares, representando el 12.6 % del gasto total por cáncer en dicho país (8). Para Europa, en 2015 el cáncer colorrectal tuvo un gasto directo e indirecto de €19.1 mil millones de euros, siendo igualmente una de las patologías con mayor carga económica (9). En Colombia hacen falta estudios que precisen los gastos del sistema de salud relacionados a este tipo de cáncer.
+Los temas de mayor interés y estudio en relación al cáncer de colon se relacionan con la estandarización adecuada y oportuna tamización, las terapias biológicas y las diferentes modalidades interdisciplinarias de tratamiento; todo con el fin último de mejorar los desenlaces en salud. Por lo anterior, el objetivo de este ECBE es elaborar un algoritmo clínico que contenga las principales recomendaciones basadas en la evidencia para el diagnóstico, estadificación, tratamiento y seguimiento de los pacientes adultos con cáncer de colon, permitiendo un manejo óptimo e interdisciplinario.
+
+Página 16 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Alcance
+Este ECBE busca con base en la mejor evidencia científica disponible, elaborar un algoritmo clínico para orientar el diagnóstico, estadificación, tratamiento y seguimiento de pacientes adultos con cáncer de colon atendidos de manera ambulatoria e intrahospitalaria en el Hospital Universitario Nacional de Colombia (HUN).
+Las recomendaciones contenidas aquí están dirigidas a diferentes profesionales de la salud (médicos generales, cirujanos generales, cirujanos gastrointestinales, coloproctólogos, cirujanos oncológicos, oncólogos clínicos, intensivistas, radiólogos, patólogos, paliativistas, psiquiatras, psicólogos, trabajadores sociales, especialistas en medicina física y rehabilitación, enfermeros, nutricionistas, fisioterapeutas, terapeutas ocupacionales, farmaceutas), así como a otros técnicos o auxiliares involucrados en la atención de pacientes adultos con cáncer de colon. Este ECBE además podrá ser usado tanto por docentes como por estudiantes de ciencias de la salud (pregrado y posgrado) de la Universidad Nacional de Colombia, que se encuentren realizando sus prácticas clínicas en el HUN, así como por personal asistencial y administrativo de la institución responsable de tomar decisiones relativas al abordaje integral de estos pacientes, con el fin de facilitar el proceso de implementación del ECBE en el hospital.
+Es importante mencionar que este documento no incluye recomendaciones para el diagnóstico y tratamiento de pacientes menores de 18 años, ni gestantes, ni histologías tumorales diferentes a adenocarcinoma de colon.
+
+Página 17 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Objetivos
+Estos se dividen en general y específicos, como se detalla a continuación.
+Objetivo general
+Identificar las recomendaciones basadas en la evidencia para el diagnóstico, estadificación, tratamiento y seguimiento de los pacientes adultos con cáncer de colon atendidos en el HUN, mediante el desarrollo de un ECBE.
+Objetivos específicos
+● Identificar las áreas asistenciales del HUN involucradas en el proceso de diagnóstico, estadificación, tratamiento y seguimiento que implican los pacientes adultos con cáncer de colon.
+● Generar recomendaciones basadas en la evidencia para el diagnóstico, estadificación, tratamiento y seguimiento de los pacientes adultos con cáncer de colon atendidos en el HUN.
+● Formar una ruta de abordaje entre las diferentes áreas involucradas para el diagnóstico, estadificación, tratamiento y seguimiento de los pacientes adultos con cáncer de colon, atendidos en consulta externa, hospitalización y unidad de cuidados intensivos (UCI) del HUN.
+● Estandarizar el diagnóstico, estadificación, tratamiento y seguimiento de los pacientes adultos con cáncer de colon, optimizando el uso de recursos humanos y económicos en el HUN.
+● Identificar puntos de control para la implementación y evaluación del ECBE.
+● Presentar los lineamientos para la difusión e implementación del ECBE.
+
+Página 18 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Metodología
+El ECBE se desarrolló mediante un proceso secuencial de siete componentes: i) conformación del equipo desarrollador; ii) definición del alcance y los objetivos del ECBE; iii) revisión sistemática de guías de práctica clínica (GPC); iv) elaboración del algoritmo preliminar; v) desarrollo de un acuerdo interdisciplinario; vi) elaboración del algoritmo final, y vii) revisión y edición del ECBE (Figura 1).
+Figura 1. Metodología del proceso secuencial de desarrollo del estándar clínico basado en la evidencia para el diagnóstico, estadificación, tratamiento y seguimiento del paciente adulto con cáncer de colon en el Hospital Universitario Nacional de Colombia.
+
+Fuente: elaboración propia.
+El grupo desarrollador del ECBE estuvo conformado por expertos en cirugía general, gastroenterología, cirugía gastrointestinal, oncología y epidemiología clínica. Todos los miembros diligenciaron los formatos de divulgación de conflictos de intereses. Una vez constituido, el grupo interdisciplinario estableció los objetivos y el alcance del ECBE. En la etapa de revisión de la literatura, se realizaron búsquedas sistemáticas en diferentes bases de datos (MEDLINE, Embase y LILACS) y organismos desarrolladores y compiladores de GPC, usando lenguaje controlado para identificar las GPC que respondieran al objetivo y alcance planteados (ver anexo 1 para más información sobre las estrategias de búsqueda).
+El proceso de tamización y selección de la evidencia se realizó teniendo en cuenta los siguientes criterios de elegibilidad establecidos por el equipo desarrollador:
+
+1. Criterios de inclusión
+
+Página 19 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+- GPC sobre el diagnóstico, estadificación, tratamiento y seguimiento del paciente adulto con cáncer de colon.
+- GPC publicadas en inglés o español y con acceso a texto completo. - GPC publicadas en los últimos 10 años (2013 - 2023). - GPC con estrategia de búsqueda replicable.
+2. Criterios de exclusión - GPC sobre el diagnóstico, estadificación, tratamiento y seguimiento del paciente adulto con cáncer de colon dirigidas a población menor de 18 años. - GPC sobre el diagnóstico, estadificación, tratamiento y seguimiento del paciente adulto con cáncer de colon dirigidas a población de gestantes. - GPC sobre el diagnóstico, estadificación, tratamiento y seguimiento del paciente adulto con cáncer de colon con estrategias de búsqueda no descritas o no replicables. - GPC con evaluación de la calidad global menor a seis según el instrumento AGREE II o con un puntaje menor a 60 % en los dominios de rigor metodológico e independencia editorial.
+La tamización de la evidencia se realizó mediante la revisión del título, resumen y texto completo de los documentos identificados en las búsquedas sistemáticas. Este proceso se hizo de manera independiente por dos miembros del grupo desarrollador; las discrepancias las resolvió un tercer integrante. La calidad de las GPC seleccionadas la evaluaron de manera independiente dos integrantes del grupo desarrollador (un experto clínico y un experto metodológico), para lo cual se utilizó el instrumento AGREE II.
+El proceso de tamización y selección de las GPC se resume en el diagrama PRISMA (anexo 1). Finalmente, después de aplicar los criterios de elegibilidad se incluyeron los documentos presentados en la tabla 1. Para más información sobre las búsquedas sistemáticas de la literatura, ver el anexo 1.
+
+Página 20 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Tabla 1. Guías de práctica clínica identificadas en la búsqueda de la literatura que cumplieron con los criterios de elegibilidad para el desarrollo del estándar clínico basado en la evidencia.
+
+Id
+GPC 1
+
+Nombre de la GPC
+The American Society of Colon
+and Rectal Surgeons Clinical
+Practice Guidelines for the Surveillance and Survivorship Care of Patients After
+Curative Treatment of Colon and Rectal
+Cancer
+
+Reporte AGREE-II
+
+Grupo de Idio
+
+desarrollad País ma Año
+
+Rigor
+
+Independen Calida
+
+or
+
+metodológ cia editorial
+
+d
+
+ico
+
+global
+
+American
+
+Society of
+
+Colon and USA Inglés 2021
+
+64%
+
+Rectal
+
+Surgeons
+
+(ASCRS)
+
+75%
+
+5
+
+Colorectal Cancer
+
+American
+
+GPC
+
+Screening for
+
+Cancer
+
+USA Inglés 2018
+
+74%
+
+2
+
+Average-Risk
+
+Society
+
+Adults
+
+67%
+
+6
+
+Localised Colon
+
+Cancer: ESMO
+
+European
+
+clinical practice
+
+Society for
+
+GPC 3
+
+guidelines for diagnosis,
+
+Medical
+
+UE Inglés 2018
+
+67%
+
+Oncology
+
+treatment and
+
+(ESMO)
+
+follow up
+
+79%
+
+6
+
+American
+
+GPC Early Detection for
+
+Society of
+
+Colorectal Cancer:
+
+Clinical
+
+USA Inglés 2019
+
+75%
+
+4 ASCO Oncology
+
+(ASCO)
+
+79%
+
+6
+
+GPC Screening for HHS Public USA Inglés 2019 67%
+
+5
+
+Colorectal Cancer
+
+Access
+
+67%
+
+6
+
+Página 21 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+in Asymptomatic Average-Risk
+Adults: A Guidance Statement From the American College of Physicians
+
+GCP 6
+
+Colorectal cancer
+
+National Institute for Health and
+Clinical Excellence
+(NICE)
+
+UK Inglés 2020
+
+GPC 7
+
+Colon Cancer: Diagnosis,
+Treatment and Follow-Up | KCE
+
+Belgian Health Care Knowledge
+Centre
+
+Belgi um
+
+Inglés
+
+2014
+
+86% 76%
+
+50%
+
+7
+
+83%
+
+6
+
+Guía de práctica
+
+clínica (GPC)
+
+para la detección
+
+temprana,
+
+Ministerio de
+
+diagnóstico,
+
+Salud y
+
+GPC
+
+tratamiento,
+
+Colo Españ
+
+Protección
+
+2013
+
+79%
+
+8
+
+seguimiento y
+
+mbia
+
+ol
+
+Social
+
+rehabilitación
+
+Colombia
+
+de pacientes con
+
+diagnóstico
+
+de cáncer de colon
+
+y recto
+
+Nivolumab with
+
+ipilimumab
+
+for previously
+
+National
+
+GPC 9
+
+treated metastatic colorectal
+
+Institute for
+
+Health and
+
+UK Inglés 2020
+
+66%
+
+Clinical
+
+cancer with high
+
+Excellence
+
+microsatellite
+
+(NICE)
+
+instability or
+
+mismatch repair
+
+96%
+
+7
+
+75%
+
+6
+
+Página 22 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+deficiency
+GPC: guía de práctica clínica. Fuente: elaboración propia.
+En cuanto a la elaboración de la propuesta preliminar del ECBE: en primer lugar, se elaboró una tabla de extracción de información utilizando un sistema de dominios (explicado en el anexo 1); en segundo, se extrajo la evidencia contenida en las 9 GPC seleccionadas (los niveles de evidencia y grados de recomendación utilizados por cada una de las GPC se encuentran en el anexo 4), y, finalmente, se identificaron las áreas asistenciales del HUN involucradas en el diagnóstico, estadificación, tratamiento y seguimiento de pacientes adultos con cáncer de colon, para elaborar el algoritmo clínico para el diagnóstico, estadificación, tratamiento y seguimiento de pacientes adultos con cáncer de colon en la institución.
+En la fase del acuerdo interdisciplinario, se designaron representantes de las áreas asistenciales involucradas en la atención de estos pacientes, a quienes se les envió la versión preliminar del algoritmo con el fin de que lo evaluaran antes de asistir a la reunión de consenso. En esta reunión, participaron los representantes de los siguientes servicios/áreas asistenciales: anestesiología, cirugía general, clínica de heridas, cuidado crítico, dirección comercial, dolor y cuidado paliativo, enfermería, farmacia, gastroenterología, geriatría, ingeniería biomédica, laboratorio clínico y patología, terapia ocupacional, fisioterapia, medicina física y rehabilitación, medicina hospitalización, medicina interna, nutrición clínica, oncología, psicología, psiquiatría, radiología, seguridad del paciente y trabajo social. Los líderes clínicos del ECBE estuvieron a cargo de la presentación de los algoritmos y la reunión fue moderada por un representante de la Dirección de Investigación e Innovación.
+Se presentaron 6 secciones del ECBE, así como una sección adicional sobre los puntos de control, y se realizaron las votaciones correspondientes para cada una. El resultado de las siete votaciones permitió confirmar la existencia de consenso total a favor de usar las recomendaciones para el diagnóstico, estadificación, tratamiento y seguimiento de pacientes adultos con cáncer de colon contenidas en los diagramas de flujo presentados (los resultados adicionales de este ejercicio se pueden consultar en el anexo 1).
+Luego, el equipo desarrollador unificó las sugerencias realizadas en la reunión de consenso interdisciplinario y, con base en estas, elaboró la versión final del ECBE. Por último, se realizó la revisión de estilo y diagramación del documento y, de esta forma, se obtuvo la versión final.
+
+Página 23 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Diagramas de flujo y puntos de control
+Figura 2. Diagrama de flujo para el diagnóstico, estadificación, tratamiento y seguimiento del paciente adulto con cáncer de colon.
+
+Fuente: elaboración propia.
+
+Página 24 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Figura 3. Sección 1 del diagrama de flujo: diagnóstico del paciente con cáncer de colon.
+
+Fuente: elaboración propia.
+
+Página 25 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Información adicional
+A. Paciente con sospecha de adenocarcinoma de colon: la sospecha de cáncer de colon parte de dos posibles contextos; el primero derivado desde las estrategias de tamización, o el segundo, del paciente con síntomas compatibles. En Colombia el examen avalado como tamización para la población general es la prueba de sangre oculta en heces para mayores de 50 años, y un resultado positivo obliga a descartar un cáncer de colon (6). Por otro lado, la sintomatología es variable y poco específica; los síntomas más frecuentemente asociados incluyen: alteración del hábito intestinal, dolor abdominal general o localizado, pérdida de peso sin otra causa aparente, hematoquecia o rectorragia, debilidad, deficiencia de hierro y anemia (5).
+B. Examen físico e historia clínica: la valoración clínica incluye:
+- Anamnesis completa del paciente donde se interroguen todos los posibles síntomas descritos, cronología y evolución en el tiempo de los mismos.
+- Búsqueda activa de factores de riesgo, incluyendo el grupo etario, historia personal de cáncer, antecedentes familiares de cáncer de colon u otras neoplasias (interrogando también edad de aparición), antecedente familiar de enfermedades relacionadas como poliposis familiar u enfermedades inflamatorias intestinales (2,6).
+- Examen físico completo, que incluya búsqueda de adenopatías palpables, masas abdominales o masas rectales. Si se acompaña de síntomas de obstrucción o sangrado gastrointestinal se debe realizar examen perineal y tacto rectal en búsqueda de masas o diagnósticos diferenciales (recomendación de expertos).
+- En todos los pacientes se debe evaluar si existe algún grado de desacondicionamiento físico y su relación cronológica con los demás síntomas.
+Para todos los casos, se debe tener en cuenta la consideración del enfoque diferencial (si aplica), sus voluntades anticipadas y el nivel de fragilidad de la persona (recomendación de expertos).
+
+Página 26 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+C. Colonoscopia total con biopsias: la colonoscopia total (CUPS: 452301) es el estudio de elección para el cáncer de colon, dado que es un estudio mínimamente invasivo que permite ubicar adecuadamente la lesión, tomar biopsias de la misma, confirmar o descartar lesiones sincrónicas e incluso tratar lesiones precancerosas o en estadios iniciales (nivel de evidencia [NE]: IA; Oxford) (5). En caso de pacientes con colonoscopia incompleta o con mala preparación, se recomienda repetir la colonoscopia; o, si está contraindicada, se debe considerar una sigmoidoscopia flexible con enema de bario (CUPS: 452401), o, como última opción, una colonografía por tomografía computarizada (CUPS: 879911) o un enema de bario de doble contraste (CUPS: 872105) en centros con experiencia (NE: alta; GRADE) (10).
+En los estudios que sea posible, ante cualquier hallazgo sospechoso de cáncer se debe realizar la toma de biopsias (CUPS: 898201) y de manera sistemática solicitar inmunohistoquímica (CUPS: 898203) para garantizar un diagnóstico completo (recomendación de expertos).
+D. Diagnósticos diferenciales: los diagnósticos diferenciales son variados y dependen de la sintomatología del paciente:
+- Dolor abdominal: Colitis infecciosa Apendicitis aguda Enfermedad diverticular complicada
+- Sangrado gastrointestinal Enfermedad de Crohn Colitis ulcerativa Hemorroides Pólipos adenomatosos Enfermedad diverticular
+- Pérdida de peso Otras neoplasias Trastornos linfoproliferativos Tuberculosis VIH
+
+.
+
+Página 27 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Figura 4. Sección 2 del diagrama de flujo: estadificación del paciente con cáncer de colon.
+
+Fuente: elaboración propia.
+
+Página 28 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Información adicional E. Imágenes diagnósticas: el estudio de elección para la estadificación en cáncer de colon es la tomografía computarizada (TAC) de tórax, abdomen y pelvis con contraste endovenoso (CUPS: 879301 y 879420) (NE: IIB; Oxford) (5). Este estudio permite no solo determinar la extensión locorregional del tumor, sino también evaluar posibles complicaciones como obstrucción, perforación, formación de fístulas o abscesos (5). Sin embargo, cabe destacar que su sensibilidad para detectar metástasis peritoneales es relativamente baja (4,5).
+Como segunda opción para el diagnóstico, se recomienda la resonancia magnética (RNM) de tórax, abdomen y pelvis con contraste (CUPS: 883401, 883440 y 883301), la cual permite una mejor definición de los tejidos blandos; por esta razón, su indicación queda reservada en escenarios donde no hay claridad si hay infiltración de tejidos circundantes al tumor, o para definir lesiones hepáticas ambiguas previamente identificadas en la TAC (NE: IIA; Oxford)(5). Igualmente la RNM puede sustituir a la TAC cuando exista alguna contraindicación o riesgo clínico, como por ejemplo, alergias a contrastes yodados o insuficiencia renal crónica con una tasa de filtración glomerular por debajo de 30 mL/min (NE: IIA; Oxford)(5).
+F. Paraclínicos y marcadores tumorales: una vez establecido el diagnóstico de cáncer de colon se deben solicitar de manera rutinaria exámenes de laboratorio para establecer el estado basal del paciente, además de guiar su tratamiento y seguimiento (NE: IIA; Oxford) (5). Se recomienda solicitar: hemograma (CUPS: 902210), pruebas de coagulación (CUPS: 902045 y 902049), perfil hepático (CUPS: 903866 y 903867), función renal (CUPS: 903895 Y 903856) y albúmina (CUPS: 903803) (5).
+Respecto a los marcadores tumorales, se deben solicitar niveles séricos de antígeno carcinoembrionario (ACE) (CUPS: 906603), no para establecer el diagnóstico, sino como marcador de seguimiento y pronóstico, considerando que un ACE > 5 ng/ml se asocia a peores desenlaces (NE: IIIA, Oxford)(5). Se recomienda complementar este examen, junto a la medición sérica del Ca 19-9 (CUPS: 906606) (recomendación de expertos).
+G. Estadio de la enfermedad: para la estadificación del cáncer de colon se utiliza el sistema de clasificación TNM de la American Joint Committee on Cáncer (AJCC), en la cual se evalúan 3 aspectos para determinar el estadio: la extensión local (T: tumor), la infiltración linfática (N: node) y la diseminación hematógena (M: metástasis) (11). El estadio en que se encuentra el paciente se debe determinar de manera clínica, con los diferentes estudios realizados, y posteriormente con la pieza de patología (5,11). A continuación, se describen cada uno de los componentes:
+
+Página 29 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+- T (tumor): evalúa la extensión del tumor dentro de las paredes del colon o el compromiso de órganos adyacentes. Se clasifica de la siguiente manera: - TX: no es posible evaluar el tumor primario. - T0: no hay evidencia de cáncer de colon. - Tis: corresponde al carcinoma in situ, las células neoplásicas están limitadas en el epitelio sin atravesar la lámina propia. - T1: el tumor infiltra la submucosa. - T2: el tumor infiltra la muscular propia. - T3: el tumor invade la subserosa o los tejidos pericólicos no peritonealizados. - T4a: el tumor invade el peritoneo visceral, es decir atraviesa todas las capas del colon. - T4b: el tumor invade otros órganos o estructuras adyacentes.
+- N (node) compromiso ganglionar: Evalúa el sitio y el número de ganglios linfáticos infiltrados por las células neoplásicas.
+- Nx: no se pueden evaluar los ganglios linfáticos regionales. - N0: no hay infiltración a los ganglios linfáticos regionales. - N1a: Metástasis a 1 ganglio linfático regional. - N1b: Metástasis a 2 o 3 ganglios linfáticos regionales. - N1c: Depósitos tumorales satélitales, en la subserosa o en tejidos pericólicos
+no peritonealizados o tejidos blandos sin metástasis linfática regional. - N2a: Metástasis a 4-6 ganglios linfáticos regionales. - N2b: Metástasis a 7 o más ganglios linfáticos regionales.
+- M (metástasis a distancia):
+- M0: no hay metástasis a distancia. - M1a: Metástasis confinada a un órgano (hígado, pulmón, ovario, ganglios
+linfáticos no regionales) sin compromiso peritoneal. - M1b: Metástasis en más de un órgano pero sin compromiso peritoneal. - M1c: Metástasis al peritoneo con o sin invasión a órganos adicionales.
+
+Página 30 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Una vez determinado el TNM, se agrupa en un estadio del I al IV (recomendación de expertos) (11).
+- Estadio I: El cáncer ha invadido la mucosa o la capa muscular del colon, pero sin diseminación a tejidos cercanos o ganglios linfáticos (T1 o T2, N0, M0).
+- Estadio IIA: El cáncer alcanza a invadir la subserosa del colon, pero sin diseminación a tejidos cercanos o ganglios linfáticos (T3, N0, M0).
+- Estadio IIB: El cáncer atraviesa todas las capas del colon, pero sin invadir tejidos cercanos o ganglios linfáticos (T4a, N0, M0).
+- Estadio IIC: El cáncer atraviesa todas las capas del colon e invade estructuras adyacentes, pero sin compromiso ganglionar ni metástasis a distancia (T4b, N0, M0).
+- Estadio IIIA: El cáncer se encuentra en las capas internas del colon y se ha diseminado a 1-3 ganglios; o solo se encuentra en la submucosa, pero con 4-6 ganglios regionales (T1 o T2, N1, M0 / T1, N2a, M0)
+- Estadio IIIB: El cáncer ha atravesado todas las capas del colon, pero con menos de 3 ganglios; o hasta la muscular o serosa pero con 4-6 ganglios; o dentro de las capas internas pero con 7 o más ganglios linfáticos (T3 o T4a, N1, M0 / T2 o T3, N2a, M0 / T1 o T2, N2b, M0).
+- Estadio IIIC: El cáncer ha infiltrado todas las capas del colon y entre 4-6 ganglios; o solo hasta la subserosa, pero con 7 o más ganglios linfáticos; o atravesando todas las capas e invadiendo estructuras adyacentes y mínimo 1 ganglio (T4a, N2a, M0 / T3 o T4a, N2b, M0 / T4b, N1 o N2, M0)
+- Estadio IVA: El cáncer se ha diseminado a un órgano a distancia, independientemente de la extensión local o ganglionar (Cualquier T o N, M1a).
+- Estadio IVB: El cáncer se ha diseminado a más de un órgano a distancia, independientemente de la extensión local o ganglionar (Cualquier T o N, M1b).
+- Estadio IVC: El cáncer se ha diseminado a peritoneo, independiente del compromiso local, ganglionar u otros órganos (Cualquier T o N, M1c).
+
+Página 31 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Figura 5. Sección 3 del diagrama de flujo: tratamiento del paciente con cáncer de colon estadio local o loco-regional.
+
+Fuente: elaboración propia.
+
+Página 32 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Información adicional
+H. Considerar junta interdisciplinar inicial para definir tratamiento: el tratamiento del paciente con cáncer de colon involucra múltiples áreas de la salud: cada caso se debe evaluar de manera individual; sin embargo, en aquellos escenarios que existan dudas dentro de la estadificación o el adecuado abordaje terapéutico, se debe considerar la realización de juntas multidisciplinarias entre los servicios clínicos, quirúrgicos y de apoyo terapéutico, para definir el mejor tratamiento posible (recomendación de expertos). Algunos escenarios para la realización de la junta, pueden ser:
+- Cuando existan dudas en la estadificación imagenológica, - Disociación clínico-imagenológica, - Tumores con histología ambigua, - Tumores con alta carga sintomática, ó - A criterio del servicio tratante
+I. Abordaje integral del paciente: dentro de la valoración integral del paciente se debe tener en cuenta la presencia de comorbilidades y solicitar valoración por los servicios pertinentes para acompañamiento y abordaje de las mismas. Se recomienda de manera rutinaria el registro clínico del índice de comorbilidades de Charlson, el cual permite calcular la esperanza de vida a 10 años según las enfermedades padecidas y es un apoyo para la toma de decisiones clínicas posteriores (recomendación de expertos).
+Como parte del abordaje interdisciplinario se debe brindar acompañamiento de salud mental, inicialmente con psicología para el afrontamiento del diagnóstico, evaluar la correcta comprensión de la enfermedad y del proceso médico que implica, y el aprendizaje de herramientas emocionales para el paciente y la familia. Del mismo modo, se debe considerar la solicitud de valoración por psiquiatría en aquellos casos que se considere necesario.
+En aquellos pacientes mayores de 65 años se debe considerar la valoración por el servicio de geriatría, para la evaluación de escalas de fragilidad y funcionalidad, como parte de la visión integral del paciente y tomar las medidas necesarias para evitar la descompensación de dichos parámetros (recomendación de expertos).
+
+Página 33 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+La gran mayoría de pacientes tendrán algún grado de desacondicionamiento físico producto de su patología crónica, por lo que es fundamental realizar una valoración formal por parte del servicio de medicina física y rehabilitación, con el fin de objetivar dicho desacondicionamiento y realizar una intervención temprana con terapias que optimicen la condición del paciente y permitan un mejor afrontamiento del tratamiento, involucrando distintos servicios como fisioterapia, fonoaudiología o terapia ocupacional, para favorecer la mejoría de desenlaces a corto y largo plazo (12).
+En pacientes con presencia de dolor que no mejora con las primeras líneas de tratamiento, se debe solicitar apoyo por el servicio de dolor y cuidados paliativos para establecer un tratamiento multimodal y brindar comodidad al paciente (recomendación de expertos).
+J. Valoración preanestésica: los pacientes candidatos a algún procedimiento quirúrgico requieren de valoración preanestésica, en la que se debe realizar un balance entre el procedimiento propuesto y los riesgos inherentes de cada paciente. En primer lugar, se determinará si el paciente es apto en el momento para dicho procedimiento y las medidas perioperatorias necesarias para disminuir los riesgos. Con el fin de objetivar dichos riesgos, se recomienda el apoyo mediante escalas predictivas de riesgo perioperatorio, como la escala del Colegio Americano de Cirujanos (ACS) conocida como NSQIP, que tiene en cuenta 21 variables predictoras (demográficas y comorbilidades) y el procedimiento propuesto, con lo que determina el riesgo a 30 días de diferentes desenlaces como mortalidad, reoperación u otras complicaciones (recomendación de expertos) (13).
+Adicionalmente, en este punto es importante evaluar el entendimiento del paciente frente a su patología y el tratamiento a seguir, aclarar dudas por parte de los servicios involucrados y determinar la postura del paciente respecto a la cirugía; haciéndolo partícipe activamente en la toma de decisiones y obteniendo los consentimientos informados pertinentes, o en su defecto, el disentimiento para el procedimiento (recomendación de expertos).
+Factores a tener en cuenta dentro de la valoración:
+- Comorbilidades y compensación de las mismas, para determinar el requerimiento de alguna valoración adicional o estudio dirigido,
+- Riesgo de vía aérea difícil, - Requerimiento de reserva de hemoderivados, - Requerimiento de unidad de cuidado crítico o cuidados intermedios pre o
+postoperatoria
+K. Resección endoscópica: la resección endoscópica en bloque se debe realizar en lesiones polipoides cuya morfología lo permita. Esta resección es suficiente para los pólipos hiperplásicos o adenomatosos, o en los adenocarcinomas in situ (pTis) (NE: IVB; Oxford) (5).
+
+Página 34 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Para los carcinomas T1, el abordaje se determina por la morfología y la presencia de características histológicas de alto riesgo, como la invasión linfática o venosa, una diferenciación grado 3, o la presencia de Budding tumoral significativo. Cualquiera de estos factores de riesgo implica que la resección endoscópica no es suficiente y se debe considerar una resección quirúrgica (NE: IVB; Oxford) (5). En el paciente con factores de riesgo pero que no es candidato a resección quirúrgica dado el riesgo quirúrgico, se puede hacer seguimiento por colonoscopia, 6 meses posterior a la resección endoscópica (NE: IVB; Oxford) (5).
+En el paciente sin factores de riesgo donde la patología de resección endoscópica muestra márgenes positivos (< 1 mm), se considera que solo hay riesgo de recurrencia local y se puede realizar tratamiento endoscópico a repetición (5).
+L. Estudio histopatológico: se debe realizar un reporte completo de patología posterior a cualquier resección quirúrgica, para determinar con precisión la extensión del tumor por las paredes del colon o las estructuras adyacentes, la extensión del compromiso ganglionar, o determinar la presencia de metástasis en lesiones sospechosas (5); este reporte debe incluir (recomendación de expertos):
+- Descripción morfológica del espécimen - El procedimiento quirúrgico realizado - La localización del tumor y su tamaño - Presencia o ausencia macroscópica de perforación del tumor - El tipo histológico y el grado de diferenciación - La extensión del tumor por las paredes del colon y/o estructuras adyacentes (T del
+TNM) - Distancia del cáncer a los bordes de resección (proximal, distal y radial) - Invasión linfovascular y/o perineural - La presencia o ausencia de depósitos tumorales - La presencia de tumor budding o desdiferenciación local - El sitio y número de ganglios linfáticos regionales resecados, y la presencia o no de
+células tumorales (N del TNM) - La infiltración de otros órganos si se resecaron o se biopsiaron (M del TNM) - La expresión de proteínas del complejo mismatch repair (MMR) / inestabilidad
+microsatelital (MSI)
+
+Página 35 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+M. Hospitalización del paciente: se deben evaluar diferentes factores para determinar el ámbito de atención de cada paciente, desde factores clínicos como el estado general, la carga tumoral y el riesgo de presentar una urgencia quirúrgica; hasta factores psicosociales como la edad, la red de apoyo, el lugar de vivienda y la posibilidad de continuar un seguimiento estricto. A continuación, se describe cada uno de los posibles ámbitos de atención, junto con sus consideraciones (recomendación de expertos):
+- Consulta externa: pacientes en buena condición clínica, comorbilidades compensadas, adecuado entendimiento de su enfermedad, buena red de apoyo y posibilidad de asistir a los controles.
+- Hospitalización general: pacientes en buena o aceptable condición clínica, cuyas comorbilidades se encuentren compensadas o con descompensación leve, pero con una alta carga tumoral que confiere riesgo de presentar alguna urgencia quirúrgica a corto plazo, siendo las principales: obstrucción intestinal, perforación tumoral o sangrado gastrointestinal masivo (14). Igualmente considerar aquellos pacientes sin adecuada red de apoyo, poco entendimiento de su patología, de domicilio lejano, dificultades para el seguimiento (en estos casos, se debe considerar valoración por los servicios de trabajo social, psicología o psiquiatría para ubicar familiares y determinar el seguimiento pertinente) (recomendación de expertos).
+- Cuidado crítico/intermedio: pacientes en mala condición clínica que pone en riesgo la vida a corto plazo, sea por descompensación severa de sus comorbilidades o complicaciones asociadas a su patología oncológica.
+En todos los casos, se debe tener en cuenta el abordaje integral del paciente, su enfoque diferencial y sus voluntades anticipadas (recomendación de expertos).
+N. Valoración nutricional: los pacientes con pérdida de peso mayor al 5 – 10 % aumentan las tasas de complicaciones, por lo que como parte del abordaje interdisciplinar, deben ser valorados por el servicio de nutrición; y, si van a ser llevados a una intervención quirúrgica, se recomienda un aporte nutricional adicional por al menos 7 – 10 días preoperatorio por medio de soporte nutricional vía oral o enteral en caso que se requiera, sin no existe contraindicación del uso de tracto gastrointestinal de lo contrario se debe administrar soporte nutricional parenteral (NE: moderada; GRADE) (12). Para más información consultar el ECBE de soporte metabólico y nutricional (recomendación de expertos).
+
+Página 36 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+O. Resección quirúrgica: la resección quirúrgica es el tratamiento primario para el cáncer de colon sin metástasis a distancia (5). La calidad de la colectomía predice los resultados quirúrgicos y oncológicos (15). El objetivo del tratamiento quirúrgico curativo es la extirpación del tumor primario con márgenes libres, en términos generales deben ser de al menos 5 cm tanto proximal como distal, en bloque con linfadenectomía locorregional (15). Los ganglios linfáticos regionales se encuentran en el mesocolon a lo largo de los principales pedículos vasculares (16). Por tanto, una resección suficiente desde el punto de vista oncológico supone la extirpación de la porción de colón donde se localiza el cáncer primario, con sus pedículos vasculares, que deben ser ligados y seccionados en su origen. El objetivo de la linfadenectomía es asegurar una suficiente estadificación anatomopatológica y extirpar cualquier posible metástasis ganglionar residual (15).
+De manera sistemática desde el inicio, se debe solicitar el estudio de coloración básica e inmunohistoquímica (CUPS: 898201 y 898203) a la pieza quirúrgica para acortar tiempos y tener una pronta estadificación patológica (recomendación de expertos).
+Se deben resecar al menos 12 ganglios linfáticos para considerarlo una resección de adecuada calidad (5). El número de ganglios recolectados y su proporción de infiltración tumoral se consideran marcadores de la adecuada resección quirúrgica y tienen un alto valor pronóstico (5,15).
+El abordaje quirúrgico laparoscópico se puede realizar de manera segura para el paciente con cáncer de colon, cuando se dispone de experiencia técnica, y en ausencia de contraindicaciones, destacando que se reduce la morbilidad con los abordajes mínimamente invasivos y los resultados oncológicos son similares (NE: IC; Oxford) (5).
+El tipo de resección dependerá de la ubicación del tumor de la siguiente manera (recomendación de expertos):
+- Cáncer de colon ascendente y ciego: para lesiones del ciego o colon ascendente, se recomienda una hemicolectomía derecha. Los límites anatómicos de la resección incluyen: el íleon distal, aproximadamente 10 cm proximales a la válvula ileocecal y el colon transverso proximal (15). Respecto a los pedículos vasculares, se ligan en su origen los vasos ileocólicos, la cólica derecha y la rama derecha de la cólica media (15).
+
+Página 37 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+- Cáncer de colon del ángulo hepático: para lesiones en el ángulo hepático una hemicolectomía derecha puede ser adecuada si está en el ángulo hepático proximal, pero si es más distal o en colon transverso proximal se debe realizar una hemicolectomía derecha extendida, en la cual el límite proximal es igual que la derecha convencional pero a nivel distal se debe ligar la cólica media en su origen y extender la resección hasta el colon transverso distal para asegurar los márgenes oncológicos adecuados (15).
+- Cáncer de colon transverso: dependerá de la ubicación del tumor dentro del colon transverso y por esta razón las opciones a tener en cuenta incluyen una colectomía derecha extendida, una colectomía izquierda extendida, una colectomía subtotal o una colectomía segmentaria del transverso (15).
+- Ángulo esplénico y cáncer de colon descendente: los tumores del ángulo esplénico y del colon descendente proximal generalmente se tratan mediante una hemicolectomía izquierda, lo cual implica la ligadura alta de la arteria cólica izquierda y la rama izquierda de la arteria cólica media (15).
+- Cáncer de colon sigmoide: dependiendo del tamaño del tumor y su localización se puede tratar con una colectomía del sigmoide, en la cual se ligan los vasos sigmoideos. Pero en un compromiso más proximal puede requerir la extensión con una hemicolectomía izquierda. Y al contrario, si la extensión es más distal puede requerir una resección anterior del rectosigmoide, donde se involucra la arteria rectal superior y se extiende la resección al recto (15).
+Posterior a la resección oncológica, se determinará la viabilidad de realizar anastomosis intestinal versus derivación gastrointestinal con colostomía/ileostomía, decisión que se llevará a cabo según diferentes factores (recomendación de expertos):
+- El estado clínico del paciente: pre e intraoperatoriamente, considerando la estabilidad hemodinámica, requerimiento de soporte vasopresor, infecciones concomitantes (17),
+- Presencia de sangrado intraoperatorio o requerimiento de transfusión sanguínea (17),
+- Hiperlactatemia pre o intraoperatoria (17) - Comorbilidades y compensación de las mismas: obesidad, diabetes mellitus,
+hipertensión arterial, enfermedad renal crónica, enfermedad pulmonar obstructiva crónica (17) - Estado nutricional (17) - Estado de las asas intestinales: se debe evaluar la perfusión intestinal, grado de dilatación de las asas, grado de obstrucción intestinal, presencia o no de adherencias (recomendación de expertos).
+Página 38 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+P. Valoración y seguimiento por clínica de heridas (terapia enterostomal) y programa plan de egreso: se indicará valoración y seguimiento por el servicio de clínica de heridas (terapia enterostomal), en los siguientes escenarios:
+- Pacientes que con anterioridad al procedimiento quirúrgico se ha definido que no son candidatos a anastomosis intestinal y que por lo tanto se derivarán con ostomía. Estos pacientes deben ser conocidos por el servicio de clínica de heridas de manera prequirúrgica (idealmente, 24 horas previo al procedimiento), para marcación de los posibles sitios de ubicación del estoma (NE: 1B; GRADE) (18).
+- Los pacientes con ostomía deben ser valorados para entrenamiento y educación al paciente y familiares, en casos complejos por terapia enterostomal, o en su defecto, por el grupo de enfermería de hospitalización (NE: 1B; GRADE) (18). Se recomienda que esto sea guiado por el programa plan de egreso institucional (recomendación de expertos).
+- En pacientes que presentan infección de sitio operatorio o aquellos con factores de riesgo para el desarrollo de la misma, como diabetes mellitus, obesidad, tabaquismo, entre otros (recomendación de expertos).
+Adicionalmente, posterior al procedimiento quirúrgico se debe hacer enlace con el programa institucional de plan de egreso, quienes realizan apoyo para el entrenamiento del paciente y familiares, la identificación de necesidades como insumos requeridos y la planificación temprana para un egreso seguro una vez se indique por el servicio tratante, por ejemplo, en caso de que el paciente requiera ostomía. Esta interconsulta se realizará a través del CUPS: 890405, mínimo 24 horas previo al egreso de la institución (recomendación de expertos).
+Q. Adyuvancia: se debe realizar acompañamiento junto al servicio de oncología para determinar el riesgo de recurrencia del tumor, con lo que se determinará la necesidad de terapia sistémica adyuvante. La decisión se realiza de manera interdisciplinaria y se debe tener en cuenta múltiples factores como el tipo de tumor y su estadio, la toxicidad esperada por la terapia, la condición clínica del paciente y el beneficio esperado. El estadio TNM sigue siendo el principal marcador de sobrevida en el cáncer de colon; en los estadios II y III se han utilizado ciertos factores para determinar el riesgo de recurrencia, definir si requieren adyuvancia y el tipo de terapia al que serán sometidos, de la siguiente manera (recomendación de expertos) (5):
+- Pacientes estadio II que presentan factores de riesgo mayores: - Muestra ganglionar en pieza quirúrgica con menos de 12 ganglios linfáticos - Estadio pT4, incluyendo tumores perforados
+
+Página 39 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+- Pacientes estadio II que presentan factores de riesgo menores: - Tumor con alto grado de diferenciación - Invasión vascular - Invasión linfática - Invasión perineural - Presentación clínica con obstrucción intestinal - Niveles preoperatorios positivos (>5 ng/mL) de ACE
+El tipo de terapia se podrá elegir, teniendo en cuenta las siguientes recomendaciones:
+- Los pacientes con clasificación estadio II que no presentan ningún factor de riesgo, se consideran como bajo riesgo y no requieren de adyuvancia (NE: IA; Oxford) (5).
+- Los pacientes con un solo factor de riesgo menor se consideran como riesgo intermedio y se deben subclasificar, dependiendo de si presentan inestabilidad microsatelital o no; aquellos que sí la presentan, no requieren adyuvancia y deben continuar seguimiento clínico. Por el contrario, los pacientes que no presentan inestabilidad microsatelital, sí se benefician de iniciar quimioterapia por 6 meses con fluoropirimidinas, sin oxaliplatino (NE: IB; Oxford) (5).
+- Los pacientes con algún factor de riesgo mayor (o dos o más menores), se consideran de alto riesgo de recaída, por lo que independientemente de si presentan inestabilidad microsatelital o no, requieren de adyuvancia. Se recomienda el uso de fluoropirimidinas con oxaliplatino por 6 meses (NE: IC; Oxford) (5).
+- Los pacientes estadio III requieren adyuvancia de manera rutinaria dado el riesgo de recaída, y se fundamenta en las combinaciones de fluoropirimidinas, 5-fluouracilo o capecitabina, más oxaliplatino (NE: IA; Oxford) (5). El tipo de esquema y duración puede variar dependiendo del grupo de riesgo de la siguiente manera, según su TNM: - Bajo riesgo (pT1-3, N1): pueden recibir esquema con 5-fluouracilo + oxaliplatino (FOLFOX) por 6 meses (NE: IA; Oxford). Algunos estudios han avalado la administración con capecitabina + oxaliplatino (CAPOX) por solo 3 meses (NE: IIA; Oxford), pero se debe evaluar de manera integral dependiendo el tipo de paciente (5). - Alto riesgo (pT4, N2): requieren tratamiento por 6 meses independientemente de si se escoge esquema FOLFOX o CAPOX (NE: IA ; Oxford) (5).
+De manera general, independiente de la estadificación y el grupo de riesgo se debe comenzar la terapia adyuvante tan pronto como sea posible después de la cirugía, idealmente antes de 8 semanas del postoperatorio (NE: IA; Oxford) (5).
+
+Página 40 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+R. Radioterapia: la radioterapia postoperatoria no se considera de rutina posterior a una resección de cáncer de colon; sin embargo, se debe evaluar de manera interdisciplinar en casos seleccionados, principalmente en aquellos con alto riesgo de recaída local, como pacientes con márgenes positivos en la muestra de patología o tumores T4b con adherencias a órganos vecinos (recomendación de expertos).
+S. Neoadyuvancia: la mayoría de pacientes con cáncer de colon potencialmente resecable se benefician de cirugía como tratamiento inicial. No existe un consenso de qué pacientes deben ser llevados a neoadyuvancia, por lo que la decisión debe ser realizada de manera interdisciplinar entre los servicios quirúrgicos y el servicio de oncología (recomendación de expertos). Las principales condiciones para considerar la terapia neoadyuvante es en el paciente que presente tumores localmente avanzados, en que los márgenes quirúrgicos oncológicos puedan estar comprometidos, o que se evidencie una enfermedad ganglionar voluminosa; o lesiones de gran tamaño con criterios de irresecabilidad; es decir, se debe considerar en cualquier lesión donde no se pueda asegurar una cirugía de resección R0 (recomendación de expertos).
+Algunos pacientes con lesiones extensas o con metástasis a otros órganos, cuya quimioterapia inicialmente se considera paliativa, pueden presentar una respuesta favorable y cambiar el enfoque del tratamiento, por lo que el seguimiento interdisciplinar es fundamental, y la toma de decisiones en casos complejos se debe realizar de manera conjunta (recomendación de expertos).
+T. Tipo de resección: se recalca la importancia de la revisión de la pieza de patología para evaluar la calidad de la resección oncológica como marcador pronóstico (5). Según la totalidad de la resección, esta se puede clasificar en:
+- R0: ausencia de enfermedad tumoral macro o microscópica - R1: persistencia de enfermedad microscópica - R2: persistencia de enfermedad macroscópica
+U. Paciente candidato a resección quirúrgica o tratamiento oncológico: en pacientes estadio IV se debe realizar una evaluación integral inicial, en la que se tenga en cuenta el estado general del paciente, sus comorbilidades, su pronóstico y la decisión del paciente, para determinar de manera temprana quienes son candidatos de continuar estudios y abordajes invasivos. Aquellos pacientes que no sean candidatos a continuar procedimientos invasivos, deben ser orientados oportunamente hacia un plan paliativo interdisciplinar (recomendación de expertos).
+
+Página 41 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+V. Valoración por cuidado paliativo: el plan de atención paliativa inicia con la valoración del servicio de dolor y cuidados paliativos, quienes apoyarán el enfoque del paciente hacia medidas de confort y bienestar, y en la que se tendrán en cuenta diferentes factores:
+- Evaluar la posibilidad de tratamiento por vía oral - En pacientes con compromiso clínico severo, en inminencia de muerte, considerar
+la instauración de los cuidados al final de vida, con acompañamiento a familiares - Evaluar las condiciones necesarias para un egreso seguro con un plan paliativo
+domiciliario - Evitar la polifarmacia, priorizando aquellos medicamentos esenciales para
+comodidad del paciente
+En cada caso, se deberá evaluar de manera individualizada al paciente y se deberán considerar sus voluntades anticipadas y su enfoque diferencial (recomendación de expertos).
+W. Intervención orientada al cuidado integral paliativo: dentro del plan integral paliativo se integran distintos servicios complementarios, que buscan brindar comodidad al paciente sea en el contexto hospitalario o ambulatorio. Se definirá el requerimiento de cada uno de ellos según el tipo de paciente, el pronóstico y las necesidades presentes. Entre los servicios se encuentran (recomendación de expertos):
+- Psicología: como parte del proceso de aceptación de la enfermedad, el abordaje de emociones y según el escenario determinar si se requiere intervención a los familiares.
+- Psiquiatría: en pacientes que se considere pertinente como parte del abordaje integral de la salud mental.
+- Fisioterapia: para intervención temprana con el fin de disminuir la probabilidad de desacondicionamiento físico, con el objetivo de prevenir o retrasar complicaciones del proceso patológico o sus terapias; en la fase del tratamiento activo (por ejemplo, quimioterapia y radioterapia), o una vez finalizado el tratamiento. En líneas generales, este profesional tratará de adaptar el movimiento a las limitaciones y sintomatología.
+
+Página 42 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+- Terapia ocupacional: para mejorar la calidad de vida, ayudando a los pacientes a retomar sus actividades diarias y mantener su independencia. Se promueven actividades de autocuidado, alimentación, tareas del hogar y realización de actividades dentro del trabajo/estudio. También, educación en técnicas para manejar síntomas comunes y sus tratamientos, como la fatiga, el dolor, realizando actividades adaptadas a las necesidades y manejo en técnicas de conservación de energía para ayudar a los pacientes a manejar mejor su día a día, trabajo motor grueso y fino para mejorar la fuerza, funcionalidad y la movilidad, especialmente después de cirugías o tratamientos que afectan el sistema musculoesquelético. En acompañamiento socioemocional y adaptación los terapeutas ocupacionales también trabajan con los pacientes y sus familias para proporcionar apoyo emocional.
+- Nutrición: dependiendo del contexto de cada paciente y teniendo en cuenta su estado nutricional y el pronóstico; se implementa el plan de cuidado nutricional en caminado al confort, calidad de vida, tolerancia y gustos y preferencias del paciente.
+- Trabajo social: principalmente en pacientes que requieren ubicación de familiares, identificación adecuada de la red de apoyo, solicitud de albergues o gestión de planes de hospitalización domiciliaria.
+
+X. Acompañamiento de paciente y familiares al final de la vida: se pueden presentar diferentes escenarios:
+
+- En pacientes con inminencia de fallecimiento, se activarán los cuidados en el fin de
+
+vida, donde se evitará el traslado a unidad de cuidado crítico y medidas invasivas
+
+como intubación orotraqueal o reanimación cardiopulmonar; enfocando el abordaje
+
+hacia el control del dolor, suspendiendo intervenciones fútiles. Se liberarán las
+
+visitas para el acompañamiento de la familia, cuando se requiera se realizará el
+
+contacto a través de trabajo social, y según cada familia se considerará el apoyo por
+
+los servicios de psicología y psiquiatría, y según la decisión del paciente y/o familia,
+
+de acuerdo al enfoque diferencial, se puede optar por acompañamiento religioso
+
+(recomendación de expertos).
+
+- En pacientes hospitalizados se deben favorecer las visitas, involucrando a toda la
+
+red de apoyo y velando por la salud mental de los cuidadores. Se realizará
+
+entrenamiento de los cuidados a tener en cada paciente según su condición clínica
+
+y nivel de funcionalidad (recomendación de expertos).
+
+- En pacientes en tratamiento ambulatorio, se deberá realizar seguimiento según
+
+criterio del servicio de cuidado paliativo, y se debe evaluar la hospitalización
+
+domiciliaria como alternativa en pacientes que requieren medicamentos o cuidados
+
+especiales
+
+(recomendación
+
+de
+
+expertos).
+
+Página 43 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Figura 6. Sección 4 del diagrama de flujo: tratamiento del paciente con cáncer de colon estadio avanzado.
+
+Fuente: elaboración propia. Información adicional
+
+Página 44 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Y. Tipos de lesión en cáncer de colon estadio IV: aproximadamente un 15-30% de los pacientes con cáncer de colon presentan metástasis al momento del diagnóstico, y un 2050% de los pacientes que inicialmente presentaban solo lesión local, desarrollarán metástasis (19). Los órganos más frecuentemente afectados son el hígado, pulmón, peritoneo y ganglios linfáticos distales (19).
+Mediante los estudios de estadificación ya realizados, se debe determinar la carga de la enfermedad y la ubicación de las lesiones metastásicas. En caso de lesiones hepáticas potencialmente resecables o de comportamiento incierto, se debe complementar con RNM abdomen (CUPS: 883401)(NE: IVA; Oxford) (19). En pacientes con enfermedad oligometastásica potencialmente resecable o aquellos con marcadores tumorales elevados sin evidencia de metástasis, se debe considerar la realización de una tomografía por emisión de positrones con 18F-fluorodeoxiglucosa (PET-FDG) (CUPS: 921401), para descartar micrometástasis (NE: Oxford IVB).
+Una vez completados estos estudios, un equipo interdisciplinar clasificará las lesiones en resecables, potencialmente resecables o irresecables, con lo que se determinará el abordaje del paciente y su intención de tratamiento (recomendación de expertos).
+Z. Metastasectomía: los órganos más frecuentemente afectados son el hígado, pulmón y peritoneo (19). Se consideran metástasis potencialmente resecables aquellas lesiones en las que sea viable (quirúrgicamente), realizar una resección R0.
+En los pacientes que se considere pronóstico favorable y exista viabilidad quirúrgica, se deben llevar a metastasectomía sin terapia sistémica previa (NE: IIIB; Oxford) (19). Las intervenciones no se limitan por el tamaño, el número o el compromiso bilobar, sino en la viabilidad quirúrgica (19). En algunos casos se puede complementar la cirugía con terapias locales como la ablación térmica o la radioterapia corporal estereotáctica en pacientes seleccionados si se cuenta con la disponibilidad (19). No es necesaria la confirmación histopatológica de las lesiones metastásicas para ser llevadas a procedimientos quirúrgicos, sólo en aquellos escenarios que existan dudas de la naturaleza de las lesiones o si se considera administrar quimioterapia neoadyuvante (recomendación de expertos). Para cada caso, se recomienda:
+
+Página 45 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+- Afectación en hígado: debe recibir valoración por el servicio de cirugía hepatobiliar para evaluar el número de lesiones y determinar el tipo de resección según la localización y tamaño (20). Igualmente, determinar en cada caso si se benefician de neoadyuvancia previa a la metastasectomía u otras medidas preoperatorias como la medición volumétrica del parénquima o la embolización vascular selectiva para favorecer la hipertrofia del hígado sano y evitar la insuficiencia hepática postoperatoria (20). El abordaje puede ser abierto o vía laparoscópica, y entre las alternativas quirúrgicas existen: resección en cuña, segmentectomía, hepatectomía izquierda o derecha, hepatectomía extendida izquierda o derecha, o resecciones no anatómicas (20).
+- Afectación en p ulmón: debe recibir valoración por el servicio de cirugía de tórax y evaluar el número de lesiones y determinar el tipo de resección según la localización y tamaño. El abordaje puede ser abierto o toracoscópico, y entre las alternativas están la resección en cuña, segmentectomía o lobectomía; la neumonectomía no se considera una alternativa dado que no representa beneficios (21).
+- Afectación en peritoneo: debe recibir valoración por el servicio de cirugía oncológica. En casos de metástasis peritoneal aislada se debe considerar la realización de cirugía citorreductora (NE: IIA; Oxford) (19). Adicional, se puede considerar la adición de quimioterapia intraperitoneal hipertérmica según la experiencia del grupo y la disponibilidad (recomendación de expertos).
+
+Página 46 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Figura 7.Sección 5 del diagrama de flujo: tratamiento oncológico del paciente con cáncer de colon.
+
+Fuente: elaboración propia Información adicional
+
+Página 47 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+AA. Descartar síndrome de Lynch y otras alteraciones genómicas: el reporte de patología debe incluir la presencia o no de inestabilidad microsatelital (MSI/MMR) (5). Mediante inmunohistoquímica se puede detectar la pérdida de expresión del complejo mismatch repair (MLH1, MSH2, MSH6, PMS2)(5). El síndrome de Lynch se sospecha en la pérdida de expresión de MSH2 o MSH6; mientras que si existe la pérdida de expresión de MLH1 o PMS2 se debe considerar mutación BRAF o hipermetilación de la región promotora de hMLH1 (5).
+En pacientes con antecedentes familiares múltiples de cáncer de colon, endometrio y/o gástrico antes de los 50 años, o antecedente personal de tumor metacrónico, se debe considerar alta sospecha para enfermedad de Lynch, y se debe plantear el estudio de inestabilidad microsatelital mediante PCR (reacción en cadena de la polimerasa) para descartar posibles falsos negativos por inmunohistoquímica (recomendación de expertos). En estos pacientes se debe considerar la administración de inmunoterapia en estadios avanzados (NE: IA; Oxford) (19).
+Adicionalmente, en pacientes con enfermedad metastásica y según la disponibilidad en la institución se deben complementar estudios de otras alteraciones genómicas para conocer adecuadamente el perfil molecular del tumor y determinar el arsenal terapéutico disponible (19):
+- Mutación en KRAS (NE: IA; Oxford) - Mutación en NRAS en los exones 2, 3 y 4 (NE: IA; Oxford) - Mutación en BRAF (NE: IA; Oxford)
+AB. Perfil de riesgo previo a tratamiento neo o adyuvante: dada la toxicidad de los medicamentos quimioterapéuticos, se recomienda complementar estudios para establecer riesgos y su posterior vigilancia (recomendación de expertos):
+- Cardiotóxicos: pro-BNP (CUPS: 903065), troponina (CUPS: 903437), electrocardiograma (CUPS: 895100), ecocardiograma transtorácico (CUPS: 881202)
+- Hepatotóxicos: transaminasas (CUPS: 903866 Y 903867), bilirrubina total y directa (CUPS: 903809), tiempos de coagulación (CUPS: 902045 Y 902049)
+- Nefrotóxicos: creatinina y nitrógeno ureico (CUPS: 903895 Y 903856).
+
+Página 48 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+AC. Paraclínicos para descartar enfermedades concomitantes previo a tratamiento sistémico: como parte del perfil de seguridad, previo a una terapia sistémica se deben descartar complicaciones agudas y crónicas oncológicas, mediante la medición rutinaria de diversos paraclínicos (recomendación de expertos):
+- Síndrome de lisis tumoral: ácido úrico (CUPS: 903801), potasio (CUPS: 903859), fósforo (CUPS: 903835), calcio (CUPS: 903604).
+- Hipercalcemia maligna: calcio (CUPS: 903604), albúmina (CUPS: 903803). - Anemia: hemograma (CUPS: 902209). - Ferropenia: hierro sérico (CUPS: 903846), ferritina (CUPS: 903016), saturación de
+transferrina (CUPS: 903044), capacidad de combinación del hierro (TIBC) (CUPS: 903812). - Hipo/hipertiroidismo: hormona estimulante de la tiroides (TSH) (CUPS: 904902), tiroxina libre (T4L) (CUPS: 904921)
+AD. Definición de la mejor terapia farmacológica para el paciente: para escoger la mejor terapia farmacológica, se deben tener en cuenta los siguientes factores (19):
+- Características del tumor: - Presentación clínica (carga tumoral, localización del tumor) - Biología del tumor - Perfil molecular (inestabilidad microsatelital, mutación RAS, mutación BRAF)
+- Características del paciente: - Edad - Estado funcional - Función orgánica - Comorbilidades - Expectativas del paciente
+- Características de la terapia: - Perfil de toxicidad - Flexibilidad en la administración - Factores socioeconómicos - Calidad de vida
+
+Página 49 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+AE. Educación y preparación de paciente: para la determinación de la terapia sistémica ideal para cada paciente, se debe realizar un balance entre la condición clínica, la carga tumoral, el riesgo de recurrencia y la decisión individual de cada persona. Para esto, se deberá educar al paciente y familia, y ofrecer una explicación clara de la enfermedad, tratamiento y posibles efectos adversos; se recomienda siempre considerar las expectativas reales con la terapia. Se recomienda que el paciente reciba acompañamiento por servicios complementarios como psicología (CUPS: 890408), psiquiatría (CUPS: 890484) o trabajo social (CUPS: 890409) para el apoyo en la toma de decisiones (recomendación de expertos).
+El paciente debe recibir entrenamiento por parte de enfermería respecto a los aislamientos y cuidados personales que debe tener en estado inmunosupresión, incluyendo cuidados de alimentación y evitar exposición a virus o bacterias (recomendación de expertos).
+Preparación del paciente: para el proceso de quimioterapia, el paciente deberá contar con (recomendación de expertos):
+- Perfil serológico: todos los pacientes deben tener, previo al inicio de la terapia, prueba rápida de VIH (CUPS: 906249), antígeno de superficie de hepatitis B (CUPS: 906317), anticuerpos para hepatitis C (CUPS: 906225), prueba no treponémica RPR (CUPS: 906915).
+- Colocación de catéter implantable según indicaciones del servicio de oncología, por el servicio de radiología intervencionista o cirugía general.
+AF. Adecuación de estado físico y nutricional: para disminuir el impacto esperable con la terapia sistémica, se recomenda realizar una valoración previa al inicio de la quimioterapia por los servicios de nutrición (CUPS: 890406) y medicina física y rehabilitación (CUPS: 890464), con el fin de instaurar un plan nutricional adecuado, educar al paciente sobre los cuidados a seguir en condiciones de inmunosupresión, determinar el estado físico e instaurar un plan de acondicionamiento que incluya soporte metabólico y nutricional, terapia física, terapia respiratoria y/o terapia ocupacional (recomendación de expertos).
+AG. Programación de tratamiento quimioterápico: se realizará el enlace con el grupo de enfermería oncológica, quienes se encargarán de la programación de la terapia según las indicaciones del servicio de oncología, y confirmarán la adecuada preparación de cada paciente. Adicionalmente, de manera interdisciplinaria se debe determinar el riesgo de cada persona y definir quiénes son aptos para recibir la terapia de manera ambulatoria o el periodo de vigilancia intrahospitalaria para cada caso, según el esquema elegido (recomendación de expertos).
+
+Página 50 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+AH. Recomendaciones posteriores al tratamiento y plan de continuidad: todo paciente que culmina su tratamiento deberá continuar con ciertas recomendaciones y cuidados (recomendación de expertos):
+- Continuar proceso de rehabilitación, acompañado por los servicios de medicina física y rehabilitación, y fisioterapia (CUPS: 890411).
+- Algunos pacientes pueden presentar disfunción intestinal por lo que se debe reforzar el tratamiento nutricional.
+- Implementar hábitos saludables como una alimentación balanceada, realizar ejercicio físico, suspender el consumo de tabaco, alcohol u otras sustancias tóxicas.
+- En pacientes con depresión, estrés o ansiedad, continuar acompañamiento por los servicios de psicología (CUPS: 890408) y/o psiquiatría (CUPS: 890484) según corresponda.
+- Continuar el seguimiento clínico e imagenológico según indicación médica.
+- Pacientes con enfermedad de Lynch deberán ser llevados a asesoría genética para completar estudios en la familia.
+
+Página 51 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Figura 8. Sección 6 del diagrama de flujo: seguimiento del paciente con cáncer de colon.
+
+Fuente: elaboración propia.
+
+Página 52 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Información adicional
+
+AI. Pronóstico curativo del paciente: el seguimiento dependerá primeramente de la intención del tratamiento. Aquellos pacientes que dentro de la estadificación se consideró enfermedad curable, estadio I, II o III continuarán con el seguimiento propuesto (5). Se considerará como intención curativa aquellos pacientes estadio IV con enfermedad metastásica resecable o potencialmente resecable, lo que será determinado de manera interdisciplinar por los servicios quirúrgicos involucrados (dependiendo de los sitios de metástasis), oncología y radiología (recomendación de expertos) (19).
+
+AJ. Seguimiento del paciente con estadificación T1 con resección endoscópica: el paciente con clasificación estadio pT1 sin factores de riesgo (ver sección K. resección endoscópica) llevado a resección endoscópica, se controlará con colonoscopia al año de este procedimiento (CUPS: 452301) (5).
+
+AK. Seguimiento del paciente llevado a resección quirúrgica con intención curativa: entre un 30-50% de los pacientes con cáncer de colon presentarán recaída y fallecerán por la enfermedad (5). El principal objetivo de los protocolos de seguimiento es detectar tempranamente las recaídas, y el seguimiento estricto aumenta la tasa de detección de éstas (5) (NE: IIB; Oxford). El 80% de las recaídas se presentan en los primeros 3 años, y entre un 15-20% entre el cuarto y quinto año, por lo que se indica un seguimiento más estricto en esos primeros 3 años, y la suspensión del seguimiento luego del quinto año (5).
+- Examen clínico y marcadores tumorales (CUPS: 906603 y 906606) cada 3-6 meses por 3 años y cada 6-12 meses el cuarto y quinto año (NE: IIB; Oxford).
+- Colonoscopia (CUPS: 452301) al año y posteriormente cada 3-5 años (NE: IIIB; Oxford).
+- TAC de tórax y abdomen contrastado (CUPS: 879301 y 879420) cada 6-12 meses por 3 años y cada 12 meses el cuarto y quinto año (NE: IIB; Oxford).
+
+Cuando existan dudas clínicas o imagenológicas, como la elevación de marcadores tumorales o lesiones indeterminadas en el TAC o colonoscopia, se recomienda completar estudios con un PET-FDG (CUPS: 921401), para evaluar micro recaídas o el comportamiento metabólico de dichas lesiones y definir manejo (recomendación de expertos).
+
+Página 53 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+AL. Orientación de intervenciones de acuerdo con progresión: durante el seguimiento se podrán detectar hallazgos anormales en dos escenarios:
+- Segundo primario: corresponde a una nueva neoplasia en colon diferente a la ya tratada, en caso tal se deberá realizar nuevamente el algoritmo desde los estudios de extensión para determinar el grado de compromiso y definir el tratamiento adecuado (ir a sección 2 estadificación).
+- Recaída tumoral: corresponde a la progresión de la enfermedad, ante lo cual se deberá realizar una junta interdisciplinaria para evaluar la extensión de la enfermedad, redefinir la intención del tratamiento si es necesario, o determinar la mejor terapéutica en cada caso (recomendación de expertos).
+
+Página 54 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Definición de puntos de control
+Los puntos de control para el ECBE se definieron teniendo en cuenta momentos clave dentro del proceso integral de atención del paciente con riesgo nutricional en el hospital Universitario Nacional, y se presentan a continuación:
+1. Diagnóstico: realizar colonoscopia total más biopsias e inmunohistoquímica que incluya MSI/MMR (CUPS: 452301, 898201 y 898203) para confirmar el diagnóstico (sección 1 del diagrama de flujo: diagnóstico). Se considera un punto de control dado que todo paciente con sospecha de cáncer de colon debe ser llevado a colonoscopia, y ante cualquier hallazgo sospechoso se debe tomar biopsias y realizarles inmunohistoquímica para un apropiado diagnóstico histopatológico de la enfermedad, lo que permite un abordaje integral del cáncer. En casos que no se logre la realización de colonoscopia total se considerará al menos la realización de sigmoidoscopia flexible más toma de biopsias (CUPS: 452401 y 898201 y 898203).
+2. Estadificación: realización de imágenes completas en la estadificación (sección 2 del diagrama de flujo: estadificación). Todo paciente con diagnóstico de cáncer de colon debe tener TAC de tórax, abdomen y pelvis contrastado (CUPS: 879301 y 879420) para estadificación, o si existe alguna contraindicación resonancia magnética contrastada (CUPS: 883401, 883440 y 883301). Se considera punto de control dado que la no solicitud de alguna de estas imágenes puede culminar en un error en la estadificación, alterando el tratamiento ideal.
+3. Marcadores tumorales: solicitud de marcadores tumorales (sección 2 del diagrama de flujo: estadificación). Se considera punto de control dado que es fundamental obtener un valor de los marcadores tumorales (ACE y Ca 19-9) (CUPS: 906603 y 906606) previo al inicio del tratamiento, porque tendrán un impacto para el pronóstico y seguimiento del paciente.
+4. Estudio histopatológico: solicitud del estudio histopatológico con coloración básica e inmunohistoquímica (CUPS: 898201 y 898203) de la muestra quirúrgica, con reporte antes de los 14 días postoperatorios (sección 3: tratamiento paciente estadio local o loco-regional y sección 4: tratamiento paciente estadio avanzado). Se define como punto de control dado que la demora en la obtención del reporte de patología conlleva retrasos en la implementación de terapias complementarias como la quimioterapia adyuvante, la cual debe ser iniciada idealmente antes de las 8 semanas posteriores a la resección quirúrgica.
+5. Tratamiento nutricional: realizar valoración nutricional y brindar un plan de cuidado nutricional en todos los pacientes (sección 3: tratamiento paciente estadio local o loco-regional). Como parte del manejo integral del paciente con cáncer, es fundamental la valoración por el servicio de nutrición y la creación de un plan de cuidado nutricional que incluya soporte nutricional, porque impactará en el pronóstico y morbilidad de cada paciente.
+Página 55 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+6. Perfil de riesgo: Previo al tratamiento quimioterápico cada paciente debe contar con un perfil de riesgo, como estudios trazadores se seleccionaron tres: ecocardiograma (CUPS: 881202), creatinina (CUPS: 903895) y hemograma (CUPS: 902209) (sección 5: tratamiento oncológico). Se conocen ampliamente los efectos adversos de los medicamentos quimioterapéuticos, por lo que conocer el perfil de riesgo de cada paciente permite escoger la terapia ideal y hacer una vigilancia para manejar tempranamente los efectos tóxicos que se presenten.
+
+Página 56 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Indicadores de los puntos de control
+
+En la tabla 2 se presentan los indicadores propuestos para desarrollar procesos de implementación y vigilancia de los puntos de control definidos en la sección Definición de puntos de control.
+
+Tabla 2. Indicadores propuestos para evaluar puntos de control.
+
+Nombre
+1. Diagnóstic o
+2. Estadificac ión
+3. Marcadore s tumorales
+
+Definición
+Proporción de pacientes con sospecha de cáncer de colon y realización de colonoscopia total más biopsias e inmunohistoquímica (incluyendo MSI/MMR)
+Proporción de pacientes con diagnóstico de cáncer de colon con realización e TAC de tórax, abdomen y pelvis contrastado para estadificación (o resonancia contrastada en caso de contraindicación )
+Proporción de pacientes con diagnóstico de cáncer de colon y solicitud de marcadores tumorales (ACE y Ca19-9) previo al inicio del tratamiento.
+
+Fórmula
+𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑝𝑎𝑐𝑖𝑒𝑛𝑡𝑒𝑠 𝑐𝑜𝑛 𝑠𝑜𝑠𝑝𝑒𝑐ℎ𝑎 𝑑𝑒 𝑐á𝑛𝑐𝑒𝑟 𝑑𝑒 𝑐𝑜𝑙𝑜𝑛 𝑦 𝑟𝑒𝑎𝑙𝑖𝑧𝑎𝑐𝑖ó𝑛 𝑑𝑒 𝑐𝑜𝑙𝑜𝑛𝑜𝑠𝑐𝑜𝑝𝑖𝑎 𝑡𝑜𝑡𝑎𝑙 𝑚á𝑠 𝑏𝑖𝑜𝑝𝑠𝑖𝑎𝑠 𝑒 𝑖𝑛𝑚𝑢𝑛𝑜ℎ𝑖𝑠𝑡𝑜𝑞𝑢í𝑚𝑖𝑐𝑎 (𝑀𝑆𝐼/𝑀𝑀𝑅) 𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑝𝑎𝑐𝑖𝑒𝑛𝑡𝑒𝑠 𝑐𝑜𝑛 𝑠𝑜𝑠𝑝𝑒𝑐ℎ𝑎 𝑑𝑒 𝑐á𝑛𝑐𝑒𝑟 𝑑𝑒 𝑐𝑜𝑙𝑜𝑛
+𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑝𝑎𝑐𝑖𝑒𝑛𝑡𝑒𝑠 𝑐𝑜𝑛 𝑑𝑖𝑎𝑔𝑛ó𝑠𝑡𝑖𝑐𝑜 𝑑𝑒 𝑐á𝑛𝑐𝑒𝑟 𝑑𝑒 𝑐𝑜𝑙𝑜𝑛 𝑦 𝑟𝑒𝑎𝑙𝑖𝑧𝑎𝑐𝑖ó𝑛 𝑑𝑒 𝑇𝐴𝐶 (𝑜 𝑟𝑒𝑠𝑜𝑛𝑎𝑛𝑐𝑖𝑎) 𝑑𝑒 𝑡ó𝑟𝑎𝑥, 𝑎𝑏𝑑𝑜𝑚𝑒𝑛 𝑦 𝑝𝑒𝑙𝑣𝑖𝑠 𝑐𝑜𝑛𝑡𝑟𝑎𝑠𝑡𝑎𝑑𝑜 𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑝𝑎𝑐𝑖𝑒𝑛𝑡𝑒𝑠 𝑐𝑜𝑛 𝑑𝑖𝑎𝑔𝑛ó𝑠𝑡𝑖𝑐𝑜 𝑑𝑒 𝑐á𝑛𝑐𝑒𝑟 𝑑𝑒 𝑐𝑜𝑙𝑜𝑛
+𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑝𝑎𝑐𝑖𝑒𝑛𝑡𝑒𝑠 𝑐𝑜𝑛 𝑑𝑖𝑎𝑔𝑛ó𝑠𝑡𝑖𝑐𝑜 𝑑𝑒 𝑐á𝑛𝑐𝑒𝑟 𝑑𝑒 𝑐𝑜𝑙𝑜𝑛 𝑦 𝑠𝑜𝑙𝑖𝑐𝑖𝑡𝑢𝑑 𝑑𝑒 𝑚𝑎𝑟𝑐𝑎𝑑𝑜𝑟𝑒𝑠 𝑡𝑢𝑚𝑜𝑟𝑎𝑙𝑒𝑠 𝐴𝐶𝐸 𝑦 𝐶𝑎19 − 9 𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑝𝑎𝑐𝑖𝑒𝑛𝑡𝑒𝑠 𝑐𝑜𝑛 𝑑𝑖𝑎𝑔𝑛ó𝑠𝑡𝑖𝑐𝑜 𝑑𝑒 𝑐á𝑛𝑐𝑒𝑟 𝑑𝑒 𝑐𝑜𝑙𝑜𝑛
+
+Página 57 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+4. Estudio
+
+Proporción de pacientes con
+
+histopatoló diagnóstico de cáncer de colon con
+
+gico
+
+reporte de estudio histopatológico
+
+antes de los 14 días
+
+postoperatorios.
+
+𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑝𝑎𝑐𝑖𝑒𝑛𝑡𝑒𝑠 𝑐𝑜𝑛 𝑑𝑖𝑎𝑔𝑛ó𝑠𝑡𝑖𝑐𝑜 𝑑𝑒 𝑐á𝑛𝑐𝑒𝑟 𝑑𝑒 𝑐𝑜𝑙𝑜𝑛 𝑐𝑜𝑛 𝑟𝑒𝑝𝑜𝑟𝑡𝑒 𝑑𝑒 𝑒𝑠𝑡𝑢𝑑𝑖𝑜 ℎ𝑖𝑠𝑡𝑜𝑝𝑎𝑡𝑜𝑙ó𝑔𝑖𝑐𝑜 𝑎𝑛𝑡𝑒𝑠 𝑑𝑒 𝑙𝑜𝑠 14 𝑑í𝑎𝑠 𝑝𝑜𝑠𝑡𝑜𝑝𝑒𝑟𝑎𝑡𝑜𝑟𝑖𝑜𝑠 𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑝𝑎𝑐𝑖𝑒𝑛𝑡𝑒𝑠 𝑐𝑜𝑛 𝑑𝑖𝑎𝑔𝑛ó𝑠𝑡𝑖𝑐𝑜 𝑑𝑒 𝑐á𝑛𝑐𝑒𝑟 𝑑𝑒 𝑐𝑜𝑙𝑜𝑛
+
+5. Tratamient o nutricional
+
+Proporción de pacientes con diagnóstico de cáncer de colon y valoración por el servicio de nutrición
+
+𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑝𝑎𝑐𝑖𝑒𝑛𝑡𝑒𝑠 𝑐𝑜𝑛 𝑑𝑖𝑎𝑔𝑛ó𝑠𝑡𝑖𝑐𝑜 𝑑𝑒 𝑐á𝑛𝑐𝑒𝑟 𝑑𝑒 𝑐𝑜𝑙𝑜𝑛 𝑦 𝑣𝑎𝑙𝑜𝑟𝑎𝑐𝑖ó𝑛 𝑝𝑜𝑟 𝑒𝑙 𝑠𝑒𝑟𝑣𝑖𝑐𝑖𝑜 𝑑𝑒 𝑛𝑢𝑡𝑟𝑖𝑐𝑖ó𝑛 𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑝𝑎𝑐𝑖𝑒𝑛𝑡𝑒𝑠 𝑐𝑜𝑛 𝑑𝑖𝑎𝑔𝑛ó𝑠𝑡𝑖𝑐𝑜 𝑑𝑒 𝑐á𝑛𝑐𝑒𝑟 𝑑𝑒 𝑐𝑜𝑙𝑜𝑛
+
+6. Perfil del Proporción de pacientes con 𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑝𝑎𝑐𝑖𝑒𝑛𝑡𝑒𝑠 𝑐𝑜𝑛 𝑑𝑖𝑎𝑔𝑛ó𝑠𝑡𝑖𝑐𝑜 𝑑𝑒 𝑐á𝑛𝑐𝑒𝑟 𝑑𝑒 𝑐𝑜𝑙𝑜𝑛 𝑦 𝑟𝑒𝑎𝑙𝑖𝑧𝑎𝑐𝑖ó𝑛 𝑑𝑒 𝑒𝑐𝑜𝑐𝑎𝑟𝑑𝑖𝑜𝑔𝑟𝑎𝑚𝑎, 𝑐𝑟𝑒𝑎𝑡𝑖𝑛𝑖𝑛𝑎 𝑦 ℎ𝑒𝑚𝑜𝑔𝑟𝑎𝑚𝑎 𝑝𝑟𝑒𝑣𝑖𝑜 𝑎𝑙 𝑡𝑟𝑎𝑡𝑎𝑚𝑖𝑒𝑛𝑡𝑜 𝑞𝑢𝑖𝑚𝑖𝑜𝑡
+
+riesgo
+
+diagnóstico de cáncer de colon y
+
+𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑝𝑎𝑐𝑖𝑒𝑛𝑡𝑒𝑠 𝑐𝑜𝑛 𝑑𝑖𝑎𝑔𝑛ó𝑠𝑡𝑖𝑐𝑜 𝑑𝑒 𝑐á𝑛𝑐𝑒𝑟 𝑑𝑒 𝑐𝑜𝑙𝑜𝑛
+
+realización de ecocardiograma,
+
+creatinina y hemograma previo al
+
+tratamiento quimioterápico.
+
+Página 58 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Implementación del estándar clínico basado en la evidencia y evaluación de la adherencia
+Para el proceso de implementación del ECBE y evaluación de la adherencia se desarrollarán diferentes actividades que se describen de forma general en este apartado. La primera actividad será la creación de un equipo interdisciplinario, conformado por los miembros del grupo desarrollador y representantes de las áreas administrativas y clínicas del HUN, que puedan apoyar el proceso de implementación. Es importante mencionar que se dará prioridad al personal del área de tecnologías de la información del HUN en la constitución del equipo encargado de la implementación. Una vez conformado el equipo de implementación del estándar, se realizarán reuniones que permitan identificar las barreras y facilitadores del proceso de implementación en la institución.
+Posteriormente, se utilizarán dos enfoques para abordar las posibles acciones de implementación del ECBE. El primero tendrá como objetivo la difusión del diagrama de flujo del ECBE y sus puntos de control. Algunas de las actividades contempladas para poner en práctica este enfoque incluyen charlas educativas presenciales y pregrabadas por los líderes clínicos del ECBE y la difusión de información sobre este mismo, mediante las redes sociales del HUN y las carteleras ubicadas en sus diferentes servicios. El objetivo del segundo enfoque será desarrollar estrategias administrativas utilizando tecnologías de la información y el software de historia clínica, para generar avisos interactivos o mensajes de recordatorio que refuercen las actividades educativas arriba planteadas.
+Finalmente, el proceso de evaluación de la adherencia al estándar tendrá tres componentes: i) evaluación de conocimiento sobre el ECBE: donde se contempla el uso de encuestas válidas y transparentes que serán desarrolladas en diferentes ámbitos clínicos para medir el grado de conocimiento del personal acerca del ECBE; ii) evaluaciones de impacto: en el cual se contemplará, según la disponibilidad de recursos destinados a este componente, realizar actividades relacionadas con evaluación del impacto del ECBE sobre desenlaces clínicos, desenlaces reportados por pacientes y desenlaces en términos de costos asociados a su implementación; iii) evaluaciones de adherencia: para este componente se utilizarán principalmente fuentes de información administrativa; no obstante, en algunos casos, de prioridad para el hospital, se utilizarán estudios adicionales que permitan evaluar la adherencia de manera focalizada.
+Se aclara que el proceso de implementación será desarrollado en etapas adicionales a las del proceso de desarrollo que permitan identificar las mejores alternativas de implementación para este ECBE.
+Página 59 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Impacto esperado del ECBE
+
+Este ECBE tiene múltiples propósitos a mediano y largo plazo, los cuales se lograrán a medida que se completen las fases de implementación y actualización:
+- Disminuir la variabilidad en el diagnóstico, estadificación, tratamiento y seguimiento de pacientes adultos con cáncer de colon atendidos de manera ambulatoria e intrahospitalaria en el HUN.
+- Mejorar los desenlaces en salud de pacientes adultos con cáncer de colon atendidos en el HUN.
+- Optimizar el uso de recursos en el proceso de atención de pacientes adultos con cáncer de colon atendidos en el HUN.
+- Mejorar los desenlaces reportados por los pacientes adultos con cáncer de colon atendidos en el HUN.
+- Brindar una herramienta pedagógica basada en la mejor evidencia disponible a los profesores y estudiantes de las facultades de salud de la Universidad Nacional de Colombia en lo que respecta al diagnóstico, estadificación, tratamiento y seguimiento de pacientes adultos con cáncer de colon.
+- Posicionar al HUN como una institución de salud referente en la región en lo que respecta al tratamiento integral de pacientes con cáncer de colon.
+
+Página 60 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Actualización del ECBE
+
+La actualización del ECBE se realizará según las recomendaciones establecidas en el manual de desarrollo de ECBE del HUN (IN-MN-04. Desarrollo de estándares clínicos basados en la evidencia en el Hospital Universitario Nacional de Colombia). De esta manera, el grupo desarrollador estableció el tiempo máximo de actualización teniendo en cuenta los siguientes aspectos: i) el volumen de la evidencia disponible en la actualidad; ii) la disponibilidad de nueva evidencia relacionada con el tema que pueda influenciar la toma de decisiones en el proceso de atención integral de pacientes con esta enfermedad; iii) la calidad de la evidencia disponible al momento del desarrollo del ECBE, y iv) la disponibilidad de recursos institucionales para la implementación y actualización del ECBE.
+Considerando estos aspectos, el grupo de trabajo decidió que, para el caso del cáncer de colon, se espera que en un tiempo aproximado de tres a cinco años se publique nueva evidencia que afecte la manera de llevar a cabo el proceso de diagnóstico, estadificación, tratamiento y seguimiento y que, por lo tanto, este será el periodo máximo de actualización de este documento.
+De esta forma, el grupo desarrollador determinó que el ECBE para el diagnóstico, estadificación, tratamiento y seguimiento de los pacientes con cáncer de colon en el HUN debe actualizarse máximo entre 3 y 5 años, ya que se espera que en este período se publique nueva evidencia sobre el diagnóstico, estadificación, tratamiento y seguimiento de estas condiciones y, por tanto, se requiera hacer cambios en el proceso de atención de estos pacientes.
+
+Página 61 de 84
+
+Glosario
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Adaptación de recomendaciones: grado en el que una intervención basada en evidencia es modificada por un usuario durante su adopción e implementación para ajustarla a las necesidades de la práctica clínica o para mejorar su desempeño según las condiciones locales.
+Adenocarcinoma de colon: Neoplasia glandular del colon y el recto que representa el 98% de los cánceres de colon (22).
+Adyuvancia: Tratamiento administrado después del tratamiento principal para reducir el riesgo de recaída tumoral, usualmente hace referencia a la quimioterapia, radiación, terapia hormonal y/o inmunoterapia posterior a la cirugía (4).
+Algoritmo: procedimiento expresado como una serie de pasos que permite solucionar un problema específico en un tiempo y espacio determinados. Debe cumplir los siguientes atributos: tener una entrada y una salida, no presentar ambigüedad en los pasos planteados, el procedimiento debe terminar después de un determinado número de pasos y cada instrucción debe estar debidamente explicada de forma que pueda ser ejecutada sin problema (23).
+Antígeno carcinoembrionario: Glicoproteína que se produce durante el desarrollo fetal y usualmente no es detectable en la sangre de las personas sanas adultas, sin embargo, sus niveles sanguíneos pueden estar elevados en pacientes con cáncer de colon, cáncer de páncreas, cáncer de mama, cáncer de ovario y cáncer de pulmón. También en varias enfermedades no relacionadas con el cáncer como la cirrosis hepática y la enfermedad de Crohn (24).
+Cáncer colorrectal: Tumor originado en el colon o recto. También conocidos por el nombre de cáncer de colon o cáncer de recto, dependiendo del lugar donde se originen. El cáncer de colon y el cáncer de recto a menudo se agrupan porque tienen muchas características comunes (11).
+Cáncer metacrónico: ocurrencia de otro adenocarcinoma colorrectal primario, posterior a la detección del primer adenocarcinoma colorrectal, no existe un intervalo de tiempo estandarizado para definirlo como metacrónico pero muchos autores utilizan un tiempo mayor a 6 meses para diferenciarlo de un sincrónico no detectado al inicio (25).
+Cáncer sincrónico: se refiere a más de un carcinoma colorrectal primario detectado en un único paciente al momento de la presentación inicial (25).
+
+Página 62 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Colitis ulcerativa: Enfermedad inflamatoria del colon y del recto. Se caracteriza por la inflamación y ulceración de la pared interior del colon. Generalmente inicia con afectación a la mucosa rectal y se extiende hacia proximal, de manera continua y simétrica en ausencia de granulomas (26).
+Colonoscopía: Examen clínico utilizado para evaluar los cambios - tales como inflamación, pólipos o cáncer presentes en el intestino grueso (colon) y recto (27).
+Colostomía: Procedimiento quirúrgico en el cual se crea una apertura del colon a través del abdomen, comunicándose con el medio externo (28). Puede ser temporal o permanente. Usualmente realizada posterior a cirugía o lesiones intestinales.
+Diagrama de flujo: representación gráfica de un algoritmo. Usualmente es utilizado en el área de la salud para describir el proceso de atención integral de pacientes con determinada condición o enfermedad. Esta herramienta ha sido reconocida como la más útil en el área de la salud; además, es utilizada por instituciones gubernamentales para mejorar los procesos de atención en salud (29).
+Diagrama PRISMA (Preferred Reporting Items for Systematic Reviews and MetaAnalyses): diagrama que permite describir el flujo de información durante las fases de búsqueda y revisión de la evidencia. Este diagrama facilita identificar el número de registros identificados, aquellos excluidos y los finalmente incluidos, así como las razones para las exclusiones (30).
+Enfermedad de Crohn: enfermedad crónica del tracto digestivo que se produce por una respuesta inmune desproporcionada de la mucosa intestinal frente a un estímulo medioambiental en un paciente genética e inmunológicamente susceptible (31). Generalmente afecta el intestino delgado y comienzo del colon pero puede afectar desde la boca hasta el ano, y se caracteriza por un compromiso transmural y fistulizante (32).
+Escisión completa del mesocolon: Consiste en la disección íntegra de la fascia visceral y movilización del colon junto con la ligadura vasos cólicos en su origen, consiguiendo la resección completa de la zona del colon neoplásica junto con la máxima cantidad de tejido linfovascular circundante en bloque (33).
+Estadificación del cáncer: es el proceso de descubrir cuánto cáncer hay en el cuerpo de una persona y cuánto se ha propagado. Con lo cual permite establecer un estadio y así determinar un tratamiento y pronóstico (34).
+Inmunoterapia: Tratamiento en el que se usan sustancias a fin de estimular o inhibir el sistema inmunitario y de esta manera ayudar al cuerpo a combatir el cáncer, las infecciones y otras enfermedades (35).
+Página 63 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Marcadores tumorales: Sustancia que se encuentra en tejidos, sangre, médula ósea u otros líquidos del cuerpo, y que a veces es un signo de cáncer o determinadas afecciones benignas (no cancerosas) (24).
+Metástasis: Diseminación de células cancerosas desde el lugar de origen a otra parte del cuerpo, pueden realizarlo por contigüidad, o a través de la sangre o el sistema linfático. El nuevo tumor metastásico contiene la misma histología del tumor primario (19).
+Neoadyuvancia: Tratamiento que se administra antes del tratamiento principal. Puede incluir quimioterapia, radioterapia o terapia hormonal que se administra antes de la cirugía para reducir el tamaño de un tumor y simplificar o permitir la extirpación (4).
+Pólipo: Tumor, pediculado o sésil, que se desarrolla a expensas de los elementos de una membrana mucosa. Puede corresponder a una tumoración, a una inflamación del tejido de granulación o a una hiperplasia. Se produce en los órganos huecos, en las cavidades paranasales y en los órganos dentarios (36).
+Polipomatosis adenomatosa familiar: Trastorno hereditario por el que se forman muchos pólipos (a menudo, cientos o miles) en las paredes internas del colon y el recto. Las personas con poliposis adenomatosa familiar clásica tienen un riesgo muy alto de presentar cáncer colorrectal (36).
+Puntos de control del estándar clínico basado en la evidencia (ECBE): aspectos trazadores de cada uno de los procesos de atención en salud que se abordan en el ECBE, los cuales son de vital importancia para el seguimiento de la adherencia al proceso y permiten diseñar estrategias específicas de implementación.
+Quimioterapia: Tratamiento con medicamentos para interrumpir la formación de células cancerosas, ya sea mediante su destrucción o al impedir su multiplicación. Se puede administrar vía oral, intravenoso o subcutáneo, según el tipo de cáncer y su estadio (37).
+Radioterapia: Tratamiento que utiliza radiación de energía alta de rayos X, rayos gamma, neutrones, protones y otras fuentes para destruir células cancerosas y reducir el tamaño de los tumores (38).
+Tamización: Corresponde a la aplicación de un test o procedimiento a personas asintomáticas, con el objetivo de encontrar hallazgos anormales que ameriten un estudio diagnóstico (39).
+
+Página 64 de 84
+
+Referencias
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+1. Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, et al. Global Cancer
+Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J Clin [Internet]. 2021 [citado el 19 de septiembre de 2023];71(3):209– 49. Disponible en: https://onlinelibrary.wiley.com/doi/abs/10.3322/caac.21660 2. Santiago: Minsal. Guía clinica AUGE: Cáncer Colorectal en personas de 15 años y más. 2013; Disponible en: http://bibliotecaminsal-chile.bvsalud.org/lildbi/docsonline/get.php?id=4519 3. Baez-Duarte JP, Chaves JJ, Chaves-Cabezas V, Africano-Lopez F, Ochoa-Vera M, Tovar-Fierro G. Cáncer colorrectal de inicio temprano: un estudio en una población colombiana. Rev Colomb Gastroenterol [Internet]. el 20 de marzo de 2024 [citado el 15 de junio de 2024];39(1):29–36. Disponible en: https://revistagastrocol.com/index.php/rcg/article/view/1065 4. Colon Cancer, Version 2.2021, NCCN Clinical Practice Guidelines in Oncology - PubMed [Internet]. [citado el 19 de septiembre de 2023]. Disponible en: https://pubmed.ncbi.nlm.nih.gov/33724754/ 5. Argilés G, Tabernero J, Labianca R, Hochhauser D, Salazar R, Iveson T, et al. Localised colon cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol Off J Eur Soc Med Oncol. octubre de 2020;31(10):1291–305. 6. Carrera J, Garcia R. Guía de Práctica Clínica (GPC) para la detección temprana, diagnóstico, tratamiento, seguimiento y rehabilitación de pacientes con diagnóstico de cáncer de colon y recto – IETS [Internet]. 2013 [citado el 24 de marzo de 2023]. Disponible en: https://www.iets.org.co/2017/01/01/guia-de-practica-clinica-gpc-para-la-deteccion-tempranadiagnostico-tratamiento-seguimiento-y-rehabilitacion-de-pacientes-con-diagnostico-de-cancerde-colon-y-recto/ 7. Overview | Colorectal cancer | Guidance | NICE [Internet]. NICE; 2020 [citado el 24 de marzo de 2023]. Disponible en: https://www.nice.org.uk/guidance/ng151 8. CDC. Health and Economic Benefits of Colorectal Cancer Interventions | Power of Prevention [Internet]. 2023 [citado el 19 de septiembre de 2023]. Disponible en: https://www.cdc.gov/chronicdisease/programs-impact/pop/colorectal-cancer.htm 9. Henderson RH, French D, Maughan T, Adams R, Allemani C, Minicozzi P, et al. The economic burden of colorectal cancer across Europe: a population-based cost-of-illness study. Lancet Gastroenterol Hepatol [Internet]. el 1 de septiembre de 2021 [citado el 19 de septiembre de 2023];6(9):709–22. Disponible en: https://www.thelancet.com/journals/langas/article/PIIS24681253(21)00147-3/fulltext 10. Wolf AMD, Fontham ETH, Church TR, Flowers CR, Guerra CE, LaMonte SJ, et al. Colorectal cancer screening for average-risk adults: 2018 guideline update from the American Cancer Society. CA Cancer J Clin [Internet]. 2018 [citado el 24 de marzo de 2023];68(4):250–81. Disponible en: https://onlinelibrary.wiley.com/doi/abs/10.3322/caac.21457 11. Weiser MR. AJCC 8th Edition: Colorectal Cancer. Ann Surg Oncol. junio de 2018;25(6):1454–5. 12. Gustafsson UO, Scott MJ, Hubner M, Nygren J, Demartines N, Francis N, et al. Guidelines for Perioperative Care in Elective Colorectal Surgery: Enhanced Recovery After Surgery (ERAS®) Society Recommendations: 2018. World J Surg. marzo de 2019;43(3):659–95. 13. Macías-Cervantes JJ, Vázquez-Rentería RS, López-Romero SC, Gracida-Mancilla NI, MacíasCervantes JJ, Vázquez-Rentería RS, et al. Precisión de la calculadora de riesgo quirúrgico ACS NSQIP para predecir morbilidad y mortalidad en pacientes mexicanos. Cir Cir [Internet]. abril de 2022 [citado el 16 de junio de 2024];90(2):229–35. Disponible en: http://www.scielo.org.mx/scielo.php?script=sci_abstract&pid=S2444054X2022000200229&lng=es&nrm=iso&tlng=es 14. Thompson MR, O’Leary DP, Flashman K, Asiimwe A, Ellis BG, Senapati A. Clinical assessment
+Página 65 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+to determine the risk of bowel cancer using Symptoms, Age, Mass and Iron deficiency anaemia
+
+(SAMI). Br J Surg. septiembre de 2017;104(10):1393–404.
+
+15. Carchman EH, Kalady MF. Colon Cancer Surgical Treatment: Principles of Colectomy. En:
+
+Steele SR, Hull TL, Hyman N, Maykel JA, Read TE, Whitlow CB, editores. The ASCRS Textbook
+
+of Colon and Rectal Surgery [Internet]. Cham: Springer International Publishing; 2022 [citado el
+
+22 de abril de 2024]. p. 451–62. Disponible en: https://doi.org/10.1007/978-3-030-66049-9_25
+
+16. Galandiuk Susan, Netz Uri, Morpurgo Emilio, Tosato Sara Maria, Abu-Freha Naim, Ellis C. Tyler.
+
+Capítulo 52 - Colon y recto, Sabiston. En: Tratado de cirugía Sabiston. 21.a Edición. 2022.
+
+17. He J, He M, Tang JH, Wang XH. Anastomotic leak risk factors following colon cancer resection:
+
+a systematic review and meta-analysis. Langenbecks Arch Surg [Internet]. el 29 de junio de 2023
+
+[citado el 4 de mayo de 2024];408(1):252. Disponible en: https://doi.org/10.1007/s00423-023-
+
+02989-z
+
+18. Davis BR, Valente MA, Goldberg JE, Lightner AL, Feingold DL, Paquette IM, et al. The American
+
+Society of Colon and Rectal Surgeons Clinical Practice Guidelines for Ostomy Surgery. Dis Colon
+
+Rectum. el 1 de octubre de 2022;65(10):1173–90.
+
+19. Cervantes A, Adam R, Roselló S, Arnold D, Normanno N, Taïeb J, et al. Metastatic colorectal
+
+cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Ann Oncol Off
+
+J Eur Soc Med Oncol. enero de 2023;34(1):10–32.
+
+20. Chandra P, Sacks GD. Contemporary Surgical Management of Colorectal Liver Metastases.
+
+Cancers. el 26 de febrero de 2024;16(5):941.
+
+21. Higashiyama M, Tokunaga T, Nakagiri T, Ishida D, Kuno H, Okami J. Pulmonary
+
+metastasectomy: outcomes and issues according to the type of surgical resection. Gen Thorac
+
+Cardiovasc Surg. junio de 2015;63(6):320–30.
+
+22. Adenocarcinoma [Internet]. [citado el 28 de septiembre de 2023]. Disponible en:
+
+https://www.pathologyoutlines.com/topic/colontumoradenocarcinoma.html
+
+23. Gulwani S. Programming by Examples: Applications, Algorithms, and Ambiguity Resolution.
+
+24. López S. J, Hornig E. A, Molt C. F, Mariángel P. P, Avendaño H. R. Antígeno carcinoembrionario
+
+preoperatorio y riesgo de metástasis en el cáncer colorectal. Cuad Cir [Internet]. 2005 [citado el
+
+28
+
+de
+
+septiembre
+
+de
+
+2023];22–6.
+
+Disponible
+
+en:
+
+https://pesquisa.bvsalud.org/portal/resource/pt/lil-429152
+
+25. Significado clinicopatológico del carcinoma sincrónico en el cáncer colorrectal [Internet]. [citado
+
+el 28 de septiembre de 2023]. Disponible en: https://www.intramed.net/72035/Significado-
+
+clinicopatologico-del-carcinoma-sincronico-en-el-cancer-colorrectal
+
+26. Zuluaga-Arbeláez N, Sierra-Vargas EC, Díaz-Coronado JC, Guevara-Casallas LG, Zuluaga-
+
+Arbeláez N, Sierra-Vargas EC, et al. Colitis ulcerativa para no gastroenterólogos. CES Med
+
+[Internet]. diciembre de 2020 [citado el 28 de septiembre de 2023];34(3):188–97. Disponible en:
+
+http://www.scielo.org.co/scielo.php?script=sci_abstract&pid=S0120-
+
+87052020000300188&lng=en&nrm=iso&tlng=es
+
+27. Colonoscopy [Internet]. 2021 [citado el 28 de septiembre de 2023]. Disponible en:
+
+https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/colonoscopy
+
+28. Colostomy [Internet]. 2021 [citado el 28 de septiembre de 2023]. Disponible en:
+
+https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/colostomy
+
+29. Jun GT, Ward J, Morris Z, Clarkson J. Health care process modelling: which method when? Int
+
+J Qual Health Care [Internet]. el 1 de junio de 2009 [citado el 28 de septiembre de
+
+2023];21(3):214–24. Disponible en: https://doi.org/10.1093/intqhc/mzp016
+
+30. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA
+
+2020 statement: an updated guideline for reporting systematic reviews. BMJ [Internet]. el 29 de
+
+marzo de 2021 [citado el 28 de septiembre de 2023];372:n71. Disponible en:
+
+https://www.bmj.com/content/372/bmj.n71
+
+31. Márquez Velásquez JR. Enfermedad de Crohn. Enfoque diagnóstico y terapéutico de las
+
+primeras visitas. Rev Colomb Gastroenterol [Internet]. diciembre de 2014 [citado el 28 de
+
+Página 66 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+septiembre
+
+de
+
+2023];29(4):404–16.
+
+Disponible
+
+en:
+
+http://www.scielo.org.co/scielo.php?script=sci_abstract&pid=S0120-
+
+99572014000400010&lng=en&nrm=iso&tlng=es
+
+32. National Institute of Diabetes and Digestive and Kidney Diseases [Internet]. [citado el 28 de
+
+septiembre de 2023]. Definición e información sobre la enfermedad de crohn - NIDDK.
+
+Disponible
+
+en:
+
+https://www.niddk.nih.gov/health-information/informacion-de-la-
+
+salud/enfermedades-digestivas/enfermedad-crohn/que-es
+
+33. Comunicación COLOPROCTOLOGÍA | Cirugía Española | Cirugía Española [Internet]. [citado el
+
+28 de septiembre de 2023]. Disponible en: https://www.elsevier.es/es-revista-cirugia-espanola-
+
+36-congresos-33-congreso-nacional-cirugia-114-sesion-coloproctologia-6187-comunicacion-
+
+hemicolectomia-derecha-con-escision-total-73810
+
+34. Estadificación del cáncer [Internet]. [citado el 28 de septiembre de 2023]. Disponible en:
+
+https://www.cancer.org/es/cancer/diagnostico-y-etapa-del-cancer/estadificacion-del-
+
+cancer.html
+
+35. Definición de inmunoterapia - Diccionario de cáncer del NCI - NCI [Internet]. 2011 [citado el 28
+
+de
+
+septiembre
+
+de
+
+2023].
+
+Disponible
+
+en:
+
+https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-
+
+cancer/def/inmunoterapia
+
+36. Definición de poliposis adenomatosa familiar clásica - Diccionario de cáncer del NCI - NCI
+
+[Internet]. 2011 [citado el 28 de septiembre de 2023]. Disponible en:
+
+https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/def/poliposis-
+
+adenomatosa-familiar-clasica
+
+37. Definición de quimioterapia - Diccionario de cáncer del NCI - NCI [Internet]. 2011 [citado el 28
+
+de
+
+septiembre
+
+de
+
+2023].
+
+Disponible
+
+en:
+
+https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-
+
+cancer/def/quimioterapia
+
+38. Definición de radioterapia - Diccionario de cáncer del NCI - NCI [Internet]. 2011 [citado el 28 de
+
+septiembre
+
+de
+
+2023].
+
+Disponible
+
+en:
+
+https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/def/radioterapia
+
+39. Ustáriz ACM, Macías SG, Sánchez RB, Pardo JC, Guerrero AB, Mora MG, et al. Actualización
+
+en la tamización del cáncer colorrectal. Rev Colomb Cancerol [Internet]. el 27 de julio de 2023
+
+[citado el 29 de noviembre de 2023];27:291–300. Disponible en:
+
+https://www.revistacancercol.org/index.php/cancer/article/view/931
+
+Página 67 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Anexos
+Anexo 1. Versión completa de la metodología del ECBE
+Metodología El ECBE se desarrolló mediante un proceso secuencial de siete fases: i) conformación del grupo desarrollador; ii) definición del alcance y los objetivos del ECBE; iii) revisión sistemática de GPC; iv) elaboración del algoritmo preliminar; v) desarrollo de un acuerdo interdisciplinario; vi) elaboración del algoritmo final, y vii) revisión y edición del ECBE. Cada una de estas etapas se describe a continuación:
+
+I)
+
+Conformación del grupo elaborador
+
+El grupo desarrollador estuvo conformado por expertos en cirugía general,
+
+gastroenterología, cirugía gastrointestinal, oncología y epidemiología clínica, quienes se
+
+reunieron de forma virtual para determinar las directrices metodológicas, técnicas y
+
+temáticas respecto al desarrollo de las recomendaciones del ECBE. Todos los miembros del
+
+grupo desarrollador aceptaron participar en el proceso de desarrollo del estándar,
+
+diligenciaron y firmaron el formato de divulgación de conflictos de interés, de acuerdo con
+
+la normatividad vigente para el desarrollo de ECBE.
+
+II) Definición de alcance y objetivos Esta actividad representa el componente principal del ECBE y suele ser objeto de las evaluaciones de calidad de este tipo de documentos (1,2). En esta etapa, se plantearon tanto el alcance, como los objetivos para el desarrollo del ECBE a partir de preguntas trazadoras como: i) ¿por qué se hace?, ii) ¿para qué se hace?, iii) ¿quiénes la usarán?, iv) ¿a quiénes se dirige?, v) ¿qué problema o condición se quiere delimitar? y vi) ¿qué pregunta de salud específica se quiere abordar? (3). En lo que respecta al alcance, el equipo desarrollador estuvo a cargo de su formulación teniendo en cuenta los siguientes componentes: i) población objetivo: población en la que se aplicarán específicamente las recomendaciones del ECBE; ii) poblaciones especiales a las que pueda aplicarse el ECBE (equidad en salud): poblaciones indígenas, comunidad afrodescendiente, poblaciones rurales, etcétera; iii) aspecto de la enfermedad o condición que se piensa abordar: tratamiento, diagnóstico, prevención, seguimiento, etcétera; iv) aspectos de la enfermedad que no serán incluidas: tratamiento, diagnóstico, prevención, seguimiento, etcétera; v) contexto de atención en salud: consulta externa, hospitalización, cirugía, unidad de cuidados intensivos, etcétera; vi) especialidades, áreas o servicios de salud involucrados en la implementación del ECBE: quiénes deberán utilizar las recomendaciones emitidas por el ECBE.
+Los objetivos se establecieron teniendo en cuenta que estos deben describir de forma clara y concreta la finalidad del ECBE. De esta forma, los objetivos se formularon considerando las actividades de revisión de la literatura, las áreas asistenciales
+
+Página 68 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+involucradas y el consenso interdisciplinario al que se ha de llegarse como producto final del ECBE. En la formulación de los objetivos, también se incluyeron la identificación de puntos de control y los lineamientos para la difusión e implementación del ECBE.
+
+III) Revisión sistemática de GPC Se realizaron búsquedas sistemáticas en diferentes bases de datos para identificar las GPC que respondieran al objetivo y alcance del ECBE. En la revisión de la literatura, solo se consideraron documentos publicados en los últimos 10 años en revistas científicas o documentos técnicos encontrados como literatura gris calificados como GPC basadas en la evidencia que reportaran indicaciones o recomendaciones relativas al diagnóstico, tratamiento y seguimiento de pacientes con obesidad y el tratamiento quirúrgico de aquellos con pérdida masiva de peso. Teniendo en cuenta lo anterior, se diseñaron estrategias de búsqueda electrónica altamente sensibles con el fin de identificar documentos que cumplieran con los criterios antes descritos. Las búsquedas se realizaron del 4 al 24 de abril de 2023, en las siguientes bases de datos: 1. Desarrolladores:
+a. Ministerio de Salud y Protección Social (MSPS) - Colombia b. National Institute for Health and Clinical Excellence (NICE) - Reino Unido c. Instituto de Evaluación Tecnológica en Salud (IETS) - Colombia d. Instituto Mexicano del Seguro Social (IMSS) - México e. Scottish Intercollegiate Guidelines Network (SIGN) - Escocia f. Organización Panamericana de la Salud (OPS) g. Sistema de Información de la Biblioteca de la OMS (WHOLIS) h. Australian Clinical Practice Guidelines - GPC Australia i. Organización Mundial de la Salud (OMS) j. Biblioteca Guía Salud - España k. Agency for Healthcare Research and Quality (AHRQ) l. British Association of Plastic Reconstructive and Aesthetic Surgeons (BAPRAS) 2. Compiladores: a. Guidelines International Network (G-I-N) b. CPG Infobase: Clinical Practice Guidelines (CMA infodatabase) 3. Bases de datos de revistas científicas: a. Medline b. Embase
+Página 69 de 84
+
+c. LILACS
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+En lo que respecta a la realización de las búsquedas, primero se identificaron los términos clave (lenguaje natural), correspondientes a la condición de salud o área de interés a abordarse en el ECBE. Luego, se construyó una estrategia de búsqueda de base compuesta por vocabulario controlado (términos MeSH, Emtree y DeCS) y lenguaje libre (variaciones ortográficas, plurales, sinónimos, acrónimos y abreviaturas). A partir de la estrategia de búsqueda de base, se crearon estrategias de búsqueda para las diferentes bases de datos consultadas, utilizando, cuando fue posible, expansión de términos, identificadores de campo (título y resumen), truncadores y operadores booleanos y de proximidad. Para cada búsqueda, se generó un reporte que garantizara su reproducibilidad y transparencia. Se descargaron todos los archivos con extensión RIS o los documentos en formato PDF para consolidar todos los resultados en una sola base de datos y, de esta forma, realizar los procesos de tamización y selección de los estudios y de evaluación de la calidad de la evidencia. Las tablas de reporte de las estrategias de búsqueda de la evidencia se pueden consultar en el anexo 3.
+Definición de los criterios de elegibilidad Antes de iniciar el proceso de tamización y selección de la evidencia, el grupo desarrollador estableció criterios de elegibilidad. Este proceso estuvo a cargo de los líderes clínicos y del líder metodológico del grupo, con la colaboración del resto de integrantes. La sección de alcance y objetivos fue el insumo principal para definir estos criterios, los cuales se presentan a continuación:
+Criterios de inclusión
+● GPC sobre el diagnóstico, estadificación, tratamiento y seguimiento del paciente adulto con cáncer de colon.
+● GPC publicadas en inglés o español y con acceso a texto completo.
+● GPC publicadas en los últimos 10 años (2013 - 2023).
+● GPC con estrategia de búsqueda replicable.
+Criterios de exclusión
+● GPC sobre el diagnóstico, estadificación, tratamiento y seguimiento del paciente adulto con cáncer de colon dirigidas a población menor de 18 años.
+● GPC sobre el diagnóstico, estadificación, tratamiento y seguimiento del paciente adulto con cáncer de colon dirigidas a población de gestantes.
+
+Página 70 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+● GPC sobre el diagnóstico, estadificación, tratamiento y seguimiento del paciente adulto con cáncer de colon con estrategias de búsqueda no descritas o no replicables.
+● GPC con evaluación de la calidad global menor a seis según el instrumento AGREE II o con un puntaje menor a 60 % en los dominios de rigor metodológico e independencia editorial.
+
+Tamización de las GPC identificadas en la búsqueda de la literatura
+La tamización de la evidencia se realizó mediante la revisión del título, resumen y texto completo de los documentos identificados en las búsquedas sistemáticas. Este proceso fue realizado de manera doble e independiente por los colaboradores del ECBE. En el caso de discrepancias, la decisión se tomó por un tercer integrante, líder clínico del ECBE. El proceso de tamización y selección de la evidencia, así como el número de referencias evaluadas en cada parte del proceso, se presenta en el diagrama prisma (Anexo 2).
+Evaluación de la calidad
+La calidad de las GPC seleccionadas fue evaluada con el instrumento AGREE II, una herramienta diseñada para calificar la calidad metodológica de las GPC que consta de 6 dominios, cada uno con diferentes ítems, en los que se puede obtener una puntuación entre 1 y 7, donde 1 es el nivel más bajo (calificación «muy en desacuerdo») y 7, el más alto (calificación «muy de acuerdo»). Después de evaluar todos los ítems de cada dominio, se calcula el porcentaje obtenido sobre una base de 100 % (4).
+La calidad de la evidencia se evaluó de forma doble e independiente por un representante del equipo desarrollador y el líder metodológico del ECBE.
+Decisión sobre la inclusión de GPC para el desarrollo del ECBE
+En las búsquedas iniciales, se recuperaron 6704 registros. Luego de remover duplicados (n = 558), se identificaron 6146 estudios en total, de los cuales 6063 fueron excluidos en la etapa de revisión de títulos y resúmenes. Después, de los 83 documentos en los que se realizó lectura de texto completo, 28 GPC fueron seleccionadas para evaluar su calidad con el instrumento AGREE II (4). Por último, en la etapa de evaluación de la calidad metodológica, 19 GPC fueron excluidas; las 9 GPC que cumplieron los criterios de elegibilidad y fueron finalmente incluidas para la revisión de la evidencia se presentan en la tabla 1. El proceso de búsqueda, tamización y selección de la evidencia se resume en la figura PRISMA disponible en el anexo 2. Las referencias excluidas en la etapa de evaluación de la
+Página 71 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+calidad, así como los resultados de la evaluación de la calidad metodológica de las 28 GPC, se pueden consultar en el anexo 5.
+
+Tabla 1. Guías de práctica clínica identificadas en la búsqueda de la literatura que
+
+cumplieron los criterios de elegibilidad para el desarrollo del estándar clínico basado en la
+
+evidencia
+
+Id
+
+Nombre de la GPC*
+
+Grupo desarrollador
+
+País o
+
+Idioma Año
+
+continente
+
+GPC1
+
+The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for
+the Surveillance and Survivorship Care of Patients After Curative Treatment of
+Colon and Rectal Cancer
+
+American Society of Colon and Rectal Surgeons (ASCRS)
+
+USA
+
+Inglés
+
+2021
+
+GPC2
+
+Colorectal Cancer Screening for Average-Risk Adults
+
+American Cancer Society
+
+USA
+
+Inglés
+
+2018
+
+GPC3
+
+Localised Colon Cancer:
+
+European Society for
+
+UE
+
+ESMO clinical practice
+
+Medical Oncology
+
+guidelines for diagnosis,
+
+(ESMO)
+
+treatment and follow up
+
+Inglés
+
+2020
+
+GPC4
+
+Early Detection for Colorectal Cancer: ASCO
+Resource-Stratified Guideline
+
+American Society of Clinical Oncology (ASCO)
+
+USA
+
+Inglés
+
+2019
+
+GPC5
+
+Screening for Colorectal Cancer in Asymptomatic
+Average-Risk Adults: A Guidance Statement From the American College of
+Physicians
+
+HHS Public Access
+
+USA
+
+Inglés
+
+2019
+
+Página 72 de 84
+
+GPC6
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Colorectal cancer
+
+National Institute for
+
+UK
+
+Inglés
+
+2020
+
+Health and Clinical
+
+Excellence (NICE)
+
+GPC7
+
+Colon Cancer: Diagnosis, Treatment and Follow-Up |
+KCE
+
+Belgian Health Care Knowledge Centre
+
+Belgium
+
+Inglés
+
+2014
+
+GPC8
+
+Guía de práctica clínica (GPC) para la detección temprana, diagnóstico, tratamiento, seguimiento y rehabilitación de pacientes con diagnóstico de cáncer de colon y recto
+
+Ministerio de Salud y Protección Social Colombia
+
+Colombia
+
+Español 2013
+
+GPC9
+
+Nivolumab with ipilimumab
+
+National Institute for
+
+UK
+
+Inglés
+
+2020
+
+for previously treated
+
+Health and Clinical
+
+metastatic colorectal
+
+Excellence (NICE)
+
+cancer with high
+
+microsatellite instability or
+
+mismatch repair deficiency
+
+*GPC: guía de práctica clínica. Fuente: elaboración propia.
+
+Elaboración de las tablas comparativas de la evidencia
+Para esta actividad, los expertos clínicos se reunieron y determinaron de forma conjunta los dominios de la condición de interés para el ECBE y sobre los que se debía obtener información, a partir de las GPC seleccionadas, luego de los procesos de búsqueda, tamización y selección de la evidencia. El término dominio se definió como los aspectos puntuales de la enfermedad que debían ser incluidos en el ECBE, a saber: i) cómo realizar el diagnóstico del cáncer de colon; ii) cómo se realiza una correcta estadificación; iii) los estudios adicionales antes de establecer una terapia; iv) el manejo médico y quirúrgico; v) determinar el riesgo de recurrencia; vi) terapia oncológica sistémica, y vii) el tiempo de seguimiento y sus exámenes respectivos.
+
+Página 73 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Una vez establecidos los dominios para la elaboración del diagrama de flujo, se creó una tabla comparativa de la evidencia en la cual se definió la información a incluir para cada dominio, a saber: i) puntos de control de posible utilidad; ii) recomendaciones respecto al diagnóstico, estadificación, tratamiento y seguimiento del cáncer de colon, y iii) áreas/servicios asistenciales involucrados en el proceso de atención integral de la condición. Esta actividad fue realizada por el equipo desarrollador, con el apoyo del líder metodológico, previa capacitación. La evaluación de los diferentes grados de evidencia de las recomendaciones reportadas en cada GPC se realizó con la herramienta específica establecida en cada documento. En el anexo 4, se describen los sistemas de calificación de la evidencia utilizados en la evaluación de las GPC incluidas en este ECBE.
+
+IV) Elaboración del algoritmo preliminar
+Para la elaboración del algoritmo preliminar del ECBE, el equipo desarrollador revisó conjuntamente las recomendaciones extraídas de las GPC para cada uno de los dominios de la condición planteados. Además, se realizó una reunión en la que se socializó la calidad de la evidencia y el grado de recomendación para cada una de las recomendaciones descritas por las GPC seleccionadas.
+Posteriormente, se llegó a un acuerdo sobre los especialistas requeridos para complementar el grupo colaborador con el fin de elaborar el algoritmo clínico para el diagnóstico, estadificación, tratamiento y seguimiento del paciente adulto con cáncer de colon. En este punto, se solicitó apoyo de expertos clínicos de las especialidades de nutrición, medicina del deporte y cirugía bariátrica. Finalmente, para la construcción del algoritmo clínico se realizaron reuniones virtuales y presenciales, con una duración aproximada de 1 hora cada una, en las que se discutió el curso de atención de los pacientes con la condición a estandarizar. En estas reuniones, participaron los expertos clínicos de las especialidades mencionadas y un experto metodológico con formación en la elaboración de diagramas de flujo.
+
+V) Desarrollo de un acuerdo interdisciplinario
+Para lograr el acuerdo interdisciplinario se realizaron varias actividades. Primero, se identificaron las áreas asistenciales o servicios clínicos involucrados en el proceso de atención integral de los pacientes con cáncer de colon en el HUN. Luego, la lista de áreas o servicios asistenciales identificados se presentó ante los miembros del Comité de Generación de Estándares Clínicos Basados en la Evidencia (la unidad de gobernanza del proceso), quienes se encargaron de avalar la lista y de complementarla en caso de considerarlo pertinente.
+
+Página 74 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Posteriormente, se envió una comunicación escrita a los coordinadores o jefes de estas áreas/servicios asistenciales, solicitándoles la designación oficial de un representante encargado de asistir a la reunión de consenso. Una vez designados los representantes, se les envió, mediante correo electrónico, la versión preliminar del ECBE y un formato de sugerencia de cambios, el cual se les solicitó diligenciar y enviarlo en un plazo no mayor a 5 días hábiles. Una vez transcurrido este plazo, se analizaron las sugerencias enviadas y se hicieron los cambios pertinentes. En la reunión de consenso, realizada el 22 de mayo de 2024, participaron representantes de los siguientes servicios o áreas asistenciales: anestesiología, cirugía de tórax, cirugía general, cirugía hepatobiliar y pancreática, clínica de heridas, cuidado crítico, dirección comercial, dolor y cuidado paliativo, enfermería salas de cirugías, enfermería UCI, enfermería, farmacia, gastroenterología, geriatría, ingeniería biomédica, laboratorio clínico y patología, terapia ocupacional, fisioterapia, medicina física y rehabilitación, medicina hospitalización, medicina interna, nutrición clínica, oncología, psicología, psiquiatría, radiología, seguridad del paciente, trabajo social. La información contenida en los diagramas de flujo del ECBE y los puntos de control fueron presentadas en 7 secciones (6 secciones del ECBE y una sobre los puntos de control) y se utilizó una escala tipo Likert de 1 a 9 para evaluar el grado de acuerdo con cada sección, donde 1 correspondió a «Muy en desacuerdo» con la sección y 9 a «Completamente de acuerdo». Para determinar si había consenso en las respuestas a cada una de las 8 preguntas, la escala se dividió en tres zonas de puntuación: i) de 1 a 3, ii) de 4 a 6 y iii) de 7 a 9. Utilizando como referencia el rango de la votación entre 1 y 9, se consideró que hubo «consenso total», cuando la puntuación mayor y la menor se encontraron en una sola zona de la escala, y «consenso parcial», cuando la puntuación mayor y la menor se ubicaron en dos zonas consecutivas de la escala. Por el contrario, se consideró que no hubo consenso («no consenso») cuando el rango de la puntuación obtenida en la ronda de votación se encontró en las tres zonas de la escala (ver figura 1) (16). Para cada una de las preguntas se aceptó un máximo de 3 rondas de votación; sin embargo, es importante mencionar que, como se muestra en la tabla 3, en la primera ronda de votaciones se obtuvo una puntuación unánime de 7-9 («de acuerdo» a «completamente de acuerdo» con la sección presentada) para las 8 secciones, es decir, un consenso total a favor de las recomendaciones planteadas para el diagnóstico, tratamiento y seguimiento de los pacientes con obesidad y/o pérdida de peso masiva en el HUN.
+
+Figura 1. Escala tipo Likert utilizada en la reunión de consenso Fuente: tomada y adaptada de (5).
+
+Página 75 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+A continuación, se presentan las preguntas realizadas por sección y los resultados obtenidos en la votación realizada en la reunión de consenso (ver tablas 2 y 3).
+
+Tabla 2. Secciones presentadas en la reunión de consenso y preguntas realizadas para
+
+cada sección en la ronda de votación
+
+Sección
+
+Pregunta
+
+Sección 1: Diagnóstico
+
+¿Cuál es su grado de acuerdo frente a la sección 1: Diagnóstico?
+
+Sección 2: Estadificación
+
+¿Cuál es su grado de acuerdo frente a la sección 2: Estadificación?
+
+Sección 3: Tratamiento paciente con estadio local o loco-regional
+
+¿Cuál es su grado de acuerdo frente a la sección 3: Tratamiento paciente con estadio local o loco-regional?
+
+Sección 4: Tratamiento paciente con estadio avanzado
+
+¿Cuál es su grado de acuerdo frente a la sección 4: Tratamiento paciente con estadio avanzado?
+
+Sección 5: Tratamiento oncológico
+
+¿Cuál es su grado de acuerdo frente a la sección 5: Tratamiento oncológico?
+
+Sección 6: Seguimiento
+
+¿Cuál es su grado de acuerdo frente a la sección 6: Seguimiento?
+
+Sección 7: Puntos de control
+
+¿Cuál es su grado de acuerdo frente a la sección 7: Puntos de control?
+
+Para cada una de las preguntas se recibieron las respuestas correspondientes a los representantes de los servicios de anestesiología, cirugía general, clínica de heridas, cuidado crítico, dirección comercial, dolor y cuidado paliativo, enfermería, farmacia, gastroenterología, geriatría, ingeniería biomédica, laboratorio clínico y patología, terapia ocupacional, fisioterapia, medicina física y rehabilitación, medicina hospitalización, medicina interna, nutrición clínica, oncología, psicología, psiquiatría, radiología, seguridad del paciente y trabajo social. En la tabla 3, se presentan los resultados obtenidos en la votación.
+
+Página 76 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Tabla 3. Resultados de las votaciones realizadas en la reunión de consenso # Votantes 1 a 3 4 a 6 7 a 9 Mediana
+
+1. Pregunta sección 1
+
+18
+
+0 % 0 % 100 %
+
+9
+
+2. Pregunta sección 2
+
+18
+
+0 % 0 % 100 %
+
+9
+
+3. Pregunta sección 3
+
+19
+
+0 % 0 % 100 %
+
+8
+
+4. Pregunta sección 4
+
+19
+
+0 % 0 % 100 %
+
+9
+
+5. Pregunta sección 5
+
+18
+
+0 % 0 % 100 %
+
+8
+
+6. Pregunta sección 6
+
+18
+
+0 % 0 % 100 %
+
+9
+
+7. Pregunta puntos de control
+
+18
+
+0 % 0 % 100 %
+
+9
+
+Rango 8; 9 8; 9 7; 9 7; 9 7; 9 7; 9
+7; 9
+
+VI) Elaboración del algoritmo final
+Para la elaboración de la versión final del ECBE, el equipo desarrollador se reunió y unificó las sugerencias emitidas en la reunión de consenso, y, con base en estas, modificó el algoritmo preliminar del documento, además de la información adicional referida para cada aspecto del algoritmo por ampliar. El equipo metodológico se encargó de resumir los resultados de las votaciones realizadas en la reunión de consenso y de ajustar la sección de metodología del ECBE.
+VII)Revisión y edición
+Como actividad final del proceso, se envió el documento a los participantes del consenso interdisciplinario para una última revisión y una vez aprobado, se realizó la revisión estilo y diagramación del documento; de esta forma, se obtuvo la versión final del ECBE.
+
+Página 77 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Anexo 2. Diagrama PRISMA
+
+Fuente: tomado y adaptado de (6)
+
+Página 78 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Anexo 3. Documentos adicionales Este anexo se encuentra disponible en un archivo adicional y contiene la siguiente información:
+● Lista de términos utilizados en la búsqueda ● Bitácora de búsqueda de GPC ● Evaluaciones de la calidad de las GPC seleccionadas según el instrumento AGREE II. ● Tabla comparativa de extracción de la información de las GPC seleccionadas. ● Formatos de revelación de conflictos de intereses ● Formatos de asistencia a consenso interdisciplinar
+
+Consulta el anexo aquí [https://drive.google.com/drive/u/1/folders/1PcO_3KlgfjDzmxEQNu7A_lIK0rNPkX5o]
+
+Página 79 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Anexo 4. Sistemas de calificación de la evidencia utilizados en el ECBE Escala de clasificación de la evidencia del Sistema GRADE (Grading of Recommendations, Assessment, Development and Evaluation)*
+Clasificación de la calidad de la evidencia en el sistema GRADE
+
+Calidad de la evidencia científica
+
+Diseño del estudio
+
+Disminuir la calidad si
+
+Aumentar la calidad si
+
+Alta Moderada
+Baja
+Muy baja
+
+ECA
+
+Estudios observacionales
+Otros tipos de estudio
+
+Limitación en el diseño:
+Importante (-1) Muy importante (-2) Inconsistencia (-1) Evidencia directa: Alguna (-1) incertidumbre Gran (-2) incertidumbre
+acerca de que la evidencia sea directa Datos imprecisos (-1) Sesgo de notificación: Alta probabilidad de (-1)
+
+ECA: ensayo clínico aleatorizado; RR: riesgo relativo.
+
+Asociación: • Evidencia científica de una asociación fuerte (RR > 2 o < 0.5 basado en estudios observacionales sin factores de confusión) (+1). Evidencia científica de una asociación muy fuerte (RR > 5 o < 0.2 basado en estudios sin posibilidad de sesgos) (+2) Gradiente dosis respuesta (+1) Todos los posibles factores de confusión podrían haber reducido el efecto observado
+(+1)
+
+Página 80 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Implicaciones de los grados de recomendación del sistema GRADE Implicaciones de una recomendación fuerte
+
+Pacientes
+
+Clínicos
+
+Gestores/planificadores
+
+La inmensa mayoría de las personas estarían de acuerdo con la acción
+recomendada y únicamente una pequeña parte no lo estarían.
+
+La mayoría de los pacientes deberían recibir
+la intervención recomendada.
+
+La recomendación puede ser adoptada como política
+sanitaria en la mayoría de las situaciones.
+
+Implicaciones de una recomendación débil
+
+La mayoría de las personas estarían de acuerdo con la acción recomendada, pero un número importante de
+ellas no.
+
+Reconoce que diferentes opciones serán apropiadas para diferentes pacientes y que el profesional sanitario
+tiene que ayudar a cada paciente a llegar a la
+decisión más consistente con sus valores y preferencias.
+
+Existe necesidad de un debate importante y la participación de
+los grupos de interés.
+
+✓ Recomendación basada en la experiencia clínica y el consenso del grupo elaborador
+En ocasiones, el grupo desarrollador se percata de que existe un aspecto práctico importante que es necesario destacar y para el cual, probablemente, no hay ningún tipo de evidencia científica que lo soporte. En general, estos casos están relacionados con
+algún aspecto del tratamiento considerado como buena práctica clínica y que nadie cuestionaría normalmente y, por tanto, son valorados como puntos de “buena práctica
+clínica”. Estos puntos no son una alternativa a las recomendaciones basadas en la evidencia científica, sino que deben considerarse solo cuando no haya otra forma de
+destacar dicho aspecto.
+Fuente: tomado y adaptado de (7).
+Página 81 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+*Herramienta utilizada para la evaluación de la evidencia de las GPC 1, 2, 4, 5, 6, 7 y 8 (8–12).
+
+Sistema de clasificación de la calidad de la evidencia y fuerza de las recomendaciones de Oxford Centre for Evidence-Based Medicine (CEBM).
+
+Niveles de evidencia
+
+Explicación
+
+I
+
+Evidencia obtenida de revisiones sistemáticas, estudios de
+
+pruebas diagnósticas de alta calidad, estudios prospectivos, o
+
+ensayos aleatorizados controlados
+
+II
+
+Evidencia obtenida de revisiones sistemáticas, estudios de
+
+pruebas diagnósticas de baja calidad, estudios prospectivos o
+
+ensayos controlados aleatorizados (p. ej., criterios diagnósticos y
+
+estándares de referencia más débiles, aleatorización inapropiada,
+
+estudios sin cegamiento, seguimiento <80%)
+
+III
+
+Estudios de casos y controles o retrospectivos
+
+IV
+
+Series de casos
+
+V
+
+Opinión de expertos
+
+Grados de recomendación
+
+Descripción
+
+A
+
+Estudios consistentes de nivel I
+
+B
+
+Evidencia de nivel II o III o extrapolaciones de estudios de nivel I
+
+C
+
+Evidencia de nivel IV o extrapolaciones de estudios de nivel II o III
+
+D
+
+Evidencia de nivel V o estudios de cualquier nivel
+
+preocupantemente inconsistentes o no concluyentes
+
+Fuente: tomado y adaptado de Oxford Centre for Evidence-based Medicine (CEBM) (13). *Herramienta utilizada para la evaluación de la evidencia de la GPC 3 (14,15).
+
+Página 82 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Referencias
+1. Vallejo-Ortega MT, Sánchez-Pedraza R, Feliciano-Alfonso JE, García-Pérez MJ, Gutiérrez-Sepúlveda MP, Merchán-Chaverra RA. Manual Protocolos - Instituto Nacional de Cancerología [Internet]. [citado el 23 de septiembre de 2024]. Disponible en: https://www.cancer.gov.co/conozca-sobre-cancer-1/publicaciones/manualprotocolos
+2. Harrison MB, Graham ID, van den Hoek J, Dogherty EJ, Carley ME, Angus V. Guideline adaptation and implementation planning: a prospective observational study. Implement Sci IS. el 8 de mayo de 2013;8:49.
+3. Ministerio de la Protección Social. Guía metodológica para la elaboración de Guías de Atención Integral en el Sistema General de Seguridad Social en Salud colombiano. Bogotá D. C.: MinProtección; 2010.
+4. Brouwers MC, Kerkvliet K, Spithoff K, Consortium ANS. The AGREE Reporting Checklist: a tool to improve reporting of clinical practice guidelines. BMJ. el 8 de marzo de 2016;352:i1152.
+5. Sánchez Pedraza R, Jaramillo González LE. Metodología de calificación y resumen de las opiniones dentro de consensos formales. Rev Colomb Psiquiatr. diciembre de 2009;38(4):777–86.
+6. Moher D, Liberati A, Tetzlaff J, Altman DG, PRISMA Group. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. PLoS Med. el 21 de julio de 2009;6(7):e1000097.
+7. Sistema GRADE: clasificación de la calidad de la evidencia y graduación de la fuerza de la recomendación | Cirugía Española [Internet]. [citado el 24 de septiembre de 2024]. Disponible en: https://www.elsevier.es/es-revista-cirugia-espanola-36-articulosistemagrade-clasificacion-calidad-evidencia-S0009739X13003394
+8. Wolf AMD, Fontham ETH, Church TR, Flowers CR, Guerra CE, LaMonte SJ, et al. Colorectal cancer screening for average-risk adults: 2018 guideline update from the American Cancer Society. CA Cancer J Clin. 2018;68(4):250–81.
+9. Overview | Colorectal cancer | Guidance | NICE [Internet]. NICE; 2020 [citado el 24 de marzo de 2023]. Disponible en: https://www.nice.org.uk/guidance/ng151
+10. Davis BR, Valente MA, Goldberg JE, Lightner AL, Feingold DL, Paquette IM, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for Ostomy Surgery. Dis Colon Rectum. el 1 de octubre de 2022;65(10):1173–90.
+11. Peeters M, Leroy R, Robays J, Veereman G, Bielen D, Ceelen W, et al. Colon Cancer: Diagnosis, Treatment and Follow-Up. 2014.
+12. Carrera J, Garcia R. Guía de Práctica Clínica (GPC) para la detección temprana, diagnóstico, tratamiento, seguimiento y rehabilitación de pacientes con diagnóstico de cáncer de colon y recto – IETS [Internet]. 2013 [citado el 24 de marzo de 2023]. Disponible en: https://www.iets.org.co/2017/01/01/guia-de-practica-clinica-gpc-para-ladeteccion-temprana-diagnostico-tratamiento-seguimiento-y-rehabilitacion-depacientes-con-diagnostico-de-cancer-de-colon-y-recto/
+13. Oxford Centre for Evidence-Based Medicine: Levels of Evidence (March 2009) [Internet]. [citado el 24 de septiembre de 2024]. Disponible en: https://www.cebm.ox.ac.uk/resources/levels-of-evidence/oxford-centre-for-evidencebased-medicine-levels-of-evidence-march-2009
+14. Argilés G, Tabernero J, Labianca R, Hochhauser D, Salazar R, Iveson T, et al.
+Página 83 de 84
+
+DIAGNÓSTICO, ESTADIFICACIÓN, TRATAMIENTO Y SEGUIMIENTO DEL PACIENTE ADULTO CON CÁNCER DE COLON EN EL HOSPITAL
+UNIVERSITARIO NACIONAL DE COLOMBIA
+ESTÁNDAR CLÍNICO BASADO EN LA EVIDENCIA
+
+Código: IN-EC-31
+
+Vigente desde: 09-10-2024
+
+Versión: 001
+
+Localised colon cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol Off J Eur Soc Med Oncol. octubre de 2020;31(10):1291– 305. 15. Cervantes A, Adam R, Roselló S, Arnold D, Normanno N, Taïeb J, et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Ann Oncol Off J Eur Soc Med Oncol. enero de 2023;34(1):10–32.
+
+Página 84 de 84

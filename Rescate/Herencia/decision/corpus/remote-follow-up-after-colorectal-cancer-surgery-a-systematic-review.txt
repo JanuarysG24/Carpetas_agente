@@ -1,0 +1,487 @@
+ANZ Journal of Surgery
+
+REVIEW ARTICLE OPEN ACCESS
+
+Remote Follow-­Up After Colorectal Cancer Surgery: A Systematic Review
+Gajan Srikumar1,2   | Carys Finlayson1  | Ian Bissett2   | Christopher Harmston1,2
+1Department of General Surgery, Te Whatu Ora – Te Tai Tokerau, Whangārei, New Zealand  |  2Faculty of Medical and Health Sciences, The University of Auckland, Auckland, New Zealand
+Correspondence: Gajan Srikumar (gajan.srikumar@gmail.com)
+Received: 12 February 2025  |  Revised: 21 March 2025  |  Accepted: 7 April 2025
+Keywords: colorectal cancer | follow-­up | remote | telehealth
+ABSTRACT Background: Remote consultations are increasingly being utilized in colorectal cancer follow-u­ p, especially since the COVID-­19 pandemic, with benefits continuing beyond the pandemic. It is not clear how remote modalities affect patient satisfaction, quality of life (QoL) and safety of colorectal cancer follow-u­ p. Objectives: To investigate the impact of remote follow-­up on patient satisfaction, QoL, clinician satisfaction, adherence to investigations, readmission rates, recurrence rates, and mortality rates for colorectal cancer. Methods: A systematic review was performed using three electronic databases: MEDLINE, EMBASE, and Cochrane Central Register of Controlled Trials, along with grey literature. Eligible studies included remote techniques such as telephone, video, or patient-­initiated follow-­up (PIFU) compared with standard face-­to-­face follow-u­ p in patients who have undergone colorectal cancer resection. Two independent reviewers screened studies and assessed the risk of bias. Results: A total of 4417 records were identified with seven studies included. Six studies showed high levels of patient satisfaction in remote follow-­up, with two studies showing significantly better satisfaction than standard follow-­up. Two studies evaluated QoL, with one showing significantly better QoL in the remote follow-u­ p group than the standard, and the other study showing comparable levels. Safety outcomes were minimally reported, but there were no adverse outcomes. There was at least moderate risk of bias in the four nonrandomized interventions due to confounding from patient selection into intervention groups. Conclusions: Remote follow-u­ p in colorectal cancer appears to be comparable to face-­to-­face follow-­up with high levels of patient satisfaction and QoL. While adherence to follow-­up investigations was not compromised, the evidence on oncological impact is limited, and further studies on mortality and recurrence rates are required to ensure overall safety.
+
+1   |   Background
+Remote consultations in clinical cancer practice are a relatively novel innovation that has now been instituted worldwide. Modalities include telephone, video, and patient-­initiated follow-u­ p (PIFU). In PIFU, patients do not have scheduled follow-­up visits but still have regular follow-­up investigations organized by their healthcare provider and can contact their provider for an appointment if they develop symptoms. Since the onset of COVID-­19, the uptake of telehealth and virtual follow-­ups has skyrocketed,
+
+providing many benefits to patients [1–3]. Benefits include the convenience of accessing a specialist from home or work, minimizing travel times and costs, minimizing time away from work and time in the waiting room, and facilitating easier consultations for disabled patients or those less mobile. Over 40% of the world's population lives rurally [4], therefore remote consultations may reduce geographical inequities in accessing healthcare. In addition, the use of remote follow-u­ p can reduce the impact on hospital service use, allowing increased capacity for new patients on the waiting list to be seen in a timelier manner [5].
+
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.
+© 2025 The Author(s). ANZ Journal of Surgery published by John Wiley & Sons Australia, Ltd on behalf of Royal Australasian College of Surgeons.
+
+ANZ Journal of Surgery, 2025; 95:2273–2282 https://doi.org/10.1111/ans.70141
+
+2273
+
+Colorectal cancer has a significant burden on healthcare, being the third most common cancer in the world [6]. There are patient needs specific to colorectal cancer that may not pertain to other cancer types, such as stoma care, body image, and sexual function, which may have a significant impact on quality of life (QoL) and psychological morbidity [7–9]. It is unclear what impact remote follow-u­ p in colorectal cancer may have on patient satisfaction and QoL.
+A preliminary scoping literature review identified several studies, including randomized trials, that have examined the use of virtual follow-u­ p in colorectal cancer [10–13]. Patient satisfaction and QoL are the main outcomes evaluated, with either equivocal or slightly favorable outcomes for remote follow-­up. The clinician perspective has been generally in favor of remote follow-u­ p. The safety of this intervention has been evaluated to a varying degree in studies, with outcomes that include adherence to follow-­up investigations, unplanned readmissions, recurrence rate, and mortality. From the limited reports, there is no negative impact on safety.
+General literature reviews have examined remote follow-u­ p in colorectal cancer [14, 15], and systematic reviews of remote follow-­up in cancer have been published [16, 17], however currently, there is no systematic review that has evaluated the use of remote follow-­up in colorectal cancer. The aim of this review was to determine whether remote follow-u­ p is equally acceptable as traditional face-­to-f­ace outpatient follow-­up for patients who have undergone colorectal cancer resection. The primary outcome was patient satisfaction. Secondary outcomes included QoL, clinician satisfaction, and safety aspects such as adherence to investigations, readmission rate, recurrence rates, and mortality rates.
+2   |   Methods
+This systematic review was completed using the Preferred Reporting Items for Systematic Reviews and Meta-­Analyses (PRISMA) guidelines [18]. A protocol was registered with PROSPERO (CRD42024563412) [19].
+2.1   |   Search Strategy
+Databases searched included PubMed, Embase, and Cochrane Central Register of Controlled Trials.
+Records were identified through trials registries: https://​www.​ clini​caltr​ials.​gov, https://​trial​search.​who.​int, https://​www.​clini​ caltr​ialsr​egist​er.​eu, and https://​www.​anzctr.​org.​au.
+Grey literature was searched using conference proceedings, Google, Google Scholar, and reference lists of relevant articles. All databases were searched from inception until July 2024.
+Search terms included the following: cancer, colorectal, bowel, colon, rectal, remote, telephone, video, virtual, nurse-­led, follow-u­ p. There were no filters or limits, and there was no restriction on date of publication.
+2274
+
+2.1.1   |   Inclusion Criteria
+– Population: ○ Adults over the age of 16 with colorectal cancer. ○ Postoperative surgical resection for nonmetastatic colorectal cancer.
+– Intervention: ○ Participants were involved in remote follow-­up methods such as phone call, video conference, or PIFU.
+– Comparison: ○ Traditional outpatient face-­to-­face follow-­up.
+– Outcomes: ○ Patient satisfaction, QoL, clinician satisfaction, adherence to investigations, readmission rate, recurrence rate, and mortality rate.
+– Studies: ○ Randomized controlled trials (RCT) and nonrandomized intervention trials, including retrospective studies. ○ English articles or translation available.
+2.1.2   |   Exclusion Criteria
+– Review articles, qualitative studies, meta-­analyses, case studies.
+2.1.3   |   Study Selection
+The titles and abstracts of the initial search results were screened independently by G.S. and C.F. Relevant articles underwent independent full text review. Any discrepancies were discussed and resolved by the senior author C.H.
+2.2   |   Data Extraction and Synthesis
+Data were collected from relevant articles using a spreadsheet. Information collected included author, journal, publication year, outcomes assessed, study design, sample size, and method of remote follow-u­ p. Clinical outcomes included patient satisfaction, QoL, clinician satisfaction, adherence to follow-u­ p investigations, recurrence rates, readmission rates, and mortality.
+Dichotomous outcomes and rates were described using frequency and percentages. Continuous outcomes were described as mean and 95% confidence intervals (CI), or median and interquartile ranges (IQR). Meta-­analysis was not possible due to significant heterogeneity of interventions and outcomes. The results have been described through a qualitative synthesis.
+2.3   |   Quality Assessment
+The risk of bias was assessed using the RoB 2 tool [20] in RCTs and ROBINS-­I [21] for nonrandomized trials. This was carried
+ANZ Journal of Surgery, 2025
+
+out by two independent reviewers, G.S. and C.F., with consensus discussion.
+3   |   Results
+A total of 4417 records from databases and registries were identified through the search strategy, of which five met our inclusion criteria, while two additional reports were identified through a grey literature search (Figure 1). There were three randomized controlled studies and four nonrandomized interventional studies. See Table 1 for a summary of individual studies.
+3.1   |   Quality Appraisal
+The main risk of bias was due to confounding from selection of patients into intervention and comparison groups in the nonrandomized studies. The different cohorts of patients would likely have impacted the outcomes due to various baseline, clinical, and psychosocial factors. The RCTs were judged low risk of bias [22, 23] and some concerns [13] overall. See Table 2 for a summary of the risk of bias.
+
+3.2   |   Patient Satisfaction
+Six studies included data on patient satisfaction; however, there was high variability in the tools utilized. Three studies utilized validated 5-­point Likert scales for outcome measures [12, 13, 22].
+One RCT of 336 patients evaluating PIFU utilized Likert scales, dichotomised for analysis into “sufficient/almost sufficient” versus “not sufficient/no information” for the first three items, and “high/some degree” versus “insufficient/no help” for the last two items. The intervention group had approximately 90% of participants scoring highly for satisfaction in all five questions, compared to approximately 80% in the control group (p-­values were 0.04 or less for all five questions) [22].
+Another RCT investigating 25 patients undergoing telephone follow-u­p compared to 25 undergoing hospital follow-­up reported a higher mean score for satisfaction with the most recent appointment in the intervention group (mean: 9.8, 95% CI: 9.6–10.0, Cohen's d = 0.45) compared to the control group (mean: 9.5, 95% CI: 9.2–9.8). The unadjusted score was not significant (p = 0.104), when adjusted for baseline scores, the intervention group had higher satisfaction (p = 0.029) [13].
+
+Identification
+
+Total records: n = 4,417
+Records identified from: Databases (n = 3,743) • MEDLINE (n= 1,302) • EMBASE (n = 2,030) • Cochrane: (n = 411) Registries (n = 674)
+
+Records removed before screening:
+Duplicate records removed (n = 957)
+
+Reports added from grey literature screen (n = 2)
+
+Records screened (n = 3,460)
+
+Records excluded (n = 3,254)
+
+Screening
+
+Included
+
+Reports assessed for eligibility (n = 206)
+Total studies included in review (n = 7)
+FIGURE 1    |    PRISMA flow diagram. ANZ Journal of Surgery, 2025
+
+Reports excluded: (n = 201) • Unrelated to oncological follow-up (n = 165) • Not remote follow-up (n = 9) • Intervention was a supplement to usual follow-up (n = 21) • Unable to obtain data (n = 6) • No comparison group: (n = 3) • No relevant outcomes reported: (n = 1) • Foreign language: (n = 1)
+
+2275
+
+ANZ Journal of Surgery, 2025
+
+2276
+
+TABLE 1    |    Summary of included studies.
+
+Author, year, country
+Hovdenak et al., 2021 [22], Denmark
+
+Intervention
+Patient-­initiated follow-­up (education and self-referral to nurse)
+
+Beaver et al., 2012 [13], UK
+
+Nurse-­led telephone follow-­up
+
+Study design RCT
+1-­year follow-­up
+RCT Variable duration
+of follow-­up— up to 5 years
+
+Participants
+≥ 18 years, postoperative rectal cancer
+< stage IV n = 336
+(168 intervention, 168 control)
+Completion of colorectal cancer
+treatment n = 65 (32 intervention, 33 standard)
+
+Relevant outcomes • Patient satisfaction • Readmission rate
+• Patient satisfaction Psychological morbidity Adherence to investigations
+• Readmission rate • Recurrence rate • Mortality rate
+
+Key findings • Intervention group had
+significantly higher patient satisfaction • No difference in total number of unplanned readmissions.
+• Telephone follow-u­ p had higher patient satisfaction and were more likely to raise concerns.
+
+Ohlsson et al., 1995 [23], Sweden
+Batehup et al., 2017 [24], UK
+
+Patient-­initiated follow-u­ p (no clinical follow-­up, symptomatic only + regular fecal Hb)
+Patient-­ initiated follow-u­ p (education and
+self-­referral to nurse)
+
+RCT 5-­year follow-­up
+Prospective nonrandomized
+intervention 1-­year follow-­up,
+however only 8 months analyzed.
+
+3 months postoperative colorectal cancer
+n = 107 (54 intervention, 53 control)
+≥ 18 years, completion of colorectal cancer
+treatment n = 251
+(84 intervention, 167 standard)
+
+• Recurrence rate • Mortality rate
+• Patient satisfaction • Quality of life
+Readmission rate
+
+• No difference in recurrence or mortality rates
+• Patients were satisfied with follow-u­ p regardless of model, however there was higher acceptability in the intervention group.
+• Intervention group had better quality of life
+
+Weaknesses
+• Significant crossover/ noncompliance with protocol
+• Significant number of patients lost to follow-­up (15/65; 23%)—missing data
+• Confounding from nurse practitioner delivering intervention
+• Small sample size
+• Small sample size (not powered to detect difference)
+• Patient characteristics confounds selection into intervention
+• Significant crossover of patients at varying timepoints from standard to intervention groups
+• Short follow-­up and missing data
+(Continues)
+
+2277
+
+ANZ Journal of Surgery, 2025
+
+TABLE 1    |    (Continued)
+
+Author, year, country
+Barsom et al., 2021 [12], Netherlands
+
+Intervention Video consultation
+
+Pakarinen et al., 2022 [26], Finland
+
+Patient-­initiated follow-u­ p with SMS based surveillance
+
+Study design Prospective, nonrandomized intervention No follow-­up
+Retrospective, nonrandomized
+intervention 2-­year follow-­up
+
+Participants
+> 18 years, postoperative colorectal cancer
+n = 50 (21 intervention, 29 standard)
+Postoperative colorectal cancer
+< stage IV n = 52 (22 intervention, 30 standard)
+
+Relevant outcomes • Patient satisfaction • Clinician satisfaction
+• Patient satisfaction • Clinician satisfaction • Recurrence rate
+
+Gilmartin et al.,2019 [25], UK
+
+Nurse-­led telephone follow-­up
+
+Retrospective nonrandomized
+intervention 2-­year follow-­up
+
+> 18 years, postoperative colorectal cancer
+n = 114 (52 intervention, 62 standard)
+
+• Patient satisfaction • Adherence to
+investigations • Recurrence rate
+
+Abbreviations: CEA, carcinoembryonic antigen; n, total number of participants in the study; RCT, randomized controlled trial.
+
+Key findings • High level of patient and surgeon
+satisfaction with video follow-u­ p
+• Fewer hospital contacts in intervention group (median 3 vs. 5, p < 0.0001)
+• High patient satisfaction with intervention
+• No recurrences
+• No difference in patient satisfaction • Higher adherence to CEA
+measurements in intervention group
+
+Weaknesses
+• Patient characteristics confounds selection into intervention
+• Small sample size • No follow-­up
+• No comparison of patient satisfaction with standard surveillance
+• Patient satisfaction was measured using only yes/no options
+• Patient characteristics confounds selection into intervention
+• Patient satisfaction was measured using only yes/no options
+• Unclear intervention allocation, likely confounding
+
+2278
+
+TABLE 2    |    Quality assessment for all included studies using RoB-­2 and ROBINS-­I.
+
+RoB-­2
+Hovdenak et al., 2021 [22]
+Beaver et al., 2012 [13]
+Ohlsson et al., 1995 [23]
+
+Randomization process Low
+Low
+Some concerns
+
+Deviations due to assignment to intervention Some concerns
+Some concerns
+Low
+
+Deviations due to adhering to intervention Some concerns
+Some concerns
+Low
+
+Missing data Low
+Some concerns
+Low
+
+Measurement of outcome Low
+Low
+Low
+
+Selection of reported result
+Low
+Low
+Low
+
+Overall risk of bias Low
+Some concerns
+Low
+
+ROBINS-­I
+
+Confounding
+
+Selection of participants into the study
+
+Classification of interventions
+
+Deviations from intended interventions
+
+Missing data
+
+Measurement of outcomes
+
+Batehup et al., 2017
+
+Serious
+
+Moderate
+
+Low
+
+[24]
+
+Moderate
+
+Moderate
+
+Low
+
+Barsom et al., 2021
+
+Moderate
+
+Low
+
+Low
+
+[12]
+
+Low
+
+Low
+
+Moderate
+
+Pakarinen et al., 2022
+
+Moderate
+
+Low
+
+Low
+
+[26]
+
+Low
+
+Low
+
+Low
+
+Gilmartin et al., 2019
+
+Moderate
+
+Low
+
+Low
+
+[25]
+
+Low
+
+Low
+
+Low
+
+Abbreviations: RoB-­2, Revised Cochrane risk-­of-­bias tool for randomized trials; ROBINS-­I, The Risk Of Bias In Nonrandomized Studies of Interventions assessment tool.
+
+Selection of reported
+result Low
+Low
+Low
+Low
+
+Overall risk of
+bias Serious
+Moderate
+Moderate
+Moderate
+
+ANZ Journal of Surgery, 2025
+
+The third validated Likert scale was a 10-­item Multi-­Source Feedback tool used in a nonrandomized study comparing video consultations with face-­to-­face follow-u­ p. There was a high level of satisfaction in both methods, with differences observed in favor of video consultations but not statistically significant [12].
+One study of PIFU designed a tool specifically for the study, which included rating scores from 0 to 100 for quality of care, a five-­point Likert scale for expectations, and yes/no/unsure for acceptability. It showed no significant difference in patients' views of quality and expectations; however, it found that PIFU had higher acceptability (97.3%, n = 36) than standard follow-­up (75%, n = 24; p = 0.01) [24].
+The remaining two studies utilized only yes/no questions in the measurement of patient satisfaction. One study showed high levels in both intervention (100%, n = 52) and control groups (98%, n = 61) [25]. The other study only measured patient satisfaction in the intervention group, with 100% responding yes to satisfaction with the surveillance method. Only two out of 22 patients desired more personal contact with a health professional [26].
+
+of computed tomography (CT) scans requested for the intervention group (10/25) compared to control (14/25) although this was not significant. There was no difference in the frequency of blood tests or colonoscopies [13].
+The other study of telephone follow-­up reported more 6-­monthly carcinoembryonic antigen (CEA) blood tests in the intervention group (88.5%, n = 46) compared to the control (57.6%, n = 59, p < 0.001). There were similar proportions of CT scans (100% vs. 91.4%, p = 0.69) and colonoscopies (93.9% vs. 93.6%, p = 1.00) completed in both groups [13, 25]. See Table 3 for a comparison between studies.
+3.6   |   Readmission Rate
+Three studies reported on acute hospital utilization (see Table 3). One RCT reported 19 (11%) patients were readmitted at least once in the intervention group compared to 27 (16%) in the control group (p = 0.30) [13]. Another study had three (12%) patients from the intervention group readmitted compared to one (4%) from the standard group [21]. The third study did not show data but reported no significant difference in hospital utilization [23].
+
+3.3   |   Quality of Life
+Two studies reported QoL or psychological morbidity [13, 24]. Health-­related QoL was measured in one study of PIFU using the validated EuroQol Group questionnaire (EQ-­5D-­5L) and Functional Assessment of Cancer Therapy (FACT) questionnaires. QoL was statistically significantly better for the intervention group compared to the control group after 8 months (see Table S1).
+The other study, an RCT of telephone follow-­up, measured psychological morbidity using the validated State–Trait Anxiety Inventory (STAI) and the General Health Questionnaire (GHQ). While mean scores for STAI were higher in the control group (Cohen's d = 0.66), the difference was not significant (p = 0.297). There was no difference in GHQ scores between intervention and standard groups (p = 0.626) (see Table S1).
+3.4   |   Clinician Satisfaction
+Two studies reported clinician satisfaction. One study utilized a 10-­item questionnaire with five 5-­point Likert scales, four yes/ no questions, and one open-­ended question, and found a higher level of health provider satisfaction with video consultation (median: 9, IQR: 9–10) compared to standard face-­to-­face follow-­up (median: 8, IQR: 7–8) [12]. The other study only measured clinician satisfaction for the intervention utilizing interviews and reported health personnel were satisfied; however, no measures were reported [12, 26].
+3.5   |   Adherence to Follow-­Up Investigations
+Two studies measured the adherence to follow-u­p investigations. One RCT of telephone follow-­up found a reduced number
+ANZ Journal of Surgery, 2025
+
+3.7   |   Recurrence Rate
+Four studies reported recurrence rates for both intervention and standard follow-­up groups (see Table 3). One RCT reported similar 5-­year recurrences in each group with 18 (33%) in the intervention group and 17 (32%) in control [22]. Another RCT had one recurrence in the intervention group (4%, n = 25), compared to two in the standard group (8%, n = 25) [13]. The mean follow-u­ p time was not specified; however, the study stated their hospital's usual colorectal cancer surveillance follow-­up time is 5 years. Another study reported a recurrence rate of 7.7% (n = 4/52) in the intervention group over a median follow-u­ p of 26.5 months compared to 17.7% (n = 11/62) over a median follow-­up of 15 months in the standard group, but this difference was not significant (p = 0.10) [25]. The fourth study reported no recurrences in either group over 2 years of follow-­up [24].
+3.8   |   Mortality
+Two studies reported mortality data for each group (see Table 3) [13, 23]. One study had 18 (33%) deaths out of 54 patients after 5 years of follow-­up compared with the control group, which had 13 (25%) deaths out of 53 patients (p = 0.264) [22]. The other study had one (4%) death in the standard follow-u­ p group of 25 patients and none in the intervention group [13].
+4   |   Discussion
+This is the first systematic review examining the impact of remote follow-u­ p strategies on various patient and clinical outcomes specifically for patients who have undergone colorectal cancer surgery. A total of seven studies, including three RCTs, were included. Modalities included video, nurse-­led telephone, and PIFU. Remote follow-­up is a feasible alternative to
+2279
+
+TABLE 3    |    Clinical and oncological outcomes in remote follow-­up.
+
+Author, year Hovdenak et al., 2021 [22] Beaver et al., 2012 [13]
+Ohlsson et al., 1995 [23]
+
+Adherence to investigations
+No difference in blood tests or colonoscopies
+CT scans: 10/24 remote, 14/25 control
+
+Readmission rate
+19/168 remote, 27/168 control
+3/25 remote, 1/25 control
+
+Batehup et al., 2017 [24]
+
+No difference in hospital utilization
+
+Pakarinen et al., 2022 [26]
+
+Gilmartin et al., 2019 [25]
+
+CEA: 46/52 remote, 34/59 control
+CT scans: 49/49 remote, 32/35 control Colonoscopy: 46/49 remote, 44/47 control
+
+Abbreviations: CEA, carcinoembryonic antigen; CT, computed tomography.
+
+Recurrence rate 1/25 remote, 2/25 control
+18/54 remote, 17/53 control
+0/22 remote, 0/30 control 4/52 remote, 11/62 control
+
+Mortality
+0/25 remote, 1/25 control
+18/54 remote, 13/53 control
+
+traditional face-­to-­face follow-­up, with high levels of patient satisfaction and QoL; however, there was limited evidence on oncological outcomes to ensure its overall safety.
+4.1   |   Patient Satisfaction
+Six studies measured patient satisfaction, with diverse outcome measures. Three studies used validated Likert tools; however, there was significant variation between these, limiting the ability to perform a meta-­analysis. All six studies showed high levels of patient satisfaction in both intervention and comparison groups, with two RCTs showing statistically significantly higher levels of patient satisfaction in the intervention groups. There is confounding from patient selection into the intervention group in the four nonrandomized studies, likely causing bias to favor the intervention group. Another source of confounding and heterogeneity is the use of nurse-­led follow-u­ p. Most included studies have used nurse-­led follow-­up in the intervention group, with evidence showing benefits in patient satisfaction from nurse-­led follow-­up [27, 28]. Audits of remote follow-u­ p in colorectal cancer patients, not included in the review due to lack of comparison group, have shown high levels of patient satisfaction [11, 29]. A systematic review by Xiao et al. assessed different types of cancer patients undergoing telehealth follow-­up, showing high levels of patient satisfaction among patients with no difference between groups [16]. Similarly, a systematic review by Newton et al. evaluating PIFU in oncology patients, which included breast, prostate, and colorectal patients, also showed no significant difference in patient satisfaction [17]. These findings support the growing evidence suggesting that alternative follow-u­ p strategies are well received by cancer patients. However, there is a need to standardize measurement tools for future research to enable comparisons and meta-­analysis to be performed.
+2280
+
+4.2   |   Quality of Life
+Two studies evaluated QoL, with one reporting statistically significantly better health-­related QoL using validated questionnaires (EQ-­5D-­5L and FACT), while the other study found no significant difference in psychological morbidity using the STAI and GHQ. These findings are similar to other studies on QoL and suggest that remote follow-­up patients have no significant reduction in QoL [10, 29]. The systematic reviews by Xiao et al. and Newton et al. showed comparable QoL in both intervention and comparison groups [16, 17]. This is promising for implementing remote follow-u­ p at institutions established in face-­to-face follow-u­ p where concerns regarding impaired patient QoL could be alleviated.
+4.3   |   Clinician Satisfaction
+There is limited research on clinician satisfaction, with our review only having two studies assessing this. One study showed higher clinician satisfaction with video consultations compared to standard face-­to-­face follow-­up, which is similar to literature on other cancer patients. An RCT evaluating video compared to standard follow-­up after prostatectomy showed equally high clinician satisfaction [30]. A survey of 202 multidisciplinary cancer care clinicians found that the majority were satisfied with telehealth, with many wanting to increase its use [31].
+4.4   |   Adherence to Follow-­Up
+The two studies reporting on adherence to investigations found a similar number of CT scans and colonoscopies requested in both groups. However, one study reported significantly more
+ANZ Journal of Surgery, 2025
+
+CEA blood tests requested in the nurse-­led telephone group compared to standard follow-­up. The authors reported that this may be due to the variability of junior and senior clinicians seeing patients face to face and possibly forgetting to provide a blood test form. This contrasts with nurse specialists conducting telephone appointments who are well-­versed in the follow-­up protocol. In addition, the telephone group had their blood form sent 2 weeks prior to their appointment, which provided an additional reminder [25].
+4.5   |   Readmissions, Recurrence, and Mortality
+There were no significant differences in hospital readmission rates, recurrence rates, or mortality rates from the studies included in the review. However, there was limited data, and the studies were not adequately powered to detect a difference. The FURCA study has only released 1-­year analyses; therefore, more data may be available on these outcomes soon. A Cochrane meta-­analysis by Jeffrey et al. evaluated intensive follow-­up versus minimal follow-u­ p in colorectal cancer with findings of no significant difference in overall survival [32]. However, more data specifically evaluating the oncological safety of remote follow-u­ p is needed.
+4.6   |   Limitations
+This review was limited by the small number of studies and only 975 participants. Larger interventional studies in Europe are currently underway and recruiting participants evaluating PIFU, such as the RESPONSE and PROMISE trials [33, 34], which will add to the current evidence of remote follow-­up in colorectal cancer. In addition, this review had significant variability of interventions and outcome measures, limiting the ability to perform a meta-a­ nalysis. In contrast to other systematic reviews of remote follow-u­ p [16, 17], the assessment of only colorectal cancer patients reduces the variability of comparisons due to disease factors. Due to patient self-­selection into intervention and comparison groups, confounding is a major factor in the four nonrandomized intervention studies. However, in real-­world clinical scenarios, it is feasible for patients to self-­select their modality of follow-­up, as has been done in the nonrandomized studies.
+5   |   Conclusion
+This systematic review suggests that remote follow-u­ p after colorectal cancer surgery is comparable to face-­to-­face follow-u­ p, with a high level of patient satisfaction and QoL. While adherence to investigations was not compromised, the evidence on oncological outcomes is limited. Further studies of mortality and recurrence rates are required to ensure the overall safety of this follow-­up strategy.
+Acknowledgements
+Open access publishing facilitated by The University of Auckland, as part of the Wiley - The University of Auckland agreement via the Council of Australian University Librarians.
+
+Conflicts of Interest
+The authors declare no conflicts of interest.
+References
+1. A. Murphy, A. Kirby, A. Lawlor, F. J. Drummond, and C. Heavin, “Mitigating the Impact of the COVID-­19 Pandemic on Adult Cancer Patients Through Telehealth Adoption: A Systematic Review,” Sensors (Basel) 22 (2022): 3598.
+2. S. Carrillo de Albornoz, K.-­L. Sia, and A. Harris, “The Effectiveness of Teleconsultations in Primary Care: Systematic Review,” Family Practice 39 (2022): 168–182.
+3. R. L. Gonçalves, A. S. Pagano, Z. S. N. Reis, et al., “Usability of Telehealth Systems for Noncommunicable Diseases in Primary Care From the COVID-­19 Pandemic Onward: Systematic Review,” Journal of Medical Internet Research 25 (2023): e44209.
+4. United Nations, Department of Economic and Social Affairs, Population Division, “World Urbanization Prospects: The 2018 Revision, Online Edition,” accessed June 27, 2024, https://​popul​ation.​un.​org/​wup/​ Downl​oad/​.
+5. G. M. Peters, L. Kooij, A. Lenferink, W. H. van Harten, and C. J. M. Doggen, “The Effect of Telehealth on Hospital Services Use: Systematic Review and Meta-­Analysis,” Journal of Medical Internet Research 23 (2021): e25195.
+6. E. Morgan, M. Arnold, A. Gini, et al., “Global Burden of Colorectal Cancer in 2020 and 2040: Incidence and Mortality Estimates from GLOBOCAN,” Gut 72 (2023): 338–344.
+7. M. A. Sprangers, B. G. Taal, N. K. Aaronson, and A. te Velde, “Quality of Life in Colorectal Cancer. Stoma vs. Nonstoma Patients,” Diseases of the Colon & Rectum 38 (1995): 361–369.
+8. F. Al Rashid, A. S. Liberman, P. Charlebois, et al., “The Impact of Bowel Dysfunction on Health-­Related Quality of Life After Rectal Cancer Surgery: A Systematic Review,” Techniques in Coloproctology 26 (2022): 515–527.
+9. M. Orive, A. Anton-­Ladislao, S. Lázaro, et al., “Anxiety, Depression, Health-­Related Quality of Life, and Mortality Among Colorectal Patients: 5-­Year Follow-­Up,” Supportive Care in Cancer 30 (2022): 7943–7954.
+10. F. L. Malcolm, A. Adiamah, A. Banerjea, et al., “Long-­Term Health-Related Quality of Life Following Colorectal Cancer Surgery: Patient-Reported Outcomes in a Remote Follow-­Up Population,” Colorectal Disease 23 (2021): 213–225.
+11. A. Siddika, D. Tolia-­Shah, T. E. Pearson, N. G. B. Richardson, and A. H. M. Ross, “Remote Surveillance After Colorectal Cancer Surgery: An Effective Alternative to Standard Clinic-­Based Follow-­Up,” Colorectal Disease 17 (2015): 870–875.
+12. E. Z. Barsom, M. Jansen, P. J. Tanis, et al., “Video Consultation During Follow Up Care: Effect on Quality of Care and Patient-­and Provider Attitude in Patients With Colorectal Cancer,” Surgical Endoscopy 35 (2021): 1278–1287.
+13. K. Beaver, M. Campbell, S. Williamson, et al., “An Exploratory Randomized Controlled Trial Comparing Telephone and Hospital Follow-­Up After Treatment for Colorectal Cancer,” Colorectal Disease 14 (2012): 1201–1209.
+14. M. Cusack and C. Taylor, “A Literature Review of the Potential of Telephone Follow-­Up in Colorectal Cancer,” Journal of Clinical Nursing 19 (2010): 2394–2405.
+15. S. M. Qaderi, H. Swartjes, J. A. E. Custers, and J. H. W. de Wilt, “Health Care Provider and Patient Preparedness for Alternative Colorectal Cancer Follow-­Up; A Review,” European Journal of Surgical Oncology 46 (2020): 1779–1788.
+
+ANZ Journal of Surgery, 2025
+
+2281
+
+16. K. Xiao, J. C. Yeung, and J. C. Bolger, “The Safety and Acceptability of Using Telehealth for Follow-­Up of Patients Following Cancer Surgery: A Systematic Review,” European Journal of Surgical Oncology 49 (2023): 9–15.
+17. C. Newton, K. Beaver, and A. Clegg, “Patient Initiated Follow-­Up in Cancer Patients: A Systematic Review,” Frontiers in Oncology 12 (2022): 1–9.
+18. M. J. Page, J. E. McKenzie, P. M. Bossuyt, et al., “The PRISMA 2020 Statement: An Updated Guideline for Reporting Systematic Reviews,” BMJ 372, no. n71 (2021): n71, https://​doi.​org/​10.​1136/​bmj.​n71.
+19. G. Srikumar, C. Finlayson, C. Harmston, and I. Bissett, Remote Follow-U­ p After Colorectal Cancer Surgery (PROSPERO, 2024), https://​ www.​crd.​york.​ac.​uk/​PROSP​ERO/​view/​CRD42​02456​3412.
+20. J. A. C. Sterne, J. Savović, M. J. Page, et al., “RoB 2: A Revised Tool for Assessing Risk of Bias in Randomised Trials,” BMJ 366 (2019): l4898.
+21. J. A. Sterne, M. A. Hernán, B. C. Reeves, et al., “ROBINS-­I: A Tool for Assessing Risk of Bias in Non-­Randomised Studies of Interventions,” BMJ 355, no. i4919 (2016): i4919, https://​doi.​org/​10.​1136/​bmj.​i4919​.
+22. I. Hovdenak Jakobsen, H. Vind Thaysen, S. Laurberg, C. Johansen, and T. Juul, “Patient-­Led Follow-­Up Reduces Outpatient Doctor Visits and Improves Patient Satisfaction. One-­Year Analysis of Secondary Outcomes in the Randomised Trial Follow-­Up After Rectal CAncer (FURCA),” Acta Oncologica 60 (2021): 1130–1139.
+23. B. Ohlsson, U. Breland, H. Ekberg, H. Graffner, and K. G. Tranberg, “Follow-­Up After Curative Surgery for Colorectal Carcinoma. Randomized Comparison With No Follow-­Up,” Diseases of the Colon & Rectum 38 (1995): 619–626.
+24. L. Batehup, K. Porter, H. Gage, et al., “Follow-­Up After Curative Treatment for Colorectal Cancer: Longitudinal Evaluation of Patient Initiated Follow-­Up in the First 12 Months,” Supportive Care in Cancer 25 (2017): 2063–2073.
+25. M. Gilmartin, N. Leaver, G. Hall, et al., “Patient Perception of Telephone Follow-­Up After Resection for Colorectal Cancer: Is It Time for an Alternative to the Out-­Patient Clinic?,” Patient Experience Journal 6 (2019): 81–86.
+26. S. Pakarinen, P. Varpe, A. Carpelan, M. Koivisto, and H. Huhtinen, “Mobile-­CEA – A Novel Surveillance Method for Patients With Colorectal Cancer,” Cancer Control 29 (2022): 1–6.
+27. J. Moloney, C. Partridge, S. Delanty, D. Lloyd, and M. H. Nguyen, “High Efficacy and Patient Satisfaction With a Nurse-­Led Colorectal Cancer Surveillance Programme With 10-­Year Follow-­Up,” ANZ Journal of Surgery 89 (2019): 1286–1290.
+28. W. Petrushnko, J. Perry, Z. Bunjo, R. Vather, M. Lewis, and T. Sammour, “Patient Satisfaction With Nurse-­Led Coordination of Colorectal Cancer Treatment: A Short Survey,” ANZ Journal of Surgery 94 (2024): 1678–1680.
+29. S. M. Qaderi, H. Swartjes, H. Vromen, A. J. A. Bremers, J. A. E. Custers, and J. H. W. de Wilt, “Acceptability, Quality of Life and Cost Overview of a Remote Follow-­Up Plan for Patients With Colorectal Cancer,” European Journal of Surgical Oncology 47 (2021): 1637–1644.
+30. B. R. Viers, D. J. Lightner, M. E. Rivera, et al., “Efficiency, Satisfaction, and Costs for Remote Video Visits Following Radical Prostatectomy: A Randomized Controlled Trial,” European Urology 68 (2015): 729–735.
+31. E. Neeman, D. Kumar, L. Lyon, et al., “Attitudes and Perceptions of Multidisciplinary Cancer Care Clinicians Toward Telehealth and Secure Messages,” JAMA Network Open 4 (2021): e2133877.
+32. M. Jeffery, B. E. Hickey, and P. N. Hider, “Follow-­Up Strategies for Patients Treated for Non-­Metastatic Colorectal Cancer,” Cochrane Database of Systematic Reviews 9 (2019): CD002200.
+
+33. ClinicalTrials.gov, “Colorectal Cancer Survivors' Follow-­up Care – Now Digital and Need-­Based (RESPONSE),” 2024, https://​clini​caltr​ials.​ gov/​study/​​NCT06​614647?​a=​1.
+34. ClinicalTrials.gov, “Patient-­Led Follow-­Up From Home After Surgery for Colorectal Carcinoma (PROMISE),” 2024, https://​clini​caltr​ials.​ gov/​study/​​NCT06​613581?​tab=​table​&​a=​1.
+Supporting Information
+Additional supporting information can be found online in the Supporting Information section.
+
+2282
+
+ANZ Journal of Surgery, 2025

@@ -1,0 +1,32 @@
+{
+  "name": "@techsphere/contracts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Modulo compartido de contratos — tipos, puertos y validacion de esquema de las cuatro capas. Tech Sphere Challenge 2.",
+  "license": "MIT",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "build": "tsc -p tsconfig.build.json",
+    "test": "node --test \"test/**/*.test.ts\"",
+    "verify": "npm run typecheck && npm test"
+  },
+  "comment:dependencies": "Compuerta G3 — este paquete no tiene NINGUNA dependencia de runtime, y en particular ninguna de ningun modelo de lenguaje. Las dos de desarrollo son el compilador y sus tipos.",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "typescript": "^5.9.3"
+  }
+}

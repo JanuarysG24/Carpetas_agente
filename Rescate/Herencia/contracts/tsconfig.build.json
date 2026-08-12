@@ -1,0 +1,13 @@
+{
+  // El tsconfig raiz cubre src + test para que `typecheck` valide tambien las
+  // aserciones de tipo de las pruebas — que es donde viven las dos negativas.
+  // Este solo compila `src`, para que el paquete publicado sea `dist/index.js`
+  // y no `dist/src/index.js`.
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "rootDir": "src",
+    "noEmit": false
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["dist", "node_modules", "test"]
+}

@@ -1,0 +1,725 @@
+Revista de Gastroenterología de México. 2019;84(2):174---184
+
+REVISTA DE GASTROENTEROLOGI´A
+DE ME´ XICO
+www.elsevier.es/rgmx
+ARTÍCULO ORIGINAL
+Supervivencia de cáncer colorrectal en un centro oncológico de Colombia. Estudio de cohorte histórica
+S.M. Campo-Sánchez a, J. Camargo-Trillos a, J.A. Calle-Ramírez a, L.R. Gómez-Wolff a,b, L.A. Sánchez-Patin˜o c y H.I. García-García a,c,∗
+a Facultad de Medicina, Universidad de Antioquia, Medellín, Colombia b Oncología, Instituto de Cancerología (IDC) Las Américas, Medellín, Colombia c Unidad de Investigación, Instituto de Cancerología (IDC) Las Américas, Medellín, Colombia
+Recibido el 9 de enero de 2018; aceptado el 19 de abril de 2018 Disponible en Internet el 6 de junio de 2018
+
+PALABRAS CLAVE Cáncer colorrectal; Características clínicas; Supervivencia
+
+Resumen Introducción y objetivos: El cáncer de colon en Colombia es el tercero más frecuente en incidencia y mortalidad. La supervivencia a 5 an˜os depende del estadio en el momento del diagnóstico, aunque esta no se conoce en el país. El presente estudio busca caracterizar la supervivencia global y libre de enfermedad en población adulta con cáncer colorrectal atendida en un centro oncológico de Medellín (Colombia). Materiales y métodos: Estudio de cohorte retrospectivo. Se revisaron historias clínicas de pacientes atendidos entre 2011 y 2015 con diagnóstico histológico de cáncer colorrectal. Se calcularon las curvas de supervivencia global y libre de enfermedad por el método de KaplanMeier. Resultados: Se atendieron 824 (54.9%) pacientes con cáncer de colon y 676 (45.1%) de recto. La edad media fue 63.3 an˜os, con predominio del sexo femenino (56.3%), y un 98.1% fueron adenocarcinomas. La mayoría eran estadio iii (31.9% en colon y 35.5% en recto) en el momento del diagnóstico; la cirugía fue el tratamiento más frecuente en colon (85.2%) y la radioterapia en recto (75.4%). La supervivencia global a la mediana de seguimiento (27.3 meses) para cáncer de colon fue de un 66.7% y para cáncer de recto, de un 63.9%. La supervivencia libre de enfermedad a la mediana de seguimiento (18.6 meses en colon y 14.9 en recto) fue de 72.5 y 68.9%, respectivamente. Conclusiones: Las características clínicas y el tratamiento de los pacientes fueron similares a los encontrados en otros estudios. La supervivencia a 2 an˜os fue mayor que en otros reportes colombianos y a 5 an˜os fue menor que la observada en países desarrollados. © 2018 Asociacio´n Mexicana de Gastroenterolog´ıa. Publicado por Masson Doyma Me´xico S.A. Este es un art´ıculo Open Access bajo la licencia CC BY-NC-ND (http://creativecommons.org/ licenses/by-nc-nd/4.0/).
+
+∗ Autor para correspondencia. Diagonal 75B No. 2A-80/140 Torre 5. Código postal 050025. Medellín, Colombia. Teléfono: +574 3409393; fax: +574 3423307.
+Correo electrónico: hgarcia@une.net.co (H.I. García-García).
+
+https://doi.org/10.1016/j.rgmx.2018.04.002 0375-0906/© 2018 Asociacio´n Mexicana de Gastroenterolog´ıa. Publicado por Masson Doyma Me´xico S.A. Este es un art´ıculo Open Access bajo la licencia CC BY-NC-ND (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Supervivencia de cáncer colorrectal en un centro oncológico de Colombia
+
+175
+
+KEYWORDS Colorectal cancer; Clinical characteristics; Survival
+
+Colorectal cancer survival at an oncologic center in Colombia. A historic cohort study
+Abstract Introduction and aims: In Colombia, cancer of the colon is the third most frequent cancer in relation to incidence and mortality. Five-year survival depends on stage at diagnosis, albeit that rate is not known for the country. The aim of the present study was to characterize the overall survival and disease-free survival rates in an adult population with colorectal cancer treated at an oncology center in Medellín, Colombia. Materials and methods: A retrospective cohort study was conducted. The case records of patients with a histologic diagnosis of colorectal cancer, seen within the time frame of 2011 and 2015, were reviewed. The overall survival and disease-free survival curves were calculated using the Kaplan-Meier method. Results: A total of 824 (54.9%) patients with cancer of the colon and 676 (45.1%) with cancer of the rectum were treated. Mean patient age was 63.3 years, female sex predominated (56.3%), and 98.1% of the tumors were adenocarcinomas. The majority of the lesions were stage iii (31.9% in the colon and 35.5% in the rectum) at the time of diagnosis. Surgery was the most frequent treatment in the colon (85.2%) and radiotherapy was the most frequent in the rectum (75.4%). Overall survival at the median follow-up (27.3 months) was 66.7% for cancer of the colon and 63.9% for cancer of the rectum. Disease-free survival at the median follow-up (18.6 months in colon and 14.9 in rectum) was 72.5 and 68.9%, respectively. Conclusions: The clinical characteristics and treatment of patients were similar to those found in other studies. Two-year survival was higher than in other Colombian reports and 5-year survival was lower than that observed in developed countries. © 2018 Asociacio´n Mexicana de Gastroenterolog´ıa. Published by Masson Doyma Me´xico S.A. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/ by-nc-nd/4.0/).
+
+Introducción y objetivos
+En el mundo, el cáncer colorrectal ocupa el tercer lugar en incidencia y prevalencia, 9.7 y 10.9%, respectivamente, después del cáncer de mama y de pulmón1,2. La prevalencia anual para el cáncer de colon en Colombia lo ubica también como el tercer cáncer más frecuente, después del cáncer de próstata y de mama, dando cuenta de un 8.3% del total de neoplasias malignas y con una tasa de mortalidad que lo ubica en el cuarto lugar2.
+La mortalidad del cáncer colorrectal ha disminuido a lo largo del tiempo, probablemente por el cambio en factores de riesgo como la dieta, la introducción de programas de tamización y la disponibilidad de mejores tratamientos en países desarrollados3. Se conoce que el pronóstico del cáncer colorrectal depende en esencia del estadio patológico en el momento de la presentación, con una supervivencia a 5 an˜os que va desde un 74% para el estadio i hasta un 5.7% en el estadio iv, de acuerdo con grandes cohortes como la del registro SEER (Estados Unidos)4.
+En Colombia, Montenegro et al. reportaron que en pacientes menores de 40 an˜os de Medellín y Neiva5 con cáncer colorrectal la mayor frecuencia estuvo entre los 28 y los 30 an˜os, con lesiones principalmente en el recto, y con dolor abdominal, sangrado rectal y pérdida de peso como síntomas más frecuentes. Luego, en 2008, Barrero et al. encontraron que en Ibagué el tipo más frecuente fue el cáncer rectal6. En 2012 se publicó un estudio realizado en Bucaramanga7
+
+que encontró una mayor frecuencia en mujeres (61%), en el que el dolor abdominal (86%) y el estren˜imiento (50%) fueron los síntomas más prevalentes, e identiﬁcaron como antecedentes importantes el consumo de carnes rojas (61%), la baja ingesta de verduras (36%) y la presencia de familiares con cáncer colorrectal (22%). Por su parte, en Cali8 reportaron una mayor afectación de mujeres (58%), de individuos con índice de masa corporal menor de 25 kg/m2 (61%), principal localización del cáncer en el colon derecho (34%) y, como síntomas principales, dolor abdominal (24%) y sangrado intestinal (13.4%). Por último, en el estudio con mayor número de pacientes con cáncer colorrectal publicado sobre Colombia9, se encontró un mayor número de mujeres afectadas (53%), con una edad promedio de 57.4 an˜os, siendo la obesidad (33%), el consumo alcohol (50%) y el tabaquismo (48%) los factores de riesgo más frecuentes, estando la mayoría de los casos localizados en el recto (42%) y en estadios avanzados (40%).
+Además de los estudios mencionados sobre características clínico-patológicas de los pacientes con cáncer colorrectal, en Colombia no se conoce el comportamiento de la supervivencia ni de los factores asociados a ella, por lo que esta investigación tuvo como objetivo describir, además de las características demográﬁcas, clínicas y los factores de riesgo, la supervivencia global (SG) y la supervivencia libre de enfermedad (SLE) de los pacientes atendidos en el Instituto de Cancerología (IDC) Las Américas, de Medellín, entre 2011 y 2015.
+
+176
+Materiales y métodos
+Se realizó un estudio de cohorte histórica, cuya población fueron los pacientes mayores de 18 an˜os con diagnóstico histológico de cáncer colorrectal atendidos en el IDC en el periodo 2011-2015. Los investigadores tomaron los datos de las historias clínicas de los pacientes y del Registro Institucional de pacientes con Cáncer de Colon y Recto.
+Se recopilaron variables sociodemográﬁcas, como edad al diagnóstico, sexo, seguridad social, lugar de residencia y estrato socioeconómico; condiciones clínicas, como antecedentes personales y familiares de cáncer (primer grado: padres, hermanos e hijos; otros grados: abuelos, nietos, tíos y sobrinos), enfermedad inﬂamatoria intestinal, diabetes, tabaquismo, abuso de alcohol, radiación abdominal previa, privación androgénica, acromegalia, colecistectomía, historia familiar de síndromes asociados a cáncer colorrectal, síntomas en el momento de la presentación (sangrado rectal, anemia, astenia, cambios en el hábito intestinal, dolor abdominal, pérdida de peso, tenesmo rectal y otros) y estadio en el momento de la atención inicial en el IDC. Además, se consignaron los resultados de las pruebas diagnósticas, tales como colonoscopia, biopsia y antígeno carcinoembrionario, y del tratamiento recibido (cirugía con intención curativa, quimioterapia neoadyuvante y/o adyuvante, radioterapia adyuvante, cuidados paliativos). Para el estado nutricional según el índice de masa corporal se utilizó la clasiﬁcación de la Organización Mundial de la Salud.
+Las quimioterapias recibidas dependieron del tipo y el estadio del cáncer. Para colon se usaron esquemas adyuvantes en los estadios iib y iii -esquema Mayo y FOLFOX-4, sin radioterapia- y en el estadio iv los esquemas se usaron según el criterio de oncología clínica, siguiendo las guías de la National Comprehensive Cancer Network. Estos variaron de acuerdo con el ECOG, si había recibido o no tratamiento adyuvante y el estado KRAS/NRAS: FOLFOX-6, FOLFIRI, se adicionaba bevacizumab en primera y segunda línea de tratamiento para enfermedad metastásica, se adicionaba cetuximab en pacientes sin mutaciones en KRAS/NRAS, y en ocasiones se cambiaba el 5-FU por capecitabina por no disponibilidad en el mercado.
+Por otro lado, los esquemas de quimioterapia para cáncer de recto no metastásico dependían de la realización de la cirugía en el IDC o no. Si la cirugía se realizó en el mismo, se ordenaba resonancia magnética pélvica preoperatoria, y si había compromiso ganglionar regional o del mesorrecto, se usaba esquema radioterapia/quimioterapia primario (radioterapia 5 semanas, con 5-FU y leucovorina en bolo la primera y la quinta semana); si la cirugía se hizo fuera del IDC, se daba el mismo esquema que para los pacientes con estadios iib y iii de cáncer de colon.
+La estadiﬁcación clínica se realizó con colonoscopia y tomografías contrastadas de tórax y abdomen total, y la patológica, con el reporte posquirúrgico. Se incluyeron tanto historias de pacientes que iniciaron su tratamiento en el IDC como fuera de este, por lo que no se contó con la información de estadio clínico y patológico en todos los casos. Se usó el estadio patológico cuando estaba disponible en la historia; en caso contrario, se usó el estadio clínico. Se empleó el sistema de estadiﬁcación del American Joint Committee on Cancer.
+
+S.M. Campo-Sánchez et al.
+La SG se tomó como el tiempo trascurrido desde el diagnóstico hasta la muerte por cualquier causa y la SLE se deﬁnió como el tiempo desde el ﬁnal del tratamiento hasta la aparición de signos y/o síntomas de la enfermedad. La fecha de fallecimiento se obtuvo de la historia clínica institucional, de la base de datos de la Registraduría Nacional del Estado Civil o del FOSYGA. Se deﬁnió el 30 de noviembre de 2016 como la fecha de cierre de obtención de la información para la SG y la SLE. Los pacientes en los que no se pudo conocer su estado vital en las fuentes mencionadas se censuraron con la fecha del último contacto en el IDC.
+Los resultados se analizaron utilizando el programa estadístico STATA 12. Los datos obtenidos de variables cualitativas nominales se resumieron con frecuencias absolutas y relativas, y las variables cuantitativas, con estadísticas descriptivas de tendencia central y dispersión (promedio y desviación estándar [DE]) o de posición (mediana y rango intercuartílico [RIQ]), según fuera la simetría de la variable. La supervivencia se estimó con el método de Kaplan-Meier.
+El estudio fue aprobado por el Comité de Ética Independiente del IDC Las Américas, que cumple con las Normas de Buenas Prácticas Clínicas en todas sus actividades.
+Resultados
+Para el periodo de tiempo del estudio se encontraron 1,549 historias clínicas de pacientes con cáncer colorrectal, de las cuales no se incluyeron 49 porque no había suﬁciente información (33), no se encontró el informe de patología (8), eran menores de 18 an˜os (4) y el cáncer era un primario desconocido (4). De los 1,500 pacientes incluidos, 824 (54.9%) tenían cáncer de colon y 676 (45.1%) cáncer de recto.
+La edad media en el cáncer de colon fue de 63.4 an˜os (DE 13.8), con predominio del sexo femenino (56.3%), mientras que en el cáncer de recto fue de 62.6 an˜os (DE 14.1) y 47.5%, respectivamente. Los antecedentes personales más frecuentes fueron tabaquismo y diabetes mellitus (27.8 y 15.6%, respectivamente). En el momento del diagnóstico la mayor parte de los pacientes, 642 (42.8%), tenía un estado nutricional normal (tabla 1).
+Los síntomas más frecuentes en el cáncer de colon fueron hemorragia del tracto digestivo bajo (212; 25.7%), dolor abdominal (382; 46.4%) y cambios en el hábito intestinal (121; 14.7%), y en el cáncer de recto, hemorragia del tracto digestivo bajo (475; 70.3%), dolor abdominal (146; 21.6%) y cambios en el hábito intestinal (156; 23.1%). Se identiﬁcaron síntomas adicionales, como pérdida de peso, astenia, tenesmo rectal y anorexia, entre otros (ﬁg. 1). Solo 12 (0.8%) pacientes no tenían síntomas en el momento del diagnóstico, 7 (0.8%) en cáncer de colon y 5 (0.7%) en cáncer de recto.
+El resultado del antígeno carcinoembrionario consignado en la historia clínica fue positivo en 139 de 275 (50.5%) pacientes con cáncer de colon y 122 de 219 (55.7%) con cáncer de recto. La mayoría de los pacientes estaban en un estadio iii en el momento del diagnóstico (33.5%), mientras que solo el 1.1% tenían tumores in situ. El 98.1% de los pacientes tenía adenocarcinomas (tabla 2), predominando la localización en el recto (676; 45.1%) seguida del colon ascendente (344; 22.9%), mientras que la frecuencia más baja se encontró en el colon descendente (372; 24.8%) y el colon
+
+Supervivencia de cáncer colorrectal en un centro oncológico de Colombia
+
+Tabla 1 Características sociodemográﬁcas y antecedentes de los pacientes
+
+Características
+
+Colon
+
+Edad promedio en an˜os (DE)
+Sexo Femenino Masculino
+Régimen de Seguridad Social Contributivo Subsidiado
+Ciudad de residencia Medellín Área metropolitana de Medellín Resto de Antioquia Resto del país
+Consumo de tabaco Diabetes mellitus Consumo de alcohol Colecistectomía Radiación abdominal por otras neoplasias Antecedente de pólipo adenomatoso
+Antecedente personal de cáncer Tracto genital Piel Tracto gastrointestinal Mama Tiroides Tracto urinario Otros (cerebro, hematológicos, pulmón)
+Antecedente familiar de cáncer colorrectal Primer grado Otros grados
+Estado nutricional (IMC) Desnutrición Normal Sobrepeso Obesidad Sin información
+DE: desviación estándar; IMC: índice de masa corporal.
+
+824 (54.9) n (%)
+63.4 (13.8)
+464 (56.3) 360 (43.7)
+709 (86) 115 (14)
+454 (55.1) 216 (26.2) 134 (16.3) 20 (2.4)
+243 (29.5) 142 (17.2) 68 (8.3) 64 (7.8) 5 (0.6) 8 (1)
+41 (5) 17 (41.6) 10 (24.4) 3 (7.3) 3 (7.3) 3 (7.3) 3 (7.3) 2 (4.8)
+78 (9.4) 59 (75.6) 19 (24.4)
+58 (7) 366 (44.4) 237 (28.8) 71 (8.6) 92 (11.2)
+
+Recto
+676 (45.1) n (%)
+62.6 (14.1)
+321 (47.5) 355 (52.5)
+554 (82) 122 (18.1)
+321 (47.5) 174 (25.7) 165 (24.4) 16 (2.4)
+174 (25.7) 92 (13.6) 61 (9) 43 (6.4) 6 (0.9) 5 (0.7)
+39 (5.8) 14 (35.9) 7 (17.9) 5 (12.8) 5 (12.8) 3 (7.7) 2 (5.1) 3 (7.8)
+63 (9.3) 43 (68.3) 20 (31.7)
+46 (6.8) 276 (40.8) 150 (22.2) 59 (8.7) 145 (21.5)
+
+177
+Total
+1,500 n (%) 63.3 (13.9)
+785 (52.3) 715 (47.7)
+1,263 (84.2) 237 (16)
+775 (51.7) 390 (26) 299 (10) 36 (2.4) 417 (27.8) 234 (15.6) 129 (8.6) 107 (7.1) 11 (0.7) 13 (0.9) 80 (5.3) 31 (38.8) 17 (21.2) 8 (10) 8 (10) 6 (7.5) 5 (6.2) 5 (6.2) 141 (9.4) 102 (72.3) 39 (27.7)
+104 (6.9) 642 (42.8) 387 (25.8) 130 (8.7) 237 (15.8)
+
+transverso (64; 4.3%); no se pudo determinar la ubicación del tumor en 44 (2.9%).
+De los pacientes con cáncer de colon, 702 (85.2%) se intervinieron quirúrgicamente, y de aquellos con cáncer de recto, 355 (52.5%), en tanto que no recibieron tratamiento 46 (5.6%) y 47 (6.9%) pacientes, respectivamente, porque fallecieron antes del manejo, no aceptaron el mismo o se perdieron del control. De los pacientes que al diagnóstico no tenían metástasis, 117 (14.2%) de colon y 112 (16.6%) de recto la presentaron en el periodo del estudio (tabla 2).
+A noviembre de 2016, de los 1,500 pacientes, 679 (45.3%) habían fallecido, por el cáncer de colon 339 (41.1%) y por el de recto 340 (50.3%). No se pudo establecer el estado
+
+vital de 12 (0.8%) pacientes. La mediana de seguimiento de todos los pacientes fue de 27.3 meses (RIQ 14.7-46.6), 29.1 meses (RIQ 15.1-50.6) en colon y 25.4 meses (RIQ 13.9-43.6) en recto. La SG a la mediana de seguimiento para cáncer de colon fue del 66.7% (IC 95% 63.2-69.9) y para cáncer de recto, del 63.9% (IC 95% 59.9-67.5).
+La SG a 2 an˜os del diagnóstico para ambos tipos de cáncer fue del 68.4% (IC 95% 65.9-70.7) y a 5 an˜os fue del 45.5% (IC 95% 42.3-48.6). Para el cáncer de colon a los 2 an˜os la SG fue del 70.5% (IC 95% 66.6-73) y a los 5 an˜os fue del 51.7% (IC 95% 47.4-55.7); mientras que para el cáncer de recto fue del 65.7% (IC 95% 61.9-69.3) a 2 an˜os y del 37.5% (IC 95% 32.7-42.3) a 5 an˜os. Las curvas de Kaplan-Meier muestran una mejor SG para el cáncer de colon (p < 0.05) (ﬁg. 2). La
+
+178
+
+S.M. Campo-Sánchez et al.
+
+50
+
+40
+
+Porcentaje
+
+30
+
+20
+
+10
+
+0
+
+ctal inal tinal eso nto rrea mia nia ctal inal nal oco nas ctal o re dom tes de p imie Dia Ane Aste o re dom lor a n m ele jo re
+
+angradolor ab ito in ida háb érd Estreñ
+
+Tene s s ió m n ab ion D e o s co
+
+M Pu
+
+b S D ios P m
+
+Disten
+
+eposic
+
+Ca
+
+D
+
+Otros
+
+Síntomas
+*Sangrado rectal para cáncer de recto tiene un porcentaje de 70.3%
+
+Colon Recto
+
+Figura 1 Síntomas por tipo de cáncer. Una persona puede haber presentado más de un síntoma. Otros síntomas: dolor lumbar, ﬂatos, intolerancia alimentaria, paro de fecales, sensación de masa anal, sensación de masa abdominal, síncope, emesis, anorexia.
+
+1.0
+
+Supervivencia acumulada
+
+0.9
+
+0.8
+
+0.7
+
+0.6
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1 0.0 Log rank X² :15.9 p<0.05
+
+0
+
+12
+
+24
+
+36
+
+48
+
+60
+
+N° en riesgo N° eventos*
+
+Tiempo en meses
+
+Colon 824 (136)* 686 (98)* 485 (54)* 341 (26)* 218 (15)* 129
+
+Recto 676 (125)* 545 (96)* 358 (61)* 217 (35)* 140 (14)* 61
+
+Colon
+
+Recto
+
+Figura 2 Supervivencia global por tipo de cáncer.
+
+SG por los estadios en cáncer de colon y de recto se muestra en la ﬁgura 3.
+La mediana de seguimiento de la SLE fue de 18.6 meses (RIQ 9.5-35.9) en colon y 14.9 meses (RIQ 7.8-28.6) en recto. La SLE para cáncer de colon fue del 72.5% (IC 95% 68.5-76.1), mientras que para el de recto fue del 68.9% (IC 95% 64.5-73) (ﬁg. 4).
+Al diferenciar por estadio y tipo de cáncer se encontró que los pacientes con cáncer de colon tuvieron una SLE de 87.4% (IC 95% 77-93.3), 77.4% (IC 95% 70.7-82.7) y 68% (IC 95% 61.6-73.7) para los estadios i, ii y iii, respectivamente, mientras que para recto fue de 75.3% (IC 95% 62.2-84.3), 69.2% (IC 95% 59.7-76.9) y 70.3% (IC 95% 63.4-76.1) (ﬁg. 5).
+Al clasiﬁcar los 1,500 pacientes con cáncer colorrectal según la localización en colon derecho (desde colon ascendente hasta el ángulo esplénico) e izquierdo (desde el ángulo esplénico hasta el recto), la SG a 2 an˜os fue mejor en el derecho (72.3%; IC 95% 67.9-76.8) que en el izquierdo (67.5%; IC 95% 64.5-70.3). Similar comportamiento se presentó con la SG a 5 an˜os, siendo del 54.3% (IC 95% 48.9-60.4) para el derecho y del 42.5% (IC 95% 38.7-46.4) para el izquierdo. También la SLE se comportó de modo similar: para el derecho fue del 61.3% (IC 95% 55.6-66.5) a 2 an˜os y del 41.9%
+
+Supervivencia acumulada
+
+a
+1.0 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0 Log rank X² : 268.3 p<0.05
+
+0
+
+12
+
+24
+
+36
+
+48
+
+N° en riesgo N° eventos* Tiempo en meses
+I 90 (3)* 86 (4)* 69 (1)* 54 (3)* 32 II 226 (18)* 208 (11)* 167 (13)* 122 (4)* 84 III 263 (27)* 236 (30)* 165 (12)* 116 (14)* 70 IV 195 (73)* 121 (46)* 65 (27)* 35 (5)* 22
+
+I
+
+II
+
+III
+
+Colon
+
+Supervivencia acumulada
+
+b
+1.0 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0 Log rank X² : 89.2 p<0.05
+
+0
+
+12
+
+24
+
+36
+
+48
+
+N° en riesgo N° eventos* Tiempo en meses
+I 73 (5)* 67 (4)* 50 (6)* 36 (2)* 29 II 131 (22)* 108 (14)* 80 (10)* 54 (7)* 37 III 240 (34)* 203 (29)* 127 (19)* 67 (11)* 40 IV 133 (44)* 88 (30)* 48 (18)* 26 (11)* 11
+
+60 (1)* 17 (5)* 53 (4)* 41 (5)* 11
+IV
+60 (3)* 12 (4)* 14 (3)* 17 (2)* 6
+
+I
+
+II
+
+III
+
+IV
+
+Recto
+
+Figura 3 Supervivencia global por estadio en cáncer de colon (a) y recto (b).
+
+(IC 95% 34.6-49.2) a 5 an˜os, mientras que para el izquierdo fue del 50.1% (IC 95% 46.5-53.6) a 2 an˜os y del 26.9% (IC 95% 22.4-31.7) a 5 an˜os. La SG y la SLE por estadios de esta clasiﬁcación se muestra en las ﬁguras 6 y 7.
+
+Supervivencia de cáncer colorrectal en un centro oncológico de Colombia
+
+179
+
+Tabla 2 Características histopatológicas, de laboratorio, clínicas y de tratamiento
+
+Características
+Tipo histológico Adenocarcinoma Otrosa
+
+Colon 824 n (%)
+805 (97.7) 19 (2.3)
+
+Recto 676 n (%)
+666 (98.5) 10 (1.5)
+
+Total 1,500 n (%)
+1,471 (98.1) 29 (1.9)
+
+Grado histológico Bien diferenciado Moderadamente diferenciado Mal diferenciado Indiferenciado Sin información
+
+417 (50.6) 221 (26.8) 58 (7) 6 (0.7) 122 (14.8)
+
+322 (47.6) 223 (32.9) 26 (3.8) 5 (0.7) 100 (14.8)
+
+739 (49.2) 444 (29.6) 84 (5.6) 11 (0.7) 222 (14.8)
+
+Estadio In situ I II III IV Sin información
+Tratamiento Cirugía Radioterapia Quimioterapia neoadyuvante Quimioterapia adyuvante Dolor y cuidado paliativo Quimioterapia paliativa Ningún tratamiento
+
+6 (0.7) 90 (10.9) 226 (27.4) 263 (31.9) 198 (24) 41 (4.9)
+702 (85.2) 55 (6.7) N/A 315 (38.2) 263 (31.9) 167 (20.3) 46 (5.6)
+
+10 (1.5) 73 (10.8) 130 (19.2) 240 (35.5) 134 (19.8) 89 (13.2)
+355 (52.5) 510 (75.4) 370 (54.7) 122 (18.1) 231 (34.2) 120 (17.8) 47 (6.9)
+
+16 (1.1) 163 (10.9) 356 (23.7) 503 (33.5) 332 (22.1) 130 (8.7)
+1,057 (70.5) 565 (37.7) 370 (24.7) 437 (29.1) 494 (32.9) 287 (19.1) 93 (6.2)
+
+Metástasis por estadio In situ I II III Sin información
+Ubicación metástasis Local Regional A distancia
+
+117 (14.2) 1 (0.9) 7 (5.9) 29 (24.8) 77 (65.8) 3 (2.6)
+4 (3.4) 9 (7.7) 104 (88.9)
+
+112 (16.6) 1 (0.9) 13 (11.6) 24 (21.4) 56 (50) 18 (16.1)
+4 (3.6) 18 (16.1) 90 (80.3)
+
+229 (15.3) 2 (0.9) 20 (8.7) 53 (23.1) 133 (58.1) 21 (9.2)
+8 (3.5) 27 (11.8) 194 (84.7)
+
+Sitio de la metástasisb Hígado Pulmón Peritoneo Hueso Ganglionar Otrosc
+
+62 (52.9) 42 (35.9) 30 (25.6) 15 (12.8) 22 (18.8) 32 (27.3)
+
+47 (41.9) 35 (31.2) 12 (10.7) 20 (17.8) 11 (9.8) 53 (47.3)
+
+109 (47.6) 77 (33.6) 42 (18.3) 35 (15.3) 33 (14.4) 85 (37.1)
+
+Segundo primariob Tracto gastrointestinal Tracto genital Tracto urinario Otrosc
+
+40 (4.9) 16 (40) 7 (17.5) 7 (17.5) 12 (30)
+
+33 (4.9) 12 (36.4) 8 (24.2) 5 (15.2) 9 (27.3)
+
+73 (4.9) 28 (38.4) 15 (20.5) 12 (16.4) 21 (28.8)
+
+a Carcinoma escamocelular, melanoma, sarcoma, carcinoma neuroendocrino, PEComa. b Una persona pudo haber tenido más de un sitio de metástasis y más de un segundo primario. c Sistema reproductor, sistema nervioso central, tejidos blandos, pleura, vejiga, rin˜ón, páncreas, pared abdominal, mediastino, piel,
+amígdala, intestino delgado.
+
+180
+
+Supervivencia acumulada
+
+1.0 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0 Log rank X² : 30.2 p<0.05
+
+0
+
+12
+
+24
+
+36
+
+48
+
+N° en riesgo N° eventos*
+
+Tiempo en meses
+
+Colon 626 (112)* 406 (57)* 255 (24)* 157 (16)* 84
+
+Recto 542 (113)* 326 (88)* 171 (36)* 100 (19)* 44
+
+Colon
+
+Recto
+
+Figura 4 cer.
+
+Supervivencia libre de enfermedad por tipo de cán-
+
+Supervivencia acumulada
+
+a
+1.0 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0 Log rank X² : 30.8 p<0.05
+
+0
+
+12
+
+24
+
+36
+
+48
+
+N° en riesgo N° eventos*
+
+Tiempo en meses
+
+I 90
+
+(4)*
+
+72
+
+(5)*
+
+46
+
+(4)*
+
+24
+
+(2)*
+
+14
+
+II 226 (30)* 157 (15)* 104 (9)*
+
+67
+
+(5)*
+
+36
+
+III 263 (62)* 156 (32)* 94 (10)* 58
+
+(9)*
+
+29
+
+I
+
+II
+
+III
+
+Colon
+
+Supervivencia acumulada
+
+b 1.0
+0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0 Log rank X² : 10.7 p<0.05
+
+0
+
+12
+
+24
+
+36
+
+48
+
+N° en riesgo N° eventos
+
+Tiempo en meses
+
+I 73
+
+(8)*
+
+51
+
+(9)*
+
+34
+
+(4)*
+
+23
+
+(3)*
+
+9
+
+II 130 (28)*
+
+79
+
+(18)*
+
+47
+
+(7)*
+
+28
+
+(5)*
+
+11
+
+III 240 (52)* 139 (40)* 60 (18)* 30
+
+(6)*
+
+13
+
+I
+
+II
+
+III
+
+Recto
+
+Figura 5 Supervivencia libre de enfermedad por estadio en cáncer de colon (a) y recto (b).
+
+S.M. Campo-Sánchez et al.
+
+Supervivencia acumulada
+
+a
+1.0 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0 Log rank: X² : 141.2 p<0.05
+
+0
+
+12
+
+24
+
+36
+
+48
+
+60
+
+N° en riesgo N° eventos*
+
+Tiempo en meses
+
+I 47 (1)* 46 (3)* 38 (1)* 29 (2)* 17 (1)* 9 II 114 (6)* 108 (6)* 90 (5)* 65 (3)* 48 (2)* 33 III 149 (16)* 133 (17)* 91 (10)* 59 (8)* 34 (2)* 20 IV 77 (35)* 42 (16)* 23 (9)* 12 (1)* 7 (1)* 3
+
+I
+
+II
+
+III
+
+IV
+
+Colon derecho
+
+Supervivencia acumulada
+
+b
+1.0 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0 Log rank X² : 209.0 p<0.05
+
+0
+
+12
+
+24
+
+36
+
+48
+
+60
+
+N° en riesgo N° eventos*
+
+Tiempo en meses
+
+I 112 (6)* 104 (5)* 78 (6)* 59 (2)* 43 (3)* 19 II 237 (33)* 203 (19)* 152 (17)* 107 (8)* 69 (7)* 33 III 343 (42)* 298 (38)* 198 (21)* 121 (16)* 74 (4)* 38 IV 232 (76)* 154 (55)* 82 (32)* 45 (15)* 22 (6)* 11
+
+I
+
+II
+
+III
+
+IV
+
+Colon izquierdo
+
+Figura 6 Supervivencia global por estadio en colon derecho (a) e izquierdo (b).
+
+Discusión y conclusiones
+La incidencia del cáncer colorrectal está en aumento en Colombia desde hace varios an˜os10---12 y se proyecta que para el an˜o 2045 sea igual a la del cáncer gástrico13. Así mismo, aunque la mortalidad por cáncer colorrectal ha disminuido en países desarrollados, ha aumentado en países de escasos recursos como el nuestro14---17, probablemente por una mayor exposición a factores de riesgo atribuible al aumento de la urbanización en muchos de ellos, una detección más tardía por la poca disponibilidad de programas de tamización y prevención y un menor acceso a un tratamiento adecuado. Por lo anterior, es importante conocer las características clínicas, el diagnóstico y el manejo de los pacientes en nuestro medio, así como sus desenlaces en términos de supervivencia.
+En los pacientes del estudio se encontró que la edad promedio en el momento del diagnóstico (63.3 an˜os) corresponde a la de la mayoría de los pacientes de otros lugares del mundo y de nuestro país3,6---9,18,19. Contrariamente a lo observado en la mayoría de los reportes en países desarrollados, donde la incidencia es mayor en hombres3,20,21, se observó un predominio en el sexo femenino, que se ha evidenciado
+
+Supervivencia de cáncer colorrectal en un centro oncológico de Colombia
+
+181
+
+Supervivencia acumulada
+
+a
+1.0 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0 Log rank X² : 21.5 p<0.05
+
+0
+
+12
+
+N° en riesgo N° eventos* I 47 (1)* 36 II 114 (10)* 87 III 149 (33)* 89
+
+24
+Tiempo en meses (4)* 23 (3)* (7)* 58 (4)* (20)* 49 (4)*
+
+I
+
+II
+
+Supervivencia acumulada
+
+Colon derecho
+b
+1.0 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0 Log rank X² : 22.7 p<0.05
+
+0
+
+12
+
+N° en riesgo N° eventos* I 112 (10)* 84 II 236 (47)* 147 III 343 (76)* 200
+
+24 Tiempo en meses
+(9)* 57 (5)* (26)* 91 (11)* (50)* 102 (23)*
+
+36 12 (2)* 40 (3)* 29 (6)*
+III
+36 35 (3)* 54 (7)* 57 (8)*
+
+48 6 22 14
+48 17 24 27
+
+I
+
+II
+
+III
+
+Colon derecho
+
+Figura 7 Supervivencia libre de enfermedad por estadio en colon derecho (a) e izquierdo (b).
+
+en otros estudios nacionales7---9; las hipótesis para el predominio en hombres ha sido su mayor exposición a factores de riesgo y las hormonas femeninas como factores protectores en las mujeres.
+Los factores de riesgo más importantes fueron el tabaquismo y el consumo de alcohol, que se han asociado de manera consistente como carcinogénicos en múltiples neoplasias22, incluyendo la colorrectal, y con frecuencias variables en los diferentes estudios, pero más consistentes para tabaquismo, que alcanza hasta el 52% en algunos reportes6,7,9,23. Otro factor de riesgo relevante fue la diabetes mellitus, lo cual concuerda con lo encontrado en los diferentes reportes del mundo, en los que se ha evidenciado además que estos pacientes presentan una mayor mortalidad6,24---26. El antecedente familiar de neoplasia colónica, a pesar de mostrar una asociación clara con la incidencia de cáncer colorrectal, con un aumento de 2 o más veces del riesgo de padecerlo en el caso de tener al menos un familiar de primer grado afectado, fue infrecuente en nuestro estudio y en otros6,7,20,23,27. La mayoría de los pacientes tenía un peso normal, seguido de sobrepeso, y un porcentaje menor tenía obesidad, lo cual es congruente con los hallazgos de otros estudios colombianos8,9,23; la obesidad se ha identiﬁcado como factor de riesgo28---30 y debería tenerse
+
+en cuenta en Colombia, ya que su prevalencia es cada vez mayor.
+Los principales síntomas fueron la rectorragia y el dolor abdominal, de manera similar a lo que se reporta en la literatura local y mundial, con valores predictivos positivos que alcanzan hasta 12.9 y 13.5, respectivamente, en algunos metaanálisis31,32. Los anteriores síntomas van seguidos por cambios en el hábito intestinal, diarrea, estren˜imiento, pérdida de peso y anemia, hallazgos que van en concordancia con los de otras series6---8,23. Se mantienen asintomáticos tan solo el 0.8% en el momento del diagnóstico, por lo que la educación de los pacientes para reconocer los síntomas podría impactar sus desenlaces. La presentación inicial como obstrucción o perforación, que está reportada en la literatura con frecuencias de entre el 3 y el 40%, más común en colon que en recto (21.7 y 5.9%, respectivamente) y con mayor mortalidad, no se encontró en este estudio33,34.
+El estadio más frecuente en el momento del diagnóstico fue el iii, seguido del ii y el iv, con porcentajes cercanos estos 2 últimos y muy pocos pacientes con tumores in situ. La casi totalidad (98.1%) fueron adenocarcinomas, casi la mitad bien diferenciados. Un porcentaje cercano a la mitad se ubicaban en el recto, casi un cuarto en el colon descendente y otro cuarto en el colon ascendente. Dichos hallazgos son los mismos que se han encontrado en estudios de nuestro país6,9,23,35 y de otras localidades18,36, con algunas excepciones, como la cohorte de Dinamarca19 y una de las series de Cali8. El antígeno carcinoembrionario fue positivo en la mitad de los pacientes (se pudo obtener el dato en el 32.9%, debido a que no todos los pacientes fueron inicialmente evaluados en el IDC) en el momento del diagnóstico, lo cual demuestra su baja sensibilidad para el diagnóstico, especialmente en estadios tempranos, ya que en enfermedad avanzada está positivo en un porcentaje mayor de pacientes, razón por la que se han tratado de identiﬁcar otros marcadores, sin mucho éxito7,37---39.
+Menos del 10% de los pacientes tenían metástasis en el momento del diagnóstico y un 7.3% las presentó durante el seguimiento para un total de 15.5%, siendo casi todas a distancia y la mayoría metacrónicas, afectando más hígado, pulmón y peritoneo, porcentajes que son menores a los reportados en otras partes del mundo, siendo los sitios de metástasis y la sincronía muy similares33,40---43.
+La mayoría de los pacientes se trató con intervención quirúrgica y, dependiendo de la localización, recibieron terapia neoadyuvante y adyuvante con quimioterapia y radioterapia, así como tratamiento paliativo en algunos casos; un porcentaje de pacientes no recibió ningún tratamiento debido a que fallecieron antes del mismo, no lo aceptaron o no continuaron en controles médicos. Todo lo anterior está en concordancia con la literatura mundial, la cual reﬂeja que la piedra angular del manejo curativo del cáncer colorrectal que al diagnóstico no es metastásico es la cirugía, pero tanto la quimioterapia como la radioterapia juegan un papel importante en el tratamiento para ayudar a mejorar la supervivencia de los pacientes44---47.
+La SG a 5 an˜os fue del 45.5%, menor a la de otros países3,4, y a 2 an˜os fue del 68.4%, superior a la reportada por Pardo y de Vries en un estudio colombiano47; se encontró, además, una menor supervivencia para el cáncer de recto comparado con el de colon, cuya diferenciación se empieza a establecer a los 11 meses del diagnóstico aproximadamente. Además,
+
+182
+es menor la supervivencia en los estadios más avanzados tanto en colon como en recto, pero manteniéndose la diferencia entre ambas neoplasias con peores desenlaces para el recto. Se evidenció que la mortalidad por cáncer de recto fue ligeramente mayor que la de colon, al contrario de lo observado en Estados Unidos, donde se diagnostica el cáncer de recto en estadios más localizados (43 vs. 38%), probablemente porque los pacientes presentan más síntomas3.
+En nuestra serie, los pacientes con cáncer de colon derecho tuvieron mayor SG y SLE que aquellos con cáncer de colon izquierdo, al contrario de lo reportado en estudios en los que el cáncer de colon derecho tiene peor pronóstico que el izquierdo, lo que, se especula, se debe a que los pacientes con neoplasias en esta localización son más ancianos, se diagnostican en estadios más avanzados, tienen patrones histológicos posiblemente de peor pronóstico, como el tipo mucinoso y adenocarcinomas pobremente o mal diferenciados, y un posible mayor número de mutaciones en KRAS y BRAF e inestabilidad microsatelital. Esta diferencia en el comportamiento de la localización del cáncer se ha relacionado con algunas características biológicas particulares de cada lateralidad, tales como diferentes orígenes embriológicos que impactan la migración y diferenciación celular, así como la expresión génica, o una microbiota con formación de biopelículas en el colon derecho con respuestas procarcinogénicas de las células epiteliales y mayores niveles de ácidos biliares en el colon derecho con potencial para producir dan˜o en el ADN21,29,34,48---53. Todas estas aseveraciones que intentan explicar la menor sobrevida del cáncer del colon derecho en las otras series permanecen en el campo especulativo, y en vista de que la mayoría de ellas no fueron evaluadas en el estudio, no se puede explicar la diferencia de nuestra serie con respecto a algunas de las previamente publicadas.
+Debido a las diferencias mencionadas en el pronóstico de los pacientes de acuerdo con la localización del tumor, algunos autores han planteado que el cáncer colorrectal debería dividirse en cáncer derecho (desde el colon ascendente hasta el ángulo esplénico) e izquierdo (desde el ángulo esplénico hasta el recto). La SG de los pacientes a los 2 an˜os con base en esta clasiﬁcación fue mayor a la encontrada para el cáncer de colon y recto, aunque similar a los 5 an˜os. Nuestros hallazgos son diferentes a los reportados en algunos estudios de otras partes del mundo, en los que la SG de los pacientes con neoplasias de colon derecho es menor50,53---56, lo cual también ha sido debatido a la luz de lo encontrado en otras cohortes57---60 que, como la nuestra, reportan una SG igual para ambas localizaciones, e incluso superior para los izquierdos.
+Este estudio tiene como fortaleza principal el número de pacientes, siendo la segunda serie más grande de Colombia después de la de Bohórquez et al.9, y la debilidad es la misma de los estudios descriptivos, es decir, la falta de reporte de algunos datos en las historias clínicas. Se pudo evidenciar que los pacientes son similares a los de otros estudios tanto locales como de otras partes del mundo, que el manejo de los mismos sigue los lineamientos establecidos por diferentes sociedades y que probablemente por ser un país de escasos recursos, con difícil acceso a servicios de salud en algunos casos, la sobrevida de los pacientes es menor que la observada en países desarrollados. Se concluye, además, que se deben fortalecer las estrategias de
+
+S.M. Campo-Sánchez et al.
+tamización como están estipuladas en las diferentes guías, incluyendo la colombiana61, dado su impacto benéﬁco sobre mortalidad en cáncer colorrectal, con detección en estadios más tempranos que llevan a una menor recurrencia y mortalidad62.
+Financiación
+La presente investigación no recibió becas especíﬁcas provenientes de agencias del sector público, del sector comercial o sin ánimo de lucro.
+Responsabilidades éticas
+Protección de personas y animales. Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+Conﬁdencialidad de los datos. Los autores declaran que han seguido los protocolos de su centro de trabajo sobre la publicación de datos de pacientes.
+Derecho a la privacidad y consentimiento informado. Los autores declaran que en este artículo no aparecen datos de pacientes
+Conﬂicto de intereses
+Los autores declaran no tener ningún conﬂicto de intereses.
+Referencias
+1. Torre LA, Bray F, Siegel RL, et al. Global cancer statistics, 2012. CA Cancer J Clin. 2015;65:87---108.
+2. International Agency for Research on Cancer. GLOBOCAN 2012: Estimated cancer incidence, mortality and prevalence worldwide in 2012 [consultado 10 Ene 2016]. Lyon: IARC; 2018. Disponible en: http://globocan.iarc.fr/Default.aspx
+3. Siegel RL, Miller KD, Fedewa SA, et al. Colorectal cancer statistics, 2017. CA Cancer J Clin. 2017;67:177---93.
+4. Edge S, Byrd D, Compton C. AJCC (American Joint Committee on Cancer) cancer staging manual. 7th ed. New York: Springer; 2010.
+5. Montenegro YM, Ramírez AT, Mun˜etón CM, et al. Comportamiento del cáncer colorrectal en pacientes menores de cuarenta an˜os del Hospital Universitario Hernando Moncaleano Perdomo de Neiva (HUHMP) y el Hospital Universitario San Vicente de Paul de Medellín (HUSVP) entre 1980 y 2000. Rev Colomb Cir. 2002;17:10---4.
+6. Barrero DC, Cortés E, Rodríguez C, et al. Características epidemiológicas y clínicas del cáncer colorrectal en pacientes de la ciudad de Ibagué durante el período 2000-2006. Rev Col Gastroenterol. 2008;23:315---26.
+7. Ferreira EJ, Meléndez HJ. Características clínicas, demográﬁcas e histopatológicas de los pacientes con cáncer colorrectal del Hospital Universitario de Santander. Rev Colomb Cir. 2012;27:213---20.
+8. Saavedra MA, Guerrero Villota A, López DM, et al. Caracterización de los pacientes diagnosticados con cáncer colorrectal en el periodo 2010-2012 en Hematooncólogos S.A. Rev Colomb Cancerol. 2013;17:176.
+
+Supervivencia de cáncer colorrectal en un centro oncológico de Colombia
+
+183
+
+9. Bohórquez M, Sahasrabudhe R, Criollo A, et al. Clinical manifestations of colorectal cancer patients from a large multicenter study in Colombia. Medicine (Baltimore). 2016;95:e4883.
+10. Bravo LE, Collazos T, Collazos P, et al. Trends of cancer incidence and mortality in Cali, Colombia. 50 years experience. Colomb Med (Cali). 2012;43:246---55.
+11. Armando C, Bravo LE, Clín P, et al. Incidencia, mortalidad y supervivencia por cáncer colorrectal en Cali, Colombia, 19622012. Salud Publica Mex. 2014;56:457---64.
+12. Villamizar L, Albis R, Abadía M, et al. Tamización de cáncer colorrectal en población adulta asintomática: revisión sistemática. Rev Colomb Cancerol. 2010;14:152---68.
+13. Ángel Arango LA, Giraldo Ríos A, Pardo Turriago CE. Mortalidad por cánceres del aparato digestivo en Colombia entre 1980 y 1998, Análisis de tendencias y comparación reginal. Rev Fac Med. 2004;52:19---37.
+14. Chatenoud L, Bertuccio P, Bosetti C, et al. Trends in mortality from major cancers in the Americas: 1980-2010. Ann Oncol. 2014;25:1843---53.
+15. Pin˜eros M, Gamboa O, Hernández-Suárez G, et al. Patterns and trends in cancer mortality in Colombia 1984-2008. Cancer Epidemiol. 2013;37:233---9.
+16. Bray F, Pin˜eros M. Cancer patterns trends and projections in Latin America and the Caribbean: A global context. Salud Publica Mex. 2016;58:104---17.
+17. Zarate AJ, Alonso FT, Garmendia ML, et al. Increasing crude and adjusted mortality rates for colorectal cancer in a developing South American country. Colorectal Dis. 2013;15: 47---51.
+18. Vilorio Marqués L, Molina AJ, Diez Tascón C, et al. Características clínicas, anatomopatológicas y moleculares en casos de cáncer colorrectal según localización tumoral y grado de diferenciación. Rev Colomb Cancerol. 2015;19:193---203.
+19. Torring ML, Frydenberg M, Hansen RP, et al. Time to diagnosis and mortality in colorectal cancer: A cohort study in primary care. Br J Cancer. 2011;104:934---40.
+20. Sierra MS, Forman D. Burden of colorectal cancer in Central and South America. Cancer Epidemiol. 2016;44:S74---81.
+21. Caldarella A, Crocetti E, Messerini L, et al. Trends in colorectal incidence by anatomic subsite from 1985 to 2005: A populationbased study. Int J Colorectal Dis. 2013;28:637---41.
+22. Cogliano VJ, Baan R, Straif K, et al. Preventable exposures associated with human cancers. J Natl Cancer Inst. 2011;103:1827---39.
+23. Agudelo LD, Figueroa C (dir.). Experiencia en el manejo de cáncer colorrectal en el Hospital Universitario Mayor - Mederi [tesis de grado]. [consultado 17 Ago 17]. Bogotá D. C.: Colegio Mayor de Nuestra Sen˜ora del Rosario; 2015. Disponible en: http:// repository.urosario.edu.co/handle/10336/11811?show=full.
+24. Cancer Facts & Figures for Hispanics/Latinos 2015-2017. Atlanta, Georgia: American Cancer Society; 2015 [consultado 20 Sep 17]. Disponible en: https://www.cancer.org/content/ dam/cancer-org/research/cancer-facts-and-statistics/cancerfacts-and-ﬁgures-for-hispanics-and-latinos/cancer-facts-andﬁgures-for-hispanics-and-latinos-2015-2017.pdf
+25. Mills KT, Bellows CF, Hoffman AE, et al. Diabetes and colorectal cancer prognosis: A meta-analysis. Dis Colon Rectum. 2013;56:1304---19.
+26. He J, Stram DO, Kolonel LN, et al. The association of diabetes with colorectal cancer risk: The Multiethnic Cohort. Br J Cancer. 2010;103:120---6.
+27. Butterworth AS, Higgins JP, Pharoh P. Relative and absolute risk of colorectal cancer for individuals with a family history: A meta-analysis. Eur J Cancer. 2006;42:216---27.
+28. Bhaskaran K, Douglas I, Forbes H, et al. Body-mass index and risk of 22 speciﬁc cancers: A population-based cohort study of 5·24 million UK adults. Lancet. 2014;384:755---65.
+
+29. Lee GH, Malietzis G, Askari A, et al. Is right-sided colon cancer different to left-sided colorectal cancer? A systematic review. Eur J Surg Oncol. 2015;41:300---8.
+30. Robsahm TE, Aagnes B, Hjartaker A, et al. Body mass index, physical activity, and colorectal cancer by anatomical subsites: A systematic review and meta-analysis of cohort studies. Eur J Cancer Prev. 2013;22:492---505.
+31. Del Giudice ME, Vella ET, Hey A, et al. Systematic review of clinical features of suspected colorectal cancer in primary care. Can Fam Physician. 2014;60:e405---15.
+32. Astin M, Grifﬁn T, Neal RD, et al. The diagnostic value of symptoms for colorectal cancer in primary care: A systematic review. Br J Gen Pract. 2011;61:231---43.
+33. Ghazi S, Berg E, Lindblom A, et al. Clinicopathological analysis of colorectal cancer: A comparison between emergency and elective surgical cases. World J Surg Oncol. 2013;11:133.
+34. Chen TM, Huang YT, Wang GC. Outcome of colon cancer initially presenting as colon perforation and obstruction. World J Surg Oncol. 2017;15:164.
+35. Flórez Delgado NY, Bohórquez ME, Mateus G, et al. Caracterización de los hallazgos histopatológicos de tumores colorrectales en pacientes del Tolima, Colombia. Rev Col Gastroenterol. 2012;27:88---95.
+36. Snaebjornsson P, Jonasson L, Jonsson T, et al. Colon cancer in Iceland–A nationwide comparative study on various pathology parameters with respect to right and left tumor location and patients age. Int J Cancer. 2010;127:2645---53.
+37. Thomas DS, Fourkala EO, Apostolidou S, et al. Evaluation of serum CEA, CYFRA21-1 and CA125 for the early detection of colorectal cancer using longitudinal preclinical samples. Br J Cancer. 2015;113:268---74.
+38. Zhong W, Yu Z, Zhan J, et al. Association of serum levels of CEA, CA199, CA125, CYFRA21-1 and CA72-4 and disease characteristics in colorectal cancer. Pathol Oncol Res. 2015;21: 83---95.
+39. Pan C, Yan X, Li H, et al. Systematic literature review and clinical validation of circulating microRNAs as diagnostic biomarkers for colorectal cancer. Oncotarget. 2017;8:68317---28.
+40. Van der Pool AE, Damhuist RA, Ijzermans JN, et al. Trends in incidence, treatment and survival of patients with stage iv colorectal cancer: A population-based series. Colorectal Dis. 2012;14:56---61.
+41. Mitry E, Guiu B, Cosconea S, et al. Epidemiology, management and prognosis of colorectal cancer with lung metastases: A 30year population-based study. Gut. 2010;59:1383---8.
+42. Van der Geest LG, Lam Boer J, Koopman M, et al. Nationwide trends in incidence, treatment and survival of colorectal cancer patients with synchronous metastases. Clin Exp Metastasis. 2015;32:457---65.
+43. Hackl C, Gerken M, Loss M, et al. A population-based analysis on the rate and surgical management of colorectal liver metastases in Southern Germany. Int J Colorectal Dis. 2011;26: 1475---81.
+44. National Comprehensive Cancer Network. Guidelines for treatment of colon and rectal cancer. NCCN; 2017 [consultado 30 Oct 2017]. Disponible en: https://www.nccn.org/ professionals/physician gls/default.aspx#site
+45. Brenner H, Kloor M, Pox CP. Colorectal cancer. Lancet. 2014;383:1490---502.
+46. Hatcher O, Kumar AA. Chemotherapy and radiotherapy for colorectal cancers. Surgery. 2014;32:179---84.
+47. Pardo C, de Vries E. Supervivencia global de pacientes con cáncer en el Instituto Nacional de Cancerología (INC). Rev Colomb Cancerol. 2017;21:12---8.
+48. Hemminki K, Santi I, Weires M, et al. Tumor location and patient characteristics of colon and rectal adenocarcinomas in relation to survival and TNM classes. BMC Cancer. 2010;10:688.
+
+184
+49. Minoo P, Zlobec I, Peterson M, et al. Characterization of rectal, proximal and distal colon cancers based on clinicopathological, molecular and protein proﬁles. Int J Oncol. 2010;37: 707---18.
+50. Yahagi M, Okabayashi K, Hasegawa H, et al. The worse prognosis of right-sided compared with left-sided colon cancers: A systematic review and meta-analysis. J Gastrointest Surg. 2016;20:648---55.
+51. Yang J, Du X, Li S, et al. Characteristics of differently located colorectal cancers support proximal and distal classiﬁcation: A population-based study of 57,847 patients. PLoS One. 2016;11:e0167540.
+52. Shen H, Yang J, Huang Q, et al. Different treatment strategies and molecular features between right-sided and left-sided colon cancers. World J Gastroenterol. 2015;21:6470---8.
+53. Lee MS, Menter DG, Kopetz S. Right versus left colon cancer biology: Integrating the consensus molecular subtypes. J Natl Compr Canc Netw. 2017;15:411---9.
+54. Qin Q, Yang L, Sun Y, et al. Comparison of 627 patients with right- and left-sided colon cancer in China: Differences in clinicopathology, recurrence, and survival. Chronic Dis Transl Med. 2017;3:51---9.
+55. Lim DR, Kuk JK, Shin EJ. Comparison of oncological outcomes of right-sided colon cancer versus left-sided colon cancer after curative resection. Which side is better outcome? Medicine (Baltimore). 2017;96:e8241.
+
+S.M. Campo-Sánchez et al.
+56. Nitsche U, Stogbauer F, Späth C, et al. Right sided colon cancer as a distinct histopathological subtype with reduced prognosis. Dig Surg. 2016;33:157---63.
+57. Karim S, Brennan K, Nanji S, et al. Association between prognosis and tumor laterality in early-stage colon cancer. JAMA Oncol. 2017;3:1386---92.
+58. Liu F, Li C, Jia H, et al. Is there a prognostic value of tumor location among Chinese patients with colorectal cancer? Oncotarget. 2017;8:38682---92.
+59. Warschkow R, Sulz MC, Marti L, et al. Better survival in rightsided versus left-sided stage i-iii colon cancer patients. BMC Cancer. 2016;16:554---68.
+60. Jess P, Hansen I, Gamborg M, et al. A nationwide Danish cohort study challenging the categorisation into right-sided and leftsided colon cancer. BMJ Open. 2013;3:e002608.
+61. Colciencias, Instituto Nacional de Cancerología ESE-FEDESALUD. Guía de práctica clínica (GPC) para la detección temprana, el diagnóstico, tratamiento integral, seguimiento y rehabilitación de pacientes con diagnóstico de cáncer de colon y recto. Guía No. 2013-20. Bogotá, Colombia: Ministerio de Salud y Protección Social; 2013 [consultado 16 Sep 2017]. Disponible en: https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/ RIDE/INEC/IETS/GPC Comple Ca Colon%20(1).pdf
+62. Ananda S, Wong H, Faragher I, et al. Survival impact of the Australian National Bowel Cancer Screening Programme. Intern Med J. 2016;46:166---71.

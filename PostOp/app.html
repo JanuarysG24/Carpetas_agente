@@ -1,0 +1,847 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Agente de seguimiento post-operatorio</title>
+<style>
+:root{--bg:#0f1419;--p:#161d26;--p2:#1d2733;--ln:#2a3646;--tx:#e8eef6;--dim:#93a3b8;
+      --ac:#4a9eff;--acd:#1e4976;--ok:#3fb950;--am:#d29922;--rj:#f85149}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font:15px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.app{max-width:900px;margin:0 auto;padding:14px;min-height:100vh;display:flex;flex-direction:column;gap:10px}
+header{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+h1{font-size:16px;margin:0;font-weight:600}
+.sub{color:var(--dim);font-size:12px}
+.sp{flex:1}
+button{font:inherit;border:1px solid var(--ln);background:var(--p2);color:var(--tx);padding:8px 13px;border-radius:8px;cursor:pointer}
+button:hover:not(:disabled){border-color:var(--ac)}
+button:disabled{opacity:.45;cursor:not-allowed}
+button.pri{background:var(--ac);border-color:var(--ac);color:#04121f;font-weight:600}
+button.rec{background:var(--rj);border-color:var(--rj);color:#fff}
+button.sm{padding:5px 10px;font-size:13px}
+.tabs{display:flex;gap:6px;border-bottom:1px solid var(--ln);padding-bottom:8px}
+.tabs button.on{background:var(--acd);border-color:var(--ac)}
+.pane{display:none;flex-direction:column;gap:10px;flex:1}
+.pane.on{display:flex}
+.chat{flex:1;background:var(--p);border:1px solid var(--ln);border-radius:12px;padding:14px;overflow-y:auto;min-height:280px;display:flex;flex-direction:column;gap:11px}
+.msg{max-width:82%;padding:9px 13px;border-radius:12px;white-space:pre-wrap;word-wrap:break-word}
+.msg.a{background:var(--p2);border:1px solid var(--ln);align-self:flex-start;border-bottom-left-radius:3px}
+.msg.u{background:var(--acd);align-self:flex-end;border-bottom-right-radius:3px}
+.who{font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:var(--dim);margin-bottom:3px}
+.cita{font-size:11px;color:var(--dim);margin-top:6px;padding-top:5px;border-top:1px solid var(--ln)}
+.dots{align-self:flex-start;color:var(--dim);font-size:13px;padding:5px 3px}
+.bar{display:flex;gap:7px;align-items:flex-end}
+textarea{flex:1;resize:none;background:var(--p);color:var(--tx);border:1px solid var(--ln);border-radius:10px;padding:10px 12px;font:inherit;min-height:44px;max-height:140px}
+textarea:focus{outline:none;border-color:var(--ac)}
+.cov{display:flex;gap:5px;flex-wrap:wrap}
+.chip{font-size:11px;padding:3px 9px;border-radius:20px;border:1px solid var(--ln);color:var(--dim)}
+.chip.on{border-color:var(--ok);color:var(--ok)}
+.note{font-size:12px;color:var(--dim)}
+.err{background:rgba(248,81,73,.12);border:1px solid var(--rj);color:#ffb4ae;padding:8px 12px;border-radius:8px;font-size:13px}
+.ok{background:rgba(63,185,80,.1);border:1px solid var(--ok);color:#9ae6a8;padding:8px 12px;border-radius:8px;font-size:13px}
+dialog{background:var(--p);color:var(--tx);border:1px solid var(--ln);border-radius:12px;padding:20px;max-width:480px;width:92%}
+dialog::backdrop{background:rgba(0,0,0,.6)}
+label{display:block;font-size:12px;color:var(--dim);margin:11px 0 4px}
+input,select{width:100%;background:var(--bg);color:var(--tx);border:1px solid var(--ln);border-radius:8px;padding:9px 11px;font:inherit}
+.row{display:flex;gap:8px;margin-top:16px}
+.card{background:var(--p);border:1px solid var(--ln);border-radius:12px;padding:14px}
+.ver{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:12px}
+.bola{width:15px;height:15px;border-radius:50%}
+.v-verde .bola{background:var(--ok)}.v-amarillo .bola{background:var(--am)}.v-rojo .bola{background:var(--rj)}
+.v-verde{color:var(--ok)}.v-amarillo{color:var(--am)}.v-rojo{color:var(--rj)}
+.ver strong{font-size:17px;text-transform:uppercase;letter-spacing:.04em}
+.votos{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-bottom:12px}
+.voto{background:var(--bg);border:1px solid var(--ln);border-radius:10px;padding:10px 12px}
+.voto .t{font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:var(--dim);margin-bottom:4px}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th,td{text-align:left;padding:5px 7px;border-bottom:1px solid var(--ln);vertical-align:top}
+th{color:var(--dim);font-weight:500;font-size:10px;text-transform:uppercase;letter-spacing:.05em}
+code{font:12px ui-monospace,Menlo,Consolas,monospace;color:var(--ac)}
+.sinval{color:var(--dim);font-style:italic}
+.lista{max-height:340px;overflow-y:auto;border:1px solid var(--ln);border-radius:10px}
+.lista table{font-size:12px}
+.lista th{position:sticky;top:0;background:var(--p2)}
+pre{background:var(--bg);border:1px solid var(--ln);border-radius:8px;padding:12px;white-space:pre-wrap;font:12px/1.55 ui-monospace,Menlo,Consolas,monospace;margin:0;max-height:400px;overflow:auto}
+.frag{background:var(--bg);border:1px solid var(--ln);border-radius:8px;padding:10px;margin-bottom:8px;font-size:13px}
+@media(max-width:640px){.votos{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="app">
+
+  <header>
+    <div><h1>Agente de seguimiento post-operatorio</h1><div class="sub" id="sub">—</div></div>
+    <div class="sp"></div>
+    <button id="bCfg" class="sm">Ajustes</button>
+    <button id="bNueva" class="sm">Nueva llamada</button>
+  </header>
+
+  <div class="tabs">
+    <button id="tLlamada" class="on">Llamada</button>
+    <button id="tCon">Consola de conocimiento</button>
+    <button id="tReg">Registro</button>
+  </div>
+
+  <div id="alerta"></div>
+
+  <!-- ══════════ LLAMADA ══════════ -->
+  <div class="pane on" id="pLlamada">
+    <div class="chat" id="chat"></div>
+    <div class="cov" id="cov"></div>
+    <div class="bar">
+      <button id="bMic">🎙 Hablar</button>
+      <textarea id="ent" rows="1" placeholder="Escriba o use el micrófono…"></textarea>
+      <button id="bEnv" class="pri">Enviar</button>
+    </div>
+    <div class="note" id="estado">Configure el proveedor en Ajustes.</div>
+    <div id="res"></div>
+  </div>
+
+  <!-- ══════════ CONSOLA ══════════ -->
+  <div class="pane" id="pCon">
+    <div class="card">
+      <strong>Subir conocimiento</strong>
+      <div class="note" style="margin:6px 0 10px">
+        Archivos <code>.txt</code> o <code>.md</code>. El agente lo usa en la siguiente pregunta,
+        sin reiniciar nada.
+      </div>
+      <div class="bar">
+        <input type="file" id="fSubir" accept=".txt,.md,.text" multiple style="flex:1">
+        <button id="bReindex" class="sm">Reindexar</button>
+      </div>
+      <div id="conMsg" style="margin-top:10px"></div>
+    </div>
+
+    <div class="card">
+      <div class="bar" style="margin-bottom:10px">
+        <strong style="flex:1">Base de conocimiento · <span id="nDocs">0</span> documentos ·
+          <span id="nFrags">0</span> fragmentos</strong>
+        <input id="fBuscar" placeholder="Probar recuperación…" style="max-width:260px">
+        <button id="bBuscar" class="sm">Buscar</button>
+      </div>
+      <div id="resBusq"></div>
+      <div class="lista">
+        <table id="tblDocs"><thead><tr>
+          <th>Documento</th><th>Tipo</th><th>Frag.</th><th></th>
+        </tr></thead><tbody></tbody></table>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════ REGISTRO ══════════ -->
+  <div class="pane" id="pReg">
+    <div class="card">
+      <div class="bar" style="margin-bottom:10px">
+        <strong style="flex:1">Registro de la sesión</strong>
+        <button id="bCopiarReg" class="sm">Copiar</button>
+        <button id="bBajarReg" class="sm">Descargar</button>
+      </div>
+      <pre id="reg">La sesión no ha empezado.</pre>
+    </div>
+  </div>
+
+</div>
+
+<dialog id="cfg">
+  <h3 style="margin:0 0 4px">Ajustes</h3>
+  <div class="note">Todo se guarda solo en este navegador.</div>
+  <label>Paciente y procedimiento</label>
+  <input id="cPac" placeholder="Sra. Gómez · colecistectomía · día 7">
+  <label>Proveedor</label>
+  <select id="cProv">
+    <option value="groq">Groq — una sola clave para modelo y voz</option>
+    <option value="gemini">Google Gemini</option>
+    <option value="openrouter">OpenRouter</option>
+    <option value="ollama">Ollama (local)</option>
+  </select>
+  <label>Modelo</label>
+  <input id="cModelo">
+  <label>Clave de API <span id="lKey" class="note"></span></label>
+  <input id="cKey" type="password">
+  <label>URL de Ollama</label>
+  <input id="cOllama" value="http://localhost:11434">
+  <label>Entrada de voz</label>
+  <select id="cStt">
+    <option value="nav">Navegador — continuo, sin coste (Chrome/Edge)</option>
+    <option value="whisper">Whisper de Groq — grabar y transcribir</option>
+  </select>
+  <label>Voz de salida</label>
+  <select id="cVoz"></select>
+  <div class="row">
+    <button class="pri" id="bGuardar" style="flex:1">Guardar</button>
+    <button id="bCerrar">Cerrar</button>
+  </div>
+</dialog>
+
+<script id="corpus-embebido" type="application/json">/*CORPUS*/</script>
+
+<script>
+"use strict";
+
+/* ══════════════════════════════════════════════════════════════════════════
+   Agente de voz para seguimiento post-operatorio.
+
+   Un archivo. La conversación la gobierna EL PROMPT — no hay máquina de
+   estados ni capas de arbitraje. El código solo hace lo que un modelo no
+   debe hacer: reglas reproducibles, recuperación, y registro.
+   ══════════════════════════════════════════════════════════════════════════ */
+
+/* ─── 1 · DOMINIO — el voto determinista ──────────────────────────────────
+   Derivado de 160 casos etiquetados del reto. Datos sintéticos, procedencia
+   `inferred`, SIN validación clínica. Versionado: postop-0.1.0             */
+
+const DOMINIO_V = "postop-0.1.0";
+
+const UNIDADES = {
+  fiebre:           { et:"Fiebre",    u:"°C" },
+  dolor_intensidad: { et:"Dolor",     u:"/10" },
+  aspecto_herida:   { et:"Herida",    vals:["normal","eritema_leve","secrecion_purulenta","dehiscencia"] },
+  movilidad:        { et:"Movilidad", vals:["normal","limitada_esperada","incapacitante_nueva"] },
+  apetito:          { et:"Apetito",   vals:["normal","levemente_disminuido","muy_disminuido"] },
+  sueno:            { et:"Sueño",     vals:["normal","levemente_alterado","muy_alterado"] }
+};
+
+function clasificar(u, v) {
+  if (v === null || v === undefined || v === "") return null;
+  const cat = (mapa) => mapa[v] || { clase:"no_clasificable", regla:"FALLBACK" };
+  switch (u) {
+    case "fiebre": {
+      const n = Number(String(v).replace(",", "."));
+      if (!isFinite(n)) return { clase:"no_clasificable", regla:"FALLBACK" };
+      return n >= 37.9 ? { clase:"respuesta_sistemica", regla:"FC-FIE-01" }
+                       : { clase:"sin_compromiso",      regla:"FC-FIE-02" };
+    }
+    case "dolor_intensidad": {
+      const n = Number(v);
+      if (!isFinite(n)) return { clase:"no_clasificable", regla:"FALLBACK" };
+      return n >= 5 ? { clase:"funcionalidad_local_alterada", regla:"FC-DOL-01" }
+                    : { clase:"sin_compromiso",               regla:"FC-DOL-02" };
+    }
+    case "aspecto_herida": return cat({
+      secrecion_purulenta:{clase:"estructura_declarada", regla:"FC-HER-01"},
+      dehiscencia:        {clase:"estructura_declarada", regla:"FC-HER-02"},
+      eritema_leve:       {clase:"estructura_incipiente",regla:"FC-HER-03"},
+      normal:             {clase:"sin_compromiso",       regla:"FC-HER-04"}});
+    case "movilidad": return cat({
+      incapacitante_nueva:{clase:"funcionalidad_local_perdida",regla:"FC-MOV-01"},
+      limitada_esperada:  {clase:"sin_compromiso",             regla:"FC-MOV-02"},
+      normal:             {clase:"sin_compromiso",             regla:"FC-MOV-03"}});
+    case "apetito": return cat({
+      muy_disminuido:      {clase:"integridad_cedida",regla:"FC-APE-01"},
+      levemente_disminuido:{clase:"sin_compromiso",   regla:"FC-APE-02"},
+      normal:              {clase:"sin_compromiso",   regla:"FC-APE-03"}});
+    case "sueno": return cat({
+      muy_alterado:      {clase:"integridad_cedida",regla:"FC-SUE-01"},
+      levemente_alterado:{clase:"sin_compromiso",   regla:"FC-SUE-02"},
+      normal:            {clase:"sin_compromiso",   regla:"FC-SUE-03"}});
+  }
+  return { clase:"no_clasificable", regla:"FALLBACK" };
+}
+
+/* Composiciones: significado que ninguna parte tiene por separado.
+   CO-02 marcó 12/12 rojos, 0 falsos positivos, 0 falsos negativos sobre 160. */
+function componer(cl) {
+  const h = [];
+  const ced = ["apetito","sueno"].filter(u => cl[u]?.clase === "integridad_cedida");
+  if (ced.length >= 2) h.push({ clase:"integridad_comprometida", regla:"CO-01", or:ced });
+  if (h.length && cl.fiebre?.clase === "respuesta_sistemica")
+    h.push({ clase:"convergencia_sistemica", regla:"CO-02", or:["apetito","sueno","fiebre"] });
+  return h;
+}
+
+/* Tabla de lectura. NO separa el tramo amarillo a propósito: si lo hiciera,
+   el voto del modelo sería redundante y el diseño de dos votos perdería sentido. */
+function leerVD(p) {
+  if (p.has("convergencia_sistemica"))  return { lectura:"rojo",     regla:"VD-01" };
+  if (p.has("estructura_declarada"))    return { lectura:"rojo",     regla:"VD-02" };
+  if (p.has("integridad_comprometida")) return { lectura:"amarillo", regla:"VD-03" };
+  if (p.has("estructura_incipiente"))   return { lectura:"amarillo", regla:"VD-04" };
+  return { lectura:"verde", regla:"VD-05" };
+}
+
+function votoDeterminista(val) {
+  const t0 = performance.now(), cl = {}, reglas = [], sinEval = [];
+  for (const u of Object.keys(UNIDADES)) {
+    const c = clasificar(u, val[u]);
+    if (!c) { sinEval.push(u); continue; }
+    cl[u] = c; reglas.push(`${c.regla} · ${u}=${val[u]} → ${c.clase}`);
+  }
+  const comps = componer(cl);
+  comps.forEach(c => reglas.push(`${c.regla} · ${c.or.join(" + ")} → ${c.clase}`));
+  const pres = new Set([...Object.values(cl).map(c => c.clase), ...comps.map(c => c.clase)]);
+  return { ...leerVD(pres), reglas, clases:cl, sinEval, ms:(performance.now()-t0).toFixed(3) };
+}
+
+/* Ponderador — DISYUNCIÓN SIN VETO. Basta un sí. Ninguno anula al otro. */
+function ponderar(vp, vd) {
+  const o = { verde:0, amarillo:1, rojo:2 };
+  const crit = o[vp] >= o[vd] ? vp : vd;
+  return { criticidad:crit, escalar:crit !== "verde" };
+}
+
+/* ─── 2 · RECUPERACIÓN — BM25 sobre el corpus ─────────────────────────── */
+
+const VACIAS = new Set(("de la que el en y a los del se las por un para con no una su al lo como mas " +
+  "pero sus le ya o este si porque esta entre cuando muy sin sobre tambien me hasta hay donde quien " +
+  "desde todo nos durante todos uno les ni contra otros ese eso ante ellos e esto mi antes algunos " +
+  "the of and to in a is for with on that as by are be this it from or an at was were which").split(" "));
+
+const norm = s => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+const tokenizar = s => norm(s).split(/[^a-z0-9]+/).filter(t => t.length > 2 && !VACIAS.has(t));
+
+const KB = { docs:new Map(), frags:[], idf:new Map(), avgdl:0, listo:false };
+
+function indexar() {
+  const df = new Map(); let total = 0;
+  KB.frags.forEach(f => {
+    f.tk = tokenizar(f.x);
+    f.tf = new Map();
+    f.tk.forEach(t => f.tf.set(t, (f.tf.get(t) || 0) + 1));
+    total += f.tk.length;
+    new Set(f.tk).forEach(t => df.set(t, (df.get(t) || 0) + 1));
+  });
+  KB.avgdl = KB.frags.length ? total / KB.frags.length : 1;
+  KB.idf.clear();
+  const N = KB.frags.length;
+  df.forEach((n, t) => KB.idf.set(t, Math.log(1 + (N - n + 0.5) / (n + 0.5))));
+  KB.listo = true;
+  pintarConsola();
+}
+
+/** Devuelve fragmentos con su doc_id. La fuente es el documento, no el índice. */
+function recuperar(consulta, k = 3) {
+  if (!KB.listo || !KB.frags.length) return [];
+  const q = [...new Set(tokenizar(consulta))];
+  if (!q.length) return [];
+  const k1 = 1.2, b = 0.75;
+  const puntuados = KB.frags.map(f => {
+    let s = 0, casados = 0;
+    for (const t of q) {
+      const tf = f.tf.get(t); if (!tf) continue;
+      casados++;
+      const idf = KB.idf.get(t) || 0;
+      s += idf * (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * f.tk.length / KB.avgdl));
+    }
+    return { f, s, frac: casados / q.length };
+  });
+  /* Piso por FRACCIÓN de términos casados, no por puntaje: BM25 no está
+     normalizado y un umbral de puntaje hay que recalibrarlo cada vez que
+     crece el corpus — un umbral así algún día no se recalibra. */
+  return puntuados.filter(p => p.s > 0 && p.frac >= 0.34)
+                  .sort((a, b) => b.s - a.s).slice(0, k)
+                  .map(p => ({ doc_id:p.f.d, titulo:KB.docs.get(p.f.d)?.t || p.f.d,
+                               texto:p.f.x, score:p.s.toFixed(2) }));
+}
+
+function cargarCorpus() {
+  try {
+    const crudo = document.getElementById("corpus-embebido").textContent.trim();
+    if (!crudo || crudo.startsWith("/*")) { indexar(); return; }
+    const c = JSON.parse(crudo);
+    c.docs.forEach(d => KB.docs.set(d.id, { ...d, semilla:true }));
+    KB.frags = c.frags.map(f => ({ ...f }));
+    indexar();
+  } catch (e) { console.error(e); indexar(); }
+}
+
+function ingerir(doc_id, titulo, texto, kind = "subido") {
+  const bloques = texto.split(/\n\s*\n/).map(s => s.trim()).filter(s => s.length > 12);
+  const trozos = []; let buf = "";
+  for (const bl of bloques) {
+    buf = buf ? buf + "\n" + bl : bl;
+    if (buf.length >= 500) { trozos.push(buf); buf = ""; }      /* piso de 500 */
+  }
+  if (buf.length >= 200) trozos.push(buf);
+  if (!trozos.length) throw new Error("El documento no tiene texto suficiente para indexar.");
+  KB.docs.set(doc_id, { id:doc_id, t:titulo, k:kind, n:trozos.length, semilla:false });
+  trozos.forEach((x, i) => KB.frags.push({ d:doc_id, i, x }));
+  indexar();
+  return trozos.length;
+}
+
+function retirar(doc_id) {
+  KB.docs.delete(doc_id);
+  KB.frags = KB.frags.filter(f => f.d !== doc_id);   /* el índice es proyección: se borra de verdad */
+  indexar();
+}
+
+/* ─── 3 · EL PROMPT — todo el gobierno de la conversación ─────────────── */
+
+const PROMPT = (pac, frags) => `Eres el asistente telefónico de seguimiento post-operatorio de un hospital colombiano. Llamas a un paciente operado hace pocos días${pac ? `. Datos de la llamada: ${pac}` : ""}.
+
+FUNCIÓN: escuchar cómo va su recuperación en seis aspectos, confirmar que entendiste, y dejar un registro para que el equipo clínico decida. NO decides tú si algo es grave.
+
+CÓMO HABLAS: español colombiano, de usted, cálido y llano, como una enfermera con experiencia. NO como un formulario.
+- ES UNA CONVERSACIÓN HABLADA: una o dos frases por turno. Sin listas, sin viñetas, sin markdown.
+- UNA sola pregunta por turno. Nunca dos signos de interrogación.
+- ACUSA RECIBO DE LO QUE ENTENDISTE antes de seguir. Devuélveselo en sus palabras y deja que lo confirme o lo corrija. No es cortesía: es como compruebas que entendiste.
+- No sigas orden rígido. Si cuenta algo de otro tema, tómalo. Si ya lo dijo, no lo repitas.
+
+PROHIBIDO:
+- Diagnosticar o interpretar clínicamente ("eso suena a infección").
+- Tranquilizar clínicamente ("eso no es nada", "es normal después de una cirugía"): no lo sabes, y puede hacer que alguien no consulte.
+- Decir cifras, umbrales, medicamentos o dosis SIN FUENTE.
+Sí puedes hablar del PROCESO: qué pasará, quién lo contactará y cuándo.
+
+CONOCIMIENTO: abajo van fragmentos recuperados de la base clínica. Si el paciente pregunta algo que requiera respaldo clínico y los fragmentos lo sostienen, respóndelo BREVEMENTE y cita así: [doc_id]. Si NO lo sostienen, di que eso no está en tu base de conocimiento y que lo consulte con el equipo. "No está en mi conocimiento" es una respuesta correcta, no un fallo. NUNCA afirmes nada clínico sin cita.
+
+LOS SEIS ASPECTOS Y SUS VALORES EXACTOS:
+- fiebre → el número en grados. "Un calorcito", "tibia", "destemplado" SIN número: PIDE EL NÚMERO. No lo estimes.
+- dolor_intensidad → 0 a 10. "Una molestia", "leve", "fuerte", "poquito" sin número: PIDE EL NÚMERO en escala de 0 a 10.
+- aspecto_herida → normal | eritema_leve | secrecion_purulenta | dehiscencia
+  ("rojita","enrojecimiento"→eritema_leve · "pus","líquido amarillo","mal olor"→secrecion_purulenta · "se abrió","se soltó"→dehiscencia)
+- movilidad → normal | limitada_esperada | incapacitante_nueva
+  ("me cuesta","despacio"→limitada_esperada · "no puedo","con ayuda","bastón"→incapacitante_nueva)
+  "despacito" es AMBIGUO: pregunta si es precaución o si de verdad no puede.
+- apetito → normal | levemente_disminuido | muy_disminuido
+  ("como poquito"→levemente_disminuido · "nada","no me provoca","náuseas","asco"→muy_disminuido)
+- sueno → normal | levemente_alterado | muy_alterado
+  ("me despierto varias veces","toda la noche"→muy_alterado)
+  "despierto" es AMBIGUO: pregunta cuántas veces.
+
+BANDERAS ROJAS — cortan la llamada de inmediato: sangrado abundante, dificultad para respirar, desmayo, dolor en el pecho, herida abierta de golpe. Si aparece una, dile que pasas su caso ahora mismo a una persona del equipo y cierra con el bloque marcando urgencia.
+
+CIERRE: cuando tengas los seis aspectos, o cuando el paciente no pueda o no quiera seguir, resume lo entendido, pregunta si hay algo más, y produce al final este bloque EXACTO:
+---RESUMEN_INICIO---
+fiebre: [número o NO_EVALUADA]
+dolor_intensidad: [0-10 o NO_EVALUADA]
+aspecto_herida: [valor exacto o NO_EVALUADA]
+movilidad: [valor exacto o NO_EVALUADA]
+apetito: [valor exacto o NO_EVALUADA]
+sueno: [valor exacto o NO_EVALUADA]
+tu_lectura: [verde|amarillo|rojo]
+por_que: [una frase, sin lenguaje clínico]
+urgencia: [si|no]
+---RESUMEN_FIN---
+
+REGLA QUE NO SE ROMPE: si el paciente no lo dijo, escribe NO_EVALUADA. NUNCA inventes un valor. Que un dato no aparezca no significa que esté bien: significa que no se preguntó o no se obtuvo, y el equipo tiene que saberlo.
+
+"tu_lectura" es TU impresión de quien escuchó la llamada, no un diagnóstico. Un segundo mecanismo evalúa por su cuenta y se comparan.
+
+${frags.length ? `\n=== FRAGMENTOS RECUPERADOS ===\n${frags.map(f => `[${f.doc_id}] ${f.titulo}\n${f.texto}`).join("\n\n")}` : "\n(Sin fragmentos recuperados para este turno.)"}`;
+
+const SIN_CLAVE = [
+  "¿Cómo ha estado la fiebre? Si se tomó la temperatura, dígame el número.",
+  "Entiendo. ¿Y el dolor, del cero al diez, en cuánto lo pondría?",
+  "Gracias. ¿Cómo ve la herida? ¿Normal, rojita, o le sale algo?",
+  "¿Y para moverse y caminar, cómo va?",
+  "¿Está comiendo normal o se le quitó el apetito?",
+  "Por último, ¿cómo ha dormido estas noches?"
+];
+
+/* ─── 4 · Configuración ───────────────────────────────────────────────── */
+
+const K = {pac:"po2.pac",prov:"po2.prov",key:"po2.key",mod:"po2.mod",oll:"po2.oll",voz:"po2.voz",stt:"po2.stt"};
+const DEF = { groq:"llama-3.3-70b-versatile", gemini:"gemini-2.0-flash",
+              openrouter:"meta-llama/llama-3.3-70b-instruct", ollama:"llama3.2" };
+const cfg = {
+  pac:localStorage.getItem(K.pac)||"", prov:localStorage.getItem(K.prov)||"groq",
+  key:localStorage.getItem(K.key)||"", mod:localStorage.getItem(K.mod)||DEF.groq,
+  oll:localStorage.getItem(K.oll)||"http://localhost:11434",
+  voz:localStorage.getItem(K.voz)||"", stt:localStorage.getItem(K.stt)||"nav"
+};
+const hayModelo = () => cfg.prov === "ollama" || cfg.key.trim() !== "";
+
+/* ─── 5 · Una llamada al modelo por turno ─────────────────────────────── */
+
+async function responder(hist, frags) {
+  const sis = PROMPT(cfg.pac, frags);
+  if (cfg.prov === "gemini") {
+    const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${cfg.mod}:generateContent?key=${encodeURIComponent(cfg.key)}`,
+      { method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify({
+        systemInstruction:{parts:[{text:sis}]},
+        contents:hist.map(m=>({role:m.role==="assistant"?"model":"user",parts:[{text:m.content}]})),
+        generationConfig:{temperature:0.6,maxOutputTokens:700}})});
+    if (!r.ok) throw new Error(`Gemini ${r.status}: ${(await r.text()).slice(0,160)}`);
+    const j = await r.json();
+    return j.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || "";
+  }
+  const url = cfg.prov==="groq" ? "https://api.groq.com/openai/v1/chat/completions"
+            : cfg.prov==="openrouter" ? "https://openrouter.ai/api/v1/chat/completions"
+            : `${cfg.oll.replace(/\/$/,"")}/v1/chat/completions`;
+  const h = {"Content-Type":"application/json"};
+  if (cfg.prov !== "ollama") h.Authorization = `Bearer ${cfg.key}`;
+  const r = await fetch(url, { method:"POST", headers:h, body:JSON.stringify({
+    model:cfg.mod, messages:[{role:"system",content:sis},...hist],
+    temperature:0.6, max_tokens:700 })});
+  if (!r.ok) throw new Error(`${cfg.prov} ${r.status}: ${(await r.text()).slice(0,160)}`);
+  const j = await r.json();
+  return j.choices?.[0]?.message?.content?.trim() || "";
+}
+
+/* ─── 6 · Voz ─────────────────────────────────────────────────────────── */
+
+let reconocedor = null, escuchando = false, grabadora = null, trozos = [], voces = [];
+
+function iniciarNav() {
+  const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+  if (!SR) { err("Este navegador no tiene reconocimiento de voz. Use Chrome o Edge, o cambie a Whisper en Ajustes."); return; }
+  callar();
+  reconocedor = new SR();
+  reconocedor.lang = "es-CO"; reconocedor.continuous = true; reconocedor.interimResults = true;
+  let final = "";
+  reconocedor.onresult = e => {
+    let interino = "";
+    for (let i = e.resultIndex; i < e.results.length; i++) {
+      const t = e.results[i][0].transcript;
+      if (e.results[i].isFinal) final += t + " "; else interino += t;
+    }
+    $("ent").value = (final + interino).trim();
+  };
+  reconocedor.onerror = e => { if (e.error !== "no-speech") err(`Micrófono: ${e.error}`); };
+  reconocedor.onend = () => {
+    escuchando = false; pintarMic();
+    const t = $("ent").value.trim();
+    if (t) enviar(t);
+  };
+  reconocedor.start(); escuchando = true; pintarMic();
+  txt("estado", "Escuchando… pulse otra vez para enviar.");
+}
+
+async function iniciarWhisper() {
+  callar();
+  try {
+    const st = await navigator.mediaDevices.getUserMedia({ audio:true });
+    trozos = []; grabadora = new MediaRecorder(st);
+    grabadora.ondataavailable = e => { if (e.data.size) trozos.push(e.data); };
+    grabadora.onstop = async () => {
+      st.getTracks().forEach(t => t.stop()); escuchando = false; pintarMic();
+      const b = new Blob(trozos, { type:"audio/webm" });
+      if (b.size < 1200) { txt("estado","No se escuchó nada."); return; }
+      try {
+        txt("estado","Transcribiendo…");
+        if (cfg.prov !== "groq" || !cfg.key.trim()) throw new Error("Whisper necesita clave de Groq.");
+        const fd = new FormData();
+        fd.append("file", b, "a.webm"); fd.append("model","whisper-large-v3-turbo"); fd.append("language","es");
+        const r = await fetch("https://api.groq.com/openai/v1/audio/transcriptions",
+          { method:"POST", headers:{Authorization:`Bearer ${cfg.key}`}, body:fd });
+        if (!r.ok) throw new Error(`Transcripción ${r.status}`);
+        const t = (await r.json()).text?.trim();
+        if (t) enviar(t); else txt("estado","No se entendió el audio.");
+      } catch (e) { err(e.message); }
+    };
+    grabadora.start(); escuchando = true; pintarMic();
+  } catch { err("No se pudo abrir el micrófono. Revise los permisos."); }
+}
+
+function micro() {
+  if (escuchando) { reconocedor ? reconocedor.stop() : grabadora?.stop(); return; }
+  cfg.stt === "nav" ? iniciarNav() : iniciarWhisper();
+}
+
+function cargarVoces() {
+  voces = speechSynthesis.getVoices().filter(v => v.lang.startsWith("es"));
+  const s = $("cVoz"); if (!s) return;
+  s.innerHTML = `<option value="">Automática</option>` +
+    voces.map(v => `<option value="${v.name}">${v.name} — ${v.lang}</option>`).join("");
+  s.value = cfg.voz;
+}
+speechSynthesis.onvoiceschanged = cargarVoces;
+
+function hablar(t) {
+  if (!t || !window.speechSynthesis) return;
+  callar();
+  const u = new SpeechSynthesisUtterance(t.replace(/\[[^\]]+\]/g, ""));   /* no lee los doc_id */
+  const v = voces.find(x => x.name === cfg.voz) || voces.find(x => /CO|MX|US/.test(x.lang)) || voces[0];
+  if (v) { u.voice = v; u.lang = v.lang; }
+  u.rate = 1.02;
+  speechSynthesis.speak(u);
+}
+const callar = () => window.speechSynthesis && speechSynthesis.cancel();
+
+/* ─── 7 · Sesión, resumen y registro ──────────────────────────────────── */
+
+const RE = /---RESUMEN_INICIO---([\s\S]*?)---RESUMEN_FIN---/;
+function extraer(t) {
+  const m = t.match(RE); if (!m) return null;
+  const c = {};
+  m[1].trim().split("\n").forEach(l => {
+    const i = l.indexOf(":"); if (i < 0) return;
+    const k = l.slice(0,i).trim().toLowerCase();
+    const v = l.slice(i+1).trim().replace(/^\[|\]$/g,"").trim();
+    c[k] = (/^no_evaluada$/i.test(v) || v === "") ? null : v;
+  });
+  return c;
+}
+const limpiar = t => t.replace(RE, "").trim();
+
+let hist = [], registro = [], ocupado = false, cerrada = false;
+const vistos = new Set();
+
+const $ = id => document.getElementById(id);
+const txt = (id,t) => { $(id).textContent = t; };
+const err = t => { $("alerta").innerHTML = `<div class="err">${t}</div>`;
+                   setTimeout(()=>$("alerta").innerHTML="",7000); };
+const bien = t => { $("alerta").innerHTML = `<div class="ok">${t}</div>`;
+                    setTimeout(()=>$("alerta").innerHTML="",5000); };
+const esc = s => s.replace(/[<>&]/g, c => ({"<":"&lt;",">":"&gt;","&":"&amp;"}[c]));
+
+function pintar(rol, t, citas) {
+  const d = document.createElement("div");
+  d.className = `msg ${rol==="user"?"u":"a"}`;
+  d.innerHTML = `<div class="who">${rol==="user"?"Paciente":"Asistente"}</div>${esc(t)}` +
+    (citas?.length ? `<div class="cita">Fuentes consultadas: ${citas.map(c=>`<code>${esc(c.doc_id)}</code>`).join(" · ")}</div>` : "");
+  $("chat").appendChild(d); $("chat").scrollTop = $("chat").scrollHeight;
+}
+
+function pintarMic() {
+  const b = $("bMic");
+  b.textContent = escuchando ? "⏹ Detener" : "🎙 Hablar";
+  b.className = escuchando ? "rec" : "";
+}
+
+function pintarCov() {
+  $("cov").innerHTML = Object.entries(UNIDADES)
+    .map(([u,m]) => `<span class="chip ${vistos.has(u)?"on":""}">${m.et}</span>`).join("");
+}
+
+async function enviar(texto) {
+  const t = (texto ?? $("ent").value).trim();
+  if (!t || ocupado || cerrada) return;
+  $("ent").value = ""; $("ent").style.height = "auto";
+
+  /* Recuperación por turno: la consulta la forma lo que dijo el paciente
+     más las unidades que faltan, en vocabulario del dominio. */
+  const falta = Object.keys(UNIDADES).filter(u => !vistos.has(u)).join(" ");
+  const frags = hayModelo() ? recuperar(`${t} ${falta}`, 3) : [];
+
+  hist.push({ role:"user", content:t });
+  pintar("user", t);
+  ocupado = true; $("bEnv").disabled = true;
+  const esp = document.createElement("div");
+  esp.className = "dots"; esp.textContent = "escuchando…";
+  $("chat").appendChild(esp); $("chat").scrollTop = $("chat").scrollHeight;
+
+  const t0 = performance.now();
+  try {
+    let r;
+    if (hayModelo()) r = await responder(hist, frags);
+    else {
+      const n = hist.filter(m=>m.role==="user").length - 1;
+      r = SIN_CLAVE[Math.min(n, SIN_CLAVE.length-1)];
+      txt("estado","⚠ Sin credencial: preguntas fijas, sin modelo ni recuperación.");
+    }
+    const ms = Math.round(performance.now() - t0);
+    hist.push({ role:"assistant", content:r });
+
+    const campos = extraer(r);
+    const visible = campos ? limpiar(r) : r;
+    esp.remove();
+    if (visible) { pintar("assistant", visible, frags); hablar(visible); }
+
+    registro.push({ turno:registro.length+1, paciente:t, agente:visible,
+                    documentos:frags.map(f=>f.doc_id), ms });
+
+    if (campos) {
+      for (const u of Object.keys(UNIDADES)) if (campos[u]) vistos.add(u);
+      pintarCov(); cerrarLlamada(campos);
+    }
+    pintarRegistro();
+  } catch (e) { esp.remove(); err(e.message); }
+  finally { ocupado = false; $("bEnv").disabled = false; }
+}
+
+function cerrarLlamada(c) {
+  cerrada = true;
+  const val = {}; Object.keys(UNIDADES).forEach(u => val[u] = c[u] ?? null);
+  const vd = votoDeterminista(val);
+  const urg = /^s[ií]$/i.test(c.urgencia || "");
+  const vp = ["verde","amarillo","rojo"].includes((c.tu_lectura||"").toLowerCase())
+           ? c.tu_lectura.toLowerCase() : "verde";
+  const p = ponderar(urg ? "rojo" : vp, vd.lectura);
+
+  const filas = Object.entries(UNIDADES).map(([u,m]) => {
+    const cl = vd.clases[u];
+    return `<tr><td>${m.et}</td>
+      <td>${val[u]===null?'<span class="sinval">no evaluada</span>':esc(val[u])+(m.u||"")}</td>
+      <td>${cl?`<code>${cl.clase}</code>`:"—"}</td>
+      <td>${cl?`<code>${cl.regla}</code>`:"—"}</td></tr>`;}).join("");
+
+  const docsUsados = [...new Set(registro.flatMap(r=>r.documentos))];
+
+  $("res").innerHTML = `<div class="card" style="margin-top:10px">
+    <div class="ver v-${p.criticidad}"><div class="bola"></div><strong>${p.criticidad}</strong>
+      <span>${p.escalar?"Se escala a una persona del equipo":"No requiere escalamiento"}</span>
+      ${urg?'<span style="color:var(--rj)">· cerrada por urgencia</span>':""}</div>
+    <div class="votos">
+      <div class="voto"><div class="t">Voto del modelo</div><div class="v-${vp}"><strong>${vp}</strong></div>
+        <div class="note" style="margin-top:4px">${esc(c.por_que||"—")}</div></div>
+      <div class="voto"><div class="t">Voto determinista · ${vd.ms} ms · ${DOMINIO_V}</div>
+        <div class="v-${vd.lectura}"><strong>${vd.lectura}</strong></div>
+        <div class="note" style="margin-top:4px">Regla <code>${vd.regla}</code></div></div></div>
+    <div class="note" style="margin-bottom:10px">Disyunción sin veto: basta que uno vote por encima de verde. Ninguno anula al otro.</div>
+    <table><tr><th>Unidad</th><th>Valor</th><th>Clase</th><th>Regla</th></tr>${filas}</table>
+    ${vd.reglas.length?`<div class="note" style="margin-top:10px"><strong>Reglas disparadas:</strong><br>${vd.reglas.map(r=>`<code>${esc(r)}</code>`).join("<br>")}</div>`:""}
+    ${docsUsados.length?`<div class="note" style="margin-top:8px"><strong>Documentos consultados:</strong> ${docsUsados.map(d=>`<code>${esc(d)}</code>`).join(" · ")}</div>`:""}
+    ${vd.sinEval.length?`<div class="note" style="margin-top:8px"><strong>Sin evaluar:</strong> ${vd.sinEval.map(u=>UNIDADES[u].et).join(", ")}. No se preguntó o no se obtuvo. <em>No significa que estén bien.</em></div>`:""}
+    <div class="bar" style="margin-top:12px"><button id="bCopRes" class="sm">Copiar resumen</button>
+      <button id="bBajRes" class="sm">Descargar</button></div></div>`;
+
+  const texto = textoResumen(val, vd, vp, c, p, urg, docsUsados);
+  $("bCopRes").onclick = () => navigator.clipboard.writeText(texto).then(()=>bien("Resumen copiado."));
+  $("bBajRes").onclick = () => bajar(texto, `resumen-${Date.now()}.txt`);
+  $("res").scrollIntoView({behavior:"smooth"});
+  txt("estado", `Llamada cerrada · criticidad ${p.criticidad} · ${p.escalar?"escala":"no escala"}`);
+}
+
+function textoResumen(val, vd, vp, c, p, urg, docs) {
+  return [
+    `RESUMEN DE LLAMADA — SEGUIMIENTO POST-OPERATORIO`,
+    `Fecha: ${new Date().toLocaleString("es-CO")}`,
+    cfg.pac ? `Paciente y procedimiento: ${cfg.pac}` : `Paciente: no declarado`,
+    ``,
+    `DECISIÓN: ${p.criticidad.toUpperCase()} — ${p.escalar?"SE ESCALA a personal capacitado":"no requiere escalamiento"}`,
+    urg ? `⚠ Cerrada por bandera roja durante la llamada.` : null,
+    ``,
+    `SÍNTOMAS REPORTADOS`,
+    ...Object.entries(UNIDADES).map(([u,m]) =>
+      `  ${m.et.padEnd(11)}: ${val[u] ?? "NO REPORTADO"}${vd.clases[u]?`   [${vd.clases[u].clase}]`:""}`),
+    ``,
+    `CÓMO SE DECIDIÓ`,
+    `  Voto del modelo ....: ${vp} — ${c.por_que || "sin razón declarada"}`,
+    `  Voto determinista ..: ${vd.lectura} (regla ${vd.regla}, dominio ${DOMINIO_V}, ${vd.ms} ms)`,
+    `  Composición ........: disyunción sin veto`,
+    ``,
+    `REGLAS DISPARADAS`,
+    ...(vd.reglas.length ? vd.reglas.map(r=>`  ${r}`) : ["  (ninguna)"]),
+    ``,
+    `REFERENCIAS CONSULTADAS`,
+    ...(docs.length ? docs.map(d=>`  ${d}`) : ["  (ninguna)"]),
+    vd.sinEval.length ? `\nNO REPORTADO: ${vd.sinEval.join(", ")} — no se preguntó o no se obtuvo. No significa que estén bien.` : null,
+    ``,
+    `PRÓXIMOS PASOS`,
+    p.escalar ? `  Contactar al paciente desde el equipo clínico.` : `  Ninguno. Continuar seguimiento habitual.`,
+    ``,
+    `Datos sintéticos. Procedencia inferred. SIN validación clínica.`
+  ].filter(x=>x!==null).join("\n");
+}
+
+function pintarRegistro() {
+  $("reg").textContent = registro.length ? registro.map(r =>
+    `── TURNO ${r.turno} ──────────────────────────────\n` +
+    `Paciente : ${r.paciente}\n` +
+    `Agente   : ${r.agente}\n` +
+    `Docs     : ${r.documentos.length ? r.documentos.join(", ") : "(ninguno)"}\n` +
+    `Latencia : ${r.ms} ms`).join("\n\n") : "La sesión no ha empezado.";
+}
+
+function bajar(t, nombre) {
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([t], {type:"text/plain"}));
+  a.download = nombre; a.click();
+}
+
+function nueva() {
+  hist = []; registro = []; vistos.clear(); cerrada = false;
+  $("chat").innerHTML = ""; $("res").innerHTML = "";
+  callar(); pintarCov(); pintarRegistro();
+  const s = `Buenos días, le habla el asistente de seguimiento del hospital. Lo llamo para saber cómo va su recuperación después de la cirugía. ¿Cómo se ha sentido estos días?`;
+  hist.push({role:"assistant",content:s});
+  pintar("assistant", s);
+  txt("estado", hayModelo() ? "Listo." : "⚠ Sin credencial: preguntas fijas. Configure Ajustes.");
+}
+
+/* ─── 8 · Consola de conocimiento ─────────────────────────────────────── */
+
+function pintarConsola() {
+  $("nDocs").textContent = KB.docs.size;
+  $("nFrags").textContent = KB.frags.length;
+  const tb = $("tblDocs")?.querySelector("tbody"); if (!tb) return;
+  tb.innerHTML = [...KB.docs.values()].map(d => `<tr>
+    <td>${esc(d.t)}<div class="note"><code>${esc(d.id)}</code></div></td>
+    <td>${esc(d.k)}</td><td>${d.n}</td>
+    <td><button class="sm" data-borrar="${esc(d.id)}">Eliminar</button></td></tr>`).join("");
+  tb.querySelectorAll("[data-borrar]").forEach(b => b.onclick = () => {
+    const id = b.dataset.borrar;
+    retirar(id);
+    $("conMsg").innerHTML = `<div class="ok">Eliminado <code>${esc(id)}</code>. El agente ya no lo usa.</div>`;
+  });
+}
+
+$("fSubir").onchange = async e => {
+  const arch = [...e.target.files]; if (!arch.length) return;
+  const hechos = [];
+  for (const f of arch) {
+    try {
+      const texto = await f.text();
+      const id = f.name.replace(/\.[^.]+$/,"").toLowerCase().replace(/[^a-z0-9]+/g,"-");
+      if (KB.docs.has(id)) { err(`Ya existe un documento con id ${id}. Elimínelo primero.`); continue; }
+      const n = ingerir(id, f.name.replace(/\.[^.]+$/,""), texto);
+      hechos.push(`${id} (${n} fragmentos)`);
+    } catch (ex) { err(`${f.name}: ${ex.message}`); }
+  }
+  if (hechos.length)
+    $("conMsg").innerHTML = `<div class="ok">Ingerido: ${hechos.map(h=>`<code>${esc(h)}</code>`).join(" · ")}.
+      Disponible de inmediato, sin reiniciar.</div>`;
+  e.target.value = "";
+};
+
+$("bReindex").onclick = () => { indexar(); bien(`Índice reconstruido: ${KB.frags.length} fragmentos.`); };
+
+$("bBuscar").onclick = () => {
+  const q = $("fBuscar").value.trim();
+  if (!q) return;
+  const r = recuperar(q, 3);
+  $("resBusq").innerHTML = r.length
+    ? r.map(f => `<div class="frag"><code>${esc(f.doc_id)}</code> · ${esc(f.titulo)}
+        <span class="note">· score ${f.score}</span>
+        <div style="margin-top:6px">${esc(f.texto.slice(0,320))}…</div></div>`).join("")
+    : `<div class="note">Sin resultados. <em>"No está en mi conocimiento" es una respuesta válida.</em></div>`;
+};
+$("fBuscar").addEventListener("keydown", e => { if (e.key === "Enter") $("bBuscar").click(); });
+
+/* ─── 9 · Interfaz ────────────────────────────────────────────────────── */
+
+const paneles = { tLlamada:"pLlamada", tCon:"pCon", tReg:"pReg" };
+Object.keys(paneles).forEach(t => $(t).onclick = () => {
+  Object.entries(paneles).forEach(([b,p]) => {
+    $(b).classList.toggle("on", b === t);
+    $(p).classList.toggle("on", b === t);
+  });
+});
+
+$("bEnv").onclick = () => enviar();
+$("bMic").onclick = micro;
+$("bNueva").onclick = nueva;
+$("bCfg").onclick = () => { abrirCfg(); $("cfg").showModal(); };
+$("bCerrar").onclick = () => $("cfg").close();
+$("bCopiarReg").onclick = () => navigator.clipboard.writeText($("reg").textContent).then(()=>bien("Registro copiado."));
+$("bBajarReg").onclick = () => bajar($("reg").textContent, `registro-${Date.now()}.txt`);
+
+$("ent").addEventListener("keydown", e => {
+  if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); enviar(); }});
+$("ent").addEventListener("input", e => {
+  e.target.style.height = "auto";
+  e.target.style.height = Math.min(e.target.scrollHeight,140) + "px"; });
+
+$("cProv").onchange = e => { $("cModelo").value = DEF[e.target.value] || ""; pista(); };
+function pista() {
+  const p = $("cProv").value;
+  $("lKey").textContent = p==="ollama" ? "(no hace falta)"
+                        : p==="groq"   ? "— también sirve para Whisper" : "";
+}
+function abrirCfg() {
+  $("cPac").value=cfg.pac; $("cProv").value=cfg.prov; $("cKey").value=cfg.key;
+  $("cModelo").value=cfg.mod; $("cOllama").value=cfg.oll; $("cStt").value=cfg.stt;
+  cargarVoces(); pista();
+}
+$("bGuardar").onclick = () => {
+  cfg.pac=$("cPac").value.trim(); cfg.prov=$("cProv").value; cfg.key=$("cKey").value.trim();
+  cfg.mod=$("cModelo").value.trim(); cfg.oll=$("cOllama").value.trim();
+  cfg.voz=$("cVoz").value; cfg.stt=$("cStt").value;
+  Object.entries({[K.pac]:cfg.pac,[K.prov]:cfg.prov,[K.key]:cfg.key,[K.mod]:cfg.mod,
+                  [K.oll]:cfg.oll,[K.voz]:cfg.voz,[K.stt]:cfg.stt})
+        .forEach(([k,v]) => localStorage.setItem(k,v));
+  txt("sub", `${cfg.pac || "Llamada de control"} · ${cfg.prov} · ${cfg.mod}`);
+  $("cfg").close(); nueva();
+};
+
+txt("sub", `${cfg.pac || "Llamada de control"} · ${cfg.prov} · ${cfg.mod}`);
+cargarVoces();
+cargarCorpus();
+pintarCov();
+nueva();
+</script>
+</body>
+</html>

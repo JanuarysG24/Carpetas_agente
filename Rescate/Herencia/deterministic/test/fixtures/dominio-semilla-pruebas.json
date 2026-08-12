@@ -1,0 +1,100 @@
+{
+  "_declaracion": "NO TIENE VALIDEZ CLINICA — dominio sintetico para pruebas. No describe ningun paciente, ningun procedimiento y ninguna patologia: sus unidades y sus clases son ABSTRACTAS a proposito, para que ejercitar el motor no obligue a inventar contenido clinico que solo el director puede validar. No usar para ninguna finalidad clinica, diagnostica ni asistencial.",
+
+  "domain_version": "semilla-pruebas-0.1.0",
+  "domain_name": "Semilla abstracta para ejercitar el Motor A",
+  "validez_clinica": "sin_validez_clinica_dominio_sintetico",
+
+  "_nota_proposito": "Ejercita las siete piezas del motor sin tocar clinica: corte sobre magnitud, mapa ordinal, clase compartida por dos unidades (convergencia), composicion encadenada sobre otra composicion, regla condicionada por modificador, clase sin eje (lo esperado) y clase de fallback.",
+
+  "ejes": {
+    "funcionalidad": { "descripcion": "Desempeno de las partes", "unidades": ["u_alfa", "u_beta"] },
+    "interaccion":   { "descripcion": "Lo que atraviesa el conjunto", "unidades": ["u_gamma"] },
+    "integridad":    { "descripcion": "El conjunto completo", "unidades": ["u_delta"] }
+  },
+
+  "clases": [
+    { "id": "c_esperado",  "eje": null,            "descripcion": "Dentro de lo esperado: no afirma nada sobre ningun eje y por tanto no es hallazgo." },
+    { "id": "c_alfa",      "eje": "funcionalidad", "descripcion": "Desempeno por debajo de lo esperado. La alcanzan DOS unidades: es la que ejercita la convergencia de clase." },
+    { "id": "c_beta",      "eje": "funcionalidad", "descripcion": "Otro desempeno alterado, para ejercitar la coexistencia." },
+    { "id": "c_gamma",     "eje": "interaccion",   "descripcion": "Respuesta del conjunto. Su regla esta condicionada por el modificador." },
+    { "id": "c_delta",     "eje": "integridad",    "descripcion": "El conjunto deja de sostenerse." },
+
+    { "id": "k_alfa_doble", "eje": "funcionalidad", "descripcion": "La misma alteracion en dos partes a la vez.",
+      "producida_por_composicion": "SM-CO-01",
+      "_nota": "Clase COMPUESTA: no sale de ningun corte, la emite una composicion. Se declara aqui para que el universo de clases sea autocontenido." },
+    { "id": "k_cierre",     "eje": "integridad",    "descripcion": "El conjunto no se sostiene y ademas sus partes coinciden.",
+      "producida_por_composicion": "SM-CO-02",
+      "_nota": "Encadena sobre k_alfa_doble: es la clase terminal de esta semilla." },
+
+    { "id": "c_sin_mapeo", "eje": null,            "descripcion": "CLASE DE FALLBACK — valor sin mapeo declarado. Cierre total garantizado.", "es_fallback": true }
+  ],
+
+  "unidades_canonicas": ["u_alfa", "u_beta", "u_gamma", "u_delta"],
+
+  "funcion_de_clase": {
+    "u_alfa": {
+      "tipo": "quantity",
+      "cortes": [
+        { "operador": ">=", "valor": 5, "clase": "c_alfa",     "rule_id": "SM-ALF-01" },
+        { "operador": "<",  "valor": 5, "clase": "c_esperado", "rule_id": "SM-ALF-02" }
+      ]
+    },
+    "u_beta": {
+      "tipo": "categorical",
+      "mapa": {
+        "b_alto":  { "clase": "c_alfa",     "rule_id": "SM-BET-01", "_nota": "Misma clase que u_alfa por OTRA regla: dos hallazgos, una sola clase en la cardinalidad." },
+        "b_otro":  { "clase": "c_beta",     "rule_id": "SM-BET-02" },
+        "b_normal":{ "clase": "c_esperado", "rule_id": "SM-BET-03" }
+      }
+    },
+    "u_gamma": {
+      "tipo": "categorical",
+      "mapa": {
+        "g_presente": { "clase": "c_gamma",   "rule_id": "SM-GAM-01", "modificador": { "id": "m_fase", "tramo": "tardio" },
+                        "_nota": "Regla CONDICIONADA: solo aplica en el tramo tardio. Ejercita el mecanismo de modificadores sin alterar el colapso del resto." },
+        "g_normal":   { "clase": "c_esperado", "rule_id": "SM-GAM-02" }
+      }
+    },
+    "u_delta": {
+      "tipo": "categorical",
+      "mapa": {
+        "d_cedido": { "clase": "c_delta",   "rule_id": "SM-DEL-01" },
+        "d_normal": { "clase": "c_esperado", "rule_id": "SM-DEL-02" }
+      }
+    }
+  },
+
+  "modificadores": {
+    "m_fase": {
+      "tipo": "ordinal",
+      "valores": [1, 2, 3, 4],
+      "tramos": [
+        { "valores": [1, 2], "id": "temprano" },
+        { "valores": [3, 4], "id": "tardio" }
+      ]
+    }
+  },
+
+  "composiciones": [
+    {
+      "rule_id": "SM-CO-01",
+      "nombre": "alfa_compartida",
+      "clases_requeridas": ["c_alfa", "c_alfa"],
+      "unidades_requeridas": ["u_alfa", "u_beta"],
+      "clase_producida": "k_alfa_doble",
+      "_nota": "Exige la MISMA clase en dos unidades DISTINTAS. Sin la exigencia de distincion, una sola unidad la activaria."
+    },
+    {
+      "rule_id": "SM-CO-02",
+      "nombre": "cierre_del_conjunto",
+      "clases_requeridas": ["k_alfa_doble", "c_delta"],
+      "clase_producida": "k_cierre",
+      "_nota": "Encadena sobre la clase PRODUCIDA por SM-CO-01: la dependencia apunta hacia atras en el orden de declaracion."
+    }
+  ],
+
+  "umbral_convergencia": {
+    "unidades_minimas_para_patron_compartido": 2
+  }
+}

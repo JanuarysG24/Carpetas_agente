@@ -1,0 +1,93 @@
+{
+  "session_id": "anotada-or-rojo",
+  "generated_at": "2026-08-09T11:02:17.844Z",
+  "patient_ref": "pref-9f2c41ab",
+  "identity_status": "identificado",
+  "frame": {
+    "provenance": "inferred",
+    "rounds": 2,
+    "context_complete": true
+  },
+  "findings": [
+    {
+      "unit_id": "fiebre",
+      "state": 3,
+      "raw": "si, anoche me dio como calentura, me marco 38 y algo",
+      "normalized": 38.6
+    },
+    {
+      "unit_id": "dolor_intensidad",
+      "state": 3,
+      "raw": "un siete, y ayer estaba en cuatro",
+      "normalized": 7
+    },
+    {
+      "unit_id": "aspecto_herida",
+      "state": 3,
+      "raw": "le esta saliendo un liquido amarillo espeso",
+      "normalized": "secrecion_purulenta"
+    },
+    {
+      "unit_id": "movilidad",
+      "state": 3,
+      "raw": "camino despacito hasta el bano y ya",
+      "normalized": "limitada_esperada"
+    },
+    {
+      "unit_id": "apetito",
+      "state": 3,
+      "raw": "no me provoca nada, no he comido casi",
+      "normalized": "muy_disminuido"
+    },
+    {
+      "unit_id": "sueno",
+      "state": 3,
+      "raw": "me despierto toda la noche del dolor",
+      "normalized": "muy_alterado"
+    }
+  ],
+  "decision": {
+    "escalate": true,
+    "criticality": "rojo",
+    "reason": "VP (rojo, escala): El paciente presenta fiebre de 38.6, secreción purulenta en la herida, dolor intenso de 7/10, apetito muy disminuido y sueño alterado, lo que sugiere una posible infección o complicación postoperatoria | VD (rojo, escala): [VD-01] La integridad cedida coincide con respuesta sistemica: el organismo dejo de sostener funciones basales Y hay respuesta que atraviesa el cuerpo. Es la composicion que captura los 12 rojos.",
+    "reason_code": "evaluado",
+    "branch": "or",
+    "traces": {
+      "doc_ids": [
+        "cuidado-estandarizado-en-el-paciente-quirurgico-con-alteraciones-en-la-funcion-g",
+        "diagnostico-tratamiento-y-seguimiento-del-paciente-adulto-con-apendicitis-aguda-"
+      ],
+      "rules_fired": [
+        "FC-APE-01",
+        "FC-DOL-01",
+        "FC-FIE-01",
+        "FC-HER-01",
+        "FC-SUE-01",
+        "CV-integridad_cedida",
+        "CO-01",
+        "CO-02",
+        "ST-funcionalidad",
+        "ST-interaccion",
+        "ST-integridad"
+      ],
+      "vd_rule": "VD-01"
+    },
+    "votes": {
+      "vp": {
+        "escalate": true,
+        "criticality": "rojo",
+        "reason": "El paciente presenta fiebre de 38.6, secreción purulenta en la herida, dolor intenso de 7/10, apetito muy disminuido y sueño alterado, lo que sugiere una posible infección o complicación postoperatoria"
+      },
+      "vd": {
+        "escalate": true,
+        "criticality": "rojo",
+        "reason": "[VD-01] La integridad cedida coincide con respuesta sistemica: el organismo dejo de sostener funciones basales Y hay respuesta que atraviesa el cuerpo. Es la composicion que captura los 12 rojos."
+      }
+    }
+  },
+  "versions": {
+    "domain_version": "postop-0.1.0",
+    "vd_version": "vd-tabla-0.2.0",
+    "embedding_model": "lexical-bm25/k1=1.2/b=0.75/es-minusculas-sin-tildes-sin-vacias-v1"
+  }
+}

@@ -1,0 +1,442 @@
+REVIEW
+Postoperative Adjuvant Treatments for Cervical Cancer: A Network Meta-Analysis
+Wenrui Huang, PhD,a,b Xingzi Fang, MD,a,b Xingyan Ou, MD,a,b Lei Chen, MD,a,b Xiaoxuan Tang, MD,a,b and Xuelian Du, MD, PhDa,b
+aDepartment of Gynecology, The Fourth Clinical Medical College of Guangzhou University of Chinese Medicine, Shenzhen, Guangdong, China; and bDepartment of Gynecology, Shenzhen Traditional Chinese Medicine Hospital, Shenzhen, Guangdong, China
+Received Nov 20, 2024; Revised Jun 24, 2025; Accepted for publication Jul 22, 2025
+
+www.redjournal.org
+
+This study aimed to perform a comprehensive network meta-analysis assessing the efﬁcacy and safety of 5 postoperative adjuvant therapies (PATs) for early-stage cervical cancer, comparing their effects on survival and adverse outcomes to identify the therapy with the most signiﬁcant survival beneﬁt. We comprehensively searched PubMed, Web of Science, the Cochrane Library, Embase, CNKI, VIP, Wanfang, and CBM for randomized controlled trials on PATs—including concurrent chemoradiation therapy (CCRT), radiation therapy (RT), chemotherapy (CT), sequential chemoradiation therapy (SCRT), and CCRT followed by consolidation chemotherapy (CCRT + CT)—in patients with cervical cancer from inception to October 2024. Study bias was assessed with the Cochrane ROB.2. A Bayesian random-effects network meta-analysis was conducted for indirect comparisons, with t2 used to evaluate heterogeneity. Treatment rankings were generated using the surface under the cumulative ranking (SUCRA) curve, and evidence certainty was assessed with the Conﬁdence in Network Meta-Analysis framework. Nineteen randomized controlled trials with a total of 2937 patients met the inclusion criteria. In our network meta-analysis, CCRT + CT showed the most signiﬁcant beneﬁt for overall survival (hazard ratios [HR], 0.46; 95% CI, 0.28-0.71; SUCRA 95%, high-certainty evidence), followed by SCRT (1.59; 95% CI, 1.04-2.33; SUCRA 65%, high-certainty evidence) and CCRT alone (HR, 0.71; 95% CI, 0.5-0.95; SUCRA 48%, moderate-certainty evidence). For disease-free survival, CCRT + CT again showed a signiﬁcant advantage over RT (HR, 0.48; 95% CI, 0.23-0.91; SUCRA 88%, low-certainty evidence). In recurrence analysis, CCRT + CT demonstrated the most substantial reduction in relative risk (RR, 0.45; 95% CI, 0.15-0.83; 85%), followed by CCRT (RR, 0.59; 95% CI, 0.24-0.97; SUCRA 68%) and SCRT (RR, 1.17; 95% CI, 1.01-3.28; SUCRA 40%). No statistically signiﬁcant differences were observed for distant recurrence or metastasis among the therapies; however, SUCRA rankings indicated that CCRT + CT and CCRT might offer some beneﬁt in reducing these outcomes. For adverse events—speciﬁcally myelosuppression, proctitis, cystitis, and nausea/vomiting—no signiﬁcant differences in risk were observed across therapies. However, SUCRA rankings favored RT as the most favorable option for minimizing these events. This study provides a comprehensive assessment of PATs for early-stage cervical cancer. Among the evaluated options, CCRT + CT showed the most promising trend toward improving overall and disease-free survival and reducing recurrence, particularly in patients with high-risk features. However, further high-quality studies are needed to conﬁrm these ﬁndings and guide treatment decisions for speciﬁc subgroups. Ó 2025 The Author(s). Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Corresponding author: Xuelian Du, MD, PhD; E-mail: jndxl@hotmail. com
+Author Responsible for Statistical Analyses: Dr wenrui huang. Disclosures: The authors have no ﬁnancial or proprietary interests in any material discussed in this article. This work was ﬁnancially supported by the Sanming Project of Medicine in Shenzhen (No. SZZYSM202211006).
+
+Data Sharing Statement: No additional data and materials are available. Acknowledgments—We thank all the authors of the previous studies who kindly provided additional information and data from their studies for this meta-analysis. Supplementary material associated with this article can be found in the online version at doi:10.1016/j.ijrobp.2025.07.1440.
+
+Int J Radiation Oncol Biol Phys, Vol. 124, No. 1, pp. 98−108, 2026 0360-3016/$ - see front matter Ó 2025 The Author(s). Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) https://doi.org/10.1016/j.ijrobp.2025.07.1440
+
+Volume 124  Number 1  2026
+Introduction
+Cervical cancer is the fourth most common cancer among women worldwide, with a signiﬁcant mortality rate.1 Recent estimates from 2022 indicate approximately 662,000 new cases and 349,000 deaths from cervical cancer annually worldwide.2 The National Comprehensive Cancer Network (NCCN) guidelines recommend radical hysterectomy, bilateral pelvic lymphadenectomy, and optional oophorectomy for stages IA, IB, and some IIA1.3 However, the need for further postoperative treatment depends on the pathological risk factors identiﬁed after surgery.
+After surgery, patients with early-stage cervical cancer are commonly categorized into high-risk or intermediaterisk groups based on pathological ﬁndings. For those with high-risk features—such as lymph node involvement, parametrial invasion, or positive surgical margins—concurrent chemoradiation therapy (CCRT) with cisplatin is recommended as the standard postoperative adjuvant therapy (PAT), according to the current NCCN guidelines.3 This approach is supported by evidence from the GOG 109 trial, which showed that CCRT signiﬁcantly improves both disease-free survival (DFS) and overall survival (OS) in this population.4 In contrast, patients with intermediate-risk factors—such as tumor size greater than 4 cm, deep stromal invasion, or lymphovascular space invasion—may beneﬁt from postoperative pelvic radiation therapy (RT). The GOG 92 trial demonstrated a reduction in recurrence rates, particularly among those with multiple risk factors.5,6 However, this study did not show a signiﬁcant improvement in OS. Importantly, the optimal strategy for managing intermediate-risk patients remains unclear. International guidelines vary, particularly regarding the use of concurrent chemotherapy and whether adjuvant treatment is necessary in cases with a single intermediate-risk factor. For example, the European Society for Medical Oncology guidelines consider surveillance a reasonable option for patients with only one such factor.7
+Beyond the standard regimen, recent studies have investigated alternative postoperative strategies—such as chemotherapy (CT) alone, sequential chemoradiation therapy (SCRT), or CCRT followed by consolidation chemotherapy (CCRT + CT) —in an effort to enhance survival while minimizing toxicity and improving treatment adherence. However, the effectiveness of these treatments remains debated. Some studies reported similar DFS rates between SCRT and CCRT, whereas others found SCRT to be superior. Additionally, some research suggested that CT provided better OS and DFS than CCRT, yet other studies showed no signiﬁcant survival differences between CCRT, CT, or RT.8-12 These inconsistent ﬁndings highlight the uncertainty about the efﬁcacy of PATs in earlystage cervical cancer, emphasizing the need for a comprehensive meta-analysis of all published trials.
+Despite several existing meta-analyses, no network metaanalysis (NMA) has been conducted. Furthermore, most previous meta-analyses have focused on survival and recurrence/metastasis,13-15 with limited attention to adverse
+
+Adjuvant treatments for cervical cancer 99
+reactions and inﬂuencing factors. Some studies combined survival data using odds ratios or relative risk (RR), potentially overlooking the impact of survival duration,16 which could introduce bias.17 Therefore, this NMA integrated survival data using HR and their 95% conﬁdence intervals (CIs) to evaluate the 5 PATs for early-stage cervical cancer. The goal was to identify the treatment with the most signiﬁcant survival beneﬁt and the least amount of bone marrow suppression.
+Methods
+This NMA followed the PRISMA 2020 guidelines and the PRISMA-NMA extension.18,19 The registration details are available in Appendix E1. No ethical approval was required because this study synthesized evidence on published randomized controlled trials (RCTs) that included no conﬁdential data and personal information about the patients. All authors have read and approved the ﬁnal manuscript.
+Search strategy
+We conducted an extensive search across 8 databases: CNKI, VIP, Wanfang, CBM, PubMed, Web of Science, Cochrane, and Embase, targeting RCTs on PATs for cervical cancer patients in International Federation of Gynecology and Obstetrics stages I to IIB (2018) who had undergone hysterectomy.20 This search covered the period from each database’s inception to October 2024. Additionally, we manually searched the ClinicalTrials.gov website for further relevant trials or supplementary data from identiﬁed studies. References from included articles and related systematic reviews were also examined for additional studies. Two reviewers independently selected and evaluated eligible studies, with discrepancies resolved through discussion with a third reviewer. Detailed search strategies are provided in Appendix E2.
+Eligibility criteria
+RCTs eligible for inclusion involved women who received diagnoses of stage I to II B cervical cancer who had undergone hysterectomy and exhibited at least one of the following risk factors: parametrial invasion, positive surgical margins, poorly differentiated tumors, deep stromal invasion, positive lymph nodes, tumor diameter >4 cm, nonsquamous histology, or lymphovascular invasion. These trials also used a minimum of 2 PATs, reported outcomes on either OS or DFS, without language restriction. Only RCTs published in peer-reviewed journals were considered, with conference abstracts and crossover trials excluded.
+Screening process
+We employed EndNote 20 to remove duplicate entries from the database search results. After this, 2 reviewers
+
+100 Huang et al.
+independently screened articles based on their titles and abstracts, excluding any unclear entries. Selected articles underwent a thorough review, with any discrepancies resolved through discussion and consensus with a third reviewer. Finally, adhering to our inclusion criteria, both reviewers conducted full-text assessments of eligible RCTs based on their titles and abstracts.
+Data extraction
+Two reviewers prepared tables in advance and collected data from eligible RCTs. The data covered study characteristics (authors, year, country and region, study design, cervical cancer staging, and pathological type), population details (average age, follow-up duration, and number of participants), and intervention speciﬁcs (names of interventions, methods of use, and intervention frequencies). Our primary focus was on OS and DFS, emphasizing HRs and their 95% CIs. Secondary outcomes included recurrence, local recurrence, distant metastasis, and safety events such as myelosuppression, all analyzed as binary variables. A third reviewer resolved any discrepancies.
+Quality assessment of evidence
+Two independent reviewers evaluated eligible RCTs using the Cochrane risk of bias tool (RoB 2.0) across 5 key areas: randomization process, adherence to planned interventions, completeness of outcome data, outcome measurement, and selection of reported results. Trials are categorized based on their bias risk.21 Those with consistently low risk across all domains are considered reliable. If there are concerns in one domain, trials are categorized as having some concerns. Trials classiﬁed as high risk exhibit signiﬁcant bias in at least one domain or multiple domains, indicating less conﬁdence in the results. Furthermore, we employed the Conﬁdence in Network Meta-Analysis (CINeMA) framework to comprehensively assess the certainty of evidence in NMA, considering biases within studies, reporting practices, indirectness, precision, heterogeneity, and inconsistency across 6 critical domains.22,23 Any disagreements were resolved through consensus.
+Statistical analysis
+This NMA was conducted using a Bayesian framework, which facilitates the integration of direct and indirect evidence to compare and rank multiple treatments effectively. The Bayesian approach offered a robust method for estimating treatment effects and managing complex data structures. We assessed transitivity by comparing clinical and methodological variable distributions between studies that provided direct and indirect evidence.24 We used a node-splitting technique to evaluate the alignment between direct and indirect estimates within each closed-loop. At the same
+
+International Journal of Radiation Oncology  Biology  Physics
+time, a design treatment interaction model was used to assess the entire network.24-26
+NMA was executed using both Stata 17.0 and R 4.0. HRs measured the effects of DFS and OS, and their 95% CIs, and myelosuppression was assessed through relative risk (RR) and their 95% CIs. When HRs and their 95% CIs were not directly reported, data extraction and transformation were performed following the methods by Tierney et al27 and Parmar et al.28 Direct comparisons were performed using a random-effects model to account for heterogeneity in the study. Heterogeneity was assessed using t values, categorized based on established guidelines as low (<0.04), low-tomoderate (0.04-0.16), moderate-to-high (0.16-0.36), and high (>0.36).
+A random-effects NMA was conducted within a Bayesian framework for indirect comparisons, and network diagrams were generated using Stata 17.0 to identify potential biases. A Bayesian approach in the gemtc package of R 4.0 initiated 4 Markov chains with 50,000 iterations each, discarding the ﬁrst 20,000 as burn-in to eliminate initial value inﬂuences. Surface under the cumulative ranking (SUCRA) values were calculated to rank the effectiveness of treatments, with a value of 1 indicating the best and 0 for the worst treatment.
+Results
+Literature selection and study characteristics
+The database search yielded 2867 studies, from which 950 duplicates were removed. Screening of titles and abstracts excluded another 1866 studies. After thoroughly reviewing the full 51 texts, 19 RCTs involving 2937 patients met our inclusion criteria (Fig. 1).4,9,10,29-44 These RCTs were conducted across 4 countries, with sample sizes ranging from 52 to 1048 participants. The primary cancer type was squamous cell carcinoma, and most studies used platinum-based CT. Radiation doses were consistent across studies, while patient ages ranged from 23 to 73 years, and intervention durations varied between 24 and 60 months (Appendix E3, Table E1). Among these 19 studies, 18 reported DFS, and 17 reported OS.
+Risk of bias, certainty of evidence, and consistency
+Appendix E4 summarizes the risk of bias for each trial. A key limitation across studies was the lack of detailed information on blinding methods for participants, researchers, and assessors. Of the 19 trials reviewed, 18 (94.7%) demonstrated a low risk of bias in random sequence generation. Six studies (31.5%) had a low risk of bias regarding adherence to intended interventions, and all 19 studies showed a low risk in terms of missing outcome data, outcome measurement, and selection of reported results. Overall, 1 study (5.2%) was deemed high risk for bias, 12 studies (63.1%)
+
+Volume 124  Number 1  2026
+
+Adjuvant treatments for cervical cancer 101
+
+Identification of studies via databases and registers
+
+2867 Total preselected articles
+
+950 Duplicate records removed
+
+1917 Records screened (title and/or abstract)
+
+1866 Records excluded
+
+51 Full text articles assessed for eligibility
+
+32 Full-text articles excluded
+9Ineligible intervention 9Inappropriate comparator 2Incorrect patient population 8Inappropriate study design
+4No full text
+
+19 Articles included in quantitative synthesis (network meta- analysis)
+
+Fig. 1. Flow diagram of preferred reporting items identiﬁed, included, and excluded for systematic reviews and metaanalyses (PRISMA).
+
+raised some concerns, and 6 studies (31.5%) had a low risk of bias.
+Our evaluation of the alignment between direct and indirect evidence showed strong consistency across all comparisons. Furthermore, most outcomes did not reveal signiﬁcant statistical evidence of global inconsistency. Results from the node-splitting method further supported this consistency (Appendix E5, Fig. E1). Additionally, density plots, trajectory plots, and the convergence diagnostic plot conﬁrmed the robustness of the data (Appendix E6 and E7). The t2 results showed a few instances of signiﬁcant heterogeneity within the network, though most comparisons exhibited low-to-moderate levels of heterogeneity (Appendix E5, Table E2). Evaluating the evidence quality with CINeMA, we found that most pairwise comparisons had low conﬁdence, with only a few demonstrating moderate-to-high conﬁdence (Appendix E7). All networks adhered to the transitivity principle, ensuring the validity of indirect comparisons (Appendix E7, Table E3).
+Primary outcome
+OS Our NMA evaluated OS outcomes across 17 trials involving 2837 participants. Figure 2 shows both direct and indirect
+
+comparisons of various PATs, with thicker connecting lines reﬂecting more frequent comparisons between CCRT and RT. The forest plot suggests a trend toward improved OS with 4 alternative PATs compared with RT alone, although CT did not show a statistically signiﬁcant advantage over RT (Fig. 2). Among the therapies, CCRT + CT demonstrated the most substantial improvement in OS (HR, 0.46; 95% CI, 0.28-0.71; SUCRA 95%, high-certainty evidence). CCRT alone (HR, 0.71; 95% CI, 0.5-0.95; SUCRA 48%, moderate-certainty evidence) also showed signiﬁcant OS beneﬁts. Compared with SCRT, RT was associated with worse OS (HR, 1.59; 95% CI, 1.04-2.33), with SCRT ranking moderately well in SUCRA (65%, high-certainty evidence) (Figs. 2 and 3). The league table indicated no statistically signiﬁcant differences in OS between other pairs of PATs (Appendix E8, Table E4). Based on CINeMA assessments, the quality of evidence for OS was predominantly rated as low to moderate (Appendix E7, Table E5).
+DFS Our NMA assessed DFS outcomes across 18 trials, including 2857 participants. As illustrated in Figure 4, the analysis encompassed both direct and indirect comparisons of various PATs. Thicker connecting lines in the diagram indicate more frequent comparisons between CCRT and RT. The
+
+102 Huang et al. A
+
+International Journal of Radiation Oncology  Biology  Physics
+OS
+CCRT+CT CT
+CCRT
+
+RT
+
+SCRT
+
+B
+Comparison CCRT+CT VS. RT CCRT+CT VS. CT
+CCRT VS. RT CCRT+CT VS. SCRT
+CT VS. RT CCRT VS. CT CCRT VS. SCRT CT VS. SCRT CCRT VS. CCRT+CT RT VS. SCRT
+
+HR (95% CI) 0.46 (0.28, 0.71) 0.59 (0.31, 1.21) 0.71 (0.5, 0.95) 0.73 (0.39,1.23) 0.78 (0.42, 1.24) 0.91 (0.53,1.65) 1.12 (0.72,1.56) 1.23 (0.59, 2.19) 1.53 (0.96, 2.45) 1.59 (1.04, 2.33)
+
+favor left-side intervention
+
+favor rightside intervention
+
+0.5 1.0 1.5 2.0 2.5
+
+Fig. 2. Network and Forest plot of available comparisons of postoperative adjuvant therapies for overall survival (OS). (A) Network diagram illustrating the direct comparisons among the 5 postoperative adjuvant therapies: concurrent chemoradiation therapy (CCRT), radiation therapy (RT), chemotherapy (CT), sequential chemoradiation therapy (SCRT), and CCRT followed by consolidation chemotherapy (CCRT + CT). The size of each node is proportional to the total number of participants assigned to each treatment, whereas the thickness of the connecting edges reﬂects the number of randomized patients in each direct comparison. (B) Forest plot presenting hazard ratios (HRs) and corresponding 95% conﬁdence intervals (CIs) derived from the network meta-analysis for OS. An HR <1 favors the treatment on the left side of the comparison. Results are ordered by intervention pairs to facilitate the interpretation of treatment effects.
+
+forest plot suggests a trend of improved DFS with 4 alternative PATs compared with RT alone for women with cervical cancer; however, only the combination of CCRT + CT demonstrated a statistically signiﬁcant advantage over RT (Fig. 4). In particular, CCRT + CT showed a signiﬁcant improvement in DFS, with a HR of 0.48 (95% CI, 0.23-0.91; SUCRA 88%), although evidence quality was rated as low (Fig. 5). Additional results from the league table indicate no statistically signiﬁcant differences in DFS among other pairs of PATs (Appendix E8, Table E6). Based on CINeMA evaluations, the overall quality of evidence supporting DFS improvement was generally rated as low (Appendix E7, Table E7).
+
+Secondary outcome
+Recurrence, distant recurrence, and distant metastasis Our NMA on recurrence rates included 9 trials with 974 participants, evaluating recurrence risks across different PATs. Direct comparisons revealed signiﬁcant differences in recurrence risk between RT and 3 PATs: CCRT + CT, CCRT alone, and SCRT. Among these, CCRT + CT achieved the most signiﬁcant reduction in relative risk (RR, 0.45; 95% CI, 0.15-0.83; SUCRA, 85%), followed by CCRT (RR, 0.59; 95% CI, 0.24-0.97; SUCRA, 68%) and SCRT (RR, 1.17; 95% CI, 1.01-3.28; SUCRA, 40%). The league table
+
+Volume 124  Number 1  2026
+
+Adjuvant treatments for cervical cancer 103
+
+SUCRA Line Plot of OS
+1
+
+0.9
+
+0.8
+
+0.7
+
+0.6
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+CCRT(SUCRA 48%) CCRT+CT(SUCRA 95%) CT(SUCRA 38%) RT(SUCRA 4%) SCRT(SUCRA 65%)
+
+Fig. 3. The surface under the cumulative ranking (SUCRA) plot of postoperative adjuvant therapies for overall survival (OS). The SUCRA plot displays the cumulative probability of each treatment ranking at each possible position (from 1st to 5th). A larger area under the curve (closer to 1) indicates a higher probability of that treatment being among the most effective for improving OS. In this analysis, CCRT + CT had the highest SUCRA value (95%), followed by sequential chemoradiation therapy (SCRT) (65%), concurrent chemoradiation therapy (CCRT) (48%), chemotherapy (CT) (38%), and radiation therapy (RT) (4%).
+
+indicated no statistically signiﬁcant differences in recurrence risk among other PATs (Appendix E8, Table E8). Regarding distant recurrence and metastasis rates, our analysis found no statistically signiﬁcant differences among the PATs. However, the SUCRA rankings suggested that CCRT + CT and CCRT may show potential in reducing these outcomes. Detailed comparisons and rankings can be found in the SUCRA data (Appendix E9, Figs. E2-E4) and supplementary tables (Appendix E8, Tables E8-E10).
+Adverse events
+To evaluate adverse events—including myelosuppression, proctitis, cystitis, and nausea/vomiting—we analyzed data from 13 trials, 8 studies, and 5 studies, respectively. The analysis found no signiﬁcant differences in the risk of these events across the various PATs. However, SUCRA rankings consistently placed RT as the top option for minimizing each of these adverse events, suggesting a potential advantage in reducing their occurrence. Detailed SUCRA data and comparisons of these adverse events are available in Appendix E9 (Figs. E5-E8) and Appendix E8 (Tables E11-E14).
+Sensitivity analyses and meta-regressions
+To ensure the robustness of our ﬁndings, we conducted sensitivity analyses using HRs estimated through multiple methods and by excluding lower-quality studies. This approach helped verify the consistency of outcome measures when different estimation methods or study qualities were applied. Sensitivity analyses on HRs for OS and DFS, using CCRT as the reference, conﬁrmed the stability of our results. Excluding high-risk studies did not alter the
+
+ﬁndings, indicating low sensitivity and reliable outcomes, as shown in Appendix E10. Additionally, a meta-regression analysis was performed to assess the impact of potential baseline effect modiﬁers, including staging, pathology classiﬁcation, and mean age, on the primary outcomes. None of these factors signiﬁcantly inﬂuenced the results (Appendix E11).
+Discussion
+Treatment strategies for cervical cancer continue to evolve, with growing emphasis on optimizing surgical techniques and tailoring approaches to individual patient characteristics. For patients with stage I to IIB disease, the standard options include surgery or RT. When fertility preservation is desired, procedures such as cervical conization or trachelectomy may be appropriate45; otherwise, hysterectomy remains the most widely used approach. Among surgical methods, both abdominal and laparoscopic techniques are common, with laparoscopy often preferred due to its advantages in reducing blood loss, accelerating recovery, and lowering complication rates.46,47 However, evidence has emerged questioning the oncologic safety of minimally invasive surgery in certain patients. A 2020 meta-analysis by Nitecki et al48 reported higher recurrence and mortality rates associated with minimally invasive radical hysterectomy compared with open surgery in early-stage disease. These concerns were conﬁrmed by the Laparoscopic Approach to Cervical Cancer RCT, which found that minimally invasive surgery was associated with signiﬁcantly worse DFS and OS in patients with stage IA2 and IB1 cervical cancer.49 As a result, current guidelines now place greater emphasis on aligning surgical choice with tumor
+
+104 Huang et al. A
+CT
+
+International Journal of Radiation Oncology  Biology  Physics
+DFS
+CCRT+CT
+CCRT
+
+RT
+
+SCRT
+B
+
+Comparison CCRT+CT VS. RT CCRT+CT VS. CT
+CCRT VS. RT CCRT+CT VS. SCRT
+CT VS. RT CCRT VS. CT CCRT VS. SCRT CT VS. SCRT CCRT VS. CCRT+CT RT VS. SCRT
+
+HR (95% CI) 0.48 (0.23, 0.91) 0.62 (0.2, 1.84) 0.68 (0.42, 1.01) 0.72 (0.32,1.53) 0.76 (0.3, 1.95)
+0.9 (0.34, 2.2) 1.03 (0.61, 1.61) 1.15 (0.42, 3.2) 1.44 (0.74, 2.73) 1.51 (0.89, 2.6)
+
+favor left-side intervention
+1
+
+favor right-side intervention
+
+2
+
+3
+
+Fig. 4. Network and Forest plot of available comparisons of postoperative adjuvant therapies for disease-free survival (DFS). (A) Network diagram displaying available head-to-head comparisons among 5 postoperative adjuvant therapies: concurrent chemoradiation therapy (CCRT), radiation therapy (RT), chemotherapy (CT), sequential chemoradiation therapy (SCRT), and CCRT followed by consolidation chemotherapy (CCRT + CT). The size of each node represents the total number of patients receiving each intervention, and the width of the connecting lines reﬂects the number of direct comparisons between treatments. (B) Forest plot presenting hazard ratios (HRs) and 95% conﬁdence intervals (CIs) from the network meta-analysis for overall survival. HRs <1 indicate a survival beneﬁt in favor of the left-side intervention. Comparisons are sorted by intervention pairs for easier interpretation.
+
+size, disease stage, and other risk factors. More recently, the SHAPE trial further reﬁned surgical decision-making by demonstrating that, in patients with low-risk IB1 tumors (deﬁned as ≤2 cm with limited stromal invasion), simple hysterectomy was noninferior to radical hysterectomy in terms of pelvic recurrence. Importantly, simple hysterectomy was also associated with fewer postoperative urinary complications, supporting a less aggressive surgical approach in carefully selected patients.50
+Postoperative treatment decisions in cervical cancer are largely determined by pathological risk proﬁles. However, the most effective adjuvant approach remains a subject of ongoing debate. For patients with postoperative risk factors,
+
+CCRT is frequently administered to reduce recurrence rates.51 This approach combines CT with RT to enhance radiosensitivity, potentially achieving better treatment outcomes and limiting tumor cell repair associated with RT alone. Currently, there is no established standard protocol for early-stage cervical cancer, and the optimal chemoradiation therapy regimen remains a topic of debate. Although chemoradiation therapy has been shown to improve survival, it can also cause adverse effects, such as gastrointestinal symptoms and myelosuppression, which may inﬂuence recovery, treatment duration, and OS beneﬁts. Previous studies in this area have primarily been retrospective and based on small sample sizes. By employing NMA, this study
+
+Volume 124  Number 1  2026
+
+Adjuvant treatments for cervical cancer 105
+
+SUCRA Line Plot of DFS
+1
+
+0.9
+
+0.8
+
+0.7
+
+0.6
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+CCRT(SUCRA 53%) CCRT+CT(SUCRA 88%) CT(SUCRA 43%) RT(SUCRA 9%) SCRT(SUCRA 57%)
+
+Fig. 5. The surface under the cumulative ranking (SUCRA) plot of postoperative adjuvant therapies for disease-free survival (DFS). The SUCRA plot summarizes the cumulative probability that each postoperative adjuvant therapy ranks among the most effective for improving DFS. Each curve represents one treatment’s cumulative probability of ranking from best to worst. A higher SUCRA value (closer to 1) indicates a higher likelihood of being among the top-performing treatments. In this analysis, CCRT + CT had the highest SUCRA score (88%), followed by sequential chemoradiation therapy (SCRT) (57%), concurrent chemoradiation therapy (CCRT) (53%), chemotherapy (CT) (43%), and radiation therapy (RT) (9%).
+
+aimed to integrate the existing evidence to evaluate the various PATs available comprehensively.
+Meanwhile, advances in the treatment of unresected, locally advanced cervical cancer have led to new strategies that, although impactful, are not directly applicable to the postoperative setting. Recently, 2 pivotal RCTs—INTERLACE52 and KEYNOTE-A1853—have introduced signiﬁcant advances in the treatment of locally advanced cervical cancer. INTERLACE demonstrated the survival beneﬁt of induction CT before standard CRT, whereas KEYNOTEA18 showed that combining immunotherapy with CRT and maintenance therapy improved both progression - free survival and OS. However, both trials focused on patients with unresected, locally advanced disease (International Federation of Gynecology and Obstetrics stages IB2-IVA), rather than on early-stage patients undergoing radical surgery. As such, their ﬁndings—although highly relevant for the evolving landscape of primary treatment—do not directly address the postoperative adjuvant context evaluated in our study.
+Principal ﬁndings
+This NMA comprehensively evaluated the efﬁcacy and safety of 5 different PATs in patients with cervical cancer. The primary PATs included CCRT + CT, CCRT, CT, RT, and SCRT. We assessed OS, DFS, recurrence-related outcomes, and treatment-related adverse events across 19 eligible RCTs involving 2937 participants. Our data demonstrated that CCRT + CT was the most effective PAT for improving OS with high conﬁdence and DFS with low conﬁdence. It was also the most effective PAT for reducing recurrence rates. Additionally, both CCRT and SCRT showed promising results in enhancing OS and DFS and reducing recurrence rates. However, whether the various PATs differ in their impact on distant recurrence, distant
+
+metastasis, myelosuppression, proctitis, cystitis, or nausea and vomiting remained uncertain.
+Comparisons with other studies
+Regarding OS improvement, CCRT showed a statistically signiﬁcant advantage over RT (HR, 0.71; 95% CI, 0.5-0.95), with CCRT yielding better OS outcomes, consistent with prior studies and guideline recommendations.16,54 Similarly, SCRT demonstrated a signiﬁcant OS improvement compared with RT (HR, 1.59; 95% CI, 1.04-2.33), outperforming RT regarding OS. Although the difference between SCRT and CCRT was not statistically signiﬁcant, the SUCRA ranking suggested that SCRT might be a preferable option for improving OS (SUCRA = 65%). Four studies have directly compared SCRT and CCRT. Although Huang et al10 found a statistically signiﬁcant advantage for SCRT over CCRT, the other studies reported no signiﬁcant differences between the 2 therapies. These studies’ relatively small sample sizes may contribute to potential false-negative results. Thus, further high-quality, large-sample RCTs are needed to better evaluate the comparative efﬁcacy of SCRT and CCRT. Our analysis also found no statistically signiﬁcant difference between CCRT and CT, contrasting with Zhang et al’s11 meta-analysis. This discrepancy may be due to differences in study populations, as Zhang et al’s11 analysis included many patients with stage IIB cervical cancer and a small proportion of IIIA or IIIB patients. Additionally, a retrospective study by Zhong et al55 indicated that among patients with more than 3 positive lymph nodes, lymphovascular space invasion, or deep stromal invasion beyond one-third, CCRT + CT improved OS more effectively than CCRT alone. Although our study did not ﬁnd a statistically signiﬁcant difference between CCRT + CT and CCRT,
+
+106 Huang et al.
+SUCRA rankings suggested a potential OS beneﬁt with CCRT + CT over CCRT.
+CCRT + CT demonstrated a statistically signiﬁcant improvement in DFS compared with RT (HR, 0.48; 95% CI, 0.23-0.91), suggesting CCRT + CT as a more effective option. SUCRA rankings supported this, placing CCRT + CT as the top choice for enhancing DFS (SUCRA score = 88%), in line with Ao et al.56 DFS and OS SUCRA rankings positioned CCRT + CT ﬁrst, with CCRT in third place. A retrospective study by Zhong et al55 also noted that CCRT + CT improved DFS over CCRT among patients with more than 3 positive lymph nodes, lymphovascular invasion, or deep stromal invasion. However, CCRT + CT was also linked to higher rates of grade 3/4 myelosuppression, which is consistent with our ﬁndings.
+Our analysis showed that CCRT + CT, CCRT, and SCRT were more effective than RT in reducing recurrence, though studies revealed no signiﬁcant differences in distant recurrence or metastasis. Tursun et al57 similarly observed no signiﬁcant differences in distant recurrence or metastasis between CCRT and RT, which supports our ﬁndings regarding these endpoints. Separately, Xia et al58 reported no signiﬁcant difference in recurrence rates between CT and CCRT after hysterectomy, suggesting that the beneﬁt of adding CT may depend on treatment combinations and patient proﬁles.
+Regarding myelosuppression and other adverse events, no statistically signiﬁcant differences were observed across all PATs; however, SUCRA rankings suggested that RT may be the most favorable for minimizing adverse events. Only 13 studies reported on myelosuppression, and inconsistencies in reporting prevented data pooling for meta-analysis. Many studies reported different types of myelosuppression separately—such as anemia, leukopenia, thrombocytopenia, and neutropenia—making it difﬁcult to determine overall incidence. Future research should report myelosuppression in more detail, because it is a common complication associated with chemoradiation therapy—particularly due to CT —and may affect treatment duration and overall therapeutic efﬁcacy.59
+Policy implications
+This study underscores the need for updated treatment guidelines for early-stage cervical cancer, particularly in considering CCRT + CT. Given its potential beneﬁts in improving OS and DFS and reducing recurrence rates, CCRT + CT may represent a promising option for patients at high risk of recurrence or with adverse pathological features. Future guideline committees could evaluate the evidence presented here to determine whether incorporating CCRT + CT into treatment protocols is justiﬁed, especially for selected subgroups such as those with multiple positive lymph nodes or deep stromal invasion.
+Our ﬁndings also emphasize the importance of managing the adverse effects of CCRT + CT, notably grade 3/4
+
+International Journal of Radiation Oncology  Biology  Physics
+myelosuppression. Health systems should prioritize supportive services, including close monitoring for myelosuppression, to mitigate risks and support continuous care. Developing supportive care guidelines for managing hematologic and gastrointestinal complications can help patients adhere to treatment, enhancing the overall beneﬁts of CCRT + CT. Furthermore, investing in training and resources for adverse event management could improve both immediate and long-term outcomes for patients undergoing intensive adjuvant therapies.
+This study also highlights the need for further large-scale RCTs to conﬁrm the relative effectiveness of different PATs. Policymakers should support and fund high-quality research to address these evidence gaps, because current data are often limited by small sample sizes or retrospective designs. We also recommend standardizing criteria for reporting adverse events such as myelosuppression, because inconsistent reporting across studies impedes comprehensive analysis. Clearer reporting standards would allow for more reliable meta-analyses and support the development of precise, patient-centered treatment protocols.
+By aligning treatment guidelines with current evidence and investing in ongoing research, health policymakers can help optimize outcomes for cervical cancer patients, addressing both survival rates and quality of life.
+Strengths and limitations of this study
+This study offers a comprehensive assessment of adjuvant therapies for cervical cancer, marking the ﬁrst NMA to evaluate both efﬁcacy and safety outcomes for these treatments. The included studies featured patients with consistent characteristics, including similar age ranges, stage I to IIB disease, a predominance of squamous cell carcinoma, and comparable radiation and CT doses—mostly platinumbased—which strengthened cross-study comparability. Using HRs to capture survival outcomes and duration, this analysis provides a robust estimation of treatment effects, unlike previous studies that relied on RR or odds ratios. The NMA also enabled direct comparisons among 5 treatment strategies, helping to identify the optimal approach and offering practical guidance for clinical decision-making.
+This study also has limitations. Many included studies did not report allocation concealment methods, which may introduce selection bias. The analysis also primarily included studies conducted in China, with limited representation from other countries, potentially leading to geographic bias. Despite this, our comprehensive search was conducted without language restrictions, and all ﬁndings were validated through inconsistency analyses, CINeMA assessments, and sensitivity analyses to ensure robustness. Additionally, studies included both laparoscopic and open abdominal hysterectomies, and the potential impact of these surgical methods on survival and adverse events remains debated, which may have inﬂuenced the results. Finally, our safety analysis was restricted to 4 adverse outcomes—
+
+Volume 124  Number 1  2026
+myelosuppression, cystitis, proctitis, and nausea/vomiting— due to inconsistent reporting of other events, limiting broader insights into treatment-related complications. Another limitation of this study is the variability in how “high-risk” patients were deﬁned across the included trials, which encompassed a wide range of pathological features. Because our analysis relied on aggregated study-level data, we could not examine outcomes based on the number or speciﬁc combinations of risk factors. This reliance on aggregate data also limited our ability to account for patient-level heterogeneity, treatment compliance, and interaction effects between covariates. As a result, subgroup-speciﬁc ﬁndings —particularly for high-risk populations—should be interpreted with caution. This constraint limited our ability to assess the effectiveness of adjuvant therapies in distinct patient subgroups. To overcome these limitations, future research should consider individual patient data meta-analyses, which would enable more nuanced stratiﬁcation and facilitate personalized treatment recommendations.
+Conclusions
+This study offers a comprehensive assessment of PATs for early-stage cervical cancer. In our pooled analysis, CCRT + CT demonstrated a relatively favorable trend in improving OS, DFS, and reducing recurrence, suggesting potential beneﬁt for certain subgroups of patients with high-risk features. However, the association of CCRT + CT with increased risks of myelosuppression highlights the need for enhanced management of adverse effects to ensure treatment adherence and optimize outcomes. It is important to note that the deﬁnition of “highrisk” varied across the included studies, and our analysis was based on aggregate-level data without access to individual patient-level information. As a result, we were unable to further stratify patients based on the number or combinations of speciﬁc risk factors. Although our ﬁndings highlight the potential clinical value of CCRT + CT in selected high-risk populations, further large-scale, high-quality RCTs are warranted to validate these results and to reﬁne adjuvant treatment recommendations.
+References
+1. World Health Organization. Human papillomavirus (HPV) and cervical cancer. 2021. Accessed November 18, 2021. http://www.who.int/ mediacentre/factsheets/fs380/en/.
+2. International Agency for Research on Cancer. Global Cancer Observatory; Cancer today 2022. Accessed May 23, 2025; https://gco.iarc.who. int/media/globocan/factsheets/cancers/23-cervix-uteri-fact-sheet.pdf.
+3. National Comprehensive Cancer Network (NCCN). NCCN Clinical Practice Guidelines in Oncology (NCCN GuidelinesÒ) for Cervical Cancer. version 4.2025. Accessed August 28, 2025. https://www.nccn. org/professionals/physician_gls/pdf/cervical.pdf.
+4. Peters III WA, Liu PY, Barrett II RJ, et al. Concurrent chemotherapy and pelvic radiation therapy compared with pelvic radiation therapy alone as adjuvant therapy after radical surgery in high-risk early-stage cancer of the cervix. J Clin Oncol 2000;18:1606-1613.
+
+Adjuvant treatments for cervical cancer 107
+5. Rotman M, Sedlis A, Piedmonte MR, et al. A phase III randomized trial of postoperative pelvic irradiation in stage IB cervical carcinoma with poor prognostic features: Follow-up of a gynecologic oncology group study. Int J Radiat Oncol Biol Phys 2006;65:169-176.
+6. Sedlis A, Bundy BN, Rotman MZ, Lentz SS, Muderspach LI, Zaino RJ. A randomized trial of pelvic radiation therapy versus no further therapy in selected patients with stage IB carcinoma of the cervix after radical hysterectomy and pelvic lymphadenectomy: A Gynecologic Oncology Group Study. Gynecol Oncol 1999;73:177-183.
+7. Marth C, Landoni F, Mahner S, et al. Cervical cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 2017;28(suppl 4):iv72-iv83 Published correction appears in iv262. Ann Oncol. 2018;29(suppl 4):iv262.
+8. Sha HL, He AQ. Observation of the effects of TP regimen chemotherapy followed by radiotherapy on patients with high-risk factors after cervical cancer surgery. J Community Med 2016;30:622-625.
+9. Sehouli J, Runnebaum IB, Fotopoulou C, et al. A randomized phase III adjuvant study in high-risk cervical cancer: simultaneous radiochemotherapy with cisplatin (S-RC) versus systemic paclitaxel and carboplatin followed by percutaneous radiation (PC-R): A NOGGO-AGO Intergroup Study. Ann Oncol 2012;23:2259-2264.
+10. Huang H, Feng YL, Wan T, et al. Effectiveness of sequential chemoradiation vs concurrent chemoradiation or radiation alone in adjuvant treatment after hysterectomy for cervical cancer: The STARS phase 3 randomized clinical trial. JAMA Oncol 2021;7:361-369.
+11. Zhang YF, Fan Y, Zhang P, Ruan JY, Mu Y, Li JK. Cervical cancer recurrence and patient survival after radical hysterectomy followed by either adjuvant chemotherapy or adjuvant radiotherapy with optional concurrent chemotherapy: A systematic review and meta-analysis. Front Oncol 2022;12:823064.
+12. Matsuo K, Shimada M, Aoki Y, et al. Comparison of adjuvant therapy for node-positive clinical stage IB-IIB cervical cancer: Systemic chemotherapy versus pelvic irradiation. Int J Cancer 2017;141:1042-1051.
+13. Liu H, Ma X, Sun C, et al. Concurrent chemoradiotherapy followed by adjuvant chemotherapy versus concurrent chemoradiotherapy alone in locally advanced cervical cancer: A systematic review and metaanalysis. Front Oncol 2022;12:997030.
+14. Marchand G, Masoud AT, Abdelsattar A, et al. Meta-analysis of laparoscopic radical hysterectomy, excluding robotic assisted versus open radical hysterectomy for early stage cervical cancer. Sci Rep 2023;13:273.
+15. Ronsini C, De Franciscis P, Carotenuto RM, Pasanisi F, Cobellis L, Colacurci N. The oncological implication of sentinel lymph node in early cervical cancer: A meta-analysis of oncological outcomes and type of recurrences. Medicina (Kaunas) 2022;58:1539.
+16. Guo Q, Wang R, Jin D, et al. Comparison of adjuvant chemoradiotherapy versus radiotherapy in early-stage cervical cancer patients with intermediate-risk factors: A systematic review and meta-analysis. Taiwan J Obstet Gynecol 2022;61:15-23.
+17. Zhou ZR, Zhang TS, Li B, et al. Extraction and transformation of appropriate data for meta-analysis in survival curves. Chin J Evid Based Cardiovasc Med 2014;6:243-247.
+18. Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. BMJ 2021;372:n71.
+19. Hutton B, Salanti G, Caldwell DM, et al. The PRISMA extension statement for reporting of systematic reviews incorporating network metaanalyses of health care interventions: Checklist and explanations. Ann Intern Med 2015;162:777-784.
+20. Bhatla N, Aoki D, Sharma DN, Sankaranarayanan R. Cancer of the cervix uteri. Int J Gynecol Obstet 2018;143(suppl 2):22-36 Published correction appears in Int J Gynecol Obstet. 2024;164:1229-1230.
+21. Sterne JAC, Savovic J, Page MJ, et al. RoB 2: A revised tool for assessing risk of bias in randomised trials. BMJ 2019;366:l4898.
+22. Nikolakopoulou A, Higgins JPT, Papakonstantinou T, et al. CINeMA: An approach for assessing conﬁdence in the results of a network metaanalysis. PLoS Med 2020;17:el003082.
+23. Papakonstantinou T, Nikolakopoulou A, Higgins T, Egger M, Salanti G. CINeMA: Software for semiautomated assessment of the conﬁdence in the results of network meta-analysis. Campbell Syst Rev 2020;16:e1080.
+
+108 Huang et al.
+
+24. Furukawa TA, Salanti G, Atkinson LZ, et al. Comparative efﬁcacy and
+
+acceptability of ﬁrst-generation and second-generation antidepressants
+
+in the acute treatment of major depression: Protocol for a network
+
+meta-analysis. BMJ Open 2016;6:e010919.
+
+25. Dias S, Welton NJ, Sutton AJ, Caldwell DM, Lu G, Ades AE. Evidence syn-
+
+thesis for decision making 4: Inconsistency in networks of evidence based
+
+on randomized controlled trials. Med Decis Making 2013;33:641-656.
+
+26. Higgins JP, Jackson D, Barrett JK, Lu G, Ades AE, White IR. Consis-
+
+tency and inconsistency in network meta-analysis: Concepts and mod-
+
+els for multi-arm studies. Res Synth Methods 2012;3:98-110.
+
+27. Tierney JF, Stewart LA, Ghersi D, Burdett S, Sydes MR. Practical meth-
+
+ods for incorporating summary time-to-event data into meta-analysis.
+
+Trials 2007;8:16.
+
+28. Parmar MK, Torri V, Stewart L. Extracting summary statistics to per-
+
+form meta-analyses of the published literature for survival endpoints.
+
+Stat Med 1998;17:2815-2834 Published correction appears in Stat Med.
+
+2004;23:1817.
+
+29. Curtin JP, Hoskins WJ, Venkatraman ES, et al. Adjuvant chemotherapy
+
+versus chemotherapy plus pelvic irradiation for high-risk cervical cancer
+
+patients after radical hysterectomy and pelvic lymphadenectomy (RH-
+
+PLND): A randomized phase III trial. Gynecol Oncol 1996;61:3-10.
+
+30. Lahousen M, Haas J, Pickel H, et al. Chemotherapy versus radiotherapy
+
+versus observation for high-risk cervical carcinoma after radical hyster-
+
+ectomy: A randomized, prospective, multicenter trial. Gynecol Oncol
+
+1999;73:196-201.
+
+31. Tattersall MH, Ramirez C, Coppleson M. A randomized trial of adju-
+
+vant chemotherapy after radical hysterectomy in stage Ib-IIa cervical
+
+cancer patients with pelvic lymph node metastases. Gynecol Oncol
+
+1992;46:176-181.
+
+32. Zhao H, Li L, Su H, et al. Concurrent paclitaxel/cisplatin chemoradio-
+
+therapy with or without consolidation chemotherapy in high-risk
+
+early-stage cervical cancer patients following radical hysterectomy: Pre-
+
+liminary results of a phase III randomized study. Oncotarget
+
+2016;7:70969-70978.
+
+33. Lin GS, Cheng HH, Li DS. Comparative study of adjuvant concurrent
+
+chemoradiotherapy and sequential chemoradiotherapy for early-stage
+
+high-risk cervical cancer after surgery. J Clin Oncol 2009;14:541-543.
+
+34. Cui YL, Wang B, Zhang JH, et al. Comparative analysis of the effects of
+
+adjuvant concurrent chemoradiotherapy versus sequential chemora-
+
+diotherapy after radical surgery for cervical cancer; J Transl Med Elec-
+
+tron 2015;2:58-59. https://www.CNKI:SUN:ZHDZ.0.2015-09-033.
+
+35. Zhen C, Wang ZH, Wang C, et al. Comparative observation of clinical
+
+efﬁcacy between sequential chemoradiotherapy and concurrent chemo-
+
+radiotherapy in early cervical cancer after surgery. J Basic Clin Oncol
+
+2021;34:322-324. https://doi.org/10.3969/j.issn.1673-5412.2021.04.012.
+
+36. Qiao ZA. Clinical analysis of adjuvant concurrent chemoradiotherapy
+
+after radical surgery for cervical cancer. Chin J Cancer Prev Treat
+
+2016;23(S1):186-187. https://doi.org/10.16073/j.cnki.cjcpt.2016.s1.094.
+
+37. Xing MH, Ge W, Ran RZ, et al. Clinical exploration of replacing stan-
+
+dard pelvic ﬁeld radiation with small pelvic ﬁeld chemoradiotherapy
+
+for stage Ia2-IIa cervical cancer after surgery. Mod Oncol Med
+
+2018;26:2925-2929.
+
+https://doi.org/10.3969/j.issn.1672-
+
+4992.2018.18.024.
+
+38. Ni TT, Wu L, Chen YP, et al. Clinical observation of adjuvant chemo-
+
+therapy for lymph node metastasis after concurrent chemoradiother-
+
+apy for cervical cancer after surgery. China Med Innov 2020;17:5-10.
+
+https://doi.org/10.3969/j.issn.1674-4985.2020.29.002.
+
+39. Chen J. Observation of the effect of paclitaxel combined with cisplatin
+
+on lower limb lymphedema after cervical cancer surgery; J Chronic Dis
+
+2018;19:223-225. https://www.CNKI:SUN:YYSO.0.2018-02-039.
+
+40. Tian XY, Li RG, Zeng YB. Comparative study of concurrent chemora-
+
+diotherapy with intensity-modulated radiotherapy versus sequential
+
+chemotherapy after surgery for high-risk cervical cancer. J Guangdong
+
+Med Univ 2018;36:460-462. https://doi.org/10.3969/j.issn.1005-
+
+4057.2018.04.029.
+
+41. Huang DN, Li GS, Huang HX, et al. Clinical analysis of concurrent
+
+chemoradiotherapy in early-stage high-risk cervical cancer after
+
+International Journal of Radiation Oncology  Biology  Physics
+surgery. Youjiang Med 2007;1:20-21. https://doi.org/10.3969/j. issn.1003-1383.2007.01.010. 42. Liu W, Yu LN. Clinical observation of adjuvant chemotherapy versus radiotherapy in patients with intermediate-risk early to mid-stage cervical cancer after radical surgery. Chin Foreign Womens Health Res 2017;1:150-151. https://doi.org/10.3969/j.issn.2096-0417.2017.01.109. 43. Feng H. Analysis of efﬁcacy and complications of different treatment methods for early-stage cervical cancer patients with high-risk recurrence factors after surgery; J Pract Med Forum 2019;23:1599-1600. https://www.CNKI:SUN:YXLT.0.2019-11-082. 44. Yang ZY. Value of chemoradiotherapy for pelvic lymph node metastasis after cervical cancer surgery; J Clin Oncol 2000;1:39-40. https:// www.CNKI:SUN:LCZL.0.2000-01-019. 45. Alur-Gupta S, Fruchtman H, Paroder V. Fertility-sparing options for cancer patients. Abdom Radiol (NY) 2023;48:1618-1628. 46. Jiang F, Xiang Y. Current status and future of minimally invasive surgery for early-stage cervical cancer. Chin J Clin Obstet Gynecol 2021;2:113-115. 47. Kondo E, Yoshida K, Kubo-Kaneda M, et al. Does vaginal cuff creation and avoidance of a uterine manipulator improve the prognosis of total laparoscopic radical hysterectomy for early cervical cancer? A retrospective multicenter study. Cancers (Basel) 2022;14:4389. 48. Nitecki R, Ramirez PT, Frumovitz M, et al. Survival after minimally invasive vs open radical hysterectomy for early-stage cervical cancer: A systematic review and meta-analysis. JAMA Oncol 2020;6:1019-1027. 49. Ramirez PT, Frumovitz M, Pareja R, et al. Minimally Invasive versus Abdominal radical hysterectomy for Cervical Cancer. N Engl J Med 2018;379:1895-1904. 50. Plante M, Kwon JS, Ferguson S, et al. Simple versus radical hysterectomy in women with low-risk cervical cancer. N Engl J Med 2024;390:819-829. 51. Delgado G, Bundy B, Zaino R, Sevin BU, Creasman WT, Major F. Prospective surgical-pathological study of disease-free interval in patients with stage IB squamous cell carcinoma of the cervix: A Gynecologic Oncology Group study. Gynecol Oncol 1990;38:352-357. 52. McCormack M, Eminowicz G, Gallardo D, et al. Induction chemotherapy followed by standard chemoradiotherapy versus standard chemoradiotherapy alone in patients with locally advanced cervical cancer (GCIG INTERLACE): An international, multicentre, randomised phase 3 trial. Lancet 2024;404:1525-1535 Published correction appears in Lancet. 2025;405:468. 53. Lorusso D, Xiang Y, Hasegawa K, et al. Pembrolizumab or placebo with chemoradiotherapy followed by pembrolizumab or placebo for newly diagnosed, high-risk, locally advanced cervical cancer (ENGOT-cx11/ GOG-3047/KEYNOTE-A18): A randomised, double-blind, phase 3 clinical trial. Lancet 2024;403:1341-1350. 54. Liu ZB, Li SY, Zhao YN, et al. Meta-analysis of concurrent chemoradiotherapy versus radiotherapy alone in postoperative patients with intermediate-risk factors for stage I-II cervical cancer. Chin J Geriatr 2020;40:4301-4305. https://doi.org/10.3969/j.issn.1005-9202.2020.20.014. 55. Zhong ML, Wang YN, Liang MR, Liu H, Zeng SY. Consolidation chemotherapy in early-stage cervical cancer patients with lymph node metastasis after radical hysterectomy. Int J Gynecol Cancer 2020;30:602-606. https:// doi.org/10.13283/j.cnki.xdfckjz.2015.07.016. 56. Ao MH, Li LY. Meta-analysis of the effect of consolidation chemotherapy on the prognosis of cervical cancer after concurrent chemoradiotherapy. Progr Mod Obstet Gynecol 2015;24:528-530. 57. Tursun R, Alifu M, Wang YN, et al. Impact of different treatment modalities on the prognosis of stage Ib-IIa cervical squamous carcinoma patients with only intermediate-risk factors after surgery. Xinjiang Med 2018;48:1063-1067. 58. Xia XP, Shen W, Ni J, et al. Analysis of efﬁcacy and quality of life of different adjuvant treatments in postoperative cervical cancer patients with intermediate-risk factors. J Chongqing Med Univ 2021;46:691-695. https://doi.org/10.13406/j.cnki.cyxb.002820. 59. Vitzthum LK, Heide ES, Park H, et al. Comparison of hematologic toxicity and bone marrow compensatory response in head and neck vs. cervical cancer patients undergoing chemoradiotherapy. Front Oncol 2020;10:1179.

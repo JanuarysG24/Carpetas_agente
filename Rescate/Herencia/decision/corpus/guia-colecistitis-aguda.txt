@@ -1,0 +1,107 @@
+FECHA ACT: Junio 2012
+
+GUIA COLECISTITIS AGUDA
+Adoptada de Fisterra (Atención primaria en la red)
+
+VERSIÓN: 001
+
+COD: : M-CI-G-064
+
+PAG: 1/4
+
+¿Qué es?
+La colecistitis aguda es una inflamación aguda de la vesícula, la mayoría de las veces producida por cálculos o con menor frecuencia barro biliar, que provocan obstrucción del conducto cístico, distensión de la vesícula, con respuesta inflamatoria que desencadena edema de la pared y a veces, infección por enterobacterias (Indar AA 2002). También, en un 5%, están descritas formas más raras de presentación sin cálculos (alitiásicas) (Chen LE, 2006).
+Hasta los 50 años es tres veces más frecuente en mujeres que en varones. Por encima de esta edad, casi se igualan los porcentajes entre los dos sexos (Chen LE, 2006; Schirmer BD, 2005).
+La colecistitis aguda se considera la causa más frecuente de indicación de cirugía en la población mayor de 55 años que acude a los servicios de urgencias por dolor abdominal (Lyon C, 2006).
+La mayoría de los pacientes con cálculos biliares permanecen asintomáticos a lo largo de su vida, pero cerca del 35% de los diagnosticados desarrollarán complicaciones que precisarán una colecistectomía para su resolución (Schirmer BD, 2005).
+¿Cómo diagnosticarla?
+La colecistitis aguda suele producir dolor en hipocondrio derecho, que se diferencia del cólico biliar por la persistencia del mismo (más de 12 horas) y por la existencia del signo de Murphy (el paciente corta la inspiración al presionar en hipocondrio derecho). Puede acompañarse de náuseas, vómitos e inquietud. En caso de sobreinfección o cuadros severos suele aparecer fiebre, malestar general e ictericia (Indar AA, 2002; Chen LE, 2006). Es relativamente frecuente que estos síntomas y signos clásicos estén ausentes en los ancianos (Lyon C, 2006).
+La ecografía abdominal es la prueba no invasiva de elección ante la sospecha de colecistitis (Schirmer BD, 2005). Suele mostrar una vesícula distendida, con la pared engrosada, líquido a su alrededor y la presencia de cálculos (Indar AA, 2002).
+La ecografía es la prueba más sensible para la detección de cálculos en la vesícula: 90-95% (Schirmer BD, 2005) y la escintografía biliar es la más sensible (97%) en caso de colecistitis, pero solamente debe indicarse ante la sospecha de colecistitis aguda, cuando la clínica y la ecografía no han sido definitivos para el diagnóstico (Shea JA, 1995) [A].
+En la actualidad, la ecografía laparoscópica intraoperatoria ha sustituido a la colangiografía y es la prueba de elección para localizar cálculos del conducto biliar común que pueden estar presentes hasta en un 10% de pacientes a los que se les realiza la colecistectomía (Schirmer BD, 2005).
+
+Gestión de calidad
+
+Página 1 de 3
+
+FECHA ACT: Junio 2012
+
+GUIA COLECISTITIS AGUDA
+Adoptada de Fisterra (Atención primaria en la red)
+
+VERSIÓN: 001
+
+COD: : M-CI-G-064
+
+PAG: 1/4
+
+¿Cuáles son sus complicaciones?
+
+Las complicaciones de la colecistitis aguda son más frecuentes en los pacientes ancianos mayores de 65 años e incluyen (Chen LE, 2006; Lyon C, 2006):
+
+ Colangitis aguda  Perforación de la vesícula  Abscesos y fístulas de la vesícula y árbol biliar  Colecistitis enfisematosa  Íleo biliar
+
+En los pacientes que presenten alguna de las complicaciones mencionadas la intervención de elección será la colecistectomía abierta (Chen LE, 2006).
+
+¿Cómo se trata?
+
+Ante la sospecha de colecistitis aguda, el paciente debe derivarse de forma urgente al hospital (Indar AA, 2002).
+
+El tratamiento de elección de la colecistitis aguda es la colecistectomía (Schirmer BD, 2005; Chen LE, 2006), aunque al ingreso, deban administrarse sueroterapia intravenosa y analgesia para controlar el dolor (Indar AA, 2002):
+
+ Analgésicos/ AINEs: Una dosis de 75 mgrs de Diclofenaco intramuscular en los cólicos biliares puede evitar el progreso a colecistitis aguda (Akriviadis EA, 1997)[B]. La Indometacina es un antiinflamatorio eficaz, con efecto procinético favorecedor del vaciado.
+ Si con el tratamiento antiinflamatorio no se aprecia mejoría o si existen síntomas generales de infección (fiebre, leucocitosis) está indicado el inicio de la antibioterapia empírica (Cefalosporinas+ Metronidazol).
+
+Con los estudios disponibles hasta el momento, se ha demostrado la mayor eficacia de la colecistectomía laparoscópica frente la colecistectomía abierta en cuanto a disminución de la mortalidad, tiempo de intervención, así como de las complicaciones durante y después de la cirugía. Sin embargo existe la posibilidad de aumentar el riesgo de complicaciones del conducto biliar que obliguen la realización de una laparotomía para su resolución (Chen LE, 2006) [A].
+
+Es preferible intervenir con cirugía laparoscópica en los primeros días de la fase aguda de la colecistitis: Una revisión sistemática reciente, concluye que la colecistectomía laparoscópica realizada durante la fase aguda, menos de siete días desde el inicio de los síntomas, comparada con la misma intervención realizada al menos seis semanas desde su ingreso, no aumenta la mortalidad y es tan
+
+Gestión de calidad
+
+Página 2 de 3
+
+FECHA ACT: Junio 2012
+
+GUIA COLECISTITIS AGUDA
+Adoptada de Fisterra (Atención primaria en la red)
+
+VERSIÓN: 001
+
+COD: : M-CI-G-064
+
+PAG: 1/4
+
+segura como esta última, además, tiene la ventaja de disminuir los días de estancia hospitalaria (Gurusamy KS, 2006) [A].
+
+1. REFERENCIAS:
+ Akriviadis EA, Hatzigavriel M, Kapnias D, Kirimlidis J, Markantas A, Garyfallos A. Treatment of biliary colic with diclofenac: a randomized, double-blind, placebo-controlled study. Gastroenterology 1997 ;113(1):225-31 [PubMed]
+ Chen LE, Halpin V, Whinney R. Acute cholecystitis. Clin Evid 2006;15:1-2.  Gurusamy KS, Samraj K, Early versus delayed laparoscopic cholecystectomy for acute cholecystitis
+Cochrane Database Syst Rev. 2006 Oct 18;(4):CD005440  Indar AA, Beckingham IJ. Acute cholecystitis. BMJ 2002 ;325(7365):639-43 [PubMed] [Texto
+completo]  Schirmer BD, Winters KL, Edlich RF. Cholelithiasis and cholecystitis. J Long Term Eff Med
+Implants. 2005; 15:329-38.  Lyon C, Clark DC. Diagnosis of acute abdominal pain in older patients. Am Fam Physician. 2006
+Nov 1; 74:1537-44.  Shea JA, Berlin JA, Escarce JJ, Clarke JR, Kinosian BP, Cabana MD et al. Revised estimates of
+diagnostic test sensitivity and specificity in suspected biliary tract disease. Arch Intern Med 1994 ; 154(22):2573-81. [PubMed] Comentario en : ACP J Club. 1995 May-Jun;122(3):76
+
+2. CONTROL DE CAMBIOS:
+
+Versión
+
+Fecha
+
+Descripción
+
+001 Junio 2012 Elaboración del documento
+
+Elaboró
+
+Revisó
+
+Aprobó
+
+Natasha Molina Grupo cirujanos
+
+Comité Tecnicocientífico
+
+Gestión de calidad
+
+Página 3 de 3

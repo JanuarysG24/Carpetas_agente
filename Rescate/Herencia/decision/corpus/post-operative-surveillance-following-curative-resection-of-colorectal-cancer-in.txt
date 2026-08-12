@@ -1,0 +1,484 @@
+Open Access Original Article
+
+DOI: 10.7759/cureus.49072
+
+Review began 10/29/2023 Review ended 11/13/2023 Published 11/19/2023
+© Copyright 2023 Shekleton et al. This is an open access article distributed under the terms of the Creative Commons Attribution License CCBY 4.0., which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+Post-operative Surveillance Following Curative Resection of Colorectal Cancer in the Elderly Population in the United Kingdom: An Observational Study
+Florence E. Shekleton 1 , William C. Baker 2 , Edward D. Courtney 2
+1. Surgery, Royal United Hospital Bath, Bath, GBR 2. General Surgery, Royal United Hospital Bath, Bath, GBR
+Corresponding author: Florence E. Shekleton, f.shekleton@nhs.net
+Abstract
+Background
+Colorectal cancer most commonly affects the elderly population. Post-colorectal cancer surveillance aims to reduce cancer incidence and mortality, but its necessity and effectiveness are debated, especially in the elderly population. This study explores the relevance of computer tomography (CT) and colonoscopy surveillance in patients aged 75 and over who have undergone curative resection for colorectal cancer.
+Methods
+A retrospective analysis of prospectively collected data was conducted on patients aged 75 and over who had undergone surgical resection of colorectal cancer between November 2014 and August 2021. Data on demographics, treatment, survival, and surveillance were gathered from electronic patient records. The primary outcome was adherence to follow-up colonoscopy and CT-scan surveillance following surgery.
+Results
+A total of 417 patients underwent colorectal cancer surgery, with 334 included for analysis. The cohort had an average age of 81 years, with the majority receiving laparoscopic surgery and primary anastomosis. Twelve-month CT surveillance showed normal results in 281 patients (91.8%), while 24-month CT surveillance demonstrated normal findings in 244 patients (88.7%). Only 175 patients (52.4%) had colonoscopy follow-up, with 94 (53.7%) showing normal results, 74 (42.3%) demonstrating benign polyps, and two patients (1.1%) having histologically proven cancer. Reasons for not undergoing colonoscopy included declining invitations (30 patients, 19.1%) and being too frail (45 patients, 28.7%).
+Conclusion
+This study reinforces the notion that colonoscopy surveillance for patients over the age of 75 may have limited benefits. In an ageing population, the benefits of surveillance in terms of early detection of recurrence must be balanced against the risks of harm from the procedure, the availability of further management, cost-effectiveness, and patient preferences. An individualised approach should be adopted, potentially with colonoscopy surveillance only recommended in patients of higher risk (extramural venous invasion (EMVI)) and a low frailty score with a life expectancy over 10 years.
+
+Categories: Gastroenterology, General Surgery, Oncology Keywords: current guidelines, colonoscopy, frail elderly, surveillance colonoscopy, colorectal cancer
+Introduction
+There are 56 new cases of bowel cancer per 100,000 per year in the UK population, with the highest incidence in those aged 85-89 (2016-2018) [1]. Among these, 44% of cases are female and 56% are male. Following treatment for colorectal cancer, patients are at risk of developing a local or distant recurrence or metachronous tumours and are therefore offered surveillance. Surveillance’s primary aim is to reduce colorectal cancer incidence in patients once neoplasia clearance is achieved. This is done through the identification and resection of de novo and missed polyps, preventing their progression to cancer. The secondary aim is to reduce mortality. The National Institute for Health and Care Excellence's (NICE) guidance for post-resection surveillance currently consists of carcinoembryonic antigen (CEA) blood testing, computerised tomography (CT) scans at 12 and 24 months, and colonoscopy at one and three years [2].
+Surveillance, in particular colonoscopy, is associated with risks. A study of screening colonoscopies found between four and eight serious complications for every 10,000 procedures [3]. These risks include bleeding, perforation, pain, and anaesthetic reactions such as nausea and vomiting. The incidence of these complications significantly rises in elderly and frail individuals [4]. Furthermore, the associated difficulties and risks with bowel preparation disproportionately affect the elderly, including electrolyte disturbance, hypoglycaemia, and mobility issues [5, 6]. In an ageing population, the benefits of surveillance in terms of
+How to cite this article Shekleton F E, Baker W C, Courtney E D (November 19, 2023) Post-operative Surveillance Following Curative Resection of Colorectal Cancer in the Elderly Population in the United Kingdom: An Observational Study. Cureus 15(11): e49072. DOI 10.7759/cureus.49072
+
+early detection of recurrence must be balanced against the risks of harm from the procedure, the availability of further management, cost-effectiveness, and patient preferences.
+Recently published evidence-based guidelines for surveillance after colorectal cancer treatment concluded that there is insufficient evidence to support recommendations in patients over 75 years and that it should only be performed on an individualised basis [7]. This is reflected in the British Society of Gastroenterology (BSG)/Association of Coloproctology of Great Britain and Ireland/Public Health England post-polypectomy and post-colorectal cancer resection surveillance guidelines released in 2019, which recommended no surveillance be carried out in those over 75 years of age or with less than 10-year life expectancy [8]. Despite these guidelines, surveillance is still practised in this elderly population across the UK, including at the site of this series. In fact, the 2019 report by the BSG identified the relevance of surveillance for those over 75 years old as a key unanswered research question [8].
+The aim of this study is to assess the adherence to surveillance CT scanning and, in particular, colonoscopy, following curative resection of colorectal cancer in patients over 75 years of age. Secondary analysis aims to investigate predictive factors for elderly patients with recurrence.
+Materials And Methods
+A retrospective analysis of prospectively collected data from a single district general hospital in the U.K. (Royal United Hospital, Bath, U.K.) was undertaken. All patients aged 75 years and over who had undergone surgical resection for colorectal cancer between November 2014 and August 2021 were included. Exclusion criteria were patients who had undergone emergency surgery, palliative surgery with no curative intent, and those for whom no follow-up data was available (surveillance performed at another health trust or private institution). The Consolidated Standards of Reporting Trials (CONSORT) flow diagram (Figure 1) demonstrates the inclusion pathway and reasons for exclusions.
+
+FIGURE 1: The CONSORT flow diagram demonstrates the inclusion pathway and reasons for exclusions
+CONSORT: Consolidated Standards of Reporting Trials; RUH: Royal United Hospital Bath
+
+2023 Shekleton et al. Cureus 15(11): e49072. DOI 10.7759/cureus.49072
+
+2 of 10
+
+Electronic patient records were used to collect data on age, gender, Rockwood frailty score [9], and type of operation, including laparoscopic vs. open technique, tumour location, neoadjuvant, and adjuvant therapy. The primary outcome was adherence to post-operative surveillance, which was measured as 12- and 24monthly CT scans and a one-year colonoscopy from the date of surgery. Secondary analysis assessed the polyp size and histology if removed during surveillance colonoscopy, as well as the rate of further intervention following recurrence during surveillance. The size of the polyp was taken from the largest diameter on the histology report.
+The data were extracted from electronic patient records, anonymised, and securely stored on a local database.
+Following data collection, the proportions of patients who had undergone surveillance were calculated and the reason for missing data was documented. The rate of recurrence from surveillance CT scans and colonoscopy and whether further treatment was offered were analysed. Logistic regression analysis was performed to investigate whether demographic and pathological markers were predictive of recurrence from surveillance investigations on IBM SPSS Statistics software for Windows, version 28.0 (IBM Corp., Armonk, NY).
+Results
+Population characteristics
+Four hundred and seventeen patients underwent curative resection for colorectal cancer, of whom 334 were included in the analysis. Patient, oncological, and surgical details are displayed in Table 1.
+
+2023 Shekleton et al. Cureus 15(11): e49072. DOI 10.7759/cureus.49072
+
+3 of 10
+
+Demographic Gender Age (in years) Frailty score Location of the tumour Neoadjuvant therapy
+Adjuvant therapy Operative approach Anastomosis
+
+Value Male Female 75-79 80-84 85-89 90-95 1-3 4-6 7-9 Right Left Rectum Recto-sigmoid Nil Chemotherapy Long-course radiotherapy (LCR) Long-course chemoradiotherapy (LCCR) Total neoadjuvant therapy (TNT) Yes No Aborted Unknown Laparoscopic Converted Open Laparoscopic-assisted Yes No
+
+TABLE 1: Population characteristics (n=334)
+
+n
+
+%
+
+170
+
+50.9
+
+164
+
+49.1
+
+129
+
+38.6
+
+141
+
+42.2
+
+59
+
+17.7
+
+5
+
+1.5
+
+290
+
+86.8
+
+42
+
+12.6
+
+2
+
+0.6
+
+161
+
+48.2
+
+75
+
+22.5
+
+83
+
+24.9
+
+15
+
+4.5
+
+304
+
+91.0
+
+9
+
+2.7
+
+4
+
+1.2
+
+15
+
+4.5
+
+1
+
+0.3
+
+92
+
+27.5
+
+228
+
+68.3
+
+8
+
+2.4
+
+6
+
+1.8
+
+290
+
+86.8
+
+21
+
+6.3
+
+22
+
+6.6
+
+1
+
+0.3
+
+270
+
+80.8
+
+64
+
+19.2
+
+The majority of the cohort were male (50.9%) with a mean age of 81 years (range: 75-92 years) and a mean Rockwood frailty score of 2. Twenty-nine (8.7%) patients underwent neoadjuvant therapies, while 92 (27.5%) received adjuvant therapy. Most patients had right-sided tumours (48.2%). Operations were generally performed laparoscopically (86.8%) with a primary anastomosis (80.8%). The mean follow-up period was 66.6 months. Four patients died <90 days post-operatively (1.2%).
+Computerised tomography surveillance
+At the 12-monthly surveillance, 305 (91.6%) patients underwent their CT follow-up. This was unremarkable in 281 (91.8%) patients but demonstrated local recurrence in five patients (1.6%) and distant metastases in 19 patients (6.2%).
+Sixty (21.5%) patients did not undergo their 24-month CT scan follow-up. For the 275 patients who did have their 24-month CT scan, no recurrent/metastatic disease was demonstrated in 88.7%, while local recurrence
+
+2023 Shekleton et al. Cureus 15(11): e49072. DOI 10.7759/cureus.49072
+
+4 of 10
+
+was seen in 1.5% and distant metastases in 5.5%. Previously known recurrence was found in 2.5% and metachronous cancer in 1.8% (Table 2).
+
+CT Normal Local recurrence Distant recurrence Metachronous disease Not performed Known recurrence
+
+12 months (n)
+
+%
+
+24 months (n)
+
+%
+
+281
+
+91.8
+
+244
+
+88.7
+
+5
+
+1.6
+
+4
+
+1.5
+
+19
+
+6.2
+
+15
+
+5.5
+
+0
+
+0.0
+
+5
+
+1.8
+
+28
+
+9.2
+
+59
+
+21.5
+
+0
+
+0.0
+
+7
+
+2.5
+
+TABLE 2: Surveillance CT findings at 12 and 24 months (n=334)
+
+Colonoscopy surveillance
+Post-operative colonoscopy surveillance was performed in 175 (52.4%) patients, and findings are demonstrated in Table 3.
+
+Colonoscopy findings Normal Benign polyp Polyp not retrieved Colitis Cancer
+
+n
+
+%
+
+94
+
+53.7
+
+74
+
+42.3
+
+2
+
+1.1
+
+3
+
+1.7
+
+2
+
+1.1
+
+TABLE 3: Surveillance colonoscopy findings (n=175)
+
+Of these, 53.7% were normal, 42.3% demonstrated polyps with benign histology, 1.1% demonstrated polyps that were not removed, 1.1% demonstrated histologically proven cancer, and 1.7% demonstrated colitis. One hundred and fifty-nine patients did not undergo colonoscopy surveillance (47.6%).
+From the 42.3% of patients who had a polyp removed during colonoscopy, a total of 181 polyps were sent for histological analysis; 1.1% of polyps were not removed at the time of colonoscopy due to the patient being on anticoagulation. The mean polyp maximum diameter on the histology report was 4.4mm (range 1mm to 19mm). The majority of polyps were tubular adenomas (62.4%); 99.3% of polyps had no or low-grade dysplasia (Table 4).
+
+2023 Shekleton et al. Cureus 15(11): e49072. DOI 10.7759/cureus.49072
+
+5 of 10
+
+Histology of polyp Hyperplastic Tubular adenoma Tubulovillous Sessile serrated lesion Granulation tissue Tubulovillous with high-grade dysplasia Too small to process Foreign material Bowel mucosa
+
+n
+
+%
+
+44
+
+31.2
+
+88
+
+62.4
+
+18
+
+12.8
+
+19
+
+13.5
+
+1
+
+0.7
+
+1
+
+0.7
+
+1
+
+0.7
+
+2
+
+1.4
+
+7
+
+5.0
+
+TABLE 4: Histology of polyps removed at the time of colonoscopy surveillance (n=181)
+
+Most significantly, only 11 patients (6.2%) at their one-year colonoscopy were found to have advanced colorectal polyps as defined by the British Society of Gastroenterology (serrated polyp ³10mm, serrated polyp with dysplasia, adenoma ³10mm, adenoma with high-grade dysplasia) [8].
+Reasons for not having a surveillance colonoscopy included the following: declined invitation by the patient (19.1%), patient frailty (28.7%), metastatic disease (13.4%), patient deceased (6.4%), patient unable to tolerate the procedure (1.9%), and unknown (25.5%) (Table 5).
+
+Reason colonoscopy not performed Not known Too frail Patient declined Metastatic disease Died Cancelled by clinician Unable to tolerate
+
+n
+
+%
+
+40
+
+25.5
+
+45
+
+28.7
+
+30
+
+19.1
+
+21
+
+13.4
+
+10
+
+6.4
+
+11
+
+7.0
+
+3
+
+1.9
+
+TABLE 5: Indications for missed colonoscopy surveillance (n=160)
+
+The gastroenterology department removed 12.2% of patients from the waiting list. In these cases, it was because their notes had been reviewed by a doctor, the surveillance was deemed no longer required, and no more specific detail was given. In some cases, colorectal surgeons then rebooked the surveillance colonoscopy.
+Interventions following recurrence
+Further investigation was undertaken into those patients with local or distant recurrence or metachronous tumours picked up during surveillance (Table 6).
+
+2023 Shekleton et al. Cureus 15(11): e49072. DOI 10.7759/cureus.49072
+
+6 of 10
+
+Management
+
+n
+
+Surgical resection
+
+9
+
+Palliative surgery
+
+2
+
+Radiotherapy
+
+4
+
+Hormonal therapy
+
+2
+
+Palliative chemotherapy
+
+6
+
+Curative chemotherapy
+
+3
+
+Nil
+
+15
+
+TABLE 6: Interventions for recurrent disease detected from surveillance (n=41)
+
+Of these, 15 opted for the best supportive care (36.6%), nine (22%) underwent surgical resection of liver, lung, or colorectal recurrence or metachronous tumours, while 4.9% had palliative surgery. Chemotherapy with curative intent was offered to 7.3%, and 14.6% had chemotherapy with palliative intent. Four (9.8%) patients had radiotherapy, and 4.9% had hormonal therapy for metachronous prostate cancer.
+Prediction of recurrence
+Of the 321 patients who were alive one year after surgical resection, surveillance identified 40 patients with recurrence. Binary logistic regression was used to assess if demographic (age and gender) and pathological markers from surgical resection (Tumour (T) stage (T1-T4), extramural venous invasion (EMVI), and number of positive lymph nodes) predicted recurrence (Table 7).
+
+Age Gender Tumour 1 (T1) Tumour 2 (T2) Tumour 3 (T3) Tumour 4 (T4) Positive lymph nodes (LNs) Extramural venous invasion (EMVI)
+
+Odds ratio (OR) 0.931 1.590 0.345 0.343 0.566 0.663 1.112 2.608
+
+95% CI 0.850 – 1.019 0.780 – 3.242 0.019 – 6.412 0.030 – 3.927 0.061 – 5.208 0.065 – 6.722 0.980 – 1.262 1.121 – 6.063
+
+p-value 0.120 0.202 0.475 0.390 0.615 0.728 0.100 0.026
+
+TABLE 7: Binary logistic regression of prediction of recurrence (n=321)
+
+The EMVI was the only variable significantly associated with local or distant recurrence during postoperative surveillance (odds ratio (OR): 2.608, 95% CI: 1.121-6.063, p=0.026).
+Discussion
+This observational cohort study demonstrates that although most elderly patients over the age of 75 are proceeding with traditional CT surveillance following colorectal cancer surgery, less than half are having colonoscopy follow-up despite being recommended by the multidisciplinary team (MDT). Of those who proceeded with colonoscopy surveillance, only 1.1% of these demonstrated histologically proven cancer. Overall, this series adds weight to the growing evidence and BSG surveillance guidelines that colonoscopy surveillance in elderly patients over 75 years of age provides minimal benefit.
+The debate over the optimal surveillance strategy after colorectal cancer surgery continues to persist. Jeffery et al. concluded that although an intense follow-up period offered more patients for curative surgery, there was no significant difference in overall or relapse-free survival between intense follow-up and less intense follow-up [10]. This same Cochrane review also found that intense follow-up might increase colonoscopy complications (haemorrhage and perforation) as well as being more expensive to offer. In the trust where
+
+2023 Shekleton et al. Cureus 15(11): e49072. DOI 10.7759/cureus.49072
+
+7 of 10
+
+this study was carried out (Royal United Hospital, Bath, UK, October 2023), tariffs for CT chest/abdomen/pelvis are £105, colonoscopy £530, and CEA blood test £12. Therefore, the approximate cost for complete surveillance for two years is £788 per patient. In 2021, this would have equated to a saving of £47,280.
+With the rising incidence of colorectal cancer in patients under the age of 50 in Europe, there is a growing need to investigate lower gastrointestinal symptoms in those under 50 years of age. This is often with colonoscopy, which results in increased numbers of patients requiring colonoscopy in endoscopy units struggling to cope with growing demand. Therefore, reducing the need to undertake colonoscopy routinely for colorectal cancer patients aged 75 and over would allow diverting resources to more prompt diagnosis in a resource-limited healthcare system [11].
+Understanding the timeline of colorectal cancer development is pivotal. The progression of polyps to cancer and the onset of clinical symptoms typically take at least a decade [12]. The risk of progression to invasive carcinoma is higher with advanced colorectal polyps. However, in this series, advanced polyps were only found in 6.2% of patients having colonoscopy one year post-resection. With an average life expectancy in the UK of 79.0 years for males and 82.9 years for females [13], surveillance colonoscopy in the over-75 age group is likely to be overtreatment for these patients, who potentially may never become symptomatic from future cancers and possibly cause harm from the complications of surveillance [14].
+A large retrospective study in California showed a significantly lower incidence of colorectal cancer detected through surveillance in patients over 75 years and a significantly higher risk of post-procedure hospitalisation than younger patients [15]. These authors advocated an individualised approach to determining surveillance for elderly patients, taking into account their frailty score. This could be combined with findings from this study demonstrating that EMVI was the only variable significantly associated with local or distant recurrence during post-operative surveillance. In this study, 29% of patients with recurrence identified through surveillance did go on to have further treatment with curative intent. Clearly, there is a subgroup of over 75-year-old patients who are fit for surveillance and further treatment if required. An individualised approach, taking into account the EMVI and frailty score, could be combined as indications for screening. This offers a potential compromise between previous surveillance guidelines and the new BSG guidelines.
+Colonoscopy surveillance was declined by 19.1% of our cohort of invited patients. The reason for this was not reliably documented and might range from a perceived lack of fitness for the procedure to a lack of comprehension of its necessity. Patient perspectives on colorectal cancer surveillance, as highlighted in a systematic review [16], underscore negative sentiments like anxiety, stress, unmet expectations, and a lack of support. To address these concerns, shared decision-making must take centre stage in the patientphysician dialogue, emphasising the patient's understanding of the rationale and options for surveillance. This approach could harmonise with the proposed individualised strategy, facilitating more informed decisions regarding surveillance for patients over 75.
+We acknowledge that there are limitations to this series. It should be noted that a significant proportion of patients included in this study underwent surgery and follow-up during the COVID-19 pandemic. During this time, some follow-up appointments and surveillance investigations were delayed as face-to-face appointments were limited in line with restrictions, and hospital services were focused on the management of patients affected by COVID-19. However, since the timescale of this research spans the pandemic and the mean follow-up period was 66.6 months, it is thought that the effect of this is mitigated. However, with some colonoscopies being delayed by up to three years, data for the three-year colonoscopy were not included since this was unlikely to be representative with a large number of patients still on the waiting list at the time of data collection.
+This was a single site for data collection. The generalisability across healthcare systems is uncertain. This research has also not taken into account whether patients were affected by hereditary colorectal syndromes, for which different guidelines and criteria for surveillance apply.
+Despite the inclusion of the Rockwood frailty score, we acknowledge that other markers of frailty such as exercise tolerance (cardiopulmonary exercise testing and skeletal muscle mass) and co-morbidity classifications were not analysed. Further research is required to investigate whether these factors would influence post-operative surveillance.
+Conclusions
+This study demonstrates that although most elderly patients over the age of 75 are proceeding with traditional CT surveillance following colorectal cancer surgery, less than half are having colonoscopy followup. Of those who proceeded with colonoscopy surveillance, only 1.1% of these demonstrated histologically proven cancer. This adds weight to the BSG surveillance guidelines that colonoscopy surveillance in elderly patients over 75 years provides minimal benefit.
+Furthermore, this study found that EMVI was the only variable significantly associated with local or distant recurrence during post-operative surveillance. In an ageing population, the benefits of surveillance in terms of early detection of recurrence must be balanced against the risks of harm from the procedure, the
+2023 Shekleton et al. Cureus 15(11): e49072. DOI 10.7759/cureus.49072
+
+8 of 10
+
+availability of further management, cost-effectiveness, and patient preferences. An individualised approach should be adopted, potentially with colonoscopy surveillance only recommended in patients of higher risk (EMVI) and a low frailty score with a life expectancy of over 10 years.
+Additional Information
+Author Contributions
+All authors have reviewed the final version to be published and agreed to be accountable for all aspects of the work.
+Concept and design: Florence E. Shekleton, Edward D. Courtney
+Acquisition, analysis, or interpretation of data: Florence E. Shekleton, Edward D. Courtney, William C. Baker
+Drafting of the manuscript: Florence E. Shekleton, William C. Baker
+Critical review of the manuscript for important intellectual content: Florence E. Shekleton, Edward D. Courtney, William C. Baker
+Supervision: Edward D. Courtney
+Disclosures
+Human subjects: Consent was obtained or waived by all participants in this study. Animal subjects: All authors have confirmed that this study did not involve animal subjects or tissue. Conflicts of interest: In compliance with the ICMJE uniform disclosure form, all authors declare the following: Payment/services info: All authors have declared that no financial support was received from any organization for the submitted work. Financial relationships: All authors have declared that they have no financial relationships at present or within the previous three years with any organizations that might have an interest in the submitted work. Other relationships: All authors have declared that there are no other relationships or activities that could appear to have influenced the submitted work.
+References
+1. Bowel cancer statistics . (2023). Accessed: 22/09/2023: https://www.cancerresearchuk.org/healthprofessional/cancer-statistics/statistics-by-cancer-type/bowel-cancer#heading....
+2. Colorectal cancer NICE guideline. (2020). Accessed: 24/09/2023: https://www.nice.org.uk/guidance/ng151/chapter/Recommendations#ongoing-care-and-support.
+3. Lin JS, Perdue LA, Henrikson NB, Bean SI, Blasi PR: Screening for colorectal cancer: updated evidence report and systematic review for the US Preventive Services Task Force. JAMA. 2021, 325:1978-98. 10.1001/jama.2021.4417
+4. Causada-Calo N, Bishay K, Albashir S, Al Mazroui A, Armstrong D: Association between age and complications after outpatient colonoscopy. JAMA Netw Open. 2020, 3:e208958. 10.1001/jamanetworkopen.2020.8958
+5. Reumkens A, van der Zander Q, Winkens B, Bogie R, Bakker CM, Sanduleanu S, Masclee AA: Electrolyte disturbances after bowel preparation for colonoscopy: systematic review and meta-analysis. Dig Endosc. 2022, 34:913-26. 10.1111/den.14237
+6. Kumar A, Lin L, Bernheim O, Bagiella E, Jandorf L, Itzkowitz SH, Shah BJ: Effect of functional status on the quality of bowel preparation in elderly patients undergoing screening and surveillance colonoscopy. Gut Liver. 2016, 10:569-73. 10.5009/gnl15230
+7. Kennedy E, Zwaal C, Asmis T, Cho C, Galica J, Ginty A, Govindarajan A: An evidence-based guideline for surveillance of patients after curative treatment for colon and rectal cancer. Curr Oncol. 2022, 29:724-40. 10.3390/curroncol29020062
+8. Rutter MD, East J, Rees CJ, et al.: British Society of Gastroenterology/Association of Coloproctology of Great Britain and Ireland/Public Health England post-polypectomy and post-colorectal cancer resection surveillance guidelines. Gut. 2020, 69:201-23. 10.1136/gutjnl-2019-319858
+9. Rockwood K, Song X, MacKnight C, Bergman H, Hogan DB, McDowell I, Mitnitski A: A global clinical measure of fitness and frailty in elderly people. CMAJ. 2005, 173:489-95. 10.1503/cmaj.050051
+10. Jeffery M, Hickey BE, Hider PN, See AM: Follow-up strategies for patients treated for non-metastatic colorectal cancer. Cochrane Database Syst Rev. 2016, 11:CD002200. 10.1002/14651858.CD002200.pub3
+11. Siegel RL, Fedewa SA, Anderson WF, Miller KD, Ma J, Rosenberg PS, Jemal A: Colorectal cancer incidence patterns in the United States, 1974-2013. J Natl Cancer Inst. 2017, 109:djw322. 10.1093/jnci/djw322
+12. Stryker SJ, Wolff BG, Culp CE, Libbe SD, Ilstrup DM, MacCarty RL: Natural history of untreated colonic polyps. Gastroenterology. 1987, 93:1009-13. 10.1016/0016-5085(87)90563-4
+13. National life tables - life expectancy in the UK: 2018 to 2020 . (2021). Accessed: 22/09/2023: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/bulletins/nationallifet...
+14. Neilson LJ, Thirugnanasothy S, Rees CJ: Colonoscopy in the very elderly . Br Med Bull. 2018, 127:33-41. 10.1093/bmb/ldy018
+15. Tran AH, Man Ngor EW, Wu BU: Surveillance colonoscopy in elderly patients: a retrospective cohort study . JAMA Intern Med. 2014, 174:1675-82. 10.1001/jamainternmed.2014.3746
+16. Berian JR, Cuddy A, Francescatti AB, O'Dwyer L, Nancy You Y, Volk RJ, Chang GJ: A systematic review of patient perspectives on surveillance after colorectal cancer treatment. J Cancer Surviv. 2017, 11:542-52.
+
+2023 Shekleton et al. Cureus 15(11): e49072. DOI 10.7759/cureus.49072
+
+9 of 10
+
+10.1007/s11764-017-0623-2
+
+2023 Shekleton et al. Cureus 15(11): e49072. DOI 10.7759/cureus.49072
+
+10 of 10

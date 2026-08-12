@@ -1,0 +1,298 @@
+International Journal of General Medicine
+
+Open Access Full Text Article
+
+ORIGINAL RESEARCH
+
+The Efficacy of Evidence-Based Nursing
+
+Interventions in Postoperative Care for Cervical
+
+Cancer Patients: A Retrospective Evaluation
+
+Guanqin Huang1, Xudong Ye2, Xiquan Chen2
+
+1Department of Gynecology, The First People’s Hospital of Guangyuan City, Guangyuan, Sichuan Province, 628000, People’s Republic of China; 2Department of Cardiology, The First People’s Hospital of Guangyuan City, Guangyuan, Sichuan Province, 628000, People’s Republic of China
+
+Correspondence: Xiquan Chen, Department of Cardiology, The First People’s Hospital of Guangyuan City, No. 490, Ju Guo Road, Lizhou District, Guangyuan, Sichuan Province, 628000, People’s Republic of China, Email Xique19821222@163.com
+
+Background: Cervical cancer patients often face complex physical and psychological challenges following surgery. Evidence-based nursing (EBN) interventions, tailored to meet these needs, may enhance postoperative recovery, but their specific effects on patient outcomes in cervical cancer care have been less explored. This study evaluates the impact of EBN on awareness, psychological wellbeing, quality of life (QoL), and nursing satisfaction in postoperative care for cervical cancer patients. Methods: This retrospective study (January 2021–December 2023) included adult cervical cancer patients undergoing primary surgery, divided into a control group (n=80, standard care) and an observation group (n=76, EBN interventions). Outcomes were disease/surgery awareness, treatment knowledge, and intraoperative cooperation (100-point scales); psychological distress using the Symptom Checklist-90-Revised (SCL-90-R); QoL using the European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire Core 30 (EORTC QLQ-C30); perioperative patient satisfaction (100-point questionnaire). Results: The observation group demonstrated significantly higher scores in cervical cancer awareness (95.82 ± 5.34 vs 84.38 ± 5.21, p < 0.001), surgical knowledge (96.26 ± 7.12 vs 88.03 ± 6.43, p < 0.001), and cooperation (92.13 ± 8.15 vs 82.10 ± 7.82, p < 0.001). Post-intervention reductions in anxiety, depression, and other emotional symptoms were significantly greater in the observation group (p < 0.05). QoL scores improved across all functional domains, especially physiological (86.66 ± 13.05 vs 64.85 ± 9.80, p < 0.001). Total nursing satisfaction was higher in the observation group (96.05% vs 83.75%, χ² = 6.409, p = 0.011). Conclusion: EBN interventions in postoperative care for cervical cancer patients might be associated with notable benefits, including enhanced patient awareness, improved psychological well-being, better QoL, and higher nursing satisfaction. These findings suggest that EBN could be a valuable approach for improving outcomes in postoperative cervical cancer care. Keywords: cervical cancer, evidence-based nursing, postoperative care, quality of life, psychological support
+
+Introduction
+Cervical cancer remains a significant health challenge worldwide, ranking as one of the most prevalent malignancies among women, especially in low- and middle-income countries. Cervical cancer is the fourth most common cancer in women globally, with approximately 660,000 new cases and around 350,000 deaths reported in 2022.1 Organized screening and timely treatment remain critical to improving survival outcomes. Despite advancements in screening and preventive measures, many patients still undergo surgical interventions, often requiring extensive postoperative care. Following surgery, cervical cancer patients face unique recovery challenges due to the nature of the disease and the complexities associated with treatment.2,3 Effective postoperative care for these patients is essential to minimizing complications, reducing the risk of recurrence, and improving overall quality of life. The role of evidence-based nursing interventions is pivotal in this context, as such interventions are designed to deliver high-quality, individualized care grounded in the best available research evidence, thus directly impacting recovery outcomes.4,5
+
+Received: 16 June 2025 Accepted: 28 August 2025 Published: 7 October 2025
+
+International Journal of General Medicine 2025:18 6073–6082
+
+6073
+
+© 2025 Huang et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms. php and incorporate the Creative Commons Attribution – Non Commercial (unported, v4.0) License (http://creativecommons.org/licenses/by-nc/4.0/). By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+
+Huang et al
+Postoperative care for cervical cancer patients encompasses a broad spectrum of clinical needs, including wound management, pain control, psychological support, and prevention of complications such as infections and lymphedema. Additionally, these patients may face significant physical and emotional stress during recovery, making comprehensive care crucial. Traditional postoperative nursing care often emphasizes routine procedures, such as basic wound care, medication administration, and vital sign monitoring.6,7 However, these practices can be limited in their ability to address the individual needs of patients, particularly those with complex postoperative conditions. Standardized procedures may overlook specific patient factors, such as psychological well-being, and the need for individualized pain management, potentially leading to prolonged recovery times, increased risk of complications, and suboptimal patient outcomes. Evidence-based nursing (EBN) represents a paradigm shift in nursing practice, integrating clinical expertise with the latest scientific evidence to inform patient care. For postoperative cervical cancer patients, EBN interventions involve a range of practices, such as infection control protocols, pain management techniques, early mobilization, nutritional support, and psychological counseling. These interventions are not only designed to address the immediate postoperative needs of the patient but also aim to promote long-term recovery and enhance overall wellbeing. Research indicates that when nursing interventions are evidence-based, they are more effective in preventing complications, reducing hospital stay durations, and fostering faster patient recovery, thereby optimizing healthcare resources and enhancing patient satisfaction.8–10
+This study aims to evaluate the efficacy of evidence-based nursing interventions in postoperative care for cervical cancer patients, focusing on a retrospective analysis of patient outcomes. Furthermore, the study aims to provide insights into best practices for postoperative nursing care, offering a foundation for refining nursing protocols and fostering the integration of evidence-based care strategies in clinical settings.
+Methods Study Design and Participant Selection
+This retrospective study, conducted at the First People’s Hospital of Guangyuan City (Sichuan Province, China) between January 2021 and December 2023, aimed to evaluate the efficacy of evidence-based nursing interventions in postoperative care for cervical cancer patients. Eligible participants were adult patients (≥18 years) with histologically confirmed cervical cancer who underwent primary surgical treatment, such as hysterectomy or other tumor-resecting procedures, and had complete medical records detailing postoperative outcomes. Exclusion criteria included patients who received only non-surgical treatments, those with severe pre-existing comorbidities like uncontrolled diabetes or advanced cardiovascular disease, and those with a prior history of cervical cancer surgery to ensure cohort homogeneity. During the initial study phase from January 2021 to June 2022, patients received standard nursing care, forming the control group (n=80). In contrast, from July 2022 to December 2023, an evidence-based nursing protocol was implemented, with patients in this period constituting the observation group (n=76). This study was conducted in line with the STROBE (Strengthening the Reporting of Observational Studies in Epidemiology) guidelines.11 Informed consent was obtained from all subjects. The study was meticulously reviewed and approved by our hospital’s ethics committee, ensuring compliance with applicable guidelines and regulations. Adhering to the ethical principles of the Declaration of Helsinki for human subject research, our methodology, design, performance, and reporting maintained the highest ethical standards. We ensured stringent data confidentiality and removed all personal identifiers prior to analysis to safeguard participant privacy.
+Identification of Evidence-Based Nursing Challenges
+Based on previous clinical nursing experience and outcomes, specific postoperative complications were identified as critical focus areas for evidence-based nursing interventions in cervical cancer patients (led by Huang GQ and Ye XD). These complications included subcutaneous emphysema, incision bleeding, shoulder pain, and pulmonary infection, necessitating preventive and therapeutic nursing strategies.
+
+6074
+
+https://doi.org/10.2147/IJGM.S543874
+
+Powered by TCPDF (www.tcpdf.org)
+
+International Journal of General Medicine 2025:18
+
+Huang et al
+Evidence Support for Interventions
+Once the nursing challenges were identified, evidence was gathered through a review of clinical nursing experiences and a search of relevant literature (led by Chen XQ). Comprehensive evidence was sourced from databases such as CNKI, Wanfang, and VIP, establishing a foundation of support for targeted evidence-based interventions.
+Evaluation of Evidence
+The gathered evidence was classified, evaluated, and screened based on feasibility, clinical nursing experience, and patient preferences, using an internally developed framework that reflects our institution’s clinical context and past experiences. This step ensured that the selected interventions were both clinically applicable and responsive to individual patient needs (led by Chen XQ).
+Application of Evidence-Based Nursing Strategies
+A final nursing care plan was developed in accordance with the clinical characteristics of cervical cancer patients, with flexibility to adjust according to real-time clinical scenarios (led by Huang GQ and Ye XD). Key aspects of this evidencebased approach included:
+Psychological Support and Communication: Enhancing nurse-patient communication and providing psychological counseling were prioritized to reduce patient anxiety and prevent disputes, thereby improving the quality of care.
+Incision Care: Following medical orders for antibiotic use, nursing staff closely monitored incision sites, regularly changed dressings, and took proactive measures to prevent infections. For patients experiencing incision pain, explanations of the pain’s cause were provided to alleviate anxiety. Techniques such as soft music and guided breathing exercises were used to promote relaxation and distract from pain. In cases of excessive bleeding, transfusions were administered as necessary.
+Management of Subcutaneous Emphysema: Patients were informed that subcutaneous emphysema was a common result of carbon dioxide insufflation during laparoscopic procedures. This assurance aimed to alleviate patient concerns, as this condition typically resolves on its own without special treatment.
+Shoulder Pain Relief: Patients experiencing shoulder pain were advised on the correlation with gas insufflation. Nurses guided them in adopting a knee-chest position to encourage gas migration toward the pelvic cavity, thus relieving shoulder discomfort.
+Urinary Retention Prevention: Patients were advised to engage in regular bladder function exercises, such as pelvic floor strengthening, to maintain bladder tone. Before catheter removal, patients were encouraged to practice controlled voiding to aid in bladder recovery.
+Lymphatic Cyst Management: To facilitate effective lymphatic drainage, nursing staff ensured clear drainage tube patency and frequently checked the drainage system. Positional adjustments were made as needed, or open drainage was performed to promote lymphatic flow when required.
+Observational Indicators for Evaluating Nursing Interventions
+This study employed a range of observational indicators to assess the effectiveness of perioperative nursing interventions for patients with cervical cancer (led by Huang GQ and Ye XD). Key parameters included perioperative satisfaction, disease awareness, understanding of surgical procedures, intraoperative cooperation, and psychological well-being. The specific metrics evaluated were as follows:
+Cervical Cancer and Surgical Awareness: Patients’ understanding of cervical cancer and their awareness of surgical procedures were assessed. Each component knowledge of the disease, comprehension of surgical treatment options, and cooperation during the surgical process was rated on a 100-point scale, with higher scores reflecting enhanced awareness and improved cooperation (Supplementary Tables 1–3).
+Psychological Impact (Anxiety and Depression):12 Anxiety and depression were quantified using the Anxiety and Depression subscales of the Symptom Checklist-90-Revised (SCL-90-R). Each subscale comprises 10 (Anxiety) or 13 (Depression) items rated on a five-point Likert scale (1 = “not at all” to 5 = “extremely”), with higher scores indicating
+
+International Journal of General Medicine 2025:18
+
+https://doi.org/10.2147/IJGM.S543874 6075
+
+Powered by TCPDF (www.tcpdf.org)
+
+Huang et al
+greater symptom severity. Subscale scores were calculated as the sum of item ratings and range from 10 to 50 for Anxiety and 13 to 65 for Depression. Assessments were conducted at two standardized time points: within 24 hours prior to the first evidence-based nursing intervention (pre-care) and on postoperative day 7 following completion of the intervention bundle (post-care). The magnitude of score reduction between these two assessments was used to evaluate emotional change and the efficacy of the psychological support components of the nursing protocol.
+Quality of Life (QoL):13 Changes in quality of life were measured using the European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire Core 30 (EORTC QLQ-C30), version 3.0, which is widely validated in oncology populations. Four functional scales—physical, emotional, social and role function—were scored according to the EORTC scoring manual, with raw domain scores linearly transformed to a 0–100 scale (higher scores denote better functioning). Assessments were performed at two standardized time points: within 24 hours prior to the first evidence-based nursing intervention (pre-care) and on postoperative day 7 following completion of the intervention bundle (post-care).
+Perioperative Satisfaction: Patient satisfaction with perioperative care was measured using a standardized questionnaire, yielding a total score of 100. Satisfaction levels were classified as follows: scores of 90 or above were deemed “Highly Satisfied”, scores ranging from 70 to 89 were categorized as “Satisfied”, scores from 60 to 69 were classified as “Basic Satisfaction”, and scores below 60 were considered “Dissatisfied”.
+Statistical Analysis
+Statistical analyses were conducted using SPSS software (Version 27.0) to ensure rigorous evaluation of the data. Initially, data were categorized into quantitative and categorical variables, followed by normality tests to determine their distribution patterns. For quantitative data that adhered to a normal distribution, inter-group differences were assessed using independent sample t-tests, with results reported as mean ± standard deviation. Categorical data were presented as frequencies and percentages, and associations between variables were analyzed using Chi-square (χ²) tests. If the conditions for the Chisquare test were not met, Fisher’s exact test was utilized. For ordinal data comparisons, the Wilcoxon rank-sum test was employed. All hypotheses were tested as two-tailed, with a significance level set at p < 0.05 to determine statistical relevance.
+Results Demographic Characteristics of Study Participants
+The study included a total of 156 participants, divided into two groups: the control group and the observation group. The control group comprised 80 patients, aged between 35 and 66 years, with a mean age of 49.68 ± 5.18 years. Among these, 62 patients had previously given birth, while 18 were nulliparous. The observation group included 76 patients, aged from 36 to 68 years, with a mean age of 50.16 ± 5.28 years; this group consisted of 60 patients who had given birth and 16 who had not. Statistical analysis revealed no significant differences in age or reproductive status between the two groups (P > 0.05), confirming their comparability for further evaluation. Additionally, hospitalisation duration was compared between groups. The observation group, which received evidence-based nursing interventions, had a significantly shorter mean length of stay (10.56 ± 2.13 days) compared to the control group (12.19 ± 2.33 days) (t = 4.553, p < 0.001).
+Comparison of Awareness, Knowledge, and Cooperation Scores Between Control and Observation Groups
+In this study, we evaluated differences in cervical cancer awareness, surgical treatment knowledge, and surgical cooperation between the control and observation groups. The results, as outlined in Table 1, indicate that the observation group, which received enhanced, evidence-based nursing interventions, demonstrated significantly higher scores across all measured domains compared to the control group. The cervical cancer awareness scores were notably higher in the observation group (95.82 ± 5.34) compared to the control group (84.38 ± 5.21), with a statistically significant difference (t = 13.54, p < 0.001). Similarly, scores for surgical treatment knowledge were elevated in the observation group (96.26 ± 7.12) relative to the control group (88.03 ± 6.43), with a significant t value of 7.584 and p < 0.001. Finally, surgical cooperation scores were also significantly higher in the observation group (92.13 ± 8.15) compared to the control group (82.10 ± 7.82) (t = 7.844, p < 0.001).
+
+6076
+
+https://doi.org/10.2147/IJGM.S543874
+
+International Journal of General Medicine 2025:18
+
+Powered by TCPDF (www.tcpdf.org)
+
+Huang et al
+
+Table 1 Comparison of Scores on Cervical Cancer Awareness, Surgical Treatment Knowledge, and Surgical Cooperation Between Control and Observation Groups (Mean ± SD)
+
+Group
+
+Sample Size
+
+Cervical Cancer Awareness Score (Mean ± SD)
+
+Surgical Treatment Knowledge Score (Mean ± SD)
+
+Surgical Cooperation Score (Mean ± SD)
+
+Control Group (n=80)
+
+80
+
+Observation Group
+
+76
+
+(n=76)
+
+t-value
+
+-
+
+p-value
+
+-
+
+Abbreviation: SD, Standard Deviation.
+
+84.38 ± 5.21 95.82 ± 5.34
+13.54 <0.001
+
+88.03 ± 6.43 96.26 ± 7.12
+7.584 <0.001
+
+82.10 ± 7.82 92.13 ± 8.15
+7.844 <0.001
+
+Comparison of Negative Emotional States Before and After Care in Control and Observation Groups
+The evaluation of anxiety, depression, and other negative emotional states before and after care revealed substantial improvements in the observation group, which received evidence-based nursing interventions, compared to the control group. As outlined in Table 2, both groups exhibited significant reductions in scores for various negative emotional states post-care; however, the reduction was more pronounced in the observation group, demonstrating the effectiveness of tailored nursing interventions. Specifically, interpersonal sensitivity, somatization, and paranoid ideation scores were considerably lower in the observation group following care, indicating a notable decrease in social and psychological distress. The observation group’s scores for depression and anxiety—critical indicators of psychological well-being—also declined significantly after the intervention, suggesting that evidence-based nursing contributed to alleviating these symptoms. Similar patterns were observed for other negative emotions, including fear, obsessiveness, and hostility, which decreased more markedly in the observation group compared to the control group. Furthermore, items such as psychoticism and other distress-related symptoms (eg, physical discomfort, fatigue) were included under the “Others” category, and these demonstrated significant reductions in the observation group post-care, with mean scores dropping substantially, underscoring the comprehensive benefits of the nursing intervention on a broad spectrum of emotional symptoms.
+Improvements in Quality-of-Life Scores Before and After Care in Control and Observation Groups
+The study assessed changes in quality-of-life scores in terms of physiological, emotional, social, and role functions before and after care in both the control and observation groups. As shown in Table 3, both groups exhibited significant
+
+Table 2 Comparison of Anxiety, Depression, and Other Negative Emotions Before and After Care in Control and Observation Groups (Mean ± SD)
+
+Item
+
+Observation Group (N=76) - Pre-Care
+
+Observation Group (n=76) - Post-Care
+
+Control Group (n=80) - Pre-Care
+
+Control Group (n=80) - Post-Care
+
+Interpersonal Sensitivity Somatization Paranoid Ideation Depression Fear Obsessiveness Anxiety Hostility Psychoticism Others
+
+32.05 ± 7.15 38.23 ± 8.24 25.98 ± 6.52 43.60 ± 6.26 29.45 ± 8.30 23.78 ± 6.43 39.28 ± 8.68 22.63 ± 7.49 38.95 ± 7.53 8.44 ± 2.77
+
+25.50 ± 6.73 34.47 ± 5.42 20.57 ± 5.26 38.06 ± 5.64 18.75 ± 3.59 17.93 ± 5.17 30.13 ± 6.34 17.47 ± 5.97 29.29 ± 6.48 2.61 ± 0.79
+
+32.98 ± 6.92 40.21 ± 7.87 26.26 ± 6.31 43.91 ± 6.73 30.14 ± 8.65 23.53 ± 6.23 39.53 ± 8.34 22.33 ± 7.21 36.87 ± 7.53 13.18 ± 2.33
+
+30.22 ± 7.24 37.30 ± 6.23 25.59 ± 7.16 42.48 ± 6.54 22.13 ± 5.84 19.74 ± 6.67 36.23 ± 7.82 21.67 ± 6.41 30.86 ± 7.31 6.43 ± 1.69
+
+Notes: Statistical analysis indicated that there were significant differences between groups, across different time points, and in the interaction between group and time. All observed differences were statistically significant with P < 0.05.
+
+International Journal of General Medicine 2025:18
+Powered by TCPDF (www.tcpdf.org)
+
+https://doi.org/10.2147/IJGM.S543874 6077
+
+Huang et al
+
+Table 3 Comparison of Quality of Life Scores Before and After Care in Control and Observation Groups
+
+Group
+
+Observation Group (n=76) Control Group (n=80) t-value p-value
+
+Physiological Function - Pre-care Physiological Function - Post-care Emotional Function - Pre-care Emotional Function - Post-care Social Function - Pre-care Social Function - Post-care Role Function - Pre-care Role Function - Post-care
+
+44.45 ± 5.20 86.66 ± 13.05 56.23 ± 5.10 85.32 ± 14.20 65.04 ± 10.50 95.45 ± 18.12 59.24 ± 7.60 86.23 ± 10.80
+
+45.83 ± 5.18 64.85 ± 9.80 57.16 ± 4.95 68.62 ± 10.95 64.32 ± 10.12 77.51 ± 13.08 59.54 ± 10.30 72.98 ± 9.75
+
+1.660 11.84 1.156 8.250 0.436 7.117 0.206 8.051
+
+0.099 <0.001 0.250 <0.001 0.663 <0.001 0.837 <0.001
+
+Table 4 Comparison of Nursing Satisfaction Between the Control and Observation Groups
+
+Group
+
+Dissatisfied (%) Basic Satisfaction (%) Satisfied (%) Highly Satisfied (%) Total Satisfaction (%)
+
+Control Group (n=80) Observation Group (n=76) χ² value p value
+
+13 (16.25%) 3 (3.95%) – –
+
+21 (26.25%) 23 (30.26%) – –
+
+32 (40.00%) 28 (36.84%) – –
+
+14 (17.50%) 22 (28.95%) – –
+
+67 (83.75%) 73 (96.05%) 6.409 0.011
+
+improvements post-care; however, the observation group, which received evidence-based nursing interventions, demonstrated significantly higher post-care QoL scores across all domains compared to the control group. Post-care scores for physiological function showed a marked improvement in the observation group (86.66 ± 13.05) compared to the control group (64.85 ± 9.80), with a statistically significant difference (t = 11.84, p < 0.001). Emotional function scores also saw significant enhancement in the observation group after care, rising from a pre-care mean of 56.23 ± 5.10 to a post-care mean of 85.32 ± 14.20. For social function, the observation group’s post-care scores reached 95.45 ± 18.12, whereas the control group achieved a lower score of 77.51 ± 13.08 post-care (t = 7.117, p < 0.001). Role function scores, reflecting patients’ ability to resume normal roles and responsibilities, also significantly improved in the observation group (86.23 ± 10.80) compared to the control group (72.98 ± 9.75) with t = 8.051 and p < 0.001.
+Nursing Satisfaction Between Control and Observation Groups
+The comparison of nursing satisfaction between the control and observation groups revealed a significantly higher overall satisfaction rate in the observation group, as illustrated in Table 4. In terms of total satisfaction, which combines the categories of “Basic Satisfaction”, “Satisfied”, and “Highly Satisfied”, the observation group achieved a rate of 96.05%, compared to 83.75% in the control group. This difference was statistically significant (χ² = 6.409, p = 0.011), indicating that the nursing interventions implemented in the observation group contributed positively to patient satisfaction. In the breakdown of satisfaction levels, the observation group demonstrated a notably lower proportion of “Dissatisfied” responses, with only 3.95% of patients reporting dissatisfaction, compared to 16.25% in the control group. This reduction suggests that evidence-based nursing practices helped address common patient concerns and improve their overall perception of care quality. Additionally, the proportion of “Highly Satisfied” patients was considerably higher in the observation group, with 28.95% of patients expressing high satisfaction, compared to 17.50% in the control group. This increase in high satisfaction rates highlights the potential impact of structured nursing protocols and enhanced communication on meeting patient expectations and improving their overall experience.
+Discussion
+Cervical cancer remains one of the most prevalent cancers affecting women worldwide, with a high burden of morbidity and mortality, particularly in low-resource settings. Surgery is a common treatment modality, especially in early-stage cervical cancer, and while it can be effective in controlling disease, the postoperative period often involves physical and
+
+6078
+
+https://doi.org/10.2147/IJGM.S543874
+
+International Journal of General Medicine 2025:18
+
+Powered by TCPDF (www.tcpdf.org)
+
+Huang et al
+emotional challenges. Complications such as infection, pain, and emotional distress can hinder recovery and reduce overall quality of life.14,15 Therefore, optimizing postoperative care is essential to support patient recovery, minimize complications, and enhance quality of life. Evidence-based nursing interventions offer a structured, research-backed approach to addressing the complex needs of cervical cancer patients in the postoperative setting. These interventions can range from physical rehabilitation and pain management to psychological support, education, and strategies for enhancing patient cooperation in recovery.16–18 The findings of this study provide strong evidence that evidence-based nursing interventions significantly improve postoperative outcomes in cervical cancer patients across multiple domains, including awareness, psychological well-being, quality of life, and satisfaction with care. The observation group, which received these structured nursing interventions, consistently outperformed the control group on all evaluated parameters, highlighting the multifaceted benefits of adopting evidence-based approaches in postoperative nursing care.
+One of the most notable outcomes of this study was the significant improvement in cervical cancer awareness, surgical knowledge, and cooperation in the observation group. This can be attributed to the comprehensive educational interventions provided as part of the evidence-based nursing protocol. By equipping patients with detailed information about their condition and the surgical process, the interventions likely mitigated knowledge gaps and empowered patients to play an active role in their care. Increased awareness and understanding may reduce anxiety related to the unknown aspects of the disease and surgical procedure, promoting a greater sense of control. Moreover, this empowerment can enhance patient cooperation, as individuals who are well-informed about their treatment plan are more likely to adhere to instructions and engage proactively in the recovery process.19,20 These findings suggest that structured education sessions as part of nursing care can improve not only knowledge and awareness but also patient engagement, which may contribute to better postoperative outcomes.
+The marked reduction in anxiety, depression, and other negative emotions observed in the observation group underscores the psychological benefits of evidence-based nursing interventions. Negative emotions are common among cancer patients due to the stress of diagnosis, treatment, and recovery, and unaddressed psychological distress can impede physical recovery and overall well-being. In this study, the targeted interventions, which may have included counseling, stress management techniques, and enhanced nurse-patient communication, appear to have been effective in alleviating psychological distress. The decline in symptoms such as interpersonal sensitivity, somatization, and paranoid ideation in the observation group indicates that the nursing interventions provided emotional support and helped patients manage stress.21,22 Furthermore, significant reductions in depression and anxiety scores suggest that these interventions may help prevent the development or worsening of mental health issues during the postoperative period. The provision of emotional support, combined with techniques for managing stress, likely fostered resilience and facilitated a more positive outlook during recovery. This aspect of care is critical, as reduced psychological distress has been shown to improve physical recovery rates and overall patient satisfaction, further highlighting the importance of holistic, evidencebased nursing care.
+The significant improvements in QoL observed in the observation group further demonstrate the efficacy of evidencebased nursing interventions. Quality of life encompasses multiple domains, including physiological, emotional, social, and role functions, all of which are essential for holistic recovery. In this study, the observation group showed substantial gains in each QoL domain, suggesting that tailored nursing care directly supports patients’ broader well-being beyond mere physical recovery. Enhanced physiological function, as seen in the observation group, is likely attributable to the structured postoperative care provided, including components such as pain management strategies and mobilization support, which were integral parts of the evidence-based nursing protocol.23,24 These interventions address the physical demands of recovery, enabling patients to regain strength and physical function more effectively. Emotional and social function improvements may be linked to the psychological support embedded in the nursing interventions, which helps patients rebuild confidence, reduce isolation, and engage in social activities as they recover. Finally, higher scores in role function suggest that evidence-based nursing enabled patients to resume their daily responsibilities and roles more successfully, indicating a smoother transition back to normal life. Together, these findings affirm that evidence-based nursing practices are essential for promoting holistic recovery and enhancing the QoL in postoperative cervical cancer patients.
+
+International Journal of General Medicine 2025:18
+
+https://doi.org/10.2147/IJGM.S543874 6079
+
+Powered by TCPDF (www.tcpdf.org)
+
+Huang et al
+The significantly higher satisfaction rates in the observation group reflect the positive impact of evidence-based nursing on patient perceptions of care quality. Patient satisfaction is a critical indicator of healthcare quality, as it influences treatment adherence, trust in healthcare providers, and overall health outcomes. In this study, the observation group demonstrated both higher total satisfaction and a greater proportion of “Highly Satisfied” responses, indicating that the interventions effectively met patient expectations and fostered a positive care experience. The lower rate of dissatisfaction in the observation group suggests that evidence-based nursing addressed common patient concerns, such as adequate communication, emotional support, and timely response to needs. The structured protocols may have also improved the consistency and reliability of care, reducing uncertainty and enhancing patient confidence in the nursing team. Moreover, the increased proportion of patients reporting high satisfaction points to the value of patientcentered, evidence-based practices in fostering a supportive and responsive care environment. High satisfaction rates not only benefit the patients but also contribute to a positive reputation for the healthcare institution, which can enhance patient retention and attract new patients.
+This study, while providing valuable insights into the benefits of evidence-based nursing interventions for cervical cancer patients, has several limitations. First, as a retrospective analysis, it is subject to potential biases associated with data collection from medical records, which may lack certain details on patient experiences and specific nursing interventions. Additionally, the study was conducted at a single institution, which may limit the generalizability of the findings to other healthcare settings with different patient demographics or care protocols. Future research should consider prospective, multicenter studies to strengthen the validity of these findings and explore the impact of evidencebased nursing across varied clinical environments. Further investigations could also focus on long-term outcomes to better understand how structured nursing interventions influence sustained recovery and quality of life. Finally, exploring tailored interventions based on individual patient needs could provide even more precise guidance for optimizing postoperative care in this population.
+Conclusions
+The application of evidence-based nursing in postoperative care for cervical cancer patients might be associated with substantial benefits, including enhanced patient awareness of cervical cancer and surgical treatment, improved cooperation, alleviation of negative emotions, and a potential reduction in complications. Additionally, it could contribute to improved quality of life and higher levels of nursing satisfaction. These findings suggest that evidence-based nursing may represent an effective and valuable approach for integration into postoperative care strategies.
+Data Sharing Statement
+The experimental data used to support the findings of this study are available from the corresponding author upon request.
+Ethics Approval and Consent to Participate
+This study was approved by the Ethics Committee of the First People’s Hospital of Guangyuan City. All procedures involving human participants were conducted in accordance with the ethical standards of the relevant institutional or national research committee and the 1964 Helsinki Declaration and its later amendments or comparable ethical guidelines. Informed consent was obtained from all participants.
+Consent for Publication
+Written informed consent for publication was obtained from all patients in this retrospective analysis.
+Acknowledgments
+We express our gratitude for the technical help rendered by the entire clinical research staff and students of our laboratory.
+
+6080
+
+https://doi.org/10.2147/IJGM.S543874
+
+International Journal of General Medicine 2025:18
+
+Powered by TCPDF (www.tcpdf.org)
+
+Huang et al
+Funding
+The work was not funded by any funding.
+Disclosure
+The authors declare that they have no competing interests in this work.
+References
+1. Cheng LY, Zhao JQ, Zou TT, Xu ZH, Lv Y. Cervical cancer burden and attributable risk factors across different age and regions from 1990 to 2021 and future burden prediction: results from the global burden of disease study 2021. Front Oncol. 2025;15:1541452. doi:10.3389/ fonc.2025.1541452
+2. Majid E, Shaikh MA, Qazi OA, Khan S, Majeed I, Bano K. Awareness, screening, practices and attitudes of cervical cancer among doctors and nursing staff working at a tertiary care centre. J Pak Med Assoc. 2022;72(6):1025–1030. doi:10.47391/jpma.1443
+3. Dhakal K, Chen C, Wang P, Mboineki JF, Adhikari B. Existing psychological supportive care interventions for cervical cancer patients: a systematic review and meta-analysis. BMC Public Health. 2024;24(1):1419. doi:10.1186/s12889-024-18634-3
+4. Xiong C, Jiang C, Zhang H, et al. Self-management and illness perception among cervical cancer patients: a cross-sectional study. Int J Nurs Pract. 2023;29(3):e13134. doi:10.1111/ijn.13134
+5. Kc H, Gurung A, Katuwal M, Sharma R, Parajuli SB. Knowledge, Practice and Barriers on Cervical Cancer Screening among Married Women. J Nepal Health Res Counc. 2023;20(3):755–760. doi:10.33314/jnhrc.v20i3.4062
+6. Hilton LW, Jennings-Dozier K, Bradley PK, et al. The role of nursing in cervical cancer prevention and treatment. Cancer. 2003;98(9):2070–2074. doi:10.1002/cncr.11677
+7. Zeng Y, Cheng AS, Liu X, Chan CC. Title: cervical cancer survivors’ perceived cognitive complaints and supportive care needs in mainland China: a qualitative study. BMJ Open. 2017;7(6):e014078. doi:10.1136/bmjopen-2016-014078
+8. Li LP, Rao DF, Chen XX, et al. The impact of hospital-family integrated continuation nursing based on information technology on patients unhealthy mood, family function and sexual function after cervical cancer surgery. Medicine. 2023;102(16):e33504. doi:10.1097/ md.0000000000033504
+9. Dhakal K, Chen C, Wang P, et al. The supportive care needs survey short form 34 (SCNS-SF34): translation and cultural adaptation into the Nepali language among patients with cervical cancer in Nepal. Health Qual Life Outcomes. 2023;21(1):98. doi:10.1186/s12955-023-02147-5
+10. Liu X, Yuan K, Ye X, Liu R. Proposing a novel care program: reminiscence therapy involved care for anxiety, depression, and quality of life in postoperative cervical cancer patients. Ir J Med Sci. 2022;191(5):2019–2027. doi:10.1007/s11845-021-02728-7
+11. von Elm E, Altman DG, Egger M, Pocock SJ, Gøtzsche PC, Vandenbroucke JP. The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies. J Clin Epidemiol. 2008;61(4):344–349. doi:10.1016/j. jclinepi.2007.11.008
+12. Ivarsson B, Malm U, Lindström L, Norlander T. The self-assessment Global Quality of Life scale: reliability and construct validity. Int J Psychiatry Clin Pract. 2010;14(4):287–297. doi:10.3109/13651501.2010.487217
+13. Aaronson NK, Ahmedzai S, Bergman B, et al. The European Organization for Research and Treatment of Cancer QLQ-C30: a quality-of-life instrument for use in international clinical trials in oncology. J Natl Cancer Inst. 1993;85(5):365–376. doi:10.1093/jnci/85.5.365
+14. Hu H, Wang Z, Xue L, Zhang T, Jing Y, Li Y. Effects of neoadjuvant chemotherapy combined with radical laparoscopic surgery with quality nursing care on clinical efficacy and sex hormones in patients with cervical cancer. Am J Transl Res. 2024;16(2):477–486. doi:10.62347/ nkjk1347
+15. Shi Y, Cai J, Wu Z, et al. Effects of a nurse-led positive psychology intervention on sexual function, depression and subjective well-being in postoperative patients with early-stage cervical cancer: a randomized controlled trial. Int J Nurs Stud. 2020;111:103768. doi:10.1016/j. ijnurstu.2020.103768
+16. Chen XX, Nie C, Rao DF, Chen XX, Liao L. The effect of refined psychological pain nursing combined with IMB nursing on the pain, sleep and quality of life of patients after cervical cancer surgery. Medicine. 2024;103(16):e37816. doi:10.1097/md.0000000000037816
+17. Chen X, Fan Y. Analysis of Factors Influencing the Stigma Associated with Postoperative Cervical Cancer Patients and the Impact of Integrated Nursing Interventions on Stigma. Altern Ther Health Med. 2024;2024:1.
+18. Han D, Wang D, Yang J, Li X. Effect of multidisciplinary collaborative continuous nursing on the psychological state and quality of life of patients with cervical cancer. Am J Transl Res. 2021;13(6):6654–6661.
+19. Nie X. Effects of Network-based Positive Psychological Nursing Model on Negative Emotions, Cancer-related Fatigue, and Quality of Life in Cervical Cancer Patients with Post-operative Chemotherapy. Ann Ital Chir. 2024;95(4):542–551. doi:10.62713/aic.3514
+20. Li J, Huang J, Zhang J, Li Y. A home-based, nurse-led health program for postoperative patients with early-stage cervical cancer: a randomized controlled trial. Eur J Oncol Nurs. 2016;21:174–180. doi:10.1016/j.ejon.2015.09.009
+21. Chen B, Chen C, Zhao X, Wu X. Perioperative/postoperative anxiety and its interventions in gynecological cancers: a comprehensive review of clinical evidence. Front Psychiatry. 2024;15:1383029. doi:10.3389/fpsyt.2024.1383029
+22. Yuan Y, Liu X, Yin C, Shi L, Ye X. Cognitive behavioral stress management is an effective intervention to relieve anxiety and depression, improve the quality of life in patients with cervical cancer. Ir J Med Sci. 2024;193(2):595–604. doi:10.1007/s11845-023-03501-8
+23. Carter J, Sonoda Y, Chi DS, Raviv L, Abu-Rustum NR. Radical trachelectomy for cervical cancer: postoperative physical and emotional adjustment concerns. Gynecol Oncol. 2008;111(1):151–157. doi:10.1016/j.ygyno.2008.06.003
+24. Sun L, Fan X, Shen C, Mu Z, Li L. Effect of psychological intervention combined with family model on postoperative rehabilitation in patients with cervical cancer. Minerva Med. 2022;113(3):592–594. doi:10.23736/s0026-4806.20.07176-1
+
+International Journal of General Medicine 2025:18
+Powered by TCPDF (www.tcpdf.org)
+
+https://doi.org/10.2147/IJGM.S543874 6081
+
+Huang et al
+
+International Journal of General Medicine
+Publish your work in this journal
+The International Journal of General Medicine is an international, peer-reviewed open-access journal that focuses on general and internal medicine, pathogenesis, epidemiology, diagnosis, monitoring and treatment protocols. The journal is characterized by the rapid reporting of reviews, original research and clinical studies across all disease areas. The manuscript management system is completely online and includes a very quick and fair peer-review system, which is all easy to use. Visit http://www.dovepress.com/testimonials.php to read real quotes from published authors.
+Submit your manuscript here: https://www.dovepress.com/international-journal-of-general-medicine-journal
+
+6082
+Powered by TCPDF (www.tcpdf.org)
+
+International Journal of General Medicine 2025:18

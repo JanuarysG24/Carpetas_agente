@@ -1,0 +1,343 @@
+Revista Colombiana de Cancerología
+
+Julio / 2023
+
+Rev Colomb Cancerol. 2023;27(Suppl 3):291-300
+
+https://doi.org/10.35509/01239015.931
+
+ARTÍCULO DE REVISIÓN
+Actualización en la tamización del cáncer colorrectal
+Updates in colorectal cancer screening
+Alfonso Márquez-Ustariz1 , Silvia Guerrero-Macías1 , Rodrigo Burgos-Sánchez1 , Jorge CampilloPardo1 , Ada Bustos-Guerrero2 , Mauricio García-Mora3 , Juliana Rendón-Hernández4
+1 Fellow, Posgrado Médico-Quirúrgico de Cirugía Oncológica, Convenio Universidad Militar Nueva Granada - Instituto Nacional de Cancerología, Bogotá, D. C., Colombia.
+2 Residente, Cirugía General, Universidad Industrial de Santander, Bucaramanga, Colombia. 3 Unidad Funcional Seno y Tejidos Blandos, Instituto Nacional de Cancerología, Bogotá, D. C., Colombia. 4 Unidad Funcional Gastroenterología, Instituto Nacional de Cancerología, Bogotá, D. C., Colombia.
+
+Fecha de sometimiento: 03/11/2022 Fecha de aceptación: 08/02/2023 Disponible en internet: 27/07/2023
+
+Abstract
+Colorectal cancer ranks third in incidence and mortality in Colombia and represents a public health concern. The lifetime risk of developing colorectal cancer is approximately 4.5 %, slightly more frequent in men and in patients over 50 years old. Risk factors include lifestyle, eating habits, inflammatory bowel disease, and hereditary and genetic factors. It is important for physicians to understand how to assess individual risks according to age, personal, and family clinical history, and therefore stratify the risk of each patient of developing colorectal cancer, compared to general population risk, so that they can suggest the best screening strategy to have an impact in reducing the incidence and mortality of this type of cancer.
+
+Citación: Márquez-Ustariz A, Guerrero-Macías S, BurgosSánchez R, Campillo-Pardo J, Bustos-Guerrero A, García-Mora M, et al. Actualización en la tamización del cáncer colorrectal. Rev Col Cancerol. 2023;27(Suppl 3):291-300. https:// doi.org/10.35509/01239015.931
+Conflictos de interés: Los autores declaran no tener ningún conflicto de interés.
+Correspondencia: Alfonso Márquez-Ustariz Fellow, Posgrado Médico-Quirúrgico de Cirugía Oncológica, Convenio Universidad Militar Nueva Granada - Instituto Nacional de Cancerología, Bogotá, D. C., Colombia. Correo electrónico: alcamarus23@gmail.com
+
+Key words: Colorectal neoplasms, mass screening, secondary prevention, colonoscopy
+Resumen
+El cáncer colorrectal ocupa el tercer lugar en frecuencia y mortalidad en Colombia y representa un problema en salud pública. El riesgo promedio de desarrollar cáncer colorrectal es de aproximadamente 4,5 %, con una ligera mayor proporción en los hombres y con más frecuencia en mayores de 50 años de edad. Existen factores de riesgo relacionados con el estilo de vida, la alimentación, la enfermedad inflamatoria intestinal, así como factores hereditarios y genéticos. Para los médicos es importante entender cómo se evalúa el riesgo individual de cada paciente de acuerdo con la edad, la historia clínica y los antecedentes familiares. Así, se hace posible clasificar el riesgo de desarrollar cáncer colorrectal en comparación con el riesgo promedio de la población general, para emitir la mejor estrategia de tamización, la cual ha demostrado impactar en la disminución de la incidencia y mortalidad del cáncer colorrectal.
+Palabras clave: neoplasias colorrectales, tamizaje masivo, prevención secundaria, colonoscopia
+
+291
+
+Revista Colombiana de Cancerología
+
+Introducción
+El cáncer colorrectal es actualmente un problema de salud pública. Según GLOBOCAN, representa el 10 % de todos los tipos de cáncer a escala mundial; fue el tercer tipo de cáncer más común en hombres y el segundo en mujeres, con una tasa de mortalidad de 7,2/100 000 habitantes en 2020 para ambos sexos (1,2). En Colombia, el mismo año, fue el tercero en incidencia y mortalidad en ambos sexos, 10,0 % y 9,4 % de los casos reportados para el mismo año. Según datos nacionales del Anuario Estadístico 2021 del Instituto Nacional de Cancerología, de 4471 nuevos casos reportados el 8,3 % corresponden a cáncer colorrectal, y es el segundo más frecuente de los tumores malignos del tracto gastrointestinal para los hombres después del cáncer gástrico (3). En los países desarrollados, la tendencia de esta patología es ligeramente decreciente, atribuible a los programas de tamización y a los cambios en el estilo de vida (4).
+Según datos de la literatura estadounidense, el riesgo promedio de desarrollar cáncer colorrectal es aproximadamente de 4,5 %, con una ligera mayor proporción en los hombres 1,4:1 mujeres y con más frecuencia en mayores de 50 años de edad; aunque últimamente se ha detectado un aumento en la incidencia en los menores de 40 años (4).
+Usualmente, la enfermedad debuta con un periodo subclínico prolongado de transformación maligna, por lo que se considera un punto a favor en el que la tamización es efectiva y, por ende, es importante que los médicos entiendan la racionalidad de la tamización y las estrategias disponibles, la estratificación del riesgo individual, guías nacionales y resultados de la tamización con el fin de realizar diagnósticos en estadios más tempranos e influir en la incidencia y en la mortalidad específicas (4,5).
+Metodología
+Se realizó una búsqueda de la literatura disponible de los últimos 30 años, desde enero de 1993 hasta septiembre de 2022, en dos bases de datos bibliográficas: Medline/PubMed y Embase. Se utilizó una combinación de vocabulario controlado (Medical Subject Headings [MeSH]). Las palabras clave fueron: Colorectal cancer, Colorectal cancer screening, Colorectal cancer prevention, Colorectal cancer AND colonoscopy. Se seleccionaron los artículos
+
+de revisión, guías nacionales e internacionales (americanas, europeas, asiáticas, colombianas) y revisiones que incluyeran las variables: importancia epidemiológica, factores de riesgo, edad, métodos diagnósticos y frecuencia de tamización en el cáncer colorrectal, así como la tendencia y el impacto directo en la incidencia y mortalidad del cáncer colorrectal. Finalmente, se socializó la revisión de la evidencia en una presentación a cargo de uno de los especialistas en entrenamiento (ACMU), previa supervisión de los docentes (JRH, MGM), para posteriormente describir de forma narrativa y descriptiva las recomendaciones actuales en tamización del cáncer colorrectal en Colombia y en el mundo.
+Factores de riesgo
+El factor de riesgo más importante para el cáncer colorrectal es la edad avanzada, la gran mayoría son diagnosticados en adultos mayores de 50 años, con una edad media de 68 años (5). Junto con la edad, se describen factores no modificables como la enfermedad inflamatoria intestinal, la radiación previa y los factores genéticos (4,5).
+Hay factores modificables, como el tabaquismo, la obesidad, el consumo excesivo de alcohol, de carnes rojas y de alimentos procesados que implican riesgo para el desarrollo de cáncer colorrectal (6).
+Se describen factores hereditarios en aproximadamente el 30 % de los casos, pero solo alrededor del 5 % están relacionados con mutaciones hereditarias en genes que predisponen al cáncer (4,7). El cáncer colorrectal hereditario no polipósico o síndrome de Lynch y la poliposis adenomatosa familiar (mutación del gen APC) son los síndromes familiares más comúnmente asociados. El antecedente familiar de cáncer colorrectal también se ha relacionado con una mayor incidencia de esta patología, principalmente en pacientes con familiares de primer grado con adenomas identificados en colonoscopias y aquellos presentados en edades tempranas (8,9).
+La enfermedad inflamatoria intestinal se ha considerado un factor de riesgo adicional con una prevalencia de 3,7 %, esta relación se ha demostrado principalmente con la colitis ulcerativa y está fuertemente ligada al tiempo de la enfermedad y la gravedad de la misma (10).
+
+292
+
+A. Márquez-Ustariz et al.
+
+Factores protectores
+
+Estudios de tamización
+
+Existen factores, como las características de la dieta y el estilo de vida, que podrían establecer una prevención primaria en el cáncer colorrectal. Se ha descrito una relación inversa entre el consumo de fibra, especialmente de frutas y verduras, con una reducción del 40 % al 50 % de la aparición de tumores colorrectales (11,12), esto atribuible principalmente a la absorción de carcinógenos de la materia fecal, la modulación del tiempo de tránsito colónico, el aumento de la producción de ácidos grasos de cadena corta y la reducción del pH del colon (13).
+El mantenimiento del peso corporal y la actividad física han mostrado un efecto protector con una disminución del 20 % al 30 % de la aparición de adenomas y lesiones neoplásicas colorrectales avanzadas (14). El uso de la aspirina (ácido acetilsalicílico) y los fármacos antiinflamatorios no esteroideos (AINES) se han estudiado para la prevención del cáncer colorrectal y algunos estudios demuestran su beneficio en la reducción de la recurrencia y regresión de adenomas esporádicos; sin embargo, no se ha recomendado su uso rutinario para la quimioprevención por los riesgos potenciales del consumo crónico de estos medicamentos (15).
+
+En la prevención secundaria se implementan las estrategias de tamización. Los síntomas del cáncer colorrectal a menudo se presentan en etapas avanzadas y las lesiones tempranas rara vez los causan, por lo que la detección temprana juega un papel fundamental en el diagnóstico oportuno (4,20).
+
+Al momento de realizar la tamización del cáncer colorrectal se incluyen pruebas basadas en materia fecal, estudios de imágenes y estudios endoscópicos (tabla 1). La elección del tipo de prueba estará basada en la preferencia del paciente, el riesgo individual, la eficacia y seguridad de la prueba, la disponibilidad de los recursos y las políticas gubernamentales.
+
+Tabla 1. Sensibilidad y especificidad estimada para cada estudio de tamización del cáncer colorrectal
+
+Estudio de tamización SOMFg
+SOMFi
+Colonografía por tomografía Rectosigmoidoscopia
+Colonoscopia total
+
+Sensibilidad (%) 50,0-75,0 81,0 86,0-100,0
+58,0-75,0 94,7
+
+Especificidad (%) 96,0-98,0 93,0 88,0-94,0
+92,0 89,0-94,0
+
+Vías de carcinogénesis
+Existen diferentes vías de carcinogénesis para el cáncer colorrectal. El 60 %-70 % son originados de una transformación maligna de un pólipo adenomatoso (secuencia de inestabilidad cromosómica) durante un periodo estimado entre 7 y 10 años (16), por esta razón los intervalos de tamización son generalmente de 10 años para la población de riesgo promedio. El tamaño del pólipo y su histología están relacionados con el riesgo de cáncer colorrectal. El mayor riesgo lo tienen los que superan 1 cm (19 %-43 %), con una profundidad de invasión submucosa >1 mm (17,18), y el subtipo velloso con un riesgo del 30 %-40 % en comparación con los tubulovellosos (20 %-25 %) y los tubulares (<5 %) (19). El 10 %-20 % del cáncer colorrectal se origina por la vía serrada de la carcinogénesis y de un 2 %-5 % se presentan como fenotipos de inestabilidad microsatelital, producto de la falla del sistema de proteínas de reparación del daño del ADN, los cuales confieren alto riesgo de desarrollar cáncer colorrectal hereditario no polipósico o síndrome de Lynch por mutaciones de tipo germinal (20).
+
+SOMFg: prueba de sangre oculta en materia fecal o test de Guayaco; SOMFi: prueba de sangre oculta en materia fecal con técnica de inmunoquímica. Fuente: Provenzale et al. (43).
+Estudios en materia fecal
+En diferentes países se han adoptado programas de detección para cáncer colorrectal basados en el análisis de materia fecal. La prueba de sangre oculta en materia fecal o test de Guayaco (SOMFg) detecta la sangre indirectamente a través de una reacción de peroxidasa. Esta prueba tiene como ventaja que es de bajo costo y fácil de realizar; sin embargo, es poco específica y con una baja sensibilidad para pólipos adenomatosos, por lo tanto, si se identifica un resultado positivo en la prueba, debe realizarse una colonoscopia completa. En cuanto a la periodicidad de la tamización, no se han demostrado diferencias estadísticas significativas en la reducción de la mortalidad por cáncer colorrectal entre la tamización anual y la bienal con este tipo de prueba (21).
+
+Revista Colombiana de Cancerología
+
+293
+
+Revista Colombiana de Cancerología
+
+La prueba de sangre oculta en materia fecal con técnica de inmunoquímica (SOMFi) puede ser cualitativa y/o cuantitativa, y se basa en la detección de hemoglobina en materia fecal mediante la utilización de anticuerpos que reaccionan ante la presencia de globina. Esta prueba es altamente específica para la identificación de sangre de origen colónico y disminuye el riesgo de falsos positivos con una alta precisión diagnóstica del 95 % (4,22). La sensibilidad de este estudio para detectar cáncer colorrectal es superior al compararlo con el SOMFg, 81,8 % vs. 64,0 %, respectivamente (2326), pudiendo aumentar a un 90 % en pacientes de alto riesgo o sintomáticos (27,28). Por otro lado, la tasa de detección de adenomas avanzados y cáncer es de 2,0 a 2,5 mayor en comparación con SOMFg, por lo que esta técnica se considera superior para la detección de neoplasias avanzadas (29,30). Se ha logrado identificar una disminución del 28 % en la incidencia anual de cáncer colorrectal con esta prueba de tamización (31). En la última década se hizo evidente la superioridad de este estudio con respecto al guayaco, y hoy en día es el estudio de material fecal de preferencia en las guías internacionales.
+Diversos estudios han demostrado una reducción de un 13 %-15 % de las muertes por cáncer colorrectal cuando se utiliza la prueba de sangre oculta en materia fecal (32,33), específicamente para la prueba de inmunoquímica fecal se ha descrito una disminución de la mortalidad por cáncer colorrectal que puede alcanzar un 59 % (34); sin embargo, no hay evidencia en la reducción de la mortalidad global con este método de tamización (21,35,36).
+
+colon. Es un examen con una buena sensibilidad y especificidad para detectar cáncer y pólipos adenomatosos >10 mm, pues alcanza un 89 % y 94 %, respectivamente (5,40); sin embargo, en pólipos entre 6 y 9 mm su sensibilidad y especificidad pueden disminuir a 86 % y 88 %, respectivamente, y no identifica lesiones ≤5 mm (41,42). Este estudio tiene un alto costo y la desventaja de que, ante un hallazgo positivo, se requiere una tamización en dos etapas mediante una colonoscopia. Las guías internacionales recomiendan realizar este método de tamización cada cinco años, según la American College of Gastroenterology (ACG), el American College of Radiology (ACR), el US Multi-Society Task Force y el National Comprehensive Cancer Network (NCCN) (18,24,38,43).
+Estudios endoscópicos
+La sigmoidoscopia evalúa el tercio distal del colon, pero pueden pasar desapercibidos adenomas y/o lesiones neoplásicas en otras localizaciones proximales (44). En las guías internacionales se indica realizarla cada cinco años; tiene una sensibilidad reportada para la detección de cáncer colorrectal de un 58 %-75 % y una especificidad de 92 % (32,38,43,45). En caso de identificar un hallazgo anormal, se requiere una colonoscopia completa dado el riesgo de aparición de lesiones sincrónicas asociadas hasta en un 3,6 % de los pacientes (46). La tasa de derivación a una colonoscopia después de una sigmoidoscopia es variable, debido a la falta de criterios de derivación estándar, y va desde un 5 % hasta un 33 % (47).
+
+Estudios de imágenes
+El colon por enema permite la evaluación de todo el colon; sin embargo, tiene una pobre sensibilidad y especificidad de aproximadamente 48 % para pólipos >10 mm y 73 % para adenomas >7 mm; permite el diagnóstico en lesiones ya avanzadas sin lograr un beneficio terapéutico. En la actualidad no está recomendado como prueba de tamización dado que no se ha demostrado disminución en la incidencia ni en la mortalidad por cáncer colorrectal con este tipo de imagen (37); un hallazgo positivo con este examen requerirá la realización de una colonoscopia completa (38,39).
+La colonografía por tomografía proporciona una perspectiva endoluminal simulada con reconstrucciones bidimensionales y tridimensionales de la luz del
+
+Por su parte, la colonoscopia es el método de elección para la tamización del cáncer colorrectal, dado su beneficio diagnóstico y terapéutico por la capacidad de toma de biopsias, resección de pólipos y tumores en estadios tempranos y marcación de lesiones como planeamiento prequirúrgico; está indicada cada 10 años en personas de riesgo promedio a partir de los 50 años de edad (43,48). La sensibilidad de este estudio para la identificación de cáncer oscila entre el 85 %-96 %, y puede llegar hasta un 98 % en adenomas ≥10mm (49), pero es menos sensible (74,6 %-92,8 %) para adenomas de 6 mm-10 mm (4,41,43). Entre los criterios de calidad para una adecuada validez de este método, la preparación colónica juega un papel fundamental en la tasa de detección de adenomas, dado que se han descrito tasas de falsos negativos de 20 % a 40 % cuando no hay una preparación intestinal óptima (50).
+
+294
+
+A. Márquez-Ustariz et al.
+
+Las complicaciones de este procedimiento incluyen la posibilidad de perforación (0,01 %) y sangrado (0,05 %) (51), con aumento del riesgo en individuos con edad avanzada o comorbilidades, polipectomía o que sea realizada por manos no expertas (52,53).
+
+y seguimiento de los pacientes; no obstante, tiene como limitante el alto costo y la baja accesibilidad, principalmente en Colombia, así como la necesidad de tecnología avanzada para el análisis (56).
+
+Recientemente, han surgido investigaciones sobre la utilidad y aplicación clínica de la biopsia líquida como una alternativa diagnóstica en patologías oncológicas con resultados prometedores, entre los que se encuentran la detección temprana de cáncer colorrectal. Su principio fundamental es la identificación de biomarcadores circulantes para detectar rastros del tumor primario y/o de la enfermedad metastásica, ácidos nucleicos circulantes y vesículas extracelulares en cualquier fluido corporal; sin embargo, principalmente se prefiere su identificación en sangre periférica (54,55). Esta prueba tiene como ventajas el no ser invasiva, es fácil de obtener y ofrece información sobre el estado molecular pudiendo tener un papel importante en la estadificación, pronóstico
+
+Estratificación del riesgo del paciente
+Es importante evaluar el riesgo individual que tiene cada paciente, de acuerdo con la edad, la historia clínica y los antecedentes familiares y clasificarlo en una de tres categorías en relación con el riesgo de desarrollar cáncer colorrectal en comparación con el riesgo promedio de la población general. Según la Guía de Práctica Clínica para la detección temprana, diagnóstico, tratamiento integral, seguimiento y rehabilitación del cáncer de colon y recto del 2017, se consideran tres categorías de riesgo (figura 1) (57).
+
+Riesgo de cáncer colorrectal
+
+Categoría 1 Bajo riesgo
+Individuos asintomáticos, mayores de 50 años
+
+Categoría 2 Moderado riesgo Individuos asintomáticos
+
+No historia personal de CCR, adenoma avanzado o EII.
+No familiares cercanos con CCR o con un familiar en
+1º o 2º grado diagnosticado con CCR >55 años (57).
+
+Un familiar en 1º grado con CCR < 55 años (sin características de alto
+riesgo), o
+Dos familiares en 1º grado y un familiar en 2º grado con
+CCR diagnosticado a cualquier edad (sin los factores de alto riesgo descritos en la categoría 3).
+
+Categoría 3 Alto potencial de riesgo (50 %) o aquellos con diagnóstico de un síndrome hereditario de manera autosómica dominante
+Individuos asintomáticos
+≥3 familiares en 1º grado o una combinación de familiares en 1º o 2º grado, de la misma rama familiar, diagnosticados con CCR (sospecha de CCNPH), o
+≥2 familiares en 1º o 2º grado, de la misma rama familiar, diagnosticados con CCR, incluyendo cualquiera de los siguientes factores de alto riesgo: · Cáncer de colon múltiple (sincrónico o metacrónico) en una sola persona. · Cáncer de colon antes de los 50 años. · Por lo menos un familiar con cáncer de endometrio, ovarios, estómago,
+intestino delgado, renal, pélvico, de uréter, tracto biliar o cerebro (sospecha de CCNPH).
+Por lo menos 1 familiar en 1º grado con gran número de adenomas a lo largo del colon (sospecha de PAF)
+Familiar con riesgo alto de mutación en el gen APC o se ha identificado uno de los genes de MMR (58)
+
+Figura 1. Clasificación del riesgo de cáncer colorrectal
+APC: Adenomatous Polyposis Coli; CCNPH: Cancer de colon no polipósico hereditario; CCR: cáncer colorrectal; EII: enfermedad inflamatoria intestinal; MMR: reparación de errores de apareamiento (por las siglas en inglés de missmatch repair); PAF: poliposis adenomatosa familiar. Fuente: Ministerio de Salud (57), INC (58).
+
+Revista Colombiana de Cancerología
+
+295
+
+Revista Colombiana de Cancerología
+Recomendaciones de las guías en Colombia
+Las distintas organizaciones nacionales e internacionales diseñan las recomendaciones de tamización según el riesgo individual de cada paciente. Estas recomendaciones incluyen uno o varios métodos diagnósticos de tamización y pueden cambiar según los hallazgos de la prueba inicial, o el estado clínico del paciente. Según la Guía Colombiana de Práctica Clínica para la detección temprana, diagnóstico, tratamiento integral, seguimiento y rehabilitación del cáncer de colon y recto del 2017, se considera la tamización en la figura 2 (58).
+Tamizaje en cáncer colorrectal
+> 50 años de edad y con factores de riesgo
+personal o familiar
+
+Sí
+
+No
+
+Categoría 1: Riesgo promedio 50 años – 75 años
+SOMFi cada 2 años o colonoscopia cada 10 años (cuando esta se encuentre disponible).
+
+Categoría 2: Riesgo moderado*
+Colonoscopia cada 5 años, iniciando a los 40 años o 10 años antes del caso índice diagnosticado.
+
+Categoría 3: Alto riesgo
+Antecedente familiar en 1º grado de PAF**: Colonoscopia anual a partir de los 12-15 años, hasta los 30-35 años, luego continuar la tamización cada 5 años.
+Sospecha de antecedente familiar de cáncer no polipósico hereditario (síndrome Lynch): Colonoscopia cada 2 años, desde los 20-25 años, o 5-10 años antes de la edad del caso más joven diagnosticado en la familia.
+
+Enfermedad inflamatoria intestinal (colitis ulcerativa
+o enfermedad de Crohn)
+Vigilancia con colonoscopia en función del riesgo determinado en la última colonoscopia completa: * Bajo riesgo: cada 5 años. * Riesgo intermedio:
+cada 3 años. *Alto riesgo: cada año.
+
+No tamizaje
+
+Figura 2. Estrategias de tamización en cáncer colorrectal en Colombia PAF: poliposis adenomatosa familiar; SOMFi: prueba de sangre oculta en materia fecal con técnica de inmunoquímica. * Población con antecedentes familiares de cáncer de colon y recto no hereditario, con un caso índice en primer grado diagnosticado antes de los 55 años, dos o más casos diagnosticados en primer grado o en primer y segundo grado a cualquier edad. ** PAF clásica con prueba genética positiva o en aquellas familias con criterios clínicos en las que no se ha identificado la mutación causal. Fuente: Ministerio de Salud (57), INC (58).
+Recomendaciones de las guías a escala internacional
+A escala internacional hay diferentes programas de tamización de cáncer colorrectal, los cuales se ajustan a las características poblacionales de cada país, así como a la tasa de incidencia de esta patología. La tabla 2 resume las recomendaciones de tamización de diferentes países. Se toman como referencia las guías nacionales de países de diferentes continentes, con sistemas de salud variables, con el objetivo de comparar la edad de inicio y los métodos de tamización (59,67).
+296
+
+A. Márquez-Ustariz et al.
+
+Tabla 2. Resumen de los programas de tamización en cáncer colorrectal a escala internacional
+
+Pacientes sin factores de riesgo
+
+País
+
+Edad (años)
+
+Tipo de prueba
+
+Periodicidad
+
+Conducta
+
+Estados Unidos
+
+45-75
+
+España Países Bajos
+Francia Canadá
+Chile Japón Australia
+
+50-69 55-75 50-74 50-74 >50 40-69 50-74
+
+SOMFg - SOMFi DNA fecal multi target Sigmoidoscopia flexible
+Colonoscopia Enema baritado de doble
+contraste Colonografía por TAC
+SOMFi SOMFi SOMFg SOMFg - SOMFi SOMFi SOMFi SOMFi
+
+Anual 3 años 5 años 10 años
+5 años
+5 años Anual Anual Anual Anual Anual Anual Bianual
+
+El paciente elige la prueba y se procede según la prueba elegida
+Si positivo, colonoscopia Si positivo, colonoscopia Si positivo, colonoscopia Si positivo, colonoscopia Si positivo, colonoscopia Si positivo, colonoscopia Si positivo, colonoscopia
+
+SOMFi: prueba de sangre oculta en materia fecal con técnica de inmunoquímica; SOMFg: prueba de sangre oculta en materia fecal con guayaco; TAC: tomografía axial computarizada.
+Fuente: Council of the European Union. Council Recommendation of 2 December 2003 on Cancer Screening (59), Navarro et al. (67).
+
+Discusión y conclusiones
+La tamización ha mostrado ser útil en la disminución tanto de la incidencia como de la mortalidad específica por cáncer colorrectal. Es de suma importancia el cambio reciente de algunos países, principalmente Estados Unidos y Japón como principales exponentes internacionales en la disminución de la edad para el inicio de la tamización. Esto, debido al aumento en la incidencia del cáncer gastrointestinal en edades más tempranas con un sostenido aumento a futuro según las predicciones, además del impacto mostrado en la mortalidad. Esta medida aún no ha sido aceptada de forma global y menos en el ámbito regional/nacional, donde no existen en la literatura estudios acerca del efecto que este tipo de programas han tenido en la población latinoamericana o colombiana, lo cual plantea un campo futuro de estudio para determinar la importancia de esta estrategia en el país; específicamente, para determinar qué barreras existen en su aplicación, entre las cuales se
+
+presumen el contexto socioeconómico, demográfico y geográfico del país, el pobre acceso a los sistemas de salud en áreas rurales, un importante —aunque decreciente— porcentaje de analfabetismo o bajo nivel de educación y un porcentaje de población en situación de pobreza o pobreza extrema, sin recursos para acceder a este tipo de iniciativas.
+Por ello es importante conocer la historia natural de la enfermedad, los factores de riesgo y la estratificación individual del riesgo de desarrollar cáncer colorrectal, para así definir la mejor estrategia de tamización y la recomendación precisa para cada paciente, con los fines de disminuir las tasas de incidencia y mortalidad, y realizar diagnósticos en estadios más tempranos, pudiendo mejorar de esta manera el pronóstico oncológico de los pacientes.
+
+Revista Colombiana de Cancerología
+
+297
+
+Revista Colombiana de Cancerología
+
+Referencias
+1. Arnold M, Sierra MS, Laversanne M, Soerjomataram I, Jemal A, Bray F. Global patterns and trends in colorectal cancer incidence and mortality. Gut. 2017;66(4):683-91. https:// doi.oirg/10.1136/gutjnl-2015-310912
+2. Ferlay J, Ervik M, Lam F, Colombet M, Mery L, Piñeros M, Znaor A, Soerjomataram I BF. Globocan 2020. 2020;419:34. Disponible en: https://gco.iarc.fr
+3. Instituto Nacional de Cancerología. Anuario estadístico 2020. Bogotá. Disponible en: https://www.cancer.gov.co/ recursos_user/files/libros/archivos/Anuario_INC_2020_19_NOV.pdf
+4. Moore JS, Aulet TH. Colorectal cancer screening. Surg Clin North Am. 2017;97(3):487-502. https://doi.org/10.1016/j. suc.2017.01.001
+5. US Preventive Services Task Force, Bibbins-Domingo K, Grossman DC, Curry SJ, Davidson KW, Epling JW Jr, et al. Screening for colorectal cancer: US Preventive Services Task Force recommendation statement: US preventive services task force recommendation statement. JAMA. 2016;315(23):256475. https://doi.org/10.1001/jama.2016.5989
+6. Chan DSM, Lau R, Aune D, Vieira R, Greenwood DC, Kampman E, et al. Red and processed meat and colorectal cancer incidence: Meta-analysis of prospective studies. PLoS One. 2011;6(6):e20456. https://doi.org/10.1371/ journal.pone.0020456
+7. Da Silva FC, Wernhoff P, Domínguez-Barrera C, DomínguezValentin M. Update on hereditary colorectal cancer. Anticancer Res. 2016;36(9):4399-406. https://doi. org/10.21873/anticanres.10983
+8. Tuohy TMF, Rowe KG, Mineau GP, Pimentel R, Burt RW, Samadder NJ. Risk of colorectal cancer and adenomas in the families of patients with adenomas: A population-based study in Utah. Cancer. 2013;120(1):35-42. https://doi. org/10.1002/cncr.28227
+9. Sninsky JA, Shore BM, Lupu GV, Crockett SD. Risk factors for colorectal polyps and cancer. Gastrointest Endosc Clin N Am. 2022;32(2):195-213. https://doi.org/10.1016/j. giec.2021.12.008
+10. Eaden JA, Abrams KR. The risk of colorectal cancer in ulcerative colitis in a population-based setting. Gut. 2001;48(4):526-32. https://doi.org/10.1136/gut.48.4.526
+11. Levi F, Pasche C, Lucchini FLVC. Dietary fibre and the risk of colorectal cancer. Eur J Cancer. 2001;37:2091-6. https:// doi.org/10.1016/s0959-8049(01)00254-4
+12. Trock B, Lanza E, Greenwald P. Dietary fiber, vegetables, and colon cancer: Critical review and meta-analyses of the epidemiologic evidence. J Natl Cancer Inst. 1990;82(8):65061. https://doi.org/10.1093/jnci/82.8.650
+13. Chan AT, Giovannucci EL. Primary prevention of colorectal cancer. Gastroenterology. 2010;138(6):2029-43. https:// doi.org/10.1053/j.gastro.2010.01.057
+14. Wolin KY, Yan Y, Colditz GA, Lee IM. Physical activity and colon cancer prevention: A meta-analysis. Br J Cancer. 2009;100(4):611-6. https://doi.org/10.1038/sj.bjc.6604917
+15. Asano TK, McLeod RS. Nonsteroidal anti-inflammatory drugs (NSAID) and aspirin for preventing colorectal adenomas and carcinomas. Cochrane Database Syst Rev. 2004;2:CD004079. https://doi.org/10.1002/14651858.CD004079.pub2
+
+16. Singh H, Turner D, Xue L, Targownik LE, Bernstein CN. Risk of developing colorectal cancer following a negative colonoscopy examination. JAMA. 2006;295 (20):2366-73. https://doi.org/10.1001/jama.295.20.2366
+17. Aarons CB, Shanmugan S, Bleier JIS. Management of malignant colon polyps: Current status and controversies. World J Gastroenterol. 2014;20:16178-83. https://doi. org/10.3748/wjg.v20.i43.16178
+18. Beaton C, Twine CP, Williams GL, Radcliffe AG. Systematic review and meta-analysis of histopathological factors influencing the risk of lymph node metastasis in early colorectal cancer. Colorectal Disease. 2013;15:788-97. https://doi.org/10.1111/codi.12129
+19. Amersi F, Agustin MYC. Colorectal cancer: Epidemiology and health services research. Surg Oncol Clin N Am. 2006;15(1):21-37. https://doi.org/10.1016/j. soc.2005.08.003
+20. Dekker E, Tanis PJ, Vleugels JLA, Kasi PM, Wallace MB. Colorectal cancer. Lancet. 2019;394(10207):1467-80. https://doi.org/10.1016/S0140-6736(19)32319-0
+21. Hewitson P, Glasziou P, Irwig L, Towler B, Watson E. Screening for colorectal cancer using the faecal occult blood test, Hemoccult. Cochrane Database Syst Rev. 2007;(1):CD001216. https://doi.org/10.1002/14651858. CD001216.pub2
+22. Lee JK, Liles EG, Bent S, Levin TR. Accuracy of fecal immunochemical tests for colorectal cancer: Systematic review and meta-analysis. Ann Intern Med. 2014;160(3):171. https://doi.org/10.7326/M13-1484
+23. Allison JE, Sakoda LC, Levin TR, Tucker JP, Tekawa IS, Cuff T, et al. Screening for colorectal neoplasms with new fecal occult blood tests: Update on performance characteristics. J Natl Cancer Inst. 2007;99(19):1462-70. https://doi. org/10.1093/jnci/djm150
+24. Hol L, Van Leerdam ME, Van Ballegooijen M, Van Vuuren AJ, Van Dekken H, Reijerink JCIY, et al. Screening for colorectal cancer: Randomised trial comparing guaiacbased and immunochemical faecal occult blood testing and flexible sigmoidoscopy. Gut. 2010;59(1):62-8. https://doi. org/10.1136/gut.2009.177089
+25. Whitlock EP, Lin JS, Liles E, Beil TL, Fu R. Clinical guidelines annals of internal medicine screening for colorectal cancer: A targeted, updated systematic. Ann Intern Med. 2008;149(9):638-58. https://doi.org/10.7326/0003-4819149-9-200811040-00245
+26. Van Rossum LG, van Rijn AF, Laheij RJ, van Oijen MG, Fockens P, van Krieken HH, et al. Random comparison of guaiac and immunochemical fecal occult blood tests for colorectal cancer in a screening population. Gastroenterology. 2008;135(1):82-90. https://doi. org/10.1053/j.gastro.2008.03.040
+27. Booth R, Carten R, D´Souza N, Westwood M, Kleijnen J, Abulafi M. Role of the faecal immunochemical test in patients with risk-stratified suspected colorectal cancer symptoms: A systematic review and meta-analysis to inform the ACPGBI/BSG guidelines. The Lancet. 2022;23:121. https://doi.org/10.1016/j.lanepe.2022.100518
+28. Withrow DR, Shine B, Oke J, Tamm A, James T, Morris E, et al. Combining faecal immunochemical testing with blood test results for colorectal cancer risk stratification: a consecutive cohort of 16,604 patients presenting to primary care. BMC Med. 2022;20(1):116. https://doi.org/10.1186/ s12916-022-02272-w
+
+298
+
+A. Márquez-Ustariz et al.
+
+29. Allison JE, Fraser CG, Halloran SP, Young GP. Population screening for colorectal cancer means getting FIT: The past, present, and future of colorectal cancer screening using the fecal immunochemical test for hemoglobin (FIT). Gut Liver. 2014;8(2):117-30. https://doi.org/10.5009/ gnl.2014.8.2.117
+30. Grobbee EJ, Wisse PHA, Schreuders EH, van Roon A, van Dam L, Zauber AG, et al. Guaiac-based faecal occult blood tests versus faecal immunochemical tests for colorectal cancer screening in average-risk individuals. Cochrane Database Syst Rev. 2022;6(6):CD009276. https://doi. org/10.1002/14651858.CD009276.pub2
+31. Bucchi L, Mancini S, Baldacchini F, Ravaioli A, Giuliani O, Vattiato R, et al. How a faecal immunochemical test screening programme changes annual colorectal cancer incidence rates: an Italian intention-to-screen study. Br J Cancer. 2022;127:541-8. https://doi.org/10.1038/s41416022-01813-7
+32. Hardcastle JD, Chamberlain JO, Robinson MHE, Moss SM, Amar SS, Balfour TW, et al. Randomised controlled trial of faecal-occult-blood screening for colorectal cancer. Lancet. 1996;348(9040):1472-7. https://doi.org/10.1016/ S0140-6736(96)03386-7
+33. Scholefield JH, Moss S, Sufi F, Mangham CM, Hardcastle JD. Effect of faecal occult blood screening on mortality from colorectal cancer: Results from a randomised controlled trial. Gut. 2002;50(6):840-4. https://doi.org/10.1136/ gut.50.6.840
+34. Świtalski J, Tatara T, Wnuk K, Miazga W, Karauda D, Matera A, et al. Clinical effectiveness of faecal immunochemical test in the early detection of colorectal cancer-an umbrella review. Cancers (Basel). 2022;14(18):4391. https://doi. org/10.3390/cancers14184391
+35. Moayyedi P, Achkar E. Does fecal occult blood testing really reduce mortality? A reanalysis of systematic review data. Am J Gastroenterol. 2006;101(2):380-4. https://doi. org/10.1111/j.1572-0241.2006.00537.x
+36. Villamizar L, Albis R, Abadía M, Oliveros R, Gamboa O, Alba L, et al. Tamización de cáncer colorrectal en población adulta asintomática: revisión sistemática. Rev Colomb Cancerol. 2010;14(3):152-68. Disponible en: https:// www.revistacancercol.org/index.php/cancer/article/ download/456/308
+37. Pignone M, Rich M, Teutsch S, Berg A, Lohr K. Screening for colorectal cancer in adults at average risk: A summary of the evidence. Ann Intern Med. 2002;137(2):132-41. https://doi.org/10.7326/0003-4819-137-2-20020716000015
+38. Levin B, Lieberman DA, McFarland B, Smith RA, Brooks D, et al. Screening and surveillance for the early detection of colorectal cancer and adenomatous polyps, 2008: A joint guideline from the American Cancer Society, the US MultiSociety Task Force on Colorectal Cancer, and the American College of Radiology. CA Cancer J Clin. 2008;58(3):130-60. https://doi.org/10.3322/CA.2007.0018
+39. Qaseem A, Denberg TD, Hopkins RH, Humphrey LL, Levine J, Sweet DE, et al. Screening for colorectal cancer: A guidance statement from the American college of physicians. Am Coll Physicians. 2012;156(5):378-86. https://doi.org/10.7326/0003-4819-156-5-20120306000010
+40. Munikrishnan V, Gillams AR, Lees WR, Vaizey CJ, Boulos PB. Prospective study comparing multislice CT colonography with colonoscopy in the detection of colorectal cancer and polyps. Dis Colon Rectum. 2003;46(10):1384-90. https:// doi.org/10.1007/s10350-004-6755-2
+
+41. Pickhardt PJ, Hassan C, Halligan S, Marmo R. Colorectal cancer: CT colonography and colonoscopy for detection-systematic review and meta-analysis. Radiology. 2011;259(2):393-405. https://doi.org/10.1148/radiol.11101887
+42. Zalis ME, Blake MA, Cai W, Hahn PF, Halpern EF, Kazam IG, et al. Diagnostic accuracy of laxative-free computed tomographic colonography for detection of adenomatous polyps in asymptomatic adults: a prospective evaluation. Ann Intern Med. 2012; 156(10):692-702. https://doi.org/10.7326/00034819-156-10-201205150-00005
+43. Provenzale D, Ness RM, Llor X, Weiss JM, Abbadessa B, Cooper G, et al. Colorectal cancer screening, Version 2.2020. J Natl Compr Canc Netw. 2020;18(10):1312-20. https://doi. org/10.6004/jnccn.2020.0048
+44. Holme O, Bretthauer M, Fretheim A, et al. Flexible sigmoidoscopy versus faecal occult blood testing for colorectal cancer screening in asymptomatic individuals. Cochrane Database Syst Rev. 2013; 2013(9):CD009259. https://doi. org/10.1002/14651858.CD009259.pub2
+45. Zauber A, Lansdorp-Vogelaar I, Knudsen AB, Wilschut J, Ballegooijen M, Kunts K. Evaluating test strategies for colorectal cancer screening: A decision analysis for the U.S. preventive services task force. Ann Intern Med. 2008;149(9):659-69. https://doi.org/10.7326/0003-4819-1499-200811040-00244
+46. Argilés G, Tabernero J, Labianca R, Hochhauser D, Salazar R, Iveson T, et al. Localised colon cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2020;31(10):1291-305. https://doi.org/10.1016/j. annonc.2020.06.022
+47. Lin JS, Piper MA, Perdue LA, Rutter CM, Webber EM, O’Connor E, et al. Screening for colorectal cancer: Updated evidence report and systematic review for the US preventive services task force. JAMA. 2016;315(23):2576-94. https://doi. org/10.1001/jama.2016.3332
+48. Winaber S, Classen M, Lambert R, Fried M, Dite P, Goh KL, et al. Tamizaje del cáncer colorrectal. Organización Mundial de Gastroenterología. WGO/IDCA; 2007.
+49. Rex DK. Maximizing detection of adenomas and cancers during colonoscopy. Am J Gastroenterol. 2006;101(12):2866-77. https://doi.org/10.1111/j.1572-0241.2006.00905.x
+50. Chokshi RV, Hovis CE, Hollander T, Early DS, Wang JS. Prevalence of missed adenomas in patients with inadequate bowel preparation on screening colonoscopy. Gastrointest Endosc. 2012;75(6):1197-203. https://doi.org/10.1016/j. gie.2012.01.005
+51. Rabeneck L, Paszat LF, Hilsden RJ, Saskin R, Leddin D, Grunfeld E, et al. Bleeding and perforation after outpatient colonoscopy and their risk factors in usual clinical practice. Gastroenterology. 2008;135(6):1899-906. https://doi. org/10.1053/j.gastro.2008.08.058
+52. Rathgaber SW, Wick TM. Colonoscopy completion and complication rates in a community gastroenterology practice. Gastrointest Endosc. 2006;64(4):556-62. https://doi. org/10.1016/j.gie.2006.03.014
+53. Lohsiriwat V, Sujarittanakarn S, Akaraviputh T, Lertakyamanee N, Lohsiriwat D, Kachinthorn U. What are the risk factors of colonoscopic perforation? BMC Gastroenterol. 2009;9:71. https://doi.org/10.1186/1471-230X-9-71
+54. Mazouji O, Ouhajjou A, Incitti R, Mansour H. Updates on clinical use of liquid biopsy in colorectal cancer screening, diagnosis, follow-up, and treatment guidance. Front Cell Dev Biol. 2021;9:660924. https://doi.org/10.3389/fcell.2021.660924
+
+Revista Colombiana de Cancerología
+
+299
+
+Revista Colombiana de Cancerología
+
+55. Galoș D, Gorzo A, Balacescu O, Sur D. Clinical applications of liquid biopsy in colorectal cancer screening: current challenges and future perspectives. Cells. 2022;11(21):3493. https://doi.org/10.3390/cells11213493
+
+56. Perdomo S, Montealegre-Páez AL, Pacheco-Orozco R, Martínez-Gregorio H, Vaca-Paniagua F, et al. La biopsia líquida en el diagnóstico y monitoreo de pacientes oncológicos: Oportunidades y desafíos en Latinoamérica. Rev Colomb Cancerol. 2020;24(4):151-64. https://doi. org/10.35509/issn.0123-9015
+
+57. Ministerio de Salud y Protección Social, Instituto Nacional de Cancerología. Manual para la detección temprana del cáncer de colon y recto. Bogotá: MinSalud; 2015. Disponible en: https://www.cancer.gov.co/recursos_user/ files/libros/archivos/Colon
+
+58. Ministerio de Salud y Protección Social, Instituto Nacional de Cancerología. Guía de Práctica Clínica para la detección temprana, diagnóstico, tratamiento integral, seguimiento y rehabilitación del cáncer de colon y recto. Sistema General de Seguridad Social en Salud. Segunda edición. Bogotá: MinSalud; 2017.
+
+59. Council of the European Union. Council Recommendation of 2 December 2003 on Cancer Screening (2003/878/EC) 878. Off J Eur Union, 2003. Disponible en: https://www. cancer.eu/wp-content/uploads/IJC-2020-EU-CouncilRecommendations-Screening-2003.pdf
+
+60. Red de programas de cribado de cáncer. S. f. Disponible en: http://www.cribadocancer.com
+
+61. Heijnen ML, Landsdorp-Vogelaar I. CRC Screening in the Netherlands. From pilot to National Programme. 2014. Disponible en: https://www.rivm.nl/en/colorectal-cancerscreening-programme
+
+62. Leuraud K, Jezewski-Serra D, Viguier J, Salines E. Colorectal cancer screening by guaiac faecal occult blood test in France: Evaluation of the programme two years after launching. Cancer Epidemiol. 2013;37:959-67 https://doi. org/10.1016/j.canep.2013.07.008
+
+63. Major D, Bryant H, Delaney M, Fekete S, Gentile L, Harrison M, Mai V, Nicholson E, Taylor Y. Colorectal cancer screening in Canada: results from the first round of screening for five provincial programs. Curr Oncol. 2013;20:252-7. https:// doi.org/10.3747/co.20.1646
+
+64. López-Kostner F, Kronberg U, Zarate AJ Cortés M. Programa de detección de neoplasias colorrectales en población mayor de 50 años. Rev Med Chile. 2012;140:281-6. https:// doi.org/10.4067/S0034-9887201200030000
+
+65. Center for Cancer Control and Information Services NCC. Cancer statistics in Japan’13. Japan: Foundation for Promotion of Cancer Research; 2013. Disponible en: http://www.ncc.go.jp/en/cis/index.html
+
+66. Commonwealth of Australia. The Australian
+
+bowel cancer screening pilot program and
+
+beyond, 2005. Screening monograph no. 6/2005.
+
+Disponible
+
+en:
+
+http://www.cancerscreening.
+
+g o v. a u / i n t e r n e t / s c r e e n i n g / p u b l i s h i n g . n s f /
+
+content/9C0493AFEB3FD33CCA257D720005C9F2/$File/
+
+final-eval.pdf
+
+67. Navarro M, Nicolas A, Fernández A, Lanas A. Colorectal cancer population screening programs worldwide in 2016: An update. World J Gastroenterol. 2017;23(20):3632-42. https://doi.org/10.3748/wjg.v23.i20.3632
+
+300

@@ -1,0 +1,380 @@
+artículos de revisión
+
+Apendicitis aguda: Hallazgos radiológicos y enfoque actual de las imágenes diagnósticas
+Acute appendicitis: Imaging Findings and current approach to diagnostic imaging
+
+Palabras clave (DeCS)
+Apendicitis Apendicectomía Ultrasonografía Imagen por resonancia
+magnética Tomografía computarizada
+por rayos X
+
+Octavio de Jesús Arévalo Espejo1 Mauricio Enrique Moreno Mejía2 Luis Heber Ulloa Guerrero3
+Resumen
+La apendicitis aguda es la causa más frecuente de dolor abdominal agudo que requiere cirugía. Antes de la aparición de las modernas técnicas en imágenes diagnósticas, el diagnóstico de apendicitis aguda era exclusivamente clínico; sin embargo, después de la introducción de imágenes seccionales como la tomografía computarizada, la resonancia magnética y la ultrasonografía, las tasas de apendicectomías negativas se redujeron de forma significativa, y con ellas disminuyeron la morbilidad y mortalidad asociadas a esta enfermedad. En el presente artículo se revisa la anatomía del apéndice cecal, las manifestaciones clínicas de la apendicitis aguda y los hallazgos de esta entidad en las diferentes modalidades de imágenes diagnósticas, a la luz de la evidencia disponible.
+
+Key words (MeSH)
+Appendicitis Appendectomy Ultrasonography Magnetic resonance
+imaging Tomography, X-ray
+computed
+
+Summary
+Acute appendicitis is the most common cause of acute abdominal pain which requires surgery. Before the advent of modern diagnostic imaging techniques, the diagnosis of acute appendicitis was exclusively performed by clinical findings; however, the negative appendectomy rates decreased significantly after the introduction of sectional images such as Computed Tomography (CT), Magnetic Resonance Imaging (MRI) and Ultrasonography (U.S.), as well as the morbidity and mortality associated with this disease. In this paper, we review the anatomy of the appendix, the clinical manifestations of acute appendicitis and the findings of this entity in different diagnostic imaging modalities based on available evidence.
+
+1Médico residente de cuarto año, del Departamento de Imágenes
+Diagnósticas de la Facultad de Medicina de la Universidad Nacional de Colombia, Bogotá,
+Colombia.
+2Médico residente de cuarto año de la Fundación Santafé de Bogotá. Universidad El Bosque,
+Bogotá, Colombia.
+3Profesor asociado del Departamento de Imágenes Diagnósticas de la Facultad de Medicina de la Universidad Nacional de Colombia, Bogotá,
+Colombia.
+
+Introducción
+La apendicitis aguda es la causa más frecuente de dolor abdominal agudo que requiere cirugía. La literatura informa que afecta entre el 7 y el 12 % de la población general a lo largo de la vida, y el riesgo global de sufrir apendicitis es del 8,6 % para los hombres y del 6,7 % para las mujeres en todos los grupos de edad (1-4). Esta patología ocurre más frecuentemente en la segunda y tercera década de la vida, con una edad pico a los 22 años (3).
+En Estados Unidos se documentan entre 250.000 y 280.000 casos nuevos al año, con una mortalidad del
+
+Rev Colomb Radiol. 2014; 25(1): 3877-88
+
+0,0002 % y una morbilidad del 3 % cuando se realiza el diagnóstico y el tratamiento oportuno (3, 5-7).
+Antes de la aparición de las técnicas modernas en imágenes diagnósticas, el diagnóstico de la apendicitis aguda era exclusivamente clínico. El objetivo era disminuir al máximo la tasa de las apendicitis perforadas (3). El 20 % de los apéndices cecales resecados, con un diagnóstico clínico de apendicitis aguda, eran normales; sin embargo, al tratar de reducir esa cifra de falsos positivos siendo más estrictos con los criterios de los diagnósticos, aumentaban los casos de perforación.
+3877
+
+En resumen, la tasa de falsos positivos era inversamente proporcional a la tasa de apendicitis perforadas (1,3,8).
+Después de la introducción de imágenes seccionales como la tomografía computarizada (TC), resonancia magnética (RM) y la ultrasonografía (US), como parte de la rutina diagnóstica en esta entidad, las tasas de apendicectomías negativas disminuyeron de forma significativa a porcentajes entre el 1,7 y el 3 % sin aumentar los casos de apendicitis perforadas (9-12).
+
+percepción y descripción del dolor por parte del paciente (1,3,15). La edad en la que se presenta es un factor muy importante; se dice que hasta el 47 % de las apendicitis en los niños menores de 5 años de edad y el 51 % de las apendicitis en las personas mayores de 65 años ya están perforadas al momento del diagnóstico (21-24).
+
+Anatomía del apéndice cecal
+El apéndice cecal es un asa intestinal ciega que mide entre 3 y 20 cm de longitud, y menos de 6 mm de diámetro transverso. Se origina en la pared posteromedial del ciego, entre 2 y 3 cm inferior a la válvula íleocecal (3,13,14). Mucho se ha escrito sobre la posición del apéndice cecal con respecto al colon (3,13,14); no obstante, los autores proponen adoptar la clasificación publicada por Verdugo, et al. (14) la cual fue hecha basada en un estudio en una población latinoamericana similar a la nuestra (figura 1).
+
+Fisiopatología
+El proceso inflamatorio inicia cuando el único extremo permeable del apéndice se obstruye (1,3,5). Las causas más frecuentes de obstrucción apendicular son:
+• Fecalito • Heces • Hiperplasia linfoide • Semillas • Parásitos • Tumores
+
+Dicha obstrucción condiciona la acumulación de líquido y de secreciones en la luz del apéndice, con posterior proliferación bacteriana, e inflamación de la pared y de los tejidos circundantes (1,5). El aumento de la presión endoluminal, secundario a la acumulación de fluidos, somete a la pared del apéndice a altas fuerzas de tensión y, a su vez, genera una disminución de la perfusión sanguínea que desencadena isquemia, gangrena y, por último, perforación (1,3,5).
+La perforación apendicular es uno de los estadios finales de dicho proceso inflamatorio y el objetivo de la intervención terapéutica en los pacientes es evitarla. Una vez que ocurre la perforación la mortalidad se eleva al 3 % y la morbilidad se vuelve tan alta como del 47 % (3,5). Se dice que a pesar de ser diagnosticado temprano, hasta el 26 % de las apendicitis ya están perforadas al momento del diagnóstico (5).
+Manifestaciones clínicas
+La sintomatología que produce la apendicitis se puede agrupar en síntomas típicos y síntomas atípicos según lo descrito en la literatura. Los síntomas típicos están presentes solo entre el 50 y el 70 % de los pacientes (15,16). Estos síntomas se han agrupado clásicamente en tablas de valoración clínica que buscan determinar la probabilidad pretest para el diagnóstico de esta entidad (1,3,15,17-20) (tabla 1).
+Los síntomas atípicos se presentan entre el 20 y el 30 % de los pacientes. Estos síntomas aparecen debido a las variantes en la posición anatómica del apéndice cecal y a diferencias en la
+
+Figura 1. Dibujo que muestra las posiciones más frecuentes del apéndice cecal con respecto al ciego y sus porcentajes respectivos.
+
+Tabla 1. Escala de Alvarado para calcular la probabilidad clínica (pretest) de apendicitis aguda.
+
+Categoría
+
+Descriptor
+
+Puntaje
+
+Migración
+
+1
+
+Anorexia – cetonuria
+
+1
+
+Síntomas
+
+Náusea – vómito
+
+1
+
+Dolor en el cuadrante inferior derecho
+
+2
+
+Dolor de rebote
+
+1
+
+Signos
+
+Fiebre ( > 37,3 ºC de temperatura oral)
+
+1
+
+Leucocitosis (> 10.000/mm3)
+
+2
+
+Laboratorio Desviación hacia la izquierda
+
+1
+
+(Neutrófilos > 75%)
+
+Puntaje Interpretación
+
+1 – 4
+
+Baja probabilidad de apendicitis
+
+5 – 6
+
+Posible apendicitis
+
+7 – 8
+
+Probable apendicitis
+
+9 – 10 Apendicitis muy probable
+
+Fuente: Tomado y adaptado de Alvarado A. (20)
+
+3878
+
+Apendicitis aguda: hallazgos radiológicos y enfoque actual de las imágenes diagnósticas. Arévalo O., Moreno M., Ulloa L.
+
+artículos de revisión
+
+Imágenes diagnósticas: Enfoque por multimodalidad
+Como ya se expuso anteriormente, el abordaje por imágenes del diagnóstico de apendicitis aguda ha mostrado un impacto favorable en la morbimortalidad de los pacientes con esta entidad. A continuación, se realizará una descripción rápida de las modalidades de imagen de uso más común y los hallazgos más relevantes de cada una de ellas.
+Radiografía simple de abdomen A pesar de que la radiografía simple de abdomen hace parte
+del abordaje diagnóstico inicial de algunas patologías que producen dolor abdominal agudo (por ejemplo: urolitiasis, obstrucción intestinal, etc.), no se recomienda para el estudio de un paciente con sospecha de apendicitis aguda, ya que en el 68 % de los casos los hallazgos son inespecíficos y se ha reportado una sensibilidad tan baja como del 0 % para esta entidad (6,8,12,25,26).
+Sin embargo, se han descrito signos radiográficos clásicos en la literatura que vale la pena mencionar, dentro de los cuales están (8,12,27,28):
+• Íleo reflejo (entre el 51 y el 81 %) (figura 2). • Aumento de la opacidad del cuadrante inferior derecho del
+abdomen (entre el 12 y el 33 %). • Engrosamiento de las paredes del ciego (entre el 4 y el 5 %). • Mala definición de la línea grasa del músculo psoas del lado
+derecho. • En menos del 5% de los casos es posible ver el apendicolito
+como una imagen nodular, con densidad de calcio, proyectada sobre la fosa iliaca derecha (figura 2). • Petroianu et al. (26) describieron el nuevo signo de la ‘carga fecal en el ciego’, que consiste en la presencia de un material con una densidad de tejidos blandos y de burbujas radiolúcidas en su interior, que ocupa el ciego (materia fecal) en pacientes con dolor en la fosa iliaca derecha. Tiene una sensibilidad del 97 %, una especificidad del 85 %, un valor predictivo positivo del 78,9 % y un valor predictivo negativo del 98 % para el diagnóstico de apendicitis aguda.
+Actualmente, la utilidad principal de la radiografía convencional de abdomen en el estudio del dolor abdominal agudo es la de descartar la perforación y la obstrucción intestinal.
+Ultrasonido El uso del ultrasonido como una herramienta para el diagnóstico
+de la apendicitis aguda se describió por primera vez en el año de 1986 por el doctor Puylaert (2,3,5,8), desde entonces se ha convertido en una de las principales técnicas de imagen para el diagnóstico de esta entidad, con especial relevancia en los pacientes pediátricos y en mujeres gestantes (29,30).
+Técnica El paciente debe acostarse en decúbito supino en una superficie firme y se procede a realizar la exploración del cuadrante inferior derecho del abdomen con un transductor lineal de alta frecuencia (3,5,8). La exploración con el transductor debe ser con una compresión firme y gradual.
+Rev Colomb Radiol. 2014; 25(1): 3877-88
+
+Dicha maniobra tiene dos objetivos principales: primero, busca desplazar las asas intestinales adyacentes a un probable apéndice inflamado y fijo a la pared abdominal, y segundo, busca evaluar el grado de compresibilidad del apéndice cecal, el cual es un criterio de apendicitis aguda como se verá más adelante (5).
+El examen se debe iniciar en el sitio en el que el paciente refiere más dolor, ya que en el 94 % de los casos es posible encontrar algún hallazgo significativo en ese lugar (5). No siempre es fácil visualizar el apéndice cecal y por esa razón se han descrito maniobras que le pueden ayudar al radiólogo en el momento del examen, por ejemplo: posicionar la mano izquierda del examinador en la región lumbar del paciente y tratar de comprimir el abdomen contra el transductor, o pedirle al paciente que se acueste en decúbito lateral izquierdo y hacer un abordaje ecográfico lateral y posterior (3,5). El radiólogo debe tratar de demostrar toda la longitud del apéndice, esto para evitar errores diagnósticos y no confundirlo con el íleon terminal.
+Hallazgos El apéndice cecal normal se ve como una estructura tubular, elongada, ciega y con una apariencia lamelada debido a sus capas histológicas; generalmente, mide menos de 6 mm en su diámetro transverso y tiene una forma ovoide u ovalada en las imágenes con compresión en su eje corto (figura 3). Cabe recalcar que el apéndice normal es compresible, móvil y no presenta alteración de la ecogenicidad de la grasa circundante (3,5). La no visualización del apéndice cecal en manos expertas tiene un valor predictivo negativo (VPN) del 90 % (3,5). Los hallazgos ecográficos de apendicitis aguda incluyen: • Diámetro transverso mayor a 6 mm: Este parámetro tiene una sensibilidad del 98 % (18,30). Sin embargo, hasta el 23 % de los pacientes adultos sanos tienen un apéndice cecal con un diámetro transverso mayor a esta medida. Es por eso que algunos autores proponen que al encontrar un apéndice con un diámetro entre 6 y 9 mm debe considerarse ‘indeterminado’ y deben buscarse otros signos de apendicitis; tales como la no compresibilidad, la forma y la alteración de la ecogenicidad de los tejidos adyacentes (3,5,30) (figura 4). • Apéndice no compresible: El apéndice normal debe ser móvil y compresible. La pérdida de la compresibilidad o que el apéndice adopte una forma circular en las imágenes axiales con compresión plena es un criterio para considerar el diagnóstico de la apendicitis aguda (2,5,23) (figura 4). • Cambios inflamatorios de la grasa circundante: Se ven como un aumento de la ecogenicidad de la grasa periapendicular asociados a una ausencia de la deformación con la compresión (6,13) (figura 4). • Aumento de la vascularización visualizada en el Doppler color: Aunque tiene una buena sensibilidad (87 %), se dice que este parámetro no es válido para el diagnóstico de apendicitis aguda, ya que dependiendo del estadio del proceso puede ser positivo o negativo (3,5,23) (figura 5). • Apendicolitos: Estas estructuras son reconocibles solo en el 30 % de los casos de apendicitis, sin embargo, su hallazgo aumenta el riesgo de perforación (3,19,23) (figura 6). • Signos de perforación: Existen tres signos clásicos de perforación apendicular en US: la colección de fluido periapendicular (figura 7), la irregularidad de la pared y la presencia de un apendicolito extraluminal (2,3,5). No obstante, es común que luego de perforado el apéndice este sea de difícil visualización (30).
+3879
+
+a
+
+b
+
+c
+
+Figura 2. Radiografía de abdomen en proyección frontal, (a) en posición vertical y (b) en decúbito supino. Se visualiza un patrón gaseoso intestinal anormal, dado por la dilatación de las asas intestinales delgadas en el hemiabdomen superior, sin configurar un patrón obstructivo en una paciente con plastrón apendicular; este es un hallazgo sugestivo de íleo, el cual se visualiza con frecuencia en pacientes con apendicitis aguda. c) Acercamiento de una radiografía de abdomen en el cuadrante inferior derecho en el cual se visualiza una imagen con morfología ovalada y una densidad de calcio que corresponde a un apendicolito (flecha).
+
+a
+
+b
+
+Figura 3. Aspecto ecográfico del apéndice cecal normal. a) Imagen axial que muestra la apariencia de anillos concéntricos de ecogenicidad alternante (flechas blancas) que representan la mucosa, muscular y serosa del apéndice. b) En el eje longitudinal se observa el apéndice cecal en su localización más habitual (flechas blancas), en posición medial a los vasos iliacos (Doppler color - flecha naranja).
+
+a
+
+b
+
+A 3880
+
+Figura 4. Apendicitis aguda, apariencia en ultrasonido. a) Imagen axial del apéndice cecal sin compresión, en la cual se ve engrosada (calipers), con un diámetro de 13 mm. b) El diámetro del apéndice no se modifica con las maniobras de compresión. Igualmente, se observa una alteración en la ecogenicidad de la grasa adyacente que no es compresible (*).
+Apendicitis aguda: hallazgos radiológicos y enfoque actual de las imágenes diagnósticas. Arévalo O., Moreno M., Ulloa L.
+
+artículos de revisión
+
+a
+
+b
+
+Figura 5. Aumento en la vascularización del apéndice por una apendicitis aguda. a) Imagen longitudinal del apéndice con un incremento del flujo de sus paredes en las imágenes con Doppler color (flecha). b) En el Doppler poder, también se evidenca un incremento en el flujo en la pared anterior del apéndice (flecha).
+
+a
+
+b
+
+c
+
+Figura 6. Apendicitis aguda asociada a un apendicolito. a) Imagen axial del apéndice cecal engrosada (flechas blancas), con un diámetro de 11 mm, el cual no se modifica con las maniobras de compresión en (b). Igualmente, se observa una alteración en la ecogenicidad de la grasa adyacente (*) y una imagen de fecalito, asociadas (flecha negra). c) Ultrasonido en corte longitudinal del apéndice de otro paciente, en el que se visualiza una imagen redondeada ecogénica (flecha) y una sombra acústica posterior en su interior, que representa un apendicolito.
+
+A
+Figura 7. Apendicitis perforada. Imagen axial de ultrasonido en la que se visualiza el apéndice distendido por un proceso inflamatorio (calipers) asociado a una colección líquida a su alrededor, secundario a la perforación (asterisco).
+
+Tomografía computarizada La TC junto con el US son las dos modalidades diagnósticas más
+utilizadas para el diagnóstico de la apendicitis aguda. Se han descrito múltiples protocolos de adquisición de imágenes en TC, sin embargo, solo se describirán los más importantes (1,3,5,9, 31-34):
+• TC abdominal total: Se realizan cortes desde las cúpulas diafragmáticas hasta la sínfisis púbica. El grosor de corte es de 5 mm y se administra al paciente entre 100 y 150 cm3 de medio de contraste intravenoso (IV). Además, se administra un medio de contraste entérico por vía oral o rectal 1 hora antes del estudio. Este protocolo tiene una sensibilidad del 96 %, una especificidad del 89 % y una precisión del 94 %. La gran ventaja que tiene este protocolo es que en pacientes con cuadros clínicos poco comunes y sin evidencia imaginológica de una apendicitis brinda un diagnóstico diferencial en el 56 % de los casos.
+• TC focalizado: Este protocolo fue diseñado para la búsqueda dirigida de apendicitis en pacientes con un cuadro clínico compatible. Se siguiere realizar cortes de 5 mm desde el polo inferior del riñón derecho hasta la pelvis mayor. Se adquieren imágenes con un medio de contraste oral e IV similar a lo descrito en el protocolo anterior. Este protocolo
+
+Rev Colomb Radiol. 2014; 25(1): 3877-88
+
+3881
+
+mostró una sensibilidad cercana al 98 %, con una especificidad también del 98 % y una precisión del 98 %. A pesar de esto, cuando el estudio es negativo para apendicitis, solo en el 39 % de los casos ofrece un diagnóstico diferencial. • TC de abdomen con contraste intravenoso únicamente: En este protocolo se efectúa la adquisición tomográfica del abdomen desde las cúpulas diafragmáticas hasta los trocánteres mayores luego de la administración endovenosa de un medio de contraste yodado en una dosis estándar. Se sugiere hacer el estudio en un equipo multidetector de 64 canales y adquirir las imágenes en fase venosa. Este protocolo muestra una sensibilidad del 100 % (intervalo de confianza entre el 73,5 y el 100 %) y una especificidad del 97,1 % (intervalo de confianza entre el 92,9 y el 99,2 %) (35,36). Según algunos autores, omitir el uso del medio de contraste oral disminuye el tiempo de estancia del paciente en el servicio de urgencias y agiliza su diagnóstico y tratamiento (37). • TC de abdomen simple: Se realiza una adquisición de la totalidad del abdomen sin la administración del medio de contraste oral ni IV. Lo que se busca demostrar es el aumento del diámetro transverso del apéndice y la alteración de la grasa periapendicular. Este protocolo tiene la ventaja de ser más barato, no requiere preparación del paciente y es más rápido. Dentro de las desventajas, tiene una tasa de falsos negativos del 7,3 %, sin embargo, esta no es mucho mayor que la de otros protocolos. La sensibilidad informada oscila entre el 84 y el 96 %, la especificidad está entre el 93 y el 99 %, y la precisión es cercana al 97 %. Cuando el examen es negativo para apendicitis ofrece un diagnóstico diferencial solo en el 35 % de los casos.
+En la literatura también se ha propuesto utilizar estos mismos protocolos pero disminuyendo la dosis de radiación, lo cual ha mostrado el mismo rendimiento diagnóstico y ha disminuido la exposición del paciente a la radiación ionizante (33,38).
+Hallazgos El apéndice cecal normal se ve solo entre el 43 y el 82 % de todas las TC de abdomen (1,5). Como ya se revisó en la sección de anatomía, se visualiza como una estructura tubular ciega, de entre 3 y 20 cm de longitud, que mide menos de 6 mm de diámetro. La presencia y/o ausencia de gas en la luz del apéndice no confirma ni descarta el diagnóstico de apendicitis (3,5) (figura 8). Existen hallazgos primarios y secundarios de apendicitis en la TC. Los hallazgos primarios hacen referencia a las alteraciones del apéndice propia-
+
+mente dicho y los hallazgos secundarios corresponden a la alteración de las estructuras adyacentes por parte del proceso inflamatorio (1,3,5).
+Hallazgos primarios: • Aumento del diámetro transverso: Se habla de aumento del diámetro
+transverso cuando este es mayor a 6 mm (18) (figura 9). Se informa una sensibilidad del 93 % y una especificidad del 92 %; no obstante, Brown, et al. (5) afirman que hasta el 42 % de los adultos sanos tiene el apéndice con un diámetro mayor a este umbral y por ello propone que entre los 6 y los 10 mm se denomine ‘apéndice con diámetro indeterminado’ y se busquen otros signos imaginológicos para apoyar el diagnóstico de apendicitis (5,8). • Engrosamiento de la pared del apéndice mayor a 1 mm (1,3,5,31). Con una sensibilidad del 66 % y una especificidad del 96 % (figura 10). • Realce anormal y heterogéneo de la pared. Este hallazgo tiene una sensibilidad del 75 % y una especificidad del 85 % (3). • El edema submucoso o estratificación lo que configura el signo del ‘Target’ o de la ‘Diana’ (5,8) (figura 11). • Los apendicolitos están presentes entre el 20 y el 40 % de los casos, sin embargo, cuando es así aumentan el riesgo de una perforación (3,8) (figura 12).
+Hallazgos secundarios: • Engrosamiento focal de las paredes del ciego (figura 13): Este signo
+tiene una sensibilidad estimada del 69 %, pero una especificidad cercana al 100 %. Dicho engrosamiento focal de la pared del ciego ocurre alrededor de la inserción del apéndice cecal; debido a eso, este proceso forma una imagen de ‘embudo’ que apunta hacia el origen del apéndice y en las tomografías con contraste enteral configura el ‘signo de la cabeza de flecha’ (5,30). Por otra parte, el ‘signo de la barra cecal’ aparece cuando la pared engrosada del ciego rodea un apendicolito enclavado en la raíz del apéndice (3,5,30). • La alteración en la densidad de la grasa periapendicular reporta una sensibilidad de entre el 87 y el 100 %, y una especificidad entre el 74 y el 80 % (3,5,12, 39) (figura 14). • Es usual encontrar adenomegalias regionales (12). • Se han descrito al menos cinco signos de perforación que son: la presencia de gas extraluminal, la visualización de un absceso, de flegmón, la presencia de un apendicolito extraluminal o un defecto focal de realce de la pared (1,3,5). La coexistencia de dos de los hallazgos descritos anteriormente tienen una sensibilidad del 95 % y una especificidad del 100 % para una perforación (figura 15).
+
+a
+
+b
+
+c
+
+Figura 8. Apariencia tomográfica del apéndice cecal normal. Se puede visualizar gas en su interior, las paredes delgadas y un diámetro menor a 6 mm. Acercamiento de una tomografía con medio de contraste oral y endovenoso en un plano coronal (a y b) en las que se visualiza el apéndice de localización periileal y paracecal, respectivamente. c) Acercamiento de una TC de abdomen en plano sagital en la que se visualiza el apéndice cecal de morfología y calibre normal de localización retrocecal.
+
+3882
+
+Apendicitis aguda: hallazgos radiológicos y enfoque actual de las imágenes diagnósticas. Arévalo O., Moreno M., Ulloa L.
+
+artículos de revisión
+
+Figura 12. Reconstrucción coronal de una TC de abdomen con medio de contraste donde se observa el apéndice cecal distendido (flechas blancas), con realce de sus paredes, e imagen calcificada que corresponde a un apendicolito en su base (flecha naranja)
+
+Figura 9. Corte axial de una TC que muestra el apéndice cecal engrosado, con un diámetro
+
+a
+
+de 12 mm (flechas), sin cambios inflamatorios significativos en la grasa mesentérica
+
+periapendicular.
+
+Figura 10. Imagen coronal de una TC con medio de contraste que muestra el apéndice cecal engrosado, con un diámetro de 14 mm (flecha), con engrosamiento y realce heterogéneo de
+sus paredes (3 mm) y con cambios inflamatorios de la grasa periapendicular. b
+
+Figura 11. Corte axial de una TC con medio de contraste que muestra el apéndice engrosado, con pseudoestratificación de sus paredes, lo que configura el signo de la ‘Diana’ (flechas).
+Rev Colomb Radiol. 2014; 25(1): 3877-88
+
+Figura 13. Imágenes de una TC contrastada en el plano axial (a) y sagital (b) que muestran un engrosamiento focal en las paredes del ciego (flecha blanca), secundario a una apendicitis aguda (flecha naranja).
+3883
+
+a
+
+b
+Figura 14. Corte axial de una TC contrastada, que muestra aumento de la densidad y estriación de la grasa (*), adyacente al proceso inflamatorio apendicular (flecha).
+a
+Figura 16. Imágenes axiales de RM en secuencias SSFSE potenciadas en T2. a) En la imagen se observa un escaso liquido libre, de alta señal, en fosa la iliaca derecha (flecha negra) que está asociado a un aumento en el diámetro del apéndice cecal (flecha blanca en la imagen b) secundario a una apendicitis aguda. Nótese en las imágenes, el útero grávido y la cabeza fetal (*).
+a
+b
+b
+
+Figura 15. Imagen de una TC con medio de contraste en el plano axial (a) y coronal (b). Extensos cambios inflamatorios de la grasa en la región ileocecal y gas extraluminal en el retroperitoneo por una perforación (flecha negra). Además, es una imagen indicativa de apendicitis con un apendicolito (flecha blanca).
+
+Figura 17. Imágenes axiales de RM en secuencias SSFSE con información T1 (a) y T2 con supresión grasa (b). Se observa un asa tubular ciega, engrosada, localizada en la fosa iliaca derecha, con una alteración de la señal de la grasa mesentérica a su alrededor (flecha negra). b) En las secuencias con supresión grasa se observa un líquido libre en la cavidad (flecha blanca), adyacente al apéndice cecal, que indica un proceso inflamatorio.
+
+3884
+
+Apendicitis aguda: hallazgos radiológicos y enfoque actual de las imágenes diagnósticas. Arévalo O., Moreno M., Ulloa L.
+
+artículos de revisión
+
+a
+
+b
+
+Figura 18. Localización inusual del apéndice cecal. Corte axial (a) y coronal (b) de una TC que muestran el apéndice cecal (flecha blanca) dentro de una hernia inguinal derecha.
+
+Imágenes por resonancia magnética La RM brinda una alta resolución espacial; sin embargo, existen
+algunas limitantes para la implementación masiva de este método de imagen como lo son su costo elevado, la baja disponibilidad, los tiempos de adquisición largos, los artefactos de movimiento y que la seguridad del Gadolinio en mujeres gestantes es aún controversial (3,5,19).
+Las indicaciones de la RM son principalmente dos: como alternativa a la TC en niños con sospecha clínica de apendicitis, pero con US no conclusivo; o en mujeres gestantes con sospecha de apendicitis aguda pero en las cuales el US no confirma ni descarta el diagnóstico (2,5,4045). Singh, et al. (46) proponen que el médico responda tres preguntas antes de solicitar una RM para una mujer gestante:
+• ¿La información aportada por la US no es concluyente? • ¿La información que brinda la RM cambiará el manejo de la
+paciente? • ¿No se puede posponer la RM hasta cuando la paciente se desembarace?
+Si luego de realizarse estas tres preguntas el médico considera que la RM está indicada, puede solicitarla.
+Existen múltiples protocolos de adquisición de imágenes de RM diseñados para optimizar el tiempo de adquisición, disminuyendo los artificios de movimiento, y de ahorrar tiempo para evitar la aparición de complicaciones por un tratamiento inoportuno, sin perder la resolución espacial y la calidad de la imagen (3,40,46,47). Dentro de los protocolos más conocidos están los de respiración libre y los de respiración sostenida (rápidos).
+El protocolo más utilizado es uno de respiración libre que consta de imágenes potenciadas en T2 con una saturación de grasa; imágenes potenciadas en T1, previo y posterior a la administración de un medio de contraste paramagnético intravenoso. Este protocolo tiene una sensibilidad entre el 97 y el 100 %, una especificidad entre el 92 y el 93 %, (46); no obstante, como ya se mencionó, aún se discute la seguridad del gadolinio en el primer trimestre de la gestación.
+En las RM el apéndice cecal se visualiza como una estructura tubular, ciega, de baja intensidad en T1w y T2w cuando contiene gas o materia
+
+fecal, o de la misma intensidad del músculo cuando está colapsada. Es posible visualizar el apéndice hasta en el 62 % de los pacientes normales, y la serie en la que se visualiza mejor esta estructura es la T2w (5,46). Los umbrales de tamaño son los mismos que en un US y una TC, y los hallazgos patológicos más representativos son la alta intensidad de la grasa periapendicular en el T2w, asociada a cambios en la pared y al aumento del diámetro transverso del apéndice (figuras 16 y 17). Las colecciones y los abscesos periapendiculares también pueden observarse (3,5,46).
+Evidencia disponible
+Se han publicado múltiples artículos con respecto al rendimiento de las diversas modalidades de imagen para el diagnóstico de apendicitis aguda que dependen de variables como la edad, el sexo y de condiciones clínicas específicas. Algunos autores están a favor de realizar imágenes diagnósticas a todos los pacientes con sospecha clínica de apendicitis (48), otros prefieren que solo se realice dicha pesquisa en los casos dudosos y algunos pocos aseguran que las imágenes diagnósticas no son de utilidad (11).
+A pesar de la gran controversia que existe al respecto, la doctora Parks, et al. (8) resumen en su artículo la evidencia disponible para las tres modalidades de imagen utilizadas con mayor frecuencia para el diagnóstico de la apendicitis aguda (tabla 2). Es así, como se han propuesto directrices en torno a qué modalidad de imagen escoger dependiendo del paciente y de las características clínicas particulares (42,49-51).
+En términos generales, para los niños se prefiere el US como abordaje inicial y se da una gran relevancia a los hallazgos clínicos y a la probabilidad pretest para el tratamiento; las imágenes de TC se consideran de segunda elección, solo cuando se consideren necesarias, y se hace énfasis en que lo mejor es evitarlas. La RM aún no se incluye dentro del algoritmo de diagnóstico de rutina (2) (esquema 1). Por otra parte, para los adultos se propone que se utilice la herramienta más disponible en la institución donde se esté atendiendo el paciente, bien sea una TC o un US, sin embargo, se sugiere que como primera línea se emplee el US con el fin de evitar al máximo la irradiación al paciente (30) (esquema 2).
+
+Rev Colomb Radiol. 2014; 25(1): 3877-88
+
+3885
+
+Tabla 2. Rendimiento estadístico de las modalidades de imagen utilizadas de forma rutinaria para el diagnóstico de apendicitis aguda
+
+Ultrasonido Tomografía computarizada
+Resonancia magnética
+
+S (%) 66 – 100 90 – 100 97 – 100
+
+E (%) 83 – 96 91 – 99 92 – 98
+
+VPP (%) 91 – 94 92 – 98 57 – 98
+
+VPN (%) 89 – 97 95 – 100 96 – 100
+
+Fuente: Tomado de Parks NA, Schroeppel TJ. (8) (S: Sensibilidad, E: Especificidad, VPP: Valor predictivo positivo, VPN: Valor predictivo negativo).
+
+Esquema 1. Algoritmo diagnóstico para apendicitis en paciente pediátrico. Modificado de Strouse P. (2)
+
+3886
+
+Apendicitis aguda: hallazgos radiológicos y enfoque actual de las imágenes diagnósticas. Arévalo O., Moreno M., Ulloa L.
+
+Esquema 2. Algoritmo diagnóstico para apendicitis en paciente adulto. Modificado de Hernanz-Schulman M. (30)
+
+artículos de revisión
+
+Dificultades diagnósticas
+El diagnóstico por imagen de apendicitis aguda muchas veces no es fácil. Las dificultades diagnósticas de esta entidad se pueden agrupar en dos categorías principales: dificultades por el hábito corporal del paciente y dificultades por la localización anómala del apéndice cecal (13,52-54).
+En cuanto al hábito corporal del paciente hay que mencionar que en los pacientes delgados con escasa grasa peritoneal, como es el caso de los niños, es muy difícil diferenciar las diferentes estructuras abdominales en la TC; por otra parte, es muy difícil hacer la ecografía a los pacientes con un abundante tejido adiposo subcutáneo, ya que la grasa limita la propagación del haz del ultrasonido y la ventana acústica.
+Otra de las dificultades en el diagnóstico de la apendicitis aguda es la posición anormal o las variantes anatómicas del apéndice cecal. Este puede estar localizado retrocecal, en la fosa hepatorenal, en una hernia inguinal (figura 18) o incluso en el lado izquierdo del abdomen (50,53,54). No es infrecuente que algunos pacientes con apendicitis simulen cuadros clínicos similares a otras entidades debido a estas localizaciones atípicas (por ejemplo, colecistitis, etc.).
+
+causas del dolor abdominal en la fosa iliaca derecha son la adenitis mesentérica, la enfermedad de Crohn, la diverticulitis, el cáncer de colon, la gastroenteritis aguda, la enfermedad pélvica inflamatoria, la infección de las vías urinarias, la urolitiasis, la apendagitis epiplóica, la torsión ovárica, el embarazo ectópico y la apendicitis del muñón, entre otras (57-59).
+Conclusión
+La apendicitis aguda continúa siendo una de las patologías más frecuentes que requiere atención de urgencias y de tratamiento quirúrgico, con tasas de morbilidad y mortalidad asociadas, que pueden ser significativas si no se hace un diagnóstico y un tratamiento oportuno.
+Las imágenes diagnósticas actualmente desempeñan un papel relevante en la atención integral de los pacientes con sospecha clínica de apendicitis aguda y, por tanto, es esencial que el radiólogo conozca los hallazgos imaginológicos, las indicaciones, las limitaciones, los beneficios y los potenciales riesgos de cada modalidad en imágenes, desde un enfoque personalizado para cada paciente.
+
+Diagnósticos diferenciales
+Los diagnósticos diferenciales de la apendicitis aguda son múltiples y diversos, varían dependiendo de la edad y del sexo (1,3,55,56). En las mujeres, en edad fértil, las causas ginecológicas y obstétricas del dolor abdominal son los principales diagnósticos diferenciales. Otras
+
+Referencias
+1. Chalazonitis AN, Tzovara I, Sammouti E, et al. CT in appendicitis. Diagn Interv Radiol. 2008;14:19-25.
+2. Strouse P. Pediatric appendicitis: an argument for US. Radiology. 2010;255:8-13. 3. Rybkin AV, Thoeni RF. Current concepts in imaging of appendicitis. Radiol Clin
+North Am. 2007;45:411-22, vii.
+
+Rev Colomb Radiol. 2014; 25(1): 3877-88
+
+3887
+
+4. Humes DJ, Simpson J. Acute appendicitis. BMJ. 2006;333:530-4. 5. Brown MA. Imaging acute appendicitis. Semin Ultrasound CT MR. 2008;29:293-
+307. 6. Stoker J, van Randen A, Laméris W, et al. Imaging patients with acute abdominal
+pain. Radiology. 2009;253:31-46. 7. Old JL, Dusing RW, Yap W, et al. Imaging for suspected appendicitis. Am Fam
+Physician. 2005;71:71-8. 8. Parks NA, Schroeppel TJ. Update on imaging for acute appendicitis. Surg Clin
+North Am. 2011;91:141-54. 9. Hennelly KE, Bachur R. Appendicitis update. Curr Opin Pediatr. 2011;23:281-5. 10. Raja AS, Wright C, Sodickson AD, et al. Negative appendectomy rate in the era of
+CT: an 18-year perspective. Radiology. 2010;256:460-5. 11. Coursey CA, Nelson RC, Patel MB, et al. Making the diagnosis of acute appendicitis: do more preoperative CT scans mean fewer negative appendectomies? A 10year study. Radiology. 2010;254:460-8. 12. Schwartz D. Imaging of suspected appendicitis: appropriateness of various imaging modalities. Pediatr Ann. 2008;37:433-8. 13. Kosaka N, Sagoh T, Uematsu H, et al. Difficulties in the diagnosis of appendicitis: review of CT and US images. Emerg Radiol. 2007;14:289-95. 14. Verdugo R, Olave E. Características anatómicas y biométricas del apéndice vermiforme en niños chilenos operados por apendicitis aguda. Int J Morphol. 2010;28:615-22. 15. Suh SW, Choi YS, Park JM, et al. Clinical factors for distinguishing perforated from nonperforated appendicitis: a comparison using multidetector computed tomography in 528 laparoscopic appendectomies. Surg Laparosc Endosc Percutan Tech. 2011;21:72-5. 16. Ebell MH. Diagnosis of appendicitis: part 1. History and physical examination. Am Fam Physician. 2008 Mar 15;77(6):828-30. 17. Howell JM, Eddy OL, Lukens TW, et al. Clinical policy: Critical issues in the evaluation and management of emergency department patients with suspected appendicitis. Ann Emerg Med. 2010;55:71-116. 18. Sivit CJ, Siegel MJ, Applegate KE, et al. When appendicitis is suspected in children. Radiographics. 2001;21:247-62. 19. Ohle R, O’Reilly F, O’Brien KK, et al. The Alvarado score for predicting acute appendicitis: a systematic review. BMC Med. 2011;9:139. 20. Alvarado A. A practical score for the early diagnosis of acute appendicitis. Ann Emerg Med. 1986;15:557-564. 21. Paris CA, Klein EJ. Abdominal pain in children and the diagnosis of appendicitis. West J Med. 2002;176:104-7. 22. Eshed I, Halshtok O, Erlich Z, et al. Differentiation between right tubo-ovarian abscess and appendicitis using CT A diagnostic challenge. Clin Radiol. 2011;66:10305. 23. Kessler N, Cyteval C, Gallix B, et al. Appendicitis: evaluation of sensitivity, specificity, and predictive values of US, Doppler US, and laboratory findings. Radiology. 2004;230:472-8 24. Kim HC, Yang DM, Lee CM, et al. Acute appendicitis: relationships between CTdetermined severities and serum white blood cell counts and C-reactive protein levels. Br J Radiol. 2011;84:1115-20. 25. Rao PM, Rhea JT, Rao JA, et al. Plain abdominal radiography in clinically suspected appendicitis: diagnostic yield, resource use, and comparison with CT. Am J Emerg Med. 1999;17:325-8. 26. Petroianu A, Alberti LR. Accuracy of the new radiographic sign of fecal loading in the cecum for differential diagnosis of acute appendicitis in comparison with other inflammatory diseases of right abdomen: a prospective study. J Med Life. 2012;5:85-91. 27. Ahn SH, Mayo-Smith WW, Murphy BL, et al. Acute nontraumatic abdominal pain in adult patients: abdominal radiography compared with CT evaluation. Radiology. 2002;225:159-64. 28. Krishnamoorthi R, Ramarajan N, Wang NE, et al. Effectiveness of a staged US and CT protocol for the diagnosis of pediatric appendicitis: reducing radiation exposure in the age of ALARA. Radiology. 2011;259:231-9. 29. Williams R, Shaw J. Ultrasound scanning in the diagnosis of acute appendicitis in pregnancy. Emerg Med J. 2007;24:359-60. 30. Hernanz-Schulman M. CT and US in the diagnosis of appendicitis: an argument for CT. Radiology. 2010;255:3-7. 31. Paulson EK, Harris JP, Jaffe TA, et al. Acute appendicitis: added diagnostic value of coronal reformations from isotropic voxels at multi-detector row CT. Radiology. 2005;235:879-85. 32. Hlibczuk V, Dattaro JA, Jin Z, et al. Diagnostic accuracy of noncontrast computed tomography for appendicitis in adults: a systematic review. Ann Emerg Med. 2010;55:51-59. 33. Kim SY, Lee KH, Kim K, et al. Acute appendicitis in young adults: low- versus standard-radiation-dose contrast-enhanced abdominal CT for diagnosis. Radiology. 2011;260:437-45. 34. Naeger DM, Chang SD, Kolli P, et al. Neutral vs positive oral contrast in diagnosing acute appendicitis with contrast-enhanced CT: sensitivity, specificity, reader confidence and interpretation time. Br J Radiol. 2011;84:418-26. 35. Anderson SW, Soto JA, Lucey BC, et al. Abdominal 64-MDCT for suspected appendicitis: the use of oral and IV contrast material versus IV contrast material only. AJR Am J Roentgenol. 2009;193:1282-8.
+
+36. Hekimoglu K, Yildirim UM, Karabulut E, et al. Comparison of combined oral and i.v. contrast-enhanced versus single i.v. contrast-enhanced mdct for the detection of acute appendicitis. JBR-BTR. 2011;94:278-82.
+37. Hopkins CL, Madsen T, Foy Z, et al. Does limiting oral contrast decrease emergency department length of stay? West J Emerg Med. 2012;13:383-7.
+38. Kim K, Kim YH, Kim SY, et al. Low-dose abdominal CT for evaluating suspected appendicitis. N Engl J Med. 2012;366:1596-605.
+39. Pereira JM, Sirlin CB, Pinto PS, et al. Disproportionate fat stranding: a helpful CT sign in patients with acute abdominal pain. Radiographics. 2004;24:703-15.
+40. Basaran A, Basaran M. Diagnosis of acute appendicitis during pregnancy: a systematic review. Obstet Gynecol Surv. 2009;64:481-8.
+41. Gilo NB, Amini D, Landy HJ. Appendicitis and cholecystitis in pregnancy. Clin Obstet Gynecol. 2009;52:586-96.
+42. Barger RL Jr, Nandalur KR. Diagnostic performance of magnetic resonance imaging in the detection of appendicitis in adults: a meta-analysis. Acad Radiol. 2010;17:1211-6.
+43. Guttman R, Goldman RD, Koren G. Appendicitis during pregnancy. Can Fam Physician. 2004;50:355-7.
+44. Spalluto LB, Woodfield CA, DeBenedectis CM, et al. MR imaging evaluation of abdominal pain during pregnancy: appendicitis and other nonobstetric causes. Radiographics. 2012;32:317-34.
+45. Patel SJ, Reede DL, Katz DS, et al. Imaging the pregnant patient for nonobstetric conditions: algorithms and radiation dose considerations. Radiographics. 2007;27:1705-22.
+46. Singh A, Danrad R, Hahn PF, et al. MR imaging of the acute abdomen and pelvis: acute appendicitis and beyond. Radiographics. 2007;27:1419-31.
+47. Lam M, Singh A, Kaewlai R, et al. Magnetic resonance of acute appendicitis: pearls and pitfalls. Curr Probl Diagn Radiol. 2008;37:57-66.
+48. Krajewski S, Brown J, Phang PT, et al. Impact of computed tomography of the abdomen on clinical outcomes in patients with acute right lower quadrant pain: a meta-analysis. Can J Surg. 2011;54:43-53.
+49. Brennan GD. Pediatric appendicitis: pathophysiology and appropriate use of diagnostic imaging. CJEM. 2006;8:425-32.
+50. van Randen A, Bipat S, Zwinderman AH, et al. Acute appendicitis: meta-analysis of diagnostic performance of CT and graded compression US related to prevalence of disease. Radiology. 2008;249:97-106.
+51. Stengel JW, Webb EM, Poder L, et al. Acute appendicitis: clinical outcome in patients with an initial false-positive CT diagnosis. Radiology. 2010;256:119-26.
+52. See TC, Watson CJ, Arends MJ, et al. Atypical appendicitis: the impact of CT and its management. J Med Imaging Radiat Oncol. 2008;52:140-7.
+53. Meinke A. Review article: appendicitis in groin hernias. J Gastrointest Surg. 2007;11:1368-72.
+54. Akbulut S, Ulku A, Senol A, et al. Left-sided appendicitis: review of 95 published cases and a case report. World J Gastroenterol. 2010;16:5598-602.
+55. Purysko AS, Remer EM, Filho HM, et al. Beyond appendicitis: common and uncommon gastrointestinal causes of right lower quadrant abdominal pain at multidetector CT. Radiographics. 2011;31:927-47.
+56. Ma KW, Chia NH, Yeung HW, et al. If not appendicitis, then what else can it be? A retrospective review of 1492 appendectomies. Hong Kong Med J. 2010;16:12-7.
+57. Levine CD, Aizenstein O, Wachsberg RH. Pitfalls in the CT diagnosis of appendicitis. Br J Radiol. 2004;77:792-9.
+58. Kim SW, Shin HC, Kim IY, et al. CT findings of colonic complications associated with colon cancer. Korean J Radiol. 2010;11:211-21.
+59. Cases Baldó MJ, Campillo Soto A, Mengual Ballester M, et al. Stump appendicitis: report of two cases and review of literature. Rev Esp Enferm Dig. 2009;101:514-6.
+Correspondencia
+Octavio de Jesús Arévalo Espejo
+Edificio Uriel Gutiérrez
+Universidad Nacional de Colombia
+Carrera 45 # 26-85
+Bogotá, Colombia
+odarevaloe@unal.edu.co
+Recibido para evaluación: 11 de septiembre de 2013 Aceptado para publicación: 3 de febrero de 2014
+
+3888
+
+Apendicitis aguda: hallazgos radiológicos y enfoque actual de las imágenes diagnósticas. Arévalo O., Moreno M., Ulloa L.

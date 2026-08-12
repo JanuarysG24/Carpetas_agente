@@ -1,0 +1,1142 @@
+EFECTO DEL MANEJO QUIRÚRGICO POR CÁNCER DE CÉRVIX EN LA FUNCIÓN SEXUAL EN MUJERES ATENDIDAS EN EL HOSPITAL UNIVERSITARIO DE SANTANDER
+ASTRID PAOLA CUERVO MALPICA
+UNIVERSIDAD INDUSTRIAL DE SANTANDER FACULTAD DE SALUD ESCUELA DE MEDICINA
+DEPARTAMENTO DE GINECOBSTETRICIA ESPECIALIZACIÓN EN GINECOLOGÍA Y OBSTETRICIA
+BUCARAMANGA 2020
+
+EFECTO DEL MANEJO QUIRÚRGICO POR CÁNCER DE CÉRVIX EN LA FUNCIÓN SEXUAL EN MUJERES ATENDIDAS EN EL HOSPITAL UNIVERSITARIO DE SANTANDER
+ASTRID PAOLA CUERVO MALPICA
+Trabajo de grado para optar al título de: Especialización en Ginecología y Obstetricia
+Directora: ROCIO GUARÍN SERRANO Especialista en Ginecología y Obstetricia – Sexología
+UNIVERSIDAD INDUSTRIAL DE SANTANDER FACULTAD DE SALUD ESCUELA DE MEDICINA
+DEPARTAMENTO DE GINECOBSTETRICIA ESPECIALIZACIÓN EN GINECOLOGÍA Y OBSTETRICIA
+BUCARAMANGA 2020
+
+TABLA DE CONTENIDO
+
+Pág.
+
+INTRODUCCIÓN
+
+11
+
+1. JUSTIFICACIÓN
+
+14
+
+2. PREGUNTA DE INVESTIGACIÓN
+
+16
+
+2.1 HIPÓTESIS
+
+16
+
+3. ESTADO DEL ARTE
+
+17
+
+3.1 INTRODUCCIÓN AL TEMA
+
+17
+
+3.2 RESPUESTA SEXUAL FEMENINA
+
+17
+
+3.3 SEXUALIDAD Y CALIDAD DE VIDA
+
+20
+
+3.4 DISFUNCIÓN SEXUAL EN LA PACIENTE ONCOLÓGICA
+
+20
+
+3.5 REPERCUSIÓN DE LA HISTERECTOMÍA EN LA FUNCIÓN SEXUAL 27
+
+3.6 ÍNDICE DE LA FUNCIÓN SEXUAL FEMENINA (FSFI)
+
+30
+
+4. OBJETIVOS
+
+32
+
+4.1 OBJETIVO GENERAL
+
+32
+
+4.2 OBJETIVOS ESPECÍFICOS
+
+32
+
+5. DISEÑO METODOLÓGICO
+
+33
+
+5.1 TIPO DE ESTUDIO
+
+33
+
+5.2 POBLACIÓN
+
+33
+
+5.3 CRITERIOS DE INCLUSIÓN
+
+33
+
+5.4 CRITERIOS DE EXCLUSIÓN
+
+33
+
+5.5 VARIABLES
+
+34
+
+5.6 GRÁFICO ACÍCLICO DIRIGIDO
+
+35
+
+5.7 TAMAÑO DE MUESTRA
+
+36
+
+5.8 PROCEDIMIENTOS
+
+37
+
+5.8.1. Recolección de la información
+
+37
+
+5
+
+5.8.2. Análisis de los datos
+
+37
+
+5.9 ASPECTOS ÉTICOS
+
+40
+
+5.9.1 Tratamiento de datos personales
+
+42
+
+6. RESULTADOS
+
+43
+
+6.1 ANÁLISIS UNIVARIADO
+
+43
+
+6.2 ANÁLISIS BIVARIADO Y MULTIVARIADO
+
+47
+
+7. DISCUSIÓN
+
+52
+
+8. CONCLUSIONES
+
+58
+
+BIBLIOGRAFÍA
+
+59
+
+ANEXOS
+
+66
+
+6
+
+LISTA DE TABLAS
+
+Pág.
+
+Tabla 1. Clasificación de las variables
+
+34
+
+Tabla 2. Cálculo del tamaño de muestra
+
+36
+
+Tabla 3. Características sociodemográficas de la población.
+
+43
+
+Tabla 4. Hábitos y comorbilidades de la población estudiada.
+
+44
+
+Tabla 5. Tratamientos recibidos y estadío del tumor al momento del
+
+diagnóstico.
+
+45
+
+Tabla 6. Tipo de coito y síntomas vaginales
+
+45
+
+Tabla 7. Puntaje promedio en el índice de la función sexual femenina pre y
+
+pos tratamiento quirúrgico.
+
+46
+
+Tabla 8. Análisis bivariado del puntaje por dominios y la presencia de
+
+disfunción sexual pre quirúrgica.
+
+48
+
+Tabla 9. Análisis bivariado de los factores no asociados a disfunción sexual
+
+posquirúrgica
+
+49
+
+Tabla 10. Análisis bivariado del puntaje por dominios y la presencia de
+
+disfunción sexual posquirúrgica.
+
+49
+
+7
+
+LISTA DE FIGURAS
+
+Pág.
+
+Figura 1. Modelo del ciclo de la respuesta sexual femenina.
+
+17
+
+Figura 2. Esquema de las variables de estudio y su relación con las variables
+
+desenlace y la disfunción sexual
+
+35
+
+Figura 3. Distribución del puntaje total de la escala IFSF en el pre y
+
+posoperatorio
+
+46
+
+Figura 4. Distribución de las diferencias en el puntaje por dominios del IFSF 47
+
+8
+
+LISTA DE ANEXOS
+
+Pág.
+
+Anexo A. Formato De Recolección De Información
+
+67
+
+Anexo B. Instrumento De Medición: Cuestionario Índice De La Función Sexual
+
+Femenina
+
+69
+
+Anexo C. Consentimiento Informado
+
+72
+
+9
+
+RESUMEN
+TITULO: EFECTO DEL MANEJO QUIRÚRGICO POR CÁNCER DE CÉRVIX EN LA FUNCIÓN SEXUAL EN MUJERES ATENDIDAS EN EL HOSPITAL UNIVERSITARIO DE SANTANDER* AUTOR: ASTRID PAOLA CUERVO MALPICA** PALABRAS CLAVE: Cuello del útero, disfunción sexual, cirugía. DESCRIPCION :
+La función sexual femenina es uno de los factores determinantes para la salud de la mujer. El objetivo de este estudio es evaluar la repercusión del manejo quirúrgico en la función sexual femenina en pacientes con cáncer de cuello uterino 6 meses posteriores a la intervención mediante un estudio prolectivo de cohorte en el que se aplicó de forma voluntaria el Índice de Función Sexual Femenina (IFSF) a mujeres mayores de 18 años con diagnóstico de cáncer de cérvix, y manejo quirúrgico con vida sexual activa tratadas en el Hospital Universitario de Santander (Colombia) en el año 2019. Resultados: Se incluyeron 61 pacientes. La prevalencia de disfunción sexual prequirúrgica en la población seleccionada fue alta, de 71,6%, IC95% (58,5– 82,5 ) con una leve mejoría a los 6 meses del posoperatorio: prevalencia de 65,5%, IC95% (52,3 – 77,2 ) esta diferencia fue estadísticamente significativa p= 0,03 (test de wilcoxon), con un cambio en el puntaje IFSF pre: 20,9 IC95%(18,9-22,8) y 6 a los meses 22,3 IC95% (20,7-23,9) p: 0,03. La diferencia en el puntaje de la excitación pre y posoperatoria fue estadísticamente significativa (p < 0,001) explicada por el tipo de actividad sexual (kw p < 0,001); con la diferencia entre el tipo de acto sexual coito vaginal o sexo oral y la combinación de los dos métodos (p<0,001), con un OR crudo en la regresión logística de 0,11 IC 95% (0,29 a 0,43). Conclusiones: No se encontró repercusión del manejo quirúrgico del cáncer de cuello uterino sobre la función sexual femenina a los 6 meses de la intervención; ni se establecieron diferencias en IFSF con el tipo de cirugía y uso concomitante de tratamientos coadyuvantes. Existe mejoría en el posoperatorio, la cual es explicada por el tipo de actividad sexual. Palabras clave: Cuello del útero, disfunción sexual, cirugía.
+_______________________________________________________ * Trabajo de grado ** Facultad De Salud, Escuela De Medicina, Directora Rocío Guarín Serrano
+10
+
+ABSTRACT
+TITLE: EFFECT OF SURGICAL MANAGEMENT OF CERVICAL CANCER ON SEXUAL FUNCTION IN WOMEN TREATED AT SANTANDER UNIVERSITY HOSPITAL* AUTHOR: ASTRID PAOLA CUERVO MALPICA** KEYWORDS: Cervix uteri, sexual disfunction, surgery DESCRIPTION: Female sexual function is one of the determining factors for women's health. The objective of this study is to evaluate the impact of surgical management on female sexual function in patients with cervical cancer 6 months after the intervention through a proactive cohort study in which the Female Sexual Function Index was voluntarily applied (IFSF) to women over 18 with a diagnosis of cervical cancer, and surgical management with active sex life treated at the University Hospital of Santander (Colombia) in 2019. Results: 61 patients were included. The prevalence of pre-surgical sexual dysfunction in the selected population was high, 71.6%, 95% CI (58.5–82.5) with a slight improvement 6 months after the operation: 65.5% prevalence, 95% CI (52.3 - 77.2) This difference was statistically significant p = 0.03 (Wilcoxon test), with a change in the pre IFSF score: 20.9 95% CI (18.9-22.8) and 6 at months 22.3 95% CI (20.7-23.9) p: 0.03. The difference in the pre and postoperative excitation score was statistically significant (p <0.001) explained by the type of sexual activity (kw p <0.001); with the difference between the type of sexual intercourse vaginal sex or oral sex and the combination of the two methods (p <0.001), with a crude OR in the logistic regression of 0.11 95% CI (0.29 to 0.43 ). Conclusions: There was no impact of the surgical management of cervical cancer on female sexual function 6 months after the intervention; nor were differences established in IFSF with the type of surgery and concomitant use of adjuvant treatments. There is improvement in the postoperative period, which is explained by the type of sexual activity. Keywords: Cervix, sexual dysfunction, surgery.
+_______________________________________________________ * Degree Paper ** Facultad De Salud, Escuela De Medicina, Directora Rocío Guarín Serrano
+11
+
+INTRODUCCIÓN
+El bienestar sexual es definido por la Organización Mundial de la Salud como el estado de bienestar físico, emocional y mental con respecto al plano sexual; no solamente la ausencia de enfermedad o de disfunción. También es considerado un aspecto importante de la función y el desarrollo humano, además de un derecho (48).
+En pacientes con cáncer de cuello uterino se han evidenciado modificaciones en su desempeño sexual, de la misma forma, las intervenciones quirúrgicas que se hacen como parte de su manejo integral, repercute en su función sexual ya que existe una manipulación de los genitales externos, útero y plexos nerviosos, además de reemplazo del tejido nativo por cicatrices de colágeno (25). Otros autores afirman que la repercusión terapéutica de un procedimiento quirúrgico da un resultado incierto ante una mujer que a pesar de tener una modificación anatómica por el procedimiento quirúrgico puede emocional y socialmente sentirse mejor con la sensación de estar libre de la enfermedad (37).
+Estudios previos han identificado cuatro dominios de la salud sexual que son adversamente afectados por el tratamiento del cáncer ginecológico: la imagen corporal, el funcionamiento del rol de género, el funcionamiento sexual y la fertilidad. Los temas relacionados con la salud sexual influencian la habilidad de las pacientes para adaptarse y convivir con las secuelas del cáncer ginecológico. Apropiadamente, el foco primario del tratamiento del cáncer se centra en erradicar la enfermedad; sin embargo, la salud sexual es raramente tenida en cuenta. En razón a que las mujeres con cáncer ginecológico tienen una patología que directamente afecta los órganos sexuales, no es sorprendente que una gran proporción de ellas reporten problemas sexuales. Además, el estrés psicológico desde el diagnóstico de cáncer y el dolor físico asociado con el tratamiento quirúrgico también puede afectar negativamente la salud sexual (14).
+12
+
+Teniendo claro que la función sexual y por tanto el desempeño sexual está relacionada directamente con la calidad de vida de la mujer (17), se deben analizar como un problema de salud pública. Por lo tanto, es importante conceptualizar y determinar la repercusión de la intervención quirúrgica en este grupo de pacientes, teniendo como puntos de análisis los seis dominios que evalúa el índice de función sexual femenina en Colombia (deseo, excitación, satisfacción, dolor, lubricación y orgasmo) comparando en la misma paciente el desempeño sexual pre y posterior a la intervención (13, 16).
+13
+
+1. JUSTIFICACIÓN
+En pacientes con cáncer de cuello uterino se han evidenciado modificaciones en su desempeño sexual asociado a la enfermedad, de la misma forma cambios relacionados con la intervención quirúrgica que se hace como parte de su manejo integral, ya que existe una manipulación de los genitales externos, útero y plexos nerviosos, además de reemplazo del tejido nativo por cicatrices de colágeno, lo que repercute en su función sexual (1). Teniendo claro que la función sexual está relacionada directamente con la calidad de vida de la mujer (2), se considera relevante determinar en nuestra población donde no hay estudios al respecto; si estas pacientes presentan cambios positivos o negativos con la intervención quirúrgica que se les realice.
+La sexualidad femenina incluye aspectos de índole biológica, psicológica, emocional y social por lo que la repercusión terapéutica de un procedimiento quirúrgico da un resultado incierto ante una mujer que a pesar de tener una modificación anatómica por el procedimiento quirúrgico puede emocional y socialmente sentirse mejor con la sensación de estar libre de la enfermedad (3).
+En nuestro medio, no existen estudios que caractericen y definan la población femenina con cáncer de cuello uterino y su función sexual luego de la histerectomía abdominal ampliada o conización. Este tipo de estudio es factible de realizar dada la alta prevalencia de cáncer de cuello uterino en Colombia (4). Además, como ya se anotó, el desempeño sexual de la mujer tiene relación directa con su calidad de vida lo que lo hace un problema de salud pública. Por lo tanto, es importante conceptualizar y determinar la repercusión de la intervención quirúrgica en este grupo de pacientes, teniendo como puntos de análisis los seis dominios que evalúa el índice de función sexual en Colombia (deseo, excitación, satisfacción, dolor,
+14
+
+lubricación y orgasmo) comparando en la misma paciente el desempeño sexual pre y posterior a la intervención (5, 6).
+15
+
+2. PREGUNTA DE INVESTIGACIÓN En pacientes con cáncer de cuello uterino, ¿la función sexual mejora o empeora luego de seis meses del manejo quirúrgico? 2.1 HIPÓTESIS El tratamiento quirúrgico del cáncer de cérvix, ya sea conización o histerectomía, mejora la función sexual de la paciente.
+16
+
+3. ESTADO DEL ARTE
+3.1 INTRODUCCIÓN AL TEMA
+El bienestar sexual es definido por la Organización Mundial de la Salud como el estado de bienestar físico, emocional y mental con respecto al plano sexual; no solamente la ausencia de enfermedad o de disfunción. También es considerado un aspecto importante de la función y el desarrollo humano, además de un derecho (7).
+3.2 RESPUESTA SEXUAL FEMENINA
+El primer modelo de respuesta sexual femenina fue descrito por Masters y Jhonson en 1966. Este modelo inicia con la fase de excitación caracterizada por edema vulvar y del clítoris, lubricación y estiramiento vaginal, erección de los pezones, incremento de la sensibilidad genital, taquicardia, taquipnea y sensación subjetiva de placer; fase seguida por una meseta en la cual continúa la excitación. El orgasmo es una sensación transitoria pico de placer intenso, creando un estado de conciencia alterado usualmente acompañado por contracción rítmica e involuntaria de la musculatura estriada del piso pélvico, con las correspondientes contracciones anales y uterinas, acompañadas de sensación de bienestar. Muchas mujeres alcanzan el clímax por estimulación directa o indirecta del clítoris, otras pueden experimentar orgasmos durante la penetración vaginal o anal (8).
+Figura 1. Modelo del ciclo de la respuesta sexual femenina.
+17
+
+Fuente: Basson R. A model of women’s sexual arousal. J Sex Marital Ther 2002;28:1–10.
+Se han identificado cuatro estados fisiológicos: - DESEO: El deseo sexual, es una de las muchas razones por las cuales las
+mujeres inician o están de acuerdo con el coito. El deseo y la excitación son entidades diferentes difíciles de distinguir y el deseo no siempre precede la excitación. El deseo puede incluso estar ausente en el inicio de la actividad sexual y luego originarse durante el encuentro sexual. De hecho, el estudio Study of Women Across the Nation reportó que la mayoría de las 3262 mujeres de edad media, de diferentes razas, en Norte América estaban moderada a extremadamente satisfechas con su placer sexual físico, aun cuando nunca sentían deseo. El deseo es originado en el hipotálamo por medio de la activación de la dopamina, lo cual ocurre tempranamente y puede propagarse y activar a otras áreas del cerebro, incluyendo el sistema límbico (9).
+- EXCITACIÓN: La excitación sexual en la mujer resulta en un aumento del flujo sanguíneo genital, hinchando los labios y las paredes vaginales, liberando
+18
+
+secreciones lubricantes desde el tracto genital, y la transudación de la vasculatura subepitelial. El sistema noradrenérgico está involucrado en la excitación a través de la iniciación de las sensaciones autonómicas de excitación resultando en aumento de la frecuencia cardiaca y la presión arterial. La secuencia inicia de la estimulación de las fibras nerviosas sensoriales del clítoris resultando en la transmisión a través de las raíces sacras. El flujo sanguíneo vulvar incrementa por una dilatación neurogénica activa de los espacios sanguíneos sinusoidales en el cuerpo del clítoris, los bulbos vestibulares y el tejido esponjoso rodeando la uretra, resultando en relajación del músculo liso del clítoris y dilatación del músculo liso arterial. Con el incremento de la excitación, la estimulación parasimpática causa dilatación de las arterias dorsal y profunda del clítoris (9).
+- ORGASMO: El orgasmo es una sensación transitoria pico de placer intenso y puede ser descrita como un reflejo. Si la suficiente excitación lleva al orgasmo, un reflejo ocurre que activa fibras simpáticas de T12 a L1 y las ondas de contracción del músculo liso pueden ser mediadas de T12 a L1. Las contracciones rítmicas de los músculos perineales, bulbocavernoso y pubococcígeo, con la liberación súbita de opioides endógenos, serotonina, prolactina y oxitocina. Aunque la estimulación del clítoris no es requerida para alcanzar el orgasmo, se ha demostrado que es parte integral del arco reflejo del orgasmo y puede ser la forma más fácil y común de alcanzar el orgasmo. Los cinco componentes del arco reflejo son: (1) receptores del complejo del clítoris y la vulva; (2) aferencias somáticas de los nervios pudendos, incluyendo el nervio dorsal del clítoris y las ramas perineales; (3) raíces espinales S2 a S4 (4); fibras eferentes parasimpáticas viscerales; y, (5) tejido eréctil final. El orgasmo no es solo el reflejo espinal, también puede involucrar la corteza cerebral (9).
+19
+
+- RESOLUCIÓN: La resolución ha sido asociada con incremento en la actividad serotoninérgica del cerebro y la disminución en la liberación de dopamina. La resolución resulta en la contracción arterial (9).
+3.3 SEXUALIDAD Y CALIDAD DE VIDA
+La salud sexual ha sido identificada como una dimensión importante de la calidad de vida de las mujeres con cáncer ginecológico. Factores como el bienestar psicológico/emocional, tener menos síntomas de enfermedad o menopausia, ser joven, tener pareja y no fumar, están asociados a niveles mayores de satisfacción sexual, por lo tanto, mejor calidad de vida (2).
+El entendimiento de las características pretratamiento de la salud sexual ayudará al personal de salud a una mejor evaluación del impacto del tratamiento sobre la sexualidad y la función sexual en las pacientes con cáncer ginecológico dado que este aspecto de la calidad de vida ha sido poco estudiado. Además, reconocer los cambios potenciales del interés sexual y el deseo desde antes, durante y después del tratamiento puede ayudar a los médicos a preparar mejor a la mujer para la supervivencia en el posoperatorio; lo cual permitirá mayor comprensión para las mujeres que se someten a estos tratamientos (3).
+3.4 DISFUNCIÓN SEXUAL EN LA PACIENTE ONCOLÓGICA
+Estudios previos han identificado cuatro dominios de la salud sexual que son adversamente afectados por el tratamiento del cáncer ginecológico: la imagen corporal, el funcionamiento del rol de género, el funcionamiento sexual y la fertilidad. Los temas relacionados con la salud sexual influencian la habilidad de las pacientes para adaptarse y convivir con las secuelas del cáncer ginecológico.
+20
+
+Apropiadamente, el foco primario del tratamiento del cáncer se centra en erradicar la enfermedad; sin embargo, la salud sexual es raramente tenida en cuenta. En razón a que las mujeres con cáncer ginecológico tienen una patología que directamente afecta los órganos sexuales, no es sorprendente que una gran proporción de ellas reporten problemas sexuales. Además, el estrés psicológico desde el diagnóstico de cáncer y el dolor físico asociado con el tratamiento quirúrgico también puede afectar negativamente la salud sexual (10). Luego de un mes de la intervención quirúrgica el interés sexual disminuye 3.5 puntos; en los siguientes dos meses, aumenta 4.5 puntos y en los siguientes 6 meses tiene un ligero aumento de tan solo 1.4 puntos, para un puntaje final superior a la línea de base; sin embargo, el 28 % de las pacientes afirman no tener deseo sexual “en absoluto” incluso 6 meses después del procedimiento. No se encontraron diferencias en el interés sexual entre pacientes con diferentes cánceres ginecológicos (3).
+La frecuencia de las relaciones sexuales al mes tiende a disminuir, se describe disminución de 6.1 (DE 6.8) veces por mes antes del tratamiento a 2.6 (DE 4.9) después del tratamiento, siendo el sexo menos placentero y experimentando sentimientos de depresión y falta de confianza luego de la cirugía (p=0.001) (11). Ya ha sido demostrado que la quimioterapia y radioterapia administradas luego de la cirugía a pacientes con enfermedad avanzada o de alto riesgo puede llevar a consecuencias a corto o largo plazo en la calidad de vida. De acuerdo a estudios previos, las mujeres frecuentemente experimentan alteraciones serias en la función sexual. La cirugía y la terapia adyuvante pueden dañar las estructuras nerviosas y la función ovárica. Específicamente, en pacientes con cáncer endometrial el 55.9% nunca tienen relaciones sexuales con su pareja después de la cirugía (12).
+Los órganos reproductivos son uno de los determinantes de la identidad “femenina” y tienen un papel importante en la forma corporal y la autoimagen. La enfermedad o ausencia de órganos reproductivos puede ser auto interpretada como pérdida de
+21
+
+feminidad y sentimientos de minusvalía. Los trastornos no están limitados únicamente a infertilidad, sino al efecto negativo sobre el deseo sexual y la dispareunia. Además de la cirugía ginecológica, la quimioterapia también tiene un efecto negativo generalmente durante el primer año de tratamiento, mientras el tiempo pasa, las mujeres son menos ansiosas por su enfermedad, el pronóstico por lo tanto de su vida sexual vuelve a ser bueno. Luego de la quimioterapia, se presenta disminución del interés sexual, lubricación vaginal, pérdida de orgasmos, dispareunia y sensación de reducción en su potencial atractivo sexual en general. Los efectos adversos que agravan la sensación son la fatiga, los cambios en el peso, insomnio, nausea, vómitos, miedo y ansiedad (13). Las mujeres con cáncer ginecológico experimentan disminución del deseo sexual desde el momento del diagnóstico de la malignidad y un tercio de ellas creen que las relaciones sexuales pueden exacerbar la sequedad vaginal (14).
+La radioterapia pélvica es una de las principales modalidades terapéuticas para el cáncer cervical localmente avanzado. Este usualmente comprende una combinación de teleterapia (terapia de radiación externa) y braquiterapia administrada por más de 8 semanas. La quimioterapia concomitante mejora la tasa de supervivencia, el intervalo libre de enfermedad y reduce la recurrencia de metástasis locales y a distancia en pacientes seleccionadas. Cuando no es necesario preservar la fertilidad, la terapia de radiación pélvica puede estar indicada incluso para mujeres con tumores en estadíos iniciales IA1 si hay invasión del tumor al espacio linfovascular. Con la introducción de programas amplios en la prevención del cáncer de cérvix y de técnicas terapéuticas más efectivas, se espera que la mortalidad continúe disminuyendo. Por lo tanto, no solo los efectos físicos de la enfermedad y su tratamiento sino también los psicológicos y sexuales, que son compenentes de la calidad de vida han tomado importancia. Algunos estudios reportan que la radioterapia es la modalidad de tratamiento más asociada con deterioro de la calidad de vida y función sexual en cáncer cervical (11).
+22
+
+Grion y Cols evaluaron la función sexual en pacientes con cáncer de cérvix y radioterapia. El 30% de las mujeres reportaron tener sexo de manera regular en los 3 meses previos a las entrevistas. De estas, el 40% aproximadamente tenían más de un encuentro sexual por semana. Esta frecuencia es más alta que la reportada previamente. La función sexual puede ser afectada por síntomas como el sangrado vaginal durante el coito, siendo esta la principal razón por la cual las mujeres no continúan siendo sexualmente activas. Esta asociación es esperada: ocurre en mujeres con tumores grandes, localmente avanzados y por lo tanto, con riesgo de sangrado. Los síntomas como pérdida del placer durante el coito, dispareunia y sequedad vaginal también fueron comunes, y probablemente tienen orígenes similares. Las mujeres con una enfermedad grave como el cáncer de cérvix manejan altos niveles de estrés: estos factores pueden inhibir su sexualidad. Adicionalmente, pueden sentirse culpables en relación a ellos porque el virus que causa la neoplasia cervical es transmitido por ruta venérea (14).
+Los efectos sexuales en la dimensión física del tratamiento del cáncer ginecológico están bien documentados, pueden resultar en alteraciones en las funciones corporales como cambios en los niveles hormonales y pérdidas de órganos sexuales como la remoción quirúrgica del útero, las trompas de Falopio, ovarios y cérvix, con el daño resultante en los nervios pélvicos. La quimioterapia puede causar limitaciones físicas como fatiga y pérdida permanente de la función ovárica. La radioterapia, puede dañar el tejido vaginal, nervios y vasos sanguíneos. El tratamiento del cáncer ginecológico puede tener igualmente consecuencias psicológicas. La experiencia de tener cáncer y el manejo abrupto asociado a cambios físicos (menopausia inducida quirúrgicamente) puede dejar a la sobreviviente con poco tiempo para ajustarse y resultar en sentimiento de ansiedad o depresión. El estrés psicológico puede tener una fuerte influencia negativa en la sexualidad y en la dimensión social, la incapacidad para comunicar sus preocupaciones al compañero puede limitar la habilidad de la paciente para procesar la situación. Por lo tanto, parte del tratamiento requiere cambios de rol para
+23
+
+ambos, la superviviente y el cuidador o pareja. Wilmoth propuso un modelo sugiriendo las relaciones entre enfermedades crónicas, calidad de vida y sexualidad. Su modelo nota que el impacto de las enfermedades crónicas y sus estrategias de tratamiento asociadas resultan en limitaciones y discapacidades que negativamente afectan la salud. El personal médico debe tener un rol activo en la identificación y tratamiento de la salud sexual femenina, a pesar de las barreras como la falta de conocimiento de las intervenciones efectivas para tales alteraciones (15).
+El principal hallazgo es que las pacientes que sobreviven al cáncer, no difieren de los controles en si son sexualmente activas o en la frecuencia de diferentes tipos de actividad sexual. Sin embargo, más de 5 años después del diagnóstico la única diferencia significativa es que se reporta menor satisfacción sexual. Los estudios sugieren que estos pacientes experimentan un deterioro acelerado de su sexualidad alrededor del momento del diagnóstico, mientras que en individuos libres de cáncer los cambios suceden más gradualmente en el tiempo, pero parece que ambos grupos alcanzan niveles similares de actividad sexual y funcionamiento; aunque los pacientes con antecedente de cáncer pueden estar menos satisfechos con su vida sexual a pesar de niveles de deseo y actividad sexual similar a los controles (16).
+Los cambios sexuales asociados al sitio del tumor llevaron a cambios en todos los parámetros de la vida sexual. Este hallazgo implica que los cambios en la vida sexual pueden ser comunes tanto a otros tipos de cáncer como al cáncer genital. Además, la dosis de quimioterapia es proporciona al estadio del cáncer, y los cambios en la sexualidad son experimentados más agudamente, entre ellos hospitalización extendida, dolor y fatiga. Los cambios en la visión de la vida durante ese periodo y la represión del deseo sexual debido al miedo a la muerte también se piensa que son responsables de la falta de deseo sexual. En un estudio realizado por Eker y Cols en pacientes con cáncer del tracto genital encontraron que la frecuencia sexual, el deseo y la satisfacción fueron más afectados en pacientes que
+24
+
+reciben terapia hormonal, radioterapia y quimioterapia, que en aquellas que son manejadas únicamente con cirugía. Este hallazgo puede ser explicado por el hecho de que el impacto de los efectos adversos sistémicos causados por la terapia hormonal, la radioterapia y quimioterapia continúan por un periodo más prolongado que la cirugía (77).
+Las modificaciones en la función sexual de la paciente con cáncer de cérvix se encuentran ligadas directamente al tipo de tratamiento quirúrgico; estos en estadios tempranos pueden incluir la conización, histerectomía simple, o histerectomía radical con linfadenectomía pélvica. La histerectomía radical está asociada con efectos negativos sobre la salud sexual y la calidad de vida. Las consecuencias a corto plazo sobre la salud sexual incluyen problemas orgásmicos, acortamiento vaginal, dispareunia, linfedema e insatisfacción sexual. Las preocupaciones persistentes son la pérdida del interés sexual (25%), linfedema (19%), entumecimiento de los genitales (71%) y lubricación insuficiente (24%) (18).
+Comparado con la histerectomía simple con histerectomía radical, las pacientes con histerectomía radial experimentan menor flujo sanguíneo vaginal durante la excitación; además empeora la función sexual en todos los dominios de la escala FSFI (INDICE DE LA FUNCION SEXUAL FEMENINA) comparadas con las pacientes que se tratan con conización. Adicional a ello las pacientes tratadas con histerectomía radical comparadas con mujeres sanas, reportan disminución de la función sexual antes y después de la cirugía. La histerectomía radical está asociada con retención urinaria, incontinencia urinaria, estreñimiento y urgencia; estas complicaciones son probablemente debidas a la disrupción de los nervios hipogástricos y esplácnicos durante la cirugía modificando las modificaciones en la inervación. Comparado con la histerectomía radical tradicional, la histerectomía radical con conservación de nervios ha mostrado mejorías a corto y largo plazo en la función vesical e intestinal, menos complicaciones posoperatorias y mejor función sexual (19).
+25
+
+Muchas pacientes con cáncer cervical son diagnosticadas en sus años reproductivos. La edad promedio del diagnóstico es a los 40 años y cerca del 38% de las pacientes son diagnosticadas por debajo de los 45 años. La traquelectomía radical es una opción quirúrgica segura, que conserva la fertilidad para algunas mujeres con cáncer de cérvix en estadios tempranos que aún no han tenido hijos. Las comparaciones longitudinales en pacientes tratadas con traquelectomía radical versus histerectomía radical no mostraron diferencias en el comportamiento, estrés, función sexual y calidad de vida. Muchas mujeres en ambos grupos de tratamiento mostraron depresión, estrés y disfunción sexual, aunque se notó mejoría sobre estos dominios a través del tiempo. Incluso, para la mayoría de las pacientes después de traquelectomía e histerectomía radical, los puntajes del FSFI permanecieron por debajo del punto de corte, sugiriendo disfunción sexual persistente. La terapia de radiación con o sin quimioterapia concurrente juega un rol importante en el tratamiento del cáncer cervical, como terapia primaria o adyuvante. La radioterapia ha sido asociada a mayor lesión vaginal, incluyendo estenosis, acortamiento, atrofia, fibrosis y dispareunia (20). El linfedema y los síntomas menopáusicos negativamente impactaron sobre la calidad de vida a largo plazo. Comparados con los controles de la misma edad, las pacientes con cáncer de cérvix tratadas con radiación tienen significativamente más disfunción sexual y morbilidad vaginal incluyendo disminución de la libido (85%) insatisfacción en la vida sexual (30%), reducción de la dimensión vaginal (50%), dispareunia (55%) y ausencia de lubricación (35%). En conclusión, las pacientes con cáncer de cérvix experimentan disfunción sexual posterior a la cirugía radical y la terapia de radiación. La morbilidad vaginal y la disfunción intestinal y vesical afectan negativamente la salud sexual. Estas morbilidades pueden ser reducidas con la cirugía de conservación de nervios, menos radical. Las mujeres que se someten a traquelectomía radical no están exentas de cambios en la función sexual. La radiación, como terapia primaria o posterior a la cirugía, resulta en el mayor grado de disfunción sexual y morbilidad vaginal (19).
+26
+
+Un estudio realizado en Suiza estableció los resultados a largos plazo del tratamiento del cáncer en la función sexual de la población adolescente y adultos jóvenes entre los 15 y los 29 años, encontrando que las pacientes que sobrevivieron al cáncer tuvieron una menor frecuencia de orgasmos durante la relación sexual comparadas con los controles. De allí que se derive la importancia de la intervención por psicología durante y posterior al tratamiento (21). Por otra parte, en China, se realizó un estudio que incluyó 125 mujeres en posoperatorio de histerectomía radical por cualquier cáncer ginecológico, demostrando que la disfunción sexual aumenta a medida que progresa el tiempo posterior al procedimiento, siendo de 50.5% (50/99), 86.9% (93/107), 92.3% (72/78), antes, al año y a los dos años, respectivamente. Sin embargo, no es clara la relación con la técnica usada, dado que no se especifican las tasas de disfunción sexual en pacientes con histerectomía radical con preservación del nervio hipogástrico (22).
+3.5 REPERCUSIÓN DE LA HISTERECTOMÍA EN LA FUNCIÓN SEXUAL
+Varios estudios han reportado tal efecto. Hasson opinó “el cérvix no es un órgano sin uso y no debe ser removido durante la histerectomía sin una indicación propia… La pérdida de una porción grande del plexo uterovaginal (Frankenhauser) por medio de la escisión del cérvix está asociado a efectos adversos en el deseo sexual y el orgasmo en mujeres quienes previamente experimentaban orgasmos internos”. Muchas mujeres describen la presión cervical como un mecanismo importante para la respuesta coital; para otras, la calidad del orgasmo está relacionado al movimiento del cérvix y el útero, y para esas mujeres la intensidad del orgasmo estará disminuida al remover estas estructuras. Para otras, el orgasmo es logrado principalmente por estimulación del clítoris, así que la pérdida de estas estructuras no tendrá impacto. Tres meses luego de la histerectomía, comparado a antes de la cirugía, la sensibilidad a los estímulos de calor y frío disminuye en las paredes
+27
+
+vaginales anterior y posterior, mientras que la sensibilidad del clítoris no se afecta. Kilkku y cols reportaron en un estudio de 212 mujeres que la remoción del cérvix en la histerectomía total estuvo asociado con una incidencia más baja de orgasmos que en la histerectomía subtotal. Un estudio reciente del Reino Unido basado en un cuestionario 5 años posterior a la cirugía enviado a mujeres que habían sido tratadas por “hemorragia uterina disfuncional” soporta esta diferencia en los efectos de la histerectomía subtotal. De las más de 8900 mujeres que respondieron a las preguntas en relación a su función psicosexual (23), la mayoría reportaron tener “pérdida del interés sexual, dificultad en llegar a ser sexualmente excitadas y sequedad vaginal” que las mujeres con operaciones menos invasivas (biopsia de endometrio, ablación endometrial, histerectomía subtotal con o sin ooforectomía bilateral profiláctica). La terapia hormonal, aunque relacionada con el método quirúrgico, no redujo este efecto a largo plazo (24).
+En un metaanálisis titulado “El rol del cérvix en la respuesta sexual: evidencia a favor y en contra” Grimes en 1999 enfatizó los resultados metodológicos a corto plazo de todos los estudios relevantes, concluyendo que “la evidencia tanto a favor como en contra del rol del cérvix es débil” y que “si el tema es verdaderamente importante para más de medio millón de mujeres estadounidenses que tienen una histerectomía cada año, entonces los ginecólogos tienen la obligación ética de conducir un ensayo clínico aleatorizado definitivo”. Por lo tanto, no hay evidencia clara de que el cérvix no tenga un rol en la respuesta sexual. Pocos estudios consideran preguntarle a una mujer acerca del rol del cérvix en su respuesta sexual. En el caso de la histerectomía subtotal, la sensibilidad cervical podría estar probablemente comprometida por el daño a diferentes nervios sensitivos (25).
+La histerectomía puede tener efectos negativos en la función sexual resultado del daño a estructuras anatómicas de la pelvis. Luego de la remoción completa del útero, hay algún acortamiento de la vagina, el cual puede llevar a dispareunia y sensaciones modificadas. Puede ser razonable que la disrupción de los nervios
+28
+
+autonómicos durante la extracción del útero induzca disfunción sexual. Algunos autores han reportado que la histerectomía induce cambios hormonales debido a la ligadura de las trompas de Falopio y que está asociado con riesgo de falla ovárica prematura. Por otra parte, enfermedades ginecológicas como los miomas uterinos, endometriosis, adenomiosis o prolapso genital, también pueden tener efectos adversos en la sexualidad, de tal manera que la remoción del útero puede corregir la situación e influencian positivamente la experiencia sexual (3).
+La histerectomía simple, ya sea abdominal o vaginal, no afecta de manera adversa la función sexual. En lo respectivo al beneficio potencial de dejar el cérvix in situ, la mayoría de los autores concluyeron que dejarlo in situ no tiene un efecto sobre la sexualidad o la calidad de vida. Específicamente para al histerectomía supracervical laparoscópica aún no hay información disponible sobre beneficios en la función sexual posterior a la intervención (11). La prevalencia del trastorno del deseo sexual hipoactivo en mujeres poshisterectomizadas varía del 23% al 37%, en relación a que el útero y el cérvix pueden ser factores importantes en la fisiología de la sensación orgásmica, afectada por estímulos sensoriales provenientes de las contracciones uterinas. El reconocimiento consciente de estos impulsos sensoriales influencia la experiencia del orgasmo, de tal manera que la histerectomía puede tener influencias negativas en el sistema de retroalimentación en el cerebro (12).
+Pocos estudios han comparado más de dos técnicas quirúrgicas diferentes. En un estudio prospectivo observacional, Roovers y cols compararon histerectomía vaginal, histerectomía abdominal subtotal e histerectomía abdominal total. Este estudio multicéntrico incluyó 413 mujeres a quienes se les realizó histerectomía por enfermedades benignas diferentes a prolapso sintomático o endometriosis. Tuvieron en cuenta placer sexual, actividad sexual y problemas sexuales. No hubo diferencias entre los dos grupos en cuanto a la actividad sexual antes y después de la cirugía. El placer sexual mejoró y la persistencia y desarrollo de problemas durante la actividad sexual fueron similares con las tres técnicas. Notaron además
+29
+
+mejoría en el deseo sexual y la actividad a 3 meses y dos años luego de la cirugía, así como disminución significativa en la incidencia de dispareunia, vaginismo, anorgasmia y pérdida de interés sexual (13).
+3.6 ÍNDICE DE LA FUNCIÓN SEXUAL FEMENINA (FSFI)
+Es una de las escalas más usadas para valorar la función sexual femenina; es citada en más de 1500 artículos. Es un sistema de 19 ítems de autorrespuesta que da puntajes en seis dominios de la función sexual (deseo, excitación, orgasmo, satisfacción y dolor) y un puntaje total que puede discriminar entre mujeres con y sin disfunción sexual. Originalmente fue diseñada por Rosen y cols en el año 2000 con el propósito de medir la excitación, incluso en pacientes en la posmenopausia. Se basa en modelos pasados que definen el deseo como “un sentimiento que incluye querer tener una experiencia sexual, sintiendo receptivo al compañero sexual y pensando en tener sexo”. Durante el desarrollo del índice de función sexual femenina, el factor deseo no fue incluido. Incluso, los ítems de deseo se cargaron al factor excitación, el cual es consistente con el cuerpo de investigación que encuentra significativo sobrelapamiento entre el trastorno del deseo sexual y el de la excitación. Dado que la actual escala de función sexual femenina combina la escala subjetiva de excitación, lubricación y deseo, es una buena herramienta para lograr una medida más precisa de la relación entre estos constructos (21).
+Cada dominio abarca: Deseo (ítems 1 y 2), Excitación (ítems 3 a 6), Lubricación (ítems 7 a 10), Orgasmo (ítems 11 a 13), Satisfacción (ítems 14 a 16) y Dolor (ítems 17,18, 19). Con un puntaje total por dominios de 36 y global de 95. Por ser un cuestionario comparativo y no de tamizaje se decidió utilizar el puntaje total, definiendo como disfuncionales aquellas mujeres quienes presentaron puntaje menor de 26. Actualmente, las adaptaciones de este instrumento se encuentran en
+30
+
+diferentes idiomas, incluyendo chino (26), japonés (27), coreano (28), italiano (29), portugués (30), iraní (31), árabe (32), alemán (33) y urdu (34). Por otra parte, la escala ha sido validada en población femenina con diagnóstico de disfunciones sexuales múltiples (35), deseo sexual hipoactivo (36), mujeres ancianas (37), y con cáncer de mama y de cérvix (38). En Colombia, la escala fue validada en el año 2016 por Vallejo y Pérez en una población de 925 mujeres con edad entre los 18 y los 69 años, solteras o con pareja estable, homo y heterosexuales, residentes en Cali, Bogotá, Medellín, Manizales, Cartagena y Bucaramanga, incluyendo aquellas de estratos socioeconómicos bajos con ingresos de 616000 pesos por mes, con nivel educativo entre quinto de primaria y sexto de bachillerato. Se aplicaron 3 modelos de la encuesta, incluyendo uno abreviado; sin embargo, la más aceptada fue la encuesta con 19 preguntas dado que presenta los 6 ítems de evaluación completos (39).
+31
+
+4. OBJETIVOS
+4.1 OBJETIVO GENERAL
+Evaluar la repercusión del manejo quirúrgico en la función sexual femenina en pacientes con cáncer de cuello uterino, 6 meses posteriores a la intervención.
+4.2 OBJETIVOS ESPECÍFICOS - Establecer la prevalencia de disfunción sexual en pacientes con cáncer de cérvix
+previa al procedimiento quirúrgico. - Establecer la prevalencia de disfunción sexual en pacientes con cáncer de cérvix
+6 meses luego del procedimiento quirúrgico. - Establecer las modificaciones en la respuesta sexual según los seis dominios del
+instrumento: Índice de la Función Sexual Femenina, pre y posterior a la intervención. - Identificar la prevalencia de comorbilidades conocidas como asociadas a disfunción sexual, así como factores de la neoplasia y del tratamiento.
+32
+
+5. DISEÑO METODOLÓGICO
+5.1 TIPO DE ESTUDIO
+Estudio prolectivo de cohorte.
+5.2 POBLACIÓN
+Pacientes con cáncer de cérvix, sometidas a manejo quirúrgico, con o sin radioterapia o quimioterapia asociadas.
+5.3 CRITERIOS DE INCLUSIÓN
+- Pacientes con diagnóstico confirmado de cáncer de cuello uterino (NIC 3 en adelante) y manejo quirúrgico que puede incluir desde conización hasta histerectomía abdominal ampliada, tanto electivas como de urgencia, con o sin quimio o radioterapia asociada, realizado en el Hospital Universitario de Santander.
+- Pacientes con vida sexual activa con pareja heterosexual u homosexual. - Pacientes con edad mayor de 18 años. - Pacientes que aceptan formar parte del estudio firmando un consentimiento
+informado. - Pacientes alfabetas.
+5.4 CRITERIOS DE EXCLUSIÓN
+Inadecuada recolección de la información por dificultades en la comprensión del cuestionario.
+33
+
+5.5 VARIABLES
+
+Tabla 1. Clasificación de las variables
+
+VARIABLE Edad Estado Civil
+Nivel educativo Nivel socioeconómico Ocupación
+
+TIPO Cuantitativa Cualitativa
+Cualitativa Cualitativa Cualitativa
+
+ESCALA Numérica Nominal: Soltera Casada Unión libre Ordinal Ordinal
+Nominal
+
+DEFINICIÓN Años cumplidos al momento del evento Convivencia o no con pareja y vínculo legal
+Último año de estudios aprobado Estrato socioeconómico en el que vive Profesión de la paciente
+
+Religión Peso
+
+Cualitativa Cuantitativa
+
+Nominal Continua
+
+Religión que profesa y aplicación de la escala de Francis Medido en kilogramos
+
+Talla Hábitos
+
+Cuantitativa Cualitativa
+
+Comorbilidades
+
+Cualitativa
+
+Tipo tratamiento quirúrgico
+
+de Cualitativa
+
+Tratamientos asociados
+
+Cualitativa
+
+Estadío del tumor Cualitativa
+
+Estado menstrual Cualitativa
+
+Paridad
+
+Cualitativa
+
+VARIABLES DESENLACE Deseo
+Excitación
+Lubricación
+Orgasmo
+Satisfacción
+Dolor
+Función sexual
+
+Cuantitativa Cuantitativa Cuantitativa Cuantitativa Cuantitativa Cuantitativa Cuantitativa
+
+Continua Nominal Tabaquismo Ejercicio Consumo SPA Nominal Trastornos de la salud mental Enfermedades crónicas Nominal Histerectomía abdominal ampliada Conización Nominal Radioterapia Quimioterapia Numérica I ca in situ II IA1-IB2 III IIA - IIB IV IIIA Nominal Menopausia Edad Reproductiva Nominal Satisfecha No satisfecha
+
+Medida en metros Hábitos de la paciente en los últimos 5 años
+Registro de antecedentes médicos de la paciente
+Tipo de tratamiento quirúrgico que recibió la paciente
+Manejo coadyuvante a la terapia quirúrgica específicamente para cáncer de cérvix Grado de extensión del tumor con respecto a órganos vecinos, ganglios linfáticos y metástasis a distancia
+Deseo o no de gestación futura
+
+Numérica 0-5 Numérica 0-5 Numérica 0-5 Numérica 0-5 Numérica 0-5 Numérica 0-5 Numérica 0-90
+
+Nivel de deseo sexual del paciente calificado de 0 a 5 Nivel de excitación del paciente calificado de 0 a 5
+Grado de lubricación durante la relación sexual calificado de 0 a 5 Capacidad de alcanzar el orgasmo calificado de 0 a 5 Nivel de satisfacción con la relación sexual calificado de 0 a 5 Dolor durante las maniobras sexuales calificado de 0 a 5
+
+34
+
+5.6 GRÁFICO ACÍCLICO DIRIGIDO
+A continuación se representa el esquema de las variables de estudio y su relación con las variables desenlace y la disfunción sexual
+Figura 2. Esquema de las variables de estudio y su relación con las variables desenlace y la disfunción sexual
+
+CONVENCIONES
+
+VARIABLE CAUSAL
+
+RESULTADO
+
+ASOCIACIÓN
+
+SIN ASOCIACIÓN
+
+ LAS FLECHAS INDICAN LA ASOCIACIÓN CAUSA-EFECTO ENTRE LAS VARIABLES
+
+35
+
+5.7 TAMAÑO DE MUESTRA
+
+La hipótesis consiste en que se presenta mejoría de la función sexual luego del manejo quirúrgico, tanto para pacientes con conización como aquellas con histerectomía abdominal ampliada; lo anterior en relación con la tranquilidad que genera el sentirse libre de enfermedad y a la reducción de sangrado con el coito. Los estudios evidencian una prevalencia estimada de disfunción sexual en pacientes con diagnóstico de cáncer de cérvix del 55.9%, el cual, posterior al procedimiento, disminuye hasta ser del 28% (3). Luego de un mes de la intervención quirúrgica el interés sexual disminuye 3.5 puntos; en los siguientes dos meses, aumenta 4.5 puntos y en los siguientes 6 meses tiene un ligero aumento de tan solo 1.4 puntos, para un puntaje final superior al de la línea de base, por lo cual se considera que la intervención, contrario a lo esperado, mejora el funcionamiento sexual y por lo tanto, la calidad de vida.
+
+Teniendo en cuenta los datos previos, con una probabilidad de error alfa de 0.05 y beta de 0.10, se escogió una muestra de 63 pacientes para una prevalencia de disfunción sexual prequirúrgica del 60% y posquirúrgica del 30%. El proceso de cálculo de tamaño de muestra se encuentra en la siguiente tabla de poder.
+
+Tabla 2. Cálculo del tamaño de muestra
+
+Prevalencia
+
+posquirúrgica
+
+50%
+
+40%
+
+538
+
+30%
+
+134
+
+20%
+
+58
+
+10%
+
+31
+
+Prevalencia prequirúrgica
+
+60%
+
+70%
+
+80%
+
+140
+
+63
+
+35
+
+63
+
+36
+
+23
+
+35
+
+23
+
+16
+
+21
+
+15
+
+11
+
+36
+
+5.8 PROCEDIMIENTOS
+5.8.1. Recolección de la información. Identificación de las pacientes: Por medio de la captación de pacientes durante la hospitalización o la consulta de ginecología oncológica previa a la realización de la histerectomía o conización. Posteriormente se realizara seguimiento en la consulta de control post operatorio de dicha especialidad.
+Firma del consentimiento informado para la participación en el estudio, previa lectura del protocolo y respuesta a las dudas de la paciente.
+Aplicación de la encuesta Índice de la Función Sexual Femenina, escala preexistente validada, con dos mediciones: función sexual previa al manejo quirúrgico del cáncer y 6 meses posterior al tratamiento, durante la consulta de seguimiento y control en consulta externa del Hospital Universitario de Santander.
+5.8.2. Análisis de los datos. Se aplicó dos escalas: La escala Índice de la Función Sexual Femenina consta de 19 preguntas, cada una de las cuales tiene entre 5 y 6 opciones de respuesta recibiendo un puntaje entre 0 y 5. El puntaje de cada dominio se multiplica por un factor y el resultado final es la suma aritmética de los dominios. A mayor puntaje, mejor función sexual. Con puntaje mínimo 2 y máximo 36 por dominio y de 95 en total, se considera mejoría en la función sexual al aumento en el puntaje tanto global como por dominios.
+La escala breve de Francis para actitud ante el cristianismo (Francis-5) es un instrumento de cinco ítems que cuantifica la actitud para con Dios, Jesucristo y la oración. Se entiende por religiosidad intrínseca, la vivencia íntima y muy personal de cualquier relación con un ser superior; para algunos autores es sinónimo de espiritualidad. Por otro lado, la religiosidad extrínseca alude a la vida social compartida, los comportamientos observables, públicos, alrededor de cualquier
+37
+
+creencia religiosa (38). La escala de Francis ha sido validada en diferentes escenarios. Se usó en el estudio con el fin de determinar la adherencia a la religión de las pacientes y el impacto del mismo sobre la función sexual. Se definió como alta religiosidad un puntaje igual o mayor a 20 en la escala.
+El análisis de los datos se realizó de la siguiente manera:
+La caracterización de la población se realizó con variables sociodemográficas como: edad, estrato socioeconómico, ocupación y nivel educativo; otras variables clínicas como peso, talla, IMC, Escala de Francis y religiosidad que se organizó como variable dicotómica en alta religiosidad con un punto de corte por encima de 20; hábitos como actividad física, tabaquismo y consumo de sustancias psicoactivas, presencia y tipo de comorbilidades, variables relacionadas con el tumor como: estadio de la enfermedad y variables relacionadas con el tratamiento: tipo de procedimiento quirúrgico y tratamiento coadyuvante radioterapia, braquiterapia, quimioterapia o combinación de los anteriores.
+En términos generales, se realizaron tres análisis, en primer lugar se analizó la disfunción sexual basal o prequirúrgica, un segundo de la disfunción sexual postquirúrgica y un tercer análisis según los cambios en los dominios de la escala de IFSF. En todos los casos se tomó la variable desenlace, variable continua con comportamiento no normal como tal y en forma dicotómica conformándose la variable disfunción sexual ya sea prequirurgica o disfunción sexual a los 6 meses postquirúrgica; considerando disfunción sexual un puntaje igual o menor a 25 en la escala IFSF( con valores entre 0 a 36 totales y por dominios entre 0 y 6) .
+En relación al análisis univariado, las variables se expresaron según su naturaleza, las variables nominales u ordinales, usando medidas de frecuencia absoluta y relativa. Las variables continuas y discretas por medio de medidas de tendencia central. Con el peso y la talla se organizó el índice de masa corporal. La normalidad
+38
+
+de las variables cuantitativas se evaluó de forma gráfica o con la prueba estadistica de Shapiro Wills. Las variables normales se muestran con su media y correspondiente desviación estándar (DE); y las variables cuantitativas de comportamiento no normales se muestran con mediana y recorrido intercuartil (RIQ) correspondiente.
+Para los análisis se colapsaron las principales variables independientes de interés a evaluar como estrato modificado a dos categorias (1: para estrato 1 y 2: para estratos 2 3 y 4 ) , Francis, renombrada Alta religiosidad con dos categorías (alta religiosidad 20 puntos, baja religiosidad < 20 puntos) ,tipo de comorbilidad asociada a dos categorías (cardiovascular y otras, entre las cuales se incluyeron enfermedad mental, Vih y presencia múltiples comorbilidades), tipo de actividad sexual a dos categorías (un solo método: coito vaginal u sexo oral y métodos combinados: coito vaginal más sexo oral) estadio modificado a 4 categorías (1 ca in situ, 2 para estadíos IA1 a IB2, 3 para estadíos IIA y II B y 4 para estadíos IIIA a IIIC),Tratamiento quirúrgico modificado a dos categorías(cirugías conservadoras, incluyendo conización, histerectomía abdominal total e histerectomía abdominal ampliada y cirugías radicales incluyendo histerectomía radical modificada con salpingectomía bilateral o salpingooforectomía bilateral). Uso de tratamientos coadyuvantes a dos categorías (un solo tratamiento, ya sea radioterapia, braquiterapia o quimioterapia y tratamientos múltiples). Las Pacientes con diagnóstico de NIC III se analizaron por intención de tratamiento en el grupo de estadío I.
+El análisis bivariado se realizó de dos formas, tomando la variable desenlace IFSF como variable continua y como variable dicótomica (disfunción sexual basal o pre quirúrgica y disfunción sexual postquirúrgica como se mencionó previamente), entre la variable desenlace y todas las variables independientes; en la tabla 1 se muestra el resumen de las planteadas en los objetivos o aquellas que fueron significativas (p a una cola de 0.05).
+39
+
+Además se realizó un análisis de los dominios de la escala IFSF, comparando el puntaje individual de cada dominio y el global medido en el momento pre quirúrgico y a los 6 meses de realizados los procedimientos quirúrgicos mediante pruebas paramétricas de t de student en caso de medias o prueba de Wilconxon o de signos o prueba de suma de rangos si se comparaban medianas considerando significativa una p <0.05 a dos colas. Adicionalmente se realizó análisis bivariado entre las variables de interés o con significancia estadística en el resto de análisis y la mediana de la diferencia de cambio en el dominio de excitación, mediante prueba no paramétrica de Kruskal Wallis.
+Finalmente se realizó análisis multivariado con las variables que en el modelo univariado (regresión logistica o lineal según correspondiera) o bivariado fueron estadísticamente significativas. Para cada una se calculó el OR crudo o ajustado con su correspondiente IC 95%.
+5.9 ASPECTOS ÉTICOS
+Los estudios clínicos y la investigación biomédica son fundamentales para mejorar el bienestar y la salud del entorno social y de cada individuo. Deben respetarse ciertas condiciones que garanticen el respeto a la vida, a la dignidad del paciente y a considerar la investigación como un medio que se ajuste a los principios subalternos de procurar la salud. A lo largo de este estudio se constata la adecuación del documento de la Declaración de Helsinki, la Declaración de Belmont, la Ley de protección de datos y la Resolución 008430 del 04 de octubre de 1993/Ministerio de Salud, sobre las especificaciones del consentimiento informado. Según la Resolución 008430 del 04 octubre de 1993/Ministerio de Salud, dentro de la clasificación de riesgos, consideramos que el estudio es de riesgo mínimo, dado
+40
+
+que se trata de la recolección prospectiva de los datos, esto es, el seguimiento activo de las pacientes a los 6 meses del manejo quirúrgico, en el que se tocarán temas sensitivos y propios de la conducta del individuo como lo es la sexualidad bajo el contexto de una enfermedad que afecta directamente los órganos sexuales pero que por sus implicaciones en cuanto a supervivencia tienen un componente psicológico claro. Por lo anterior, se aplicará el consentimiento informado a todas las pacientes, en presencia de un testigo, explicando el objetivo del proyecto, la aplicación a futuro, la posibilidad de dejar el estudio en cuanto lo deseen y el derecho a tener información sobre los avances del mismo.
+El principio de autonomía se aplicará dado que la paciente escoge libremente su participación en el estudio, puede solicitar información sobre los datos recolectados y manifestar su deseo de retirarse del estudio. En ningún momento las pacientes serán coaccionadas para dar su consentimiento, ni se plantearán beneficios más allá de los propios resultados de la investigación.
+El objetivo del estudio es la valoración de la función sexual, la relación con el cáncer de cérvix y su tratamiento, buscando el beneficio de la paciente al tener en cuenta aspectos biopsicosociales como la religiosidad, el nivel socioeconómico, la presencia de una pareja estable y las comorbilidades; dado que el aspecto sexual pocas veces es abordado en el momento de tratar la paciente oncológica.
+Por otra parte, el estudio no tiene una repercusión negativa en las participantes, dado que no se realizará una intervención de riesgo, la aplicación de la encuesta debe cumplir el requisito de la autorización de la paciente previa aclaración de dudas sobre el estudio y las preguntas del cuestionario. Se mantendrá el anonimato de las pacientes en el momento de mostrar los resultados finales. En nuestro estudio no se incluyen actividades científicas tendientes al estudio de medicamentos y productos biológicos para uso humano ni es necesaria la toma de muestras de fluidos corporales.
+41
+
+Las pacientes incluidas en el estudio recibirán un trato justo, con la capacidad de acceder a la información que soliciten sin discriminación alguna, sea verbal o escrita, la respuesta del cuestionario será de manera individual y con la privacidad necesaria. Se tendrán en cuenta datos recogidos sin exclusión por religión, estado civil, estado menstrual, trastornos de salud mental o grado de invasión tumoral. En caso de que la paciente manifieste inestabilidad emocional en relación al cuestionario o precise de valoración en salud mental, se contará con la colaboración del Dr Douglas Enrique Quintero Latorre especialista en psiquiatría de la Pontificia Universidad Javeriana y psiquiatra de enlace el Hospital Universitario de Santander para el área de ginecología y obstetricia, con disponibilidad de 8 horas semanales para la atención de pacientes de lunes a jueves. 5.9.1 Tratamiento de datos personales. Los datos personales como nombre de los participantes y número de documento serán manejados con confidencialidad y en ningún momento serán revelados. Los datos que se usarán para el análisis de resultados ser serán tomados de las respuestas dadas por las pacientes en la encuesta Índice de la Función Sexual Femenina, así como del formato diligenciado de variables socioeconómicas y comorbilidades.
+42
+
+6. RESULTADOS
+
+6.1 ANÁLISIS UNIVARIADO
+
+La población estudiada fueron pacientes con diagnóstico desde carcinoma in situ, NIC III hasta estadíos IIIB, todas tratadas en el Hospital Universitario de Santander y recolectadas entre Enero a Diciembre de 2019. Al inicio del reclutamiento se invitaron a participar 63 pacientes, de las cuales 2 no aceptaron responder la encuesta.
+
+Tabla 3. Características sociodemográficas de la población.
+CARACTERÍSTICA
+Religiosidad (Escala de Francis) Estado civil
+ Soltera  Casada  Unión libre  Divorciada Nivel educativo  Primaria  Secundaria  Bachillerato  Técnica  Tecnología  Profesional Estrato Socioeconómico  Uno  Dos  Tres y Cuatro Ocupación  Hogar  Comerciante  Modista  Oficios varios  Estudiante  Profesora  Aseadora Menopausia
+
+N (%)
+
+46
+
+(75,0)
+
+11
+
+(18,0)
+
+23
+
+(37,7)
+
+26
+
+(42,6)
+
+1
+
+(1,6)
+
+27
+
+(44,2)
+
+12
+
+(19,6)
+
+11
+
+(24,5)
+
+2
+
+(3,2)
+
+4
+
+(6,5)
+
+1
+
+(1,6)
+
+13
+
+(21,3)
+
+37
+
+(60,6)
+
+11
+
+(18,0)
+
+48
+
+(78,6)
+
+7
+
+(11,4)
+
+1
+
+(1,6)
+
+1
+
+(1,6)
+
+1
+
+(1,6)
+
+2
+
+(3,2)
+
+1
+
+(1,6)
+
+14
+
+(22,9)
+
+Dentro de las características principales (tabla 3) la edad promedio fue de 45 años, el peso de 65.3 kg y el IMC de 26,3 kg/m2 sc (25-27,7); la mayoría de las pacientes
+
+43
+
+pertenecían a estrato socioeconómico dos, tenía escolaridad primaria, se dedicaban al hogar y convivían con su pareja en union libre. La prevalencia de tabaquismo fue baja, así como la de actividad física como hábito (19,6%), las enfermedades cardiovasculares (tabla 4) constituyeron el 57,8% del total de patologías incluyendo en este grupo diabetes mellitus, hipertensión arterial, infarto agudo de miocardio y cardiopatías; las enfermedades psiquiátricas y la infección por VIH, tuvieron una prevalencia de 4,9% y 1,6 5 % respectivamente. La religiosidad alta tuvo un porcentaje del 75%
+
+Tabla 4. Hábitos y comorbilidades de la población estudiada.
+CARACTERÍSTICA Hábitos
+ Tabaquismo  Actividad física  Consumo de SPA Presencia de Comorbilidades  Cardiovascular  Enfermedad mental  Infección por VIH  Múltiples  Ninguna Morbilidad agrupada  Cardiovascular  Otras 
+
+N (%)
+5 (8,2) 12 (19,6) 2 (3,2)
+11 (18) 3 (4,9) 1 (1,6) 4 (6,56) 42 (68)
+11 (57,8) 8 (42,1)
+
+En el aspecto tumoral (tabla 5), específicamente estadío el 44,4% de las pacientes se encontraban en estadíos tempranos de la enfermedad, IAI a IB2 , seguidas por carcinoma in situ y NIC III, por lo que fueron candidatas a resección quirúrgica, siendo el procedimiento más frecuente la histerectomía radical modificada mas linfadenectomía pélvica y salpingooforectomía bilateral (55,7%). Del total de pacientes, el 32,5% recibieron tratamiento coadyuvante, principamente radioterapia externa.
+
+44
+
+Tabla 5. Tratamientos recibidos y estadío del tumor al momento del diagnóstico.
+CARACTERÍSTICA Cirugía realizada
+ Histerectomía abdominal ampliada mas salpingectomía bilateral  Histerectomía radical modificada mas linfadenectomía pélvica y
+salpingectomía bilateral  Histerectomía radical modificada mas linfadenectomía pélvica y
+salpingooforectomía bilateral  Histerectomía abdominal total  Conización Tratamiento coadyuvante  Radioterapia  Braquiterapia  Quimioterapia Tratamiento combinado  Radio y braquiterapia  Radio, braqui y quimioterapia  Radio y quimioterapia Sin tratamiento coadyuvante
+
+N (%)
+11 (18) 9 (14,7)
+34 (55,7)
+2 (3,2) 5 (8,2)
+7 (11,4) 2 (3,2) 1 (1,6)
+3 (4,9) 2 (3,2) 5 (8,2) 41 (67,2)
+
+En cuanto a los síntomas de disconfort vaginal (tabla 6), el 60,6% de las pacientes
+
+refieren sequedad vaginal y solo el 22,9% se encontraban en la menopausia, otros
+
+síntomas como estenosis vaginal, acortamiento fueron menos prevalentes. Gran
+
+parte de las pacientes (63,3%) tuvieron coito vaginal, seguido por coito vaginal
+
+acompañado de sexo oral (24,5%) y solo sexo oral (13,1%), proporción que se
+
+mantuvo en el posquirúrgico.
+
+Tabla 6. Tipo de coito y síntomas vaginales
+
+CARACTERÍSTICA
+Factores vaginales  Acortamiento  Sequedad  Estenosis  Linfedema
+Tipo actividad sexual basal  Coito vaginal  Sexo oral  Oral y vaginal  Coito anal
+Tipo de actividad sexual posoperatoria  Coito vaginal  Sexo oral  Oral y vaginal  Coito anal
+Disfunción sexual pre quirúrgica
+Disfunción sexual posquirúrgica
+
+N (%)
+22 (36,0) 37 (60,6) 6 (9,8) 2 (3,2)
+38 (62,3) 8 (13,1) 15 (24,5) 0
+41 (67,2) 2 (3,2) 18 (29,5) 0 44 (72,1) 41 (67,2)
+
+45
+
+Una vez aplicada la encuesta del Índice de la Función Sexual Femenina, se evidenció una prevalencia de disfunción sexual pre quirúrgica del 71,6%, IC95% (58,5– 82,5 ), con puntajes más bajos en los dominios de deseo y excitación y una prevalencia de disfunción sexual posquirúrgica del 65,5%, IC95% (52,3 – 77,2 ) p= 0,03 (Figura 3) con el puntaje más bajo en los dominios dolor y deseo, la diferencia global fue de 6,1% estadísticamente significativo y una diferencia entre puntaje por dominios con tendencia a la mejoría posterior a la cirugía (tabla 7- Figura 4).
+Figura 3. Distribución del puntaje total de la escala IFSF en el pre y posoperatorio
+Tabla 7. Puntaje promedio en el índice de la función sexual femenina pre y pos tratamiento quirúrgico.
+46
+
+Dominios
+Deseo Excitación Lubricación Orgasmo Satisfacció n Dolor Total
+
+Puntaje
+
+pre
+
+tratamiento
+
+Mediana (RI)
+
+Puntaje pos tratamiento Mediana (RII)
+
+Diferencias
+
+3,0 (2,4 a 3,5) 3,0 (2,4 a 3,9) 3,6 (2,7 a 5,4) 3,6 (2,4 a 4,4) 4,8 (2,8 a 5,6)
+
+3,1 (2,4 a 3,6) 3,6 (2,1 a 4,5) 4,2 (3,6 a 4,8) 3,6 (2,2 a 4,2) 4,4 (2,8 a 5,2)
+
+0,0 (-0,6 a 0,6) 0,6 (0,0 a 1,2) 0,3 (-0,6 a 1,2) 0,4 (-0,4 a 0,8) 0,0 (-0,8 a 1,2)
+
+3,6 (2,4 a 4,8) 3,6 (3,2 a 4,8) 0,0 (-0,4 a 0,4) 20,9 (18,9 a 22,8) 25,3 (20,7-23,9) 1,5 (-0,9 a 5,2)
+
+Prueba Estadística (Wilcoxon=*) (Tstudent=x)
+0,83 (x) <0,001 (x) 0,08 (*) 0,08 (x) 0,88 (*)
+0,08 (x) 0,03 (x)
+
+El puntaje en la escala del IFSF previo al tratamiento tiene un promedio de 20,9 puntos con un rango intercuartil entre 18,9 y 22,8. El puntaje en la escala del IFSF posterior al tratamiento tiene un promedio de 25,3 puntos con un rango intercuartil entre 20,7-23,9.
+
+Figura 4. Distribución de las diferencias en el puntaje por dominios del IFSF
+
+6.2 ANÁLISIS BIVARIADO Y MULTIVARIADO 47
+
+En el análisis bivariado, teniendo en cuenta el puntaje pre quirúrgico como variable continua, se encontraron diferencias significativas en tres variables: disfunción sexual pre tratamiento según estrato socioeconómico agrupado (p=0,02), según tipo de comorbilidad (p=0,01) y según tipo de actividad sexual basal (p=0,00). El puntaje por dominios tanto del grupo sin disfunción sexual pre quirúrgico como del grupo con disfunción se presenta en la tabla 6 como media y DE, así mismo, se presenta la media de las variables continuas evaluadas: edad, IMC y escala de religiosidad (Francis).
+
+Tabla 8. Análisis bivariado del puntaje por dominios y la presencia de disfunción sexual pre
+
+quirúrgica.
+
+Variables Edad IMC FRANCIS Deseo Excitación Lubricación Orgasmo Satisfacción Dolor
+
+Función sexual previa normal 45,11 (7,06) 25,99 (3,31) 17,76 (5,22) 4,34 (0,96) 4,35 (0,97) 5,43 (0,79) 4,8 (1,07) 5,38 (0,51) 4,51 (0,98)
+
+Disfunción sexual previa 45,09 (12,05) 26,39 (4,31) 18,68 (2,83) 2,71 (0,88) 2,58 (1,31) 3,00 (1,57) 2,77 (1,55) 3,33 (1,90) 3,53 (1,44)
+
+En el puntaje total de la escala del índice de la función sexual femenina posquirúrgico, no se encontraron diferencias estadísticamente significativas entre disfunción sexual posquirúrgica y la edad, peso, IMC, estrato, estado civil, educación, ocupación, índice de religiosidad, tabaquismo, consumo de sustancias psicoactivas o actividad física (tabla 9). La presencia de comorbilidades tampoco tuvo asociación (p=0.564), ni cuando se realizó el análisis por subgrupos divididos en enfermedad cardiovascular y otras (entre las cuales se incluyeron trastornos psiquiátricos e infecciosos). La menopausia no fue un factor asociado a disfunción sexual posquirúrgica (p=0,35). Con respecto a los factores vaginales evaluados no se encontró asociación entre acortamiento (p 0,57), linfedema (p 0,55), estenosis (p 0,16) o sequedad (p 0,27) y alteraciones en el puntaje final de índice de función sexual femenina. No hay diferencias entre disfunción sexual y estadio del cáncer (p
+
+48
+
+0,88), ni entre el tipo de procedimiento quirúrgico y el puntaje total de la escala, cuando los datos se agrupan en cirugías radicales versus cirugías conservadoras como la conización y la histerectomía abdominal total (p 0,55). Con respecto al tratamiento coadyuvante, no hubo diferencias en los puntajes totales de pacientes con tratamiento único (radioterapia o braquiterapia o quimioterapia) en contraste con las pacientes que recibieron múltiples tratamientos (p 0,56).
+
+Tabla 9. Análisis bivariado de los factores no asociados a disfunción sexual posquirúrgica
+
+VARIABLES
+Presencia de morbilidad Tipo de comorbilidad Tipo de procedimiento quirúrgico Tipo de procedimiento agrupado Tratamiento coadyuvante Estrato Estado civil Educación Ocupación Tabaquismo Actividad física Consumo de sustancias psicoactivas Menopausia Estenosis vaginal Sequedad vaginal Religiosidad Tipo de actividad sexual
+
+PRESENCIA DE DISFUNCIÓN SEXUAL POSQUIRÚRGICA
+Test de Kruswal wallis (p) 0,33 0,82 0,47 0,85 0,50 0,98 0,78 0,75 0,54 0,53 0,34 0,55 0,24 0,08 0,23 0,40 0,03
+
+Al realizar análisis tomando el resultado de la escala de disfunción sexual como variable continua, se comparó si existían diferencias en la mediana del Índice de la Función Sexual Femenina (IFSF) en cada uno de los grupos de las variables confusoras, de tal manera que se encontró diferencia significativa en la mediana del índice de disfunción según los tres tipos de actividad sexual practicado hallando mejoría en las pacientes que combinan coito vaginal con sexo oral.
+
+Tabla 10. Análisis bivariado del puntaje por dominios y la presencia de disfunción sexual
+
+posquirúrgica.
+
+Variables Edad
+
+Función sexual normal posterior 42.4 (7,91)
+
+Disfunción sexual posterior 46.41463 (11,87)
+
+49
+
+IMC FRANCIS Deseo Excitación Lubricación Orgasmo Satisfacción Dolor
+
+25.8265 (3,74) 18.25 (4,74) 3.93 (0,83) 4.875 (1,76) 5.04 (0,74) 4.58 (1,01) 5.14 (0,77) 4.28 (0,91)
+
+26.50585 18.5122 2.836585 3.212195 3.6 3.209756 3.629268 3.541463
+
+(4,19) (3,07) (0,79) (1,20) (1,22) (1,25) (1,36) (1,07)
+
+En la tabla 10 se muestra la media y DE del puntaje del IFSF por dominios en pacientes tanto con disfunción sexual posquirúrgica como en aquellas con función sexual normal, así mismo se relacionan las variables continuas evaluadas edad, IMC y escala de religiosidad.
+
+En el análisis bivariado al evaluar la disfunción sexual prequirurgica (trabajando como variable continua), se encontró una diferencia significativa en la variable tipo de actividad sexual (kw p < 0,001) y al realizar la prueba y establecer comparaciones especificas se encontró que había diferencia entre el tipo de acto sexual coito vaginal y sexo oral (p < 0,001), entre coito vaginal y sexo oral combinado con vaginal (p<0,001) y entre sexo oral y la combinación de los dos métodos (p<0,001). Al trabajar la variable como dicotómica se mantiene la asociación entre disfunción sexual pre quirúrgica y tipo de actividad sexual en el test de Fisher (p=0,004), con un OR crudo en la regresión logística de 0,11 IC 95% (0,29 a 0,43) (p=0,002);
+
+Se encontró además asociación entre disfunción sexual prequirúrgica y estrato modificado (p=0,02), sin embargo al realizar el análisis univariado de regresión logística se perdió la medida de efecto.
+
+Al evaluar la disfunción sexual posquirúrgica como variable continua se obtuvo un resultado significativo para tipo de actividad sexual (p=0,03), la cual al ser trabajada como dicotómica mantuvo significancia estadística al comparar las pacientes que usan un solo método de actividad sexual en contraste con las que combinan sexo
+
+50
+
+oral con coito vaginal (p=0,05), asociación que en el análisis univariado con regresión logística manteniendo la variable dicotómica dio un OR crudo de 0,24 IC 95% (0,07 a 0,77) (p=0,01). En el análisis del comportamiento de la diferencia entre el puntaje por dominios y las variables de estudio, se encontró una asociación estadística entre diferencia en la excitación y el tipo de actividad sexual (p=0,03), sin embargo al realizar el análisis multivariado usando regresión lineal se perdió el efecto con un OR 0,38 IC 95% (0,06 a 2,12) p=0,273. El efecto del cambio en la excitación según el tipo de actividad sexual explica el 3% de los casos.
+51
+
+7. DISCUSIÓN
+En el presente estudio se encontró una alta prevalencia de disfunción sexual pre tratamiento (71,6 %) en pacientes con cáncer de cérvix del Hospital Universitario de Santander, con una disminución con significancia estadística en posoperatorio (65,5%) principalmente causada por la diferencia en el dominio excitación explicada por el tipo de coito de la paciente, siendo un factor protector la combinación de coito vaginal con sexo oral, reduciendo la disfunción sexual en un 76%. No se encontró asociación entre las características de la población, tipo de procedimiento quirúrgico, estadio de la enfermedad y puntaje final en el IFSF. En Colombia, no hay estudios que evalúen el efecto de la resección quirúrgica del cáncer de cuello uterino en la función sexual y permitan comparar estos resultados con una población similar.
+En el posquirúrgico no se encontraron diferencias estadísticamente significativas en el puntaje total de la escala y las características de las pacientes, ni entre el tipo de manejo quirúrgico, la presencia o no de comorbilidad y la administración de radio, quimio y braquiterapia. Estos hallazgos son consistentes con el estudio realizado por Marloes Derks en el 2016 (40), que incluyó mujeres con cáncer de cuello uterino en estadios tempranos, diagnosticadas entre los años 2000 y 2010, menores de 70 años, quienes en cuanto a calidad de salud global y función sexual, no tuvieron diferencias entre manejo con radioterapia o histerectomía radical. Sin embargo, las pacientes tratadas con radioterapia mostraban más síntomas como diarrea.
+Otro estudio llevado a cabo en el año 2012 por Francesco Plotti (41), evaluó pacientes con cáncer de cérvix y manejo quirúrgico, con una muestra similar al estudio actual, de 56 pacientes. 23 con histerectomía radical modificada y 33 con histerectomía radical clásica, con resultados contrarios al nuestro, dado que las mujeres con histerectomía radical modificada tuvieron mejor calidad de vida y mayor
+52
+
+placer sexual, lo cual puede estar en relación con el tiempo de seguimiento más largo, de 24 meses, en contraste con 6 meses. Este mismo autor en el 2018 (42) realizó otro estudio prospectivo que incluyó 90 pacientes manejadas con histerectomía radical por cáncer de cérvix, las cuales mostraron en su mayoría buen estado de salud global en el seguimiento, siendo la constipación el síntoma más frecuente. En general, la satisfacción sexual se describió como buena. El estudio afirma que la calidad de vida de las mujeres con Histerectomía radical vuelve a la normalidad luego de mínimo 36 meses del posoperatorio, por lo que puede que sea necesario realizar más adelante estudios similares con seguimiento a largo plazo.
+Por otra parte, en la institución donde se desarrolló el proyecto no se practican cirugías laparoscópicas, por lo que no fue posible incluir esta técnica quirúrgica en el análisis, tal como se muestra en un estudio realizado por Maurizio Serati en el 2009 (43), que incluyó 38 mujeres con histerectomía (20 laparoscópica, 18 por laparotomía), y 35 mujeres de grupo control, sanas, encontró luego del seguimiento a 6 meses que las pacientes sometidas a histerectomía tienen implicaciones sexuales independientemente de la técnica utilizada y que la laparoscopía no mostró reducción significativa de las molestias sexuales, por lo que hay revisiones sistemáticas, como la realizada por Isabella D.White (44), en la que se documenta que independiente del manejo para cáncer de cérvix, habrá disfunción sexual, sin embargo, no hay un método de evaluación claro que incluya todas la variables que se requieren para una vida sexual plena, las cuales son diferentes dependiendo del entorno del individuo, por lo que es posible, que en el estudio actual aún se deban incluir más variables que expliquen la alta prevalencia de disfunción sexual prequirúrgica y por lo tanto, la escasa mejoría en el posoperatorio. Lo anterior se fundamenta en el artículo publicado en el año 2014 por Shuang Ye (45), en el que luego de una revisión sistemática se establece que existe una clara asociación entre las intervenciones propuestas para el manejo de lesiones en cérvix y la disfunción sexual tanto física como psicológica, de las cuales destacan la depresión por su aumento con el paso de los años; mientras en nuestro estudio, la muestra de
+53
+
+pacientes con trastorno depresivo fue escasa, lo que puede deberse a falta de diagnóstico o de consulta oportuna y remisión al servicio de psiquiatría.
+En el estudio actual, no se tuvo en cuenta la preservación nerviosa dentro de los métodos quirúrgicos como en una revisión sistemática del año 2017 realizada por Giorgio Bogani (46), que incluyo 7 estudios con 657 pacientes se evaluó directamente la repercusión del manejo quirúrgico en mujeres con histerectomía radical mínimamente invasiva con preservación nerviosa y encontró que tuvieron menos disfunción sexual y de piso pélvico posterior, además con un tiempo quirúrgico menor pero con sangrado o tasas de complicaciones similares a la histerectomía radical mínimamente invasiva sin preservación nerviosa.
+Con respecto a procedimientos conservadores, como la conización, en este estudio no se encontró diferencia en el puntaje del IFSF, sin embargo, si se evidenció una diferencia entre el puntaje en el dolor pre y pos tratamiento que fue estadísticamente significativa, en favor de la cirugía conservadora. Lo anterior esta en ralacion con un estudio del 2012 realizado por Taejong Song (47) que incluyó 81 mujeres con procedimientos quirúrgicos para cáncer de cérvix. De las cuales: 39 fueron a conización cervical, 18 a traquelectomía y 24 a histerectomía radical, encontrando que no había cambios en la función sexual de pacientes con cono, en contraste con mujeres que se sometieron a traquelectomía o histerectomía radical en quienes hubo afectación por igual; el sesgo fue la aplicación retrospectiva del IFSF pre tratamiento.
+Un estudio transversal publicado en el 2017 por Saketh R. Guntupalli (48) incluyó 208 mujeres entre 18 y 89 años, activas sexualmente con algún tipo de cáncer ginecológico, con o sin tratamiento, a quienes se aplicó la encuesta IFSF, el análisis mostró mayor disfunción sexual posterior a cualquier tratamiento para el cáncer, así como el aumento de problemas psicológicos (ansiedad, depresión, disminución de seguridad). Sin embargo, no hubo aumento de problemas matrimoniales, esto
+54
+
+sugiere que las relaciones suelen mantenerse fuertes a pesar del auto conflicto de la mujer con su función sexual, aspecto que no fue evaluado en nuestro estudio. Sin embargo, en este caso existe un sesgo y es que la encuesta no demuestra el momento exacto de la aparición disfunción sexual (antes o después de tratamiento) y que la recolección de la información se basó en preguntar por sentimientos del pasado, de manera que es poco confiable y contrasta con nuestro estudio, en el que no se encontró deterioro en la función sexual.
+El aspecto psicológico es importante, incluso en mujeres con lesiones premalignas asociadas a infección por VPH como se muestra en un estudio del 2016 realizado por Eva Nagele (49), en el que las pacientes referían sentimientos de angustia psicosexual y miedo a la progresión de las lesiones, especialmente en aquellas con lesiones vulvares a pesar de la lenta progresión de las mismas y su potencial regresión espontánea. Sugiriendo que la afectación psicosexual no depende solo de diagnósticos malignos o de alto grado. Cabe anotar que la encuesta tuvo una limitada tasa de respuesta (67%) y la población era principalmente caucásica de alto nivel socioeconómico y educativo, muy diferente a la que se usó en este estudio. En el actual estudio, cuando se analizó la función sexual prequirúrgica se encontró asociación entre el puntaje del IFSF preoperatorio y variables como estrato socioeconómico, tipo de comorbilidad y tipo de actividad sexual basal; las cuales, con el cálculo de la mediana del IFSF muestran una asociación principalmente con el tipo de actividad sexual pre, ya sea solo coito vaginal, solo sexo oral o coito vaginal más sexo oral, en favor de las pacientes que combinan los dos métodos, con un puntaje máximo de 27,3.
+Por otra parte, C.E. Bretschneider en el 2017 (50) evaluó 185 mujeres con intervenciones quirúrgicas oncológicas, independientes del tipo de cáncer ginecológico diagnosticado y encontró que el interés sexual se encuentra disminuido previo a la cirugía concordante con nuestro estudio, en el que se obtuvo un puntaje bajo en el dominio del deseo, al parecer por la angustia del diagnóstico.
+55
+
+Posteriormente disminuye aún más en la primera entrevista pos operatoria, sin embargo, el deseo e interés sexual aumenta conforme las incomodidades posquirúrgicas resuelven en el seguimiento al mes, 3 y 6 meses, por lo que una herramienta importante a considerar debe ser el seguimiento por intervalos de tiempo, con el fin de comparar no solo la disfunción basal, sino la evolución del puntaje en dichos intervalos. El sesgo del estudio descrito fue que solo se abordó deseo sexual. En contraste con nuestro estudio, en el que se tuvieron en cuenta los puntajes en la diferencia de los dominios, encontrando asociaciones estadísticamente significativas entre dicha diferencia y algunas variables. Entre estas, las pacientes con estadíos tempranos de la enfermedad, es decir carcinoma in situ y alteraciones tempranas como NIC III mostraron una ligera mejoría en la dispareunia y las pacientes con estadíos avanzados presentaron deterioro del dolor en el posoperatorio. Así mismo, la cirugía conservadora mostró un aumento en el puntaje del dolor (favorable en la escala) y una reducción cuando se trató de procedimientos radicales. Por otra parte, la diferencia en el deseo y el orgasmo fue mayor y hacia mejoría en las pacientes que combinaron coito genital con sexo oral y en pacientes que tenían comorbilidades cardiovasculares comparadas con pacientes con enfermedad mental o infecciosa, en este mismo grupo se evidenció una reducción en la excitación durante el posoperatorio.
+Las fortalezas del estudio están constituidas principalmente por el tipo de población, el diseño del estudio prolectivo, lo cual permitió recoger la información de manera confiable, la encuesta fue diligenciada por cada una de las pacientes de manera presencial en el prequirúrgico, se tuvo en cuenta el puntaje por dominios y la diferencia entre ellos en el pre y posquirúrgico, encontrando diferencias significativas a partir de las cuales es posible recomendar el uso de dos métodos de actividad sexual para la prevención de la disfunción en el posoperatorio. Dentro de los posibles sesgos en la selección, algunas encuestas posquirúrgicas o datos faltantes se recolectaron por medio de llamada telefónica, el seguimiento se realizó a los 6 meses del posoperatorio pero no se tuvo en cuenta la evolución a intervalos
+56
+
+de tiempo y no se hizo un seguimiento a largo plazo. Además, algunas variables como el IMC y el tipo de comorbilidad podrían estar asociadas a disfunción sexual, sin embargo se requiere un tamaño poblacional mayor para demostrar este efecto.
+57
+
+8. CONCLUSIONES
+En el presente estudio no se encontró repercusión del manejo quirúrgico del cáncer de cuello uterino sobre la función sexual femenina a los 6 meses de la intervención; ni se establecieron diferencias en IFSF con el tipo de cirugía y uso concomitante de tratamientos coadyuvantes. la prevalencia de disfunción sexual prequirúrgica en la población seleccionada fue alta, de 71,6%, IC95% (58,5– 82,5 ) con una leve mejoría a los 6 meses del posoperatorio: prevalencia de 65,5%, IC95% (52,3 – 77,2 ) siendo esta diferencia estadísticamente significativa p= 0,03 (test de wilcoxon), con un cambio en el puntaje IFSF pre: 20,9 IC95%(18,9-22,8) y 6 a los meses 22,3 IC95% (20,7-23,9) p: 0,03.
+Se encontró una asociación entre el tipo de actividad sexual y la presencia de disfunción sexual prequirúrgica y a 6 meses posquirúrgica; es decir tener dos tipos de actividad sexual protege de disfunción sexual preqx en 89%, IC95% (57,0 – 71,0) y 76%, IC95% (33,0 – 93,0) respectivamente.
+Por otra parte, considerando los dominios que componen el IFSF, se encontró que hay una diferencia estadísticamente significativa en la excitación que es explicada por el número de prácticas sexuales, siendo este el principal factor asociado. Sin embargo, se requiere un seguimiento a largo plazo para corroborar estos hallazgos y un tamaño de muestra mayor. Se recomienda explorar factores como la obesidad como comorbilidad asociada.
+58
+
+BIBLIOGRAFÍA
+
+ABBOTT-ANDERSON KRISTEN, KWEKKEBOOM KRISTINE L., A systematic review of sexual concerns reported by gynecological cancer survivors, Gynecologic Oncology 124 (2012) 477–489
+
+AKKUZUL GULCIHAN, AYHAN ALI, Sexual Functions of Turkish Women with Gynecologic Cancer during the Chemotherapy Process, Asian Pacific Journal of Cancer Prevention, Vol 14, 2013
+
+ANIS, T.H.,GHEIT, S.A., SAIED,H. S., & AL_KHERBASH, S. A. Arabic translation of
+
+Female Sexual Function Index and validation in an Egyptian population.
+
+JournalofSexualMedicine
+
+(2011).,8,3370–3378.doi:10.1111/
+
+j.1743-
+
+6109.2011.02471.x.
+
+BARTULA, I., & SHERMAN, K. A. Development and validation of the Female Sexual Function Index adaptation for breast cancer patients (FSFI-BC). Breast Cancer Research and Treatment (2015), 152, 477–488. doi:10.1007/s10549-015-3499-8.
+
+BERNER,M.M.,KRISTON,L.,ZAHRADNIK,H.P.,HA¨RTER,M.,&ROHDE,A.
+
+U¨
+
+berpru¨fung der gu¨ltigkeit und zuverla¨ssigkeit des deutschen Female
+
+SexualFunctionIndex(FSFI-d)=validityandreliabilityof
+
+theGerman
+
+FemaleSexualFunctionIndex(FSFI-d).GeburtshilfeundFrauenheilkunde (2004), 64,
+
+293–303. doi:10.1055/s-2004-815815.
+
+BOGANI GIORGIO, ORESTE ROSSETTI DIEGO, Nerve Sparing Approach Improves Outcomes of Patients Undergoing Minimally Invasive Radical Hysterectomy: a Systematic Review and Meta-Analysis, The Journal of Minimally Invasive Gynecology, 2017.11.014.
+
+BRETSCHNEIDER ,. BENSEN JEANNETTE T, Perioperative sexual interest in women with suspected gynecologic malignancies, Gynecologic Oncology 2017.
+
+59
+
+BRETSCHNEIDER C. EMI, M. DOLL, T. BENSEN, GEHRIG PAOLA, WU JENNIFER M. AND GELLER ELIZABETH J., Sexual Health Before Treatment in Women with Suspected Gynecologic Malignancy, JOURNAL OF WOMEN’S HEALTH 2017
+C.D. DE KROON, ET AL., Nerve sparing in radical surgery for early-stage cervical cancer: yes we should! Int. J. Gynecol. Cancer 20 (11 Suppl. 2) (2010) S39–S41.
+COGOLLO ZULEIMA , GÓMEZ BUSTAMANTE EDNA MARGARITA , HERAZO EDWIN , CAMPO ARIAS ADALBERTO, Validez y confiabilidad de la escala breve de francis para actitud ante el cristianismo, rev fac med. 2012 vol. 60 no. 2
+DARGIS, L., TRUDEL, G., CADIEUX, J., VILLENEUVE, L., PRE´VILLE, M.,&BOYER, R. Validation of the Female Sexual Function Index (FSFI) and presentation of normsin olderwomen. Sexologies (2012), 21,126–131. doi:10.1016/j-sexol.2012.01.002
+DERKS MARLOES, VAN LONKHUIJZEN LUC R.C.W.ET AL., Long-Term orbidity and Quality of Life in Cervical Cancer Survivors A Multicenter Comparison Between Surgery and Radiotherapy as Primary Treatment, Int J Gynecol Cancer 2017;27: 350Y356.
+EKER F. & ACIKGOZ F. he impact of cancer and its treatment on sexual desire, satisfaction and functioning: findings from an exploratory study in rural Turkey, ) European Journal of Cancer Care 20, 769–775, 2011
+ESPITIA DE LA HOZ FRANKLIN J., Evaluación de la prevalencia de disfunción sexual en mujeres médicos, del Eje Cafetero colombiano, en etapa de climaterio, Archivos de Medicina Volumen 17 Nº 1 - Enero-Junio de 2017.
+FILOCAMO, M. T., SERATI, M., LI MARZI, V., COSTANTINI, E., MILANESI, M., PIETROPAOLO, A.,…VILLARI, D. The Female Sexual Function Index(FSFI):Linguistic validationof the Italianversion.Journal ofSexual Medicine (2014)., 11, 447–453. doi:10.1111/jsm.12389.
+60
+
+GARCÍA, APONTE, MORENO, Diagnóstico de la disfunción sexual femenina y su correlación con el perfil hormonal de la población femenina que consulta a los servicios de urología, ginecología y personal femenino del hospital de San José, en Bogotá, Colombia, Urología Colombiana, 2005.
+GAZIBARA TATJANA, NURKOVIC SELMINA, KOVACEVIC NIKOLINA, Factors associated with sexual quality of life among midlife women in Serbia, Qual Life Res (2017) 26:2793–2804
+GRIMES D. Role of the cervix in sexual response: evidence for and against. Clin Obstet Gynecol.1999; 42:972–978.
+GRION REGINA CELIA, BACCARO LUIZ FRANCISCO, VAZ ANA FRANCISCA Sexual function and quality of life in women with cervical cáncer before radiotherapy: a pilot study, Arch Gynecol Obstet, Heidelberg 2015
+GUNTUPALLI SAKETH R, SHEEDER JEANELLE, Sexual and Marital Dysfunction in Women With Gynecologic Cancer, Int J Gynecol Cancer 2017;27: 603-60.
+GUNTUPALLI SAKETH R., SHEEDER JEANELLE, IOFFE YEVGENIYA, TERGAS ANA, WRIGHT JASON D., DAVIDSON SUSAN A., BEHBAKHT KIAN, Sexual and Marital Dysfunction in Women With Gynecologic Cancer, Int J Gynecol Cancer 2017;27: 603Y607
+HENTSCHEL, H.,ALBERTON,D.L.,CAPP, E.,GOLDIM,J. R.,&PASSOS,E.P. Validac¸a˜o do Female Sexual Function Index (FSFI) para usoemlı´ngua portuguesa. Revista HCPA (2007), 27, 10–14.
+HUFFMAN LAURA B., HARTENBACH ELLEN M., CARTER JEANNE, RASH JOANNE K. ,. KUSHNER DAVID M, Maintaining sexual health throughout gynecologic cancer survivorship: A comprehensive review and clinical guide, Gynecol Oncol (2015)
+61
+
+HUIQIAO GAO, MD, MEIZHU XIAO, MM, HUIMIN BAI, MD, AND ZHENYU ZHANG, MD, Sexual Function and Quality of Life Among Patients With Endometrial Cancer After Surgery, International Journal of Gynecological Cancer & Volume 27, Number 3, March 2017
+HUMALAJA¨ RVI NIINA, AUKEE PAULIINA, KAIRALUOMA MATTI V., STACHLEMPINEN BEATA, SINTONEN HARRI, VALPAS ANTTI, HEINONEN PENTTI K., Quality of life and pelvic floor dysfunction symptoms after hysterectomy with or without pelvic organ prolapse, European Journal of Obstetrics & Gynecology and Reproductive Biology 182 (2014) 16–21.
+JACKSON SARAH E, WARDLE JANE, STEPTOE ANDREW, FISHER ABIGAIL, Sexuality After a Cancer Diagnosis: A Population-Based Study, Cancer December 15, 2016
+JACKSON SARAH E, WARDLE JANE, STEPTOE ANDREW, FISHER ABIGAIL, Sexuality After a Cancer Diagnosis: A Population-Based Study, Cancer December 15, 2016
+KOMISARUK BARRY, FRANGOS ELENI, WHIPPLE BEVERLY, Hysterectomy improves sexual response? Addressing a crucial omission in the literatura, J Minim Invasive Gynecol. 2011 ; 18(3): 288–295.
+LEE,Y., LIM,M. C., JOO, J.,PARK,K., LEE, S.,SEO,S.,…PARK, S. Y. Development and validation of the Korean version of the Female Sexual Function Index-6 (FSFI-6K). Yonsei Medical Journal (2014)., 55, 1442–1446. doi:10.3349/ymj.2014.55.5.1442.
+MASTERS WH, JOHNSON VE. Human sexual response. Boston: Little, Brown and Company; 1966.
+MESTON,C.M. Validation of the Female Sexual Function Index(FSFI) in women with female orgasmic disorder and in women with hypoactive sexual desire disorder. Journal of Sex andMarital Therapy, 29, 39–46. doi:10.1080/00926230390154826. 2003.
+62
+
+MOHAMMADI, K. H., HEYDARI, M., & FAGHIHZADEH, S.The Female Sexual Function Index (FSFI):Validation of the Iranian version. Payesh (2008), 7, 269–278.
+NAGELE EVA, REICH OLAF, Sexual Activity, Psychosexual Distress, and Fear of Progression in Women With Human Papillomavirus-Related Premalignant Genital Lesions, J Sex Med 2016;13:253-259.
+O’CONNELL HE, EIZENBERG N, RAHMAN M, ET AL. The anatomy of the distal vagina: towards unity. J Sex Med 2008;5:1883–91.
+OBSERVATORIO DE SALUD PÚBLICA DE SANTANDER, Indicadores Básicos de la Salud Pública en Santanderm Suplemento de la Revista del Observatorio de Salud Pública de Santander - Año 10, Número 3, Septiembre - Diciembre de 2015 Santander, Colombia.
+OLSSON MARIA, STEINECK GUNNAR, Sexual function in adolescent and young adult cancer survivors—a population-based study, Journal of Cancer Survivorship, enero 2018.
+P.T. JENSEN, ET AL., Early-stage cervical carcinoma, radical hysterectomy, and sexual function. A longitudinal study, Cancer 100 (1) (2004) 97–106.
+PLOTTI FRANCESCO , TERRANOVA CORRADO, Assessment of Quality of Life and Urinary and Sexual Function After adical Hysterectomy in Long-Term Cervical Cancer Survivors, Int J Gynecol Cancer 2018.
+PLOTTI FRANCESCO, ERMAL NELAJ, ET. AL., Sexual Function after Modified Radical Hysterectomy (Piver II/ Type B) vs. Classic Radical Hysterectomy (Piver III/Type C2) for Early Stage Cervical Cancer. A Prospective Study, J Sex Med 2012;9:909–917.
+REHMAN, K. U., ASIFMAHMOOD,M., SHEIKH, S. S., SULTAN, T.,&KHAN,M. A. The Female Sexual Function Index (FSFI): Translation, validation, and cross-cultural
+63
+
+adaptation of an Urdu version‘‘FSFI– U’’. Sexual Medicine (2015), 3, 244–250. doi:10.1002/sm2.77.
+S.J. FALK, D.S. DIZON, Sexual dysfunction in women with cancer, Fertil. Steril. 100 (4) (Oct 2013) 916–921.
+SERATI MAURIZIO, SALVATORE STEFANO, Sexual Function after Radical Hysterectomy for Early-Stage Cervical Cancer: Is There a Difference between Laparoscopy and Laparotomy?, J Sex Med 2009;6:2516–2522. SHUANG YE, JIAXIN YANG, A Systematic Review of Quality of Life and Sexual Function of Patients With Cervical Cancer After Treatment, Int J Gynecol Cancer 2014;24: 1146-1157.
+SONG TAEJONG, CHOI CHEL HUN, Sexual Function after Surgery for Early-Stage Cervical Cancer: Is There a Difference in It According to the Extent of Surgical Radicality?, J Sex Med 2012;9:1697–1704 jsm SUN, X., LI, C., JIN, L., FAN, Y., & WANG, D. Development and validation of Chinese version of Female Sexual Function Index in a Chinese population—A pilot study. Journal of Sexual Medicine (2011), 8, 1101– 1111. doi:10.1111/j.17436109.2010.02171.x. TAKAHASHI, M., INOKUCHI, T., WATANABE, C., SAITO, T., & KAI, I. The Female Sexual Function Index (FSFI): Development of a Japanese version. Journal of Sexual Medicine (2011), 8, 2246–2254. doi:10.1111/j.1743- 6109.2011.02267.x. VALLEJO MEDINA PABLO, PEREZ-DURAN CLAUDIA, SAAVEDRA ROA ALEJANDRO, Translation, Adaptation, and Preliminary Validation of the Female Sexual Function Index into Spanish (Colombia), Arch Sex Behav, May 2017
+64
+
+WANG XUEQIN, CHUNLIN CHEN, The morbidity of sexual dysfunction of 125 Chinese women following different types of radical hysterectomy for gynaecological malignancies, Archives of Gynecology and Obstetrics, enero 2018. WHITE ISABELLA D., SANGHA AMRIT, Assessment of sexual difficulties associated with multi-modal treatment for cervical or endometrial cancer: A systematic review of measurement instruments, Gynecologic Oncology Elsevier 2016. WIEGEL, M., MESTON, C., & ROSEN, R. The Female Sexual Function Index (FSFI): Cross-validation and developmentof clinical cutoff scores. Journal of Sex and Marital Therapy . (2005), 31, 1–20. doi:10.1080/009262305 90475206. WORLD HEALTH ORGANIZATION. Defining sexual health. Geneva: World Health Organization; 2006.
+65
+
+ANEXOS 66
+
+Anexo A. Formato De Recolección De Información
+
+10.1. FORMATO DE RECOLECCIÓN DE INFORMACIÓN
+
+Nombre
+
+de
+
+la
+
+Paciente
+
+________________________________________Edad_________
+
+Estado
+
+civil
+
+_________________________Nivel
+
+educativo________________________
+
+Estrato_____________ Ocupación __________________Peso_________ Talla
+
+________
+
+Fuma _______ Hace ejercicio ________ Consume sustancias psicoactivas
+
+_____________
+
+Enfermedades
+
+crónicas
+
+_____________________________________________________
+
+Trastornos
+
+de
+
+salud
+
+mental
+
+__________________________________________________
+
+Tipo
+
+de
+
+cirugía
+
+___________________________________________________________
+
+Tratamiento
+
+coadyuvante
+
+___________________________________________________
+
+Estadio
+
+del
+
+tumor
+
+_________________________________Menopausia_______________
+
+Tipo
+
+de
+
+coito
+
+pre
+
+______________________-
+
+pos________________________________
+
+Síntomas
+
+vaginales
+
+________________________________________________________
+
+6.2. ESCALA DE RELIGIOSIDAD DE FRANCIS La siguiente escala evalúa su religiosidad, es decir, la importancia que usted le da a la religión en todos los aspectos de su vida. Debe marcar con una X (equis) la casilla que más se ajuste a su respuesta, según el siguiente puntaje:
+67
+
+MUY EN DESACUERDO 0
+
+EN DESACUERDO
+
+1
+
+NO ESTOY SEGURO 2
+
+DE ACUERDO
+
+3
+
+MUY DE ACUERDO
+
+4
+
+Yo sé que Cristo me ayuda Dios me ayuda a llevar una vida mejor Dios significa mucho para mi Orar me sirve de mucho Sé que Jesús está muy cerca de mi
+
+0 1 2 3 4
+
+68
+
+Anexo B. Instrumento De Medición: Cuestionario Índice De La Función Sexual Femenina
+A continuación, encontrará 21 preguntas con 5 opciones de respuesta, marque con una X la repuesta que coincida con su situación sexual actual
+1- En las últimas 4 semanas, con qué frecuencia experimentó deseo o interés sexual?
+Siempre ____ Muchas veces ____ Algunas veces____ Pocas veces____ Casi nunca o nunca____ 2- En las últimas 4 semanas, en qué porcentaje estima su nivel (grado) de deseo o interés sexual? Muy alto____ Alto ____ Regular _____ Bajo ____ Muy bajo o nada ____ 3- En las últimas 4 semanas, con qué frecuencia experimentó excitación sexual durante la actividad sexual? Sin actividad sexual____ Casi siempre o siempre____ Muchas veces____ Algunas veces____ Pocas veces____ Casi nunca o nunca____ 4- En las últimas 4 semanas, en que porcentaje estima su nivel de excitación sexual durante la actividad o relación sexual? Sin actividad sexual ____ Muy alto____ Alto ____ Moderado _____ Bajo ____ Muy bajo ____ 5- En las últimas 4 semanas, que confianza tiene de poder lograr excitación sexual durante la actividad o relación sexual? Sin actividad sexual____ Muy alta confianza____ Alta confianza____ Moderada confianza_____ Baja confianza____ Muy baja o sin confianza_____ 6- En las últimas 4 semanas, con qué frecuencia ha satisfecho su excitación durante la actividad o relación sexual? Sin actividad sexual____ Casi siempre o siempre____ Muchas veces____ Algunas veces____ Pocas veces____ Casi nunca o nunca____
+69
+
+7- En las últimas 4 semanas, con qué frecuencia se ha lubricado (húmedo o mojado) durante la actividad o relación sexual? Sin actividad sexual____ Casi siempre o siempre____ Muchas veces____ Algunas veces____ Pocas veces____ Casi nunca o nunca____ 8- En las últimas 4 semanas, cuán difícil fue lubricarse (mojarse) durante la actividad o relación sexual? Sin actividad sexual____ Extremadamente difícil____ Muy difícil____ Difícil ____ Levemente difícil____ Sin dificultad____ 9- En las últimas 4 semanas, con qué frecuencia mantiene la lubricación hasta completar la actividad o relación sexual? Sin actividad sexual____ Casi siempre o siempre____ Muchas veces____ Algunas veces____ Pocas veces____ Casi nunca o nunca____ 10- En las últimas 4 semanas, cuán difícil fue mantener su lubricación hasta completar la actividad o relación sexual? Sin actividad sexual____ Extremadamente difícil____ Muy difícil____ Difícil ____ Levemente difícil____ Sin dificultad____ 11- En las últimas 4 semanas, cuando ha tenido estimulación o relación sexual, con qué frecuencia logra el orgasmo (clímax)? Sin actividad sexual____ Casi siempre o siempre____ Muchas veces____ Algunas veces____ Pocas veces____ Casi nunca o nunca____ 12- En las últimas 4 semanas, cuando ha tenido estimulación o relación sexual, cuán difícil fue lograr el orgasmo (clímax)? Sin actividad sexual____ Extremadamente difícil____ Muy difícil____ Difícil ____ Levemente difícil____ Sin dificultad____ 13- En las últimas 4 semanas, cuán satisfecha estuvo con su habilidad para lograr el orgasmo durante la actividad o relación sexual? Sin actividad sexual____ Muy satisfecha____ Moderadamente satisfecha_____
+70
+
+Igualmente satisfecha e insatisfecha____ Moderadamente insatisfecha ____ Muy insatisfecha____ 14- En las últimas 4 semanas, Cuán satisfecha estuvo con el acercamiento emocional durante la actividad sexual entre usted y su pareja? Sin actividad sexual____ Muy satisfecha____ Moderadamente satisfecha_____ Igualmente satisfecha e insatisfecha____ Moderadamente insatisfecha ____ Muy insatisfecha____ 15- En las últimas 4 semanas, Cuán satisfecha ha estado con la relación sexual con su pareja? Sin actividad sexual____ Muy satisfecha____ Moderadamente satisfecha_____ Igualmente satisfecha e insatisfecha____ Moderadamente insatisfecha ____ Muy insatisfecha____ 16- En las últimas 4 semanas, Cuán satisfecha ha estado con su vida sexual en general? Sin actividad sexual____ Muy satisfecha____ Moderadamente satisfecha_____ Igualmente satisfecha e insatisfecha____ Moderadamente insatisfecha ____ Muy insatisfecha____ 17- En las últimas 4 semanas, Con qué frecuencia experimentó dolor o molestias durante la penetración vaginal? Sin actividad sexual____ Casi siempre o siempre____ Muchas veces____ Algunas veces____ Pocas veces____ Casi nunca o nunca____ 18- En las últimas 4 semanas, Con qué frecuencia experimentó dolor o molestias después de la penetración vaginal? Sin actividad sexual____ Casi siempre o siempre____ Muchas veces____ Algunas veces____ Pocas veces____ Casi nunca o nunca____ 19- En las últimas 4 semanas, Con que porcentaje usted valora su molestias o dolor durante o después de la penetración vaginal? Muy alto____ Alto ____ Regular _____ Bajo ____ Muy bajo o nada ____
+71
+
+Anexo C. Consentimiento Informado
+Con base en los principios establecidos en la Resolución 008430 del 4 de Octubre de 1993 por la cual se establecen las normas para la investigación en salud en Colombia, específicamente en el Artículo 15, en lo relacionado con el Consentimiento Informado, usted deberá conocer acerca de esta investigación y aceptar participar en ella si lo considera conveniente. Por favor lea con cuidado y haga las preguntas que desee hasta su total comprensión. Usted ha sido diagnosticada con CÁNCER DE CUELLO UTERINO, una enfermedad que deriva de la infección latente por el virus del papiloma humano y su capacidad para infectar las células que recubren el cuello de la matriz, ocasionando cambios en su estructura y un crecimiento anormal. Como parte del tratamiento se programó usted para un procedimiento quirúrgico, sea histerectomía o conización. Su médico la está invitando a participar en esta investigación titulada EFECTO DEL MANEJO QUIRÚRGICO POR CÁNCER DE CÉRVIX SOBRE LA FUNCIÓN SEXUAL EN MUJERES ATENDIDAS EN EL HOSPITAL UNIVERSITARIO DE SANTANDER, para conocer la repercusión que tienen dichos procedimientos sobre su función sexual. Esta información nos ayudará a mejorar las intervenciones en calidad de vida de las pacientes. Si usted acepta participar en el estudio, se le realizará una encuesta denominada “Índice de la Función Sexual Femenina” que consta de 19 preguntas, diligenciada en un promedio de 10 minutos antes de la cirugía y nuevamente 6 meses después de esta, para lo cual será contactada vía telefónica por su médico tratante. Además, se aplicará la Escala abreviada de Francis que consta de 5 preguntas cortas, con el fin de valorar la religiosidad y su relación con alteraciones en el plano sexual. La encuesta trata sobre aspectos de su vida sexual como el deseo, la capacidad de lubricarse y de llegar al orgasmo; la información registrada será totalmente confidencial, dado que el tema de la sexualidad es privado. Los potenciales beneficios que pueden observarse con su ayuda son los aportes al conocimiento sobre la integralidad de la paciente oncológica. Además se aplicará un formato de recolección de la información que incluye datos sobre su estado civil, escolaridad,
+72
+
+estrato, orientación sexual, nivel económico, peso, talla, enfermedades previas, partos, estadío del tumor y si aún presenta menstruación o si se encuentra en la menopausia. Usted puede preguntar hasta su complacencia todo lo que desee sobre el estudio, los alcances y su participación. Si usted autoriza la publicación de los datos a condición de que en todo momento se mantendrá la confidencialidad de los datos, el secreto profesional y no se revelará su nombre o su identidad. Asimismo, si desea información sobre el proceso de recolección de datos del proyecto se le proporcionará y usted puede retirarse del estudio en cualquier momento. De ser así, podrá autorizar o no el uso de los datos recolectados previamente. Teniendo en cuenta lo anteriormente expuesto, solicito su autorización para hacer uso de la información recolectada por medio de la encuesta, en este proyecto y con destino a ser utilizados en otros estudios, previo aval del comité de ética para la investigación científica de la Facultad de Salud de la UIS. Debe marcar con una X si autoriza o no autoriza y debe firmar si autorizó
+Si autoriza _____ No autoriza _____ La Resolución 008430/93 del Ministerio de Salud Nacional exige consignar el nombre del paciente o participante, su firma o huella digital, su identificación personal. Requiere también la firma de dos testigos con su nombre dirección y fecha de la firma y que indique su parentesco con el paciente. Con fecha ____________________________, habiendo comprendido lo anteri or y una vez que se le aclararon todas las dudas que surgieron con respecto a s u participación n la investigación, usted acepta participar en investigación titulad a: EFECTO DEL MANEJO QUIRÚRGICO POR CÁNCER DE CÉRVIX SOBRE LA FUNCIÓN SEXUAL EN MUJERES ATENDIDAS EN EL HOSPITAL UNIVERSITARIO DE SANTANDER Nombre del participante o representante legal
+73
+
+_________________________________________ Firma _________________________________
+
+Nombre
+
+del
+
+testigo
+
+1
+
+________________________________
+
+Firma__________________
+
+Dirección
+
+________________________________________
+
+Teléfono________________
+
+Relación con el participante ___________________________Fecha
+
+_________________
+
+Nombre
+
+del
+
+testigo
+
+2
+
+________________________________
+
+Firma__________________
+
+Dirección
+
+________________________________________
+
+Teléfono________________
+
+Relación con el participante ___________________________Fecha
+
+_________________
+
+Investigador: Astrid Paola Cuervo. Residente de Ginecoobstetricia. UIS. Cel. 3152624089 Firma ___________________________
+
+74

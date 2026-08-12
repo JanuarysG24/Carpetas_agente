@@ -1,0 +1,318 @@
+Impact of Outpatient Total Joint Replacement on Postoperative Outcomes
+Danielle Lovett-Carter, MDa, Zain Sayeed, MD, MHAa, Leila Abaab, MDa,b, Vinay Pallekonda, MDb, William Mihalko, MD, PhDc, Khaled J. Saleh, MD, MSc, FRCS(C), MHCM, CPEa,*
+KEYWORDS  Outpatient total joint arthroplasty  Total knee arthroplasty  Total hip arthroplasty  Length of stay  Readmission  Outcomes  Cost  Patient-reported outcome measures
+KEY POINTS
+ The success of fast-track pathways in Europe and the United States is a strong indicator that outpatient joint replacement will soon be offered more widely and will be recognized by patients and surgeons as a safe option.
+ Younger patients with a lower body mass index and fewer comorbidities are appropriate candidates for outpatient hip and knee arthroplasty.
+ Outpatient arthroplasty in the proper patients has comparable, if not superior, outcomes compared with standard inpatient arthroplasty.
+
+INTRODUCTION
+Annual demand for total joint arthroplasty (TJA) has been steadily increasing over the past 30 years and is projected to continue to increase substantially over the coming years as life expectancy and obesity increase and surgical technique and perioperative management are optimized.1 With continuous growth, surgeons and hospitals have sought to improve quality of joint replacement while simultaneously aiming at lowering cost and resource utilization. This effort has centered on the development of clinical care pathways and perioperative standardized protocols aimed at optimizing postoperative outcomes, including hospital length of stay, complications, and readmissions, among others. Over the past several
+
+years, there has been a growing trend in the literature toward early patient discharge.
+The leading cause of 30-day readmission after total knee arthroplasty (TKA) is deep or superﬁcial surgical site infection (SSI), which accounts for 12.1% of unplanned readmissions.2,3 SSIs accounted for 23.5% of unplanned readmissions in total hip arthroplasty (THA) patients, just behind hip dislocation, according to one report. Ong and colleagues4 report length of hospital stay is implicated as a risk factor for SSI or prosthetic joint infection, among others such as comorbidities, sex and duration of procedure. Furthermore, SSIs have been shown to double length of hospital stay by a median of 2 weeks, which further drives up associated costs.5
+Hospital stay for TKA has decreased from 9 days to 4 days on average6 and for THA, from
+
+Funding Sources: No additional funding sources were used for this article. Conﬂicts of Interest: No conﬂicts of interest are evident for authors of this article. a Department of Orthopaedics, Detroit Medical Center, 4201 St Antoine Street, Detroit, MI 48201, USA; b Department of Anesthesiology – NorthStar Anesthesia, Detroit Medical Center, 4201 St Antoine Street, Detroit, MI 48201, USA; c Campbell Clinic Department of Orthopaedic Surgery & Biomedical Engineering University of Tennessee, 956 Court Avenue, Memphis, TN 32116, USA * Corresponding author. E-mail address: kjsaleh@gmail.com
+Orthop Clin N Am 49 (2018) 35–44 http://dx.doi.org/10.1016/j.ocl.2017.08.006 0030-5898/18/ª 2017 Elsevier Inc. All rights reserved.
+
+36
+
+Lovett-Carter et al
+
+4.6 days to 2.9 days at 1 center.7 These protocols have aimed at standardizing procedure, pain control, education, and early rehabilitation and implement preventative measures for complications. This trend toward decreasing length of hospital stay has led to the development of pathways that allow medically and socially optimized patients to undergo TJA in an outpatient setting. Although some studies have shown promise in using this method, the results may not be generally applied.
+The aim of this review is to determine if outpatient TJA leads to similar outcomes as standardstay inpatients. Postoperative outcomes may be assessed by pain, same-day discharge, complications, readmissions, reoperation, patient satisfaction, patient-reported outcomes (PROs), and cost.
+METHODS
+The authors performed searches in electronic databases (Embase, PubMed, Web of Science, and Cochrane) to identify eligible studies published before April 2017. Exact search term used were “total hip replacement” OR “total hip arthroplasty” OR “THA” OR “THR”, “total knee replacement” OR “total knee arthroplasty” OR “TKA” OR “TKR”, “total joint replacement” OR “total joint arthroplasty” OR “TJR” OR “TJA”, “outpatient”, and “outcomes” OR “postoperative outcomes.” Duplicates were removed.
+To be considered for inclusion in this review, studies must have included a cohort of patients who underwent outpatient TKA or THA. Unfortunately, the deﬁnition of outpatient varied among investigators. The vast majority agreed outpatient meant patients were discharged to home on the same day as the surgery; however, 1 article considered discharge at 23 hours postoperatively or less acceptable. Studies were excluded if patients stayed more than 24 hours or if they comprised only patients undergoing partial or single-component joint replacement. A total of 14 studies was identified from the literature as meeting criteria and were included in the review.
+RESULTS AND DISCUSSION
+Nine studies examined outcomes in outpatient THA and 6 in outpatient TKA (with 1 study covering both). Of the studies that compared groups prospectively, sample size tended to be low and thus more difﬁcult to generalize. Because outpatient total joint replacement is a relatively new concept, researchers are reaching the end of a process of carrying out smallscale studies and case series to determine
+
+procedure safety and moving toward largerscale randomized trials to reﬁne protocol details. Based on the evidence compiled in this review, only 1 randomized controlled trial (RCT) was carried out. Larger-scale, multicenter randomized trials are needed to determine exactly which candidates will beneﬁt from this intervention as well as how best to implement outpatient joint protocols. Outcomes for TJA included same-day discharge, postoperative pain, complications, readmissions, reoperations, PROs, and cost.
+TOTAL HIP ARTHROPLASTY OUTCOMES
+Nine studies ranged from level I evidence to level IV (Table 1). Goyal and colleagues8 are the only investigators who carried out an RCT (level I). Aynardi and colleagues9 compared 119 patients who underwent outpatient THA with 78 inpatients undergoing the same procedure by the same surgeon but these groups were not randomly assigned. Similarly, Springer and colleagues10 retrospectively compared THA inpatients with outpatients nonrandomly. Bertin11 examined patient outcomes from a financial aspect, which falls under economic and decision analysis (level IV). The remaining 5 studies were case series in nature (Dorr and colleagues,12 Berger and colleagues,13 Berger and colleagues,14 Berger,15 and Den Hartog and colleagues16) and looked at outcomes from a cohort of patients without comparing them to a similar group.
+Same-Day Discharge All investigators who carried out prospective studies used length of stay or same-day discharge as an outcome. For the THA patients, Goyal and colleagues8 achieved a 76% rate of same-day discharge, and all but 1 of the remaining patients left the following day. Interestingly, 18 of the 108 patients randomized to the inpatient group met the same-day discharge criteria and chose to leave after their surgery. This was not the only report of difficulty with randomization, which may be an issue in smaller, singlecenter studies. Berger and colleagues13 reported that their team had attempted to randomize the patients but ultimately had to abandon the idea after many patients requested overnight hospitalization and many more requested to be part of the study despite not being selected. For this reason, their rate of same-day discharge was 100%. The same investigators had similar success with older studies, achieving a rate of 85% discharge in both 2004
+
+Table 1 Total hip arthroplasty outcomes
+
+Study Goyal et al,8
+2017 Aynardi et al,9
+2014 Springer et al,10
+2017 Bertin,11 2005
+Dorr et al,12 2010
+Berger et al,13 2009
+Berger et al,14 2004
+Berger et al,15 2003
+
+Level of Evidence
+Level I RCT
+Level III Case-control
+Level III Case-control
+Level IV Financial analysis
+Level IV Case series
+Level IV Case series
+Level IV Case series
+Level IV Case series
+
+Den Hartog et al,16 2015
+
+Level IV Case series
+
+Abbreviation: SDD, same day discharge.
+
+Sample 112 119 77 — 69 150 100 88 27
+
+Rate of SDD (%) 76 93 100 — 77 100 85 85 89
+
+Surgical Approach Direct ant approach
+Direct ant approach
+Posterolateral approach
+Posterolateral approach
+Post mini-incision approach
+Minimally invasive THA
+Minimally invasive THA
+Minimally invasive THA
+Direct ant approach
+
+Readmissions 4/112
+0/119
+0/77
+
+Emergency Department Visits 2 ED visits 2 reoperations —
+1 ED visit
+
+Complications 2 reoperations
+No complications
+No complications
+
+Cost —
+$6800 < inpatient
+—
+
+—
+
+—
+
+0/69
+
+—
+
+— No complications
+
+$6500 < inpatient
+—
+
+3/150 0/100
+
+9 ED visits —
+
+2 fractures
+
+—
+
+1 pneumonia
+
+No complications —
+
+0/88
+
+—
+
+No complications —
+
+1/27
+
+—
+
+1 seroma
+
+—
+
+37
+
+Impact of Outpatient Total Joint Replacement
+
+38
+
+Lovett-Carter et al
+
+and 2003 reports. Dorr and colleagues12 had a similar rate of same-day discharge at 77%. All but 4 of Aynardi and colleagues’9 cohort of 119 were discharged on the day of surgery (93%) and 24 of Den Hartog and colleagues’16 group of 27 (89%).
+When considering same-day discharge as an outcome, these results must be taken with some understanding. Lack of randomization leaves room for selection bias, which most investigators recognized. The vast majority of investigators hand-selected younger, healthier patients for outpatient procedures and many participants, in turn, also had to self-select their outpatient status. So not only were the surgeons identifying a low-risk population but also they were further stratifying only those that had the potential conﬁdence, social support, access to services, and resilience to be discharged after a TJA, traditionally an inpatient procedure.
+This issue raises some other important points for discussion, such as why patients who requested an overnight stay are fearful of outpatient surgery. The authors12 identified through patient feedback that the largest barriers for same-day discharge were fear of uncontrolled pain and fear of dependency on others.12 Many patient misconceptions can be easily overcome through education, and these factors are vital to the development of a successful comprehensive clinical pathway for outpatient joint replacement.
+All prospective studies in this review included a form of standardized protocols for outpatient TKA or THA. This ranged from standardization of surgical technique, anesthesia, management of postoperative pain, nausea, and hypotension to rehabilitation protocol and patient education. These clinical protocols required commitment of the multidisciplinary team to the goal of sameday discharge. This meant prompt responses from nursing and physical therapists to postoperative issues to achieve this goal; thus, a committed team, as many articles rightfully pointed out, was a vital part of the process. Because outpatient TJA is still a relatively new exploit, however, it is unknown which protocols are superior and cost effective.
+Berger and colleagues13 were among the investigators who detailed one such clinical protocol, which includes a description of preoperative, intraoperative, and postoperative care and required the combined effort of a multidisciplinary team. In the case of Den Hartog and colleagues,16 the investigators were building on an already established fast-track protocol that was in place at their hospital. This protocol was developed from 2009 to 2011, with every step of the process
+
+developed from evidence-based practice, from preoperative education to follow-up. This study, carried out at a large teaching hospital, showed that when this rapid recovery protocol was implemented, there was a decrease in hospital stay for unselected primary THA patients without any change in complication rate, readmission rate, or reoperation rate. Several other hospitals have been implementing similar protocols with success in Europe, such as Winther and colleagues’17 in Norway. Both Berger13 and Den Hartog’s16 protocols were similar in some ways and differed in others, proving that there may be variations in the protocol while still achieving desired outcomes. The success of these pathways in Europe and the United States is a strong indicator that outpatient joint replacement will soon be offered more widely and will be recognized by patients and surgeons as a safe option.
+Postoperative Pain Few studies considered postoperative pain as an outcome measure. Den Hartog and colleagues’16 cohort saw a statistically significant reduction in pain using the numeric rating scale (NRS); however, no control group was available. Goyal and colleagues8 used the visual analog scale as an outcome and found there was no difference in pain at baseline, on the day of surgery, or at 4 weeks. The outpatient THA group did report experiencing more pain on the first day after surgery, however. Whether this additional pain was causing problems, such as return to an office or emergency department (ED), is unclear.
+Several factors may inﬂuence pain and one worth considering is surgical approach. Berger and colleagues13–15 used a minimally invasive technique for THA that reduces damage to muscles and tendons.18 Goyal and colleagues,8 Den Hartog and colleagues,16 and Aynardi and colleagues,9 all used a direct anterior approach, which has been shown in the literature to be associated with less pain, a shorter hospital stay, and a shorter operative time.19,20 It is more technically demanding, however, and has its own unique set of complications. Because this technique has a steeper learning curve, its role as an outpatient procedure may not be generalizable to all surgeons in all clinical settings. Bertin11 and Springer and colleagues10 reported using a posterolateral technique. Bertin11 however, focused only on financial rather than patient outcomes. Springer and colleagues10 reported no readmissions or complications for the 77 THA patients included in the study. And although this suggests this may be a successful
+
+Impact of Outpatient Total Joint Replacement
+
+39
+
+approach for outpatients, because such a small number of the outpatient THA studies were carried out using the more traditional posterolateral approach, it is difficult to say definitively that it, too, would be feasible as an outpatient procedure.
+Complications, Readmissions, and Reoperations Another outcome of interest was the concept of safety and feasibility. Most investigators used readmissions, complications, and sometimes ED visits as measures for procedure safety. Of the 8 studies that looked at outpatient THA outcomes, there were a total of 820 patients and only 8 readmissions (<1%). Dorr and colleagues12 and Berger and colleagues14 reported no complications or readmissions at 6-month and 3-month follow-ups, respectively. Springer and colleagues10 and Berger and colleagues14 also noted no complications or readmissions postdischarge. Den Hartog and colleagues’16 only complication was 1 readmission for seroma formation. Goyal and colleagues8 and Aynardi and colleagues,9 who both had an inpatient control group, demonstrated no difference in complications, readmission, or reoperation between inpatients and outpatients. The former saw 4 outpatients readmitted and 2 reoperations, whereas the latter reported none.
+Berger and colleagues13 saw 3 readmissions in 3 months. The first suffered a stress fracture at the distal femoral stem 6 weeks postoperatively; the others were for femoral fracture posttrauma and pneumonia (which subsequently was complicated by a psoas abscess). Overall, the rate of complications was exceptionally low. A study of more than 58,000 standard-stay primary hip arthroplasty patients showed that 3.9% suffered hip dislocation, 0.9% developed a pulmonary embolism, and 0.2% developed a deep SSI in the first 26 weeks.21 The rate of adverse outcomes was highest in the hospitalization period and fell considerably on discharge. Because all complications of the studies discussed in this review occurred between 11 days and 3 months of surgery, it could be argued that the outpatient aspect of their experience played a minimal role in the complication and possibly prevented other complications. Their comparatively lower complication rate is also likely a result of the recruitment of younger, healthier patients.
+Additionally, 3 studies recorded ED visits. Berger and colleagues13 reported 9 ED visits without admission: 3 in the first week for dehydration, pain, and anemia requiring transfusion; 1 in
+
+the first month for benign leg swelling; and the remaining 5, which were unrelated to the surgery. Goyal and colleagues8 reported 2 ED visits as well as 2 acute office visits before scheduled followup. Springer and colleagues10 noted 1 ED visit from an outpatient THA patient. Reporting of ED visits is a new phenomenon, with most studies failing to mention it. It is a valuable outcome in terms of evaluating success of outpatient TJA, because it lends insight into potential issues with the outpatient protocol and how soon postoperatively these issues are arising. Although ED presentations in these studies were variable, the numbers are too few to make a determination. Furthermore, Berger and colleagues13 are the only investigators who report reasons for representation. Future trials should include accounts of ED presentations and the reason for them to identify areas of weakness, for example, pain control or hydration.
+When evaluating complications, it is also important to consider patients’ baseline status. Berger and colleagues,14 Berger,15 Den Hartog and colleagues,16 and Aynardi and colleagues9 all used moderately strict criteria centering mostly around low-grade American Society of Anesthesiologists status, age, a desire to have same-day discharge, operative risk stratification, and home support. Berger and colleagues13 as well as Springer and colleagues10 had similar strict criteria to their outpatient TKA counterparts, excluding those with previous cardiopulmonary events, significant comorbidities, and body mass index (BMI) greater than 40. Dorr and colleagues12 required only self-enrollment for outpatient surgery and age less than 65. Outcomes seemed uniform despite the variation in patient selection; however, it does not seem that any investigator offered outpatient THA to patients over 75 or those with significant comorbidities.
+Patient-Reported Outcomes PROs are a vital component of assessing the outcomes of TKA and THA.22 Many PRO questionnaires are available that have been validated in this population, such as the Western Ontario and McMaster Universities Osteoarthritis Index, the Harris Hip Score (HHS), and the Forgotten Joint Score-12. Dorr and colleagues,9 Berger and colleagues,13 and Springer and colleagues10 used patient satisfaction as an outcome. The former 2 found that 96% were satisfied with the decision to undergo outpatient surgery and would do so again, whereas the latter found no difference in satisfaction rates in outpatients compared with inpatients. A further 87% in Dorr and colleagues’ study found that it gave them confidence. They
+
+40
+
+Lovett-Carter et al
+
+were also asked to keep diaries and record their functional progress. Of the diaries that were returned, 82% had returned to independent activities of daily living, 84% were driving, and 98% were walking 1 mile at 3 weeks. Berger and colleagues14 used the 36-Item Short Form Health Survey and the HHS and found a significant improvement in postoperative scores. The same investigators also looked at functional milestones, such as driving, returning to work, and so forth, similar to Dorr and colleagues.9 Additionally, Dorr and colleagues,9 Berger and colleagues,13 and Goyal and colleagues8 also used the HHS with improvement. Den Hartog and colleagues16 included the EuroQol Quality of Life Scale (EQ-5D) assessment scale and the NRS for pain at rest and during activity. Springer and colleagues,10 Bertin,11 Berger,15 and Aynardi and colleagues9 did not use any PROs.
+The use of PROs is arguably limited in the majority of these studies without a control group to a certain extent. Although they show statistically signiﬁcant improvements, previous literature has already demonstrated that THA improves functional status for the majority of patients it is indicated for, regardless of how long they spend in hospital. These outcomes measures would be of far greater beneﬁt if compared with a control group with a standard length stay to detect subtle functional differences. This is seen in the RCT by Goyal and colleagues,8 where no difference was noted between the HHS of inpatients and outpatients at 4 weeks.
+Dorr and colleagues’9 and Berger and colleagues’13 choice to include patient satisfaction and confidence, despite being a crude measure, is a little more specific to the outpatient component of the surgery and may have some value in terms of highlighting the need to combat fears and misconceptions about the procedure. This is explored in a qualitative study by Specht and colleagues,23 who report that education on dealing with pain in short-stay TKA and THA patients is vital. Patients reported preoperative education on what to expect as well as having a well-planned schedule during hospitalization were important to them and contributed to overall satisfaction.
+Cost As the estimated number of THAs and TKAs is set to increase over the coming years, there will be an anticipated economic burden on health care facilities.8 One potential way to decrease expenditure is to minimize hospital stay and ultimately make outpatient TJA a widespread option for suitable patients. Because
+
+outpatient TJA is being developed as part of a comprehensive protocol, several investigators looked at whether this was cost effective. Bertin11 found that the average hospital bill was approximately $4000 less for outpatients and associated charges, such as home physical therapy, were $2500 less. Aynardi and colleagues9 reported a similar saving where outpatient THA was approximately $6800 cheaper overall than the inpatient procedure. Another element to the cost section was an issue raised by Goyal and colleagues8 regarding additional work for the staff involved with the surgeons’ office. There have been anecdotal reports that outpatient THA caused many additional office calls and visits. The same investigators found this not to be the case, and they attribute the preoperative education program to lack of difference in staff work between inpatient and outpatient THA.
+TOTAL KNEE ARTHROPLASTY OUTCOMES
+All TKA studies included were between level II and level IV evidence, because no groups were randomized (Table 2). A study by Kolisek and colleagues6 compared patients undergoing TKA as inpatients with those undergoing the same procedure as outpatients, prospectively. Similarly, Huang and colleagues24 prospectively compared similar groups; however, the investigators’ focus was on cost as opposed to surgical outcomes. Springer and colleagues10 included both THA and TKA outpatients as part of a retrospective case-control study. Lovald and colleagues25 reported a large-scale retrospective cohort, where the investigators compared characteristics and outcomes of patients undergoing TKA in terms of length of hospital stay. This ranged from outpatient procedures to 5 or more hospital days. Berger and colleagues26 compared patients who underwent TKA as outpatients to patients who underwent outpatient UKA. And lastly, Berger and colleagues27 performed a case series (level IV), where the investigators evaluated patient outcomes but did not compare them to another group.
+Same-Day Discharge Berger and colleagues27 had a 98% success rate for same-day discharge and Berger and colleagues26 had a rate of 94%. Kolisek and colleagues6 had a discharge rate of 100%; however, these participants were discharged within 23 hours, not on the same day. Again, similar to the THA studies, no study randomized its participants, leaving room for selection bias
+
+Table 2 Total knee arthroplasty outcomes
+
+Study
+Kolisek et al,6 2009
+Huang et al,24 2016
+Springer et al,10 2017
+Lovald et al,25 2014
+
+Level of Evidence
+Level II Prospective
+Level III Case-control
+Level III Case-control
+Level III Retrospective
+cohort
+
+Sample 150 20 166 454
+
+Rate of SDD (%) 100
+100
+100
+100
+
+Surgical Approach Med parapatellar
+approach —
+Med parapatellar approach
+—
+
+Berger et al,26
+
+Level III
+
+86
+
+94
+
+2009
+
+Case-control
+
+Minimally invasive TKA
+
+Berger et al,27
+
+Level IV
+
+100
+
+98
+
+2006
+
+Case series
+
+Minimally invasive TKA
+
+Readmissions 4/150
+
+Emergency Department Visits
+—
+
+0/20
+
+—
+
+12/166
+
+3 ED visit
+
+4/454
+
+—
+
+8/86 2/100
+
+2 ED visits —
+
+Complications
+2 reoperations
+No complications
+No complications
+9 DVTs 9 infections 2 dislocations 2 revisions 26 stiffness 144 joint pain
+2 SSIs 1 arthrofibrosis 1 DVT 2 anemias 1 GI bleed
+1 SSI 1 Arthrofibrosis 1 GI bleed
+
+Cost — 30%
+< inpatient — $8527
+< inpatient
+—
+—
+
+41
+
+Impact of Outpatient Total Joint Replacement
+
+42
+
+Lovett-Carter et al
+
+and the other issues previously discussed with the THA group. Lovald and colleagues’25 retrospective cohort showed that among a sample of 102,684 patients undergoing TKA, the percentage who made up outpatient procedures was less than 0.5%. The study reports that they only considered outpatients who were discharged routinely.
+The majority of studies tended to favor strict or semistrict criteria for patient selection, such as Springer and colleagues,10 Huang and colleagues,24 and Kolisek and colleagues.6 Berger and colleagues27 did not enroll patients for same-day discharge if they had a high BMI, significant medical comorbidities, or a cardiopulmonary event in the past year. Only Berger and colleagues26 allowed patients to select their own status as outpatient after TKA, regardless of age or BMI. Based on the high rate of same-day discharge, the outpatient TKA seems to be feasible in a range of patients, selected and unselected alike. As a stand-alone measure, however, this may not be useful because it needs to be taken in conjunction with readmission rates and ED visits.
+Postoperative Pain Lovald and colleagues25 reported that in the first 90 days after TKA, those who underwent the procedure as outpatients had less pain and stiffness, with only 31% reporting pain in the joint compared with 43% in the short-stay and standard-stay groups. This review and the cost savings report by Huang and colleagues,24 unfortunately, do not specify which surgical approach was used during the TKA or comment on the pain regimen implemented, which was likely different at every center.
+For the outpatient TKA, Berger and colleagues26,27 used a minimally invasive quadriceps-sparing technique. This has also been shown to reduce pain and hospital stay in the short term based on the principles of minimizing interruption and dissection of neurovascular tissues.28 Kolisek and colleagues6 and Springer and colleagues10 both used a standard medial parapatellar approach. Both studies mentioned above did not use pain as an outcome measure so it is not possible to comment on whether the minimally invasive procedure does, in fact, reduce pain. All studies had similarly low numbers of readmissions and complications. Thus, it seems from the evidence discussed in this article that there were no major barriers to performing the standard TKA compared with the minimally invasive approach. Small sample size and a lack of outcome
+
+measures used, however, make comparison difficult. Although readmission rates may be similar, other factors like pain, function, and satisfaction may vary in the short term.
+Complications, Readmissions, and Reoperations Of the 6 studies who reported on outpatient TKA outcomes, there were a total of 816 patients and 22 readmissions (2.7%). Lovald and colleagues25 compared complications, readmissions, mortality, and rate of revision across outpatient, short-stay, standard-stay, and extended-stay patients using multivariate Cox regression analysis. Although pain and stiffness were improved in the outpatient and short-stay groups, the same groups had a higher rate of readmission and revision. The readmission rate for outpatient TKA was 0.9% compared with 0.6% for short-stay patients and 0.5% in standard-stay patients. The study reports that this cohort was more likely to be younger and have fewer comorbidities but does not comment on selection process for outpatient procedure. Because the patients are younger and healthier, it could be speculated that they are more active and more likely to engage in activity that causes mechanical problems with the prosthesis, which the investigators identified as one of the main reasons for revision. Lovald and colleagues25 also speculated that given the recent studies showing success with outpatient TJA as a costsaving measure, several institutes may be performing outpatient TKA without developing a standardized care pathway, leading to poor patient selection and higher readmission rates. Because the Lovald and colleagues review is on a much larger scale and follows outcomes at multiple centers for a longer time period, it highlights some interesting data that need to be further explored in a prospective manner.
+Berger and colleagues27 had 100 participants and saw 2 readmissions within the first few weeks for a cardiac event and a bleeding gastric ulcer as well as a further SSI and manipulation under anesthesia for arthrofibrosis. Berger and colleagues26 reported 4 readmissions from the TKA group within the first week (2 for anemia, 1 for gastrointestinal [GI] bleed and 1 deep vein thrombosis [DVT]), 4 more within the first 3 months (2 SSIs, 1 GI bleed, and 1 admission for manipulation under anesthesia), and 2 visits to the ED for nausea and benign swelling. Based on these reports, the investigators note that readmissions may be higher in an unselected patient group and recommended a more stringent screening process.
+
+Impact of Outpatient Total Joint Replacement
+
+43
+
+Springer and colleagues,10 however, who reported strict criteria excluding patients with active cardiopulmonary disease, history of sleep apnea, DVT, or pulmonary embolism, had similar numbers, with a 12% readmission rate for outpatient TKAs compared with 6% for inpatient TKAs as well as 3 ED visits, which was more than the inpatient TKA and all THA patients combined. The most common reasons for this included wound issues, inadequate pain control, or adverse reaction to pain medication. This report demonstrates that even in a select group, outpatient TKA does continue to show a trend toward a higher rate of readmissions and ED visits.
+Patient-Reported Outcomes Springer and colleagues10 reported no difference in satisfaction between patients undergoing inpatient TKA compared with outpatient TKA. For the remainder of the studies, no investigators used PRO assessments. Kesterke and colleagues22 reported that PRO assessments can be conducted electronically for all ages without difficulty and can be carried out quickly, such as in the waiting room before follow-up appointment. This reduces the issues with compliance when postal questionnaires are used. Future studies should incorporate appropriate PRO assessments because it is particularly important to collect longitudinal data when evaluating a procedure.22
+Cost Similar to the outpatient THA, the outpatient TKA has been shown to be a cost-saving procedure. A Canadian study by Huang and colleagues24 demonstrated a savings of 30% of inpatient costs. Although a majority of savings came from the surgical floor care, there were also reductions in pharmacy costs and physiotherapy. Lovald and colleagues,25 in a largescale review of the US Medicare population, showed a mean savings of $8527 for the outpatient cases compared with the standard stay patients. And with Medicare paying for an estimated 55% of TKAs, this represents significant federal savings. The trend in these studies is that the outpatients tend to have fewer comorbidities and be younger, thus likely requiring less medications and services. The study by Huang and colleagues24 only reported on 20 patients who had no readmissions or complications. Lovald and colleagues25 recorded readmissions but not ED or office visits. Because the authors have seen that outpatient TKAs can result in more readmissions and ED/office visits, it is unlikely this has been factored into these
+
+studies and unclear how much of an impact this will make on overall cost. Springer and colleagues10 noted that the implementation of the Patient Care and Affordability Act has increased scrutiny of 30-day hospital readmissions. This includes the potential for 3% penalties of total hospital reimbursements. Clement and colleagues29 estimated that if Medicare stopped reimbursing for readmissions after THA, their hospital would lose $11,494 per episode of care. Based on the available data, outpatient TKA seems to be higher risk financially when taking the fiscal consequences into consideration and more research is needed to weigh the cost saving benefits against potential implications.
+SUMMARY
+Outpatient total joint replacement seems safe and feasible in certain populations. From the data available, it is evident that younger patients with a lower BMI and fewer comorbidities are appropriate candidates. Many participants selfselected their outpatient status, thus more randomized trials are needed to eliminate this bias. Standardized clinical protocols and a multidisciplinary approach are vital to the success of the outpatient pathway. Larger-scale prospective randomized trials are also needed to determine how postoperative outcomes compare with a standard inpatient and who will beneﬁt most from this intervention. Outpatient TKA has a slightly higher rate of readmission and ED visits, compared with outpatient THA. Outpatient TJA has been shown consistently cost saving; however, if hospitals are penalized for readmissions, costs may increase. PROs, when used, tend to show statistically signiﬁcant improvements after outpatient joint replacement but these should be used routinely and compared with a control group in the future for maximal beneﬁt.
+REFERENCES
+1. Kurtz S, Ong K, Lau E, et al. Projections of primary and revision hip and knee arthroplasty in the United States from 2005 to 2030. J Bone Joint Surg Am 2007;89(4):780.
+2. Schairer WW, Sing DC, Vail TP, et al. Causes and frequency of unplanned hospital readmission after total hip arthroplasty. Clin Orthop Relat Res 2014; 472(2):464–70.
+3. Ramkumar PN, Chu CT, Harris JD, et al. Causes and rates of unplanned readmissions after elective primary total joint arthroplasty: a systematic review and meta-analysis. Am J Orthop (Belle Mead NJ) 2015;44(9):397–405.
+
+44
+
+Lovett-Carter et al
+
+4. Ong KL, Kurtz SM, Lau E, et al. Prosthetic joint infection risk after total hip arthroplasty in the Medicare population. J Arthroplasty 2009;24(6): 105–9.
+5. Whitehouse JD. The Impact of surgical site infections following orthopaedic surgery at a community hospital and a university hospital adverse quality of life, excess length of stay, and extra cost. Infect Control Hosp Epidemiol 2002;23(4):183–9.
+6. Kolisek FR, McGrath MS, Jessup NM, et al. Comparison of outpatient versus inpatient total knee arthroplasty. Clin Orthop Relat Res 2009;467(6): 1438.
+7. Den Hartog YM, Mathijssen NM, Vehmeijer SB. Reduced length of hospital stay after the introduction of a rapid recovery protocol for primary THA procedures. Acta Orthop 2013;84(5):444–7.
+8. Goyal N, Chen AF, Padgett SE, et al. Otto Aufranc Award: a multicenter, randomized study of outpatient versus inpatient total hip arthroplasty. Clin Orthop Relat Res 2017;475(2):364–72.
+9. Aynardi M, Post Z, Ong A, et al. Outpatient surgery as a means of cost reduction in total hip arthroplasty: a case-control study. HHS J 2014;10(3): 252–5.
+10. Springer BD, Odum SM, Vegari DN, et al. Impact of inpatient versus outpatient total joint arthroplasty on 30-day readmission rates and unplanned episodes of care. Orthop Clin North Am 2017;48:15–23.
+11. Bertin KC. Minimally invasive outpatient total hip arthroplasty. Clin Orthop Relat Res 2005;435: 154–63.
+12. Dorr LD, Thomas DJ, Zu J, et al. Outpatient total hip arthroplasty. J Arthroplasty 2010;25(4):501–6.
+13. Berger RA, Sanders SA, Thill ES, et al. Newer anesthesia and rehabilitation protocols enable outpatient hip replacement in selected patients. Clin Orthop Relat Res 2009;467(6):1424–30.
+14. Berger RA, Jacobs JJ, Meneghini RM, et al. Rapid rehabilitation and recovery with minimally invasive total hip arthroplasty. Clin Orthop Relat Res 2004; 429:239–47.
+15. Berger RA. Total hip arthroplasty using the minimally invasive two-incision approach. Clin Orthop Relat Res 2003;417:232–41.
+16. Den Hartog YM, Mathijssen NM, Vehmeijer SBW. Total hip arthroplasty in an outpatient setting in 27 selected patients. Acta Orthop 2015;86(6): 667–70.
+17. Winther SD, Foss OA, Wik TS, et al. 1-Year follow-up of 920 hip and knee arthroplasty
+
+patients after implementing fast-track. Acta Orthop 2015;86(1):78–85. 18. Bal BS, Lowe JA. Muscle damage in minimally invasive total hip arthroplasty: MRI evidence that it is not significant. Instr Course Lect 2008;57:223–9. 19. Woolson ST, Pouliot MA, Huddleston JI. Primary total hip arthroplasty using an anterior approach and a fracture table: short-term results from a community hospital. J Arthroplasty 2009;24(7): 999–1005. 20. Seng BE, Berend KR, Ajluni AF, et al. Anterior-supine minimally invasive total hip arthroplasty: defining the learning curve. Orthop Clin North Am 2009;40(3):343–50. 21. Phillips CB, Barrett JA, Losina E, et al. Incidence rates of dislocation, pulmonary embolism, and deep infection during the first six months after elective total hip replacement. J Bone Joint Surg Am 2003;85(1):20–6. 22. Kesterke N, Egeter J, Erhardt JB, et al. Patient-reported outcome assessment after total joint replacement: comparison of questionnaire completion times on paper and tablet computer. Arch Orthop Trauma Surg 2015;135:935–41. 23. Specht K, Kjaersgaard-Anderson P, Pederson BD. Patient experience in fast-track hip and knee arthroplasty – a qualitative study. J Clin Nurs 2015;25:836–45. 24. Huang A, Ryu JJ, Dervin G. Cost savings of outpatient versus standard inpatient total knee arthroplasty. Can J Surg 2016;60(1):57–62. 25. Lovald ST, Ong KL, Malkani AL, et al. Complications, mortality and costs for outpatients and short-stay total knee arthroplasty patients in comparison to standard-stay patients. J Arthroplasty 2014;29(3):510–5. 26. Berger RA, Kusuma SK, Sanders SA, et al. The feasibility and perioperative complications of outpatient knee arthroplasty. Clin Orthop Relat Res 2009; 467(6):1443–9. 27. Berger RA, Sanders S, D’Ambrogio E, et al. Minimally invasive quadriceps-sparing TKA: results of a comprehensive pathway for outpatient TKA. J Knee Surg 2006;19:145–8. 28. Goble EM, Justin DF. Minimally invasive total knee replacement: principles and technique. Orthop Clin North Am 2004;35:235. 29. Clement RC, Derman PB, Graham DS, et al. Risk factors, causes, and the economic implications of unplanned readmissions following total hip arthroplasty. J Arthroplasty 2013;28(8 Suppl):7–10.

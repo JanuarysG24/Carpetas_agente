@@ -1,0 +1,2255 @@
+FACTORES ASOCIADOS CON LA INSATISFACCIÓN DE LOS PACIENTES EN LOS RESULTADOS QUIRÚRGICOS DE REEMPLAZO TOTAL DE RODILLA A LOS 3 Y 6
+MESES POSOPERATORIOS.
+Presentado por: Julián David Monroy Tovar Residente Ortopedia y Traumatología UNAB
+Universidad Autónoma de Bucaramanga Especialización en Ortopedia y Traumatología
+Floridablanca Santander 04/12/2025
+
+FACTORES ASOCIADOS CON LA INSATISFACCIÓN DE LOS PACIENTES EN LOS RESULTADOS QUIRÚRGICOS DE REEMPLAZO TOTAL DE RODILLA A LOS 3 Y 6
+MESES POSOPERATORIOS.
+Presentado por: Julián David Monroy Tovar Residente Ortopedia y Traumatología UNAB
+Director del Postgrado Ortopedia y Traumatología Dr. Diego Martínez Villalba
+Jefe Programa Ortopedia y Traumatología UNAB
+Director de proyecto de grado: Dr. Rolando Francisco Espitia Concha Profesor Ortopedia y Traumatología UNAB
+Asesor Metodológico: Dr. Sergio Serrano Gómez Magister en Epidemiología
+Universidad Autónoma de Bucaramanga Especialización en Ortopedia y Traumatología
+Floridablanca Santander 04/12/2025
+
+Contenido
+1. Justificación: ..........................................................................................................................5 2. Marco teórico: ......................................................................................................................10
+2.1 Generalidades....................................................................................................................10 2.2. Embriología de la Rodilla..............................................................................................10 2.3 Anatomía de la rodilla ......................................................................................................12 2.4 Biomecánica de la rodilla................................................................................................14 2.5 Epidemiología de la Osteoartrosis ...............................................................................15 2.6 Fisiopatología de la Osteoartrosis ...............................................................................16 2.7 Factores de riesgo Osteoartrosis .................................................................................17 2.8 Diagnóstico Osteoartrosis..............................................................................................17 2.9 Opciones de Manejo ........................................................................................................18 2.10 Reemplazo total de rodilla RTR...................................................................................20
+2.11 Escalas de satisfacción y funcionales ..................................................................22 2.12 Factores asociados a insatisfacción RTR ................................................................23 3. Estado del Arte: ...................................................................................................................29 4. Pregunta de Investigación ................................................................................................34 5. Objetivos ...............................................................................................................................35 5.1 Objetivo General ...............................................................................................................35 5.2 Objetivos específicos .................................................................................................35 6. Hipótesis................................................................................................................................36 7. Metodología ..........................................................................................................................37 7.1 Tipo de estudio ............................................................................................................37 7.2 Población.......................................................................................................................37 7.3 Criterios de inclusión .................................................................................................37 7.4 Criterios de exclusión ................................................................................................37 7.5 Cálculo de tamaño de muestra ................................................................................37 7.6 Muestreo ........................................................................................................................38 7.7 Recolección de la información.................................................................................38 7.8 Variables ........................................................................................................................38 7.9 Plan de análisis de datos...........................................................................................39 7.10 Consideraciones éticas. ............................................................................................39 8. Resultados ............................................................................................................................42 9. Discusión...............................................................................................................................65 10. Conclusiones....................................................................................................................69
+
+11. Referencias Bibliográficas ............................................................................................71 12. Variables ............................................................................................................................77 13. Cronograma de actividades ..........................................................................................86 13. Presupuesto...........................................................................................................................87 13.1 Presupuesto Global. .......................................................................................................87
+13.2 Presupuesto desglosado ..............................................................................................87 13.21 Presupuesto Personal .............................................................................................87 13.22 Material consumible.................................................................................................88 13.23 Equipo y Software ....................................................................................................88 13.24 Salidas de Campo.....................................................................................................88 13.25 Publicaciones y material bibliográfico ................................................................89 13.26 Viaje .............................................................................................................................89
+
+1. Justificación:
+La osteoartrosis (OA) es una enfermedad degenerativa crónica con gran morbilidad que puede generar dolor, edema y rigidez articular, es una de las principales causas de discapacidad, generando gran morbilidad, puede afectar cualquier tipo de articulación, sin embargo, la articulación más frecuentemente afectada es la rodilla, hasta el 10% de los hombres y 13% en mujeres mayores de 60 años presentan artrosis de rodilla. (1)
+En un análisis sistemático de la carga Global de enfermedades, se evidencio una prevalencia global de OA del 7.6% en 204 países en el año 2020, con un aumento del 132.2% en el total de casos comparado con los casos en el año 1990, la rodilla fue el sitio más común de osteoartritis, se estima que aumentará un 74.9% para el año 2050. (2) A nivel mundial se evidencia una tasa de incidencia anual de OA de cadera y rodilla sintomática confirmada por radiografía es de 3754.2 por 100.000 personas (3). En el estudio realizado por Jordan y colaboradores en el Condado de Johnston en Carolina del Norte se evidencia una prevalencia de artrosis sintomática rodilla del 16% y del 8% de artrosis severa de rodilla (4). En el estudio realizado por Danhui Li y colaboradores, se evidencia una prevalencia de OA rodilla sintomática en China de 14.6%, la prevalencia aumento con la edad después de los 40 años y las mujeres presentaron mayor incidencia de OA en rodilla. (5)
+La prevalencia aumenta gradualmente con el envejecimiento poblacional, La prevalencia de la artrosis de rodilla ajustada por edad y sexo es del 6.0% según un estudio transversal realizado en población adulta en Grecia estudio realizado por Andrianakos y colaboradores, también se documentó en el estudio que la osteoartrosis de rodilla fue significativamente mayor en mujeres y la prevalencia aumenta con la edad, los síntomas en rodilla fueron significativamente más comunes en área rural comparado con la urbana y la población suburbana. (6)
+
+En el estudio realizado por Jordan y colaboradores en población mayor de 45 años afroamericanos y caucásicos, se evidencio una prevalencia de los síntomas en rodilla del 43%, con un 28% de pacientes con cambios radiográficos de osteoartritis en rodilla, se evidencio una prevalencia mayor de osteoartritis de rodilla en mujeres, adicionalmente se evidencia que los afroamericanos tiene una prevalencia mayor de osteoartritis grave de rodilla 13.9% en comparación con caucásicos del 6.6%. (4)
+La OA es más común en mujeres que en hombres, aumenta con la edad después de los 40 a 50 años, es mayor en países desarrollados que en países en desarrollo, en ciertos países la prevalencia fue alta en áreas rurales, la prevalencia global de la artrosis de rodilla sintomática confirmada radiográficamente en 2010 se estimó en 3.8%, la artrosis de cadera es menos común. La edad es el principal factor de riesgo para OA, la obesidad con índice de masa corporal >30 kg/m2, se asocia a artrosis de rodilla, los factores genéticos están asociados hasta en un 40% con artrosis de rodilla, niveles bajos de vitamina D, C y K también se han asociado con OA, lesiones asociadas como lesión ligamento cruzado anterior (LCA) provoca artrosis rodilla en el 13% de los casos después de 10 a 15 años, también la prevalencia de artrosis en rodilla es mayor en pacientes con lesiones meniscales y lesión ligamentos colaterales están entre 21 al 40%, a pesar que la reconstrucción ligamentaria del LCA mejora la estabilidad no previene la artrosis. (7)
+Dentro de los factores de riesgo más relevantes en la osteoartrosis de rodilla se encuentra la edad, lesiones previas en rodilla, obesidad, mala alineación, inestabilidad, actividades repetitivas como arrodillarse, levantar objetos pesados, se asocia también con actividades deportivas como futbol, baloncesto, la inactividad física es otro factor de riesgo, la debilidad muscular, predominio debilidad en músculos extensores de rodilla. (8)
+
+La morbilidad de la OA es marcada y limita las actividades diarias, con un 22% para caminar, un 18.6% para llevar objetos y 12.8% para vestirse, contribuyo a necesidad ayuda en el 9.3% de familiar, 11.8% profesionales de salud, y 8.9% de prestación de servicios de salud, lo que conlleva a una necesidad de uso de ortesis para ayudar a caminar. (7)
+Existen manejo no farmacológico, farmacológicos y manejo quirúrgico para la OA de rodilla, dentro del manejo no farmacológicas se encuentra la educación, pérdida de peso, ejercicio, terapia física para fortalecimiento miembro inferiores, manejo del dolor y estado funcional. Dentro del manejo farmacológico, dentro de la primera línea de manejo se encuentran los medicamentos antiinflamatorios no esteroides (AINE) que alivian el dolor. (9)
+Los pacientes quienes presentan dolor persistencia, limitación funcional y cambios radiográficos avanzados de osteoartritis de rodilla, son candidatos para reemplazo total de rodilla. Más de 700.000 reemplazos total rodilla primaria se realizan anualmente en Estados Unidos, de los cuales más del 90% es por osteoartritis, la tasa complicaciones es menor del 5%. La tasa de fracaso es mayor en pacientes jóvenes activos, pacientes con comorbilidades o pacientes operados en centros de bajo volumen quirúrgico o por intervenidos por ortopedistas con bajo volumen de reemplazos. (9)
+La artroplastia de rodilla o reemplazo total de rodilla (RTR) proporciona beneficios en la calidad de vida del paciente, en el alivio del dolor y la función articular, sin embargo, se evidencia hasta un 30% de insatisfacción. Debido al alto porcentaje de insatisfacción en paciente quienes reciben reemplazo total rodilla se vuelve un motivo relevante para investigar las tasas de insatisfacción, posibles factores asociados. Dentro de los factores que influyen en la calidad de vida y la satisfacción después de un reemplazo total rodilla se encuentran la incapacidad de bajar
+
+escaleras, incapacidad para moverse, dentro de los aspectos psicológicos se encuentra las personas pesimistas(10)
+Dentro de los factores que pueden estar relaciones con la insatisfacción en posoperatorios reemplazo total rodilla se encuentra la edad, a pesar que hay estudios que muestras no diferencias entre pacientes jóvenes < de 65 años de edad y paciente de edad avanzada > 75 años, hay otros estudios como el realizado por Parvizi y colaboradores, quien evidencio malos resultados en pacientes jóvenes, con edad promedio de 54 años, por lo que se tiene que considerar estos resultados en pacientes jóvenes con indicación de reemplazo total de rodilla. Cherian y colaboradores informaron puntuaciones funcionales y niveles de actividad más alto en hombres que en mujeres en postoperatorio RTR (10)
+Algunos estudios sugieren que el nivel socioeconómico y el acceso a atención médica, pueden explicar peores resultados en posoperatorios de reemplazo total de rodilla. Las comorbilidades psicológicas también se asocian a tasas altas de insatisfacción, patológicas mal controladas como la ansiedad, depresión y la fibromialgia con OA tiene un efecto negativo. Las comorbilidades no controladas afectan negativamente las escalas funcionales. La intensidad del dolor preoperatorio afecta negativamente la calidad de vida posoperatoria (10). Se deben evaluar los antecedentes psicológicos en especial énfasis en paciente con indicación reemplazo total rodilla.
+Hay unos factores preoperatorios, intraoperatorios y postoperatorios asociados a insatisfacción posoperatorio de RTR, dentro de los factores preoperatorios se evidencia el estado mental, depresión que influye en la percepción del dolor. Dentro de los factores intraoperatorios se han estudios tipo prótesis, métodos implantación, técnicas quirúrgicas, alineación componentes, sin embargo, no se han identificado aumento insatisfacción entre tipos prótesis o retención del ligamento cruzado.
+
+Dentro de los factores posoperatorios se evidencia que una mayor estancia hospitalaria se asoció a complicaciones posoperatorias y mayor insatisfacción. (11).
+La insatisfacción en posoperatorios de RTR es alta, a pesar de los avances preoperatorios, intraoperatorios y posoperatorios, aún sigue muy elevado el porcentaje de insatisfacción en reemplazo articular de rodilla, adicionalmente hay muy poca literatura local de la insatisfacción en posoperatorios de reemplazo total de rodilla, por esta razón es relevante el tema y aun toma más importancia por el evidente aumento de número de pacientes que requieren reemplazos articulares, de aquí radica la importancia de la realización del presente estudio y evaluar posibles factores asociados a la insatisfacción posoperatoria de reemplazo total de rodilla.
+
+2. Marco teórico:
+2.1 Generalidades
+La rodilla es la articulación sinovial más grande tipo diartrosis, formado por estructuras como son: fémur distal, tibia y peroné proximal, rotula, cartílago, ligamentos, meniscos y membrana sinovial, esta última es la responsable de la lubricación de la rodilla y nutre el cartílago, el cartílago está compuesto >70 % de agua y componentes orgánicos de la matriz extracelular como colágeno tipo II, agrecano y proteoglicanos, debido al alto estrés y uso articular, la rodilla es un lugar frecuente de dolor. (1)
+La OA durante mucho tiempo se conocía como un trastorno caracterizado por desgaste articular únicamente, sin embargo, la fisiopatología es compleja, la sociedad Internacional de osteoartritis define la osteoartritis como un trastorno metabólico seguido de trastornos anatómicos y fisiológicos caracterizados por deterioro de cartílago, remodelación ósea, formación osteofitos, respuesta inflamatoria local articular y perdida funcional. (9) La OA de rodilla representa una de las principales causas de discapacidad global, con una prevalencia general de 300 millones para OA de cadera y rodilla, discapacidad que es progresiva y que conducen a reemplazos protésicos (12)
+2.2. Embriología de la Rodilla
+El desarrollo embrionario puede dividirse en varias etapas, las primeras siete u ocho semanas después de la concepción se dividen en 23 etapas. A las 4 semanas después de la concepción que corresponde con la etapa 13, las yemas de las extremidades inferiores comienzan a desarrollarse, son seguidas por un engrosamiento ectodérmico, en el estadio 18 la cresta apical se desarrolla juntos
+
+con la condrificación de la epífisis inferior del fémur y la epífisis superior de la tibia y peroné, en la etapa 19 las células mesenquimales comienzan a condensarse en el ligamento colateral lateral LCL, ligamento colateral medial LCM, poplíteo y la rótula, en la etapa 20 los cóndilos femorales y platillos tibiales se continúan condrificándose, y se diferencia el retináculo rotuliano, se forma el tendón rotuliano, en la etapa 21 que corresponde a la semana 7.5 se forma la cavidad articular patelofemoral, los ligamento cruzados son visibles, en la etapa 22 se forma el compartimiento femoromeniscal y el meniscotibial, en la etapa 23 la diáfisis tibial y femoral comienzan a osificarse, se condensan tejido mesenquimal de meniscal, ligamento cruzados, la etapa 23 se extiende hasta final de la semana 8, es la última etapa desarrollo embriológico. (13)
+En la semana 9 se fusionan las cavidades articulares femoropatelar, femoromeniscal, meniscotibial, para formar articulación de la rodilla adulta, en la semana 10-11 del desarrollo fetal comienza a formarse ligamento popliteofibular, durante la semana 12-13 la cavidad rodilla comienza a alcanzar apariencia final, a la semana 14 se comienza a formar la tuberosidad tibial, a la semana 15.5 se ven claros los retináculos medial y lateral, en la semana 16.5 la osificación tibia y fémur diafisaria progresa a la metáfisis, a la semana 19 la almohadilla grasa está bien desarrollada, la osificación endocondral de la tuberosidad de la tibia se alcanza a la semana 20. (13)
+Inicialmente existen una cavidad femoropatelar y dos femoromeniscales, posteriormente se forman dos cavidades meniscotibiales, la cavidad tibioperonea superior es considerado como un sexto espacio y se comunica temporalmente con la cavidad articular de la rodilla. La desaparición de la comunicación con la cavidad tibioperonea superior y formación de una única cavidad se da durante la semana 12-13 del desarrollo según Palacios y Rhode en 1980, semana 8 según Keith en 1933. (14)
+
+2.3 Anatomía de la rodilla
+La rodilla es una articulación sinovial más grande, la articulación incluye una articulación condiloidea entre los cóndilos femorales y la tibia, y una articulación en silla de montar entre la superficie posterior de la rótula y la superficie rotuliana del fémur, los movimiento principales de la rodilla son la flexión entre 120 ° -150 ° y la extensión entre 5-10 °, en extensión la rodilla se tensa a medida que el cóndilo femoral medial se desliza sobre menisco medial y la tibia, mientras cóndilo femoral lateral permanece en su lugar, el movimiento de rotación comienza a los 70 ° de extensión y alcanza su máximo a los últimos 10 °. La rotación externa de la tibia respecto al fémur es de 30-40° y de 10° rotación interna. (15)
+La articulación tibiofemoral está formada por el extremo distal del fémur y las caras proximales de la tibia, el extremo distal del fémur lo constituyen dos cóndilos separados por una profunda escotadura en forma de U llamada fosa intercondílea, los meniscos son estructuras fibrocartilaginosa curvas en la periférica de la articulación tibiofemoral, el menisco medial tiene una anchura de 10 mm y su asta posterior es más ancha que la porción medial, la curvatura del menisco medial es más ancha que la del menisco lateral, el menisco lateral tiene una anchura de 1213 mm, se asemeja a un anillo cerrado, mientras que el menisco medial es en forma de C, el menisco lateral presenta conexiones laxas a la cápsula lateral, lo que le permite rotar alrededor de sus conexiones centrales. (16)
+La sinartrosis se estabiliza por los ligamentos, los ligamentos colaterales contienen más fibras de elastina dentro de las fibras de colágeno, presentan patrón ondulado de las fibras de colágeno. El ligamento colateral medial tiene tres capas y se inserta superiormente en el epicóndilo femoral medial, e inferiormente en la tibia debajo del cartílago, el ligamento colateral lateral se extiende posteriormente desde borde lateral tendón rotuliano hasta el ligamento cruzado posterior, se divide en tres fascículos de extienden desde el epicóndilo lateral del fémur hasta la cabeza del
+
+peroné, la cara anterior es la cápsula, la porción media es el tracto iliotibial y la porción posterior se componen de fibras interdigitales de la cápsula, se denomina complejo ligamento arcuato, el musculo poplíteo forma parte del suelo hueco poplíteo. El ligamento cruzado anterior LCA emerge de la cara no articular de la tibia y pasa superior, lateral, se inserta en la porción posterior de la escotadura intercondílea, es llamado anterior por la inserción tibial, tiene dos fascículos, uno anteromedial y otro posterolateral el cual es voluminoso, el Ligamento cruzado posterior LCP se inserta en la cara lateral cóndilo femoral tibial, se inserta en forma abanico sobre el borde posterior de la tibia. (16)
+La rótula es un hueso sesamoideo forma parte del tendón del cuádriceps, tiene tres láminas, la capa superficial del cuádriceps, la capa media: medial y lateral y la capa profunda, el cuádriceps está inervado por el nervio femoral, formado por la división anterior primaria de las raíces nerviosas L2-L4, los músculos anteriores del muslo se encuentra el músculo sartorio, tensor de la fascia latera, existen bolsas en la articulación rodillas para evitar fricción y permitir lubricación.(16)
+La rótula tiene una cara anterior que es convexa, una cara articular con dos superficies ligeramente cóncavas para los cóndilos separadas por una cresta vertical, una base da la inserción del tendón cuádriceps, bordes lateral y medial y el vértice inserción del tendón patelar que se inserta a la tuberosidad tibial.(17)
+La circulación de la rodilla está dada por cinco ramas de la arteria poplítea, la arteria femoral tiene su origen en la arteria ilíaca, desciende y se divide en arteria femoral profunda y cuatro arterias perforantes, cuando la arteria poplítea llega al espacio poplíteo se divide en dos arterias inferiores de la rodilla, las arterias posteriores forman el complejo suprarrotuliano, la arteria media emerge porción posterior de la arteria poplítea, se divide en tres ramas: la media sigue trayecto del ligamento cruzado anterior, dos restantes que penetran a nivel perimeniscal, las arterias
+
+inferiores discurren por el borde de la meseta tibial. La arteria poplítea se divide en arteria geniculares superiores, media, dos inferiores(16)
+2.4 Biomecánica de la rodilla
+La rodilla es la articulación más grande y compleja del cuerpo, entre el fémur distal, tibia proximal y rótula, está rodeada por cápsula, ligamentos, tendones y músculos que determinan la estabilidad y arcos de movilidad de la rodilla, en la articulación tibiofemoral la meseta tibial medial es más grande que la lateral y es cóncava, mientras la meseta tibial lateral es convexa, ambas presentan una inclinación posterior de 7°, las mestas tienen una inclinación en varo de 3°, la meseta tibial medial tiene mayor restricción, que la lateral. (18)
+El ángulo Q del cuádriceps está formado por líneas que conectan el centro de la rótula con la espina ilíaca anterosuperior proximalmente y el centro del tubérculo tibial distal, es rango normal es de 10-14° en hombres y en 15-17° en mujeres, mientras mayor sea el ángulo Q mayor será la fuerza lateral sobre la rótula y factor de riesgo de subluxación femororrotuliana, la restauración del ángulo Q es relevantes en el reemplazo total de rodilla. (18)
+Los tejidos blandos de la rodilla, ligamento cruzados anterior y posterior, son los principales restrictores de la traslación anterior y posterior de la tibia, conocidos por el mecanismo de la articulación de cuatro bandas, los ligamentos cruzados forman dos barras cruzadas y los huesos otras dos, a medida que se flexiona o se extiende, los ligamentos cruzados pivotean. Los meniscos medial y lateral aumentan la congruencia entre las superficies, la carga compresiva del fémur se trasmite a la interfase menisco tibial, y los meniscos soportan el 70% de la carga sobre la articulación, los meniscos protegen las superficies articulares a fuerzas tensiles excesivas, las tensiones circunferenciales se encuentran en un plano diferente a la carga articular para reducir la tensión en los meniscos. (18)
+
+El cartílago articular es un tejido complejo estructuralmente y funcionalmente, la principal función es la transmisión de la carga, absorción de fuerza y la lubricación. El cartílago es hipocelular, contiene condrocitos, matriz extracelular, colágeno, proteoglicanos y agua, las capas adyacentes al hueso subcondral contiene mayor contenido de proteoglicanos y menor agua, la disposición de las fibras de colágeno y condrocitos cambian, a nivel superficial los condrocitos son más planos y alargados, fibras colágeno aleatoriamente, las zonas más profundas presentan condrocitos en columnas con fibras de colágeno perpendiculares a la superficie articular. (19)
+El cartílago articular es un medio bifásico, la fase solida está compuesta por colágeno, condrocitos, proteoglicanos y lípidos y la fase fluida protegen la fase sólida a daños durante la carga. El cartílago mantiene un pH Neutro, durante la compresión aumenta la presión del líquido intersticial en el tejido condral y los iones de proteoglicanos con carga negativa se aproximan, lo que resulta en un aumento de las fuerzas de repulsión, lo que proporciona rigidez compresiva conocido como mecanismo independiente del flujo. (19)
+2.5 Epidemiología de la Osteoartrosis
+La OA es la causa más frecuente de limitación funcional en adultos, afecta más de 240 millones de personas en todo el mundo, generalmente afecta manos, rodillas, caderas y pies, pero puede afectar cualquier articulación, el 30 % personas mayores de 45 años de edad tienen cambios radiográficos de osteoartritis, de los cuales aproximadamente la mitad tienen síntomas en rodilla, los cambios radiológicos incluyen la presencia de osteofitos marginales, estrechamiento del espacio articular. (9)
+
+2.6 Fisiopatología de la Osteoartrosis
+La OA se caracteriza por una desaparición gradual del cartílago, con pérdida condrocitos, donde se evidencia una diferenciación fenotípica, se desarrollan canales vasculares que contienen osteoblastos y nervios sensoriales, facilitan comunicación ósea con el cartílago. Los condrocitos producen mediadores inflamatorios que conducen a la progresión de la osteoartrosis, lo que conlleva a daños del cartílago. (20)
+La osteoartritis no solo afecta el cartílago de la articulación comprometida, sino que afecta la membrana sinovial, el complejo ligamentario, músculos y grasa periarticular, clínicamente los pacientes con osteoartritis presentan dolor, rigidez ensanchamiento de la articulación y limitación funcional. Desde la biomecánica la alineación en varo de las extremidades inferiores desplaza la carga hacia el compartimiento medial, lo que aumenta el riesgo artrosis, cuando se presenta alteración de la alineación en valgo se desplazada la carga al compartimiento lateral lo que lleva artrosis lateral. (9)
+Se ha identificados citocinas proinflamatorias y factores crecimiento, dentro de las citoquinas alta en líquidos sinovial en osteoartrosis están IL 6, MCP 1, IP 10 y MIG, los factores proinflamatorios generan destrucción y remodelación de la articulación por acción de metaloproteinas de matriz, las cuales degradan matriz, factores de crecimiento como TGF β y BMP 2 promueven formación de osteofitos y esclerosis subcondral. (9)
+Los condrocitos detectan estrés mecánico, estos cambios mecánicos e inflamatorios generan agrecanasa y colagenasa, las principales encimas que degradan matriz del cartílago son las metaloproteinasas dependientes de Zinc (MMP), las MMP incluyen colagenasas MMP 1, MMP 3 la cual es una potente
+
+agrecanasa, MMP 13 la cual es altamente eficiente contra el colágeno tipo II. La sobrecarga y la inflamación conducen degradación del cartílago. La prostaglandina E2 es uno de los principales factores catabólicos asociados a OA, la MMP es fundamental para la degradación de cartílago. La hipoxia es fundamental para la función condrocito, cuando se produce osteoartrosis se desarrollan vasos que facilitan la comunicación ente hueso y cartílago de citocinas, quimiocinas y alarminas, lo cual causan la degradación del cartílago. (1)
+2.7 Factores de riesgo Osteoartrosis
+Dentro de los factores de riesgo para presenta osteoartritis se encuentra la edad, sexo femenino, la obesidad, la genética y antecedente de lesiones articulares importantes, las personas con osteoartritis son más sedentarias y tiene más comorbilidades, el riesgo de artrosis de rodilla es mayor en personas con IMC > 30, riesgo del 19.7% vs 10.9 personas no obesas. Las personas con antecedente traumático con ruptura ligamento cruzado anterior o fracturas de tobillo aumenta el riesgo de artrosis de rodilla en 12 %. Las mujeres tienen más síntomas y hallazgos radiológicos más graves en comparación con los hombres. Teniendo en cuanta la raza, las mujeres afroamericanas tienen prevalecía más alta de osteoartritis de rodilla. (9)
+2.8 Diagnóstico Osteoartrosis
+La OA se debe diagnosticar con métodos patológicos, clínicos y radiológicos. El método radiográfico se basa principalmente en la clasificación de Kellgren Lawrence KL, donde se clasifica con niveles de 0 a 4, define la OA como la presencia de un osteofito definido y puede presentarse grados severos con estrechamiento articular, deformidad y con formación de quistes óseos. (1)
+
+La OA de rodilla se clasifica como primaria o idiopática y secundaria, dentro de las causas secundaria de rodilla se encuentran las malformaciones congénitas, malposición en varo, valgo, postraumática, posoperatorio, metabólicas: como raquitismo, hemocromatosis, condrocalcinosis, ocronosis, alteraciones endocrinológicas como: Acromegalia, hiperparatiroidismo, hiperuricemia y osteonecrosis aséptica. (21)
+2.9 Opciones de Manejo
+Existen diferentes opciones de manejo de la artrosis de rodilla, medidas no farmacológicas como educación, pérdida de peso, ejercicio, terapia física para fortalecimiento miembro inferiores, manejo del dolor y estado funcional. Los medicamentos antiinflamatorios no esteroides (AINE) son el tratamiento farmacológico de primera línea, alivian el dolor con un efecto moderado, los AINE tópico tiene menos toxicidad gastrointestinal que los orales, sin embargo, son menos útiles para control del dolor en artrosis. Debido a que el dolor puede estar mediado por mecanismos del sistema nervioso central, hay opciones para manejo del dolor de origen central, la duloxetina y noradrenalina producen alivio del dolor en artrosis de rodilla, la gabapentina puede tener eficacia, pero la evidencia es limitada. El uso de opioides fuertes se desaconseja en el OA. El manejo con inhibidores IL 1, TNF α en OA no han logrado aliviar síntomas ni detener progresión enfermedad. (9)
+Las recomendaciones de la EULAR, un grupo de trabajo conformado por 25 miembros que representan 14 países europeos, recomiendan un plan de manejo individualizado, enfoque hacia la educación, ejercicio progresivo, manteniendo peso saludable, pérdida de peso, calzado adecuado, asesoramiento laboral, estilo vida saludable. (22)
+
+La Sociedad Europea de Aspectos Clínicos y Económicos de la Osteoporosis, la Osteoartritis y las Enfermedades Musculoesqueléticas (ESCEO) recomienda firmemente el acceso información, educación, pérdida de peso y programas de ejercicios como base tratamiento para la OA de rodilla, dentro manejo farmacológico recomienda firmemente el uso AINE tópicos como analgesia complementaria, y recomienda firmemente el uso AINE orales. La ESCEO recomienda firmemente la cirugía de reemplazo total de rodilla para paciente con artrosis terminal. (23)
+Dentro de las opciones no quirúrgicas, se encuentran las inyecciones intraarticulares corticoesteroides, son más eficaces que fármaco antiinflamatorios no esteroideos orales y otros sistémicos, la inyección de glucocorticoides es significativamente mayor que otros fármacos, actúan sobre receptores nucleares e interrumpen la cascada inflamatoria, conlleva a efectos antiinflamatorios e inmunosupresores, reducen producción interleucina 1, prostaglandinas, leucotrienos, MMP9, MMP-11, por lo que disminuyen eritema, calor, sensibilidad, aumento movilidad articular, dentro de los corticoesteroides disponibles se encuentran: Acetato metilprednisolona, acetato de triamcinolona, acetato de betametasona, hexacetonida de triamcinolona, fosfato sódico de betametasona y dexametasona. (1)
+La inyección intraarticular de ácido hialuronico, también conocido como viscosuplementación, tiene como objetivo restaurar el entorno articular, se recomienda cuando falla el manejo con inyección corticoides La inyección intraarticular con plasma rico en plaquetas es eficaz y seguro, se puede usar en paciente con artrosis de bajo grado. (1)
+En la revisión sistemática y metaanálisis realizado por Pereira y colaboradores, se evidencia que la viscosuplementación produce una pequeña reducción del dolor por osteoartritis de rodilla en comparación con placebo, sin embargo, el riesgo eventos adversos aumenta, por lo que el estudio no respalda el uso generalizado de
+
+viscosuplementación para osteoartritis de rodilla. (24) En el análisis de la eficacia clínica y la relación costo beneficio de la viscosuplementación para la OA de rodilla realizado en Ottawa muestra dos revisiones que informan superioridad vs el placebo en manejo del dolor y función de rodilla, sin aumentar eventos adversos, otro estudio no observo diferencia significativa sobre el placebo, por lo que la evidencia de la eficacia aun es contradictoria. (25)
+En la revisión sistemática y metaanálisis realizado por Juni y colaboradores, los corticoesteroides pareciesen ser efectivos para mejorar función, sin embargo, la mayoría de los ensayos presentaron baja calidad metodológica, se evidencio que los efectos disminuyen con el tiempo, no hay evidencia que el efecto persista más de 6 meses después de la inyección de corticoesteroide. (26)
+Aunque existen múltiples estudios de fármacos modificadores de la enfermedad para la osteoartritis DMOAD, sin embargo la mayoría de los estudios no son conclusivos, el estudio realizado por Knee AO Structural Arthritis probó la eficacia del residronato para alivio de dolor, sin embargo no alteró la progresión de OA en comparación con placebo, otro fármaco utilizado es el ranelato de estroncio el cual mejor puntuación WOMAC en el ensayo SEKOIA, estos fármacos continúan es estudio, se encuentran en investigación buscando detener la progresión de la OA. (27)
+2.10 Reemplazo total de rodilla RTR
+Los pacientes que persistencia con síntomas, con dolor persistente, con daño estructural y cambios radiográficos avanzados son candidatos a realización reemplazo total articular. Más de 700000 reemplazo primarios de rodilla se realizan anualmente en Estados Unidos, con mortalidad a 90 días menor del 1% y con complicaciones graves menores del 5%. Los pacientes quienes recibieron
+
+reemplazo total de rodilla mejoraran en la puntuación de dolor KOOS en 35 puntos. (9)
+La artroplastia total de rodilla son procedimientos comunes, sin embargo, a pesar de los beneficios que proporciona al paciente a mediano y largo plazo en términos calidad de vida, alivio dolor y función, la tasa de insatisfacción es alta, se reporte un 30 %, la insatisfacción está relacionado con la calidad vida pacientes y la calidad de vida depende de factores físicos, conductuales, sociales y psicológicos. Es relevante definir calidad de vida se basa en evaluaciones de todos sus aspectos incluidos familiares y sociales, la calidad de vida relacionada con la salud puede verse afectado por el estado mental o sentimiento de bienestar físico (10). En otras fuentes bibliográficas se estima un 20 % de insatisfacción después de RTR primaria, identificar la insatisfacción el paciente es desconcertante, se necesitan estudios para cuantificar insatisfacción a nivel local (11)
+El número de RTR aumento en las últimas dos décadas ha aumentado un 162%, se proyecta en Estados Unidos aumentará un 6000% entre 2005 y 2030, a pesar de los buenos resultados funcionales y tasa de supervivencia a largo plazo, se evidencia como causas comunes de revisión de RTR la infección, la inestabilidad, el desgaste, la osteólisis, aflojamiento mecánico y la fractura periprotésica (28)
+El predictor de satisfacción informado por Kahlenberg y colaboradores informan que el resultado funcional posoperatorio informado por el paciente, la ansiedad y la depresión preoperatorio fueron los predictor más comunes asociados a insatisfacción (29).
+En 1990 se desarrollaron medidas de resultados informadas de pacientes para reducir el riesgo de sesgo si el cirujano califica el los resultados, el registro sueco envió correo electrónico para verificar revisiones pacientes, 95% respondieron y la
+
+tasa satisfacción en rodilla fue menos positiva de lo esperado, incluyo simple pregunta: ¿Qué tan satisfecho está con el reemplazo de rodilla? En el año 2000 se evidencia insatisfacción del 17% en RTR, solo 4 de cada 5 pacientes están satisfechos en el posoperatorio. (30)
+2.11 Escalas de satisfacción y funcionales
+Bourner y colaboradores en su estudio calificaron el nivel de satisfacción en: Muy insatisfecho, insatisfecho, neutral, satisfecho o muy satisfecho, se usó dos categorías para determinar un resultado de satisfacción, los que respondieron muy insatisfechos e insatisfecho o neutral y el grupo que respondieron satisfecho o muy satisfecho. La puntuación WOMAC se estandarizo, Las puntuaciones en escala WOMAC media de dolor fue en el control de 86.2+-16.3 con una puntuación de cambio de 42.9+-20.6, la puntuación WOMAC media de rigidez control fue de 79.4+19.7 con una puntuación de cambio de 39.6+-25.4, la puntuación media de función al control fue de 80.9+-17.7, con una mejora media de 38.5+-20.9, la puntuación total WOMAC control fue de 81.9+-16.6 con un cambio medio 39.5+-19.8. La complicación más frecuente que requirieron readmisión hospitalaria fueron la infección 15% y las complicaciones vasculares 9 % (31)
+Las puntuaciones funcionales más utilizadas en la rodilla son el KSS Knee Society Score, WOMAC Western Ontario and Mc Master Universities Osteoarthritis Index y KOOS Knee Injury and Osteoarthitis Score, existen nuevas puntuaciones: Alta actividad puntaje de artroplastia HAAS High Activity Arthroplasty Score y FJS-12 Forgotten Joint Score.(10)
+En el presente estudio se realizará el análisis de la satisfacción según los siguientes niveles: extremadamente satisfecho, satisfecho, neutral, insatisfecho, extremadamente insatisfecho, adicionalmente se cuenta con la variable cualitativa
+
+si el paciente está o no satisfecho. Se analizarán la escala análoga del dolor y la escala Oxford prequirúrgica, posoperatoria a los 3 y 6 meses, se analizarán la escala KSS de dolor y función a los 3 meses y 6 meses posoperatorio.
+La escala Oxford en rodilla es una herramienta que evalúa calidad de vida de paciente con gonartrosis, consta de 12 preguntas, cada una con cinco opciones con puntuaciones de 0 a 4, el valor más bajo son los pacientes más sintomáticos y puntuaciones altas (48) corresponde a los pacientes que no tienen afectación de la calidad de vida. La calidad de vida se clasifica en excelente >41, buena entre 3441, moderada entre 27-33 y pobre <27, es una escala coherente y la versión en español de la escala Oxford en rodilla es válida y confiable en pacientes con artrosis. (32)
+La escala KSS (Knee Society Score) es una escala en rodilla, confiable que evalúa el dolor y la función, con una puntuación máxima de 100, la cual correspondería a una rodilla bien alineada, sin inestabilidad, y respecto a la función una puntuación de 100 corresponde a un paciente quien puede caminar y subir escaleras sin problemas, es una escala ampliamente aceptada. (33) Esta escala ha sido útil para seguimiento de artroplastia de rodilla total a nivel mundial, la versión completa se recomienda para investigación. (34) En la revisión sistemática realizada por Valero y colaboradores en donde se estudiaron 10 escalas, dentro de las cuales 4 evaluaban la rodilla, donde se incluyó la escala KSS, se evidencio que la adaptación al español fue satisfactoria en las 10 escalas, la escala KSS fue aceptada y similar al cuestionario del idioma original. (35)
+2.12 Factores asociados a insatisfacción RTR
+Se tienen que identificar factores sociodemográficos, preoperatorios, operatorios, posoperatorios en relación con la insatisfacción, se ha relacionado con mayor tasas
+
+insatisfacción paciente con expectativas no cumplidas, mayor función antes cirugía, estadio baja enfermedad artrítica, complicaciones, mala resolución del dolor, menor mejora función rodilla. Paciente con buen estado mental se asociado con mayor satisfacción. En la Ata de Orthopaedica Robertsson 2000 identifico discrepancia entre satisfacción paciente cirujano, expectativas insatisfechas son la principal causa insatisfacción. La brecha satisfacción RTR y RTC se debe a la complejidad de la rodilla, ligamentos, forma tamaño individual fémur, tibia, rotula. (30)
+La satisfacción está fuertemente relacionada con la calidad para llevar a cabo actividades diarias, subir, bajar escaleras, entrar o salir del vehículo, agacharse, son actividades correlaciones con las expectativas de los pacientes. La expectativa del paciente es fundamental tema para considerar, debido a que hay pacientes insatisfechos a pesar de la alineación adecuada del implante, tamaño optimo y equilibrio satisfactorio ligamentario. Dentro de las expectativas del paciente se encuentra el regreso al deporte, regreso al trabajo, prácticas religiosas, culturales. (10)
+En un estudio transversal nivel evidencia II, realizado por Bourne y colaboradores en el año 2010 sobre la satisfacción del paciente después de una artroplastia total de rodilla en 1703 pacientes en la provincia de Ontario, evidencia un 19% de insatisfacción, la satisfacción con el alivio del dolor varía entre 72% al 86%, y la función entre 70-84%, a pesar de los avances en la selección de los pacientes para artroplastia primaria de rodilla, los avances en técnicas quirúrgicas y diseños de implantes, la cirugía no está logrando el objetivo de alivio del dolor y restaurar la función. (31)
+En el estudio realizado por Rose y colaboradores, exploraron el modelo conceptual de satisfacción 1-2 años después de reemplazo total de rodilla y a los 3-4 años en un hospital público Australiano publicado en el año 2021, es un estudio cualitativo de teoría fundamentada constructiva, participaron 40 personas, edad promedio
+
+entrevista fue de 3-5 años, se evidencio que la mayoría de niveles de satisfacción fueron estable, en excepción de 3 participantes, dos hicieron transición en dirección positiva, uno en dirección negativa, los hallazgos respaldan que la satisfacción del paciente es un constructo multifactorial potencialmente modificable en el tiempo. El estudio se realizó a los 2 años de la encuesta de referencia, demostró cómo las tres vías hacia la satisfacción alta y baja, seguían siendo relevantes se denominaron vaso lleno, vaso medio lleno y vaso medio vacío, se identificaron mecanismos de estas vías como fueron recalibración, reencuadre de actividades valiosas, conceptualización de síntomas, los hallazgos del estudio indicaron que la satisfacción paciente puede considerarse como objetivo móvil por la interacción de procesos psicosociales. Los participantes que informaron que no tenían síntomas o limitaciones funcionales y una alta satisfacción en el estudio seguimiento se clasificaron como vaso lleno, los participantes que informaron síntomas y o limitaciones funcionales se clasificaron como vaso medio lleno, o vaso medio vacío aquellos que informaron baja satisfacción, los participantes también informaron un nivel estable de síntomas, ningún paciente informo ningún nuevo síntoma. (36)
+Los hallazgos en el estudio realizado por Rose y colaboradores, respaldan la idea de la satisfacción con la artroplastia de rodilla como un concepto multifactorial influenciado por factores modificables que pueden variar con el tiempo. Se puede continuar seguimiento con médicos generales, fisioterapeutas, el apoyo continuo debe incluir seguimiento con herramienta cribado WOMAC para dolor y función y Orebro o STarT Back para factores psicológicos. Las herramientas pueden ayudar a guiar comunicación, los pacientes con bajo nivel satisfacción requieren técnicas comunicación tranquilizadoras, fuerte alianza terapéutica para mejorar nivel satisfacción. Las barreras físicas, psicosociales destaca papel fisioterapia y apoyo psicológico para lograr alta satisfacción. (36)
+Dentro de los factores que afectan la calidad de vida después de un reemplazo total rodilla están: La edad: Se encuentran estudios que evidencian malos resultados en
+
+pacientes jóvenes, edad promedio 54 años, con 33% dolor residual, 33 % edema, 33% Chasquido, 40 % Rigidez. Género: Los estudios reportan mayor actividad hombres, lo que conlleva efecto negativo sexo femenino en dolor, rigidez posoperatoria. Sobrepeso: el reemplazo total rodilla tiene un efecto positivo sobre paciente en el 31 % casos, con efectos positivos funcionales, pacientes con artritis inflamatorios conduce excelentes resultados funcionales. Respecto al estado psicológico del paciente, los pacientes con mal estado psicológico, con antecedente de ansiedad, depresión tienen más alta de insatisfacción. Las comorbilidades afectan negativamente las puntuaciones y la calidad de vida, la fibromialgia tiene un efecto negativo sobre la satisfacción posoperatoria (10)
+Hay estudios que considera que el uso de torniquete condujo a una reparación más rápida del bloqueo del mecanismo extensor, a largo plazo no se encontró diferencias estadísticamente significativas. La cirugía asistida por computadora conduce mejores resultados con mejor posicionamiento del implante, sin embargo, la cirugía asistida por robot requiere estudios adicionales. Respecto al diseño de los implantes no hay diferencias en la calidad vida, algunos estudios informan mayor flexión con implantes de alta flexión (10).
+En el estudio realizado por Xinyu y colaboradores, donde se analizaron 12 estudios con 2863 pacientes que compararon resultados de pacientes a quien se les realizo RTR y RTR asistido por robot, los resultados fueron similares en todos los resultados, el metaanálisis sugiere RTR manual es superior en escalas KSS, WOMAC a los 6 meses, el RTR asistida por robot presento mejor alineación protésica, sin mejoras de resultados clínicos. (37)
+En la revisión sistemática de Pollock y colaboradores, quienes debido al aumento de la demanda de artroplastia de cadera y rodilla y artroplastia unicompartimental, han estudio la realizado del procedimiento de forma ambulatoria, el objetivo de la revisión fue evaluar la seguridad, y se evidencia que después de revisar 26 artículos,
+
+de los cuales 17 artículos incluían 79.500 pacientes, quienes cumplieron los criterios inclusión, mostraron que la mayoría de los estudios eran de mala calidad, los estudios que evaluaron la satisfacción ilustraron un alto nivel satisfacción para la mayoría pacientes, reportaron que la artroplastia ambulatoria es económica y tiene ventajas, se puede realizar de manera segura y eficaz, sin embargo los estudios carecen de suficiente validez interna y tamaño de muestra, consistencia de metodología y estandarización de protocolos y resultados. (38).
+Revisando la literatura local disponible, se evidencia una cohorte longitudinal prospectiva en paciente intervenidos en la FOSCAL entre noviembre 2010 y mayo del 2011, se le realizo un seguimiento a 6 meses de 100 pacientes en postoperatorio reemplazo total rodilla, el grado de satisfacción postoperatorio fue de 82%, teniendo en cuenta la escala visual análoga, solo se usaron la escala Oxford para medir resultados postoperatorios. (39)
+Respecto a la rehabilitación todos los estudios muestran que la calidad de vida mejora después de una artroplastia de rodilla, independientemente del protocolo de rehabilitación, es difícil evaluar objetivamente contribución de la rehabilitación. (10)
+Dentro de las opciones de plan rehabilitación se evidencia el protocolo de entrenamiento cuantitativo para mejorar la recuperación de la función articular Posoperatoria, es seguro, eficaz y puede acelerar la recuperación articular, acortando tiempo hospitalización y mejorando la satisfacción del paciente.(40)
+La satisfacción para alivio del dolor varía entre 72-86%, la función entre 70-84% para actividades de la vida diaria, dentro de los predictores más fuertes de insatisfacción se encuentra las expectativas no cumplidas, escala WOMAC bajo al año con un riesgo 2.5 veces mayor, otro predictor es el dolor preoperatorio en reposo el cual tiene 2.4 veces mayor riesgo y por ultimo una complicación
+
+postoperatoria que requiere reingreso hospitalaria el cual genera 1.9 mayor riesgo de insatisfacción, factores que son relevantes de estudiar. (41)
+
+3. Estado del Arte:
+La artroplastia total de rodilla es un procedimiento que ha revolucionado la atención del paciente con artrosis de rodilla en etapa terminal, a pesar de los avances de las técnicas quirúrgicas, diseño implante, la tasa de satisfacción no es tan alta, se evidencia que el 82-89% de los pacientes estaban satisfechos con su artroplastia de rodilla, por lo que se sugiere que no se ha logrado el objetivo de aliviar dolor y restaurar función. (36)
+A pesar de los beneficios a medio y largo plazo en términos de calidad vida, alivio del dolor y función, la insatisfacción esta reportada en la literatura hasta un 30% y está directamente relacionada con la calidad de la vida del paciente, la cual depende de factores físicos, conductuales, sociales y psicológicos. (10) A pesar que la mayoría de bibliografía asocia los antecedentes psicológicos con la insatisfacción, hay estudios como el realizado por Bian donde se evidencia que la satisfacción de los pacientes no se vio influencia por factores psicológicos. (42)
+Shan y colaboradores en el año 2015 realizaron un estudio tipo revisión sistemática y metaanálisis de calidad de vida a medio y largo plazo del reemplazo total rodilla, se evidencia que la calidad vida postoperatoria a medio y largo plazo fue superior al nivel preoperatorio, según puntuaciones escala WOMAC, KSS, más del 75% estaban muy satisfechos o satisfechos con el resultado de la cirugía y el 79.5% estarían dispuestos a cometerse a la cirugía. (43)
+En el estudio realizado por Hossain que busca evaluar los resultados después de una artroplastia de rodilla, los términos tenidos en cuenta son la perspectiva del paciente, términos como excelente, bueno o regular como indicadores de desempeño, los métodos contemporáneos han evolucionado a utilizar medidas de resultados denominados PROM, dentro de las cuales se encuentra SF-36 / SF-12 y el cuestionario EuroQOL, que miden resultados en variedad de dominios, incluidos
+
+funcionamiento del rol emocional, rol social, función física y movilidad. Los PROM seguirán desempeñando un papel en la evaluación del rendimiento y determinar la eficacia de tratamiento como la artroplastia. El cumplimiento de las expectativas de los pacientes después de la artroplastia de rodilla sigue siendo u criterio predictivo de la satisfacción, es independiente de la función y la experiencia de la prestación del servicio. (44)
+La satisfacción del paciente se asocia a expectativas de los paciente, el alivio del dolor y mejorías funcionales, El sistema de calificación clínica de la sociedad de rodilla ha sido ampliamente utilizado desde 1989, el nuevo sistema de puntuación de rodilla se introdujo en el año 2011 que incorpora escalas de satisfacción, expectativas y actividades físicas, otros PROM se encuentran SF-36, SF-12 que es abreviada, escala WOMAC, la puntuación de resultados de osteoartrosis y lesiones de rodilla KOOS y la puntuación de rodilla de Oxford OKS, la escala OKS se reconoce como medida efectiva para artritis degenerativa y se correlaciona con el dolor y el funcionamiento posoperatorio. Dentro de las causas más comunes de insatisfacción del paciente es el dolor residual, función limitada, pacientes con expectativas de actividad alta. (45)
+En el estudio de Rose y colaboradores, el cual describió un modelo conceptual con tres caminos hacia la satisfacción, el vaso lleno informo alto nivel de satisfacción con síntomas continuos o limitados funcionales mínimos o nulos, el vaso medio lleno informo alta satisfacción y síntomas o limitaciones funcionales, el vaso medio vacío informó bajo satisfacción y síntomas continos o limitaciones funcionales, para pacientes con vaso medio lleno y vaso medio vacío los niveles de satisfacción de vieron influidos por tres mecanismos: Recalibración de síntomas, reformulación actividades valoradas, conceptualización de síntomas, que interactuaba con pensamientos, sentimientos, factores sociales y contextuales hacia una satisfacción alta o baja, aquí radica la importancia en identificar estos factores para que médicos puedan ayudar a pacientes a mejorar su satisfacción. Este estudio proporcionado
+
+una visión de satisfacción novedosa en un proceso de constante cambio, la satisfacción de los pacientes es un objetivo móvil dado interacción procesos psicosociales, por lo que el estudio recomienda continuar seguimiento satisfacción pacientes durante varios años después de la artroplastia, el cual puede ser realizado por médico general. (36)
+El cirujano debe formar una alianza terapéutica para lograr niveles de satisfacción altos, las técnicas de comunicación positiva y construcción relaciones pueden ser importantes para logar altos niveles de satisfacción, la satisfacción depende de la adaptabilidad del paciente, en este trabajo concluyen que el constructo multifactorial postoperatorio reemplazo total rodilla esta influenciado por factores modificables. (36)
+Otro modelo de predicción fue descrito por Onsem y colaboradores, se incluyeron 113 pacientes se completaron 5 cuestionarios Knee Injury and Osteoarthritis Outcome Score, Oxford Knee Score, Pain Catastrophizing Scale, Euroqol questionary y Knee Scoring System, realizaron una nueva herramienta de predicción, encontraron una tasa de satisfacción general del 88%, los pacientes insatisfechos tenían síntomas preoperatorias como rigidez, menor calidad de vida, la sensibilidad de la nueva herramienta fue del 97% con un valor predictivo positivo del 93%, basándose en parámetro preoperatorios pudieron predecir parcialmente la satisfacción e insatisfacción después de una artroplastia de rodilla, (46)
+La satisfacción es una medida importante después RTR, en el estudio realizado por Matsuda en el año 2013, evidenciaron que la edad avanzada y la alineación en varo postoperatoria se correlacionaron negativamente con la satisfacción del paciente. La alineación en varo y el rango de movimiento limitado se correlacionaron negativamente con la expectativa del paciente. La edad avanzada, artritis reumatoidea y el rango movimiento limitado se correlacionaron negativamente con las actividades funcionales del paciente. (47)
+
+La satisfacción se ha convertido en un parámetro importante para evaluar los resultados después de una artroplastia de rodilla, en el estudio realizado por Nakahara y colaboradores en el año 2015 se evidencia que las actividades relacionadas con caminar como subir, bajar escaleras, coche, ponerse en cuclillas, son actividades importantes que se correlacionan significativamente con la satisfacción del paciente después de una artroplastia de rodilla. (48)
+En el estudio realizado en el año 2019 por Khatib y colaboradores, de 1017 pacientes, se evidencio un 7% de insatisfacción con el resultado de la cirugía, 14% creyeron que la cirugía no fue exitosa, 15% observaron un resultado negativo, 6% no informaron si fue buena la satisfacción. Los pacientes insatisfechos informaron peor escala OKS 24.6 frente 42.3 de los pacientes satisfechos, aproximadamente el 7-15 % de los pacientes presentaron resultados desfavorables en postoperatorio reemplazo total rodilla, el diseño protésico y la restauración de la superficie de la rótula no parecen ser relevantes. (49)
+Otros estudios como el realizado por Andronic y colaboradores, una revisión sistemática y metaanálisis, mostraron mejoría del dolor y la satisfacción en pacientes a quienes se le realizo recubrimiento rotuliano secundarios, se evidencia una proporción agrupada de pacientes satisfechos con el procedimiento del 59%. (50)
+La satisfacción posterior a la realización de la artroplastia total de rodilla primaria es un tema de interés y relevancia, y aún no está completamente claro la razones por la cuales la insatisfacción en el reemplazo total de rodilla es mucho mayor que el reemplazo total cadera, cuando se considera la satisfacción con el alivio del dolor en el posoperatorio de reemplazo total de rodilla, el número de pacientes satisfechos es del 72 al 86%, por lo tanto es un alto el porcentaje de insatisfacción en reemplazo de rodilla. (51)
+
+En pacientes menores de 55 años tienen un riesgo de revisión mayor de revisión de RTR, en el estudio realizado por Scott en el año 2016, donde se evaluaron prospectivamente 177 artroplastias totales de rodilla, se evidencia escala Oxford Knee Score OKS deficiente preoperatoria, la rigidez posoperatoria predijeron de forma independiente la insatisfacción, los pacientes menores de 55 años deben ser informados de mayores riesgo insatisfacción, se encuentra una insatisfacción hasta del 59% cuando se realizan paciente con artrosis leve KL 1-2. La presencia de una complicación posoperatoria como dolor, rigidez e infección predijo significativamente la insatisfacción. (52)
+Es importante a tener en cuenta que los tipos de implantes en el reemplazo total de rodilla han presentado grandes avance y en el momento se disponen de diseños realizado a la medida, en el estudio realizado por Vogel y colaborades busco estudiar la satisfacción en paciente sometidos a reemplazos total rodilla con implantes personalizados vs los disponibles comercialmente, se evidencio una alta satisfacción del 86 al 90%, sin embargo no se encontraron diferencias en la satisfacción entre ambos tipos de implantes, los implantes a la medida presentaron mejoras en actividades a nivel deportivo. (53)
+Otras opciones es la prótesis de pivote medial y ultracongruente, que como se puede evidenciar en el estudio realizado por Arbeláez y colaboradores, la satisfacción aumento al 97%, por lo cual es una opción eficaz, segura y con mejor satisfacción para pacientes con artrosis que requieren reemplazo total de rodilla. (54)
+
+4. Pregunta de Investigación
+- ¿Qué factores clínicos, funcionales y psicológicos se asocian con la
+insatisfacción de los pacientes respecto a los resultados quirúrgicos del reemplazo total de rodilla a los 3 y 6 meses posoperatorios?
+
+5. Objetivos
+5.1 Objetivo General
+- Establecer los factores asociados con la insatisfacción de los pacientes en los resultados quirúrgicos de reemplazo total de rodilla a los 3 y 6 meses posoperatorios.
+5.2 Objetivos específicos
+- Describir las características sociodemográficas y clínicas de la población a estudio.
+- Estimar la incidencia de insatisfacción en los resultados quirúrgicos en la población a estudio.
+- Determinar el nivel funcional y de dolor posquirúrgico en la población a estudio.
+
+6. Hipótesis
+- Hipótesis nulas (H₀) H₀₁ (Factores clínicos): No existe asociación significativa entre los factores clínicos (Como escala de dolor preoperatoria y posoperatoria, la alineación preoperatoria, IMC y las complicaciones posoperatorias) y la insatisfacción de los pacientes con los resultados del reemplazo total de rodilla a los 3 y 6 meses posoperatorios.
+- H₀₂ (Factores Funcionales): No existe asociación significativa entre los factores funcionales (Como limitación del rango de movimiento, dificultad para caminar, dificultad para subir o bajar escaleras, uso de ayudas para la marcha, escala KSS) y la insatisfacción de los pacientes.
+- H₀₃ (Factores psicológicos): No existe asociación significativa entre los factores psicológicos (Como síntomas de ansiedad, depresión, esquizofrenia, trastorno bipolar, insomnio y demencia) y la insatisfacción de los pacientes.
+- Hipótesis alternativas (H₁) H₁₁ (Factores clínicos): Existe una asociación significativa entre al menos uno de los factores clínicos evaluados y la insatisfacción de los pacientes con los resultados del reemplazo total de rodilla a los 3 y 6 meses posoperatorios.
+- H₁₂ (Factores funcionales): Existe una asociación significativa entre al menos uno de los factores funcionales evaluados y la insatisfacción de los pacientes.
+- H₁₃ (Factores psicológicos): Existe una asociación significativa entre al menos uno de los factores psicológicos evaluados y la insatisfacción de los pacientes.
+
+7. Metodología
+7.1 Tipo de estudio
+- Estudio de cohorte prospectivo, con datos secundarios de una base de datos clínica anonimizada del servicio de ortopedia.
+7.2 Población
+- Pacientes llevados a reemplazo total rodilla en la “Fundación Oftalmológica de Santander – FOSCAL” desde agosto del año 2024 hasta enero del año 2025.
+7.3 Criterios de inclusión
+- Pacientes de 18 años en adelante. - Pacientes con artrosis KL grado II-IV con criterios para reemplazo total rodilla
+7.4 Criterios de exclusión
+- Pacientes a quien se le realizaran revisión de reemplazo total rodilla. - Pacientes con inestabilidad medial o lateral - Pacientes con antecedentes de artritis séptica en rodilla a intervenir - Pacientes con antecedente de osteomielitis en rodilla a intervenir
+7.5 Cálculo de tamaño de muestra
+- Teniendo en cuenta el estudio “Causes and Predictors of Patient´s Dissatisfaction After Uncomplicated Total Knee Arthroplasty” que valora las causas y predictores de la insatisfacción en el postoperatorio de remplazo
+
+total de rodilla, se realizó el cálculo del tamaño de muestra con un poder del 80% y un Alfa de 0.05, con un valor m1 de 95.0 y m2 de 88.0 para un cálculo de muestra de 52 pacientes para factores clínicos, un valor m1 de 1.9 y m2 de 5.2 para un cálculo de muestra de 44 pacientes para factores funcionales y un valor m1 de 46.7 y m2 de 41.5 para un cálculo de muestra de 100 paciente para factores psicológicos.
+7.6 Muestreo
+- No probabilístico, secuencial.
+7.7 Recolección de la información
+- En el presente estudio no se recolectó información ya que es un estudio de datos secundarios y solo se accedió a la base de datos (anonimizada) con la autorización de la universidad y la autorización del comité de ética en investigación de la Foscal.
+7.8 Variables
+- Variables: Edad, sexo, lateralidad, escala análoga del dolor preoperatorio, alineación, Índice masa corporal, escala ASA, cirugías previas, diagnóstico, antecedente psicológico, tipo procedimiento, abordaje, uso antibiótico, uso de injerto, uso de cemento, uso de drenajes, reemplazo de rotula, torniquete, tiempo de torniquete, volumen del sangrado, complicaciones intraoperatorias, tipo fijación, tipo de prótesis, marca prótesis, días de hospitalización, transfusiones, complicaciones tempranas, escala Oxford prequirúrgica, alineación postoperatoria, escala Oxford postoperatoria 3 meses, escala KSS dolor y función postoperatoria a los 3 meses, escala
+
+análoga del dolor postoperatoria a los 3 meses, satisfacción a los 3 meses, escala Oxford postoperatoria a los 6 meses, escala KSS de dolor y función postoperatoria a los 6 meses, escala análoga del dolor postoperatoria a los 6 meses, satisfacción a los 6 meses. (Ver Anexo)
+7.9 Plan de análisis de datos
+Se realizó un análisis descriptivo univariado, las variables cuantitativas se describen mediante medidas de tendencia central y dispersión, promedio y desviación estándar para las variables con distribución normal, o mediana y rango intercuartil para las variables con distribución no normal (la normalidad de las variables cuantitativas se evaluó mediante el test de Kolmogorov Smirnov), las variables cualitativas se describieron mediante frecuencias relativas (porcentajes) y absolutas (conteos).
+Se realizó un análisis bivariado, estratificando por la variable dependiente (Insatisfacción), describiendo las variables demográficas y clínicas de acuerdo a la variable dependiente, se realizó la estimación de los riesgos relativos de cada una de las variables independientes vs la variable dependiente.
+Se trabajó con un alfa de 0.05 y los datos se analizaron en Stata 16.0.
+7.10 Consideraciones éticas.
+- De acuerdo con los principios establecidos en la Declaración de Helsinki de la asociación médica mundial y sus revisiones posteriores (hasta Helsinki
+
+2024), las Pautas Éticas Internacionales para la Investigación Biomédica en Seres Humanos del CIOMS y la Resolución 008430 de Octubre 4 de 1993 de la República de Colombia; y debido a que esta investigación se consideró como sin riesgo, en cumplimiento con los aspectos mencionados en el Artículo 6 de dicha resolución (8430 de 1993), este estudio se desarrolló conforme a los siguientes criterios:
+· No maleficencia: no se afectó el principio de no maleficencia, ya que este es un estudio completamente observacional y con datos secundarios en el cual no se produjo ningún tipo de daño hacia los participantes involucrados y no se realizaron cambios en los esquemas terapéuticos ni diagnósticos.
+· Autonomía: No se afectó el principio de Autonomía, ya que los eventos a evaluar ya fueron desarrollados y no se modificó en su momento la toma de decisiones por parte de los participantes involucrados. Para proteger la información confidencial, sensible y la intimidad de los participantes la base de datos de análisis no contiene ningún identificador.
+· Justicia: No se afectó el principio de Justicia, ya que no se expusieron a los individuos a una situación de riesgo real o potencial y no se sacará ventaja de ninguna situación de vulnerabilidad legal o de subordinación académica o laboral de los pacientes con motivo de esta investigación.
+· Beneficencia: Este estudio no tiene efecto directo sobre el principio de Beneficencia, ya que es un estudio observacional. Los beneficios para este tipo de pacientes son indirectos y derivados de las ventajas potenciales que podrían resultar de la obtención de nuevo conocimiento.
+· Este tipo de estudio ya ha sido realizado previamente en seres humanos sin que generen un daño potencial o real al grupo evaluado.
+
+· Los datos del presente estudio no pueden ser obtenidos a partir de simulaciones, de fórmulas matemáticas o investigación en animales, u otras muestras.
+· Esta investigación fue producida y ejecutada por Médicos, especialistas en Ortopedia, Médicos residentes, quienes tienen experiencia en el manejo de las patologías de los sujetos, además del conocimiento para la ejecución de este tipo de proyectos.
+· La entrega de la base de datos solo se efectuó con el aval por parte de la Universidad, y esté autorizado para su ejecución por parte del comité de ética de investigación.
+· Los investigadores participantes en este estudio tienen idoneidad en su formación académica y no presentan conflictos de intereses económicos, legales o personales asociados a este problema de investigación.
+· Este estudio observacional cumplió con las disposiciones establecidas en la Ley 1581 de 2012 sobre Protección de Datos Personales en Colombia y sus decretos reglamentarios. Se garantizó la confidencialidad de la información de los participantes y los datos serán utilizados exclusivamente para los fines de investigación establecidos en este protocolo en cumplimiento de los principios de legalidad, finalidad, libertad, transparencia, seguridad y confidencialidad.
+· Este estudio cumplió con las disposiciones establecidas en la Ley 1266 de 2008, Ley de Hábeas Data, que regula el manejo de la información contenida en bases de datos personales.
+
+8. Resultados
+En la base de datos se estudiaron 126 pacientes intervenidos quirúrgicamente con reemplazo total de rodilla en la “Fundación Oftalmológica de Santander – FOSCAL” desde agosto del año 2024 hasta enero del año 2025, se realizó seguimiento a los 3 meses y 6 meses postoperatorio.
+
+Respecto a las variables sociodemográficas (Tabla 1), de los 126 pacientes, el 63.49% (80 Pacientes) fueron sexo femenino y 36.51% sexo masculino (46 Pacientes). La media de la edad fue de 70.66, con IC 95% 69.38-71.94, con edad mínima de 50 años y máxima 87 años de la población a estudio. Respecto a la lateralidad del reemplazo total de rodilla, el 61.9% (78 Pacientes) fue la rodilla derecha y el 38.1% (48 pacientes) rodilla izquierda.
+
+Tabla 1. Variables Sociodemográfica
+
+Sexo Femenino Masculino Edad
+Lateralidad Izquierda Derecha
+
+Media 70.66
+
+Número Pacientes 80 46 IC 95% 69.38-37.94 Número 48 78
+
+Porcentaje % 63.49 36.51 Mínima/ Máxima 50-87 años Porcentaje 38.1 61.9
+
+Respecto a las variables clínica de la población a estudio (Tabla 2), la escala visual análoga del dolor prequirúrgica (EVA) el promedio fue de 8.56, IC 95% entre 8.358.77, Desviación estándar (DE) 1.18, con mínimo EVA de 3 y máxima de 10. La alineación en neutro se presentó en 3.17% (4 Pacientes), Varo 79.37% (100 pacientes), valgo 17.46% (22 Pacientes). El Índice de masa corporal (IMC) promedio
+
+fue de 28.41, con un IC 95% 27.72-29.1 DE 3.9 Mínimo 20.8 y máximo 37.88. La escala ASA I se presentó en el 3.97% de los pacientes (5 Pacientes), ASA II en el 95.24% (120 Pacientes), ASA III 0.79% (1 Paciente). Dentro de los posibles diagnósticos, el 100% fueron por artrosis primaria de rodilla (126 Pacientes).
+El 35.71% de los pacientes (45 Pacientes) no tenían ningún antecedente quirúrgico previo, el 11.11% tenían el antecedente de osteosíntesis (14 Pacientes), el 0.79% osteotomía previa (1 paciente), el 6.35% artroscopia (8 Pacientes), el 0.79% artrodesis (1 Paciente), el 0.79% sinovectomía (1 Paciente), el 1.59% meniscoplastia (2 Pacientes), el 1.59% reconstrucción ligamentaria (2 Pacientes) y el 41.27 % otros procedimientos quirúrgicos (52 Pacientes). Dentro de los antecedentes psiquiátricos 1.59% presentaron insomnio (2 Pacientes), 0.79% depresión (1 Paciente), 1.59% otros (2 pacientes), 96.03% de los pacientes no tenían ningún antecedente psiquiátrico (121 Pacientes). El 100% pacientes se les realizo el reemplazo total de rodilla, a ningún paciente se le realizo reemplazo unicompartimental.
+El tipo de anestesia general fue realizada en el 1.59% de los pacientes (2 pacientes), y la raquídea el 98.41% (124 pacientes). El 100% de los pacientes se les realizo abordaje Parapatelar interno, no se realizaron otros tipos de abordajes. El 100% se usó antibiótico profiláctico. En el 99.21% de los casos no se usó injerto (125 pacientes) y en el 0.79% se usó injerto (1 paciente). En el 97.62% de los casos se usó cemento sin antibiótico (123 pacientes) y en 2.38% se usó cemento con antibiótico (3 pacientes). En el 100% de los casos no se usó dren (126 pacientes). En el 1.59% se realizó reemplazo de rotula (2 Pacientes). En el 79.37% de los pacientes se usó torniquete (100 Pacientes) y la duración del torniquete promedio fue de 45.49 minutos, mínima duración de 15 minutos, máximo duración de 90 minutos, con IC del 95% entre 42.9 – 48.07, DE 14.53, con volumen sangrado de 199.68 en promedio, con IC 95% 184.36- 214.99 con máximo volumen de sangrado
+
+de 400 cc de sangrado. El 99.21% de los pacientes no presentaron complicaciones intraoperatorias, solo 0.79% (1 Paciente) presente una complicación intraoperatoria.
+
+Los días de hospitalización promedio fue de 3.01, IC 95% 2.84- 3.18, mínimo de días 2 días y máximo 7 días. El 21.43% recibieron manejo con profilaxis antitrombótica mecánica. El 97.62% pacientes recibió HBPM; el 1.59% Apixaban y el 0.79% Rivaroxaban. Dentro de las complicaciones tempranas, el 2.4% presento trombosis venosa profunda (3 Pacientes), el 0.8% tromboembolismo pulmonar (1 Paciente), el 0.8% infección sitio operatorio (1 Paciente). El promedio de la escala Oxford Prequirúrgica fue de 19.92 con un IC 95% 18.91- 20.92, DE 5.7, mínimo de 6 puntos, y máximo de 39 puntos.
+
+Tabla 2. Variables clínicas.
+
+EVA Prequirúrgica.
+Alineación Neutro Varo Valgo IMC
+Escala ASA
+
+Promedio
+8.56
+Número pacientes 4 100 22 Promedio
+28.41
+Número Pacientes
+
+IC 95%
+8.358.77
+de
+
+Desviación Estándar 1.18
+
+Mínimo/ Máximo 3-10
+
+Porcentaje %
+
+IC 95%
+27.7229.10
+de
+
+3.17
+
+79.37
+
+17.46
+
+Desviación Mínimo/
+
+Estándar Máximo
+
+3.9
+
+20.8-
+
+37.88
+
+Porcentaje %
+
+I II III IV- V- VI Diagnóstico
+
+Artrosis primaria
+
+Artritis Reumatoidea/ Fractura/
+
+Artrosis postraumática/ Artritis
+
+inflamatoria/
+
+Tumores/
+
+Secuelas de displasia/ Necrosis
+
+avascular
+
+Antecedente de Cirugía
+
+Previa.
+
+Ninguna
+
+Osteosíntesis
+
+Osteotomía
+
+Artroscopia
+
+Artrodesis
+
+Sinovectomía
+
+Meniscoplastia
+
+Reconstrucción Ligamentaria
+
+Otra
+
+Antecedente psicológico
+
+Ninguno Ansiedad/ Esquizofrenia / Trastorno Bipolar/ Trastorno obsesivo compulsivo/ Retraso
+
+5 120 1 0 Número Pacientes 126 0
+Número Pacientes 45 14 1 8 1 1 2 2 52 Número Pacientes 121 0
+
+3.97 95.24 0.79 0 de Porcentaje %
+100 0
+de Porcentaje %
+35.71 11.11 0.79 6.35 0.79 0.79 1.59 1.59 41.27 de Porcentaje %
+96.03 0
+
+mental/ Demencia/ sustancias Depresión Insomnio Otra Tipo Procedimiento
+
+Abuso
+
+Reemplazo total de rodilla Reemplazo unicompartimental Tipo de anestesia
+
+General Raquídea Regional Abordaje
+
+Parapatelar interno Parapatelar externo / Midvasto/ Subvasto/ Otro Antibiótico Profiláctico
+
+Si No Uso de Injerto
+
+Si No Uso de cemento con antibiótico Si
+
+1 2 2 Número Pacientes 126 0 Número Pacientes 2 124 0 Número Pacientes 126 0
+Número Pacientes 126 0 Número Pacientes 1 125 Número Pacientes 3
+
+0.79 1.59 1.59 de Porcentaje %
+100 0 de Porcentaje %
+1.59 98.41 0 de Porcentaje %
+100 0
+de Porcentaje %
+100 0 de Porcentaje %
+0.79 99.21 de Porcentaje %
+2.38
+
+No Uso de Dren
+Si No Reemplazo total de rotula
+Si No Torniquete
+Si No Duración del torniquete
+Volumen de Sangrado
+Complicaciones Intraoperatorias Ninguna Lesión Venosa/ Lesión arterial/ Lesión neurológica / Lesión tendón cuádriceps / Lesión tendón rotuliano/ Lesión Ligamento colateral lateral, medial / Fractura avulsión/ Fractura platillos diáfisis de la tibia/ Fractura supra e intercondílea fémur Otra
+
+123 Número Pacientes 0 126 Número Pacientes 2.0 124 Número Pacientes 100 26 Promedio 45.49 Promedio 199.68 Número Pacientes 125 0
+1
+
+97.62 de Porcentaje %
+0 100 de Porcentaje %
+1.59 98.41 de Porcentaje % 79.37 20.63 IC 95% 42.90-48.07 IC 95% 184.36- 214.99 de Porcentaje %
+99.21 0
+0.79
+
+Días Hospitalización
+
+Profilaxis
+
+antitrombótica
+
+mecánica
+
+Si
+
+No
+
+Profilaxis
+
+antitrombótica
+
+química
+
+HBPM
+
+Apixaban
+
+Rivaroxaban
+
+Dabigatran/ASA/Warfarina/Otro
+
+Complicaciones Tempranas
+
+Ninguna Trombosis venosa profunda Tromboembolismo Pulmonar Infección sitio operatorio Inestabilidad/ Fractura peri protésica/ Reintervención Otra Escala Oxford Prequirúrgica
+
+Inestabilidad/ Fractura peri protésica/ Reintervención
+
+Promedio
+3.01
+Número Pacientes 27 99 Número Pacientes 123 2 1 0 Número Pacientes 118 3 1 1 0
+2 Promedio
+19.92
+
+IC 95% 2.843.18
+de
+de
+de
+IC 95% 18.9120.92
+
+DE
+
+Mínimo/
+
+Máximo
+
+0.95
+
+2-7
+
+Porcentaje %
+
+21.43 78.57 Porcentaje %
+
+97.62 1.59 0.79 0 Porcentaje %
+
+94.4 2.4 0.8 0.8 0
+
+1.6
+
+DE
+
+Mínimo /
+
+Máximo
+
+5.7
+
+6- 39
+
+Respecto a las características del implante utilizado (Tabla 3), se evidencia que el 100% de los implantes son cementados, el 100% fueron implantes postero estabilizados. El 73.81% fueron prótesis de Smith Nephew, 23.02% DePuy Synthes
+
+y el 3.17% de Stryket. El modelo más usado fue Genesis II 73.81%, seguido por el modelo Attune 23.02%, triathlon 3.17%, La talla del inserto más usado fue el de 9 mm que corresponde al 58.73 de los pacientes.
+
+Tabla 3. Características del implante.
+
+Tipo Fijación
+
+Cementada
+
+No cementada/ Hibrida/ Otra
+
+Tipo Fijación
+
+Postero estabilizado
+
+Reteniendo
+
+cruzado/
+
+Semiconstreñida
+
+/
+
+Constreñida/ Otra
+
+Marca
+
+Smith Nephew
+
+DePuy Synthes
+
+Stryker
+
+Modelo
+
+Genesis II
+
+Attune
+
+Triathlon
+
+Talla
+
+2
+
+3
+
+5
+
+6
+
+7
+
+8
+
+9
+
+Número de Pacientes 126 0 Número de Pacientes 126 0
+Número de Pacientes 93 29 4 Número de Pacientes 93 29 4 Número de Pacientes 1 3 21 1 2 1 74
+
+Porcentaje % 100 0 Porcentaje % 100 0
+Porcentaje % 73.81 23.02 3.17 Porcentaje % 73.81 23.02 3.17 Porcentaje % 0.79 2.38 16.57 0.79 1.59 0.79 58.73
+
+11
+
+16
+
+12.7
+
+13
+
+7
+
+5.56
+
+Dentro de los parámetros Postoperatorios (Tabla 4), se evidencia que el 100% presentaron alineación POP en Neutro, el 100% tuvieron una estabilidad normal, la escala Oxford POP a los 3 meses fue en promedio de 37.95, con IC 95% 37.2638.63 con DE 3.88. La escala KSS de dolor en promedio fue de 83.20 con un IC 95% 82.04- 84.37, DE 6.61. La escala KSS función promedio fue de 83.45 con IC 95% 82.04- 84.85 DE 7.96, la EVA POP a los 3 meses fue en promedio 3.08, con IC 2.77- 3.4 DE 1.79.
+
+Tabla 4 Parámetros Postoperatorios / POP 3 Meses
+
+Alineación POP Neutro Varo/ Valgo Estabilidad Normal Leve (<5 mm) /Moderada (5 mm) / Severa (>5 mm) Escala Oxford POP 3 Meses
+Escala KSS Dolor POP 3 meses
+
+Número de Pacientes 126 0 Número de Pacientes 126 0
+
+Promedio IC 95%
+
+37.95 Promedio
+
+37.2638.63 IC 95%
+
+83.20
+
+82.0484.37
+
+Porcentaje % 100 0 Porcentaje % 100 0
+
+DE
+
+Mínimo /
+
+Máximo
+
+3.88
+
+19- 48
+
+DE
+
+Mínimo /
+
+Máximo
+
+6.61
+
+50-95
+
+Escala KSS POP 3 meses
+
+Función Promedio 83.45
+
+EVA POP 3 meses
+
+Promedio
+
+IC 95%
+82.0484.85 IC 95%
+
+Insatisfacción a meses Si No Categoría Insatisfacción a meses Extremadamente Satisfecho Satisfecho Neutral Insatisfecho Extremadamente insatisfecho
+
+los 3
+de los 3
+
+3.08
+
+2.77-3.4
+
+Número de Pacientes
+
+17 109 Número de Pacientes
+
+88
+19 2 12 5
+
+DE
+
+Mínimo /
+
+Máximo
+
+7.96
+
+45-95
+
+DE
+
+Mínimo /
+
+Máximo
+
+1.79
+
+0-9
+
+Porcentaje %
+
+13.49 86.51 Porcentaje %
+
+69.84
+15.08 1.59 9.52 3.97
+
+El 13.49% de los pacientes no están satisfechos a los 3 meses POP y el 86.51% se encuentran satisfechos a los 3 meses POP (Imagen 1), dentro de las categorías el 69.84% se encuentran extremadamente satisfechos (Imagen 2), 15.08% satisfechos, 1.59 neutral, 9.52% insatisfechos y el 3.97% extremadamente insatisfechos.
+
+Imagen 1. Insatisfacción a los 3 Meses POP
+13%
+Si No 87%
+
+Imagen 2. Insatisfacción a los 3 meses POP por categorías.
+
+4% 9% 2%
+15%
+70%
+
+Extremadamente satisfecho Satisfecho Neutral Insatisfecho Extremadamente insatisfecho
+
+A los 6 meses (Tabla 5) la escala Oxford promedio fue de 40.93, con IC 95% 40.1941.68, DE 4.22, con escala KSS dolor a los 6 meses promedio de 89.25 con IC 95% 87.99- 90.51, DE 7.15, la escala KSS función POP 6 meses fue 89.4 con IV 95% 87.93- 90.86, DE 8.3. La EVA a los 6 meses fue de 2.42 con IC 95% 2.08-2.77, DE 1.96.
+
+Tabla 5 Parámetros Postoperatorios / POP 6 Meses
+
+Escala Oxford POP 6 Promedio Meses
+40.93
+
+Escala KSS Dolor POP 6 meses
+
+Promedio 89.25
+
+Escala KSS POP 6 meses
+
+Función Promedio 89.4
+
+EVA POP 6 meses
+
+Promedio
+
+IC 95%
+40.1941.68 IC 95%
+87.9990.51 IC 95%
+87.9390.86 IC 95%
+
+2.42
+
+2.08- 2.77
+
+Insatisfacción a los 6 Número de Pacientes
+
+meses
+
+Si
+
+18
+
+No
+
+108
+
+DE
+
+Mínimo /
+
+Máximo
+
+4.22
+
+18-48
+
+DE
+
+Mínimo /
+
+Máximo
+
+7.15
+
+50-95
+
+DE
+
+Mínimo /
+
+Máximo
+
+8.3
+
+50-95
+
+DE
+
+Mínimo /
+
+Máximo
+
+1.96
+
+0-8
+
+Porcentaje %
+
+14.29 85.71
+
+Categoría Insatisfacción a meses Extremadamente Satisfecho Satisfecho Neutral Insatisfecho Extremadamente insatisfecho
+
+de los 6
+
+Número de Pacientes
+89
+17 2 14 4
+
+Porcentaje %
+70.63
+13.49 1.59 11.11 3.17
+
+La tasa insatisfacción a los 6 meses fue de 14.29% (Imagen 3), dentro de las categorías el 70.63% (Imagen 4) están extremadamente satisfecho, el 13.49% satisfechos, 1.59% neutral, el 11.11% insatisfechos (14 pacientes) y 3.17% extremadamente insatisfechos (4 Pacientes).
+
+Imagen 3. Insatisfacción a los 6 Meses POP
+
+14%
+Si No
+86%
+
+Imagen 4. Satisfacción a los 6 meses POP por categorías.
+
+3% 11% 2%
+13%
+
+71%
+
+Extremadamente satisfecho Satisfecho
+Neutral
+Insatisfecho
+Extremadamente insatisfecho
+
+Se realizo el análisis bivariado, estratificando la variable dependiente (Insatisfacción), se realizó estimación de riesgos relativos (RR) de variables independientes vs variable dependiente.
+Respecto al sexo (Tabla 6), el masculino tiene un RR es de 1.26, con un valor P 0.67, no es estadísticamente significativa, por lo que la variable no se asoció a la insatisfacción a los 3 meses POP. La edad tiene un RR 1.03 con un valor P de 0.48 por lo que la edad no se asoció con la insatisfacción a los 3 meses POP. La lateralidad derecha tiene un RR 0.28, con un valor P de 0.02, lo que indica que la lateralidad influye en la insatisfacción, los pacientes operados de lateralidad derecha tuvieron menor probabilidad de insatisfacción a los 3 meses comparado con la izquierda. La EVA prequirúrgica tiene un RR 0.79, sin embargo, valor P 0.23, lo cual no es estadísticamente significativo. La alineación en varo tiene un RR de 0.15 con un valor P 0.07 no es estadísticamente significativo, la alineación en valgo tiene un RR de 0.10 con valor P de 0.06, no es estadísticamente significativo. El IMC tiene un valor RR de 0.95 con un valor P de 0.45, no es estadísticamente
+
+significativo. Respecto a la clasificación ASA, el tipo II tienen un RR de 0.62 con un valor P de 0.67 lo cual no es estadísticamente significativa. El RR del antecedente de osteosíntesis es 0.62 con un valor P de 0.67, artroscopia el RR de 1.14 con valor P de 0.91, reconstrucción ligamentaria un RR de 8.0 con valor P de 0.16, por lo que no se evidencia una asociación significativa con el antecedente de osteosíntesis, artroscopía, reconstrucción ligamentaria y la insatisfacción del paciente a los 3 meses.
+Dentro de los antecedentes psiquiátricos, el antecedente de insomnio tiene un RR de 6.56 sin embargo el valor P 0.19 lo cual no es estadísticamente significativo, por lo que la variable no se asocia con la insatisfacción POP a los 3 meses.
+La variable antibiótico profiláctico fue excluida debido a la falta de variabilidad, porque todos los pacientes recibieron antibiótico profiláctico. La variable uso de injerto tampoco se puede analizar porque no hay variabilidad. La variable uso de dren no se puede analizar porque no existe variabilidad, en ningún caso se usó den. Respecto a la variable reemplazo de rotula no se puede analizar porque todos los que se realizó reemplazo de rotula están satisfechos, dada que la categoría predice la satisfacción, no se puede analizar.
+El valor RR del uso del torniquete es de 1.25, con un valor P de 0.74, por lo que el uso de torniquete no se asocia de forma significativa con la insatisfacción POP a los 3 meses. La duración del torniquete tiene un valor RR de 1.02, con valor P de 0.34, lo cual no es estadísticamente significativa. El RR del volumen del sangrado es de 1.00, con un valor P de 0.50, lo cual el volumen del sangrado no se asocia de manera significativa con la satisfacción. La variable de cementado, no puede ser analizada porque todos los pacientes los reemplazos fueron cementados. Los días de hospitalización tienen un RR de 0.83 con valor P 0.53 lo cual no tiene una significancia estadística. La profilaxis mecánica antitrombótica tiene un RR de 1.15 con valor P de 0.82, lo cual no es estadísticamente significativo. No se logró analizar
+
+sobre la profilaxis química y la insatisfacción a los 3 meses. Dentro de las complicaciones temprana la TVP tiene un valor RR de 3.43 con valor P de 0.32, lo cual no es estadísticamente significativo. La escala Oxford Prequirúrgica tiene un RR de 1.04 con un valor P de 0.33, lo cual no es estadísticamente significativo.
+Respecto al tipo de prótesis, todas fueron postero estabilizadas, por lo que no se puede analizar. La marca de prótesis, se pudo analizar solamente la marca DePuy Synthes, con valor RR de 0.98, valor P 0.98, lo cual es no es significativo estadísticamente. Respecto al modelo, se logró analizar solamente Attune, con un valor RR 1.03, valor P 0.95, lo cual no es estadísticamente significativo. Dentro de las tallas, se analizaron talla 13 con RR 0.50 valor P 0.57, Talla 9 con RR 0.41 y valor P de 0.19 y talla 5 con RR 0.50 valor P 0.41, sin embargo, ningún resultado es estadísticamente significativo.
+La alineación POP no se logra analizar porque todos los pacientes tuvieron una alineación POP en neutro, igualmente con la estabilidad. La escala Oxford POP 3 meses tiene un RR en 0.99 con valor P en 0.83 respecto a la insatisfacción a los 3 meses lo cual no es estadísticamente significativo.
+La escala KSS dolor a los 3 meses tiene un valor RR de 0.88 con valor P de 0.002, lo cual es estadísticamente significativo, lo que indica que a mayor puntuación en la escala menor probabilidad de insatisfacción, es un claro predictor de insatisfacción, con IC 95% no cruza el 1, lo cual es relevante. La escala KSS función a los 3 meses tiene un valor RR de 0.93 con valor P en 0.01, el cual es estadísticamente significativo, lo que indica que a mayor puntuación de la escala menor riesgo de insatisfacción, con IC 95% menor de 1 por lo que es clínicamente relevante.
+La escala Eva a los 3 meses tiene valor RR de 2.34 y valor P de 0.00, por lo que la EVA a los 3 meses es el predictor más fuerte, por lo que a mayor puntuación en la
+
+escala análoga visual de dolor mayor riesgo de insatisfacción, el IC 95% es mayor a 1 por lo que claro la relevancia clínica.
+
+Tabla 6. Insatisfacción a los 3 Meses POP
+
+Variable
+
+RR
+
+Sexo
+
+- Masculino
+
+1.26
+
+Edad
+
+1.03
+
+Lateralidad
+
+- Derecha
+
+0.28
+
+EVA Prequirúrgica
+
+0.79
+
+Alineación
+
+- Varo
+
+0.15
+
+- Valgo
+
+0.10
+
+- Neutro
+
+1.0
+
+IMC
+
+0.95
+
+ASA
+
+- II
+
+0.62
+
+Cirugías Previas
+
+- Osteosíntesis 0.62
+
+- Artroscopia
+
+1.14
+
+- Reconstrucción 8.0
+
+ligamentaria
+
+- Otras cirugías 1.67
+
+Antecedente
+
+Psiquiátrico
+
+- Insomnio
+
+6.56
+
+Uso Torniquete
+
+1.25
+
+Error Estándar
+0.67 0.04
+0.15 0.15
+0.156 0.125 1.0 0.06
+0.71
+0.70 1.34 11.9
+1.0
+0.22 0.54
+
+Valor P
+0.67 0.48
+0.02 0.23
+0.07 0.06 1.0 0.45
+0.67
+0.67 0.91 0.16
+0.39
+0.19 0.74
+
+IC 95%
+0.44-3.56 0.96- 1.1
+0.10- 0.82 0.54-1.16
+0.02-1.2 0.01-1.15 0.14- 7.09 0.83-109
+0.06- 5.85
+0.07-5.77 0.12-11.22 0.43- 148.9
+0.52- 5.42
+0.39-110.2 0.33- 4.72
+
+Duración
+
+del 1.02
+
+torniquete
+
+Volumen
+
+del 1.0
+
+Sangrado
+
+Días
+
+de 0.83
+
+hospitalización
+
+Profilaxis
+
+1.15
+
+antitrombótica
+
+mecánica
+
+Complicaciones
+
+tempranas:
+
+TVP
+
+3.43
+
+Escala
+
+Oxford 1.04
+
+Prequirúrgica
+
+Marca de prótesis
+
+- DePuy Synthes 0.98
+
+Modelo de prótesis
+
+- Attune
+
+1.04
+
+Talla
+
+- 13
+
+0.50
+
+- 9
+
+0.41
+
+- 5
+
+0.50
+
+Escala Oxford POP 3 0.99
+
+meses
+
+Escala KSS dolor a 0.88
+
+los 3 Meses
+
+Escala KSS función a 0.93
+
+los 3 meses
+
+EVA POP 3 meses
+
+2.34
+
+0.02 0.003 0.25 0.71
+0.37 0.04
+0.63 0.59 2.45 1.63 1.70 0.06 0.04 0.02 0.41
+
+0.34
+
+0.98- 1.06
+
+0.50
+
+0.99- 1.01
+
+0.53
+
+0.46- 1.50
+
+0.82
+
+0.34- 3.87
+
+0.33
+
+0.29- 40.19
+
+0.33
+
+0.96-1.13
+
+0.98
+0.95
+0.57 0.19 0.41 0.83
+0.002
+0.01
+0.00
+
+0.29-3.09
+0.31-3.48
+0.04- 5.51 0.11- 1.57 0.09- 2.64 0.87- 1.12
+0.81-0.95
+0.88- 0.98
+1.65- 3.31
+
+Se realizo también el análisis bivariado con estimación de riesgos relativos (RR) de las variables independientes vs variable dependiente (Insatisfacción a los 6 meses). El RR del sexo masculino es de 1.13, con valor P 0.82 (Tabla 7), lo cual no es estadísticamente significativo, por lo que el sexo no se asoció con la insatisfacción a los 6 meses. La edad tiene un RR de 1.03 con un valor P de 0.46, lo cual no es estadísticamente significativo, por lo que la variable edad no se asoció con la insatisfacción a los 6 meses. La lateralidad derecha tiene un RR de 0.33 con valor P de 0.03, el cual es estadísticamente significativo, lo que indica que la variable lateralidad derecha se asocia con menor riesgo de insatisfacción a los 6 meses, y el IC 95% es menor de 1 por lo que es un efecto relevante clínicamente.
+La escala EVA prequirúrgica tiene una RR es de 0.81 con valor P de 0.28, lo cual no es estadísticamente significativa, la variable no se asociado con insatisfacción a los 6 meses POP. La alineación en varo tiene un RR de 0.16 con valor P de 0.08, valgo valor RR 0.10 con valor P de 0.06, lo cual la variable alineación no es estadísticamente significativa para predecir insatisfacción a los 6 meses POP. El IMC tiene un RR de 0.99 con valor P de 0.87, lo cual no es estadísticamente significativo. Respecto a la clasificación ASA, ASA II tiene un RR de 0.66 con valor P de 0.72, lo cual no es estadísticamente significativo, ASA I- III no se puede analizar, por lo que la variable no es predictor de insatisfacción a los 6 meses POP.
+Las variables de cirugías previas, osteosíntesis tiene un RR de 0.5 con valor P de 0.54, artroscopia RR de 0.93 con valor P de 0.95, reconstrucción ligamentaria RR de 6.5 con valor P 0.20, lo cual no es estadísticamente significativo, por lo cual no es un factor asociado a insatisfacción POP a los 6 meses. Los antecedentes psiquiátricos, el de Insomnio tiene un RR de 6.12 con un valor P de 0.21, lo cual no es estadísticamente significativo, por lo que la variable de antecedentes psiquiátricos no se asocia a insatisfacción POP a los 6 meses.
+
+El uso de torniquete tiene un RR de 0.90 con valor P de 0.86, lo cual no es estadísticamente significativo, por lo que es una variable que no se asoció con la insatisfacción POP a los 6 meses. La duración del torniquete tiene un RR de 1.02, con un valor P de 0.31, no cual no es estadísticamente significativo, por lo que la duración del torniquete no tiene impacto en la insatisfacción del paciente. El volumen del sangrado tiene un RR de 1.01 con un valor P de 0.78, el cual no es estadísticamente significativo, por lo que el volumen de sangrado no es un factor asociado con la insatisfacción. Los días de hospitalización tiene un RR de 0.84 con un valor P de 0.54, no es significativo estadísticamente. La profilaxis antitrombótica mecánica tiene un RR de 1.50 con un valor P de 0.48, lo cual no es significativo estadísticamente. Dentro de las complicaciones tempranas, la TVP tiene un RR de 3.19 con un valor P de 0.35, lo cual no es estadísticamente significativo. La escala Oxford prequirúrgica tiene un RR de 1.04 con un valor P de 0.30 lo cual no es significativa estadísticamente.
+Dentro de las marcas de prótesis de rodilla, se analizó DePuy Synthes con un valor RR de 1.28 con valor P de 0.67 el cual no es estadísticamente significativo, respecto al modelo la protesis Attune tiene un RR de 0.95 con un valor P de 0.93, el cual no es estadísticamente significativo, en cuanto a la talla la talla 13 del inserto tiene un RR de 0.50 con un valor P de 0.57, talla 9 un RR de 0.41 con valor P de 0.19 y talla 5 con RR de 0.71 y valor P de 0.29, los cuales no son estadísticamente significativos.
+La escala Oxford POP 3 meses tiene un RR de 0.99 con valor P de 0.84 respecto a la insatisfacción a los 6 meses, lo cual no es estadísticamente significativo. La escala KSS dolor a los 3 meses respecto a la insatisfacción a los 6 meses, tiene un RR de 0.89 con un valor P de 0.003, lo cual es estadísticamente significativo, lo que indica que a mayor puntuación de la escala reduce la probabilidad de insatisfacción. La escala KSS función a los 3 meses tiene un RR de 0.94, con valor P de 0.012 respecto a la insatisfacción a los 6 meses lo cual es estadísticamente significativo,
+
+lo que indica que a mayor escala menor probabilidad de insatisfacción a los 6 meses. La escala EVA de dolor a los 3 meses tiene un RR de 2.18 con valor P de 0.001, lo que indica que el dolor a los 3 meses es un favor asociado con la insatisfacción POP, a mayor dolor a los 3 meses, mayor probabilidad de insatisfacción POP a los 6 meses.
+
+La escala Oxford a los 6 meses POP tiene un RR de 0.95 con un valor P de 0.29 respecto a la insatisfacción a los 6 meses el cual no es estadísticamente significativa. La escala KSS dolor a los 6 meses tiene un RR de 0.93 con un valor P de 0.01 respecto a la insatisfacción a los 6 meses, lo que indica que la escala KSS de dolor es un factor significativo, a mayor puntaje de la escala se asocia a menor insatisfacción a los 6 meses. La escala KSS función a los 6 meses tiene un RR de 0.95 y un valor P de 0.03 respecto a la insatisfacción a los 6 meses, lo que indica que la escala es un factor relevante, a mayor puntuación de la escala, se asocia a menor insatisfacción y el IC 95% confirma su importancia. La Escala Eva de dolor a los 6 meses tiene un valor RR de 2.51 y valor P 0.0 respecto a la insatisfacción a los 6 meses, lo que indica que el dolor es un predictor de insatisfacción, a mayor dolor mayor insatisfacción POP a los 6 meses.
+
+Tabla 7. Insatisfacción a los 6 Meses POP
+
+Variable
+
+RR
+
+Sexo
+
+- Masculino
+
+1.13
+
+Edad
+
+1.03
+
+Lateralidad
+
+- Derecho
+
+0.33
+
+EVA Prequirúrgica
+
+0.81
+
+Alineación
+
+Error Estándar
+0.59 0.03
+0.17 0.16
+
+Valor P
+0.82 0.46 0.03 0.28
+
+IC 95%
+0.40-3.14 0.96- 1.10 0.12- 0.93 0.55- 1.18
+
+- Varo
+
+1.63
+
+- Valgo
+
+0.10
+
+- Neutro
+
+1.0
+
+IMC
+
+0.99
+
+ASA
+
+- II
+
+0.66
+
+Cirugías Previas
+
+- Osteosíntesis 0.50
+
+- Artroscopia
+
+0.93
+
+- Reconstrucción 6.5
+
+ligamentaria
+
+- Otras cirugías 1.36
+
+- Sin cirugía
+
+0.15
+
+Antecedente
+
+Psiquiátrico
+
+- Insomnio
+
+6.12
+
+- Ninguno
+
+0.16
+
+Uso Torniquete
+
+0.90
+
+Duración
+
+del 1.02
+
+torniquete
+
+Volumen
+
+del 1.01
+
+Sangrado
+
+Días
+
+de 0.84
+
+hospitalización
+
+Profilaxis
+
+1.50
+
+antitrombótica
+
+mecánica
+
+Complicaciones
+
+tempranas:
+
+TVP
+
+3.19
+
+0.17 0.12 1.0 0.06
+0.76
+0.56 1.07 09.62 0.78 0.06
+8.79 0.04 0.55 0.02 0.002
+0.25 0.87
+4.0
+
+0.081 0.06 1.0 0.87
+0.72
+0.54 0.95 0.20
+0.59 0.0
+
+0.02- 1.25 0.01- 1.15 0.14- 7.09 0.87- 1.13
+0.07-6.27
+0.05- 4.55 0.10- 8.94 0.36- 118.4
+0.44- 4.17 0.06- 0.36
+
+0.21
+
+0.36- 102.5
+
+0.0
+
+0.09- 0.27
+
+0.86
+
+0.27- 2.99
+
+0.31
+
+0.98- 1.05
+
+0.78
+
+0.99- 1.00
+
+0.54
+
+0.47- 1.49
+
+0.48
+
+0.48- 4.67
+
+0.35
+
+0.27- 37.22
+
+Escala
+
+Oxford 1.04
+
+0.04
+
+Prequirúrgica
+
+Marca de prótesis
+
+- DePuy Synthes 1.28
+
+0.45
+
+Modelo de prótesis
+
+- Attune
+
+0.95
+
+0.64
+
+Talla
+
+- 13
+
+0.5
+
+2.45
+
+- 9
+
+0.41
+
+1.63
+
+- 5
+
+0.71
+
+1.13
+
+Escala Oxford POP 3 0.99
+
+0.06
+
+meses
+
+Escala KSS dolor a 0.88
+
+0.04
+
+los 3 Meses
+
+Escala KSS función a 0.94
+
+0.03
+
+los 3 meses
+
+EVA POP 3 meses
+
+2.18
+
+0.07
+
+Escala Oxford POP 6 0.95
+
+0.05
+
+meses
+
+Escala KSS dolor a 0.93
+
+0.03
+
+los 6 Meses
+
+Escala KSS función a 0.95
+
+0.02
+
+los 6 meses
+
+EVA POP 6 meses
+
+2.51
+
+0.07
+
+0.30
+
+0.96- 1.13
+
+0.67
+0.94
+0.57 0.19 0.66 0.84
+0.003
+0.01
+0.001 0.29
+0.01
+0.03
+0.00
+
+0.41-3.96
+0.29-3.17
+0.05-5.51 0.11-1.57 0.15- 3.40 0.87- 1.12
+0.82- 0.96
+0.89- 0.99
+1.58- 3.01 0.86- 1.05
+0.87- 0.98
+0.91- 0.99
+1.76- 3.6
+
+9. Discusión
+A pesar de los grandes avances en los biomateriales, avances en la técnica quirúrgica, de las indicaciones para el reemplazo total de rodilla, existe una alta tasa de insatisfacción postoperatoria, por lo cual fue el motivo de nuestro estudio, en búsqueda de factores asociados con la insatisfacción postoperatoria a los 3 meses y 6 meses.
+En el presente estudio se reporta una incidencia de insatisfacción del 13.49% a los 3 meses POP, y según la clasificación por categorías, el 1.59% tienen una postura neutral, el 9.52% están insatisfechos y el 3.97% están extremadamente insatisfechos. A los 6 meses POP, se evidencia una incidencia de insatisfacción del 14.29%, la cual tiene un leve aumento respecto a los 3 meses y por categorías, el 1.59% se encuentran neutral, el 11.11% insatisfechos y el 3.17% extremadamente insatisfechos. La incidencia reportada en nuestro estudio es menor a la encontrada en diferentes bibliografías, como se muestra en el estudio realizado por Bourne y colaborados donde se analizaron 1703 pacientes llevados a reemplazo total de rodilla, en donde se documenta una insatisfacción del 19%. (31) En el estudio realizado por Scott y colaboradores en el año 2010 a 1290 postoperatorios de artroplastias totales de rodilla se evidencia una insatisfacción de 18.6%, superior a la reportada en nuestro estudio. (55)
+Después de realizar el análisis bivariado de los factores clínicos se evidencia que la lateralidad derecha tiene un RR 0.28, con un valor P de 0.02 respecto a la insatisfacción a los 3 meses POP y tiene un RR de 0.33 con valor P de 0.03 respecto a la insatisfacción a los 6 meses, lo que indica que la lateralidad influye en la insatisfacción y es estadísticamente significativa, los pacientes operados de lateralidad derecha tuvieron menor probabilidad de insatisfacción a los 3 y 6 meses comparado con la izquierda.
+
+El IMC tiene un valor RR de 0.95 con un valor P de 0.45 respecto a la insatisfacción a los 3 meses y tiene un RR de 0.99 con valor P de 0.87 respecto a la insatisfacción a los 6 meses, lo cual no es estadísticamente significativo. El resultado es congruente con algunos estudios como el de Lostak y colaboradores, donde se no se evidencio una correlación entre obesidad y la satisfacción en artroplastia total de rodilla. (56) También como se mostró en el trabajo de Thambiah y colaboradores donde no se evidencia asociación significativa entre IMC y la insatisfacción postoperatoria de reemplazo total de rodilla. (57) Sin embargo también se dispone de estudios como el realizado por Ayers y colaboradores, donde se evidencia que el IMC elevado es un factor significativo para la insatisfacción en el postoperatorio de reemplazo total de rodilla. (58)
+La escala KSS dolor a los 3 meses tiene un valor RR de 0.88 con valor P de 0.002 respecto a la insatisfacción a los 3 meses, a los 3 meses tiene un valor RR de 0.89 con un valor P de 0.003 respecto a la insatisfacción a los 6 meses y la escala a los 6 meses tiene un RR de 0.93 con un valor P de 0.01 respecto a la insatisfacción a los 6 meses, lo que indica que la escala KSS de dolor es un factor significativo, a mayor puntaje de la escala se asocia a menor insatisfacción a los 6 meses y el IC 95% confirma la relevancia clínica. Los resultados se correlacionan con bibliografía disponible, como en el estudio de Strahl y colaboradores donde se evidencia una correlación entre escala KSS y cambios en la satisfacción. (59) Otro estudio relevante es el realizado por Liu y colaboradores, donde se evidencia que la escala KSS influyeron en la satisfacción tras un reemplazo total de rodilla, a menor puntuación mayor probabilidad de insatisfacción. (60)
+La escala EVA prequirúrgica tiene un RR 0.79, sin embargo, valor P 0.23 respecto a la insatisfacción a los 3 meses, lo cual no es estadísticamente significativo. La escala Eva a los 3 meses tiene valor RR de 2.34 y valor P de 0.00 respecto a la insatisfacción a los 3 meses, a los 3 meses tiene un RR de 2.18 con valor P de 0.001 respecto a la insatisfacción a los 6 meses y a los 6 meses tiene un valor RR
+
+de 2.51 y valor P 0.0 respecto a la insatisfacción a los 6 meses, lo que indica que el dolor es un predictor de insatisfacción, a mayor dolor mayor insatisfacción POP a los 3 y 6 meses. Estos resultados son apoyados en bibliografía disponible como en el estudio de Strahl y colaboradores, donde resalta el dolor como predictor de insatisfacción posoperatoria de artroplastia total de rodilla.(59) También el dolor postoperatorio residual fue considera como un factor relevante en la insatisfacción en el estudio realizado por Muertizha y colaboradores. (61) El dolor residual fue de los factores más frecuentemente asociados y más relevantes con la insatisfacción postoperatoria reemplazo total de rodilla. (62)
+Los factores funcionales mostraron una asociación significativa con la insatisfacción POP tanto a los 3 meses como a los 6 meses. La escala KSS de función a los 3 meses tiene un valor RR de 0.93 con valor P en 0.01 respecto a la insatisfacción a los 3 meses, a los 3 meses tiene un RR de 0.94 respecto a la insatisfacción a los 6 meses con valor P de 0.012, y a los 6 meses tiene un RR de 0.95 y un valor P de 0.03 respecto a la insatisfacción a los 6 meses, lo que indica que la escala es un factor relevante estadísticamente significativo, a mayor puntuación de la escala, se asocia a menor insatisfacción a los 3 y 6 meses. Estos hallazgos se correlaciones con la bibliografía disponible, como en el estudio de Strahl y colaboradores, donde se evidencia una correlación escala KSS funcional con la insatisfacción. (59) También en el estudio realizado por Espinos y colaboradores, resaltan la importancia de la escala KSS funcional, su incidencia en la satisfacción reemplazo total de rodilla. (63)
+La escala Oxford Prequirúrgica tiene un RR de 1.04 con un valor P de 0.33 respecto a la insatisfacción a los 3 meses, lo cual no es estadísticamente significativo. La escala Oxford POP 3 meses tiene un RR en 0.99 con valor P en 0.83 respecto a la insatisfacción a los 3 meses lo cual no es estadísticamente significativo. La escala Oxford prequirúrgica tiene un RR de 1.04 con un valor P de 0.30 respecto a la insatisfacción a los 6 meses, lo cual no es significativa estadísticamente. La escala
+
+Oxford POP 3 meses tiene un RR de 0.99 con valor P de 0.84 respecto a la insatisfacción a los 6 meses, lo cual no es estadísticamente significativo, y la escala Oxford a los 6 meses POP tiene un RR de 0.95 con un valor P de 0.29 el cual no es estadísticamente significativa, por lo cual la escala Oxford en ninguna medición fue estadísticamente significativa. Sin embargo, la bibliografía es variable, en el estudio de Petersen y colaboradores, se evidencia la relevancia clínica de la escala Oxford y la insatisfacción postoperatoria reemplazo total de rodilla. (64) A pesar que la escala Oxford aumento a los 3 y 6 meses posoperatorio, no fue un factor asociado con la insatisfacción, lo que significa que la insatisfacción es multifactorial y no solo depende de una escala, sino de multiples factores.
+Los factores psicológicos no mostraron una asociación significativa y la insatisfacción a los 3 meses y a los 6 meses POP, ya que el antecedente de insomnio tiene un RR de 6.56 sin embargo el valor P 0.19 respecto a la insatisfacción a los 3 meses y un RR de 6.12 con un valor P de 0.21 respecto a la insatisfacción a los 6 meses, lo cual no es estadísticamente significativo, por lo que la variable no se asocia con la insatisfacción POP a los 3 y a los 6 meses. La bibliografía es variable sobre los factores psicológico, en la revisión sistemática realizada por Shetty y colaboradores se evidencia que los factores psicológicos como la depresión se relacionaron con la insatisfacción postoperatoria reemplazo total de rodilla. (65) También en el estudio realizado por López y colaboradores se evidencia una asociación entre factores psicosociales y la satisfacción en el postoperatoria de artroplastia total de rodilla. (66) En el estudio realizado por Khatib se determinó que el estado psicológico puede afectar la satisfacción en el paciente. (67) En nuestra muestra debido a la baja prevalencia de factores psicológicos, puede afectar la significancia estadística de los resultados obtenidos.
+
+10. Conclusiones
+La incidencia de insatisfacción Postoperatorio a los 3 meses fue de 13.49%, según la clasificación por categorías el 1.59% tienen una postura neutral, el 9.52% están insatisfechos y el 3.97% están extremadamente insatisfechos y a los 6 meses potoperatorio se evidencia una incidencia de insatisfacción del 14.29% y por categorías, el 1.59% se encuentran neutral, el 11.11% insatisfechos y el 3.17% extremadamente insatisfechos. La incidencia reportada en nuestro estudio es menor a la encontrada en diferentes bibliografías.
+Existe una asociación significativa entre factores clínicos y la insatisfacción de los pacientes con los resultados del reemplazo total de rodilla a los 3 y 6 meses postoperatorio, dentro de las variables estudiadas, la escala KSS de dolor a los 3 y 6 meses se asociaron significativamente con la insatisfacción a los 3 meses y 6 meses, a mayor puntaje de la escala se asocia a menor insatisfacción a los 6 meses. La lateralidad fue otra variable con significancia estadística, los pacientes operados de lateralidad derecha tuvieron menor probabilidad de insatisfacción a los 3 y 6 meses comparado con la izquierda. La escala análoga visual del dolor prequirúrgica no fue estadísticamente significativa, sin embargo, la escala EVA a los 3 meses y 6 meses fueron predictor de insatisfacción a los 3 y 6 meses, por lo que a mayor puntuación en la escala análoga visual de dolor mayor riesgo de insatisfacción.
+Existe una asociación significativa entre los factores funcionales y la insatisfacción de los pacientes con los resultados del reemplazo total de rodilla a los 3 y 6 meses Posoperatorio, dentro de las variables medidas, la escala KSS de función a los 3 y 6 meses se asociaron significativamente con la insatisfacción a los 3 y 6 meses postoperatorio, lo que indica que la escala es un factor relevante, a mayor puntuación de la escala, se asocia a menor insatisfacción
+
+No existe una asociación significativa entre los factores psicológicos y la insatisfacción de los pacientes con los resultados del reemplazo total de rodilla a los 3 y 6 meses Posoperatorio, los antecedentes psicológicos analizaron no presentaron significancia estadística.
+Los resultados obtenidos en el presente estudio son muy relevantes porque permitieron conocer los factores asociados con la insatisfacción postoperatoria de reemplazo total de rodilla y de esta forma a futuro se podrán realizar intervenciones para mejorar los resultados de estas variables y así mejorar la satisfacción postoperatoria.
+
+11. Referencias Bibliográficas
+1. Jang S, Lee K, Ju JH. Recent updates of diagnosis, pathophysiology, and treatment on osteoarthritis of the knee. Vol. 22, International Journal of Molecular Sciences. MDPI AG; 2021. p. 1-15.
+2. Steinmetz JD, Culbreth GT, Haile LM, Rafferty Q, Lo J, Fukutaki KG, et al. Global, regional, and national burden of osteoarthritis, 1990-2020 and projections to 2050: a systematic analysis for the Global Burden of Disease Study 2021. Lancet Rheumatol. 1 de septiembre de 2023;5(9):e508-22.
+3. Allen KD, Thoma LM, Golightly YM. Epidemiology of osteoarthritis. Osteoarthritis Cartilage. 1 de febrero de 2022;30(2):184-95.
+4. Jordan JM, Helmick CG, Renner JB, Luta G, Dragomir AD, Woodard J, et al. Personal non-commercial use only [Internet]. Vol. 34, The Journal of Rheumatology. 2007. Disponible en: www.jrheum.org
+5. Li D, Li S, Chen Q, Xie X. The Prevalence of Symptomatic Knee Osteoarthritis in Relation to Age, Sex, Area, Region, and Body Mass Index in China: A Systematic Review and Meta-Analysis. Front Med (Lausanne). 16 de julio de 2020;7.
+6. Andrianakos A, Kontelis L, Karamitsos D, Aslanidis S, Georgountzos Athanasios. Prevalence of symtomatic Knee, Hand, and Hips Osteoarthritis in Greece. The Esordig Study. The Rheumatic Disease Epidemiology Section. 2006;
+7. Palazzo C, Nguyen C, Lefevre-Colau MM, Rannou F, Poiraudeau S. Risk factors and burden of osteoarthritis. Vol. 59, Annals of Physical and Rehabilitation Medicine. Elsevier Masson SAS; 2016. p. 134-8.
+8. Primorac D, Molnar V, Rod E, Jeleč Ž, Čukelj F, Matišić V, et al. Knee osteoarthritis: A review of pathogenesis and state-of-the-art non-operative therapeutic considerations. Genes (Basel). 2020;11(8):1-35.
+9. Katz. JN, Arant. KR, Loeser. RF. Diagnosis and treatment of hip and knee osteoarthritis: A review. JAMA. 2021;325(6):568-78.
+10. Canovas F, Dagneaux L. Quality of life after total knee arthroplasty. Orthopaedics and Traumatology: Surgery and Research. 2018;104(1):S41-6.
+11. Gunaratne R, Pratt DN, Banda J, Fick DP, Khan RJK, Robertson BW. Patient Dissatisfaction Following Total Knee Arthroplasty: A Systematic Review of the Literature. Journal of Arthroplasty. 2017;32(12):3854-60.
+12. Giorgino R, Albano D, Fusco S, Peretti GM, Mangiavini L, Messina C. Knee Osteoarthritis: Epidemiology, Pathogenesis, and Mesenchymal Stem Cells: What Else Is New? An Update. Vol. 24, International Journal of Molecular Sciences. Multidisciplinary Digital Publishing Institute (MDPI); 2023.
+13. Levitt S, Park N, Cheng R, Ayhan E, Zazulak B, Joo P, et al. Embryonic and fetal development of the human knee with an emphasis on the posterior
+
+cruciate ligament: a literature review. Vol. 10, Annals of Joint. AME Publishing Company; 2025.
+14. Rida-Velasco JAM, Sa´nchez I, Sa´nchez-Montesinos S, Joaqui´ J, Espi´nespi´espi´n-Ferra J, Rodri´guez JF, et al. Development of the Human Knee Joint. Vol. 248. Wiley-Liss, Inc; 1997.
+15. Saavedra MÁ, Navarro-Zarza JE, Villaseñor-Ovies P, Canoso JJ, Vargas A, Chiapas-Gasca K, et al. Clinical Anatomy of the Knee. Reumatol Clin. diciembre de 2012;8(SUPPL.2):39-45.
+16. Cailliet- Anatomia Funcional, Biomecanica.
+17. Booksmedicosorg. Latarjet - Ruiz Liard Anatomia Humana 5a Edicion Tomo 1.
+18. Orthopaedic Biomechanics Made Easy.
+19. Koh J, Zaa S, Ryosuke A, Umile K, Longo G, Amirouche F. Orthopaedic Biomechanics in Sports Medicine.
+20. Jang S, Lee K, Ju JH. Recent updates of diagnosis, pathophysiology, and treatment on osteoarthritis of the knee. Int J Mol Sci. 2021;22(5):1-15.
+21. Michael JWP, Schlüter-Brust KU, Eysel P. Epidemiologie, ätiologie, diagnostik und therapie der gonarthrose. Dtsch Arztebl. 2010;107(9):152-62.
+22. Moseng T, Vliet Vlieland TPM, Battista S, Beckwée D, Boyadzhieva V, Conaghan PG, et al. EULAR recommendations for the non-pharmacological core management of hip and knee osteoarthritis: 2023 update. Ann Rheum Dis. 1 de junio de 2024;83(6):730-40.
+23. Bruyère O, Honvo G, Veronese N, Arden NK, Branco J, Curtis EM, et al. An updated algorithm recommendation for the management of knee osteoarthritis from the European Society for Clinical and Economic Aspects of Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (ESCEO). Vol. 49, Seminars in Arthritis and Rheumatism. W.B. Saunders; 2019. p. 337-50.
+24. Pereira T V., Jüni P, Saadat P, Xing D, Yao L, Bobos P, et al. Viscosupplementation for knee osteoarthritis: systematic review and metaanalysis. The BMJ. BMJ Publishing Group; 2022.
+25. Kaulback K, Jones S, Wells C, Felipe E. CADTH RAPID RESPONSE REPORT: SUMMARY WITH CRITICAL APPRAISAL Viscosupplementation for Knee Osteoarthritis: A Review of Clinical and Cost-Effectiveness and Guidelines SUMMARY WITH CRITICAL APPRAISAL Viscosupplementation for Knee Osteoarthritis 2. 2017.
+26. Jüni P, Hari R, Rutjes AWS, Fischer R, Silletta MG, Reichenbach S, et al. Intra-articular corticosteroid for knee osteoarthritis. Vol. 2015, Cochrane Database of Systematic Reviews. John Wiley and Sons Ltd; 2015.
+27. Fibel KH. State-of-the-Art management of knee osteoarthritis. World J Clin Cases. 2015;3(2):89.
+
+28. Tanzer M, Makhdom AM. Preoperative Planning in Primary Total Knee Arthroplasty. Vol. 24, Journal of the American Academy of Orthopaedic Surgeons. Lippincott Williams and Wilkins; 2016. p. 220-30.
+29. Kahlenberg CA, Nwachukwu BU, McLawhorn AS, Cross MB, Cornell CN, Padgett DE. Patient Satisfaction After Total Knee Replacement: A Systematic Review. HSS Journal. 2018;14(2):192-201.
+30. Robertsson O, Dunbar M, Pehrsson T, Knutson K, Lidgren L. Patient satisfaction after knee arthroplasty: A report on 27,372 knees operated on between 1981 and 1995 in Sweden. Acta Orthop Scand. 2000;71(3):262-7.
+31. Bourne RB, Chesworth BM, Davis AM, Mahomed NN, Charron KDJ. Patient satisfaction after total knee arthroplasty: Who is satisfied and who is not? Clin Orthop Relat Res. 2010;468(1):57-63.
+32. Martínez JP, Arango AS, Castro AM, Martínez Rondanelli A. Validación de la versión en español de las escalas de Oxford para rodilla y cadera. Revista Colombiana de Ortopedia y Traumatología. junio de 2016;30(2):61-6.
+33. Dinjens RN, Senden R, Heyligers IC, Grimm B. Clinimetric quality of the new 2011 knee society score: High validity, low completion rate. Vol. 21, Knee. Elsevier B.V.; 2014. p. 647-54.
+34. Culliton SE, Bryant DM, MacDonald SJ, Hibbert KM, Chesworth BM. Validity and internal consistency of the new knee society knee scoring system. Clin Orthop Relat Res. 1 de enero de 2018;476(1):77-84.
+35. Gómez-Valero S, García-Pérez F, Flórez-García MT, Miangolarra-Page JC. Revisión sistemática de los cuestionarios autocumplimentados adaptados al español para la valoración funcional de pacientes con afecciones de rodilla. Rev Esp Cir Ortop Traumatol. 1 de marzo de 2017;61(2):96-103.
+36. Klem NR, Smith A, Osullivan P, Dowsey MM, Schutze R, Kent P, et al. What influences patient satisfaction after total knee replacement? A qualitative longterm follow-up study. BMJ Open. 2021;11(11):1-11.
+37. Fu X, She Y, Jin G, Liu C, Liu Z, Li W, et al. Comparison of robotic-assisted total knee arthroplasty: an updated systematic review and meta-analysis. Vol. 18, Journal of Robotic Surgery. Springer Nature; 2024.
+38. Pollock M, Somerville L, Firth A, Lanting B. Outpatient total hip arthroplasty, total knee arthroplasty, and unicompartmental knee arthroplasty: A systematic review of the literature. JBJS Rev. 2016;4(12):1-15.
+39. Aguirre CE, Espitia R, Martínez-Villalba D, Fernández HA, Barrera JC, Castillo SA. Reemplazo total primario de rodilla: Seguimiento a 6 meses. Revista Colombiana de Ortopedia y Traumatología. septiembre de 2014;28(3):101-6.
+40. Jiao S, Feng Z, Huang J, Dai T, Liu R, Meng Q. Enhanced recovery after surgery combined with quantitative rehabilitation training in early rehabilitation after total knee replacement: a randomized controlled trial. Eur J Phys Rehabil Med. 1 de febrero de 2024;60(1):74-83.
+41. Bourne RB, Chesworth BM, Davis AM, Mahomed NN, Charron KDJ. Patient satisfaction after total knee arthroplasty: Who is satisfied and who is not? En:
+
+Clinical Orthopaedics and Related Research. Springer New York; 2010. p. 5763.
+42. Bian T, Shao H, Zhou Y, Huang Y, Song Y. Does psychological distress influence postoperative satisfaction and outcomes in patients undergoing total knee arthroplasty? A prospective cohort study. BMC Musculoskelet Disord. 1 de diciembre de 2021;22(1).
+43. Shan L, Shan B, Suzuki A, Nouh F, Saxena A. Intermediate and long-term quality of life after total knee replacement: A systematic review and metaanalysis. Journal of Bone and Joint Surgery - American Volume. 21 de enero de 2015;97(2):156-68.
+44. Boddu K, Bilal A, Hester TW, Hardwick T, Fox TP, Edmonds M, et al. Outcome of one-stage correction of deformities of the ankle and hindfoot and fusion in Charcot neuroarthropathy using a retrograde intramedullary hindfoot M. Siebachmeyer, arthrodesis nail. Bone and Joint Journal. 2015;97(1):76-82.
+45. Choi YJ, Ra HJ. Patient satisfaction after total knee arthroplasty. Vol. 28, Knee Surgery and Related Research. BioMed Central Ltd; 2016. p. 1-15.
+46. Van Onsem S, Van Der Straeten C, Arnout N, Deprez P, Van Damme G, Victor J. A New Prediction Model for Patient Satisfaction After Total Knee Arthroplasty. Journal of Arthroplasty. 1 de diciembre de 2016;31(12):26602667.e1.
+47. Matsuda S, Kawahara S, Okazaki K, Tashiro Y, Iwamoto Y. Postoperative alignment and ROM affect patient satisfaction after TKA knee. En: Clinical Orthopaedics and Related Research. Springer New York LLC; 2013. p. 12733.
+48. Nakahara H, Okazaki K, Mizu-uchi H, Hamai S, Tashiro Y, Matsuda S, et al. Correlations between patient satisfaction and ability to perform daily activities after total knee arthroplasty: why aren’t patients satisfied? Journal of Orthopaedic Science. 22 de enero de 2015;20(1):87-92.
+49. Khatib Y, Badge H, Xuan W, Naylor JM, Harris IA. Patient satisfaction and perception of success after total knee arthroplasty are more strongly associated with patient factors and complications than surgical or anaesthetic factors. Knee Surgery, Sports Traumatology, Arthroscopy. 1 de octubre de 2020;28(10):3156-63.
+50. Andronic O, Suravaram V, Lu V, Wall SJ, Bucher TA, Prosser GH, et al. What are the Outcomes of Secondary Patella Resurfacing for Dissatisfaction Following Primary Knee Arthroplasty? A Systematic Review and MetaAnalysis of 604 Knees. Journal of Arthroplasty. 1 de abril de 2024;39(4):10931107.e1.
+51. Lošťák J, Gallo J, Zapletalová J. Spokojenost s náhradou kolena: analýza předoperačních a perioperačních parametrů u 826 pacientů Patient Satisfaction after Total Knee Arthroplasty. Analysis of Pre-Operative and PeriOperative Parameters Influencing Results in 826 Patients. Vol. 83, Acta Chir. orthop. Traum. čech. 2016.
+
+52. Scott CEH, Oliver WM, Macdonald D, Wade FA, Moran M, Breusch SJ. Predicting dissatisfaction following total knee arthroplasty in patients under 55 years of age. 2016;98(12).
+53. Vogel N, Kaelin R, Rychen T, Wendelspiess S, Müller-Gerbl M, Arnold MP. Satisfaction after total knee arthroplasty: a prospective matched-pair analysis of patients with customised individually made and off-the-shelf implants. Knee Surgery, Sports Traumatology, Arthroscopy. 1 de diciembre de 2023;31(12):5873-84.
+54. Arbeláez-Arbeláez WR, Sánchez-Urbina JI, Arango-Piloneta CE, AfanadorAcuña EW, Rubio-Cely G, Clavijo-Cruz EO, et al. Prótesis de pivote medial y ultra-congruente: satisfacción y resultados clínicos. Serie de casos. Revista Colombiana de Ortopedia y Traumatología. octubre de 2020;34(4):359-71.
+55. Scott CEH, Howie CR, Macdonald D, Biant LC. Predicting dissatisfaction following total knee replacement A PROSPECTIVE STUDY OF 1217 PATIENTS. J Bone Joint Surg [Br]. 2010;92(9):92-1253.
+56. Lošťák J, Gallo J, Zapletalová J. Spokojenost s náhradou kolena: analýza předoperačních a perioperačních parametrů u 826 pacientů Patient Satisfaction after Total Knee Arthroplasty. Analysis of Pre-Operative and PeriOperative Parameters Influencing Results in 826 Patients. Vol. 83, Acta Chir. orthop. Traum. čech. 2016.
+57. Thambiah MD, Nathan S, Seow BZ, Liang S, Lingaraj K. Patient satisfaction after total knee arthroplasty: An Asian perspective. Singapore Med J. 2015;56(5):259-63.
+58. Ayers DC, Yousef M, Zheng H, Yang W, Franklin PD. The Prevalence and Predictors of Patient Dissatisfaction 5-years Following Primary Total Knee Arthroplasty. Journal of Arthroplasty. 1 de junio de 2022;37(6):S121-8.
+59. Strahl A, Delsmann MM, Simon A, Ries C, Rolvien T, Beil FT. A clinical risk score enables early prediction of dissatisfaction 1 year after total knee arthroplasty. Knee Surgery, Sports Traumatology, Arthroscopy. 1 de enero de 2025;33(1):252-64.
+60. Liu J, Yang Y, Wan S, Yao Z, Zhang Y, Zhang Y, et al. A new prediction model for patient satisfaction after total knee arthroplasty and the roles of different scoring systems: a retrospective cohort study. J Orthop Surg Res. 1 de diciembre de 2021;16(1).
+61. Muertizha M, Cai XT, Ji B, Aimaiti A, Cao L. Factors contributing to 1-year dissatisfaction after total knee arthroplasty: a nomogram prediction model. J Orthop Surg Res. 1 de diciembre de 2022;17(1).
+62. Kim TK, Chang CB, Kang YG, Kim SJ, Seong SC. Causes and Predictors of Patient’s Dissatisfaction After Uncomplicated Total Knee Arthroplasty. Journal of Arthroplasty. febrero de 2009;24(2):263-71.
+63. Espinosa A, Jiménez M, Zorrilla P, López A, Salido JA, Amo M. Influence of fulfilment patient expectations in outcomes after total knee arthroplasty. Rev Esp Cir Ortop Traumatol. 1 de noviembre de 2020;64(6):428-33.
+
+64. Petersen CL, Kjærsgaard JB, Kjærgaard N, Jensen MU, Laursen MB. Thresholds for Oxford Knee Score after total knee replacement surgery: A novel approach to post-operative evaluation. J Orthop Surg Res. 12 de junio de 2017;12(1).
+65. Shetty S, Maiya GA, Rao KG M, Vijayan S, George BM. Factors determinant of quality of life after total knee arthroplasty in knee osteoarthritis: A systematic review. Vol. 40, Journal of Bodywork and Movement Therapies. Churchill Livingstone; 2024. p. 1588-604.
+66. Lopez-Olivo MA, Ingleshwar A, Landon GC, Siff SJ, Barbo A, Lin HY, et al. Psychosocial Determinants of Total Knee Arthroplasty Outcomes Two Years After Surgery. ACR Open Rheumatol. 1 de octubre de 2020;2(10):573-81.
+67. Khatib Y, Madan A, Naylor JM, Harris IA. Do Psychological Factors Predict Poor Outcome in Patients Undergoing TKA? A Systematic Review. Vol. 473, Clinical Orthopaedics and Related Research. Springer New York LLC; 2015. p. 2630-8.
+
+12. Variables
+
+Variable Sexo
+Edad
+Lateralidad
+Escala análoga del dolor
+Preoperatorio Alineación
+Índice de masa corporal IMC
+
+Clasificación Independiente Independiente
+Independiente Independiente Independiente
+Independiente
+
+Definición
+
+conceptual
+
+Condición orgánica
+
+que distingue los
+
+hombres de las
+
+mujeres
+
+Número de años
+
+cumplidos desde el
+
+nacimiento hasta la
+
+fecha de la
+
+valoración clínica
+
+Cuál es el miembro
+
+inferior a operar
+
+(Derecha-
+
+Izquierda- Bilateral)
+
+Escala análoga del
+
+dolor que se
+
+describe de 1 al 10
+
+Describe
+
+la
+
+alineación
+
+prequirúrgica, en
+
+varo o valgo de
+
+rodilla.
+
+IMC Peso Kg /
+
+estatura en metros
+
+al cuadrado
+
+Escala de medición Cualitativa nominal
+Cuantitativa discreta
+Cualitativa nominal
+Cuantitativa discreta
+Cualitativa nominal
+Cuantitativa continua
+
+Objetivo que cubre Especifico 1
+Especifico 1
+Especifico 1
+General General
+Especifico 1
+
+Escala ASA Diagnostico
+Cirugías previas
+
+Independiente Independiente
+Independiente
+
+Escala ASA, de I a VI describe el tipo comorbilidades presente en el paciente, escala se encuentra en la valoración preanestésica. Se describe los principales diagnósticos: -Artrosis Primaria -Artritis reumatoidea -Fractura -Artrosis postraumática -Artritis inflamatorias -Tumor -Secuela displasia -Necrosis Avascular -Otra Se describe tipo antecedente quirúrgico: -Osteosíntesis -Osteotomía -Artroscopia -Artrodesis, -Sinovectomía, -Meniscoplastia
+
+Cuantitativa discreta
+Cualitativa nominal
+Cualitativa nominal
+
+General General
+Especifico 1
+
+Antecedente psicológico
+Tipo Procedimiento
+Tipo de Anestesia
+
+Independiente
+Independiente Independiente
+
+-Reconstrucción Ligamentaria -Otra -Ninguna Antecedente psicológico del paciente: -Ansiedad -Depresión -Esquizofrenia -Trastorno bipolar -Trastorno obsesivo compulsivo -Insomnio -Retraso mental -Demencia -Abuso de sustancias -Otra *Ninguna Se identifican dos procedimientos: -Reemplazo total rodilla -Reemplazo unicompatimental. Se identifica los siguientes tipos de anestesia: -General -Raquídea
+
+Cualitativa nominal
+Cualitativa nominal
+Cualitativa nominal
+
+General
+General General
+
+Abordaje
+Uso antibiótico
+Uso de injerto Uso de cemento
+Uso Drenaje Reemplazo
+Rotula Torniquete Tiempo uso Torniquete
+
+Independiente
+Independiente Independiente Independiente Independiente Independiente Independiente Independiente
+
+-Regional
+
+Se identifican los
+
+siguientes
+
+abordajes:
+
+-Parapatelar interno
+
+-Parapatelar
+
+externo
+
+-Midvasto
+
+-Subvasto
+
+-Otro
+
+Uso antibiótico para
+
+profilaxis
+
+prequirúrgica:
+
+-Si / No
+
+Uso de injerto
+
+intraoperatorio:
+
+-Si/No
+
+Uso de cemento con
+
+antibiótico:
+
+-Si/No
+
+Uso de drenaje
+
+postoperatorio:
+
+-Si/No
+
+Reemplazo rotula:
+
+-Si/No.
+
+Uso de torniquete
+
+-Si /No
+
+Se
+
+especifica
+
+tiempo
+
+uso
+
+torniquete
+
+em
+
+minutos
+
+Cualitativa nominal
+Cualitativa nominal
+Cualitativa nominal
+Cualitativa nominal
+Cualitativa nominal
+Cualitativa nominal
+Cualitativa nominal
+Cuantitativa discreta
+
+General
+Especifico 1 General
+Especifico 1 Especifico 1
+General General General
+
+Volumen Sangrado Complicaciones Intraoperatorias
+Días de Hospitalización
+Profilaxis antitrombótica
+mecánica
+
+Independiente Independiente
+Independiente Independiente
+
+Se
+
+establece
+
+volumen sangrado
+
+en ml
+
+Se especifica entre:
+
+-Lesión venosa
+
+-Lesión arterial
+
+-Lesión neurológica
+
+-Lesión del tendón
+
+del cuádriceps
+
+-Lesión del tendón
+
+rotuliano
+
+-Lesión ligamento
+
+colateral medial
+
+-Lesión ligamento
+
+colateral lateral
+
+-Fracturas
+
+por
+
+avulsión
+
+-Fracturas
+
+de
+
+platillos y diáfisis de
+
+la tibia
+
+-Fracturas supra e
+
+intercondíleas del
+
+fémur
+
+Se específica los
+
+días hospitalización
+
+Se especifica si se
+
+indicó profilaxis
+
+antitrombótica
+
+mecánica:
+
+-Si/No
+
+Cuantitativa discreta
+Cualitativa nominal
+Cuantitativa discreta
+Cualitativa nominal
+
+General General
+Especifico 1 Especifico 1
+
+Profilaxis antitrombótica
+química
+Complicaciones tempranas
+Escala Oxford Prequirúrgica
+
+Independiente Independiente Independiente
+
+Se especifica si se
+
+indicó cual profilaxis
+
+antitrombótica
+
+química se usó:
+
+-HBPM
+
+-Apixaban
+
+-Rivaroxaban
+
+-Dabigatran
+
+-ASA
+
+-Warfarina
+
+-Otra
+
+Se
+
+especifican
+
+complicaciones
+
+tempranas,
+
+primeras
+
+12
+
+Semanas:
+
+-Inestabilidad
+
+-Fractura
+
+peri
+
+protésica
+
+-Reintervención
+
+-Trombosis venosa
+
+profunda
+
+-Tromboembolismo
+
+pulmonar
+
+-Infección del sitio
+
+operatorio
+
+-Ninguna
+
+-Muerte
+
+Escala Oxford 0-48
+
+Cualitativa nominal
+Cualitativa nominal
+Cuantitativa discreta
+
+Especifico 1 General
+Especifico 1
+
+Tipo Fijación
+Tipo de prótesis
+Marca, Modelo, y talla
+Alineación Posoperatoria
+Estabilidad Postoperatoria
+Escala Oxford Postoperatorio a los 3 meses
+Escala KSS Dolor a los 3
+meses
+
+Independiente Independiente
+Independiente Independiente Independiente Independiente Independiente
+
+Se establece entre:
+
+-Cementada
+
+-No Cementada
+
+-Híbrida
+
+-Otra
+
+Se establece:
+
+-
+
+Postero
+
+estabilizada
+
+-Reteniendo
+
+cruzado
+
+-Semiconstreñida
+
+-Constreñida
+
+Se especifica la
+
+marca, el modelo y
+
+talla del inserto.
+
+Alineación
+
+posoperatoria en
+
+neutro (2-3°) / Varo /
+
+Valgo
+
+Estabilidad;
+
+-Leve <5 mm
+
+-Moderado 5 mm
+
+-Severo >5 mm
+
+-Normal
+
+Escala
+
+Oxford
+
+Postoperatorio 3
+
+meses 0-48
+
+Escala KSS Dolor
+
+postoperatorio 3
+
+meses 0-100
+
+Cualitativa nominal
+Cualitativa nominal
+Cualitativa nominal
+Cualitativa nominal
+Cualitativa nominal
+Cuantitativa discreta
+Cuantitativa discreta
+
+Especifico 1 Especifico 1
+Especifico 1 General General
+Especifico3 Especifico 3
+
+Escala KSS Función a los 3
+meses Escala análoga del dolor EVA postoperatorio
+3 meses Insatisfacción a
+los 3 meses Satisfacción a los 3 meses,
+Catergorias
+Escala Oxford Postoperatorio
+6 meses Escala KSS
+Dolor postoperatorio
+6 meses Escala KSS
+Función postoperatorio
+6 meses Escala análoga del dolor EVA
+
+Independiente Independiente Independiente Independiente
+Independiente Independiente Independiente Independiente
+
+Escala KSS Función
+
+postoperatorio 3
+
+meses 0-100
+
+Escala análoga del
+
+dolor
+
+EVA
+
+postoperatoria 3
+
+meses 0-10
+
+Insatisfacción:
+
+-Si/No
+
+Satisfacción:
+
+-Extremadamente
+
+satisfecho
+
+-Satisfecho
+
+-Neutro
+
+-Insatisfecho
+
+-Extremadamente
+
+insatisfecho
+
+Escala
+
+Oxford
+
+Postoperatorio 3
+
+meses 0-48
+
+Escala KSS
+
+abreviada
+
+postoperatorio 3
+
+meses 0-100
+
+Escala KSS
+
+Función
+
+postoperatorio 3
+
+meses 0-100
+
+Escala análoga del
+
+dolor EVA
+
+Cuantitativa discreta
+Cuantitativa discreta
+Cualitativa nominal
+Cualitativa ordinal
+Cuantitativa discreta
+Cuantitativa discreta
+Cuantitativa discreta
+Cuantitativa discreta
+
+Especifico 3 Especifico 3 Especifico 2 Especifico 2
+Especifico 3 Especifico 3 Especifico 3 Especifico 3
+
+postoperatorio 6 meses
+Insatisfacción a los 6 meses Satisfacción a los 6 meses, categorías
+
+Independiente Independiente
+
+postoperatoria 3 meses 0-10
+Insatisfacción: -Si/No
+Satisfacción: -Extremadamente satisfecho -Satisfecho -Neutro -Insatisfecho -Extremadamente insatisfecho
+
+Cualitativa nominal
+Cualitativa ordinal
+
+Especifico 2 Especifico 2
+
+13. Cronograma de actividades
+
+Cronograma
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Definir propuesta de investigación Búsqueda Bibliográfica
+Congruencia de la justificación y marco conceptual Construcción del Marco teórico y estado del arte
+Construcción de la metodología y consideraciones éticas Presentación a comité de ética y tutor Inicio recolección de datos Tabulación de los datos Análisis de los datos Escritura del documento final
+Aprobación del director de la tesis y correciones Aprobación del evaluador y correciones Escritura de Articulo Someter Artículo
+
+13.1 Presupuesto Global.
+
+13. Presupuesto
+
+Rubro
+Personal Materiales consumibles Equipos Salidas de campo Publicaciones y material bibliográfico Viajes Total
+
+UNAB 3.209.600
+0 0 0
+0 0 3.209.600
+
+Fuente Investigador Principal
+6.156.000 125.000 2.900.000 75.000
+250.000 1.025.400 10.531.400
+
+Total
+9.365.600 125.000 2.900.000 75.000
+250.000 1.025.400 13.741.000
+
+13.2 Presupuesto desglosado 13.21 Presupuesto Personal
+
+Rol
+Investigador principal
+Director de tesis Coordinador de tesis
+
+Formación
+Posgrado Magister Magister
+
+Dedicación
+
+Función en el proyecto
+
+Dedicación hora
+semana (Total Semanas)
+
+Diseñar, recoger los datos, tabular y escribir el informe
+
+8 (30 Semanas)
+
+Guiar durante el proceso de elaboración de la tesis
+
+2 (20 Semanas)
+
+Guiar durante el proceso de
+
+2 (20 Semanas)
+
+Costo hora
+25.650
+40.120 40.120
+
+Fuente
+
+UNAB
+
+Investigador principal
+
+0 6.156.000
+
+1.604.800
+
+0
+
+1.604.800
+
+0
+
+Total
+6.156.000 1.604.800 1.604.800
+
+elaboración de la tesis
+Total
+
+3.209.600 6.156.000 9.365.600
+
+13.22 Material consumible
+
+Denominación del Costo
+
+producto
+
+unitario #
+
+Resma de papel 25.000
+
+1
+
+Lapiceros
+
+2.000
+
+10
+
+Tinta impresora 80
+
+1
+
+Total
+
+UNAB 0 0 0 0
+
+Fuente
+Investigador principal 25.000 20.000 80.000 125.000
+
+Total 25.000 20.000 80.000 125.000
+
+13.23 Equipo y Software
+
+Equipo Costo # unitario
+
+Computador 2.000.000 1 portátil
+
+Disco duro 0 0 externo
+
+Stata
+
+200.000
+
+1
+
+Impresora
+
+500.000
+
+1
+
+Office 365
+
+200.000
+
+1
+
+Total
+
+Fuente
+
+UNAB
+
+Investigador principal
+
+0
+
+2.000.000
+
+Total 2.000.000
+
+0
+
+0
+
+0
+
+0
+
+200.000 200.000
+
+0
+
+500.000 500.000
+
+0
+
+200.000 200.000
+
+0
+
+2.900.000 2.900.000
+
+13.24 Salidas de Campo
+
+Item Transporte (Taxi)
+Refrigerio encuestadores
+
+Costo Unitario
+5
+0 Total
+
+#
+
+UNAB
+
+15.000,000
+
+0
+
+Fuente
+
+Investigador Principal
+
+0
+
+75.000
+
+0
+
+0
+
+0
+
+75.000
+
+Total 75.000
+0 75.000
+
+13.25 Publicaciones y material bibliográfico
+
+Fuente
+
+Investigador
+
+Item
+
+Justificación UNAB Principal
+
+Total
+
+Libro Stata Graphic
+
+Presentación de los resultados de manera grafica
+
+0
+
+100000 100000
+
+Pago traducción articulo a ingles
+Total
+
+Publicación artículo en revista internacional indexada en idioma ingles
+
+0
+
+150000 150000
+
+0
+
+250000 250000
+
+13.26 Viaje
+
+Lugar de viajes
+Congreso Nacional Ortopedia y Traumatología
+
+Justificación Pasajes Presentación
+ponencia para
+socialización resultados 420.200
+Total
+
+Estadia
+
+Fuente Investigador Total días UNAB Principal
+
+605.200
+
+3
+
+0
+
+0
+
+1.025.400 1.025.400
+
+Total
+1.025.400 1.025.400

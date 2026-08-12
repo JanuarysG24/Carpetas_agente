@@ -1,0 +1,171 @@
+{
+  "_declaracion": "DOMINIO DERIVADO DE DATOS SINTETICOS — SIN VALIDACION CLINICA. No usar para ninguna finalidad clinica, diagnostica ni asistencial. Calibrado sobre 160 casos sintetticos del reto; probablemente recupera el generador del dataset, no una verdad clinica. Procedencia: inferred (ADR-012).",
+
+  "domain_version": "postop-0.1.0",
+  "domain_name": "Seguimiento post-operatorio — evaluacion estructural",
+  "generado": "2026-08-07",
+  "derivado_de": "docs/Derivacion-Organico-Funcional.md",
+  "alcance": "C1 — version minima declarada: 3 clases de estado, 2 composiciones",
+
+  "_nota_ejes": "Las unidades se reparten por los tres ejes de ADR-006. El sistema evaluado es EL PACIENTE como organismo: apetito y sueno no son sintomas locales, son integridad del conjunto.",
+
+  "ejes": {
+    "funcionalidad": {
+      "descripcion": "Desempeno local de la zona intervenida y del aparato locomotor",
+      "unidades": ["dolor_intensidad", "movilidad", "aspecto_herida"]
+    },
+    "interaccion": {
+      "descripcion": "Respuesta que atraviesa el organismo y no pertenece a ningun organo",
+      "unidades": ["fiebre"]
+    },
+    "integridad": {
+      "descripcion": "Estado del organismo completo sosteniendo o no sosteniendo el cuadro",
+      "unidades": ["apetito", "sueno"]
+    }
+  },
+
+  "_nota_clases": "Vocabulario FUNCIONAL y ESTRUCTURAL, nunca diagnostico (ADR-006). Si una clase puede leerse como nombre de enfermedad, esta mal formulada. Regla de revision aplicada: ninguna nombra una patologia.",
+
+  "clases": [
+    { "id": "sin_compromiso",              "eje": null,             "descripcion": "El valor esta dentro de lo esperado para el momento post-operatorio" },
+    { "id": "funcionalidad_local_alterada","eje": "funcionalidad",  "descripcion": "Desempeno local por debajo de lo esperado, sin perdida" },
+    { "id": "funcionalidad_local_perdida", "eje": "funcionalidad",  "descripcion": "Desempeno local ausente donde antes existia" },
+    { "id": "estructura_incipiente",       "eje": "funcionalidad",  "descripcion": "Signo estructural inicial en la zona intervenida" },
+    { "id": "estructura_declarada",        "eje": "funcionalidad",  "descripcion": "Signo estructural inequivoco en la zona intervenida" },
+    { "id": "respuesta_sistemica",         "eje": "interaccion",    "descripcion": "Respuesta que atraviesa el organismo completo" },
+    { "id": "integridad_cedida",           "eje": "integridad",     "descripcion": "El organismo deja de sostener funciones basales" },
+
+    { "id": "integridad_comprometida",     "eje": "integridad",     "descripcion": "El organismo cedio en mas de una funcion basal a la vez",
+      "producida_por_composicion": "CO-01",
+      "_nota": "No sale de la funcion de clase: la emite una composicion. Se declara aqui para que el universo de clases sea autocontenido y el validador del cargador no tenga que tratarla como caso especial." },
+    { "id": "convergencia_sistemica",      "eje": "interaccion",    "descripcion": "Integridad cedida junto con respuesta que atraviesa el organismo",
+      "producida_por_composicion": "CO-02",
+      "_nota": "Idem. Es la clase terminal de este dominio: la que la tabla de lectura mapea a rojo." },
+
+    { "id": "no_clasificable",             "eje": null,             "descripcion": "CLASE DE FALLBACK — valor sin mapeo en este dominio. Cierre total garantizado.", "es_fallback": true }
+  ],
+
+  "_nota_unidades_canonicas": "HALLAZGO D5 — los unit_id son los de esta lista, no los del dataset. El dataset usa dolor_nrs, herida y sueno; el dominio usa dolor_intensidad, aspecto_herida y sueno. Un unit_id que no aparezca aqui NO debe colapsar al fallback en silencio: es error de cableado, no hueco de dominio. Ver spec determinista §7.1.",
+
+  "unidades_canonicas": ["dolor_intensidad", "movilidad", "aspecto_herida", "fiebre", "apetito", "sueno"],
+
+  "_nota_funcion_clase": "Cortes derivados del dato (Derivacion §3). Se evaluan en orden y el primero que aplica gana. Todo valor sin coincidencia cae a no_clasificable, nunca a excepcion.",
+
+  "funcion_de_clase": {
+    "fiebre": {
+      "tipo": "quantity",
+      "unidad": "celsius",
+      "cortes": [
+        { "operador": ">=", "valor": 37.9, "clase": "respuesta_sistemica",
+          "rule_id": "FC-FIE-01",
+          "_evidencia": "Los 12 casos rojo tienen fiebre >= 37.9. El corte en 38.0 pierde uno." },
+        { "operador": "<",  "valor": 37.9, "clase": "sin_compromiso", "rule_id": "FC-FIE-02" }
+      ]
+    },
+    "dolor_intensidad": {
+      "tipo": "scale",
+      "unidad": "0-10",
+      "cortes": [
+        { "operador": ">=", "valor": 5, "clase": "funcionalidad_local_alterada",
+          "rule_id": "FC-DOL-01",
+          "_evidencia": "Sensible pero no especifico: captura 12/12 rojos arrastrando 20 no-rojos. Solo aporta en composicion." },
+        { "operador": "<",  "valor": 5, "clase": "sin_compromiso", "rule_id": "FC-DOL-02" }
+      ]
+    },
+    "movilidad": {
+      "tipo": "categorical",
+      "mapa": {
+        "incapacitante_nueva": { "clase": "funcionalidad_local_perdida", "rule_id": "FC-MOV-01" },
+        "limitada_esperada":   { "clase": "sin_compromiso",              "rule_id": "FC-MOV-02",
+                                 "_nota": "Esperada para el post-operatorio: no es compromiso." },
+        "normal":              { "clase": "sin_compromiso",              "rule_id": "FC-MOV-03" }
+      }
+    },
+    "aspecto_herida": {
+      "tipo": "categorical",
+      "mapa": {
+        "secrecion_purulenta": { "clase": "estructura_declarada",  "rule_id": "FC-HER-01",
+                                 "_evidencia": "3/12 rojos, cero falsos positivos. Alta precision, baja cobertura." },
+        "dehiscencia":         { "clase": "estructura_declarada",  "rule_id": "FC-HER-02",
+                                 "_nota": "No aparece en el dataset; se declara por coherencia estructural." },
+        "eritema_leve":        { "clase": "estructura_incipiente", "rule_id": "FC-HER-03",
+                                 "_evidencia": "Aparece en 9/12 rojos pero tambien en 19 amarillos y 11 verdes. Solo aporta en composicion." },
+        "normal":              { "clase": "sin_compromiso",        "rule_id": "FC-HER-04" }
+      }
+    },
+    "apetito": {
+      "tipo": "categorical",
+      "mapa": {
+        "muy_disminuido":       { "clase": "integridad_cedida", "rule_id": "FC-APE-01",
+                                  "_evidencia": "12/12 rojos. Necesario, no suficiente." },
+        "levemente_disminuido": { "clase": "sin_compromiso",    "rule_id": "FC-APE-02" },
+        "normal":               { "clase": "sin_compromiso",    "rule_id": "FC-APE-03" }
+      }
+    },
+    "sueno": {
+      "tipo": "categorical",
+      "mapa": {
+        "muy_alterado":       { "clase": "integridad_cedida", "rule_id": "FC-SUE-01",
+                                "_evidencia": "12/12 rojos. Necesario, no suficiente." },
+        "levemente_alterado": { "clase": "sin_compromiso",    "rule_id": "FC-SUE-02" },
+        "normal":             { "clase": "sin_compromiso",    "rule_id": "FC-SUE-03" }
+      }
+    }
+  },
+
+  "_nota_modificadores": "CORREGIDA EL 8-AGO — la redaccion anterior indujo a error. El modificador temporal NO filtra elegibilidad y TAMPOCO condiciona la tabla VD. Ningun corte y ninguna composicion de C1 lo declaran: el mecanismo existe en el motor (comp.modificador) pero C1 no lo usa, y eso es deliberado. Lo que el dia explica es POR QUE la composicion funciona —los 5 amarillos de complicacion_real estan en dia 1-3 con integridad cedida sin respuesta sistemica, y los 12 rojos en dia 7-14 con ambas (Derivacion §3.3)—, no COMO se lee. Meter el dia en la tabla VD separaria la banda amarilla, que es justo lo que _limites_declarados prohibe: si el VD resolviera lo dudoso, el voto probabilistico seria redundante y ADR-013 perderia su fundamento. Ademas serian 5 positivos, ajuste al generador sintetico. EL DIA VIAJA AL DECISOR, NO AL MOTOR: llega por la proyeccion del caso y lo pondera el voto probabilistico, que es donde ADR-007 pone el juicio. 'Vigilar temprano y escalar tarde' es una lectura clinica y pertenece a quien pondera.",
+
+  "modificadores": {
+    "dia_postop": {
+      "tipo": "ordinal",
+      "valores": [1, 3, 7, 14],
+      "tramos": [
+        { "valores": [1, 3],  "id": "temprano", "_nota": "Los 5 complicacion_real amarillos estan aqui: integridad cedida sin respuesta sistemica." },
+        { "valores": [7, 14], "id": "tardio",   "_nota": "Los 12 rojos estan aqui: integridad cedida CON respuesta sistemica." }
+      ]
+    }
+  },
+
+  "_nota_composiciones": "Alcance C1: dos reglas. Cada una declara clases requeridas y clase producida. Motor A puro: sin pesos, sin matrices de influencia. Una matriz de influencia ponderada seria Motor B y va en calibracion offline, no aqui (ADR-008).",
+
+  "composiciones": [
+    {
+      "rule_id": "CO-01",
+      "nombre": "integridad_comprometida",
+      "clases_requeridas": ["integridad_cedida", "integridad_cedida"],
+      "unidades_requeridas": ["apetito", "sueno"],
+      "clase_producida": "integridad_comprometida",
+      "_evidencia": "Presente en 12/12 rojos y en 8 no-rojos. Necesaria, no suficiente."
+    },
+    {
+      "rule_id": "CO-02",
+      "nombre": "convergencia_sistemica",
+      "clases_requeridas": ["integridad_comprometida", "respuesta_sistemica"],
+      "clase_producida": "convergencia_sistemica",
+      "_evidencia": "12/12 rojos capturados. CERO falsos positivos y CERO falsos negativos sobre los 160 casos.",
+      "_advertencia": "Separacion perfecta sobre 12 positivos: probable recuperacion del generador del dataset sintetico, no validez clinica. Declarado en el informe."
+    }
+  ],
+
+  "umbral_convergencia": {
+    "unidades_minimas_para_patron_compartido": 2,
+    "_nota": "Con una sola unidad elegible no se declara patron compartido (criterio de aceptacion de la spec §11)."
+  },
+
+  "_nota_lectura_vd": "Esta tabla NO vive aqui: vive en la capa de decision (ADR-007 — el modulo no pondera, entrega evidencia ponderable). Se incluye como referencia de que este dominio la alimenta, y su instanciacion es D-6.",
+
+  "referencia_tabla_vd": [
+    { "si_clase_presente": "convergencia_sistemica", "lectura_vd": "rojo",     "vd_rule": "VD-01" },
+    { "si_clase_presente": "estructura_declarada",   "lectura_vd": "rojo",     "vd_rule": "VD-02" },
+    { "si_clase_presente": "integridad_comprometida","lectura_vd": "amarillo", "vd_rule": "VD-03",
+      "_nota": "Sin respuesta sistemica. Es el tramo ambiguo: el VD no lo resuelve limpio y no debe intentarlo." },
+    { "si_clase_presente": "estructura_incipiente",  "lectura_vd": "amarillo", "vd_rule": "VD-04" },
+    { "por_defecto": true,                            "lectura_vd": "verde",    "vd_rule": "VD-05" }
+  ],
+
+  "_limites_declarados": [
+    "Calibrado sobre datos sinteticos generados a partir de arquetipos. La separacion perfecta de CO-02 sugiere recuperacion del generador.",
+    "El techo de acierto lo fija la EXTRACCION, no estas reglas: operan sobre valores normalizados, y un paciente minimizador que llama calorcito a 38.9 hace que la regla, siendo correcta, decida sobre un dato falso.",
+    "La tabla VD deliberadamente NO separa el tramo amarillo. Si lo hiciera, el voto probabilistico seria redundante y ADR-013 perderia su fundamento."
+  ]
+}

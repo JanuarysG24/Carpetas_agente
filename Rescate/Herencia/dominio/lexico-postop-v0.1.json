@@ -1,0 +1,523 @@
+{
+  "_declaracion": "LEXICO DESTILADO DE DATOS SINTETICOS DEL RETO — sin validacion clinica. Derivado empiricamente de 948 turnos de paciente de capa2_ruidosa, no inventado. Cada entrada lleva su conteo. Procedencia: inferred (ADR-012).",
+  "lexicon_version": "postop-lex-0.1.0",
+  "generado": "2026-08-07",
+  "derivado_de": "dataset_final.xlsx · capa2_ruidosa · turnos de paciente inmediatamente posteriores a una pregunta del agente sobre la unidad",
+  "alineado_con": "docs/dominio/dominio-postop-v0.1.json — los valores canonicos son los mismos, byte a byte",
+  "_como_se_usa": "Va en ContextFrame.lexicon de cada UnitSpec (ADR-002), no en un archivo global ni en el system prompt. El lexico viaja en el marco: es lo que hace que la congruencia sobreviva a un cambio de modelo. Y solo el lexico de la unidad EN FOCO entra al prompt (ADR-019 + ADR-023, prefijo estable).",
+  "_tres_categorias": {
+    "synonyms": "Expresion del paciente → valor canonico. Produce normalized.",
+    "requiere_precision": "Expresion que toca la unidad pero NO la cuantifica. NO produce normalized: deja null, conserva raw y dispara el protocolo de reflejo (ADR-004). Inventar el numero seria fabricar precision que el paciente no dio.",
+    "atenuadores": "No son valores. Modulan confidence y alimentan senales del motor de estados. Van aparte, no dentro de ninguna unidad."
+  },
+  "unidades": {
+    "dolor_intensidad": {
+      "tipo": "scale",
+      "unidad": "0-10",
+      "_nota": "El paciente da el numero mas veces de lo que se esperaria: 'como un 3', 'un 4'. Cuando no lo da, se le pide — no se infiere.",
+      "patrones_numericos": [
+        "\\b([0-9]|10)\\s*(?:de|sobre|/)\\s*10\\b",
+        "\\b(?:como\\s+)?un\\s+([0-9]|10)\\b"
+      ],
+      "requiere_precision": [
+        {
+          "expr": "molestia",
+          "n": 14
+        },
+        {
+          "expr": "leve",
+          "n": 17
+        },
+        {
+          "expr": "poquito",
+          "n": 18
+        },
+        {
+          "expr": "manejable",
+          "n": 8
+        },
+        {
+          "expr": "soportable",
+          "n": 7
+        },
+        {
+          "expr": "aguantable",
+          "n": 0,
+          "_nota": "no aparece en el corpus; se incluye por simetria de registro"
+        },
+        {
+          "expr": "fuerte",
+          "n": 5,
+          "_nota": "cualitativo alto: tambien pide numero, no se mapea a 8"
+        }
+      ],
+      "_por_que_no_se_mapean": "Traducir 'molestia' a 2 o 'fuerte' a 8 seria inventar un valor que el paciente no dijo, en el campo que el decisor lee como interpretado. El protocolo correcto es repreguntar la escala."
+    },
+    "fiebre": {
+      "tipo": "quantity",
+      "unidad": "celsius",
+      "patrones_numericos": [
+        "\\b(3[5-9])[.,](\\d)\\b"
+      ],
+      "synonyms": {
+        "normal": [
+          {
+            "expr": "normalita",
+            "n": 19
+          },
+          {
+            "expr": "normalito",
+            "n": 7
+          }
+        ]
+      },
+      "requiere_precision": [
+        {
+          "expr": "calorcito",
+          "n": 12,
+          "_nota": "diminutivo minimizador. En el corpus acompana lecturas de 37.4-37.6"
+        },
+        {
+          "expr": "calor",
+          "n": 4
+        },
+        {
+          "expr": "tibia",
+          "n": 6
+        },
+        {
+          "expr": "destemplado",
+          "n": 0
+        },
+        {
+          "expr": "no me he tomado la temperatura",
+          "n": 3,
+          "_nota": "declaracion de no-medicion: cierre 'no_sabe' limpio, i1=+1 i3=+1. NO es evasion."
+        }
+      ],
+      "_hueco_declarado": "escalofrios"
+    },
+    "aspecto_herida": {
+      "tipo": "categorical",
+      "synonyms": {
+        "normal": [
+          {
+            "expr": "normalita",
+            "n": 20
+          },
+          {
+            "expr": "normalito",
+            "n": 1
+          },
+          {
+            "expr": "tapadita",
+            "n": 1
+          }
+        ],
+        "eritema_leve": [
+          {
+            "expr": "enrojecimiento",
+            "n": 33
+          },
+          {
+            "expr": "rojita",
+            "n": 19
+          },
+          {
+            "expr": "roja",
+            "n": 12
+          },
+          {
+            "expr": "rojito",
+            "n": 12
+          },
+          {
+            "expr": "rojo",
+            "n": 12
+          },
+          {
+            "expr": "rojez",
+            "n": 10
+          },
+          {
+            "expr": "colorada",
+            "n": 0,
+            "_nota": "no aparece; se incluye por registro regional"
+          },
+          {
+            "expr": "brotada",
+            "n": 0
+          }
+        ],
+        "secrecion_purulenta": [
+          {
+            "expr": "pus",
+            "n": 7
+          },
+          {
+            "expr": "secrecion",
+            "n": 15,
+            "_nota": "AMBIGUO: el dominio solo tiene purulenta, pero secrecion sola puede ser serosa. Ver hueco."
+          },
+          {
+            "expr": "liquido",
+            "n": 9,
+            "_nota": "idem: pide precision de color/olor antes de cerrar"
+          },
+          {
+            "expr": "olor",
+            "n": 16,
+            "_nota": "senal fuerte: en el corpus acompana secrecion, casi nunca sola"
+          },
+          {
+            "expr": "materia",
+            "n": 0,
+            "_nota": "regionalismo real de Colombia; no aparece en este corpus sintetico"
+          },
+          {
+            "expr": "postema",
+            "n": 0
+          }
+        ],
+        "dehiscencia": [
+          {
+            "expr": "se abrio",
+            "n": 0
+          },
+          {
+            "expr": "se solto",
+            "n": 0
+          },
+          {
+            "_nota": "Sin evidencia en el corpus. Se declara por coherencia estructural del dominio."
+          }
+        ]
+      },
+      "_hueco_declarado": "hinchazon"
+    },
+    "movilidad": {
+      "tipo": "categorical",
+      "synonyms": {
+        "normal": [
+          {
+            "expr": "normal",
+            "n": 88
+          }
+        ],
+        "limitada_esperada": [
+          {
+            "expr": "cuesta",
+            "n": 25
+          },
+          {
+            "expr": "dificultad",
+            "n": 8
+          },
+          {
+            "expr": "despacio",
+            "n": 8
+          }
+        ],
+        "incapacitante_nueva": [
+          {
+            "expr": "no puedo",
+            "n": 3
+          },
+          {
+            "expr": "con ayuda",
+            "n": 4
+          },
+          {
+            "expr": "baston",
+            "n": 0
+          },
+          {
+            "expr": "caminador",
+            "n": 0
+          }
+        ]
+      },
+      "requiere_precision": [
+        {
+          "expr": "despacito",
+          "n": 47,
+          "_nota": "AMBIGUO y es el segundo termino mas frecuente de la unidad. 'Camino despacito' puede ser precaucion esperada o limitacion real. Diminutivo + descriptor a la vez. Pedir precision antes de cerrar."
+        }
+      ]
+    },
+    "apetito": {
+      "tipo": "categorical",
+      "synonyms": {
+        "normal": [
+          {
+            "expr": "normal",
+            "n": 72
+          },
+          {
+            "expr": "hambre",
+            "n": 28
+          },
+          {
+            "expr": "ganas",
+            "n": 28,
+            "_nota": "polaridad segun negacion: 'con ganas' vs 'sin ganas'. La negacion la resuelve el modelo, no la tabla."
+          }
+        ],
+        "muy_disminuido": [
+          {
+            "expr": "nada",
+            "n": 32
+          },
+          {
+            "expr": "no me provoca",
+            "n": 25
+          },
+          {
+            "expr": "nauseas",
+            "n": 8
+          },
+          {
+            "expr": "asco",
+            "n": 2
+          },
+          {
+            "expr": "inapetencia",
+            "n": 0
+          }
+        ],
+        "levemente_disminuido": [
+          {
+            "expr": "poquito",
+            "n": 37,
+            "_nota": "diminutivo. Aqui SI mapea, porque la escala de la unidad es ordinal gruesa y 'como poquito' es interpretable. Baja confidence igual."
+          }
+        ]
+      }
+    },
+    "sueno": {
+      "tipo": "categorical",
+      "synonyms": {
+        "normal": [
+          {
+            "expr": "normal",
+            "n": 43
+          },
+          {
+            "expr": "corrido",
+            "n": 1
+          },
+          {
+            "expr": "del tiron",
+            "n": 0
+          }
+        ],
+        "levemente_alterado": [
+          {
+            "expr": "poquito",
+            "n": 5
+          },
+          {
+            "expr": "a veces me despierto",
+            "n": 0
+          }
+        ],
+        "muy_alterado": [
+          {
+            "expr": "varias veces",
+            "n": 27
+          },
+          {
+            "expr": "toda la noche",
+            "n": 7
+          },
+          {
+            "expr": "despertarme",
+            "n": 18
+          },
+          {
+            "expr": "nervios",
+            "n": 13
+          },
+          {
+            "expr": "desvelado",
+            "n": 0
+          }
+        ]
+      },
+      "requiere_precision": [
+        {
+          "expr": "despierto",
+          "n": 63,
+          "_nota": "AMBIGUO y es el termino mas frecuente de la unidad. 'Me despierto' (alteracion) vs 'estoy despierto' (estado). Una vez frente a varias veces cambia la clase. Pedir precision de frecuencia."
+        }
+      ]
+    }
+  },
+  "_nota_atenuadores": "NO son valores y no van dentro de ninguna unidad. Modulan confidence y alimentan las senales del motor de estados (WO-24). Un atenuador NUNCA debe cambiar el normalized: cambia la certeza con que se afirma.",
+  "atenuadores": {
+    "diminutivos_minimizadores": [
+      {
+        "expr": "poquito",
+        "n": 129
+      },
+      {
+        "expr": "despacito",
+        "n": 52
+      },
+      {
+        "expr": "normalita",
+        "n": 45
+      },
+      {
+        "expr": "rojita",
+        "n": 21
+      },
+      {
+        "expr": "dolorcito",
+        "n": 18
+      },
+      {
+        "expr": "rojito",
+        "n": 15
+      },
+      {
+        "expr": "calorcito",
+        "n": 14
+      },
+      {
+        "expr": "normalito",
+        "n": 14
+      },
+      {
+        "expr": "bajito",
+        "n": 10
+      },
+      {
+        "expr": "limpiecita",
+        "n": 8
+      }
+    ],
+    "_lectura_diminutivos": "El diminutivo colombiano es un operador de MINIMIZACION SISTEMATICA, no una variante estilistica. 'Un calorcito' para 37.4. 'Rojita' para eritema. El dataset tiene 928 turnos de estilo minimizador_sintomas. Efecto obligatorio: baja confidence y dispara reflejo (ADR-004). Efecto prohibido: cambiar el valor. El paciente no dijo otro valor — dijo el mismo con menos alarma.",
+    "marcadores_de_duda": [
+      {
+        "expr": "pues",
+        "n": 281,
+        "_nota": "el mas frecuente del corpus. Coincide con el diccionario regional del director."
+      },
+      {
+        "expr": "no se",
+        "n": 174
+      },
+      {
+        "expr": "casi",
+        "n": 135
+      },
+      {
+        "expr": "creo que",
+        "n": 73
+      },
+      {
+        "expr": "a veces",
+        "n": 54
+      },
+      {
+        "expr": "mas o menos",
+        "n": 52
+      },
+      {
+        "expr": "sera",
+        "n": 50
+      },
+      {
+        "expr": "como que",
+        "n": 35
+      },
+      {
+        "expr": "igual",
+        "n": 32
+      },
+      {
+        "expr": "digamos",
+        "n": 17
+      },
+      {
+        "expr": "tal vez",
+        "n": 7
+      }
+    ]
+  },
+  "_nota_registro": "Del diccionario regional aportado por el director (docs/Diccionario Regional.txt). De sus 146 terminos, 8 aparecen en el corpus y 2 son falsos positivos. Los que quedan NO son valores clinicos: son marcadores de registro y cortesia. Sirven para que el interviewer COMPRENDA, no para que extraiga, y por eso van en un bloque minimo — meter 146 entradas en el prefijo estable seria caro y sin retorno (ADR-023).",
+  "marcadores_de_registro": [
+    {
+      "expr": "pues",
+      "n": 618,
+      "funcion": "suaviza, conecta o enfatiza el turno"
+    },
+    {
+      "expr": "parcero",
+      "n": 25,
+      "funcion": "marcador de cercania afectiva"
+    },
+    {
+      "expr": "de una",
+      "n": 16,
+      "funcion": "afirmacion inmediata — sube confidence"
+    },
+    {
+      "expr": "tinto",
+      "n": 6,
+      "funcion": "cafe negro; contexto cotidiano"
+    },
+    {
+      "expr": "miercoles",
+      "n": 4,
+      "funcion": "eufemismo de contrariedad"
+    },
+    {
+      "expr": "mecato",
+      "n": 2,
+      "funcion": "snack; puede aparecer en apetito"
+    }
+  ],
+  "_huecos_declarados": [
+    {
+      "id": "HL-1",
+      "gravedad": "media",
+      "hueco": "MEDIDO Y REENCUADRADO (7-ago, tarde). La hipotesis original era que 'escalofrios' quedaba sin destino. El dato la desmiente: las 120 menciones del corpus son NEGACIONES ('nada de escalofrios', 'sin llegar a escalofrios') y cuando aparecen SIEMPRE vienen con el numero. El escenario temido no ocurre. El riesgo real es otro y mayor: 48 de 131 turnos de fiebre (36%) NO DAN NINGUN NUMERO, y 5 de esos casos son rojo. Causa: el paciente no se tomo la temperatura, no recuerda el numero, o evade.",
+      "riesgo": "Menor de lo estimado. La arquitectura ya lo cubre: una unidad required sin evaluar activa 'cobertura antes del silencio' (ADR-013 §10) — antes de emitir escalate:false hay que verificar coverage, y una required no evaluada convierte el caso en incompletud, no en silencio. Los 5 rojos escalan igual, por ADR-014, aunque CO-02 no dispare.",
+      "opciones": [
+        "NO se cambia el dominio: la funcion de clase de fiebre sigue siendo quantity pura.",
+        "SI se ajusta la policy conversacional: insistir UNA vez en la medicion antes de aceptar el cierre declarado, porque fiebre es la variable discriminante de CO-02. Es un valor de policy, no un cambio de dominio.",
+        "SI se declara en el informe: cuando falta la medicion, el sistema escala por contexto_incompleto y no por criticidad — accion correcta, clasificacion degradada."
+      ],
+      "decision": "RESUELTO — sin cambio de dominio. Ajuste de policy en la conversacional + limitacion declarada en el informe."
+    },
+    {
+      "id": "HL-2",
+      "gravedad": "media",
+      "hueco": "hinchazon / hinchada / inflamada suman 21 apariciones en turnos de herida y el dominio no tiene clase para edema. Hoy caen a eritema_leve por vecindad o al fallback.",
+      "opciones": [
+        "Anadir clase de edema al eje funcionalidad",
+        "Mapear explicitamente a estructura_incipiente y declararlo"
+      ],
+      "decision": "PENDIENTE DEL DIRECTOR"
+    },
+    {
+      "id": "HL-3",
+      "gravedad": "media",
+      "hueco": "secrecion (15) y liquido (9) son ambiguos: el dominio solo declara secrecion_purulenta, pero una secrecion serosa es hallazgo distinto. Cerrar a purulenta por defecto sobrevalora; ignorarla infravalora.",
+      "decision": "Se trata como requiere_precision: pedir color y olor antes de cerrar. olor (16) es el discriminante que el corpus ofrece."
+    },
+    {
+      "id": "HL-4",
+      "gravedad": "baja",
+      "hueco": "Doce entradas de synonyms tienen n=0: no aparecen en este corpus sintetico pero son registro colombiano real (materia, postema, colorada, baston, desvelado). Se conservan porque el jurado prueba con entradas propias, no con el dataset.",
+      "decision": "Conservadas y marcadas con n=0 para que sea evidente cuales son empiricas y cuales de registro."
+    }
+  ],
+  "_limites_declarados": [
+    "Destilado de un corpus SINTETICO generado por un LLM. El habla real de un paciente colombiano tendra terminos que aqui no estan, y este corpus tendra sesgos del generador.",
+    "Los conteos son de turnos en foco (948 de los 2071 de capa2_ruidosa), no del corpus entero.",
+    "Ningun mapeo de este archivo tiene validez clinica. Son equivalencias linguisticas para normalizar, no criterios diagnosticos."
+  ]
+}

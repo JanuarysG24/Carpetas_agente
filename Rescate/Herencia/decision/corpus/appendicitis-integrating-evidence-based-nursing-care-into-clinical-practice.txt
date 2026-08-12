@@ -1,0 +1,231 @@
+2.0
+ANCC CONTACT HOURS
+
+PROSTOCK-STUDIO/SHUTTERSTOCK.COM
+
+Appendicitis: Integrating evidence-based nursing care into
+clinical practice
+BY PRISCILLA STANSELL, DNP, RN, MEDSURG-BC AND PATRICIA FRANCIS-JOHNSON, DNP, RN, CDP
+
+Abstract: Appendicitis is a global disease that affects people of all ages, but occurs most often between ages 5 and 45 years. It is one of the most common causes of acute abdominal surgery and, if left untreated, it is a surgical emergency that requires prompt intervention. Nurses play a vital role in managing patient care by addressing pain, preventing infection, and ensuring patient safety. This article discusses the pathophysiology and typical presentation of appendicitis, followed by an overview of current surgical management, including laparoscopic and minimally invasive techniques. It also explores the critical role of nurses in the care of patients with appendicitis, highlighting
+
+the need for accurate assessment, clinical judgment, and patient-centered care to improve patient outcomes. Key nursing responsibilities in the preoperative and postoperative phases include pain management, infection prevention, fluid balance, mobility, emotional support, patient education, and discharge planning. Early recognition of complications through skilled assessment and critical thinking is essential to prevent clinical deterioration. Common nursing diagnoses and measurable outcomes guide care planning and evaluation. Holistic, compassionate nursing care is essential in supporting patients with appendicitis throughout their diagnosis and treatment plan.
+
+Keywords: acute appendicitis, appendectomy, appendicitis, McBurney point tenderness, right lower quadrant pain
+Case scenario A 30-year-old female presented to the emergency department (ED) with a 24-hour history of progressively worsening right lower quadrant (RLQ) abdominal pain accompanied by nausea, anorexia, and a low-grade fever of 100.8 °F (38.2 °C). An oral temperature range of 36 °C to 38 °C (96.8 °F to 100.4 °F) is considered within normal range.1
+
+www.Nursing2026.com
+
+March l Nursing2026 l 29
+
+Copyright © 2026 Wolters Kluwer Health, Inc. All rights reserved.
+
+On physical examination, she exhibited localized tenderness at McBurney point, a well-known anatomic landmark used in assessing suspected appendicitis. McBurney point lies in the RLQ at the junction of the lateral third and the medial two-thirds of a line drawn from the anterior superior iliac spine to the umbilicus.1 Localized tenderness at this point is a classic clinical finding in acute appendicitis, as the inflamed appendix often irritates the overlying peritoneum. The patient also demonstrated guarding and rebound tenderness.
+Laboratory results revealed an elevated white blood cell count (WBC) of 13 × 103/mm³ (reference range, 4.5–10.5 × 10³/mm³) and a C-reactive protein (CRP) level of 12 mg/dL (reference, less than 1 mg/dL), reflecting a marked inflammatory response.2 An abdominal ultrasound confirmed an inflamed, nonperforated appendix.2
+While awaiting a surgical consult in the ED, the patient reported sudden worsening abdominal pain and chills. The direct care nurse promptly reassessed her vital signs and noted hypotension (88/54 mm Hg), tachycardia (122 beats per minute [BPM]), and an oxygen saturation of 91% on room air. Recognizing these abnormal findings as concerning for impending sepsis, the nurse immediately initiated supplemental oxygen at 2 L/ minute via nasal cannula, ensured intravenous (IV) access remained patent, and began a rapid infusion of 0.9% sodium chloride as ordered. A stat lactate level was also obtained. Serum lactate is a critical marker of tissue hypoperfusion and sepsis severity. Elevated levels indicate impaired oxygen delivery at the cellular level, even before profound hypotension develops. The Surviving Sepsis Campaign (2021) recommends lactate ­measurement in all patients with suspected sepsis
+
+Appendicitis is inflammation of the vermiform appendix.
+or septic shock, as it guides both initial risk stratification and ongoing treatment response.3 The patient’s lactate returned at 2.8 mmol/L (reference range, 0.5–2.0 mmol/L) supporting the clinical decision of early sepsis.2 The nurse’s recognition of sepsis warning signs and prompt action ensured this test was obtained without delay, which contributed to preventing progression to septic shock.
+The patient remained in the ED for approximately 3.5 hours, during which she received IV antibiotics, ceftriaxone, and clindamycin, prior to surgery. This combination was selected because appendicitis with localized abscess formation is typically polymicrobial, involving Gram-negative bacilli (such as Escherichia coli and Klebsiella) and anaerobic organisms (such as Bacteroides fragilis).4,5 Ceftri­axone, a third-generation cephalosporin, offers broad Gram-negative coverage and excellent intra-abdominal penetration, while clindamycin provides robust anaerobic coverage. Used together, these agents provide comprehensive perioperative prophylaxis, reducing the risk of postoperative intra-abdominal abscesses and infections.4,5
+
+Once stabilized, the patient was transported directly from the ED to the operating room (OR) for a laparoscopic appendectomy under general anesthesia. Intraoperative findings confirmed an inflamed appendix with a localized periappendiceal abscess, but without generalized peritonitis. The abscess was drained surgically, and the peritoneal cavity was irrigated thoroughly. Postoperatively, the patient’s pain was well controlled with acetaminophen and minimal opioid use. She tolerated clear liquids within a few hours and advanced to a regular diet the following day. Her vital signs remained stable, and the nurses monitored her closely for signs of ongoing infection. The surgical wound dressings were clean, dry, and intact. She was discharged 48 hours after surgery with instructions for incision care, completion of her antibiotic course, pain management, and activity restrictions. At her 1-week follow-up appointment, she reported a smooth recovery with improving energy levels and no lingering concerns.
+Introduction Appendicitis is inflammation of the vermiform appendix. The appendix is a small, finger-like organ located at the tip of the cecum portion of the large intestine in the right lower quadrant of the abdomen.6 The appendix can be located in any area of the abdomen, especially if there is abnormal development or a related condition, such as pregnancy or prior surgeries.6 The function of the appendix has long been debated. It is thought to provide an immunoprotective role, acting as a lymphoid organ, particularly in younger individuals. Another theory suggests that the appendix serves as a reservoir for beneficial colonic bacteria, or normal flora, which can help repopulate the gut after illness. Conversely, some argue that the appendix is
+
+30 l Nursing2026  l  Volume 56, Number 3
+
+www.Nursing2026.com
+
+Copyright © 2026 Wolters Kluwer Health, Inc. All rights reserved.
+
+simply a vestigial structure with no significant function.6 Since the appendix has a small lumen, it can become inflamed and infected.6
+Appendicitis is a global disease with an incidence of 7% to 12% in the population of the United States and Europe.7 It is one of the most common causes of acute abdominal surgery, and occurs most commonly between the ages of 5 and 45, although it can develop at any age.7 Men are at a higher risk for appendicitis than women.7 Appendicitis has a more rapid course in older adults due to atherosclerosis, gangrene, and perforation, which are common.7 In older adults, age-related atherosclerotic changes can reduce baseline blood flow to the appendix, leaving less vascular reserve when inflammation occurs. As a result, appendicitis in this population often progresses more quickly and is more likely to present with complications such as gangrene, perforation, or abscess formation.2 Perforation is also considerably more common in older adults with acute appendicitis, with reported rates ranging from approximately 32% to 70%, compared with 20% to 30% in younger patients.2 Children younger than 3 years old have an 80% perforation rate due to a delay in diagnosis.7 The incidence of acute appendicitis among older adults is relatively low compared with younger populations; however, mortality is higher in this population due to the increased number of comorbidities.
+Appendicitis most commonly presents acutely, with symptoms developing within 24 hours, but it can also manifest more gradually as a chronic condition. Chronic appendicitis is classified as persistent or recurring inflammation of the appendix, which causes mild to moderate pain. This can lead to scar tissue if left untreated. Acute appendicitis is considered a medical emergency, whereas chronic
+
+Obstruction and inflammation in appendicitis
+Transverse colon
+
+Ascending colon
+Cecum Appendix
+
+Descending colon Jejunum
+lleum
+
+Sigmoid colon
+Rectum Anus Fecalith obstructing lumen
+Inflammation
+
+Fecal mass obstruction stimulates an inflammatory response, leading to appendicitis.
+Reprinted with permission from Braun C, Anderson C. Applied Pathophysiology. Wolters Kluwer Health; 2016.
+
+appendicitis is managed with medication and monitoring. Some causes of chronic appendicitis include obstruction of the appendix with stool and fecal accumulation, trauma, tumors, or enlarged lymph nodes. If there is perforation with an abscess, the symptoms may have a slower presentation and less painful onset.6
+This article explores the etiology of appendicitis, including patient presentation and assessment, treatment, and evaluation. Additionally, it highlights the nurse’s role in patient education, ongoing assessment, and management of care.
+Epidemiology and risk factors The cause of appendicitis likely stems from obstruction of the appendiceal opening or lumen (see Obstruction and inflammation in appendicitis).6 This results in inflammation, localized
+
+ischemia, perforation, and the development of a contained abscess or perforation with resultant peritonitis.6 The obstruction may be caused by lymphoid hyperplasia, infections (parasitic), fecaliths (stone-like structures made of hardened feces), or benign or malignant tumors.6 When an obstruction is the cause of appendicitis, it leads to an increase in pressure, resulting in small vessel occlusion and lymphatic stasis.6 Once obstructed, the appendix fills with mucus and distends, leading to ischemia and necrosis. Risk factors for developing fecaliths include a diet low in fiber and high in carbohydrates.6 Gastrointestinal infections, such as gastroenteritis, may lead to inflammation of the appendix and contribute to the development of appendicitis.6 Appendicitis cannot be prevented; however, dietary
+
+www.Nursing2026.com
+
+March l Nursing2026 l 31
+
+Copyright © 2026 Wolters Kluwer Health, Inc. All rights reserved.
+
+McBurney point
+
+Ascending colon Ileum
+McBurney point
+Anterior superior iliac spine
+Cecum Vermiform appendix Lanzmann's point
+
+Umbilicus
+Anterior superior iliac spine
+
+This point is the location where the base of the appendix is most commonly found. It is in the right lower quadrant about one-third of the distance from the anterior superior iliac spine to the umbilicus. Rebound tenderness over McBurney point suggests the presence of appendicitis. Another cause of appendicitis can be an interruption of the blood supply to the appendix. Lanzmann point is a tender point in appendicitis that is situated on a line between the two anterior superior iliac spines, 5 to 6 cm from the right spine and 2 cm below McBurney point.
+Reprinted with permission from Anderson MK. Foundations of Athletic Training. Wolters Kluwer Heath; 2016.
+
+habits, including a diet that is high in fiber, can help trap bacteria, thus reducing the risk of appendicitis.6 Other risk factors for appendicitis include irritable bowel syndrome, Crohn disease, or ulcerative colitis.6
+Patient presentation Patients with appendicitis typically present with initial epigastric or periumbilical pain that migrates to the RLQ of the abdomen and is often described as sharp or localized pain. The early discomfort in the umbilical region results from visceral nerve involvement, while the later
+
+RLQ pain is due to irritation of the parietal peritoneum as inflammation progresses.8
+Common signs and symptoms Nausea and vomiting are common symptoms of appendicitis. These often follow the onset of pain, as appendicitis decreases gastrointestinal motility. The obstruction of the appendiceal lumen leads to increased pressure and bloating in the abdomen, resulting in the symptoms of nausea and vomiting.6 Anorexia is a hallmark symptom that can help differentiate appendicitis from other
+
+Assessing for appendicitis
+Focused abdominal and musculoskeletal assessment may reveal the following findings: •  Psoas sign: Right lower quadrant (RLQ) pain elicited with passive extension of
+the right hip or with active hip flexion against resistance, suggesting irritation of the psoas muscle. • Obturator sign: RLQ pain elicited with passive internal rotation of the flexed right hip, indicating irritation of the obturator internus muscle. •  McBurney point tenderness: Localized RLQ tenderness at McBurney point, often accompanied by rebound tenderness and abdominal rigidity. These findings correlate with increased severity of appendiceal inflammation. • Rovsing sign: RLQ pain elicited during palpation of the left lower quadrant, consistent with peritoneal irritation.
+
+causes of abdominal pain, such as pelvic inflammatory disease, inflammatory bowel disease, and gastroenteritis.8 Low-grade fever is a sign indicative of the body’s inflammatory response; it typically develops after the onset of pain.8
+Physical assessment findings Localized muscle rigidity and generalized guarding in adults are common due to abdominal wall irritation. Rebound tenderness and rigidity in the RLQ are signs that correlate strongly with the severity of appendicitis, known as McBurney point tenderness (see McBurney point). Rovsing sign, which is RLQ pain upon palpation of the left side, indicates peritoneal irritation (see Assessing for appendicitis).8
+Appendiceal ruptures A sudden decrease in pain can signal an appendix rupture, as the release of pressure temporarily relieves pain. A rigid, board-like abdomen is a key indicator of rupture, suggesting peritonitis due to the spread of infection into the peritoneal cavity.8
+Timely diagnosis and intervention are critical, as a ruptured appendix can lead to life-threatening peritonitis. Clinical findings combined with imaging, such as ultrasonography or computed tomography (CT), confirm the diagnosis.8
+Diagnostic studies Appendicitis is a clinical diagnosis based on a thorough history and physical examination. Imaging studies and laboratory testing help confirm the diagnosis and rule out other possible causes.6 Key diagnostic criteria to include in the patient’s health history are signs and symptoms such as RLQ pain, fever, nausea, vomiting, and anorexia. Questions about health history should also be addressed.6 Physical assessment should include abdominal palpation in the RLQ for tenderness, which
+
+32 l Nursing2026  l  Volume 56, Number 3
+
+www.Nursing2026.com
+
+Copyright © 2026 Wolters Kluwer Health, Inc. All rights reserved.
+
+can indicate inflammation of the appendix, and assessing for rebound tenderness to elicit pain, which is another indication of appendicitis. The clinician will ask detailed questions about the pain. Comprehensive pain assessment includes onset, location, duration, characteristics, aggravating factors, relieving factors, and treatments tried to date. Lastly, in an atypical presentation, a rectal exam may be performed to check for tenderness on the right side of the rectum, because the appendix can sometimes be located near the pelvis if it is inflamed.9
+Key laboratory tests include monitoring for an elevated WBC (greater than 10.5 × 103/m3), which can indicate inflammation of the appendix. With appendicitis, the total WBC is elevated with increased immature WBC bands.6 A urinalysis (UA) should also be performed to rule out a urinary tract infection, which can present similarly to appendicitis.6 The UA should be negative for blood, WBCs, and nitrates.10
+Imaging studies should include CT for detailed visualization of the appendix. For children, patients who are pregnant, and those who need to avoid radiation, ultrasound, or magnetic resonance imaging are alternatives to CT.6 Although CT is the most effective test for diagnosing acute appendicitis, ultrasonography reduces the need for exploratory surgery and is helpful for patients with atypical symptoms, such as older adults. Other diagnostic studies include abdominal X-rays.
+Preoperative nursing care Adequate nursing assessment and accurate nursing diagnoses upon admission are essential for developing and implementing a patient-centered, high-quality care plan. A thorough initial assessment enables nurses to identify the patient’s needs, prioritize interventions, and anticipate potential complications. This foundation
+
+Priority nursing problems in acute appendicitis
+
+Problem Acute pain
+Risk for deficient fluid volume Risk for infection
+Risk for imbalanced nutrition: Less than body requirements
+
+Description
+Related to appendiceal obstruction and inflammation, manifested by restlessness, moaning, crying, irritability, or sighing.
+Related to preoperative vomiting, manifested by poor skin turgor, hypotension, and tachycardia.
+Related to potential appendiceal rupture, peritonitis, and abscess formation associated with disruption of the gastrointestinal (GI) tract.
+Related to anorexia and nausea, manifested by inadequate nutritional intake.
+
+ensures that nursing care is tailored to the individual, promoting optimal outcomes and enhancing overall patient satisfaction.11
+The nursing assessment of patients with appendicitis focuses on the clinical presentation, imaging results, and, in some cases, laboratory test results. Physical assessment findings include tenderness at McBurney point, rebound tenderness, and guarding. Based on the initial assessment, the most appropriate nursing diagnoses for a patient with appendicitis before an appendectomy may vary (see Priority nursing problems in acute appendicitis).
+Preoperative nursing care Preoperative nursing care for patients with suspected or confirmed
+
+appendicitis centers on close clinical monitoring, symptom management, infection prevention, and preparation for surgical intervention. Because appendicitis may progress rapidly, ongoing reassessment is critical.
+Nurses should closely monitor vital signs and overall clinical status for early indicators of deterioration, including fever, hypotension, tachycardia, and increasing pain (see Key evaluation indicators). Laboratory findings also guide clinical decision-making. Elevated inflammatory markers, such as a C-reactive protein (CRP) level greater than 1 mg/dL, indicate active inflammation, with markedly elevated levels suggesting possible gangrene.2 A WBC count greater than 10.5 × 10³/mm³ is
+
+Key evaluation indicators
+• Pain management: The patient verbalizes a reduction in pain, indicating effective pain control through pharmacologic and nonpharmacologic measures.
+• Fluid balance: The nurse documents normal fluid volume, ensuring that the patient remains hydrated and free from signs and symptoms of fluid deficit.
+• Anxiety reduction: The nurse observes a reduced level of anxiety, reflecting that the patient feels informed and supported throughout the treatment process.
+• Infection control: No signs or symptoms of infection, such as fever, chills, or diaphoresis, are reported, suggesting effective infection prevention and postoperative care.
+• Skin integrity: The nurse reports intact skin, indicating that proper wound care and hygiene have been maintained.
+• Nutrition status: Adequate nutrition is recorded, demonstrating that the patient’s dietary needs are met despite potential preoperative anorexia or nausea.11
+
+www.Nursing2026.com
+
+March l Nursing2026 l 33
+
+Copyright © 2026 Wolters Kluwer Health, Inc. All rights reserved.
+
+suggestive of infection and may indicate progression to peritonitis or abscess formation.6,11 A temperature greater than 100.4 °F (38 °C) may signal infection or abscess development.1 Hypotension (blood pressure less than 90/50 mm Hg) accompanied by tachycardia (heart rate greater than 100 beats/minute) may indicate dehydration, particularly in patients with ongoing vomiting or diarrhea.6,11
+Pain management is a priority in preoperative care. Nurses administer prescribed analgesics and implement nonpharmacologic interventions such as positioning, relaxation, and deep-breathing techniques to enhance comfort. Do not apply heat to the abdomen, because it may increase the risk of appendiceal rupture.12
+Maintaining adequate fluid volume is essential. If the patient is not prescribed nothing by mouth (NPO), encourage oral fluid intake and closely monitor intake and output to prevent dehydration.12
+Preventing infection also remains a key focus. Nurses monitor for early signs of infection and ensure timely administration of prescribed antibiotics.12
+Nurses also play a vital role in reducing patient anxiety by providing clear, compassionate communication regarding the diagnosis, anticipated treatment, and surgical plan. This supportive approach promotes trust, reduces fear, and enhances patient readiness for surgery.13 Through vigilant monitoring and patient-centered interventions, nurses are essential in optimizing preoperative stability and minimizing complications in patients with acute appendicitis.
+Treatment options The treatment of appendicitis has traditionally been surgical, first proposed by Reginald Heber Fitz in 1886 and refined by McBurney in 1889 with the development of the McBurney incision.8 Surgical approaches have advanced over
+
+Nurses should closely monitor vital signs and overall clinical status for early indicators of deterioration, including
+fever, hypotension, tachycardia, and increasing pain.
+time, from open appendectomy to laparoscopic techniques and, more recently, to single-incision surgery, endoscopic retrograde appendicitis therapy, and natural orifice transluminal endoscopic surgery. Open appendectomy was the standard treatment for acute appendicitis until laparoscopic appendectomy emerged in 1981.8 Initially, laparoscopic surgery was limited to uncomplicated cases due to concerns about higher rates of intra-abdominal abscesses in complicated cases. However, recent evidence shows no significant difference in abscess formation between the two methods.8 Laparoscopic appendectomy is now preferred due to its benefits, including shorter hospital stays, fewer complications, and lower rates of surgical site infections. Current guidelines recommend laparoscopic appendectomy for all cases of acute appendicitis across all age groups.8,12
+The review by Krzyzak and Mulrooney12 emphasizes that early surgical intervention, such as an
+
+appendectomy, remains the criterion standard for treatment. Conservative management with antibiotics can be effective in some instances of uncomplicated appendicitis; however, it is associated with a higher recurrence rate.14 Newer approaches, such as laparoscopic appendectomy, offer advantages, including sameday discharge, reduced complications, and faster recovery times.12,15
+Appendectomy is performed either as a laparoscopic approach (insertion of an endoscope to view the abdominal contents) or a laparotomy (surgical opening of the abdomen). A laparoscopic appendectomy requires a small incision through which the laparoscope is inserted. The procedure allows for direct visualization of the appendix and enables definitive diagnosis with a laparotomy. With the laparoscopic procedure, hospitalization is short, postoperative complications are infrequent, and recovery and return to normal activities are rapid.6
+Immunocompromised patients are more prone to complications if treatment is delayed by more than 24 hours. This group includes patients with diabetes, those who are positive for human immunodeficiency virus (HIV) or have a diagnosis of acquired immunodeficiency syndrome (AIDS), patients who have had transplants, and patients with a cancer diagnosis. The laparoscopic appendectomy is the preferred method of treatment for this group, given its lower risk of complications and decreased length of stay. A multidisciplinary approach is needed when caring for patients, as several different team members are required to manage care.16
+Postoperative nursing care Postoperative nursing care for patients following appendectomy focuses on promoting recovery, preventing complications, managing pain, and preparing the patient for safe discharge. Nursing management includes
+
+34 l Nursing2026  l  Volume 56, Number 3
+
+www.Nursing2026.com
+
+Copyright © 2026 Wolters Kluwer Health, Inc. All rights reserved.
+
+ongoing assessment, maintenance of hydration, support of respiratory function, surgical site care, and patient education.6
+Promoting respiratory function is essential, particularly for patients who have received general anesthesia. Nurses should encourage turning, coughing, and deep breathing to prevent atelectasis; use of an incentive spirometer may be prescribed. IV fluids initiated preoperatively should be continued until bowel function returns. Oral fluids should be advanced gradually while monitoring for nausea, vomiting, and adequate intake and output.6
+Preventing postoperative complications is a primary nursing priority. Common postoperative complications include wound infection, abscess formation, and peritonitis. Nurses should closely monitor vital signs for fever, tachycardia, hypotension, and respiratory changes. Assessment of the surgical incision, abdominal distention, and pain is essential, as increasing or unrelieved pain may indicate infection or intra-abdominal complications.17 IV fluids also provide a route for antibiotic administration and support vascular volume until oral intake is sufficient.
+Effective pain management supports comfort, mobility, and recovery. Postoperative pain is managed using opioid and nonopioid medications as prescribed. With the transition to laparoscopic appendectomy, patients typically experience less tissue trauma and may require lower doses of opioids. Nurses should perform comprehensive pain assessments, including location, intensity, and duration, and administer analgesics to promote comfort and early ambulation.6,18
+Patient education is a key component of postoperative care and discharge planning. Nurses should instruct patients on incision care, including keeping the site clean and dry and reporting signs of infection
+
+Risk factors for prolonged length of stay following appendectomy
+Eight parameters have been identified as independent risk factors for prolonged hospital length of stay in patients undergoing appendectomy: •  Older age •  Elevated preoperative white blood cell (WBC) count •  Elevated preoperative C-reactive protein (CRP) •  Lower preoperative hemoglobin (Hgb) •  Conversion from laporascopic to open surgical procedure •  Longer operative time •  Presence of intraoperative complicated appendicitis •  Postoperative morbidity
+
+such as erythema, edema, increased warmth, purulent drainage, bleeding, worsening abdominal pain, or fever greater than 100.4 °F (38 °C). Activity restrictions, including lifting and driving limitations, should be reviewed, along with guidance on gradually resuming activities of daily living.19
+Patients should be instructed to report a persistent fever of 101 °F (38.3 °C) or higher, chills, worsening abdominal pain unrelieved by medication, significant incision changes (such as erythema extending more than 2 cm, foul-smelling drainage, or wound dehiscence), or persistent nausea or vomiting. Education should include proper dressing change techniques, and patients should demonstrate understanding before discharge. Documentation should reflect pain intensity levels using a 0 to 10 scale, wound appearance, vital signs, and the patient’s understanding of discharge instructions and when to contact the provider. Discharge timing varies based on disease severity (see Risk factors for prolonged length of stay following appendectomy). Patients without appendiceal rupture are typically discharged once bowel function returns and oral intake is tolerated. Patients with a ruptured appendix may require a longer hospitalization for IV antibiotics. If discharged on oral antibiotics, nurses must emphasize the importance of completing the full prescribed course.20
+
+Common nursing diagnoses following appendectomy include risk for infection related to the surgical incision, risk for deep vein thrombosis related to immobility, altered bowel function related to analgesic use and decreased activity, and risk for nosocomial infection related to recent hospitalization.6
+Through continuous assessment, evidence-based interventions, and comprehensive patient education, nurses play a critical role in promoting recovery and minimizing postoperative complications following appendectomy.
+Conclusion Caring for a patient with appendicitis requires a timely, collaborative approach that combines clinical knowledge, evidence-based practice, and compassionate nursing care. From the initial assessment and diagnosis to surgical intervention, postoperative recovery, and ongoing evaluation, nurses play a vital role in supporting patients through every step of their plan of care. By staying alert to potential complications, managing pain effectively, and promoting healing through patient education and supportive care, nurses can help ensure the best possible patient outcomes. As health care continues to evolve, the nurse’s role in managing appendicitis remains essential in providing safe, effective, patient-centered care.  n
+
+www.Nursing2026.com
+
+March l Nursing2026 l 35
+
+Copyright © 2026 Wolters Kluwer Health, Inc. All rights reserved.
+
+REFERENCES
+1. Assessment Technology Institute (ATI). Content Mastery Series Review Module: Fundamentals for Nursing. 11th ed. ATI; 2023. Accessed December 16, 2025. http://www.atitesting.com
+2. Fischbach FT, Talaska F, Margaret A. Fischbach’s A Manual of Laboratory and Diagnostic Tests. 11th ed. Wolters Kluwer; 2022.
+3. Evans L, Rhodes A, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021. Intensiv Care Med. 2021;47(11):1181-1247.
+4. Smith SM, Carpenter CF. Appendicitis. Johns Hopkins ABX Guide. Johns Hopkins University. Updated 2022. Accessed December 16, 2025. https://www. hopkinsguides.com/hopkins/view/Johns_Hopkins_ ABX_Guide/540032/3.0/Appendicitis
+5. Ministry of Health and Population, Nepal. National Antimicrobial Treatment Guidelines 2023. General Surgery Section: Surgical Infections in Adults. Updated 2023. Accessed December 16, 2025. https://www.prescribingcompanion.com/nepal/ infections-and-infectious-diseases-prescribing/ national-antimicrobial-treatment-guidelines-2023/ surgical-infections-in-adult/general-surgery
+6. Lotfollahzadeh S, Lopez RA, Deppen JG, Kendall BA. Appendicitis (nursing). In: StatPearls. Treasure Island, FL: StatPearls Publishing; 2024.
+7. Weledji EP, Zish AV, Ngounou E. Management of appendicitis: appendicectomy, antibiotic therapy, or both? Ann Med Surg (Lond). 2023;85(4):897-901.
+8. Echevarria S, Rauf F, Hussain N, et al. Typical and atypical presentations of appendicitis and their implications for diagnosis and treatment: a literature review. Cureus. 2023;15(4):e37024.
+
+9. Takada T, Nishiwaki H, Yamamoto Y, et al. The role of digital rectal examination for diagnosis of acute appendicitis: a systematic review and metaanalysis. PLoS One. 2015;10(9):e0136996.
+10. Al Lawati H, Blair BM, Larnard J. Urinary tract infections: core curriculum 2024. Am J Kidney Dis. 2024;83(1):90-100.
+11. Eta VEA, Bassah N, Esembeson M, Palle JN. Nursing management of patients with appendicitis. In Weledji E, ed. Appendicitis – Causes and Treatments. IntechOpen; 2023. Accessed December 16, 2025. https://www.intechopen.com/chapters/1131532.
+12. Krzyzak M, Mulrooney SM. Acute appendicitis review: background, epidemiology, diagnosis, and treatment. Cureus. 2020;12(6):e8562.
+13. Ain I. Health education on anxiety levels in projective surgery patients in Mokoyurli Buol Hospital. J Appl Nurs Health. 2021;3(1):15-21.
+14. Raimbert P, Voron T, Laroche S, et al. Ambulatory appendectomy for acute appendicitis: can we treat all the patients? A prospective study of 451 consecutive ambulatory appendectomies out of nearly 2,000 procedures. Surgery. 2023;173(5):1129-1136.
+15. Köhler F, Hendricks A, Kastner C, et al. Laparoscopic appendectomy versus antibiotic treatment for acute appendicitis—a systematic review. Int J Colorectal Dis. 2021;36(10):2283-2286.
+16. Coccolini F, Improta M, Sartelli M, et al. Acute abdomen in the immunocompromised patient: WSES, SIS-E, WSIS, AAST, and GAIS guidelines. World J Emerg Surg. 2021;16(1):40.
+17. Harriott CB, Sadava EE. Management of complications after appendectomy: literature review. Curr Probl Surg. 2024;61(7):101505.
+
+18. Biput SJ, Slouha E, Gregory JA, Krumbach B, Clunes LA, Kollias TF. Pain management during adult laparoscopic appendectomy: a systematic review. Cureus. 2024;16(1):e52037.
+19. Pearson Education. Nursing: A Concept-Based Approach to Learning. 4th ed. Vols 1-3. [E-reader version]. Pearson; 2023.
+20. Bancke Laverde BL, Maak M, Langheinrich M, et al. Risk factors for postoperative morbidity, prolonged length of stay and hospital readmission after appendectomy for acute appendicitis. Eur J Trauma Emerg Surg. 2023;49(3):1355-1366.
+At Texas Tech University Health Sciences Center School of Nursing in Lubbock, Texas, Priscilla Stansell is an Associate Professor in the Traditional Undergraduate Program, and Patricia Francis-Johnson is an Assistant Professor in the Non-Traditional Undergraduate Program.
+The authors have disclosed no potential conflicts of interest, financial or otherwise.
+Acknowledgments The authors would like to thank the faculty and our colleagues at Texas Tech University Health Sciences Center School of Nursing (TTUHSC-SON) for their continued support and dedication to advancing nursing education. Special appreciation goes to Dr Richard Pullen, formerly Professor and Director of the RN to BSN program at TTUHSC-SON, for initially reaching out with the opportunity to contribute to this continuing education feature. We are especially thankful to the patients and healthcare professionals who inspired this article. Their stories are a powerful reminder of the meaningful role nurses have in providing timely, compassionate, and evidence-based care.
+DOI-10.1097/NSG.0000000000000356
+
+For more than 265 additional nursing continuing professional development activities related to medical-surgical topics, go to NursingCenter.com/ce.
+
+INSTRUCTIONS Appendicitis: Integrating evidence-based nursing care into clinical practice
+
+TEST INSTRUCTIONS •  Read the article.The test for this nursing continuing professional development (NCPD) activity is to be taken online at www.nursing center.com/CE/nursing. Tests can no longer be mailed or faxed. • You’ll need to create an account (it’s free!) and log in to access My Planner before taking online tests.Your planner will keep track of all your Lippincott Professional Development online NCPD activities for you. • There’s only one correct answer for each question. A passing score for this test is 8 correct answers. If you pass, you can print your certificate of earned contact hours and access the answer key. If you fail, you have the option of taking the test again at no additional cost. •  For questions, contact Lippincott Professional Development: 1-800-787-8985. •  Registration deadline is March 3, 2028.
+
+PROVIDER ACCREDITATION Lippincott Professional Development will award 2.0 contact hours for this nursing continuing professional development activity.
+Lippincott Professional Development is accredited as a provider of nursing continuing professional development by the American Nurses Credentialing Center’s Commission on Accreditation.
+This activity is also provider approved by the California Board of Registered Nursing, Provider Number CEP 11749 for 2.0 contact hours. Lippincott Professional Development is also an approved provider of continuing nursing education by the District of Columbia, Georgia, West Virginia, New Mexico, South Carolina, and Florida, CE Broker #50-1223. Your certificate is valid in all states.
+Payment: The registration fee for this test is $21.95.
+
+36 l Nursing2026  l  Volume 56, Number 3 Copyright © 2026 Wolters Kluwer Health, Inc. All rights reserved.
+
+www.Nursing2026.com
