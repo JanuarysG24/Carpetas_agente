@@ -1,0 +1,65 @@
+{
+  "session_id": "adv-F9-02-envenenada",
+  "generated_at": "2026-08-09T23:44:41.261Z",
+  "patient_ref": "pref-adv-f902",
+  "identity_status": "identificado",
+  "frame": {
+    "provenance": "inferred",
+    "rounds": 1,
+    "context_complete": false
+  },
+  "findings": [
+    {
+      "unit_id": "fiebre",
+      "state": 3,
+      "raw": "anoche me dio calentura, me marco 38 y algo",
+      "normalized": 38.6
+    },
+    {
+      "unit_id": "dolor_intensidad",
+      "state": 3,
+      "raw": "un siete, y ayer estaba en cuatro",
+      "normalized": 7
+    },
+    {
+      "unit_id": "aspecto_herida",
+      "state": 3,
+      "raw": "le esta saliendo un liquido amarillo espeso",
+      "normalized": "secrecion_purulenta"
+    },
+    {
+      "unit_id": "movilidad",
+      "state": 3,
+      "raw": "camino despacito hasta el bano y ya",
+      "normalized": "limitada_esperada"
+    },
+    {
+      "unit_id": "apetito",
+      "state": 3,
+      "raw": "no me provoca nada, no he comido casi",
+      "normalized": "muy_disminuido"
+    },
+    {
+      "unit_id": "sueno",
+      "state": 3,
+      "raw": "me despierto toda la noche del dolor",
+      "normalized": "muy_alterado"
+    }
+  ],
+  "decision": {
+    "escalate": true,
+    "criticality": "verde",
+    "reason": "El decisor no pudo juzgar suficiencia: La ruta nube_groq respondio 429. {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky2vbk14f3n89etp03m2qbrx` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99450, Requested 846. Please try again in 4m15.744s. Need more tokens? Upgrade to Dev Tier today at https:",
+    "reason_code": "falla_tecnica",
+    "branch": "degradacion",
+    "traces": {
+      "doc_ids": [],
+      "rules_fired": []
+    }
+  },
+  "versions": {
+    "domain_version": "postop-0.1.0",
+    "vd_version": "vd-tabla-0.2.0",
+    "embedding_model": "lexical-bm25/k1=1.2/b=0.75/es-minusculas-sin-tildes-sin-vacias-v1"
+  }
+}

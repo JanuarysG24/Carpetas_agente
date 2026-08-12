@@ -1,0 +1,37 @@
+{
+  "name": "@techsphere/adversarial",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Banco adversarial (WO-23b) — corpus de ataques y jueces de criterio contra la mision de ADR-020. Frente independiente: prueba, no arregla.",
+  "license": "MIT",
+  "exports": {
+    ".": {
+      "types": "./dist/src/index.d.ts",
+      "default": "./dist/src/index.js"
+    }
+  },
+  "main": "./dist/src/index.js",
+  "types": "./dist/src/index.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "build": "tsc -p tsconfig.json",
+    "test": "node --test \"test/**/*.test.ts\"",
+    "verify": "npm run typecheck && npm test",
+    "f9-02": "node scripts/correr-f9-02.mjs"
+  },
+  "comment:independencia": "El CORPUS se escribio contra la mision y la spec, sin leer conversational/ ni decision/, y se congelo en el commit 889abcc ANTES de que existiera adaptadores/en-vivo.mjs. Esa secuencia es la garantia de procedencia: un banco escrito mirando el codigo contiene exactamente los ataques que el codigo ya resiste. Las dependencias de capa las usa SOLO el adaptador, y solo por la superficie publica de src/index.ts. src/ y test/ dependen unicamente de los contratos.",
+  "dependencies": {
+    "@techsphere/contracts": "file:../contracts",
+    "@techsphere/decision": "file:../decision",
+    "@techsphere/deterministic": "file:../deterministic"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "typescript": "^5.9.3"
+  }
+}
