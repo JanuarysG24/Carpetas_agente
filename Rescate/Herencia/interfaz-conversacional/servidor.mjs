@@ -26,10 +26,27 @@ import {
   conducirTurno,
   crearMotorDeNube,
   elegirActo,
+  estaCerrada,
   iniciarSesion,
+  transcriptDigest,
   unidadesParaEntrega,
 } from "@techsphere/conversational";
-import { buildFrameGenerico, MODELOS_PERMITIDOS } from "@techsphere/decision";
+import {
+  AdaptadorNube,
+  AlmacenDeFuentes,
+  ArchivoDeSesiones,
+  buildFrameGenerico,
+  CanalDeAlerta,
+  cargarCorpusReal,
+  ConsolaDeConocimiento,
+  DecisionEngineNube,
+  IndiceLexico,
+  MODELOS_PERMITIDOS,
+  Orquestador,
+  SumideroDeResumenes,
+  UNIDADES_DEL_DOMINIO,
+} from "@techsphere/decision";
+import { cargarDominioDesdeArchivo, MotorDeterminista } from "@techsphere/deterministic";
 
 const AQUI = dirname(fileURLToPath(import.meta.url));
 const PUERTO = Number(process.env.PUERTO ?? 8787);
@@ -78,6 +95,87 @@ const motor = API_KEY
   : null;
 
 // ---------------------------------------------------------------------------
+// Capa de decisión — Paso 4: voz -> conversacional -> DECISIÓN -> voz.
+//
+// El conocimiento (almacén + índice BM25 + consola) NO necesita red ni
+// credencial: "sin credencial también arranca" (README §"Sin credencial").
+// Solo lo que habla con el modelo (Orquestador/DecisionEngineNube) queda
+// detrás del mismo guard que `motor`.
+// ---------------------------------------------------------------------------
+
+const dominio = cargarDominioDesdeArchivo(join(AQUI, "..", "docs", "dominio", "dominio-postop-v0.1.json"));
+const determinista = new MotorDeterminista(dominio);
+
+const almacen = new AlmacenDeFuentes();
+cargarCorpusReal(almacen);
+const rag = new IndiceLexico(almacen);
+
+// Compuerta 5: subir/retirar conocimiento en caliente, con el mismo índice
+// que consulta el decisor — ingerir aquí es lo que la siguiente consulta ve.
+const consola = new ConsolaDeConocimiento({ actor: "interfaz-conversacional", almacen, indice: rag });
+
+const archivo = new ArchivoDeSesiones(join(AQUI, "salidas", "sesiones"));
+const canal = new CanalDeAlerta();
+const sink = new SumideroDeResumenes(archivo, canal);
+
+const orq = API_KEY
+  ? new Orquestador({
+      rag,
+      expandir: (base, terminos) => rag.expandirConsulta(base, terminos),
+      determinista,
+      motor: new DecisionEngineNube(new AdaptadorNube({ ruta: "nube_groq", modelo: MODELO, api_key: API_KEY, timeout_ms: 45_000 })),
+      proyectar: (patient_ref) => ({ patient_ref, unit_ids: UNIDADES_DEL_DOMINIO, dia_postop: 7 }),
+      sink,
+      embedding_model: rag.descriptor(),
+    })
+  : null;
+
+const IDENTIDAD_DEMO = { status: "identificado", patient_ref: "pref-demo-local", speaker_role: "paciente" };
+
+function frameHealth(unidades) {
+  const abiertas = [...unidades.values()].filter((u) => u.spec.priority === "required" && !estaCerrada(u));
+  if (abiertas.length === 0) return null;
+  return Math.min(...abiertas.map((u) => u.state));
+}
+
+/**
+ * Cierra la sesión hacia la capa de decisión: arma `SessionState`, corre el
+ * bucle de suficiencia (mismo patrón que `decision/scripts/sesion-anotada.mjs`
+ * — el precedente ya verificado del propio repositorio) y devuelve la
+ * `Decision` + el `CallSummary` ensamblado por el orquestador.
+ */
+async function cerrarConDecision(estadoConv, sessionId, frameIdInicial, inicioMs) {
+  const units = unidadesParaEntrega(estadoConv);
+  const digest = transcriptDigest(estadoConv);
+  const sessionState = {
+    global: estadoConv.global_state,
+    frame_health: frameHealth(estadoConv.unidades),
+    retroactive_cycle: estadoConv.retroactive_cycle,
+    identity: estadoConv.identity,
+  };
+
+  let frameId = frameIdInicial;
+  let veredicto;
+  for (let round = 0; round <= 2; round++) {
+    veredicto = await orq.submitFrame({
+      session_id: sessionId,
+      frame_id: frameId,
+      round,
+      units,
+      session_state: sessionState,
+      transcript_digest: digest,
+      budget_spent: { turns: estadoConv.turno, ms: Date.now() - inicioMs },
+    });
+    if (veredicto.status === "sufficient") break;
+    frameId = veredicto.frame_delta.frame_id;
+  }
+
+  const decision = veredicto.status === "sufficient" ? veredicto.decision : null;
+  const resumen = archivo.leer(sessionId);
+  return { decision, resumen, rondas_decision: veredicto.status };
+}
+
+// ---------------------------------------------------------------------------
 // Voz -> texto. Whisper Large v3 en Groq (misma clave, misma ruta de nube):
 // es la unica pieza de la interfaz de voz que ya se puede cablear sin decidir
 // nada de TTS todavia. HTTP plano, sin SDK, igual que el resto del proyecto.
@@ -111,10 +209,22 @@ async function transcribir(bufferAudio, tipoMime) {
 
 let estado = null;
 let saludoInicial = null;
+let sessionId = null;
+let frameIdActual = null;
+let sessionStartMs = null;
 
 async function nuevaSesion() {
-  const sessionId = randomUUID();
-  const frame = buildFrameGenerico(sessionId);
+  sessionId = randomUUID();
+  sessionStartMs = Date.now();
+
+  // El mismo ContextFrame para las dos capas: si hay decisor, el frame sale
+  // de `orq.requestFrame` (unidades reales del caso + red_flags + política) en
+  // vez de `buildFrameGenerico` — es la costura conversacional<->decisión.
+  const frame = orq
+    ? await orq.requestFrame({ session_id: sessionId, identity: IDENTIDAD_DEMO })
+    : buildFrameGenerico(sessionId);
+  frameIdActual = frame.frame_id;
+
   let s = cargarMarco(iniciarSesion(sessionId), frame);
 
   // El agente es quien llama: abre la conversacion con un saludo fijo (determinista,
@@ -245,15 +355,42 @@ const servidor = createServer(async (req, res) => {
       estado = r.estado;
 
       let cerrado = false;
+      let urgente = false;
       if (estado.phase === "F5" && estado.red_flag) {
-        // Interrupcion prioritaria: aqui NO se invoca escalateNow (eso es de
-        // decision, fuera de alcance de esta prueba). Se cierra por corte con
-        // causa tipificada, que es lo que le corresponde a esta capa sola.
+        // Interrupcion prioritaria: se cierra por corte con causa tipificada
+        // en la conversacional, y la urgencia va a `escalateNow` en la
+        // decision (abajo) — ese SI es el camino correcto para decision,
+        // a diferencia del banco de pruebas original que se detenia aqui.
         estado = cerrarPendientesPorCorte(estado, "bloqueado_por_urgencia");
         cerrado = true;
+        urgente = true;
       } else if (estado.phase === "F5") {
         estado = cerrarPendientesPorCorte(estado, "interrumpido");
         cerrado = true;
+      }
+
+      let decisionResultado = null;
+      if (cerrado) {
+        if (!orq) {
+          decisionResultado = { error: "Sin GROQ_API_KEY no se puede consultar la capa de decisión (el resto de la llamada sí funcionó)." };
+        } else {
+          try {
+            if (urgente) {
+              const unidadesHastaAhora = unidadesParaEntrega(estado).filter((u) => u.extraction !== "suspendida");
+              const decision = await orq.escalateNow({
+                session_id: sessionId,
+                red_flag_id: estado.red_flag?.red_flag_id ?? "RF-desconocida",
+                utterance: estado.red_flag?.utterance ?? "",
+                units_so_far: unidadesHastaAhora,
+              });
+              decisionResultado = { decision, resumen: archivo.leer(sessionId), rondas_decision: "urgencia" };
+            } else {
+              decisionResultado = await cerrarConDecision(estado, sessionId, frameIdActual, sessionStartMs);
+            }
+          } catch (e) {
+            decisionResultado = { error: String(e?.message ?? e) };
+          }
+        }
       }
 
       return json(res, 200, {
@@ -263,8 +400,68 @@ const servidor = createServer(async (req, res) => {
         terminado: estado.phase === "F5",
         red_flag: estado.red_flag,
         cierre: cerrado ? unidadesParaEntrega(estado) : null,
+        decision: decisionResultado,
         estado: proyectarEstado(estado),
       });
+    }
+
+    // -----------------------------------------------------------------------
+    // Compuerta 5 — consola de conocimiento: aprende y olvida en caliente.
+    // No requiere GROQ_API_KEY: el índice y el almacén no tocan la red.
+    // -----------------------------------------------------------------------
+
+    if (req.method === "GET" && url.pathname === "/api/conocimiento/estado") {
+      return json(res, 200, consola.status());
+    }
+
+    if (req.method === "GET" && url.pathname === "/api/conocimiento/lista") {
+      return json(res, 200, { documentos: consola.list() });
+    }
+
+    if (req.method === "POST" && url.pathname === "/api/conocimiento/subir") {
+      const cuerpo = await leerCuerpo(req);
+      const { doc_id, title, kind, lang, origin, effective_date, body } = cuerpo;
+      if (!doc_id || !title || !kind || !body) {
+        return json(res, 400, { error: "Faltan campos obligatorios: doc_id, title, kind, body." });
+      }
+      try {
+        const recibo = consola.ingest({
+          doc_id,
+          title,
+          kind,
+          lang: lang || "es",
+          origin: origin || "subido desde la consola",
+          effective_date: effective_date || new Date().toISOString().slice(0, 10),
+          body,
+        });
+        return json(res, 200, recibo);
+      } catch (e) {
+        // El estandar de ingesta rechaza CON RAZON (sin capa de texto, datos de
+        // paciente, etc.) — ese mensaje es justo lo que la compuerta 5 exige mostrar.
+        return json(res, 400, { error: String(e?.message ?? e) });
+      }
+    }
+
+    if (req.method === "POST" && url.pathname === "/api/conocimiento/retirar") {
+      const { doc_id } = await leerCuerpo(req);
+      if (!doc_id) return json(res, 400, { error: "Falta doc_id." });
+      try {
+        consola.retire(doc_id);
+        return json(res, 200, { ok: true, doc_id });
+      } catch (e) {
+        return json(res, 400, { error: String(e?.message ?? e) });
+      }
+    }
+
+    if (req.method === "POST" && url.pathname === "/api/conocimiento/buscar") {
+      const { texto, k } = await leerCuerpo(req);
+      if (!texto) return json(res, 400, { error: "Falta 'texto'." });
+      try {
+        const resultados = rag.retrieve({ text: texto, k: k || 3 });
+        return json(res, 200, { resultados });
+      } catch (e) {
+        return json(res, 400, { error: String(e?.message ?? e) });
+      }
     }
 
     res.writeHead(404);

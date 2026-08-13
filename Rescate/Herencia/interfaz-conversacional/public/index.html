@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Prueba — Capa conversacional (voz)</title>
+<title>Source Meridian — Agente de voz post-operatorio</title>
 <style>
   :root { color-scheme: light; }
   * { box-sizing: border-box; }
@@ -49,12 +49,30 @@
   .unidad .detalle { margin-top: 4px; color: #555; }
   .unidad .detalle b { color: #111; }
   #bandera-roja { background: #ffe1e1; border: 1px solid #e88; border-radius: 10px; padding: 10px; margin-bottom: 12px; font-size: 13px; color: #a11; display: none; }
+  #columna-debug h2:not(:first-child) { margin-top: 20px; }
+  #decision { display: none; border-radius: 10px; padding: 12px; margin-bottom: 12px; font-size: 13px; border: 1px solid; }
+  #decision.verde { background: #eaf9ea; border-color: #3fb950; }
+  #decision.amarillo { background: #fff8e1; border-color: #d29922; }
+  #decision.rojo { background: #ffe1e1; border-color: #d9364f; }
+  #decision .criticidad { font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
+  #decision .reason { margin-top: 6px; color: #444; }
+  #decision .trazas { margin-top: 6px; font-size: 11.5px; color: #666; }
+  #conocimiento-estado { font-size: 12px; color: #666; margin-bottom: 8px; }
+  .doc-fila { display: flex; justify-content: space-between; align-items: center; background: #fff; border: 1px solid #e5e5e5; border-radius: 8px; padding: 6px 10px; margin-bottom: 6px; font-size: 12px; }
+  .doc-fila .doc-info { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .doc-fila.retired { opacity: .5; }
+  .doc-fila button { padding: 4px 10px; font-size: 11px; background: #eee; }
+  #form-subir { display: flex; flex-direction: column; gap: 6px; margin-top: 10px; background: #fff; border: 1px solid #e5e5e5; border-radius: 8px; padding: 10px; }
+  #form-subir input, #form-subir select, #form-subir textarea { padding: 6px 8px; border-radius: 6px; border: 1px solid #ccc; font-size: 12px; font-family: inherit; }
+  #form-subir textarea { min-height: 60px; resize: vertical; }
+  #form-subir button { background: #2f6feb; color: #fff; align-self: flex-start; }
+  #conocimiento-msg { font-size: 11.5px; margin-top: 6px; }
 </style>
 </head>
 <body>
   <div id="columna-chat">
     <div id="cabecera">
-      <h1>Prueba — capa conversacional, voz a voz (sin decisión ni RAG)</h1>
+      <h1>Source Meridian — seguimiento post-operatorio, voz a voz</h1>
       <span class="fase" id="fase">fase: —</span>
     </div>
     <div id="mensajes"></div>
@@ -73,7 +91,25 @@
   <div id="columna-debug">
     <h2>Estado interno (para verificar, no se muestra al paciente)</h2>
     <div id="bandera-roja"></div>
+    <div id="decision"></div>
     <div id="unidades"></div>
+
+    <h2>Conocimiento — compuerta 5 (aprende y olvida en caliente)</h2>
+    <div id="conocimiento-estado">—</div>
+    <div id="lista-documentos"></div>
+    <form id="form-subir">
+      <input id="docTitulo" placeholder="Título del documento" required>
+      <select id="docKind">
+        <option value="cuidados">cuidados</option>
+        <option value="procedimiento">procedimiento</option>
+        <option value="complicaciones">complicaciones</option>
+        <option value="farmacologia">farmacologia</option>
+        <option value="protocolo">protocolo</option>
+      </select>
+      <textarea id="docCuerpo" placeholder="Pegue el texto del documento aquí…" required></textarea>
+      <button type="submit">Subir e indexar</button>
+    </form>
+    <div id="conocimiento-msg"></div>
   </div>
 
 <script>
@@ -86,6 +122,11 @@ const $unidades = document.getElementById("unidades");
 const $banderaRoja = document.getElementById("bandera-roja");
 const $microfono = document.getElementById("microfono");
 const $estadoVoz = document.getElementById("estado-voz");
+const $decision = document.getElementById("decision");
+const $conocimientoEstado = document.getElementById("conocimiento-estado");
+const $listaDocumentos = document.getElementById("lista-documentos");
+const $formSubir = document.getElementById("form-subir");
+const $conocimientoMsg = document.getElementById("conocimiento-msg");
 
 // ---------------------------------------------------------------------------
 // Chat + panel de estado
@@ -127,6 +168,95 @@ function pintarUnidades(estado) {
     $unidades.appendChild(div);
   }
 }
+
+// ---------------------------------------------------------------------------
+// Decisión — Paso 4: lo que devuelve la capa de decisión al cerrar la llamada.
+// ---------------------------------------------------------------------------
+
+function pintarDecision(decisionResultado) {
+  if (!decisionResultado) return;
+  $decision.style.display = "block";
+  if (decisionResultado.error) {
+    $decision.className = "rojo";
+    $decision.innerHTML = `<div class="criticidad">Decisión no disponible</div><div class="reason">${decisionResultado.error}</div>`;
+    return;
+  }
+  const d = decisionResultado.decision;
+  if (!d) {
+    $decision.className = "amarillo";
+    $decision.innerHTML = `<div class="criticidad">Sin decisión (rondas agotadas)</div>`;
+    return;
+  }
+  $decision.className = d.criticality;
+  $decision.innerHTML = `
+    <div class="criticidad">${d.criticality} — ${d.escalate ? "ESCALA a personal" : "no escala"}</div>
+    <div class="reason">${d.reason}</div>
+    <div class="trazas">reason_code: <code>${d.reason_code}</code> · rules_fired: ${d.traces.rules_fired.map((x) => `<code>${x}</code>`).join(", ") || "—"} · doc_ids: ${d.traces.doc_ids.map((x) => `<code>${x}</code>`).join(", ") || "—"}</div>
+    <div class="reason" style="margin-top:8px"><b>Al paciente:</b> "${d.say_to_patient}"</div>
+  `;
+}
+
+// ---------------------------------------------------------------------------
+// Conocimiento — compuerta 5: subir y retirar documentos en caliente.
+// ---------------------------------------------------------------------------
+
+async function cargarConocimiento() {
+  try {
+    const [estado, lista] = await Promise.all([
+      fetch("/api/conocimiento/estado").then((r) => r.json()),
+      fetch("/api/conocimiento/lista").then((r) => r.json()),
+    ]);
+    $conocimientoEstado.textContent = `${estado.docs} documentos · ${estado.chunks} fragmentos · ${estado.embedding_model}`;
+    $listaDocumentos.innerHTML = "";
+    for (const doc of lista.documentos) {
+      const fila = document.createElement("div");
+      fila.className = "doc-fila" + (doc.status === "retired" ? " retired" : "");
+      fila.innerHTML = `<span class="doc-info"><b>${doc.title}</b> · ${doc.kind} · ${doc.status}</span>`;
+      if (doc.status !== "retired") {
+        const btn = document.createElement("button");
+        btn.textContent = "Retirar";
+        btn.onclick = () => retirarDocumento(doc.doc_id);
+        fila.appendChild(btn);
+      }
+      $listaDocumentos.appendChild(fila);
+    }
+  } catch (e) {
+    $conocimientoEstado.textContent = "No se pudo cargar (¿está corriendo el servidor?).";
+  }
+}
+
+async function retirarDocumento(doc_id) {
+  const r = await fetch("/api/conocimiento/retirar", {
+    method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ doc_id }),
+  }).then((r) => r.json());
+  $conocimientoMsg.textContent = r.ok ? `Retirado: ${doc_id}. Ya no se recupera.` : "Error: " + r.error;
+  await cargarConocimiento();
+}
+
+$formSubir.addEventListener("submit", async (ev) => {
+  ev.preventDefault();
+  const title = document.getElementById("docTitulo").value.trim();
+  const kind = document.getElementById("docKind").value;
+  const body = document.getElementById("docCuerpo").value.trim();
+  if (!title || !body) return;
+  const doc_id = "consola-" + title.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9]+/g, "-").slice(0, 60) + "-" + Date.now().toString(36);
+  $conocimientoMsg.textContent = "Subiendo…";
+  try {
+    const r = await fetch("/api/conocimiento/subir", {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ doc_id, title, kind, body }),
+    }).then((r) => r.json());
+    if (r.error) {
+      $conocimientoMsg.textContent = "Rechazado: " + r.error;
+    } else {
+      $conocimientoMsg.textContent = `Ingerido: ${r.doc_id} (${r.chunks} fragmentos). Ya se puede recuperar.`;
+      $formSubir.reset();
+    }
+  } catch (e) {
+    $conocimientoMsg.textContent = "Error de red al subir.";
+  }
+  await cargarConocimiento();
+});
 
 // ---------------------------------------------------------------------------
 // Texto -> voz (TTS). Voz del sistema operativo por ahora — es lo que el
@@ -267,6 +397,7 @@ function diagnosticarRed(e) {
 
 async function iniciar() {
   $mensajes.innerHTML = "";
+  $decision.style.display = "none";
   if (location.protocol === "file:") {
     agregarMensaje(diagnosticarRed(null), "sistema");
     return;
@@ -312,6 +443,10 @@ async function enviarTexto(texto, esVoz) {
       );
     }
     if (r.terminado) agregarMensaje("— la sesión terminó: se cerró todo lo pendiente por corte —", "sistema");
+    if (r.decision) {
+      pintarDecision(r.decision);
+      if (r.decision.decision) agregarMensaje(r.decision.decision.say_to_patient, "sistema");
+    }
     pintarUnidades(r.estado);
   } catch (e) {
     agregarMensaje(diagnosticarRed(e), "sistema");
@@ -336,6 +471,7 @@ $texto.addEventListener("keydown", (e) => { if (e.key === "Enter") enviarDesdeTe
 $reiniciar.addEventListener("click", iniciar);
 
 iniciar();
+cargarConocimiento();
 </script>
 </body>
 </html>

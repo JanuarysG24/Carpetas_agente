@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@techsphere/conversational": "file:../conversational",
-    "@techsphere/decision": "file:../decision"
+    "@techsphere/decision": "file:../decision",
+    "@techsphere/deterministic": "file:../deterministic"
   }
 }
